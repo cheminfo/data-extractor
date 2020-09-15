@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010126</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00126</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Bioadhesive Properties of Gantrez Nanoparticles</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Irache</surname>
+            <given-names>Juan M.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00126" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Huici</surname>
+            <given-names>Mar&#xED;a</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Konecny</surname>
+            <given-names>Monica</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Espuelas</surname>
+            <given-names>Socorro</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Campanero</surname>
+            <given-names>Miguel Angel</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Arbos</surname>
+            <given-names>Pau</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00126">Centro Gal&#xE9;nico, Universidad de Navarra, 31080 &#x2013; Pamplona (Spain). Tel: (+34) 948 425600 x 6478, Fax: (+34) 948 425649.</aff>
+      <author-notes>        
+        <corresp id="c1-molecules-10-00126"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>jmirache@unav.es</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>126</fpage>
+      <lpage>145</lpage>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>06</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>06</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>						
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>						
+      <abstract>
+        <p>Bioadhesive nanoparticles have been proposed as carriers for the oral delivery of poorly available drugs and facilitate the use of this route. This work summarises some experiments describing the bioadhesive potential of Gantrez nanoparticles fluorescently labeled with rhodamine B isothiocyanate. The adhesive potential of Gantrez was found to be stronger when folded as nanoparticles than in the solubilised form. Conventional nanoparticles displayed a tropism for the upper areas of the gastrointestinal tract, with a maximum of adhesion 30 min post-administration and a decrease in the adhered fraction along the time depending on the given dose. The cross-linkage of nanoparticles with increasing amounts of 1,3-diaminopropane stabilised the resulting carriers and prolonged their half-life in an aqueous environment; although, the adhesive capacity of nanoparticles, the intensity and the relative duration of the adhesive interactions within the gut as a function of the cross-linking degree. Finally, nanoparticles were coated with either gelatin or albumin. In the first case, the presence of gelatin dramatically decreased the initial capacity of these carriers to interact with the gut mucosa and the intensity of these phenomenons. In the latter, bovine serum albumin coated nanoparticles (BSA-NP) showed an important tropism for the stomach mucosa without further significant distribution to other parts of the gut mucosa.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>nanoparticles</kwd>
+		<kwd>bioadhesion</kwd>
+		<kwd>Gantrez</kwd>
+		<kwd>oral administration</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The oral route is one of the preferred ways for drug delivery. However, a large amount of drugs remain poorly available when administered by this route. Among other reasons, this fact can be related to: (i) a low mucosal permeability for the given drug (usually observed for hydrophilic drugs); (ii) a low solubility or a low dissolution rate in the mucosal fluids, which results in its elimination from the alimentary canal prior to absorption (quite common for lipophilic drugs); (iii) a drug permeability restricted to a region of the gut (drugs with an absorption window) or (iv), a lack of stability within the gut (i.e. oligonucleotides, peptides and plasmids).</p>
+      <p>One possible strategy to overcome or minimise these drawbacks and, thus, improve drug absorption or action may be the use of biodegradable nanoparticles with bioadhesive properties. Nanoparticles are solid colloidal particles ranging in size from about 10 to 1000 nm [<xref ref-type="bibr" rid="B1-molecules-10-00126">1</xref>]. Depending on the method of preparation, nanospheres or nanocapsules can be obtained. Nanocapsules are vesicular systems in which the drug is confined to a cavity surrounded by a unique polymer membrane, while nanospheres are matrix systems in which the drug is physically and uniformly dispersed [<xref ref-type="bibr" rid="B2-molecules-10-00126">2</xref>]. </p>
+      <p>Drugs, whose oral bioavailability was improved by means of their loading into these carriers include vincamine [<xref ref-type="bibr" rid="B3-molecules-10-00126">3</xref>], insulin [<xref ref-type="bibr" rid="B4-molecules-10-00126">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00126">5</xref>], salmon calcitonin [<xref ref-type="bibr" rid="B6-molecules-10-00126">6</xref>], furosemide [<xref ref-type="bibr" rid="B7-molecules-10-00126">7</xref>], avarol [<xref ref-type="bibr" rid="B8-molecules-10-00126">8</xref>], dicumarol [<xref ref-type="bibr" rid="B9-molecules-10-00126">9</xref>], nifedipine [<xref ref-type="bibr" rid="B10-molecules-10-00126">10</xref>], plasmids [<xref ref-type="bibr" rid="B11-molecules-10-00126">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00126">12</xref>] and 5-fluorouridine [<xref ref-type="bibr" rid="B13-molecules-10-00126">13</xref>].</p>
+      <p>When a suspension of nanoparticles is administered by the oral route, the particles may interact with the gastrointestinal surface and develop adhesive bonds with different components of the mucosa. These nanoparticles would be immobilised at the gastrointestinal surface by an adhesion mechanism, which is referred to as &#x201C;bioadhesion&#x201D;. However, when these adhesive interactions are restricted to the mucus layer lining the mucosal surface, the term &#x201C;mucoadhesion&#x201D; is also employed. All of these adhesive phenomena may result in either: (i) an increase of the residence time of the pharmaceutical dosage form in close contact with the mucosa, or (ii) a localization of the delivery system in a particular region of the gut (<xref ref-type="fig" rid="molecules-10-00126-f001">Figure 1</xref>). </p>
+      <fig id="molecules-10-00126-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Illustration representing the interaction of nanoparticles with the gut mucosa.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00126-g001.tif"/>
+      </fig>
+      <p>Once adhered to the gut mucosa, these carriers would promote the absorption of the given drug and its transport to the systemic circulation by a multiple mechanism involving protection of the loaded drug against degradation and establishment of a drug concentration gradient from the drug carrier (nanoparticle) towards the absorptive membrane.</p>
+      <p>The first reported study, concerning the description of the bioadhesive properties of nanoparticles, was described by the oral administration of radiolabelled poly(hexyl cyanoacrylate) nanoparticles to mice. The whole-body autoradiography showed that, 30 min after the oral administration of these nanoparticles, they were exclusively localized in the stomach. After 4 h, a large quantity of radioactivity was found in the intestine in the form of clusters without any evidence of accumulation at specific intestinal sites [<xref ref-type="bibr" rid="B14-molecules-10-00126">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00126">15</xref>]. Also a mucoadhesion profile was described after intragastric administration of micron-range <sup>14</sup>C radiolabelled poly(lactic acid) microspheres to rats [<xref ref-type="bibr" rid="B16-molecules-10-00126">16</xref>]. The time necessary for the detachment of half of the adherent particles has been estimated to be 1.4 h [<xref ref-type="bibr" rid="B16-molecules-10-00126">16</xref>]. This value is in the range of the estimated time for complete renewal of the intestinal mucus gel layer. In fact, the turnover time of the intestinal mucus layer is in the order of 90-240 min [<xref ref-type="bibr" rid="B17-molecules-10-00126">17</xref>]. This rapid renewal also results in the formation of shed-off mucus in the luminal content. All together, lead to a reduction of the contact time of the particles with the mucus layer. </p>
+      <p>However, the intensity of the adhesive interactions with the mucosa and the fraction of the particles able to adhere to the biological surface appear to be mainly dependent on the physico-chemical properties of the colloidal drug delivery system. Among other properties, the particle size and the surface characteristics of the carriers strongly modulate the transit and adhesion within the gastrointestinal tract. </p>
+      <p>Particle size is a critical parameter that will ultimately control diffusion through the mucus gel layer. In principle, a small particle size may dramatically prolong the residence time of the pharmaceutical dosage form in the gastrointestinal tract, due to an important decrease on the influence of the intestinal clearance mechanisms and the high increase on the specific surface able to interact with the biological support [<xref ref-type="bibr" rid="B18-molecules-10-00126">18</xref>]. Studies using cystic fibrosis sputum demonstrated that the largest spheres studied, of 560 nm diameter were almost completely blocked, while 124 nm nanoparticles were able to permeate this barrier [<xref ref-type="bibr" rid="B19-molecules-10-00126">19</xref>]. In the gastrointestinal tract, a number of investigators have shown the translocation of much larger particles [<xref ref-type="bibr" rid="B20-molecules-10-00126">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00126">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00126">22</xref>]. According to these results, there is a size exclusion phenomenon on the absorption of particulates through the intestinal wall. It is suggested that small (submicron) particles are absorbed and transported via the intracellular or paracellular pathway through the enterocytes, while larger particles (micron range) are absorbed almost exclusively by M cells of Peyer&#x2019;s patches [<xref ref-type="bibr" rid="B23-molecules-10-00126">23</xref>,<xref ref-type="bibr" rid="B24-molecules-10-00126">24</xref>]. The phenomenon of particulate movement through the mucus layer has possibly been studied most intensively in relation to bacterial movement particularly by the pioneering works of Freter <italic>et al.</italic> [<xref ref-type="bibr" rid="B25-molecules-10-00126">25</xref>] and Berg [<xref ref-type="bibr" rid="B26-molecules-10-00126">26</xref>] who have, respectively, shown over the past two decades the movement of micron sized latex particles through the mucus and into mesentery lymph nodes in mice. </p>
+      <p>In the last years the research of new biomaterials for the preparation of nanoparticles has reached a great interest. Ideally, the material used to prepare the drug carrier has to be able to carry and control the release of the loaded drug and, also, it has to possess functional groups to modify or decorate the surface of nanoparticles. This last characteristic is the key point to design new nanoparticles with specific distribution within the mucosa. All of these prerequisites limit the number of polymers and macromolecules, which can be used to prepare nanoparticles with bioadhesive properties.</p>
+      <p>Recently, the copolymer between methyl vinyl ether and maleic anhydride (PVM/MA; <xref ref-type="fig" rid="molecules-10-00126-f002">Figure 2</xref>) has been proposed as a new material to prepare bioadhesive nanoparticles for oral drug delivery [<xref ref-type="bibr" rid="B27-molecules-10-00126">27</xref>]. The different copolymers (commercialised as Gantrez&#x2122; from ISP, USA), are widely employed for pharmaceutical applications as denture adhesives, thickening and suspending agents and as adjuvants for the preparation of transdermal patches. In addition the ester derivatives are also employed as film-coating agents.  The oral toxicity of all of these polymers are quite low (i.e. for Gantrez&#xAE; AN the LD<sub>50</sub> in guinea pigs is about 8-9 g/kg per os). </p>
+      <fig id="molecules-10-00126-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Chemical structure of Gantrez AN or poly(methylvinylether-co-maleic anhydride).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00126-g002.tif"/>
+      </fig>
+    </sec>
+    <sec>
+      <title>Preparation and characterization of Gantrez nanoparticles</title>
+      <p>PVM/MA nanoparticles were prepared by a solvent displacement method [<xref ref-type="bibr" rid="B27-molecules-10-00126">27</xref>]. For this purpose the copolymer (Gantrez AN 119) was dissolved in acetone and desolvated by the addition of a hydroalcoholic phase under magnetic stirring. The organic solvents were eliminated under reduced pressure and the resulting aqueous suspension of nanoparticles was purified by centrifugation and lyophilised using sucrose as cryoprotector (<xref ref-type="fig" rid="molecules-10-00126-f003">Figure 3</xref>). </p>
+      <p>In aqueous medium, these nanoparticles (NP) can be dissolved quite rapid. In fact, their complete dissolution in pure water takes less than 24 h. In order to increase their stability in biological mediums, one possibility consist on the cross-linkage of these carriers. For this purpose, the freshly prepared nanoparticles were hardened by incubation at room temperature for 5 min with increasing amounts of 1,3-diaminopropane (from 5 to 30 &#x3BC;g/mg bulk polymer), before purification and lyophilisation. These nanoparticles were called DP5-NP, DP10-NP and DP30-NP. </p>
+      <p>On the other hand, in an aqueous environment, this copolymer can also easily react with molecules containing amino residues. This property was used to coat these nanoparticles. For this purpose, the just prepared carriers were incubated for 2 h at room temperature with either bovine serum albumin (BSA) or gelatin (G). Then the coated nanoparticles (BSA-NP and G-NP) were purified by centrifugation and freeze-dried as described before. For <italic>in vivo</italic> experiments, all the nanoparticle batches were fluorescently labelled with rhodamine B isothiocyanate (RBITC).  This marker was added before the purification step as shown the scheme of <xref ref-type="fig" rid="molecules-10-00126-f003">Figure 3</xref>. </p>
+      <fig id="molecules-10-00126-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>Illustration of the preparative process of Gantrez AN nanoparticles. The drug (or the fluorescent marker) can be added in different steps of the process.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00126-g003.tif"/>
+      </fig>
+      <p><xref ref-type="table" rid="molecules-10-00126-t001">Table 1</xref> summarises the main physico-chemical characteristics of the different nanoparticles tested in this study. In all cases, the yield of the described process was calculated to be of about 73.8&#xB1;2.6 % of the copolymer transformed into nanoparticles. </p>
+      <table-wrap id="molecules-10-00126-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00126-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Physico-chemical characteristics of Gantrez nanoparticles (n=6). NP: conventional nanoparticles; D5-NP, D10-NP and D30-NP: cross-linked nanoparticles with DP; Gantrez-sol: aqueous solution of the copolymer which was obtained after the complete dissolution of NP in water.</p>
+        </caption>
+         <table rules="all" style="border:solid thin">
+           <thead>
+            <tr>
+              <th align="left" valign="middle"> </th>
+              <th align="center" valign="middle">Size<break/>(nm)</th>
+              <th align="center" valign="middle">Zeta potential (mV)</th>
+              <th align="center" valign="middle">RBITC content (&#x3BC;g/mg)</th>
+              <th align="center" valign="middle">Protein bound &#x3BC;g/mg)</th>
+           </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle">
+                <bold>Gantrez-sol</bold>
+              </td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">9.95 &#xB1; 0.45</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">
+                <bold>NP</bold>
+              </td>
+              <td align="center" valign="middle">279 &#xB1; 1</td>
+              <td align="center" valign="middle">-41.1 &#xB1; 0.5</td>
+              <td align="center" valign="middle">10.33 &#xB1; 0.87</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">
+                <bold>DP5-NP</bold>
+              </td>
+              <td align="center" valign="middle">289 &#xB1; 5</td>
+              <td align="center" valign="middle">-39.0 &#xB1; 1.8</td>
+              <td align="center" valign="middle">10,29 &#xB1; 0.65</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">
+                <bold>DP10-NP</bold>
+              </td>
+              <td align="center" valign="middle">288 &#xB1; 4</td>
+              <td align="center" valign="middle">-34.8 &#xB1; 0.5</td>
+              <td align="center" valign="middle">10.04 &#xB1; 0.38</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">
+                <bold>DP30-NP</bold>
+              </td>
+              <td align="center" valign="middle">307 &#xB1; 9</td>
+              <td align="center" valign="middle">-28.0 &#xB1; 1.8</td>
+              <td align="center" valign="middle">3.60 &#xB1; 0.03</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">
+                <bold>BSA-NP</bold>
+              </td>
+              <td align="center" valign="middle">315 &#xB1; 7</td>
+              <td align="center" valign="middle">-40.7 &#xB1; 0.5</td>
+              <td align="center" valign="middle">13.77 &#xB1; 0.10</td>
+              <td align="center" valign="middle">337 &#xB1; 15</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">
+                <bold>G-NP</bold>
+              </td>
+              <td align="center" valign="middle">317 &#xB1; 9</td>
+              <td align="center" valign="middle">-27.2 &#xB1; 0.8</td>
+              <td align="center" valign="middle">9.29 &#xB1; 0.09</td>
+              <td align="center" valign="middle">267 &#xB1; 11</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>Conventional nanoparticles (NP; neither cross-linked nor coated with proteins) displayed a size close to 280 nm, were negatively charged and the amount of RBITC incorporated in these carriers was calculated to be about 10 &#x3BC;g per mg nanoparticle (see <xref ref-type="table" rid="molecules-10-00126-t001">Table 1</xref>). The cross-linkage of NP with 1,3-diaminopropane (DP) slightly modified the size of the resulting carriers. However, the zeta potential significantly decreased as function of the cross-linker used to harden the carriers (from &#x2013;39 mV to &#x2013;29 mV for nanoparticles cross-linked with 5 &#x3BC;g/mg and 30 &#x3BC;g/mg, respectively). </p>
+      <p>The coating of nanoparticles with either albumin or gelatin yielded nanoparticles with a higher size (around 320 nm) and a protein content of about 300 &#x3BC;g/mg. For G-NP, the zeta potential of these nanoparticles was found to be 2-fold less negative than for NP. Concerning the RBITC loading, only BSA-NP and DP30-NP showed a significantly different value than that obtained for conventional nanoparticles. For BSA-NP, the RBITC loading was about 30% higher than for NP. This is in consistence with Schreiber and Haimovich, who described a stronger and non-labile interaction between RBITC and albumin by incubation in aqueous media [<xref ref-type="bibr" rid="B28-molecules-10-00126">28</xref>]. On the contrary, the cross-linkage of nanoparticles with high amounts of DP (30 &#x3BC;g/mg), dramatically decreased the incorporation of RBITC to the carriers. This fact can be due to the higher affinity of the anhydride groups of the copolymer to react with the cross-linker agent rather than with the isothiocyanate residues of RBITC. In fact, isothiocyanates can also react with carboxylic groups but need stronger conditions (i.e. acidic pHs) than primary amines or hydroxyl residues [<xref ref-type="bibr" rid="B29-molecules-10-00126">29</xref>].</p>
+    </sec>
+    <sec>
+      <title>Studies of bioadhesion</title>
+      <p>For <italic>in vivo</italic> studies, the different formulations were orally administered to laboratory animals. At different times, the animals were sacrificed and the gastrointestinal tract removed. Then, the gut was cut and divided in six regions: stomach, 4 small intestine portions (I1, I2, I3 and I4) and caecum. Each mucosa segment was opened lengthwise along the mesentery and rinsed with saline in order to eliminate the non-interacted nanoparticles. The mucosa segments, contained the adhered nanoparticle fractions, were digested with NaOH 3M for 24h. Finally, the fluorescent marker was extracted with methanol and assayed for RBITC content by spectrofluorimetry. </p>
+      <p>These data enabled us to estimate the fraction of nanoparticles adhered to the mucosa and perform the profile of bioadhesion for the different formulations tested. In addition, for each formulation, the total adhered fraction in the whole gastrointestinal tract was plotted versus time and, from these curves, the parameters of bioadhesion (Q<sub>max</sub>, AUC<sub>adh</sub>, k<sub>adh</sub> and MRT<sub>adh</sub>) estimated as described previously [<xref ref-type="bibr" rid="B30-molecules-10-00126">30</xref>,<xref ref-type="bibr" rid="B31-molecules-10-00126">31</xref>]. Q<sub>max</sub> was defined as the maximal amount of nanoparticles adhered to the gut surface and is related with the capacity of the material to develop adhesive interactions. T<sub>max</sub> (h), is the time at which the particles showed the maximal adhesion within the gut. k<sub>adh</sub> was defined as the terminal elimination rate of the adhered fraction with the gastrointestinal mucosa. The AUC<sub>adh</sub> or the area under the curve of bioadhesion was evaluated by means of the trapezoidal rule up to t<sub>z</sub>, which denoted the last sampling point, and permitted to quantify the intensity of the bioadhesive phenomenon. Finally, MRT<sub>adh</sub> is the mean residence time of the adhered fraction of nanoparticles in the mucosa (estimated from time 0 to 8 h) and evaluates the relative duration of the adhesive interactions. All of these parameters were calculated using the WinNonlin 1.5 software.</p>
+      <sec>
+        <title>Influence of the conformation of the copolymer on the bioadhesive properties of Gantrez nanoparticles</title>
+        <p>In order to evaluate the capacity of Gantrez AN as a bioadhesive polymer, 10 mg of either an aqueous solution of the copolymer (Gantrez-sol) or in the form of nanoparticles (NP), were administered by the oral route to laboratory animals. <xref ref-type="fig" rid="molecules-10-00126-f004">Figure 4</xref> shows the profile of bioadhesion for both formulations. </p>
+        <fig id="molecules-10-00126-f004" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>Evolution of the adhered fraction of Gantrez in either a folded shape as nanoparticles or dissolved in an aqueous solution after the oral administration of 1 mL aqueous dispersion containing 10 mg copolymer. Each value represents the mean of the results of four experiments. Plot: x-axis represents the adhered fraction (mg); y-axis represents the different gut segments (Sto: stomach; I1, I2, I3, I4: small intestinal segments; Ce: caecum); z-axis represents the time post-administration (0.5, 1, 3 and 8 h).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00126-g004.tif"/>
+        </fig>
+        <p>During the first three hours (after the oral administration of the different formulations), NP displayed a tropism for the upper areas of the gastrointestinal tract, mainly the stomach and jejunum (I2 segment). However, 8 h post- administration, the amount of carriers remained adhered to the gut appeared to be quite low and less than 5% of the given dose was found adhered to the mucosa (mainly in the caecum). For Gantrez-sol,  the adhered fractions were quite low and, only at 3 h post-administration, a significant amount of nanoparticles were found adhered to the illeum (about 10% of the given dose). <xref ref-type="fig" rid="molecules-10-00126-f005">Figure 5</xref> represents the curves of bioadhesion and the related parameters of bioadhesion are summarised in <xref ref-type="table" rid="molecules-10-00126-t002">Table 2</xref>. </p>
+        <fig id="molecules-10-00126-f005" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>Curves of bioadhesion for NP and Gantrez-sol, after a single oral administration of 10 mg.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00126-g005.tif"/>
+        </fig>
+        <p>From these results it is clear that the adhesive potential of the copolymer between methylvinyl ether and maleic anhydride appears to be much stronger when folded as nanoparticles than in the solubilised or expanded form.  </p>
+        <table-wrap id="molecules-10-00126-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00126-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Parameters of bioadhesion for NP and Gantrez-sol.</p>
+          </caption>
+           <table  rules="all" style="border:solid thin">
+            <thead>
+             <tr>
+              <th align="center" valign="top"> </th>
+              <th align="center" valign="top">Q<sub>max</sub><break/>(mg)</th>
+              <th align="center" valign="top">AUC<sub>adh </sub><break/>(mg h)</th>
+              <th align="center" valign="top">k<sub>adh</sub><break/>(h<sup>-1</sup>)</th>
+              <th align="center" valign="top">MRT<sub>adh</sub><break/>(h)</th>
+             </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>Gantrez-sol</bold>
+                </td>
+                <td align="center" valign="middle">1.53 &#xB1; 0.17</td>
+                <td align="center" valign="middle">7.12</td>
+                <td align="center" valign="middle">0.28 &#xB1; 0.04</td>
+                <td align="center" valign="middle">3.13</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>NP</bold>
+                </td>
+                <td align="center" valign="middle">3.64 &#xB1; 0.34</td>
+                <td align="center" valign="middle">10.49</td>
+                <td align="center" valign="middle">0.29 &#xB1; 0.03</td>
+                <td align="center" valign="middle">3.41</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The aqueous solution of the copolymer displayed a low initial capacity to interact with the mucosa; although, a similar amount of RBITC was recovered in the gut mucosa 3 h post-administration. The maximal amounts of particles adhered to the mucosa (Q<sub>max</sub>) were about 2.3-times higher for NP than for the copolymer dissolved in water. Similarly, the AUC<sub>adh</sub> significantly increased (about 1.5-times) when the copolymer was folded as nanoparticles. These results are in agreement with previous studies suggesting that the nanoparticle form would facilitate both the initial contact and the establishment of adhesive interactions between the pharmaceutical dosage form and the components of the mucosa [<xref ref-type="bibr" rid="B18-molecules-10-00126">18</xref>,<xref ref-type="bibr" rid="B32-molecules-10-00126">32</xref>]. However, regarding k<sub>adh</sub> and MRT<sub>adh</sub>, a similar mechanism of elimination from the mucosa affected both formulations. Due to the fact that conventional nanoparticles (non-coated or/and non-hardened) are rapidly hydrolised in aqueous mediums, it is possible to speculate that nanoparticles are converted to the Gantrez-sol formulation and then removed from the mucosa  by the mucus-turnover mechanism.</p>
+      </sec>
+      <sec>
+        <title>Influence of the dose of nanoparticles on their bioadhesive properties</title>
+        <p>Another interesting factor influencing the bioadhesive properties of nanoparticles and their ability to establish adhesive interactions with a biological support deals with the amount of carriers administered by the oral route. Bioadhesion of nanoparticles to rat intestinal tissue was studied by Durrer and co-workers [<xref ref-type="bibr" rid="B33-molecules-10-00126">33</xref>,<xref ref-type="bibr" rid="B34-molecules-10-00126">34</xref>,<xref ref-type="bibr" rid="B35-molecules-10-00126">35</xref>]. In these works, adsorption isotherms were performed under near-equilibrium conditions. The shape of the isotherms for poly(styrene) nanoparticles was found to be dependent on a particle size threshold. For nanoparticles up to 670 nm, the isotherm consisted in a linear increase in adsorbed amounts up to a plateau which was reached suddenly, indicating a saturation of the mucus layer by the particles. For poly(isobutyl cyanoacrylate) nanoparticles, the adsorption isotherms  showed a lower slope of the linear segments of the isotherms than for polystyrene latex, suggesting a lower affinity of poly(isobutyl cyanoacrylate) nanoparticles for the rat intestinal mucosa compared to polystyrene particles in the same size range [<xref ref-type="bibr" rid="B36-molecules-10-00126">36</xref>,<xref ref-type="bibr" rid="B37-molecules-10-00126">37</xref>]. In both cases, isotherms had the characteristic isotherm shape of adsorbates which penetrate into a porous adsorbent. In this situation, the linear increase of the isotherm corresponds to the creation of new adsorption sites when the bulk particle concentration is increased. Those sites are available for further adsorption up to the isotherm plateau which corresponds to a saturation of the available sites. The possibility of a diffusion of particles into the mucus layer has been demonstrated by diffusion studies [<xref ref-type="bibr" rid="B38-molecules-10-00126">38</xref>] and microscopy [<xref ref-type="bibr" rid="B5-molecules-10-00126">5</xref>,<xref ref-type="bibr" rid="B39-molecules-10-00126">39</xref>]. </p>
+        <fig id="molecules-10-00126-f006" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p>Evolution of the adhered fraction of Gantrez nanoparticles as a function of the given dose (2.5 mg nanoparticles: NP-2.5; 5 mg: NP-5; 10 mg: NP-10 and 15 mg: NP-15). Each value represents the mean of the results of four experiments. Plot: x-axis represents the adhered fraction (mg); y-axis represents the different gut segments (Sto: stomach; I1, I2, I3, I4: small intestinal segments; Ce: caecum); z-axis represents the time post-administration (0.5, 1, 3 and 8 h).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00126-g006.tif"/>
+        </fig>
+        <p>Confocal microscopy studies by Scherrer <italic>et al</italic>. [<xref ref-type="bibr" rid="B39-molecules-10-00126">39</xref>] have shown that fluorescently labelled poly(isobutyl cyanoacrylate) particles (211 nm in diameter) could penetrate at least 60 &#x3BC;m deep into the mucus layer of rat intestine mucosal fragments. Alternatively, 200-nm nanoparticles have been observed in close contact with the absorptive membrane of the gastrointestinal tract a short time after their oral administration to rats [<xref ref-type="bibr" rid="B5-molecules-10-00126">5</xref>,<xref ref-type="bibr" rid="B31-molecules-10-00126">31</xref>].</p>
+        <p><xref ref-type="fig" rid="molecules-10-00126-f006">Figure 6</xref> shows the evolution of the bioadhesive profile of Gantrez nanoparticles as a function of the given dose. For doses lower than 10 mg nanoparticles, the profiles were quite similar with peaks of maximal adhesion in the stomach and in the intermediate segments of the small intestine. For the high dose of nanoparticles (15 mg), the maximal adhesion was found in the I2 and I3 segments (<xref ref-type="fig" rid="molecules-10-00126-f006">Figure 6</xref>). Under these conditions, it is possible to think that the mucosa would be saturated with nanoparticles and no more available sites were free to increase the amount of adhered particles. </p>
+        <p>On the other hand, the study of the curves of bioadhesion (<xref ref-type="fig" rid="molecules-10-00126-f007">Figure 7</xref>) confirmed the influence of the dose of nanoparticles on their adhesion to the gut mucosa. Therefore, at low doses (NP-2.5 and NP-5), the curves displayed a &#x201C;plateau&#x201D; of adhesion for at least 3 hours followed by a slow decrease of the adhered amount of nanoparticles with time. On the contrary, for high doses (NP-10 and NP-15), the curves were characterised by an initial maximum of ahesion followed by a rapid decrease of the adhered amount of nanoparticles with the time (<xref ref-type="fig" rid="molecules-10-00126-f007">Figure 7</xref>). </p>
+        <fig id="molecules-10-00126-f007" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <p>Evolution of the adhered fraction of Gantrez nanoparticles in the whole gastrointestinal tract, after a single oral administration of 2.5 (NP-2.5), 5 (NP-5), 10 (NP-10) or 15 mg (NP-15) nanoparticles.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00126-g007.tif"/>
+        </fig>
+        <p><xref ref-type="table" rid="molecules-10-00126-t003">Table 3</xref> summarises the parameters of bioadhesion. From these results, the initial capacity to develop adhesive interactions within the gut (Q<sub>max</sub>) as well as the intensity of these phenomenons (AUC<sub>adh</sub>) increased with the given dose. However, the elimination rate increase with the dose. In fact, k<sub>adh</sub> was found to be at least 3-times lower for a dose of 2.5 mg than for 15 mg nanoparticles. Similarly the mean residence time of the adhered fraction significantly increased by decreasing the administered dose: for a dose of 5 mg the MRT was found to be 1 hour longer than for 15 mg (<xref ref-type="table" rid="molecules-10-00126-t003">Table 3</xref>). </p>
+        <p>All of these results suggest that the administration of lower doses of nanoparticles appears to be a more efficient way to increase the percentage of the adhered fraction to the gut mucosa. In additon, it appears that it exists an ideal dose at which the balance between adsorption and elimination (desorption) is likely. For Gantrez nanoparticles this ideal dose would be close to 10 mg, because of the linear increase of the Q<sub>max</sub> and AUC<sub>adh</sub> with the dose till 10 mg (<xref ref-type="table" rid="molecules-10-00126-t003">Table 3</xref>). At this point, probably, a saturation of the binding sites within the mucosa would probably take place. </p>
+        <table-wrap id="molecules-10-00126-t003" position="float">
+          <object-id pub-id-type="pii">molecules-10-00126-t003_Table 3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <p>Parameters of bioadhesion for Gantrez nanoparticles as a function of the given dose. NP-2.5: 2.5 mg nanoparticles; NP-5: 5 mg; NP-10: 10 mg; NP-15: 15 mg.</p>
+          </caption>
+           <table  rules="all" style="border:solid thin">
+            <thead>
+             <tr>
+              <th align="center" valign="top"> </th>
+              <th align="center" valign="top">Q<sub>max</sub><break/>(mg)</th>
+              <th align="center" valign="top">AUC<sub>adh </sub><break/>(mg h)</th>
+              <th align="center" valign="top">k<sub>adh</sub><break/>(h<sup>-1</sup>)</th>
+              <th align="center" valign="top">MRT<sub>adh</sub><break/>(h)</th>
+             </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>NP-2.5</bold>
+                </td>
+                <td align="center" valign="middle">0.85 &#xB1; 0.11 </td>
+                <td align="center" valign="middle">5.16</td>
+                <td align="center" valign="middle">0.16 &#xB1; 0.05</td>
+                <td align="center" valign="middle">3.01</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>NP-5</bold>
+                </td>
+                <td align="center" valign="middle">1.52 &#xB1; 0.41</td>
+                <td align="center" valign="middle">7.10</td>
+                <td align="center" valign="middle">0.09 &#xB1; 0.04</td>
+                <td align="center" valign="middle">3.42</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>NP-10</bold>
+                </td>
+                <td align="center" valign="middle">3.64 &#xB1; 0.34</td>
+                <td align="center" valign="middle">10.49</td>
+                <td align="center" valign="middle">0.29 &#xB1; 0.03</td>
+                <td align="center" valign="middle">3.41</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>NP-15</bold>
+                </td>
+                <td align="center" valign="middle">3.33 &#xB1; 0.61</td>
+                <td align="center" valign="middle">12.38</td>
+                <td align="center" valign="middle">0.45 &#xB1; 0.12</td>
+                <td align="center" valign="middle">2.33</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Influence of the cross-linking process on the bioadhesion properties of Gantrez nanoparticles</title>
+        <p>When polyanhydrides (i.e. Gantrez AN) hydrolitically degrade, the product of each cleaved anhydride bond is two carboxylic acid groups. In accordance with the adsorption theory of adhesion [<xref ref-type="bibr" rid="B40-molecules-10-00126">40</xref>], carboxylic groups would enhance the ability of polymers to form hydrogen bonds with components from the mucosa. Therefore, the high ability of Gantrez AN to develop adhesive interactions within the gastrointestinal tract may be related with the formation of carboxylic groups from the polyanhydride residues of the copolymer. These carboxylic groups would develop hydrogen bonds with components of the mucosa, such as mucins. This adhesive mechanism has been described for poly(fumaric-co-sebacic acid) microparticles [<xref ref-type="bibr" rid="B9-molecules-10-00126">9</xref>] and nanoparticles [<xref ref-type="bibr" rid="B41-molecules-10-00126">41</xref>]. </p>
+        <fig id="molecules-10-00126-f008" position="float">
+          <label>Figure 8</label>
+          <caption>
+            <p>Adhered fractions of the different formulations in the different regions of the small gastrointestinal tract 1h (A) and 3h (B) after the oral administration of 10 mg nanoparticles to rats.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00126-g008.tif"/>
+        </fig>
+        <p>Indeed, cross-linkage of PVM/MA nanoparticles with molecules containing either hydroxyl or amine residues (i.e. 1,3-diaminopropane) would block carboxylic groups and, therefore, stabilise the resulting carriers and prolong their half-life within the body. </p>
+        <p><xref ref-type="fig" rid="molecules-10-00126-f008">Figure 8</xref> shows the gastrointestinal tract distribution of the adhered fractions of NP and cross-linked nanoparticles 1 and 3 h post-administration to laboratory animals. All of these formulations displayed a similar profile of adhesion within the gut (data not shown); although the cross-linkage of nanoparticles with DP deceased the ability of the resulting carriers to interact with the mucosa. Thus, 1h-post administration, close of the 25% of the given dose of NP was found adhered in the gut mucosa of the small intestine whereas, for DP5-NP, DP10-NP and DP30-NP, the adhered fraction was 18%, 10% and less than 5% respectively. In addition, only for DP30-NP, a significant amount of nanoparticles was found in the caecum. On the other hand, 3 h post-administration, the different formulations displayed a more homogeneous distribution along the gut and less differences in the distribution of the different formulations were found. In addition, the adhered fractions of nanoparticles in the stomach and in the first portions of the small intestine significantly decreased, whereas an increase of the adhered fraction in the distal regions of the gut was found. </p>
+        <fig id="molecules-10-00126-f009" position="float">
+          <label>Figure 9</label>
+          <caption>
+            <p>Evolution of the adhered fraction of PVM/MA formulations in the whole gastrointestinal tract with the time, after a single oral administration of 10 mg nanoparticles. NP: conventional nanoparticles; D5-NP, D10-NP, D30-NP: cross-linked nanoparticles.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00126-g009.tif"/>
+        </fig>
+        <p><xref ref-type="fig" rid="molecules-10-00126-f009">Figure 9</xref> shows the evolution of the adhered fraction of nanoparticles cross-linked with DP to the gut mucosa of rats along the time. NP and DP-cross-linked nanoparticles displayed similar adhesive profile with a maximum of adhesion 30 min post-administration and a rapid decline in the adhered fraction over time. However the cross-linking process with the diamine decreased the adhesive capacity of these carriers to develop adhesive interactions with the gut mucosa (Q<sub>max</sub>) and both the intensity (AUC<sub>adh</sub>) and relative duration of the adhesive interactions (MRT<sub>adh</sub>) (see <xref ref-type="table" rid="molecules-10-00126-t004">Table 4</xref>). AUCadh was found to be 2-fold  higher for NP than for DP30-NP. Similarly, the MRTadh was found to be 1.2 hours longer for NP than for the cross-linked formulation. </p>
+         <table-wrap id="molecules-10-00126-t004" position="float">
+          <object-id pub-id-type="pii">molecules-10-00126-t004_Table 4</object-id>
+          <label>Table 4</label>
+          <caption>
+            <p>Parameters of bioadhesion for the different formulations tested. NP: conventional nanoparticles; D5-NP, D10-NP, D30-NP: cross-linked nanoparticles.</p>
+          </caption>
+           <table rules="all" style="border:solid thin">
+            <thead>
+             <tr>
+              <th align="center" valign="top"> </th>
+              <th align="center" valign="top">Q<sub>max</sub><break/>(mg)</th>
+              <th align="center" valign="top">AUC<sub>adh </sub><break/>(mg h)</th>
+              <th align="center" valign="top">k<sub>adh</sub><break/>(h<sup>-1</sup>)</th>
+              <th align="center" valign="top">MRT<sub>adh</sub><break/>(h)</th>
+             </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>NP</bold>
+                </td>
+                <td align="center" valign="middle">3.64 &#xB1; 0.34</td>
+                <td align="center" valign="middle">10.49</td>
+                <td align="center" valign="middle">0.29 &#xB1; 0.03</td>
+                <td align="center" valign="middle">3.41</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>DP5-NP</bold>
+                </td>
+                <td align="center" valign="middle">3.43 &#xB1; 0.11</td>
+                <td align="center" valign="middle">10.93</td>
+                <td align="center" valign="middle">0.37 &#xB1; 0.02</td>
+                <td align="center" valign="middle">3.34</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>DP10-NP</bold>
+                </td>
+                <td align="center" valign="middle">2.31 &#xB1; 0.79</td>
+                <td align="center" valign="middle">6.60</td>
+                <td align="center" valign="middle">0.80 &#xB1; 0.08</td>
+                <td align="center" valign="middle">2.31</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>DP30-NP</bold>
+                </td>
+                <td align="center" valign="middle">2.24 &#xB1; 0.64</td>
+                <td align="center" valign="middle">5.58</td>
+                <td align="center" valign="middle">0.88 &#xB1; 0.24</td>
+                <td align="center" valign="middle">2.24</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap><p>On the other hand, cross-linkage of nanoparticles was revealed from a significant decrease in the negative zeta potential, directly related to the intensity of the hardening process with DP (see <xref ref-type="table" rid="molecules-10-00126-t001">Table 1</xref>). Higher amounts of DP yielded less negative nanoparticles, which were less efficient to establish adhesive interactions with the mucosa. In this context, D30-NP showed the lowest adhesive intensity (AUC<sub>adh</sub>) and the highest elimination rate of the adhered fraction (k<sub>adh</sub>), which may be a probe that hydrophobicity is a major hindrance for penetration in the mucus layer. This was also suggested by Durrer <italic>et al</italic>., who found that the hydrophilicity of latexes increased their adsorption to rat intestinal mucosa [<xref ref-type="bibr" rid="B33-molecules-10-00126">33</xref>,<xref ref-type="bibr" rid="B34-molecules-10-00126">34</xref>]. Similarly, these results agree well with those obtained with gliadin nanoparticles, which displayed a significantly lower capacity to interact with the mucosa when particles were cross-linked with glutaraldehyde [<xref ref-type="bibr" rid="B42-molecules-10-00126">42</xref>]. </p>
+      </sec>
+      <sec>
+        <title>Influence of the coating agent on the gut distribution and bioadhesive properties of nanoparticles</title>
+        <p>Another possibility to modify the distribution of nanoparticles within the gut may be their coating with different macromolecules or polymers. In this context the use of non-ionic surfactants [<xref ref-type="bibr" rid="B43-molecules-10-00126">43</xref>] and polyglycerol esters of fatty acids [<xref ref-type="bibr" rid="B44-molecules-10-00126">44</xref>] have been proposed to increase the bioadhesive capacity of nanoparticles. </p>
+        <p>Similarly, a number of different scientists have been proposed the use of molecules able to target specific receptors within the gut, including lectins [<xref ref-type="bibr" rid="B35-molecules-10-00126">35</xref>,<xref ref-type="bibr" rid="B45-molecules-10-00126">45</xref>,<xref ref-type="bibr" rid="B46-molecules-10-00126">46</xref>,<xref ref-type="bibr" rid="B47-molecules-10-00126">47</xref>,<xref ref-type="bibr" rid="B48-molecules-10-00126">48</xref>,<xref ref-type="bibr" rid="B49-molecules-10-00126">49</xref>], invasins [<xref ref-type="bibr" rid="B50-molecules-10-00126">50</xref>,<xref ref-type="bibr" rid="B51-molecules-10-00126">51</xref>], monoclonal antibodies [<xref ref-type="bibr" rid="B52-molecules-10-00126">52</xref>,<xref ref-type="bibr" rid="B53-molecules-10-00126">53</xref>] carbohydrates [<xref ref-type="bibr" rid="B54-molecules-10-00126">54</xref>,<xref ref-type="bibr" rid="B55-molecules-10-00126">55</xref>] and vitamin B12 [<xref ref-type="bibr" rid="B56-molecules-10-00126">56</xref>]. Thus, it has been stated that the use of wheat germ agglutinin (WGA)-modified nanoparticles can facilitate the binding and subsequent uptake of proteins due to its cytoadhesive and cytoinvasive properties [<xref ref-type="bibr" rid="B55-molecules-10-00126">55</xref>,<xref ref-type="bibr" rid="B56-molecules-10-00126">56</xref>]. Similarly, the association between <italic>Ulex europaeus</italic> I agglutinin (UEA I; specific for &#x3B1;-L-fucose) and nanoparticles [<xref ref-type="bibr" rid="B57-molecules-10-00126">57</xref>] or liposomes [<xref ref-type="bibr" rid="B58-molecules-10-00126">58</xref>], can enhance their targeting to mice Peyer&#x2019;s patches.  On the other hand, when polystyrene nanoparticles were coated with <italic>Mycoplasma gallysepticum</italic> lectin (ML), these carriers displayed a high tropism for the Peyer&#x2019;s patches region in the small intestine [<xref ref-type="bibr" rid="B35-molecules-10-00126">35</xref>].</p>
+        <p>Similarly, the use of antibodies and proteins of immunological origin have been proposed for specific targeting within the gastrointestinal tract. The binding of the 5B11 monoclonal antibody (with specificity for rabbit M cells) to polystyrene particles, raised uptake by rabbit M-cells from 3- to 3.5-times when compared to plain latex [<xref ref-type="bibr" rid="B52-molecules-10-00126">52</xref>]. Another possibility for targeting a specific site in the gastrointestinal tract is the use of the intestinal uptake mechanism of vitamin B<sub>12</sub> [<xref ref-type="bibr" rid="B59-molecules-10-00126">59</xref>].</p>
+        <p>Despite their interest for targeting specific areas in the gastrointestinal tract, or more simply for intensifying the interactions with the intestinal mucosa, the development of drug delivery systems based on lectins, invasins or antibodies may be limited by a number of considerations [<xref ref-type="bibr" rid="B60-molecules-10-00126">60</xref>]. These macromolecules may perturbate biological processes at cell membrane levels or after internalization, leading potentially to toxicological events. Similarly, some lectins show generally marked interindividual and intraindividual specificity variations [<xref ref-type="bibr" rid="B61-molecules-10-00126">61</xref>,<xref ref-type="bibr" rid="B62-molecules-10-00126">62</xref>]. In addition, from a practical point of view, the availability on a large scale of lectins, invasins or antibodies remain difficult and expensive. For these reasons, the use of current excipients or dietary proteins may be a more simple and cheap alternative to obtain specific bioadhesive interactions within the gut. </p>
+        <p><xref ref-type="fig" rid="molecules-10-00126-f010">Figure 10</xref> show the curves of bioadhesion for two different formulations coated with either albumin (BSA-NP) or gelatin (G-NP). In both cases, the curve displayed a similar shape than that of conventional nanoparticles; although it was clear than the coating of these particles with albumin or gelatin decreased the initial capacity of these carriers to interact with the gut mucosa and the intensity of these phenomenons (<xref ref-type="table" rid="molecules-10-00126-t005">Table 5</xref>). BSA-NP displayed a more rapid elimination rate than NP; although, the initial capacity to develop adhesive interactions with the mucosa and the mean residence time of the adhered fraction were quite similar to that observed for NP. On the contrary, Q<sub>max</sub> and AUC<sub>adh</sub> were 2- and 1.7-times lower, respectively, for G-NP than for NP. Similarly, the MRT<sub>adh</sub> observed for G-NP was found to be about 70 min lower than for NP. </p>
+        <fig id="molecules-10-00126-f010" position="float">
+          <label>Figure 10</label>
+          <caption>
+            <p>Evolution of the adhered fraction of BSA-NP and G-NP in the whole gastrointestinal tract with the time, after a single oral administration of 10 mg nanoparticles to rats.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00126-g010.tif"/>
+        </fig>
+        
+        <table-wrap id="molecules-10-00126-t005" position="float">
+          <object-id pub-id-type="pii">molecules-10-00126-t005_Table 5</object-id>
+          <label>Table 5</label>
+          <caption>
+            <p>Parameters of bioadhesion for BSA-NP and G-NP.</p>
+          </caption>
+           <table rules="all" style="border:solid thin">
+            <thead>
+             <tr>
+              <th align="center" valign="top"> </th>
+              <th align="center" valign="top">Q<sub>max</sub><break/>(mg)</th>
+              <th align="center" valign="top">AUC<sub>adh </sub><break/>(mg h)</th>
+              <th align="center" valign="top">k<sub>adh</sub><break/>(h<sup>-1</sup>)</th>
+              <th align="center" valign="top">MRT<sub>adh</sub><break/>(h)</th>
+             </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>NP</bold>
+                </td>
+                <td align="center" valign="middle">3.64 &#xB1; 0.34</td>
+                <td align="center" valign="middle">10.49</td>
+                <td align="center" valign="middle">0.29 &#xB1; 0.03</td>
+                <td align="center" valign="middle">3.41</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>BSA-NP</bold>
+                </td>
+                <td align="center" valign="middle">3.30 &#xB1; 0.74</td>
+                <td align="center" valign="middle">8.25</td>
+                <td align="center" valign="middle">0.72 &#xB1; 0.21</td>
+                <td align="center" valign="middle">3.34</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+                  <bold>G-NP</bold>
+                </td>
+                <td align="center" valign="middle">1.83 &#xB1; 0.70</td>
+                <td align="center" valign="middle">6.04</td>
+                <td align="center" valign="middle">0.43 &#xB1; 0.22</td>
+                <td align="center" valign="middle">2.24</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap><p>However, the coating of Gantrez nanoparticles with either BSA or gelatin enabled us to dramatically modify the distribution of conventional carriers (see <xref ref-type="fig" rid="molecules-10-00126-f011">Figure 11</xref>). </p>
+        <fig id="molecules-10-00126-f011" position="float">
+          <label>Figure 11</label>
+          <caption>
+            <p>Evolution of the adhered fraction of 10 mg of either BSA-NP or G-NP dispersed in water and orally administered to rats. Each value represents the mean of the results of four experiments. Plot: x-axis represents the adhered fraction (mg); y-axis represents the different gut segments (Sto: stomach; I1, I2, I3, I4: small intestinal segments; Ce: caecum); z-axis represents the time post-administration (0.5 , 1, 3 and 8 h).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00126-g011.tif"/>
+        </fig>
+        <p>In fact, gelatin coated nanoparticles displayed a very low capacity to target the stomach and the upper regions of the gastrointestinal tract; although, these carriers were able to reach in a quite efficient way the jejunum and the first parts of the illeum (I2 and I3 segments). Thus, 30 min after their oral administration to rats, about 15% of the given dose was found in the intermediate areas of the small intestine. Unfortunately, G-NP appeared to lost quite rapidly their ability to reach this intestinal region and, 1h post-administration, the amount of nanoparticles adhered to the whole gut was quite low.</p>
+        <p>On the other hand, BSA-NP displayed a high tropism for the stomach. In fact, around the 20% of the given dose remained adhered within the stomach for at least one hour. This fact can be related with the high affinity of albumin for gastric mucins, mainly in acidic mediums [<xref ref-type="bibr" rid="B63-molecules-10-00126">63</xref>]. Similarly interesting was the fact that BSA-NP had any affinity for other areas of the bowel. Recently, this important tropism of BSA-NP for the stomach mucosa was confirmed by studying the oral bioavailability of 5-fluorouridine. This antitumoral shows a low oral bioavailability due to a pre-systemic catabolism induced by different enzymes (including the P-450 system [<xref ref-type="bibr" rid="B64-molecules-10-00126">64</xref>]) which are located in the enterocytes of the small intestine, with no significant presence in the stomach and colon mucosa [<xref ref-type="bibr" rid="B64-molecules-10-00126">64</xref>,<xref ref-type="bibr" rid="B65-molecules-10-00126">65</xref>,<xref ref-type="bibr" rid="B66-molecules-10-00126">66</xref>]. When the antitumoral was loaded in BSA-NP, the absolute oral bioavailability was  calculated to be 7-times higher than that obtained for the oral solution of the drug, 4-times higher than for 5-fluorouridine loaded in NP,  and 35-times higher than that obtained with nanoparticles targeting the illeum of the animals. Therefore, the gut distribution of these carriers in the gastrointestinal mucosa was found to be responsible for the significant increase in the 5-fluorouridine oral bioavailability when loaded in BSA-NP. </p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Gantrez nanoparticles show a great potential as pharmaceutical dosage forms for the oral delivery of hydrophilic molecules, including antigens, proteins and peptides. The analysis of the adhesion curves (cumulative amount of adhered particles in the whole gut vs. time) permits to estimate the bioadhesive potential of a given drug delivery system and make easy comparisons between different concentrations of the same formulation. The cross-linkage and / or coating of these nanoparticles  permits to modulate their transit and bioadhesive properties (intensity, extent, duration and, sometimes, location). In this context, the use of BSA to coat Gantrez nanoparticles enabled us to develop drug carriers with a high tropism for the stomach mucosa.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This research was supported by &#x201C;Asociaci&#xF3;n de Amigos&#x201D;, &#x201C;Fundaci&#xF3;n Universitaria de Navarra&#x201D; and grants from the &#x201C;Ministerio de Ciencia y Tecnolog&#xED;a&#x201D; (SAF2001-0690-C03) and Instituto de Salud Carlos III (Grant RITC Cancer C1/03) in Spain.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00126">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kreuter</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nanoparticles</article-title>
+          <source>Colloidal Drug Delivery Systems</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Kreuter</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Marcel Dekker</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1994</year>
+          <fpage>219</fpage>
+          <lpage>342</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00126">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Allemann</surname>
+              <given-names>E.</given-names>
+            </name>
+			<name>
+              <surname>Leroux</surname>
+              <given-names>J.C.</given-names>
+            </name>
+			<name>
+              <surname>Gurny</surname>
+              <given-names>R.</given-names>
+            </name>
+			<name>
+              <surname>Doelker</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>In vitro extended-release properties of drug-loaded poly(DL-lactic acid) nanoparticles produced by a salting-out procedure</article-title>
+          <source>Pharm. Res.</source>
+          <year>1993</year>
+          <volume>10</volume>
+          <fpage>1732</fpage>
+          <lpage>1737</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00126">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maincent</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>Le Verge</surname>
+              <given-names>R.</given-names>
+            </name>          
+		  <name>
+              <surname>Sado</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>Couvreur</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>Devissaguet</surname>
+              <given-names>J.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Deposition kinetics and oral bioavailability of vincamine-loaded polyalkylcyanoacrylate nanoparticles</article-title>
+          <source>J. Pharm. Sci.</source>
+          <year>1986</year>
+          <volume>75</volume>
+          <fpage>955</fpage>
+          <lpage>958</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00126">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Damg&#xE9;</surname>
+              <given-names>C.</given-names>
+            </name>
+			<name>
+              <surname>Michel</surname>
+              <given-names>C.</given-names>
+            </name>
+			<name>
+              <surname>Aprahamian</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Couvreur</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>New approach for oral administration of insulin with polyalkylcyanoacrylate nanocapsules as drug carrier</article-title>
+          <source>Diabetes</source>
+          <year>1988</year>
+          <volume>37</volume>
+          <fpage>246</fpage>
+          <lpage>251</lpage>
+          <pub-id pub-id-type="doi">10.2337/diab.37.2.246</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00126">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Damg&#xE9;</surname>
+              <given-names>C.</given-names>
+            </name>
+			<name>
+              <surname>Michel</surname>
+              <given-names>C.</given-names>
+            </name>
+			<name>
+              <surname>Aprahamian</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Couvreur</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>Devissaguet</surname>
+              <given-names>J.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nanocapsules as carriers for oral peptide delivery</article-title>
+          <source>J Control. Release</source>
+          <year>1990</year>
+          <volume>13</volume>
+          <fpage>233</fpage>
+          <lpage>239</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00126">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sakuma</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Sudo</surname>
+              <given-names>R.</given-names>
+            </name>
+			<name>
+              <surname>Suzuki</surname>
+              <given-names>N.</given-names>
+            </name>
+			<name>
+              <surname>Kikuchi</surname>
+              <given-names>H.</given-names>
+            </name>
+			<name>
+              <surname>Akashi</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Hayashi</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mucoadhesion of polystyrene nanoparticles having surface hydrophilic polymeric chains in the gastrointestinal tract</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>1999</year>
+          <volume>177</volume>
+          <fpage>161</fpage>
+          <lpage>172</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0378-5173(98)00346-9</pub-id>
+        </citation>
+      </ref>
+       <ref id="B7-molecules-10-00126">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Akiyama</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nagahara</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Nara</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kitano</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Iwasa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Azuma</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ogawa</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of oral mucoadhesive microspheres in man on the basis of the pharmacokinetics of furosemide and riboflavin, compounds with limited gastrointestinal absorption sites</article-title>
+          <source>J. Pharm. Pharmacol.</source>
+          <year>1998</year>
+          <volume>50</volume>
+          <fpage>159</fpage>
+          <lpage>166</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.2042-7158.1998.tb06171.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00126">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beck</surname>
+              <given-names>P.H.</given-names>
+            </name>
+            <name>
+              <surname>Kreuter</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>M&#xFC;ller</surname>
+              <given-names>W.E.G.</given-names>
+            </name>
+            <name>
+              <surname>Schatton</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Improved peroral delivery of avarol with polyalkylcyanoacrylate nanoparticles</article-title>
+          <source>Eur. J. Pharm. Biopharm.</source>
+          <year>1994</year>
+          <volume>40</volume>
+          <fpage>134</fpage>
+          <lpage>137</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00126">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chickering</surname>
+              <given-names>D.E.</given-names>
+            </name>
+            <name>
+              <surname>Jacob</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>T.A.</given-names>
+            </name>
+            <name>
+              <surname>Harrison</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Morrell</surname>
+              <given-names>C.N.</given-names>
+            </name>
+            <name>
+              <surname>Chaturvedi</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Mathiowitz</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bioadhesive microspheres: III. An in vivo transit and bioavaibility study of drug-loaded alginate and poly(fumaric-co-sebacic anhydride) microspheres</article-title>
+          <source>J. Control. Release</source>
+          <year>1997</year>
+          <volume>48</volume>
+          <fpage>35</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0168-3659(97)00054-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00126">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>Y.I</given-names>
+            </name>
+            <name>
+              <surname>Fluckiger</surname>
+              <given-names>L.</given-names>
+            </name>
+			<name>
+              <surname>Hoffman</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lartaud-Idjouadiene</surname>
+              <given-names>I.</given-names>
+            </name>
+			<name>
+              <surname>Atkinson</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Maincent</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>The antihypertensive effect of orally administered nifedipine-loaded nanoparticles in spontaneously hypertensive rats</article-title>
+          <source>Br. J. Pharmacol</source>
+          <year>1997</year>
+          <volume>120</volume>
+          <fpage>399</fpage>
+          <lpage>404</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00126">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cui</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Mumper</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitosan-based nanoparticles for topical genetic immunization</article-title>
+          <source>J. Control. Release</source>
+          <year>2001</year>
+          <volume>75</volume>
+          <fpage>409</fpage>
+          <lpage>419</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0168-3659(01)00407-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00126">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mansouri</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Lavigne</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Corsi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Benderdour</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Beaumont</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Fernandes</surname>
+              <given-names>J.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitosan-DNA nanoparticles as non-viral vectors in gene therapy: strategies to improve transfection efficacy</article-title>
+          <source>Eur. J. Pharm. Biopharm.</source>
+          <year>2004</year>
+          <volume>57</volume>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0939-6411(03)00155-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00126">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arbos</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Campanero</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Arangoa</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Irache</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nanoparticles with specific bioadhesive properties to circumvent the pre-systemic degradation of fluorinated pyrimidines</article-title>
+          <source>J Control. Release</source>
+          <year>2004</year>
+          <volume>96</volume>
+          <fpage>55</fpage>
+          <lpage>65</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jconrel.2004.01.006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00126">
+        <label>14.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lenaerts</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Couvreur</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Grislain</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Maincent</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+		  <article-title>Nanoparticles as a gastrointestinal drug delivery system</article-title>
+          <source>Bioadhesive Drug Delivery Systems</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Lenaerts</surname>
+              <given-names>V.M.</given-names>
+            </name>
+            <name>
+              <surname>Gurny</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>CRC Press</publisher-name>
+          <publisher-loc>Boca Raton</publisher-loc>
+          <year>1990</year>
+          <fpage>94</fpage>
+          <lpage>104</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00126">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kreuter</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Peroral administration of nanoparticles</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>1991</year>
+          <volume>7</volume>
+          <fpage>71</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="doi">10.1016/0169-409X(91)90048-H</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00126">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ponchel</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Montisci</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Dembri</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Durrer</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Duch&#xEA;ne</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mucoadhesion of colloidal particulate systems in the gastro-intestinal tract</article-title>
+          <source>Eur. J. Pharm. Biopharm.</source>
+          <year>1997</year>
+          <volume>44</volume>
+          <fpage>25</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0939-6411(97)00098-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00126">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lehr</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Poelma</surname>
+              <given-names>F.G.J.</given-names>
+            </name>
+            <name>
+              <surname>Junginger</surname>
+              <given-names>H.E.</given-names>
+            </name>
+            <name>
+              <surname>Tukker</surname>
+              <given-names>J.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>An estimate of the turnover time of intestinal mucus gel layer in the rat in situ loop</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>1994</year>
+          <volume>70</volume>
+          <fpage>235</fpage>
+          <lpage>240</lpage>
+          <pub-id pub-id-type="doi">10.1016/0378-5173(91)90287-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00126">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duch&#xEA;ne</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Ponchel</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+		  <article-title>Bioadhesion of solid oral dosage forms, why and how?</article-title>
+          <source>Eur. J. Pharm. Biopharm.</source>
+          <year>1997</year>
+          <volume>44</volume>
+          <fpage>15</fpage>
+          <lpage>23</lpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00126">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sanders</surname>
+              <given-names>N.N.</given-names>
+            </name>
+            <name>
+              <surname>De Smedt</surname>
+              <given-names>S.C.</given-names>
+            </name>
+            <name>
+              <surname>Van Rompaey</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Simoens</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>De Baets</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Demeester</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cystic fibrosis sputum: a barrier to the transport of nanospheres</article-title>
+          <source>Am. J. Respir. Crit. Care Med.</source>
+          <year>2000</year>
+          <volume>162</volume>
+          <fpage>1905</fpage>
+          <lpage>1911</lpage>
+          <pub-id pub-id-type="doi">10.1164/ajrccm.162.5.9909009</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00126">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alpar</surname>
+              <given-names>H.O.</given-names>
+            </name>
+            <name>
+              <surname>Field</surname>
+              <given-names>W.N.</given-names>
+            </name>
+            <name>
+              <surname>Hyde</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>D.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The transport of microspheres from the gastro-intestinal tract to inflammatory air pouches in the rat</article-title>
+          <source>J. Pharm. Pharmacol.</source>
+          <year>1989</year>
+          <volume>41</volume>
+          <fpage>194</fpage>
+          <lpage>196</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.2042-7158.1989.tb06429.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00126">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hodges</surname>
+              <given-names>G.M.</given-names>
+            </name>
+            <name>
+              <surname>Carr</surname>
+              <given-names>E.A.</given-names>
+            </name>
+            <name>
+              <surname>Hazzard</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>O&#x2019;Reilly</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Carr</surname>
+              <given-names>K.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>A commentary on morphological and quantitative aspects of microparticle translocation across the gastrointestinal mucosa</article-title>
+          <source>J. Drug Target.</source>
+          <year>1995</year>
+          <volume>3</volume>
+          <fpage>57</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="doi">10.3109/10611869509015934</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00126">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Florence</surname>
+              <given-names>A.T.</given-names>
+            </name>
+            <name>
+              <surname>Hillery</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Hussain</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Jani</surname>
+              <given-names>P.U.</given-names>
+            </name>
+          </person-group>
+          <article-title>Factors affecting the oral uptake and translocation of polystyrene nanoparticles: histological and analytical evidence</article-title>
+          <source>J. Drug Target.</source>
+          <year>1995</year>
+          <volume>3</volume>
+          <fpage>65</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.3109/10611869509015936</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00126">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ponchel</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Irache</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Specific and non-specific bioadhesive particulate systems for oral delivery to the gastrointestinal tract</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>1998</year>
+          <volume>34</volume>
+          <fpage>191</fpage>
+          <lpage>219</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-409X(98)00040-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00126">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Florence</surname>
+              <given-names>A.T.</given-names>
+            </name>
+            <name>
+              <surname>Hussain</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Transcytosis of nanoparticle and dendrimer delivery systems: evolving vistas</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2001</year>
+          <volume>50</volume>
+          <fpage>69</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-409X(01)00184-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00126">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Freter</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>O&#x2019;Brien</surname>
+              <given-names>P.C.</given-names>
+            </name>
+            <name>
+              <surname>Macsai</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of chemotaxis in the association of motile bacteria with intestinal mucosa: in vivo studies</article-title>
+          <source>Infect. Immun.</source>
+          <year>1981</year>
+          <volume>34</volume>
+          <fpage>234</fpage>
+          <lpage>240</lpage>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00126">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berg</surname>
+              <given-names>R.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bacterial translocation from the gastrointestinal tract</article-title>
+          <source>Adv. Exp. Med. Biol.</source>
+          <year>1999</year>
+          <volume>473</volume>
+          <fpage>11</fpage>
+          <lpage>30</lpage>
+       </citation>
+      </ref>
+      <ref id="B27-molecules-10-00126">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arbos</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Wirth</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Arangoa</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Gabor</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Irache</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Gantrez&#xAE; AN as a new polymer for the preparation of ligand-nanoparticle conjugates</article-title>
+          <source>J. Control. Release</source>
+          <year>2002</year>
+          <volume>83</volume>
+          <fpage>321</fpage>
+          <lpage>330</lpage>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00126">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schreiber</surname>
+              <given-names>A.B.</given-names>
+            </name>
+            <name>
+              <surname>Haimovich</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantitative fluorimetric assay for detection and characterisation of Fc receptors</article-title>
+          <source>Met. Enzymol.</source>
+          <year>1983</year>
+          <volume>93</volume>
+          <fpage>147</fpage>
+          <lpage>155</lpage>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00126">
+        <label>29.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Patai</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Rappoport</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <source>The chemistry of sulphur-containing functional groups</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>Chichester, U.K</publisher-loc>
+          <year>1993</year>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00126">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arbos</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Arangoa</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>Campanero</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Irache</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantification of the bioadhesive properties of protein-coated PVM/MA nanoparticles</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>2002</year>
+          <volume>242</volume>
+          <fpage>129</fpage>
+          <lpage>136</lpage>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00126">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arbos</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Campanero</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>Arangoa</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Renedo</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Irache</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Influence of the surface characteristics of PVM/MA nanoparticles on their bioadhesive properties</article-title>
+          <source>J. Control. Release</source>
+          <year>2003</year>
+          <volume>83</volume>
+          <fpage>19</fpage>
+          <lpage>30</lpage>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00126">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shimoda</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Onishi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Machida</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bioadhesive characteristics of chitosan microspheres to the mucosa of rat small intestine</article-title>
+          <source>Drug Dev. Ind. Pharm.</source>
+          <year>2001</year>
+          <volume>27</volume>
+          <fpage>567</fpage>
+          <lpage>576</lpage>
+          <pub-id pub-id-type="doi">10.1081/DDC-100105182</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-00126">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Durrer</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Irache</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Puisieux</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Duchene</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Ponchel</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mucoadhesion of latexes. I. Analytical methods and kinetic studies</article-title>
+          <source>Pharm. Res.</source>
+          <year>1994</year>
+          <volume>11</volume>
+          <fpage>674</fpage>
+          <lpage>679</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1018968011169</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-00126">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Durrer</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Irache</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Puisieux</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Duchene</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Ponchel</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mucoadhesion of latexes II. Adsorption isotherms and desorption studies</article-title>
+          <source>Pharm. Res.</source>
+          <year>1994</year>
+          <volume>11</volume>
+          <fpage>680</fpage>
+          <lpage>683</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1018920128007</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35-molecules-10-00126">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Irache</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Durrer</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Duchene</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Ponchel</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bioadhesion of lectin-latex conjugate to the rat intestinal mucosa</article-title>
+          <source>Pharm Res.</source>
+          <year>1996</year>
+          <volume>13</volume>
+          <fpage>1716</fpage>
+          <lpage>1719</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1016405126656</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36-molecules-10-00126">
+        <label>36.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dembri</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Montisci</surname>
+              <given-names>M.J.</given-names>
+            </name>
+			<name>
+              <surname>Duchene</surname>
+              <given-names>D.</given-names>
+            </name>
+			<name>
+              <surname>Ponchel</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mucoadhesion of poly isobutylcyanoacrylate nanoparticles on the intestinal mucosa</article-title>
+          <source>Proc. Eur. Symp. Formulation of Poorly-available Drugs for Oral Administration</source>
+          <publisher-name>Editions de Sante</publisher-name>
+          <publisher-loc>Paris</publisher-loc>
+          <year>1996</year>
+          <fpage>342</fpage>
+          <lpage>346</lpage>
+        </citation>
+      </ref>
+      <ref id="B37-molecules-10-00126">
+        <label>37.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dembri</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Montisci</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Gantier</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Chacun</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ponchel</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Targeting of 3'-azido 3'-deoxythymidine (AZT)-loaded poly(isohexylcyanoacrylate) nanospheres to the gastrointestinal mucosa and associated lymphoid tissues</article-title>
+          <source>Pharm Res.</source>
+          <year>2001</year>
+          <volume>18</volume>
+          <fpage>467</fpage>
+          <lpage>473</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1011050209986</pub-id>
+        </citation>
+      </ref>
+      <ref id="B38-molecules-10-00126">
+        <label>38.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Norris</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Sinko</surname>
+              <given-names>P.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of size, surface charge and hydrophobicity on the translocation of polystyrene microspheres through gastrointestinal mucin</article-title>
+          <source>J. Appl. Polym. Sci.</source>
+          <year>1997</year>
+          <volume>63</volume>
+		  <fpage>1481</fpage>
+          <lpage>1492</lpage>
+        </citation>
+      </ref>
+      <ref id="B39-molecules-10-00126">
+        <label>39.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scherrer</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Mooren</surname>
+              <given-names>F. C.</given-names>
+            </name>
+            <name>
+              <surname>Kinne</surname>
+              <given-names>R.K.H.</given-names>
+            </name>
+            <name>
+              <surname>Kreuter</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>In vitro permeability of PBCA nanoparticles through porcine small intestine</article-title>
+          <source>J. Drug Target.</source>
+          <year>1994</year>
+          <volume>1</volume>
+          <fpage>21</fpage>
+          <lpage>28</lpage>
+        </citation>
+      </ref>
+      <ref id="B40-molecules-10-00126">
+        <label>40.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>AKinloch</surname>
+              <given-names>A.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The science of adhesion: I. Surface and interfacial aspects</article-title>
+          <source>J. Mater. Sci.</source>
+          <year>1980</year>
+          <volume>15</volume>
+          <fpage>2141</fpage>
+          <lpage>2166</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00552302</pub-id>
+        </citation>
+      </ref>
+      <ref id="B41-molecules-10-00126">
+        <label>41.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carino</surname>
+              <given-names>G.P.</given-names>
+            </name>
+            <name>
+              <surname>Jacob</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Mathiowitz</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nanosphere based oral insulin delivery</article-title>
+          <source>J. Control. Release</source>
+          <year>2000</year>
+          <volume>65</volume>
+          <fpage>261</fpage>
+          <lpage>269</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0168-3659(99)00247-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B42-molecules-10-00126">
+        <label>42.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arangoa</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Campanero</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Renedo</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Ponchel</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Irache</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Gliadin nanoparticles as carriers for the oral administration of lipophilic drugs. Relationships between bioadhesion and pharmacokinetics</article-title>
+          <source>Pharm. Res.</source>
+          <year>2001</year>
+          <volume>18</volume>
+          <fpage>1521</fpage>
+          <lpage>1527</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1013018111829</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43-molecules-10-00126">
+        <label>43.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Araujo</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Sheppard</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>L&#xF6;benberg</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kreuter</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Uptake of PMMA nanoparticles from the gastrointestinal tract after oral administration to rats: modification of the body distribution after suspension in surfactant solutions and in oil vehicles</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>1999</year>
+          <volume>176</volume>
+          <fpage>209</fpage>
+          <lpage>224</lpage>
+        </citation>
+      </ref>
+      <ref id="B44-molecules-10-00126">
+        <label>44.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Akiyama</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nagahara</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Kashihara</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hirai</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Toguchi</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>In vitro and in vivo evaluation of mucoadhesive microspheres prepared for the gastrointestinal tract using polyglycerol esters of fatty acids and a poly(acrylic acid) derivative</article-title>
+          <source>Pharm. Res.</source>
+          <year>1995</year>
+          <volume>12</volume>
+          <fpage>397</fpage>
+          <lpage>405</lpage>
+        </citation>
+      </ref>
+      <ref id="B45-molecules-10-00126">
+        <label>45.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Russell-Jones</surname>
+              <given-names>G.J.</given-names>
+            </name>
+            <name>
+              <surname>Veitch.</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Arthure</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lectin-mediated transport of nanoparticles across Cco-2 and OK cells</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>1999</year>
+          <volume>190</volume>
+          <fpage>165</fpage>
+          <lpage>174</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0378-5173(99)00254-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B46-molecules-10-00126">
+        <label>46.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gabor</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Schwarzbauer</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wirth</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lectin mediated drug delivery binding and uptake of BSA-WGA conjugates using Caco-2 model</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>2002</year>
+          <volume>237</volume>
+          <fpage>227</fpage>
+          <lpage>239</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0378-5173(02)00049-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B47-molecules-10-00126">
+        <label>47.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Naisbett</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Woodley</surname>
+              <given-names>J.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Binding of tomato lectin to the intestinal mucosa and its potential for oral drug delivery</article-title>
+          <source>Biochem. Soc. Trans.</source>
+          <year>1990</year>
+          <volume>18</volume>
+          <fpage>879</fpage>
+          <lpage>880</lpage>
+        </citation>
+      </ref>
+      <ref id="B48-molecules-10-00126">
+        <label>48.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Florence</surname>
+              <given-names>A.T.</given-names>
+            </name>
+            <name>
+              <surname>Hillery</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Hussain</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Jani</surname>
+              <given-names>P.U.</given-names>
+            </name>
+          </person-group>
+          <article-title>Factors affecting the oral uptake and translocation of polystyrene nanoparticles: histological and analytical evidence</article-title>
+          <source>J. Drug Target.</source>
+          <year>1995</year>
+          <volume>3</volume>
+          <fpage>65</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.3109/10611869509015936</pub-id>
+        </citation>
+      </ref>
+      <ref id="B49-molecules-10-00126">
+        <label>49.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arangoa</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Ponchel</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Orecchioni</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Renedo</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Duch&#xEA;ne</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Irache</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bioadhesive potential of gliadin nanoparticulate systems</article-title>
+          <source>Eur. J. Pharm. Sci.</source>
+          <year>2000</year>
+          <volume>11</volume>
+          <fpage>333</fpage>
+          <lpage>341</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0928-0987(00)00121-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B50-molecules-10-00126">
+        <label>50.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rubas</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Banerjea</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Gallati</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Speiser</surname>
+              <given-names>P.P.</given-names>
+            </name>
+            <name>
+              <surname>Joklik</surname>
+              <given-names>W.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Incorporation of the reovirus M cell attachment protein into small unilamellar vesicles: incorporation efficiency and binding capacity to L929 cells in vitro</article-title>
+          <source>J. Microencaps.</source>
+          <year>1990</year>
+          <volume>7</volume>
+          <fpage>385</fpage>
+          <lpage>395</lpage>
+          <pub-id pub-id-type="doi">10.3109/02652049009021848</pub-id>
+        </citation>
+      </ref>
+      <ref id="B51-molecules-10-00126">
+        <label>51.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hussain</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Florence</surname>
+              <given-names>A.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Invasin-induced oral uptake of nanospheres: utilising bacterial mechanisms of epithelial cell entry</article-title>
+          <source>J. Control. Release</source>
+          <year>1996</year>
+          <volume>41</volume>
+		  <fpage>S3</fpage>
+          <lpage>S4</lpage>
+        </citation>
+      </ref>
+      <ref id="B52-molecules-10-00126">
+        <label>52.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pappo</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ermak</surname>
+              <given-names>T.H.</given-names>
+            </name>
+            <name>
+              <surname>Steger</surname>
+              <given-names>H.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Monoclonal antibody-directed targeting of fluorescent polystyrene microspheres to Peyer's patch M cells</article-title>
+          <source>Immunology</source>
+          <year>1991</year>
+          <volume>73</volume>
+          <fpage>277</fpage>
+          <lpage>280</lpage>
+        </citation>
+      </ref>
+      <ref id="B53-molecules-10-00126">
+        <label>53.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>N.W.</given-names>
+            </name>
+            <name>
+              <surname>Jenkins</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>N.G.A.</given-names>
+            </name>
+            <name>
+              <surname>Cremaschi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Porta</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Selective transport of microparticles across Peyer's patch follicle-associated M cells from mice and rats</article-title>
+          <source>Exp. Physiol.</source>
+          <year>1995</year>
+          <volume>80</volume>
+          <fpage>735</fpage>
+          <lpage>743</lpage>
+        </citation>
+      </ref>
+      <ref id="B54-molecules-10-00126">
+        <label>54.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rathi</surname>
+              <given-names>R.C.</given-names>
+            </name>
+            <name>
+              <surname>Kopecekova</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Rihova</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kopecek</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>N-(2-hydroxypropyl)-methacrylamide copolymers containing pendant saccharide moieties. Synthesis and bioadhesive properties</article-title>
+          <source>J. Polym. Sci., Part A. Polym. Chem.</source>
+          <year>1991</year>
+          <volume>29</volume>
+          <fpage>1895</fpage>
+          <lpage>1902</lpage>
+          <pub-id pub-id-type="doi">10.1002/pola.1991.080291308</pub-id>
+        </citation>
+      </ref>
+      <ref id="B55-molecules-10-00126">
+        <label>55.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rihova</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Rathi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kopecekova</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kopecek</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>In vitro bioadhesion of carbohydrate containing N-(hydroxypropyl)-methacrylamide copolymers to the GI tract of guinea pigs</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>1992</year>
+          <volume>87</volume>
+          <fpage>105</fpage>
+          <lpage>116</lpage>
+          <pub-id pub-id-type="doi">10.1016/0378-5173(92)90233-R</pub-id>
+        </citation>
+      </ref>
+      <ref id="B56-molecules-10-00126">
+        <label>56.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Russell-Jones</surname>
+              <given-names>G.J.</given-names>
+            </name>
+            <name>
+              <surname>Westwood</surname>
+              <given-names>S.W.</given-names>
+            </name>
+            <name>
+              <surname>Habberfield</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Vitamin B12 mediated oral delivery systems for granulocyte-colony stimulating factor and erythropoietin</article-title>
+          <source>Bioconj. Chem.</source>
+          <year>1995</year>
+          <volume>4</volume>
+          <fpage>459</fpage>
+          <lpage>465</lpage>
+          <pub-id pub-id-type="doi">10.1021/bc00034a016</pub-id>
+        </citation>
+      </ref>
+      <ref id="B57-molecules-10-00126">
+        <label>57.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ezpeleta</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Arangoa</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Irache</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Stainmesse</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Chabenat</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Popineau</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Orecchioni</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of <italic>Ulex europaeus</italic> lectin-gliadin nanoparticle conjugates and their interaction with gastrointestinal mucus</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>1999</year>
+          <volume>191</volume>
+          <fpage>25</fpage>
+          <lpage>32</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0378-5173(99)00232-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B58-molecules-10-00126">
+        <label>58.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clark</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Blair</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Bery</surname>
+              <given-names>R.N.</given-names>
+            </name>
+            <name>
+              <surname>Brayden</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Hirst</surname>
+              <given-names>B.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Targeting polymerized liposome vaccine carrier to intestinal M cells</article-title>
+          <source>Vaccine</source>
+          <year>2002</year>
+          <volume>20</volume>
+          <fpage>208</fpage>
+          <lpage>217</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0264-410X(01)00258-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B59-molecules-10-00126">
+        <label>59.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Russell-Jones</surname>
+              <given-names>G.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oral drug delivery via the vitamin B12 uptake system</article-title>
+          <source>Pharm. Manuf. Int.</source>
+          <year>1994</year>
+          <volume>6</volume>
+          <fpage>81</fpage>
+          <lpage>82</lpage>
+        </citation>
+      </ref>
+      <ref id="B60-molecules-10-00126">
+        <label>60.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noah</surname>
+              <given-names>N.D.</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>E.A.</given-names>
+            </name>
+            <name>
+              <surname>Reaidi</surname>
+              <given-names>G.B.</given-names>
+            </name>
+            <name>
+              <surname>Gilbert</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Food poisoning from raw red kidney beans</article-title>
+          <source>Br. Med. J.</source>
+          <year>1980</year>
+          <volume>281</volume>
+          <fpage>236</fpage>
+          <lpage>237</lpage>
+        </citation>
+      </ref>
+      <ref id="B61-molecules-10-00126">
+        <label>61.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jepson</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Mason</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Clark</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Simmons</surname>
+              <given-names>N.L.</given-names>
+            </name>
+            <name>
+              <surname>Hirst</surname>
+              <given-names>B.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Variations in lectin binding properties of intestinal M cells</article-title>
+          <source>J. Drug Target.</source>
+          <year>1995</year>
+          <volume>3</volume>
+          <fpage>75</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="doi">10.3109/10611869509015938</pub-id>
+        </citation>
+      </ref>
+      <ref id="B62-molecules-10-00126">
+        <label>62.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Giannasca</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Giannasca</surname>
+              <given-names>K.T.</given-names>
+            </name>
+            <name>
+              <surname>Falk</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>J.I.</given-names>
+            </name>
+            <name>
+              <surname>Neutra</surname>
+              <given-names>M.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Regional differences in glycoconjugates of intestinal M cells in mice: potential targets for mucosal vaccines</article-title>
+          <source>Am. J. Physiol. (Gastrointest. Liver Physiol. 30)</source>
+          <year>1994</year>
+          <volume>267</volume>
+          <fpage>1108</fpage>
+          <lpage>1121</lpage>
+        </citation>
+      </ref>
+      <ref id="B63-molecules-10-00126">
+        <label>63.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hassan</surname>
+              <given-names>E.E.</given-names>
+            </name>
+            <name>
+              <surname>Gallo</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>A simple rheological method for the in vitro assessment of mucin-polymer bioadhesive bond strength</article-title>
+          <source>Pharm. Res.</source>
+          <year>1990</year>
+          <volume>7</volume>
+          <fpage>491</fpage>
+          <lpage>495</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1015812615635</pub-id>
+        </citation>
+      </ref>
+      <ref id="B64-molecules-10-00126">
+        <label>64.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thummel</surname>
+              <given-names>K.E.</given-names>
+            </name>
+            <name>
+              <surname>Kunze</surname>
+              <given-names>K.L.</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>D.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enzyme-catalized process of first-pass hepatic and interstinal drug extraction</article-title>
+          <source>Adv. Drug Deliv. Sys.</source>
+          <year>1997</year>
+          <volume>27</volume>
+          <fpage>99</fpage>
+          <lpage>127</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-409X(97)00039-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B65-molecules-10-00126">
+        <label>65.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Yuasa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Watanabe</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>First-pass metabolism of 5-fluorouracil in the perfused rat small intestine</article-title>
+          <source>Biol. Pharm. Bull.</source>
+          <year>1998</year>
+          <volume>21</volume>
+          <fpage>871</fpage>
+          <lpage>873</lpage>
+          <pub-id pub-id-type="doi">10.1248/bpb.21.871</pub-id>
+        </citation>
+      </ref>
+      <ref id="B66-molecules-10-00126">
+        <label>66.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McKinnon</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Burgess</surname>
+              <given-names>W.M.</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Roberts-Thomson</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Gonzalez</surname>
+              <given-names>F.J.</given-names>
+            </name>
+            <name>
+              <surname>McManus</surname>
+              <given-names>M.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterization of CYP3A gene subfamily expression in human gastrointestinal tissues</article-title>
+          <source>Gut</source>
+          <year>1995</year>
+          <volume>36</volume>
+          <fpage>259</fpage>
+          <lpage>267</lpage>
+          <pub-id pub-id-type="doi">10.1136/gut.36.2.259</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

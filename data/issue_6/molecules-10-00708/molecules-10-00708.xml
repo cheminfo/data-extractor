@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10060708</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00708</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Photooxidation of Some Metallocenes in a Polymer Matrix</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mallik</surname>
+            <given-names>Biswanath</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00708">Department of Spectroscopy, Indian Association for the Cultivation of Science, Jadavpur, Kolkata-700 032, India. Tel. (+91)-33-2473 4971 Ext. 255, Fax (+91)- 33-2473 2805</aff>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <fpage>708</fpage>
+      <lpage>727</lpage>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>05</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The changes in the electronic absorption spectra (UV-Vis) of some metallocene-doped poly(methyl methacrylate) (PMMA) thin films containing chloroform molecules as impurities were studied after photoexcitation in the nitrogen atmosphere. Photoexcitations were made by monochromatic radiation (using a Xe-lamp source and a monochromator) at an interval of few nanometers in the spectral range 210-750 nm. The changes in spectra were studied as a function of photoexcitation time (duration), amount of metallocene in the film and the amount of chloroform molecules present in the film. Occurrence of photoinduced charge-transfer between some metallocenes and chloroform molecules confined in the PMMA thin films was observed, which indicated photooxidation of the metallocenes in the polymer matrix. Photoresponse in the case of ferrocene derivatives was observed to decrease with the increase in the value of para-Hammett constant for the substituent attached to the ferrocene unit and also with increasing half-wave potential for the ferrocene derivatives. Photoeffects on the metallocenes having different central metal atom were studied and it was noticed that the photoeffects on the metallocenes with "18 valence electrons", as in ferrocene and ruthenocene, favored the occurrence of photoinduced charge-transfer between the metallocene and chloroform molecules present in a PMMA film. The photooxidation of a metallocene in a PMMA thin film resulted in an enhanced photoconductivity of the polymeric film.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Metallocenes</kwd>
+        <kwd>thin polymer films</kwd>
+        <kwd>photooxidation</kwd>
+        <kwd>absorption spectra</kwd>
+        <kwd>photoconductivity.</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Ferrocene, bis(cyclopentadienyl) iron: Fe(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>; abbreviated as FcH in this article; the first synthesized [<xref ref-type="bibr" rid="B1-molecules-10-00708">1</xref>] organometallic sandwich compound and its derivatives belong to the general class of compounds known as the &#x201C;metallocenes&#x201D;. The important chemical, physical and electrochemical properties as well as many important applications of metallocenes in technological fields [<xref ref-type="bibr" rid="B2-molecules-10-00708">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00708">3</xref>] have been recognized [<xref ref-type="bibr" rid="B3-molecules-10-00708">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00708">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00708">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00708">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00708">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00708">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00708">9</xref>].  Ferrocene and its some derivatives have been used: (i) as efficient mediators in different electron transfer processes [<xref ref-type="bibr" rid="B3-molecules-10-00708">3</xref>]; (ii) for the development of biosensors [<xref ref-type="bibr" rid="B3-molecules-10-00708">3</xref>]; (iii) for the synthesis of new materials of higher electrical conductivity using polymers [<xref ref-type="bibr" rid="B5-molecules-10-00708">5</xref>]; (iv) as efficient inhibitor of degradation, of certain polymer films, by sunlight [<xref ref-type="bibr" rid="B6-molecules-10-00708">6</xref>]; (v) for the preparations of charge-transfer compounds with organic solids [<xref ref-type="bibr" rid="B7-molecules-10-00708">7</xref>] etc. </p>
+      <p>In the past, spectroscopic properties of ferrocene have been studied extensively in the solution phase [<xref ref-type="bibr" rid="B10-molecules-10-00708">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00708">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00708">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00708">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00708">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00708">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00708">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00708">17</xref>] and special attention was paid to study the charge-transfer-to-solvent (CTTS) photochemistry of solution of ferrocene [<xref ref-type="bibr" rid="B10-molecules-10-00708">10</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00708">14</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00708">16</xref>] and ferrocene-based polymers [<xref ref-type="bibr" rid="B18-molecules-10-00708">18</xref>].  Such studies indicated photooxidation of ferrocene in halocarbon solvents. The photooxidation of ferrocene in CCl<sub>4</sub>-ethanol and CHCl<sub>3</sub>-ethanol solutions was investigated at few wavelengths only by Traverso <italic>et al.</italic> [<xref ref-type="bibr" rid="B14-molecules-10-00708">14</xref>]. Such studies in the solution phase were carried out in the case of other metallocenes also [<xref ref-type="bibr" rid="B17-molecules-10-00708">17</xref>].</p>
+      <p>Investigations on the solid-state electronic properties of organic as well as organometallic compounds are very active area of research in semiconductor science [<xref ref-type="bibr" rid="B19-molecules-10-00708">19</xref>,<xref ref-type="bibr" rid="B20-molecules-10-00708">20</xref>]. These compounds offer interesting electronic, optical and mediator materials, whose properties can be suitably modified to apply in specific technologies.  Earlier, in our laboratory, the effects of adsorption of vapors on the electrical conductivity of ferrocene and its derivatives [<xref ref-type="bibr" rid="B21-molecules-10-00708">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00708">22</xref>,<xref ref-type="bibr" rid="B23-molecules-10-00708">23</xref>]; the effects of mechanical pressure on the adsorption-induced electrical conductivity of ferrocene and some of its derivatives [<xref ref-type="bibr" rid="B24-molecules-10-00708">24</xref>,<xref ref-type="bibr" rid="B25-molecules-10-00708">25</xref>]; photoconductivity of ferrocenes and its derivatives [<xref ref-type="bibr" rid="B8-molecules-10-00708">8</xref>,<xref ref-type="bibr" rid="B26-molecules-10-00708">26</xref>,<xref ref-type="bibr" rid="B27-molecules-10-00708">27</xref>,<xref ref-type="bibr" rid="B28-molecules-10-00708">28</xref>]; current oscillations in ferrocene and its derivatives [<xref ref-type="bibr" rid="B9-molecules-10-00708">9</xref>,<xref ref-type="bibr" rid="B29-molecules-10-00708">29</xref>,<xref ref-type="bibr" rid="B30-molecules-10-00708">30</xref>,<xref ref-type="bibr" rid="B31-molecules-10-00708">31</xref>] were studied.  Such studies have shown some interesting results e.g., adsorption-induced phase transition [<xref ref-type="bibr" rid="B21-molecules-10-00708">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00708">22</xref>,<xref ref-type="bibr" rid="B23-molecules-10-00708">23</xref>]; unusual photoconductivity and photoinduced phase transition in these materials [<xref ref-type="bibr" rid="B8-molecules-10-00708">8</xref>,<xref ref-type="bibr" rid="B26-molecules-10-00708">26</xref>,<xref ref-type="bibr" rid="B27-molecules-10-00708">27</xref>,<xref ref-type="bibr" rid="B28-molecules-10-00708">28</xref>]; current oscillations in the vapor-adsorbed state [<xref ref-type="bibr" rid="B9-molecules-10-00708">9</xref>,<xref ref-type="bibr" rid="B29-molecules-10-00708">29</xref>,<xref ref-type="bibr" rid="B30-molecules-10-00708">30</xref>,<xref ref-type="bibr" rid="B31-molecules-10-00708">31</xref>] etc. </p>
+      <p>Because of the various important applications of metallocenes in technological fields and for their important electrical properties, a program was undertaken in our laboratory to study the possibility of photooxidation of metallocenes in a polymer matrix (film) containing halocarbon solvent molecules. The ultimate aim of such studies was to modulate the electrical properties of polymer films through the formation of charge-transfer complexes in the polymer matrix.  Such types of electrically conducting polymeric systems (semiconductors) in the form of thin films could be useful for optoelectronic devices [<xref ref-type="bibr" rid="B32-molecules-10-00708">32</xref>]. </p>
+      <p>To examine the photooxidation of metallocenes present in the solid polymer matrix containing halocarbon solvent molecules as impurities, a program was undertaken to study spectroscopically the effects of irradiation (UV-Vis) on the metallocene-doped poly(methyl methacrylate) thin films prepared from solvents chloroform and benzene and mixture of these solvents.   Such films usually contain solvent molecules as impurities left over in the film after preparation and drying (depending on the heat treatment).  For the present studies; ferrocene, its some derivatives e.g. ferrocenemethanol, ferrocenecarbaldehyde, ferrocenecarboxylic acid, acetylferrocene, ferroceneacetic acid, benzoyl-ferrocene etc. and other metallocenes having atomic number of the central metal atom close that of iron (26) [e.g. cobaltocene (27), nickelocene (28)] as well as much higher than that of iron such as ruthenocene were selected. Ruthenocene is an important metallocene and much attention has been paid to various aspects of studies on this compound i.e. studies on electronic distribution and bonding [<xref ref-type="bibr" rid="B33-molecules-10-00708">33</xref>], dipole polarizability [<xref ref-type="bibr" rid="B34-molecules-10-00708">34</xref>], additivity of fluorene substituent effects in ruthenocene ionization energies [<xref ref-type="bibr" rid="B35-molecules-10-00708">35</xref>], photoreactions in the solution phase [<xref ref-type="bibr" rid="B36-molecules-10-00708">36</xref>,<xref ref-type="bibr" rid="B37-molecules-10-00708">37</xref>] etc. Reported results show that some spectroscopic properties of ruthenocene are similar to that of ferrocene and properties of ruthenocene different from ferrocene have also been reported [<xref ref-type="bibr" rid="B4-molecules-10-00708">4</xref>].</p>
+      <p>The changes in the electronic absorption spectrum of the metallocene-doped PMMA thin films containing chloroform molecules as impurities were studied by monitoring the change in the electronic absorption spectrum of the thin films upon photoexcitation.  Electronic absorption spectra of the thin films were recorded before and after photoexcitation in dry nitrogen atmosphere at room temperature (~300 K). The photoexcitations were made very systematically at an interval of few nanometers in the spectral range 210&#x2013;750 nm. Dependence of the photoinduced changes upon (i) photoexcitation wavelength, (ii) time (duration) of photoexcitation, (iii) amount of metallocene in the film and (iv) amount of chloroform in the film were studied. The effects, of the substitution group (attached to the ferrocene unit) as well as the effect of the central metal atom present in the metallocene, on the photoinduced changes were investigated. The PMMA film acts as a matrix to hold on the sample and solvent molecules together in the solid phase. Recent studies in our laboratory [<xref ref-type="bibr" rid="B38-molecules-10-00708">38</xref>,<xref ref-type="bibr" rid="B39-molecules-10-00708">39</xref>,<xref ref-type="bibr" rid="B40-molecules-10-00708">40</xref>] have shown that photoinduced charge-transfer occurs between metallocenes and chloroform molecules confined in PMMA thin films i.e. photooxidation of metallocenes in the presence of chloroform molecules is possible in the PMMA matrix.   In this present article the overall results on the topic are discussed.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Electronic absorption spectra of metallocene-doped PMMA thin films containing chloroform molecules</title>
+        <p>Curve-1 of <xref ref-type="fig" rid="molecules-10-00708-f001">Figure 1</xref> shows the electronic absorption spectrum of PMMA film containing chloroform molecules and the spectrum for this film after photoexcitation is shown in curve-2, <xref ref-type="fig" rid="molecules-10-00708-f001">Figure 1</xref>. It is seen from curve-1 that the spectrum for PMMA film containing chloroform molecules without photoexcitation shows an absorption band at ~ 270 nm with an indication of a very weak broad band around 330 nm. The spectrum after photoexcitation shows (curve-2) an enhancement in intensity of the spectrum. To get the position of the new absorption bands (if any) appeared due to photoexcitation, a difference in the absorption spectra (spectrum after photoexcitation minus spectra before photoexcitation) was considered. The difference in the electronic absorption spectrum for PMMA film containing chloroform molecules is shown in <xref ref-type="fig" rid="molecules-10-00708-f001">Figure 1</xref> (b), which indicates that photoexcitation increases the intensity of the electronic absorption spectrum of PMMA film containing chloroform molecules.</p>
+        <p>Electronic absorption spectrum of a ferrocene-doped PMMA thin film containing chloroform molecules before photoexcitation shows (curve-1, <xref ref-type="fig" rid="molecules-10-00708-f002">Figure 2</xref>(a)) that it has clear absorption bands at <italic>ca.</italic> 325 and 440 nm and a broad band around 270 nm.</p>
+        <fig id="molecules-10-00708-f001" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p>(a) Electronic absorption spectrum of PMMA thin film containing chloroform molecules: curve-1, without any photoexcitation; curve-2, after photoexcitation for 20 min by a radiation of wavelength of 270 nm. Concentration of PMMA solution in chloroform: 4.17 x 10 <sup>&#x2013;3</sup> M. (b) Difference in electronic absorption spectra: curve-2 minus curve-1 of Fig. (a).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00708-g001.tif"/>
+        </fig>
+        <fig id="molecules-10-00708-f002" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p>(a) Curve-1, electronic absorption spectrum of a ferrocene-doped PMMA thin film containing chloroform molecules before photoexcitation. Amount of ferrocene in the film: 2.58 x 10<sup>-7</sup> M. Curve-2, electronic absorption spectrum of ferrocene-doped PMMA thin film containing chloroform molecules after photoexcitation by wavelength of 270 nm for 20 min. (b) Difference in the electronic absorption spectra (curve-2 minus curve-1 of <xref ref-type="fig" rid="molecules-10-00708-f002">Figure 2</xref>a) of ferrocene-doped PMMA thin film containing chloroform molecules. Photoexcitation by a wavelength of 270 nm for 20 min.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00708-g002.tif"/>
+        </fig>
+        <p>Absorption spectrum of this ferrocene-doped PMMA film after photoexcitation by a radiation of wavelength 270 nm shows (curve-2 in <xref ref-type="fig" rid="molecules-10-00708-f002">Figure 2</xref>(a)) absorption bands at <italic>ca</italic>. 270, 315, 362, 440 and 620 nm. A difference in the absorption spectra of ferrocene-doped PMMA thin film is shown in <xref ref-type="fig" rid="molecules-10-00708-f002">Figure 2</xref> (b), which indicates the photoinduced changes in the spectrum. The appearance of the new bands at about 290, 315, 362 and 620 nm after photoexcitation is evident from <xref ref-type="fig" rid="molecules-10-00708-f002">Figure 2</xref>(a) and <xref ref-type="fig" rid="molecules-10-00708-f002">Figure 2</xref>(b).</p>
+        <p>Electronic absorption spectra of PMMA thin films containing chloroform molecules as impurities and doped with different metallocenes were recorded before photoexcitation as well as after photoexcitation. Significant changes in the spectra were noticed depending on the metallocene used.  Such spectra have shown clearly that the new absorption bands appeared as a result of photoexcitation on the metallocene-doped PMMA thin films containing chloroform molecules. The changes in spectra in the case of ferrocene, acetylferrocene and ruthenocene are shown in <xref ref-type="fig" rid="molecules-10-00708-f003">Figure 3</xref>. Similar to ferrocene, in the case of acetylferrocene and ruthenocene, the appearance of few new absorption bands as a result of photoexcitation is observed from <xref ref-type="fig" rid="molecules-10-00708-f003">Figure 3</xref>. However, due to photoexcitation, no new absorption band appeared for ferroceneacetic acid and benzoylferrocene; only a small enhancement in the intensity of the original bands occured.  In contrast to the case of ruthenocene, as a result of photoexcitation new band/s was /were not observed in the case of cobaltocene and nickelocene. In the case of cobaltocene a small decrease in absorbance (mainly in the UV region) was noticed as a result of photoexcitation whereas in the case of nickelocene a slight increase in absorbance (around 220 nm) after photo-excitation was observed. These observations indicated the photodecomposition of cobaltocene and no significant change in the case of nickelocene under photoexcitation.</p>
+        <p>The positions of the absorption bands in the electronic absorption spectrum of different metallocene-doped PMMA thin films containing chloroform molecules recorded without photoexcitation and the peak positions of the absorption bands appeared as a result of photoexcitation are shown in the <xref ref-type="table" rid="molecules-10-00708-t001">Table 1</xref>.</p>
+      </sec>
+      <sec>
+        <title>Action spectra of the photoinduced changes of metallocene -doped PMMA films</title>
+        <p>The effects of photoexcitation on the electronic absorption spectra of metallocene-doped PMMA thin films containing chloroform molecules were studied as a function of photoexciting wavelength at an interval of few nanometers in the spectral range 210-750 nm. The observed photoinduced changes were observed to depend drastically on the photoexcitation wavelength. Action spectra (plot of change in absorbance of a particular absorption band vs. photoexcitation wavelength) for the photoinduced changes in the case of some metallocene-doped PMMA thin films containing chloroform molecules are shown in <xref ref-type="fig" rid="molecules-10-00708-f004">Figure 4</xref>.  Photoexcitations were performed upto a wavelength of 750 nm but in general there was practically no change in the values of absorbance in each individual spectrum with respect to the photoexcitation wavelength higher than <italic>ca.</italic> 600 nm. The peak positions of the action spectrum for various metallocenes were observed to lie in the UV region near the strong absorption band of the corresponding metallocene in the UV region (as shown in <xref ref-type="table" rid="molecules-10-00708-t002">Table 2</xref>).</p>
+        <fig id="molecules-10-00708-f003" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p>Change in the electronic absorption spectra (after photoexcitation minus before photoexcitation) of metallocene-doped PMMA thin films containing chloroform molecules after photoexcitation: (a) curves 1 and 2 represent ferrocene (left scale) and acetylferrocene (right scale), respectively for photoexcitation by a radiation of wavelength 270 nm for 20 min. Concentration of ferrocenes: 1.33 mole/mole of PMMA; (b) represents ruthenocene; photoexcitation for 20 min by a radiation of wavelength of 252 nm. Concentration of ruthenocene in the film: 1.35 mole/mole of PMMA. Concentration of PMMA solution in chloroform: 4.17 x 10 <sup>&#x2013;3</sup> M.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00708-g003.tif"/>
+        </fig>
+        <fig id="molecules-10-00708-f004" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>Action spectrum: the change in absorbance vs. photoexcitation wavelength for metallocene-doped PMMA films containing chloroform molecules. Curves 1-3 represent action spectrum for ferrocene, ruthenocene and acetylferrocene doped PMMA films containing chloroform molecules. Measured absorbance at 362 nm and 352 nm for ferrocene and acetylferrocene, respectively; concentration of ferrocenes: 1.33 mole / mole of PMMA. Photoexcited for 20 min. Absorbance measured at 369 nm for ruthenocene; photoexcited for 15 min., concentration of ruthenocene: 1.35 mole / mole of PMMA. The arrows indicate the scale used.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00708-g004.tif"/>
+        </fig>
+        <table-wrap id="molecules-10-00708-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00708-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Position of the absorption bands recorded for metallocene-doped PMMA thin films</p>
+          </caption>
+          <table rules="cols" style="border:solid thin">
+            <tbody>
+              <tr>
+                <td align="center" valign="middle">Materials</td>
+                <td align="center" valign="middle">Positions of the absorption bands (nm) before photoexcitation</td>
+                <td align="center" valign="middle">Peak positions of the new absorption bands (appeared after photoexcitation) in the difference spectrum (nm)</td>
+              </tr>
+              <tr style="border-top:solid thin">
+                <td align="left" valign="top">Ferrocene</td>
+                <td align="center" valign="top">440, 325, 270, 220</td>
+                <td align="center" valign="top">620, 362, 315, 290</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ferrocenemethanol</td>
+                <td align="center" valign="top">427, 328, 266, 222</td>
+                <td align="center" valign="top">642, 362, 318, 300</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ferrocenecarbaldehyde</td>
+                <td align="center" valign="top">454, 370, 329, 269, 229</td>
+                <td align="center" valign="top">608, 317, 295</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ferrocenecarboxylic acid</td>
+                <td align="center" valign="top">441, 354, 305, 261, 221</td>
+                <td align="center" valign="top">590, 362, 321, 288</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Acetylferrocene</td>
+                <td align="center" valign="top">450, 327, 265, 227</td>
+                <td align="center" valign="top">541, 352, 318, 293</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ferroceneacetic acid</td>
+                <td align="center" valign="top">467, 340, 270, 225</td>
+                <td align="center" valign="top">No new band</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Benzoylferrocene</td>
+                <td align="center" valign="top">468, 356, 278, 241</td>
+                <td align="center" valign="top">No new band</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ruthenocene</td>
+                <td align="center" valign="top">320, 281, 273, 245</td>
+                <td align="center" valign="top">410, 369, 347, 285, 260</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap id="molecules-10-00708-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00708-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Peak position of the action spectrum for the photoinduced changes, peak position of the strong absorption band at UV region and the position of the CT-band for the photoinduced charge-transfer between metallocene and chloroform molecules confined in the PMMA matrix.</p>
+          </caption>
+          <table rules="cols" style="border:solid thin">
+            <tbody>
+              <tr>
+                <td align="center" valign="middle">Materials<break/> studied</td>
+                <td align="center" valign="middle">Peak position of the action spectrum for the photoinduced changes (nm)</td>
+                <td align="center" valign="middle">Peak position of the strong absorption band of the metallocenes around 245-270 (nm)</td>
+                <td align="center" valign="middle">Position of CT band (nm)</td>
+              </tr>
+              <tr style="border-top:solid thin">
+                <td align="left" valign="top">Ferrocene</td>
+                <td align="center" valign="top">261</td>
+                <td align="center" valign="top">261</td>
+                <td align="center" valign="top">315</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ferrocenemethanol</td>
+                <td align="center" valign="top">270</td>
+                <td align="center" valign="top">266</td>
+                <td align="center" valign="top">318</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ferrocenecarboxylic acid</td>
+                <td align="center" valign="top">270</td>
+                <td align="center" valign="top">261</td>
+                <td align="center" valign="top">321</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Acetylferrocene</td>
+                <td align="center" valign="top">260</td>
+                <td align="center" valign="top">265</td>
+                <td align="center" valign="top">318</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ferrocenecarbaldehyde</td>
+                <td align="center" valign="top">260</td>
+                <td align="center" valign="top">269</td>
+                <td align="center" valign="top">317</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ruthenocene</td>
+                <td align="center" valign="top">250</td>
+                <td align="center" valign="top">245</td>
+                <td align="center" valign="top">281</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The variation in absorbance for all the new bands (for a particular metallocene) with photoexcitation wavelength was almost similar in nature. Considering the response to the photoinduced changes as 100% for ferrocene, from the corresponding action spectrum, the relative response of different metallocenes was estimated, as represented in <xref ref-type="table" rid="molecules-10-00708-t003">Table 3</xref>.</p>
+      </sec>
+      <sec>
+        <title>Dependence of the photoinduced changes on the time (duration) of photoexcitation on metallocene-doped PMMA thin films containing chloroform molecules</title>
+        <p>Changes in the electronic absorption spectra of metallocene-doped PMMA thin films containing chloroform molecules were studied as a function of time (duration) of photoexcitation [<xref ref-type="bibr" rid="B39-molecules-10-00708">39</xref>,<xref ref-type="bibr" rid="B40-molecules-10-00708">40</xref>]. For such studies, photoexcitation in the case of a particular metallocene was done by the radiation showing significant photoresponse for the particular material.  In fact, radiation of 270 nm for ferrocene, ferrocenemethanol and ferrocenecarboxylic acid; radiation of 260 nm for ferrocenecarbaldehyde and acetylferrocene; and radiation of 252 nm for ruthenocene were selected. Metallocene-doped PMMA films were prepared from the solution of PMMA in 100% chloroform and the concentration of metallocenes was kept almost fixed. <xref ref-type="fig" rid="molecules-10-00708-f005">Figure 5</xref> (a) shows the spectral changes for few representative values of photoexcitation time in the case of acetylferrocene. Enhancement in the intensity of the new bands with time of photoexcitation is noticed from <xref ref-type="fig" rid="molecules-10-00708-f005">Figure 5</xref> (a).</p>
+        <fig id="molecules-10-00708-f005" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>(a) Changes in the electronic absorption spectra of acetylferrocene-doped PMMA films containing chloroform molecules for different time (duration) of photoexcitation (by 260 nm); curves 1-4 refer to photoexcitation time 5, 10, 20 and 40 min, respectively. Concentration of acetylferrocene in the films: 1.33 mole / mole of PMMA. (b) Plots of change in absorbance at 352 nm vs. photoexcitation time.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00708-g005.tif"/>
+        </fig>
+        <p>In <xref ref-type="fig" rid="molecules-10-00708-f005">Figure 5</xref> (b), a plot of the change in absorbance of the band at 352 nm vs. photoexcitation time is represented; which shows that the change in absorbance increases almost linearly with increasing time of photoexcitation upto about 10 min and for higher values of photoexcitation time it tends to a saturation value. Similar changes in absorbance with the photoexcitation time were also observed for other absoption bands for acetylferrocene. In general, the absorbance of the new bands showed an initial increase with increasing photoexcitation time followed by a saturation or tendency of saturation in the working range of the photoexcitation time under study.  The amount of the change in absorbance and the time required for attaining saturation were observed to depend significantly on the nature of the metallocene used. For ferrocene, the saturation in the changes in absorbance was attained for the photoexcitation of about 40 min. In the cases of ferrocene derivatives, within the photoexcitation time of 60 min saturation in the changes in absorbance was not attained but a tendency of saturation was noticed.  In the case of ruthenocene, for the photoexcitation time upto about 30 min the change in absorbance was almost linear, after that the change in absorbance was slower than the initial rate of change in absorbance with photoexcitation time. </p>
+      </sec>
+      <sec>
+        <title>Dependence of the photoinduced changes on the amount of metallocene in the metallocene-doped PMMA thin films containing chloroform molecules</title>
+        <p>Dependence of the photoeffects on the amount of metallocene in the metallocene-doped PMMA films (containing chloroform molecules) was studied by using photoexcitation at a fixed wavelength and keeping all other parameters fixed [<xref ref-type="bibr" rid="B39-molecules-10-00708">39</xref>,<xref ref-type="bibr" rid="B40-molecules-10-00708">40</xref>]. In <xref ref-type="fig" rid="molecules-10-00708-f006">Figure 6</xref>(a), the representative plots for the spectral changes with the amount of metallocene in the PMMA film (containing chloroform molecules) are shown in the case of acetylferrocene.  The plot of the change in absorbance of the new band at 352 nm vs. amount of acetylferrocene in the film is shown in <xref ref-type="fig" rid="molecules-10-00708-f006">Figure 6</xref>(b).</p>
+        <fig id="molecules-10-00708-f006" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p>(a) Changes in the electronic absorption spectra for acetylferrocene-doped PMMA thin films containing chloroform molecules for different concentration of acetylferrocene in the film. Curves 1-4 refer to concentration of acetylferrocene 0.22, 0.56, 0.78 and 1.33 mole / mole of PMMA, respectively. Photoexcited by a radiation of wavelength 260 nm for 20 min. (b) Plots of change in absorbance of the band at 352 nm vs. concentration of acetylferrocene in the film of PMMA containing chloroform molecules.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00708-g006.tif"/>
+        </fig>
+        <p>This figure shows that up to certain amount of acetylferrocene, intensity of the new band increases with increasing amount of acetylferrocene in the film. For further increasing amount of acetylferrocene in the film, the intensity of the band tends to decrease a little and then attains almost a saturation value at higher values of the amount of acetylferrocene in the film. Similar changes in absorbance with the amount of acetylferrocene in the film were also observed for other absoption bands. The amount of changes in absorbance after photoexcitation upon the metallocene-doped PMMA films (containing chloroform molecules) were noticed to depend significantly on the nature of metallocene used. But the general profile showing the change in absorbance versus concentration of the metallocene in the film was almost similar (as in <xref ref-type="fig" rid="molecules-10-00708-f006">Figure 6</xref>(b)) for the different metallocenes.</p>
+        <p>Interestingly it was noticed that in most cases the maximum photoresponse was observed for a concentration of the metallocene in the PMMA film at a value nearly 1.3 mole/mole of PMMA. In the case of ferrocene and its other derivatives, saturation in the change in absorbance with increasing concentration was observed at higher values of concentration (as in <xref ref-type="fig" rid="molecules-10-00708-f006">Figure 6</xref>(b)). However, in the case of ruthenocene, for the higher values of concentration (same range), no saturation in the change in absorbance was observed and a steady decrease in absorbance with increasing concentration was recorded [<xref ref-type="bibr" rid="B40-molecules-10-00708">40</xref>].</p>
+      </sec>
+      <sec>
+        <title>Dependence of the photoinduced changes on the amount of chloroform in the metallocene-doped PMMA thin films containing chloroform molecules</title>
+        <p>To study the dependence of the photoeffects on the amount of chloroform molecules left over in the PMMA films (doped with a fixed amount of a metallocene), the metallocene-doped PMMA films were prepared by using the mixtures of solvents benzene and chloroform of various proportions. <xref ref-type="fig" rid="molecules-10-00708-f007">Figure 7</xref>(a) shows the spectral changes with increasing amount of chloroform (i.e. increasing percentage of chloroform in the solvent mixture) used for the preparation of a acetylferrocene-doped PMMA film (hence with increasing amount of chloroform left over in the film) for photoexcitation at 260 nm for 20 min.</p>
+        <fig id="molecules-10-00708-f007" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <p>(a) Changes in the electronic absorption spectra for acetylferrocene-doped PMMA films prepared from mixtures of solvents (benzene and chloroform) in various proportions; curves 1-4 refer 20, 40, 60 and 100% chloroform, respectively. Photoexcited by a radiation of wavelength 260 nm for 20 min. Concentration of acetylferrocene: 1.33 mole/mole of PMMA. (b) Plots of change in absorbance at 352 nm vs. amount of chloroform (%) in the acetylferrocene-doped PMMA thin films</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00708-g007.tif"/>
+        </fig>
+        <p>It should be mentioned here that the metallocene-doped PMMA films prepared from benzene did not show any new absorption band after photoexcitation (not shown). In <xref ref-type="fig" rid="molecules-10-00708-f007">Figure 7</xref>(b), a plot of the change in absorbance at 352 nm vs. amount of chloroform (%) is shown which shows that the observed photoeffects depend significantly on the amount of chloroform present in the film.  Similar changes in absorbance with the amount of chloroform in the film were also observed for other absoption bands. </p>
+        <p>The amount of changes in absorbance after photoexcitation on the metallocene-doped PMMA films containing different amounts of chloroform molecules were noticed to depend significantly on the nature of metallocene used. There was difference in the profile for the change in absorbance versus amount of chloroform in the metallocene-doped PMMA films.  In the case of ferrocene, a steady rise in the change in absorbance was noted upto about 40% chloroform, after that almost saturation in absorbance with increasing amount of chloroform in the film was noted. </p>
+        <p>For ferrocenemethanol, a steady rise in the absorbance was observed upto about 60% chloroform in the film; thereafter changes in absorbance were tending towards saturation.  In the case of other ferrocene derivatives under study as well as ruthenocene, steady rise in absorbance with increasing amount of chloroform in the film was observed upto 80% chloroform in the film, after that the change in absorbance was tending towards the saturation value. Studies on the changes in the spectra as a function of time (duration) of photoexcitation, amount of metallocene in the film and the amount of chloroform present in the film show that such changes are systematic and must have some physical basis.</p>
+      </sec>
+      <sec>
+        <title>Assignment of the absorption bands that appeared due to photoexcitation of metallocene-doped PMMA thin films containing chloroform molecules</title>
+        <p>The absorption bands appeared at 325 nm and 440 nm in the electronic absorption spectrum (curve 1 of <xref ref-type="fig" rid="molecules-10-00708-f002">Figure 2</xref>(a)) of ferrocene-doped PMMA film containing chloroform molecules (without photoexcitation) are the intramolecular absorption bands of ferrocene, appeared due to the coordinate linkage between iron atom and cyclopentadienyl ring [<xref ref-type="bibr" rid="B4-molecules-10-00708">4</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00708">11</xref>]. Solutions of ferrocene in halocarbon solvents, chloroform and carbontetrachloride after photoexcitation have shown [<xref ref-type="bibr" rid="B10-molecules-10-00708">10</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00708">14</xref>] new absorption maxima at 290, 362 and around <italic>ca.</italic> 620-627 nm. It is well known that the band at 620-627 nm originates due to ferricenium ion, and the bands at 362 nm and 290 nm appear due to organic radical cations formed due to photoreaction [<xref ref-type="bibr" rid="B10-molecules-10-00708">10</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00708">14</xref>]. It has been reported [<xref ref-type="bibr" rid="B14-molecules-10-00708">14</xref>] that a broad absorption band appeared at about 307 nm in the solution of ferrocene in carbontetrachloride after photoexcitation originates due to ferrocene-to-solvent-charge-transfer transition. The band appeared at <italic>ca.</italic> 620 nm in the absorption spectrum (<xref ref-type="fig" rid="molecules-10-00708-f002">Figure 2</xref>(b)) after photoexcitation of ferrocene-doped PMMA film containing chloroform molecules is the characteristic absorption band of ferricenium cation (FcH<sup>+</sup>) [<xref ref-type="bibr" rid="B10-molecules-10-00708">10</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00708">14</xref>]. Formation of ferricenium cation indicates the dissociation of charge-transfer complex between ferrocene (as donor) and chloroform (as acceptor) confined in PMMA film. The band appeared at 362 nm in the absorption spectrum of ferrocene-doped PMMA film containing chloroform molecules after photoexcitation is also caused by the formation of some organic radical cation (R.). The band appeared at 315 nm in the absorption spectrum discussed earlier is possibly the CT band, appeared due to the photoinduced transfer of charge from ferrocene to chloroform molecules confined in the PMMA film.</p>
+        <p>Similar to the absorption band at 325 nm and 440 nm of ferrocene-doped PMMA thin film, the bands appeared around 327-329 nm and around 427-450 nm in the electronic absorption spectrum of ferrocene derivative-doped PMMA films containing chloroform molecules (without photoexcitation) are the intramolecular absorption bands appeared due to the coordinate linkage between iron atom and cyclopentadienyl ring [<xref ref-type="bibr" rid="B4-molecules-10-00708">4</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00708">11</xref>]. The absorption band appeared in the range 590-642 nm, depending on the nature of the ferrocene derivative, is the characteristic absorption band of the corresponding cation (similar to FcH<sup>+</sup>) for the derivative used. Formation of such cations indicates the dissociation of charge-transfer complex between the ferrocene derivative (as donor) and chloroform (as acceptor) confined in the PMMA film. The bands appeared in the range 288-300 nm and 352-362 nm in the absorption spectra of ferrocene derivative-doped PMMA films containing chloroform molecules after photoexcitation is caused by the formation of some organic radical cation (R.), as observed in the case of solution of ferrocene in chloroform [<xref ref-type="bibr" rid="B10-molecules-10-00708">10</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00708">14</xref>]. The band appeared at <italic>ca.</italic> 318, 317, 321, and 318 nm for ferrocenemethanol, ferrocenecarbaldehyde, ferrocenecarboxylic acid and acetylferrocene, respectively (<xref ref-type="table" rid="molecules-10-00708-t001">Table 1</xref>) in the electronic absorption spectrum after photoexcitation is possibly the CT band, appeared as a result of the photoinduced transfer of charge from ferrocene derivative to chloroform molecules confined in the PMMA film.</p>
+        <p>The photochemistry of ruthenocene in the solution phase has been independently reported by the two groups of workers [<xref ref-type="bibr" rid="B36-molecules-10-00708">36</xref>,<xref ref-type="bibr" rid="B37-molecules-10-00708">37</xref>]. The two reports are remarkably consistent with the photochemistry of ruthenocene paralleling that of ferrocene [<xref ref-type="bibr" rid="B4-molecules-10-00708">4</xref>]. According to Traverso et al [<xref ref-type="bibr" rid="B36-molecules-10-00708">36</xref>] ruthenocene-halocarbon solution were stable in the dark for a long period when these solutions were irradiated with 280 nm light [<xref ref-type="bibr" rid="B36-molecules-10-00708">36</xref>], an increase in absorbance with maximum at 320 nm could be observed after a short irradiation time. The spectral behavior showing absorption band at 320 nm, is indicative of the formation of ruthenocenium cation. It was concluded [<xref ref-type="bibr" rid="B36-molecules-10-00708">36</xref>] that halocarbon solvents appear to form charge-transfer complexes with ruthenocene, where ruthenocene acts as the donor molecule and the halocarbon solvents are the acceptors. Ruthenocene in halocarbon solvents exhibits a new band of charge-transfer-to-solvents (CTTS) type at 285 nm for carbontetrachloride.  In our study [<xref ref-type="bibr" rid="B40-molecules-10-00708">40</xref>] on the ruthenocene-doped PMMA films containing chloroform molecules, the appearance of the absorption band at <italic>ca.</italic> 281 nm before photoexcitation  (an absorption band around 285 nm after photoexcitation, as shown in <xref ref-type="fig" rid="molecules-10-00708-f003">Figure 3</xref>(b)), indicates that in the solid films also CT-complex is formed between ruthenocene and the chloroform molecules contained in the PMMA film. Interestingly in the case of ruthenocene CT- complex was formed between ruthenocene and the chloroform molecules contained in the PMMA film before photoexcitation and upon photoexcitation the above-mentioned CT-complex formation was enhanced. In our study, we could detect absorption band at 320 nm (indicative of the formation of ruthenocenium cation) for the ruthenocene-doped PMMA films both before as well as after photoexcitation.  The band appeared at 369 nm could be due to the formation of organic radical cation as a result of photooxidation [<xref ref-type="bibr" rid="B10-molecules-10-00708">10</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00708">14</xref>] of ruthenocene in the PMMA matrix. The observation of other new bands appeared at about 260, 347 and 410 nm in the spectrum of ruthenocene-doped PMMA films containing chloroform molecules could be due to the species formed as a result of photoreaction.  The position of the CT bands appeared as a result of photoexcitation upon the metallocene-doped PMMA thin films containing chloroform molecules is shown in <xref ref-type="table" rid="molecules-10-00708-t002">Table 2</xref>.  The assignment of some absorption bands as CT bands, discussed above, was confirmed by the application of Mulliken&#x2019;s theory for the formation of a charge-transfer complex [<xref ref-type="bibr" rid="B41-molecules-10-00708">41</xref>], which is discussed in the following section.</p>
+        <p>According to Mulliken&#x2019;s theory for the formation of a charge-transfer complex, to a first approximation, one can relate the energy of the charge-transfer band with the ionization potential of the donor and the electron affinity of the acceptor molecule by the linear relation [<xref ref-type="bibr" rid="B41-molecules-10-00708">41</xref>]
+		<disp-formula>
+        h&#x3C5;<sub>CT</sub> = I<sub>D</sub><sup>V</sup> - E<sub>A</sub><sup>V</sup> + C<sub>1</sub>
+		<label>(1)</label>
+		</disp-formula>
+        where h&#x3C5;<sub>CT</sub> is the energy of the lowest-energy intermolecular charge-transfer band, I<sub>D</sub><sup>V</sup> is the vertical ionization potential of the donor, E<sub>A</sub><sup>V</sup> is the vertical electron affinity of the acceptor and C<sub>1</sub> is a constant.  The relationship between the ionization potentials of two donors and the values of h&#x3C5;<sub>CT</sub>, corresponding to their charge-transfer complexes with a common acceptor, assuming that the C<sub>1</sub> values do not differ much in the two complexes, can be written as: 
+		<disp-formula>
+        I<sub>D</sub> (donor-2) = I<sub>D</sub> (donor-1) + h&#x3C5;<sub>CT</sub> (2) - h&#x3C5;<sub>CT</sub> (1)
+		<label>(2)</label>
+		</disp-formula>
+		</p>
+        <p>From eqn.2, one can estimate the value of ionization potential/ energy of donor-2 if the ionization potential/ energy of the donor-1 and the associated values of the &#x3C5;<sub>CT</sub> are known. We have estimated the values of the ionization energy of ruthenocene from eqn.2 by assuming I<sub>D</sub> (donor-1) to be 6.88 eV for ferrocene [<xref ref-type="bibr" rid="B42-molecules-10-00708">42</xref>] and considering the CT band for ferrocene-chloroform complex [<xref ref-type="bibr" rid="B38-molecules-10-00708">38</xref>] at 315 nm (h&#x3C5;<sub>CT</sub> (1) = 3.93 eV). The consideration of the CT band for the ruthenocene-chloroform complex formed without photoexcitation, at 281 nm (h&#x3C5;<sub>CT</sub> (2) = 4.41 eV), and at 285 nm (h&#x3C5;<sub>CT</sub> (2)= 4.35 eV) for ruthenocene-chloroform complex formed after photoexcitation in the PMMA film gives the estimated value of ionization energy of ruthenocene as 7.36 and 7.30 eV, respectively. The estimated value of ionization energy of ruthenocene agrees excellently with the reported value [<xref ref-type="bibr" rid="B42-molecules-10-00708">42</xref>] of ionization energy (7.45 eV) of ruthenocene. This agreement supports the idea that the band at 281 nm (at 285 nm after photoexcitation) in the electronic absorption spectra of ruthenocene-doped PMMA in the presence of chloroform molecules appears due to the charge-transfer complex formation between ruthenocene and chloroform molecules.  As the values of ionization energy (measured under identical conditions) of the other metallocenes under study were not available in the literature, the estimated values of ionization energy of the other metallocenes could not be compared with the experimental value.  Again, the nature of changes in absorbance with concentration of metallocene and amount of chloroform molecules in the PMMA film (as shown for acetylferrocene in <xref ref-type="fig" rid="molecules-10-00708-f006">Figure 6</xref>(b) and <xref ref-type="fig" rid="molecules-10-00708-f007">Figure 7</xref>(b), respectively) is quite usual as observed in the case of change in absorbance of a charge-transfer band or a band of any other ion formed as a result of formation of a charge-transfer complex.  These results add further credence to the concept of formation of charge-transfer complex between metallocene and chloroform molecules present in the PMMA films.</p>
+      </sec>
+      <sec>
+        <title>Mechanism of photoinduced changes</title>
+        <p>From the discussion in the previous sections it appears that the primary step in the photoprocess is the dissociation of the charge- transfer state to give FcH<sup>+</sup> cation for ferrocene and similar cations for the other metallocenes, Cl<sup>-</sup> and organic radical ion (CHCl<sub>2</sub><bold>.</bold>) [<xref ref-type="bibr" rid="B4-molecules-10-00708">4</xref>]. On the basis of the results one could consider the following primary photochemical process:
+		<disp-formula>
+        h&#x3BD;<break/> 
+		FcR<sub>1</sub> + RCl &#x2192; FcR<sub>1</sub><sup>+</sup> + Cl<sup>-</sup> + CHCl<sub>2</sub><bold>.</bold>
+		<label>(3)</label>
+		</disp-formula>
+		</p>
+        <p>(Fc denotes (C<sub>5</sub>H<sub>5</sub>)Fe(C<sub>5</sub>H<sub>4</sub>-) and R<sub>1</sub> stands for &#x2013;H, &#x2013;CH<sub>2</sub>OH, -CHO, -COOH and -COCH<sub>3</sub> for ferrocene, ferrocenemethanol, ferrocenecarbaldehyde, ferrocenecarboxylic acid and acetylferrocene, respectively) for the formation of ferricenium ion and ions similar to the ferricenium ion for the ferrocene derivatives. This process occurs through charge-transfer excitation. </p>
+        <p>The mechanism of the photooxidation of ruthenocene is similar to that of ferrocene [<xref ref-type="bibr" rid="B4-molecules-10-00708">4</xref>]. For the short irradiation periods, the primary reaction can be represented [<xref ref-type="bibr" rid="B36-molecules-10-00708">36</xref>] as
+		<disp-formula>
+        h&#x3BD;<break/> 
+        [Ru(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub> ] + CHCl<sub>2</sub> Cl &#x2192; [Ru(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub> ]<sup>+</sup> + Cl<sup>-</sup> + CHCl<sub>2</sub><bold>.</bold>
+		<label>(4)</label>
+		</disp-formula>
+		</p>
+        <p>In fact, the real mechanism of the photoinduced processes involved is much complicated and it is not possible to monitor this from the present spectral studies only.  In addition to the primary photochemical process some secondary thermal process induced by CHCl<sub>2</sub> radical may take place; which is not easily definable. In an environment free from oxygen (as in the present experiment photoexcitation was performed in nitrogen atmosphere), CHCl<sub>2</sub> radical could act in two different ways: (i) it could directly cause oxidation of the metallocene to the corresponding cation [<xref ref-type="bibr" rid="B14-molecules-10-00708">14</xref>] or (ii) it could produce its tetrachloride reacting with intermediate species formed [<xref ref-type="bibr" rid="B4-molecules-10-00708">4</xref>].  It should be mentioned here that in the presence of oxygen (during measurement of spectra in the normal environment) the CHCl<sub>2</sub> radical could react with molecular oxygen to give intermediate species capable of oxidizing the metallocenes [<xref ref-type="bibr" rid="B14-molecules-10-00708">14</xref>].  In the present experiment (as mentioned earlier) for relatively longer period of photoexcitation, the photoeffects have been observed to deviate from the linearity (as shown in <xref ref-type="fig" rid="molecules-10-00708-f005">Figure 5</xref>(b)).  This deviation from the linearity indicates that a secondary thermal process must have taken place, as discussed above.  </p>
+        <p>After recording the absorption spectrum for a photoexcited ferrocene-doped PMMA film, the film was kept in air and the changes in absorption spectrum was checked as a function of time.  Fluctuations in absorbance associated with the time-dependent changes in its value under various experimental conditions such as varying the duration of photoexcitation, photoexcitation wavelength and concentration of ferrocene in the PMMA films [<xref ref-type="bibr" rid="B43-molecules-10-00708">43</xref>] were noticed.  With increasing time after ceasing the photoexcitation, the nature of observed gross change in absorbance [<xref ref-type="bibr" rid="B43-molecules-10-00708">43</xref>] is a clear indication for the change in the concentration of ions, radicals and other species formed due to secondary reactions.  The observed fluctuations in absorbance seem to indicate the diffusion of small chemical species in polymer matrix and its thickness determine the time scale of observed fluctuation [<xref ref-type="bibr" rid="B43-molecules-10-00708">43</xref>].  Similar studies in the case of other metallocenes will be carried out in the future.</p>
+      </sec>
+      <sec>
+        <title>Effects of the substituent group attached to the ferrocene unit on the photoinduced changes</title>
+        <p>The maximum relative photoresponse of different ferrocene derivatives presented in <xref ref-type="table" rid="molecules-10-00708-t003">Table 3</xref> shows that photoresponse of ferrocene derivatives decreases relative to ferrocene in the order ferrocene-methanol, ferrocenecarboxylic acid, acetylferrocene and ferrocenecarbaldehyde, respectively. The effects of substituent groups in many chemical reactions are related systematically to the Hammett substituent constant [<xref ref-type="bibr" rid="B44-molecules-10-00708">44</xref>] of the substituents. The para Hammett constant (&#x3C3;<sub>P</sub>) values for the substituents in Fc(COOH), Fc(COCH<sub>3</sub>) and Fc(CHO) (secondary Hammett constant, &#x3C3;<sub>p</sub>) are reported [<xref ref-type="bibr" rid="B45-molecules-10-00708">45</xref>] to be 0.45, 0.502 and 0.522, respectively. The para Hammett constant (&#x3C3;<sub>P</sub>) value for the substituent in Fc(CH<sub>2</sub>OH) is not known. But, the Hammett substituent constant for the substituent CH<sub>2</sub>OH is reported [<xref ref-type="bibr" rid="B46-molecules-10-00708">46</xref>] to be 0.00. The &#x3C3;<sub>P</sub> values take into consideration all of the interactions between the substituent groups and the FcH nucleus. From <xref ref-type="table" rid="molecules-10-00708-t003">Table 3</xref>, it is interesting to note that the photoresponse of ferrocene derivatives decreases with increasing &#x3C3;<sub>P</sub>. Again, the photoinduced charge-transfer mentioned earlier is expected to depend on the ionization potential of ferrocene derivatives, which is not known. The values of half-wave potential (which is linearly related to ionization potential) associated with the transfer of electron between platinum electrode and the ferrocene derivatives were measured (shown in <xref ref-type="table" rid="molecules-10-00708-t003">Table 3</xref>) by cyclic voltametry. The photoresponse in the ferrocene derivatives has been observed to decrease with increasing value of half-wave potential.</p>
+        <table-wrap id="molecules-10-00708-t003" position="float">
+          <object-id pub-id-type="pii">molecules-10-00708-t003_Table 3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <p>Relative photoresponse due to photoexcitation in some metallocenes confined in PMMA films containing chloroform molecules.</p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <tbody>
+              <tr>
+                <td align="center" valign="middle">Materials<break/>studied</td>
+                <td align="center" valign="middle">Relative photoesponse (%)</td>
+                <td align="center" valign="middle">Half-wave potential at 298K in acetonitrile vs. SCE (mv)</td>
+                <td align="center" valign="middle">Value of para Hammett Substituent constant (&#x3C3;<sub>p</sub>)</td>
+              </tr> 
+              <tr>
+                <td align="left" valign="top">Ferrocene</td>
+                <td align="center" valign="top">100</td>
+                <td align="center" valign="top">394</td>
+                <td align="center" valign="top">0.00</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ferrocenemethanol</td>
+                <td align="center" valign="top">52.50</td>
+                <td align="center" valign="top">395</td>
+                <td align="center" valign="top">0.00</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ferrocenecarboxylic acid</td>
+                <td align="center" valign="top">16.25</td>
+                <td align="center" valign="top">643</td>
+                <td align="center" valign="top">0.45</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Acetylferrocene</td>
+                <td align="center" valign="top">13.75</td>
+                <td align="center" valign="top">655.5</td>
+                <td align="center" valign="top">0.502</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Ferrocenecarbaldehyde</td>
+                <td align="center" valign="top">13.00</td>
+                <td align="center" valign="top">700.5</td>
+                <td align="center" valign="top">0.522</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Effect of the central metal atom in the metallocene on the photoinduced changes</title>
+        <p>Experimental results [<xref ref-type="bibr" rid="B40-molecules-10-00708">40</xref>] have indicated the occurrence of charge-transfer between some metallocenes (ferrocene, its some derivatives and ruthenocene) and chloroform molecules confined in the PMMA films. But the occurrence of charge-transfer between cobaltocene / nickelocene and chloroform molecules confined in the PMMA films was not observed [<xref ref-type="bibr" rid="B40-molecules-10-00708">40</xref>]. In fact, photodecomposition of cobaltocene in the PMMA film containing chloroform molecules has been indicated from the photoinduced changes in the electronic absorption spectra of the material. In contrast, no significant photoinduced changes in the electronic absorption spectra of nickelocene-doped PMMA films containing chloroform molecules have been noticed. The observed results can be discussed on the basis of the electronic configuration [<xref ref-type="bibr" rid="B47-molecules-10-00708">47</xref>] of the metallocenes under study.  Ferrocene and ruthenocene are known as d<sup>6</sup> metallocenes with eighteen valence electrons.  Cobaltocene is known as d<sup>7</sup> metallocene with nineteen valence electrons and nickelocene is known as d<sup>8</sup> metallocene with twenty valence electrons.  It is interesting to note that ferrocene with &#x201C;18 valence electrons&#x201D; form photoinduced charge transfer with the chloroform molecules present in the PMMA film and ruthenocene, also with &#x201C;18 valence electrons&#x201D;, forms charge transfer (without photoexcitation) with the chloroform molecules present in the PMMA film. As a result of photoexcitation on the ruthenocene-doped PMMA film containing chloroform molecules further photooxidation of ruthenocene in PMMA film was noticed. Metallocenes with nineteen and twenty valence electrons, cobaltocene and nickelocene, respectively, have shown entirely different photoeffects, as mentioned earlier. Further studies are required for clear understanding why metallocenes with &#x201C;18 valence electrons&#x201D; are active for photoinduced charge-transfer i.e. photooxidation in the PMMA matrix while metallocenes with nineteen and twenty valence electrons do not show such a photoactivity.</p>
+      </sec>
+      <sec>
+        <title>Photoconductivity in metallocene-doped PMMA thin films containing chloroform molecules and the role of photooxidation of metallocenes in the polymer matrix </title>
+        <p>Ferrocene-doped PMMA thin films prepared from the solution in chloroform and mixture of chloroform and benzene of different proportions, and modified under photoexcitation have exhibited interesting photoswitching property [<xref ref-type="bibr" rid="B48-molecules-10-00708">48</xref>] monitored by photoconductivity measurements in air.  It has been concluded [<xref ref-type="bibr" rid="B48-molecules-10-00708">48</xref>] that the photogenerated charge carriers in the films after the initial photoexcitation were controlled by competing processes of photodegradation of PMMA and the secondary thermal reaction following the dissociation of the charge transfer complex in the polymer matrix. </p>
+        <p>Measurements of photoconductivity and the conductivity after ceasing the photoexcitation (in the nitrogen environment) in the case of ferrocene-doped PMMA films containing chloroform molecules, prepared under different humid conditions, have shown persistence in photoconductivity as well as the persistence of the photoinduced effects for longer time after ceasing the photoexcitation [<xref ref-type="bibr" rid="B49-molecules-10-00708">49</xref>,<xref ref-type="bibr" rid="B50-molecules-10-00708">50</xref>]. The occurrence of the photoinduced charge-transfer between ferrocene and chloroform molecules present in a PMMA film is expected to have an important role for the photoinduced change in the electrical conductivity of the ferrocene-doped PMMA thin film containing chloroform molecules.  Some of the chemical species formed in the ferrocene-doped PMMA films as a result of photoexcitation were possibly acting as trapping centres for the photoexcited charge carriers [<xref ref-type="bibr" rid="B50-molecules-10-00708">50</xref>].</p>
+        <p>In addition, the photooxidation of ferrocene in PMMA film in the presence of chloroform molecules has shown enhanced photoconductivity [<xref ref-type="bibr" rid="B49-molecules-10-00708">49</xref>].  Similar to our observation [<xref ref-type="bibr" rid="B38-molecules-10-00708">38</xref>,<xref ref-type="bibr" rid="B39-molecules-10-00708">39</xref>] on photooxidation of ferrocene in the presence of chloroform molecules confined in the PMMA thin film, Cyr <italic>et. al.</italic> [<xref ref-type="bibr" rid="B51-molecules-10-00708">51</xref>] have shown recently that irradiation of thin films of polyferrocenylsilane cast from chloroform solution with irradiation of UV light leads to photooxidation of ferrocene centres in the polymer main chain. The photooxidized polyferrocenylsilane material has been found to be photoconductive [<xref ref-type="bibr" rid="B52-molecules-10-00708">52</xref>] with enhanced photoconductivity similar to the report from our laboratory that the photooxidized ferrocene in the PMMA thin films leads to enhanced photoconductivity [<xref ref-type="bibr" rid="B49-molecules-10-00708">49</xref>].  Similar studies on the photoconductivity of other metallocenes are in progress.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Photoexcitation by UV-radiations, in dry nitrogen atmosphere, on the metallocene-doped PMMA thin films containing chloroform molecules as impurities have resulted significant changes in the electronic absorption spectra of the films.  Analysis of the results has indicated photooxidation of some metallocenes in the PMMA matrix (thin film). The action spectra for the photoinduced changes have indicated that such changes in each metallocene-doped PMMA thin film depend drastically on the photoexcitation wavelength. Studies on the changes in the spectra as a function of time (duration) of photoexcitation, concentration of metallocene in the film and amount of chloroform present / left over in the film have shown that such changes are systematic and must have some physical basis. Results have indicated the evidence of charge-transfer between some metallocenes and chloroform molecules confined in the PMMA film. Photodecomposition of cobaltocene in the PMMA film containing chloroform molecules has been indicated from the photoinduced changes in the electronic absorption spectra of the material.  No significant photoinduced changes in the electronic absorption spectra of nickelocene in the PMMA film containing chloroform molecules have been noticed. In the case of ferrocene derivatives, the photoresponse has been observed to decrease with the increase in the value of para Hammett constant for the substituent in ferrocene unit and also with increasing half-wave potential for the ferrocene derivatives.  Interestingly, it has been observed that photoeffects on metallocene with &#x201C;18 valence electrons&#x201D; favor photoinduced charge-transfer from the metallocene to the chloroform molecules present in the PMMA film (as in ferrocene and ruthenocene). </p>
+      <p>The photooxidation of ferrocene in PMMA film in the presence of chloroform molecules has shown (depending on the experimental conditions) enhanced photoconductivity, persistence in photoconductivity as well as the persistence of the photoinduced effects for longer time after ceasing the photoexcitation.  Metallocene-doped PMMA films containing chloroform molecules may be useful as semiconducting / conducting polymer in optoelectronic devices. </p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The author gratefully acknowledges all his coworkers, especially Mr. Alfazuddin Thander and Mr. Dhrubajyoti Basak, who contributed to this work and with whom the author has few publications in this area of research.</p>
+    </ack>
+	<sec sec-type="methods">
+      <title>Experimental</title>
+    <sec>
+      <title>General</title>
+      <p>Ferrocene [Fe(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>] was obtained from Strem Chemicals, USA and the ferrocene-derivatives under study, as well as the samples of cobaltocene [Co(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>], nickelocene [Ni(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>] and ruthenocene [Ru(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>] were obtained from Aldrich, USA.  The molecular structure of ferrocene and its derivatives under study is shown in <xref ref-type="fig" rid="molecules-10-00708-f008">Figures 8</xref>(a) and (b), respectively.  The molecular structure of cobaltocene, nickelocene and ruthenocene is similar to that of ferrocene (<xref ref-type="fig" rid="molecules-10-00708-f008">Figure 8</xref>a); but in these cases the central metal atom (Fe) in the molecular structure is replaced by Co, Ni and Ru atoms, respectively.  These materials were used after purification by repeated crystallization. The solvents used to prepare films, chloroform and benzene, were of spectroscopic grade (SRL, India) and these were used after distillation. Purity of the materials was checked by absorption spectroscopy. Poly(methyl methacrylate) (PMMA,  av. m.w. 12,000, Eastman Organic Chemicals, USA) was used after standard purification. The molecular structure of PMMA is shown in <xref ref-type="fig" rid="molecules-10-00708-f008">Figure 8</xref>(c). Metallocene-doped poly(methyl methacrylate) thin films (thickness~50&#x3BC;m) were prepared from the solution of the polymer in chloroform or benzene, as well as from mixtures of chloroform and benzene of various proportions by the solution casting technique. The amount of chloroform molecules left in a PMMA film prepared from pure chloroform was estimated to be ca. 2.5x10<sup>-6</sup> mole.  Details of the preparation of films and method of estimation of the chloroform molecules in a film have been discussed in the earlier communication [<xref ref-type="bibr" rid="B38-molecules-10-00708">38</xref>]. </p>
+      <fig id="molecules-10-00708-f008" position="float">
+        <label>Figure 8</label>
+        <caption>
+          <p>Molecular structure: (a) ferrocene; (b) ferrocene derivatives, R represents &#x2212;CH<sub>2</sub>OH, &#x2212;CHO, &#x2212;COOH, &#x2212;COCH<sub>3</sub>, &#x2212;CH<sub>2</sub>COOH and &#x2212;COC<sub>6</sub>H<sub>5</sub> for ferrocenemethanol, ferrocenecarbaldehyde, ferrocenecarboxylic acid, acetylferrocene, ferroceneacetic acid and benzoyl ferrocene, respectively; (c) poly(methyl methacrylate).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00708-g008.tif"/>
+      </fig>
+      <p>A Xe-source (Spectral Energy, USA) and a monochromator (Type-H-20-UV, Ins. SA, Division; Jobin Yvon, France) were used for obtaining monochromatic radiation of different wavelengths (210-750 nm) required for the photoexcitations.  For the photoexcitation with visible light, a glass filter was used in the path of photoexciting beam before the monochromator to eliminate the second order diffraction light (UV) from the monochromatic light in the visible range. The photoexcitations were made in dry nitrogen atmosphere, if not mentioned otherwise.  Electronic absorption spectra of the films were recorded by a UV-Vis Scanning Spectrophotometer, Model UV-2101PC (Shimadzu, Japan). A luxmeter (model: 5011, Aplab, India) was used to estimate the photon flux of the photoexcitation beam reaching the sample films.  Estimated photon flux (corresponding to &#x3BB;  &#x2248; 270 nm) of the photoexcitation beam reaching the sample film was ~ 8.6 X 10<sup>16</sup> quanta / m<sup>2</sup> / sec. Half-wave potential of the samples were measured by cyclic voltammetry (EG&amp;G PARC electrochemical analysis system, model (250/5/0)).</p>
+    </sec>
+	</sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00708">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kealy</surname>
+              <given-names>T. J.</given-names>
+            </name>
+            <name>
+              <surname>Pauson</surname>
+              <given-names>P. L.</given-names>
+            </name>
+          </person-group>
+          <source>Nature (London)</source>
+          <year>1951</year>
+          <volume>168</volume>
+          <fpage>1039</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00708">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Carraher</surname>
+              <given-names>C. E.</given-names>
+            </name>
+            <name>
+              <surname>Sheets</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Pittman</surname>
+              <given-names>C. U.</given-names>
+            </name>
+          </person-group>
+          <source>Advances in Organometallic and Inorganic Polymer Science</source>
+          <publisher-name>Marcel Dekker</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1982</year>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00708">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+		    <name>
+              <surname>Turner</surname>
+              <given-names>A. P. F.</given-names>
+            </name>
+			<name>
+              <surname>Karube</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>G.S.</given-names>
+            </name>
+         </person-group>
+		  <source>Biosensors</source>
+          <publisher-name>Oxford University Press</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1987</year>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00708">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Geoffroy</surname>
+              <given-names>G. L.</given-names>
+            </name>
+            <name>
+              <surname>Wrighton</surname>
+              <given-names>M. S.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallic Photochemistry</source>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1979</year>
+          <fpage>242</fpage>
+          <lpage>254</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00708">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ozaki</surname>
+              <given-names>J.</given-names>
+            </name>
+			<name>
+              <surname>Watanabe</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Nishiyoma</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>J. Phys. Chem.</source>
+          <year>1993</year>
+          <volume>97</volume>
+          <fpage>1400</fpage>
+          <pub-id pub-id-type="doi">10.1021/j100109a024</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00708">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmitt</surname>
+              <given-names>R. G.</given-names>
+            </name>
+            <name>
+              <surname>Hirt</surname>
+              <given-names>R. C.</given-names>
+            </name>
+          </person-group>
+         <source>J. Appl. Polym. Sci.</source>
+          <year>1963</year>
+          <volume>7</volume>
+          <fpage>1565</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00708">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miller</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Epstein</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Reiff</surname>
+              <given-names>W. M.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1991</year>
+          <volume>52</volume>
+          <fpage>1187</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00708">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chakraborty</surname>
+              <given-names>A. K.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Synth. Metals.</source>
+          <year>1995</year>
+          <volume>73</volume>
+          <fpage>239</fpage>
+          <pub-id pub-id-type="doi">10.1016/0379-6779(95)80021-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00708">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Chakraborty</surname>
+              <given-names>A. K.</given-names>
+            </name>
+          </person-group>
+          <source>J. Phys. Chem.</source>
+          <year>1996</year>
+          <volume>100</volume>
+          <fpage>2145</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00708">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brand</surname>
+              <given-names>J. C. D.</given-names>
+            </name>
+            <name>
+              <surname>Snedden</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Trans. Faraday Soc.</source>
+          <year>1957</year>
+          <volume>53</volume>
+          <fpage>894</fpage>
+          <pub-id pub-id-type="doi">10.1039/tf9575300894</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00708">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scott</surname>
+              <given-names>D. R.</given-names>
+            </name>
+            <name>
+              <surname>Becker</surname>
+              <given-names>R. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Phys.</source>
+          <year>1961</year>
+          <volume>35</volume>
+          <fpage>516</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00708">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scott</surname>
+              <given-names>D. R.</given-names>
+            </name>
+            <name>
+              <surname>Becker</surname>
+              <given-names>R. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Phys.</source>
+          <year>1961</year>
+          <volume>35</volume>
+          <fpage>2246</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00708">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tarr</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Wiles</surname>
+              <given-names>D. M.</given-names>
+            </name>
+          </person-group>
+          <source>Can. J. Chem.</source>
+          <year>1968</year>
+          <volume>46</volume>
+          <fpage>2725</fpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00708">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Traverso</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Scandola</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Inorg. Chim. Acta</source>
+          <year>1970</year>
+          <volume>4</volume>
+          <fpage>493</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00708">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Akaiyama</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sugimori</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hermann</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1973</year>
+		  <volume>46</volume>
+          <fpage>1855</fpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00708">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Augustyniak</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Wojtezak</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Trans. Met. Chem.</source>
+          <year>1984</year>
+          <volume>9</volume>
+          <fpage>303</fpage>
+          <pub-id pub-id-type="doi">10.1007/BF00618169</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00708">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Augustyniak</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Wojtezak</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Trans. Met. Chem.</source>
+          <year>1984</year>
+          <volume>12</volume>
+          <fpage>167</fpage>
+          <pub-id pub-id-type="doi">10.1007/BF01022348</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00708">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tatistcheff</surname>
+              <given-names>H. B.</given-names>
+            </name>
+            <name>
+              <surname>Hancock</surname>
+              <given-names>L. F.</given-names>
+            </name>
+            <name>
+              <surname>Wrighton</surname>
+              <given-names>M. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Phys. Chem.</source>
+          <year>1995</year>
+          <volume>99</volume>
+          <fpage>7689</fpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00708">
+        <label>19.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gutmann</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Keyzer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Lyons</surname>
+              <given-names>L. E.</given-names>
+            </name>
+          </person-group>
+          <source>Organic Semiconductors</source>
+          <publisher-name>Krieger</publisher-name>
+          <publisher-loc>Malabar (FL, USA)</publisher-loc>
+          <year>1983</year>
+		  <comment>Part B</comment>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00708">
+        <label>20.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kao</surname>
+              <given-names>K. C.</given-names>
+            </name>
+            <name>
+              <surname>Hwang</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Electrical Transport in Solids</source>
+          <publisher-name>Pergamon Press</publisher-name>
+          <publisher-loc>Oxford, New York</publisher-loc>
+          <year>1981</year>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00708">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhattacharjee</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Phys. Chem. Solids</source>
+          <year>1989</year>
+          <volume>50</volume>
+          <fpage>1113</fpage>
+          <pub-id pub-id-type="doi">10.1016/0022-3697(89)90020-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00708">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhattacharjee</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1991</year>
+          <volume>64</volume>
+          <fpage>3129</fpage>
+          <pub-id pub-id-type="doi">10.1246/bcsj.64.3129</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00708">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhattacharjee</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Jpn. J. Appl. Phys.</source>
+          <year>1993</year>
+          <volume>32</volume>
+          <fpage>1568</fpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00708">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhattacharjee</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mat. Sci.</source>
+          <year>1992</year>
+          <volume>27</volume>
+          <fpage>5877</fpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00708">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhattacharjee</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mat. Sci.</source>
+          <year>1994</year>
+          <volume>29</volume>
+          <fpage>4875</fpage>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00708">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chakraborty</surname>
+              <given-names>A. K.</given-names>
+            </name>
+            <name>
+              <surname>Bhattacharjee</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+         <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1994</year>
+          <volume>67</volume>
+          <fpage>607</fpage>
+          <pub-id pub-id-type="doi">10.1246/bcsj.67.607</pub-id>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00708">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bera</surname>
+              <given-names>R. N.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Solid State Commn.</source>
+          <year>1998</year>
+          <volume>108</volume>
+          <fpage>695</fpage>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00708">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chakraborty</surname>
+              <given-names>A. K.</given-names>
+            </name>
+            <name>
+              <surname>Bera</surname>
+              <given-names>R. N.</given-names>
+            </name>
+            <name>
+              <surname>Bhattacharjee</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Synthetic Met.</source>
+          <year>1998</year>
+          <volume>97</volume>
+          <fpage>63</fpage>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00708">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Chakraborty</surname>
+              <given-names>A. K.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Faraday. Trans.</source>
+          <year>1997</year>
+          <volume>93</volume>
+          <fpage>3677</fpage>
+          <pub-id pub-id-type="doi">10.1039/a701739a</pub-id>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00708">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chakraborty</surname>
+              <given-names>A. K.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Solid State Commun.</source>
+          <year>1997</year>
+          <volume>104</volume>
+          <fpage>473</fpage>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00708">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bera</surname>
+              <given-names>R. N.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Synthetic Met.</source>
+          <year>1997</year>
+          <volume>87</volume>
+          <fpage>187</fpage>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00708">
+        <label>32.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Inganas</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Lundstrom</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Handbook of conducting polymers</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Skothem</surname>
+              <given-names>T. A.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Marcel Dekker</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1986</year>
+		  <volume>Vol. 1</volume>
+		  <fpage>525</fpage>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-00708">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lichtenbergen</surname>
+              <given-names>D. L.</given-names>
+            </name>
+            <name>
+              <surname>Elkadi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Gruhn</surname>
+              <given-names>N. E.</given-names>
+            </name>
+            <name>
+              <surname>Hughes</surname>
+              <given-names>R. P.</given-names>
+            </name>
+            <name>
+              <surname>Curnow</surname>
+              <given-names>O. J.</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>X.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1997</year>
+          <volume>16</volume>
+          <fpage>5209</fpage>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-00708">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hohm</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Goebel</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>AIP Conf. Proc. (USA)</source>
+          <year>1998</year>
+		  <comment>No. 430</comment>
+          <volume>522</volume>
+        </citation>
+      </ref>
+      <ref id="B35-molecules-10-00708">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Richardson</surname>
+              <given-names>D. E.</given-names>
+            </name>
+            <name>
+              <surname>Lang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Eyler</surname>
+              <given-names>J. R.</given-names>
+            </name>
+            <name>
+              <surname>Kircus</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Morse</surname>
+              <given-names>C. R. P.</given-names>
+            </name>
+            <name>
+              <surname>Hughes</surname>
+              <given-names>R. P.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1997</year>
+          <volume>16</volume>
+          <fpage>149</fpage>
+        </citation>
+      </ref>
+      <ref id="B36-molecules-10-00708">
+        <label>36.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Traverso</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Sostero</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mazzocchin</surname>
+              <given-names>G. A.</given-names>
+            </name>
+          </person-group>
+          <source>Inorg Chim Acta</source>
+          <year>1974</year>
+          <volume>11</volume>
+          <fpage>237</fpage>
+        </citation>
+      </ref>
+      <ref id="B37-molecules-10-00708">
+        <label>37.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Borrell</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Henderson</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Dalton Trans., Part-I</source>
+          <year>1975</year>
+          <fpage>432</fpage>
+        </citation>
+      </ref>
+      <ref id="B38-molecules-10-00708">
+        <label>38.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thander</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Solid State Commun.</source>
+          <year>1999</year>
+          <volume>111</volume>
+          <fpage>341</fpage>
+        </citation>
+      </ref>
+      <ref id="B39-molecules-10-00708">
+        <label>39.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thander</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Phys. Letts.</source>
+          <year>2000</year>
+          <volume>330</volume>
+          <fpage>521</fpage>
+        </citation>
+      </ref>
+      <ref id="B40-molecules-10-00708">
+        <label>40.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thander</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Basak</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Spectrochim. Acta Part. A</source>
+          <year>2004</year>
+          <volume>60</volume>
+          <fpage>2393</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.saa.2003.12.014</pub-id>
+        </citation>
+      </ref>
+      <ref id="B41-molecules-10-00708">
+        <label>41.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>E. C. M.</given-names>
+            </name>
+            <name>
+              <surname>Wentworth</surname>
+              <given-names>W. E.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Phys.</source>
+          <year>1975</year>
+          <volume>63</volume>
+          <fpage>3183</fpage>
+        </citation>
+      </ref>
+      <ref id="B42-molecules-10-00708">
+        <label>42.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ryan</surname>
+              <given-names>M. F.</given-names>
+            </name>
+            <name>
+              <surname>Richardson</surname>
+              <given-names>D. E.</given-names>
+            </name>
+            <name>
+              <surname>Lichtenberger</surname>
+              <given-names>D. L.</given-names>
+            </name>
+            <name>
+              <surname>Gruhn</surname>
+              <given-names>N. E.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1994</year>
+          <volume>13</volume>
+          <fpage>1190</fpage>
+        </citation>
+      </ref>
+      <ref id="B43-molecules-10-00708">
+        <label>43.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Thander</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sanyal</surname>
+              <given-names>M. K.</given-names>
+            </name>
+          </person-group>
+          <source>Spectrochim. Acta, Part A</source>
+          <year>2005</year>
+          <volume>61</volume>
+          <fpage>485</fpage>
+        </citation>
+      </ref>
+      <ref id="B44-molecules-10-00708">
+        <label>44.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>C. D.</given-names>
+            </name>
+          </person-group>
+          <source>The Hammett Equation</source>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <publisher-loc>Cambridge</publisher-loc>
+          <year>1973</year>
+        </citation>
+      </ref>
+      <ref id="B45-molecules-10-00708">
+        <label>45.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Little</surname>
+              <given-names>W. F.</given-names>
+            </name>
+            <name>
+              <surname>Reilly</surname>
+              <given-names>C. N.</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>J. D.</given-names>
+            </name>
+            <name>
+              <surname>Sanders</surname>
+              <given-names>A. P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1964</year>
+          <volume>86</volume>
+          <fpage>1382</fpage>
+        </citation>
+      </ref>
+      <ref id="B46-molecules-10-00708">
+        <label>46.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hansch</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Leo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Taft</surname>
+              <given-names>R. W.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1991</year>
+          <volume>91</volume>
+          <fpage>65</fpage>
+        </citation>
+      </ref>
+      <ref id="B47-molecules-10-00708">
+        <label>47.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Borrell</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Henderson</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Inorg. Chim. Acta</source>
+          <year>1975</year>
+          <volume>12</volume>
+          <fpage>215</fpage>
+        </citation>
+      </ref>
+      <ref id="B48-molecules-10-00708">
+        <label>48.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Basak</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Lett.</source>
+          <year>2004</year>
+          <volume>33</volume>
+          <fpage>1524</fpage>
+        </citation>
+      </ref>
+      <ref id="B49-molecules-10-00708">
+        <label>49.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thander</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Solid State Commun.</source>
+          <year>2002</year>
+          <volume>121</volume>
+          <fpage>159</fpage>
+        </citation>
+      </ref>
+      <ref id="B50-molecules-10-00708">
+        <label>50.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Basak</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Synthetic Met.</source>
+          <year>2004</year>
+          <volume>146</volume>
+          <fpage>151</fpage>
+        </citation>
+      </ref>
+      <ref id="B51-molecules-10-00708">
+        <label>51.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cyr</surname>
+              <given-names>P. W.</given-names>
+            </name>
+            <name>
+              <surname>Tzolov</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Manners</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Sargent</surname>
+              <given-names>E. H.</given-names>
+            </name>
+          </person-group>
+          <source>Macromol. Chem. Phys.</source>
+          <year>2003</year>
+          <volume>204</volume>
+          <fpage>915</fpage>
+        </citation>
+      </ref>
+      <ref id="B52-molecules-10-00708">
+        <label>52.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tzolov</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cyr</surname>
+              <given-names>P. W.</given-names>
+            </name>
+            <name>
+              <surname>Sargent</surname>
+              <given-names>E. H.</given-names>
+            </name>
+            <name>
+              <surname>Manners</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Phys.</source>
+          <year>2004</year>
+          <volume>120</volume>
+          <fpage>1990</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+    <fn>
+	<p><italic>Sample availability</italic>: available commercially.</p>
+	</fn>
+    </fn-group>
+   </back>
+</article>

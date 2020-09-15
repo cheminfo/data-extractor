@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xml:lang="en" article-type="editorial" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10091021</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01021</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Guest Editorial</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Special Issue: Selected Papers from the 2<sup>nd</sup> International Conference on Natural Products and Physiologically Active Substances (ICNPAS-2004) and the 3<sup>rd</sup> EuroAsian Heterocyclic Meeting &#x201C;Heterocycles in Organic and Combinatorial Chemistry&#x201D; (EAHM-2004)</article-title>
+      </title-group>
+	  <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Babaev</surname>
+            <given-names>Eugene V.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01021" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tkachev</surname>
+            <given-names>Alexey V.</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01021" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01021"><label>1</label>Chemistry Department, Moscow State University, Moscow 119899, Russia</aff>
+      <aff id="af2-molecules-10-01021"><label>2</label>Novosibirsk Institute of Organic Chemistry, Acad. Lavrentjev Avenue 9, Novosibirsk 630090, Russia; <email>atkachev@nioch.nsc.ru</email></aff>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+      <fpage>1021</fpage>
+      <lpage>1022</lpage>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <p>Two meetings, ICNPAS-2004 and EAHM-2004, were jointly held on September 12-17, 2004 in Novosibirsk, Russia. The main organizer was the Novosibirsk Institute of Organic Chemistry (Russia), with the Department of Chemistry of Moscow State University (Russia) and Ghent University (Belgium) as co-organizers.</p>
+    <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01021-i001.tif"/></p>
+    <p>These meetings continued the tradition of two earlier series of conferences &#x2013; the EuroAsian Heterocyclic meetings (EAHM-2000 previously held in Suzdal and EAHM-2002, in Novgorod the Great [<xref ref-type="bibr" rid="B1-molecules-10-01021">1</xref>]) and ICNPAS-1998 &#x2013; previously also held in Novosibirsk. The merging of these two scientific gatherings into a single event appears to have been a very fruitful idea. The international audience of the meeting was expanded to EuroAsian, African, and Australian chemists. Also, the scientific scope of the event was rather broader and heterocyclic chemists were able to interchange ideas with scientists active in the area of natural products. </p>
+    <p>In total, about 130 scientists presented their most current results in the area of heterocyclic synthesis and the chemistry of natural compounds. For the conference proceedings, see: <uri>http://www.nioch.nsc.ru/conf2004/index_3.htm</uri>.</p>
+    <p>We are now pleased to present in this special issue of <italic>Molecules</italic> a selection of peer reviewed and edited papers from this conference, expanded by their authors to include the corresponding experimental data and thus meet the journal&#x2019;s usual criteria for publication.</p>
+	<sig-block>
+    <sig>
+      Eugene V. Babaev and Alexey V. Tkachev</sig>  
+	  <sig><italic>Conference Chairmen and Guest Editors</italic></sig>
+    </sig-block>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01021">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Special Issue: Selected Papers from the Second Eurasian Meeting on Heterocyclic Chemistry. Heterocycles in Organic and Combinatorial Chemistry</article-title>
+          <source>Molecules</source>
+          <year>2003</year>
+          <volume>8</volume>
+          <fpage>459</fpage>
+          <lpage>519</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

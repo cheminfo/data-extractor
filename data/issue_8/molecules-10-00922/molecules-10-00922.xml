@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xml:lang="en" article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10080922</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00922</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Investigation of Antioxidant Vitamins (A, E, C) and Lipid Peroxidation Levels in Rats Injected N-(1,3-Benzothiazol-2-yl)-N-(4,5-dihydro-1H-imidazol-2-yl) amine</article-title>
+      </title-group>
+	  <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Karatas</surname>
+            <given-names>F.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00922" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00922" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kara</surname>
+            <given-names>H.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00922" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Servi</surname>
+            <given-names>S.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00922" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tug</surname>
+            <given-names>T.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00922" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Erulas</surname>
+            <given-names>F.A</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00922" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koca</surname>
+            <given-names>M.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00922" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00922"><label>1</label>Department of Chemistry, College of Science; <sup>2</sup> Elazig School of Health Sciences and <sup>3</sup> Faculty of Medicine, Department of Chest Diseases, Firat University, Elazig 23119, Turkey</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00922"><label>*</label>Author to whom correspondence should be addressed; E-mail: <email>fkaratas1@hotmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>8</issue>
+      <fpage>922</fpage>
+      <lpage>928</lpage>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>09</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>16</day>
+          <month>03</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>03</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The present study examined the influence of synthetic <italic>N-(</italic>1,3<italic>-</italic>benzothiazol-2-yl)-<italic>N</italic>-(4,5-dihydro-1<italic>H</italic>-imidazol-2-yl) amine (2-Amdz) on levels of vitamins A, E and C and malondialdehyde (MDA) in rats. A total of 30 rats, divided into two groups, were used in the study. The control group was given only a subcutaneous injection of 250 &#xB5;L 75% ethanol, every other day. The other group of rats was administered a subcutaneous injection of 2-Amdz (25 mg kg<sup>-1</sup>, dissolved in 250 &#xB5;L of 75% ethanol). Injections were continued for 16 days. After the application of 2-Amdz for 16 days, the serum levels of vitamins A, E and C and malondialdehyde (MDA) were determined by HPLC. The serum vitamin A, E, and C levels decreased significantly compared to controls (p&lt;0.05) whereas serum MDA levels were higher than control levels (p&lt;0.005). As a result, it can be suggested that 2-Amdz induced a severe stress and more importantly, increased the amount of free radicals and significantly decreased the levels of serum antioxidant vitamins.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>N-(1,3-Benzothiazol-2-yl)-N-(4,5-dihydro-1H-imidazol-2-yl)amine</kwd>
+		<kwd>antioxidant vitamins</kwd>
+		<kwd>MDA and HPLC</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduct&#x131;on</title>
+      <p>Imidazolines and its aminoimidazolines derivatives have been widely used as medicines against a broad range of diseases because of their biological activities. These compounds are known to mediate a variety of biological actions on adrenergic [<xref ref-type="bibr" rid="B1-molecules-10-00922">1</xref>, <xref ref-type="bibr" rid="B2-molecules-10-00922">2</xref>] and/or imidazoline [<xref ref-type="bibr" rid="B3-molecules-10-00922">3</xref>] receptors. They also show various other effects such as lowering blood pressure [<xref ref-type="bibr" rid="B4-molecules-10-00922">4</xref>, <xref ref-type="bibr" rid="B5-molecules-10-00922">5</xref>], sedation and anxiety reduction [<xref ref-type="bibr" rid="B6-molecules-10-00922">6</xref>, <xref ref-type="bibr" rid="B7-molecules-10-00922">7</xref>], analgesic [<xref ref-type="bibr" rid="B5-molecules-10-00922">5</xref>, <xref ref-type="bibr" rid="B8-molecules-10-00922">8</xref>], against alcohol withdrawal symptoms, as diuretic and antidiarreheal agents [<xref ref-type="bibr" rid="B5-molecules-10-00922">5</xref>], anti-inflammatory [<xref ref-type="bibr" rid="B9-molecules-10-00922">9</xref>], antimicrobial [<xref ref-type="bibr" rid="B10-molecules-10-00922">10</xref>], cytotoxic [<xref ref-type="bibr" rid="B11-molecules-10-00922">11</xref>], antiallergic [<xref ref-type="bibr" rid="B12-molecules-10-00922">12</xref>], anesthetic [<xref ref-type="bibr" rid="B13-molecules-10-00922">13</xref>] hypothermia, decreased salivary secretion and mydriasis activitities.</p>
+      <p>There are the studies examining the effects of benzimidazole and indazoles on oxidant-antioxidant systems, but not for imidazole and aminoimidazoles, therefore there is a need for studies investigating the effects of aminoimidazole compounds on oxidant and endogenous antioxidant systems. Endogenous antioxidant systems, the vitamins such as vitamins A, E and C, have been shown to react with organic free radicals and to protect biomembranes from damage induced by these free radicals. Antioxidant vitamins A, E and C are some of the major non-enzymatic antioxidants in the body [<xref ref-type="bibr" rid="B14-molecules-10-00922">14</xref>, <xref ref-type="bibr" rid="B15-molecules-10-00922">15</xref>]. The aim of the present study was to investigate the effect of 2-aminoimidazoline (2-Amdz) administration on the levels of antioxidant vitamins A, E and C and of MDA, an indicator of lipid peroxidation in rats.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>In <xref ref-type="table" rid="molecules-10-00922-t001">Table 1</xref> and <xref ref-type="fig" rid="molecules-10-00922-f001">Figure 1</xref>, it is seen that the rats subcutaneously injected 2-Amdz had low levels of antioxidant vitamins A, E and C in blood serum when compared with the control group (p&lt;0.05). On the other hand, MDA levels clearly increased compared to the control group (p&lt;0.005).</p>
+      <table-wrap id="molecules-10-00922-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00922-t001_Table 1</object-id>
+        <label>Table I</label>
+        <caption>
+          <p>The levels of antioxidant vitamins (A, E and C) and MDA of rats which was injected with 2-Amdz and the control groups. The results are given means &#xB1; SD.</p>
+        </caption>
+        <table>
+         <tbody>
+            <tr style="border-top:hidden">
+              <td align="left" valign="middle"> </td>
+              <td align="center" valign="top">Controls (n:15)</td>
+              <td align="center" valign="top">2-Aminoimidazoline (n:15)</td>
+              <td align="center" valign="top">p value</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-top:solid thin;border-right:solid thin">Vitamin A (&#xB5;g/mL)</td>
+              <td align="center" valign="top" style="border-top:solid thin">0.82 &#xB1; 0.14</td>
+              <td align="center" valign="top" style="border-top:solid thin">0.62 &#xB1; 0.17</td>
+              <td align="center" valign="top" style="border-top:solid thin">&lt; 0.05</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Vitamin E (&#xB5;g/mL)</td>
+              <td align="center" valign="top">8.62 &#xB1; 1.30</td>
+              <td align="center" valign="top">6.55 &#xB1; 1.50</td>
+              <td align="center" valign="top">&lt; 0.05</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Vitamin C (&#xB5;g/mL)</td>
+              <td align="center" valign="top">9.64 &#xB1; 2.03</td>
+              <td align="center" valign="top">7.33 &#xB1; 1.53</td>
+              <td align="center" valign="top">&lt; 0.05</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right: solid thin">MDA (nmol/mL)</td>
+              <td align="center" valign="top">1.84 &#xB1; 0.37</td>
+              <td align="center" valign="top">3.99 &#xB1; 0.77</td>
+              <td align="center" valign="top">&lt; 0.005</td>
+            </tr>
+         </tbody>
+        </table>
+		</table-wrap>
+      <p>Lipid peroxidation is a free radical chain reaction [<xref ref-type="bibr" rid="B16-molecules-10-00922">16</xref>] which causes the degeneration of cell membranes. Most products of lipid peroxidation are known to have mutagenic and/or carcinogenic properties [<xref ref-type="bibr" rid="B17-molecules-10-00922">17</xref>]. Free radical species affect all important components of cells such as lipids, proteins, carbohydrates and nucleic acids [<xref ref-type="bibr" rid="B18-molecules-10-00922">18</xref>]. Lipids are oxidized by free radical attack, and hence membranes are damaged [<xref ref-type="bibr" rid="B19-molecules-10-00922">19</xref>]. Lipid peroxides are disintegrated quickly and form reactive carbon compounds. Among these, MDA is an important reactive carbon compound which is used commonly as an indicator of lipid peroxidation [<xref ref-type="bibr" rid="B20-molecules-10-00922">20</xref>].</p>
+	  <fig id="molecules-10-00922-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Comparisons of the serum levels of vitamins A, E and C and MDA between rats injected with 2-Amdz and the control group.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00922-g001.tif"/>
+      </fig>
+      <p>Although Can-Eke <italic>et al.</italic> showed that some benzimidazole compounds increased the lipid peroxidation of liver, lung and kidneys in rats under <italic>in vivo</italic> conditions [<xref ref-type="bibr" rid="B21-molecules-10-00922">21</xref>], so far there have been no similar studies for amidoimidazoline compounds. Imidazoline compounds may protect beta cells against damage caused by IL-1beta-induced free oxygen and nitrogen radicals [<xref ref-type="bibr" rid="B22-molecules-10-00922">22</xref>]. Nevertheless, in our study, it was observed that the injection of 2-Amdz to the rats significantly increased serum MDA levels compared to the control group (p&lt;0.005) and it was found that 2-Amdz injected rats had decreased levels of antioxidant vitamins A, E and C in comparison to the control group (p&lt;0.05). It has been reported that environmental chemicals and some drugs can decrease the antioxidant levels of the organism and thus could lead to cancer and various diseases. Therefore, drugs including antioxidant compounds are required from external sources [<xref ref-type="bibr" rid="B23-molecules-10-00922">23</xref>].</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>It can be suggested that 2-Amdz produces more free radicals and in turn this decreases the level of antioxidant vitamins in the serum of rats. From these results, we could suggest that, antioxidant vitamins such as vitamin A, E, and C should be taken along with the medicine containing imidazoline groups to compensate the potential vitamin deficiency caused by these drugs.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>Animals</title>
+        <p>A total of 30 male Wistar rats (14-16 week old, 200-220 g) were used in this study. Upon arrival, the animals were allowed to acclimatize for two weeks. The rats were housed in a temperature controlled room (22-25&#xB0;C) with a 12:12 light-dark cycle; water and food were given <italic>ad libitum</italic>. Animals were divided into two groups; one control group (n=15) and an experimental group (n=15). The experimental group was administered the compound 2-Amdz synthesized by Servi [<xref ref-type="bibr" rid="B24-molecules-10-00922">24</xref>, <xref ref-type="bibr" rid="B25-molecules-10-00922">25</xref>] according to <xref ref-type="scheme" rid="molecules-10-00922-f002">Scheme 1</xref>.</p>
+        <fig id="molecules-10-00922-f002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00922-scheme1_Scheme 1</object-id>
+          <label>Scheme 1</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00922-g002.tif"/>
+        </fig>
+        <p>The control group was given only an injection of 250 &#xB5;L of 75% ethanol the every other day. The other group of rats were injected with 2-Amdz (25 mg kg<sup>-1</sup>, dissolved in 250 &#xB5;L of 75% ethanol). Injections were continued for 16 days. All animals were on a normal diet throughout the experimental period. Blood samples were harvested and kept at &#x2013;20&#xBA;C until analyzed.</p>
+      </sec>
+      <sec>
+        <title>Determination of serum Vitamin A and E levels</title>
+        <p>Blood samples were centrifuged at 3000 rpm for 5 minutes at 4&#xB0;C and the serum was separated. MDA and antioxidant vitamins (A, E and C) levels were determined in serum. The quantification was performed according to Miller <italic>et al.</italic> [<xref ref-type="bibr" rid="B26-molecules-10-00922">26</xref>] utilizing HPLC. Separations were accomplished at room temperature with a Cecil liquid chromatography system (Series 1100) consisting of a sample injection valve (Cotati 7125) with a 20 &#x3BC;L sample loop, an ultraviolet (UV) spectrophotometric detector (Cecil 68174) operating at 326 and 296 nm for vitamin A and E respectively, an integrator (HP 3395) and a Techsphere ODS-2 packed (5 &#x3BC;m particle and 80 <sup>o</sup>A pore size) column (250x4.6 ID) with methanol- acetonitrile- chloroform (47: 42: 11, v/v) as the mobile phase at 1.0 mL min<sup>-1</sup> flow rate.</p>
+      </sec>
+      <sec>
+        <title>Determination of serum Vitamin C and MDA levels</title>
+        <p>The extraction of vitamin C and free MDA were performed according to Cerhata <italic>et al.</italic> [<xref ref-type="bibr" rid="B27-molecules-10-00922">27</xref>]. The supernatant was filtered and the vitamin C level was determined by using the method of Tavazzi et al. [<xref ref-type="bibr" rid="B28-molecules-10-00922">28</xref>] and MDA levels by Karatas <italic>et al.</italic> [<xref ref-type="bibr" rid="B29-molecules-10-00922">29</xref>]. A Supelcosil LC-18-DB HPLC reversed-phase column (3 &#x3BC;m particle size and 250 x 3.9 ID) was utilized for the detection of vitamin C and MDA levels. While a 3.7 mM phosphate buffer, pH 4.0 mobile phase was used at 1.0 mL min<sup>-1</sup> flow rate to determine the vitamin C levels, the free MDA level was determined with a 30 mM KH<sub>2</sub>PO<sub>4</sub> buffer, pH=4 with H<sub>3</sub>PO<sub>4</sub> and methanol (65%-35% v/v) mobile phase at 1.5 mL min<sup>-1</sup> flow rate. All chemicals and reagents used were of analytical grade and were purchased from Merck Chemical Co. (Darmstadt, Germany). Bidestilled water used to in the all studies.</p>
+      </sec>
+      <sec>
+        <title>Stastical Analysis</title>
+        <p>The SPSS software (SPSS Inc, Chicago, IL, USA) was used for statistical analyses. Results for the groups are expressed as means&#xB1;S.D. Differences between the group&#x2019;s means were analyzed for significance using the Mann-Whitney <italic>U</italic>-test. Statistical significance was defined as p&lt;0.05.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00922">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hieble</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Bondinell</surname>
+              <given-names>W.E.</given-names>
+            </name>
+            <name>
+              <surname>Ruffolo</surname>
+              <given-names>R.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>&#x3B1;- and &#x3B2;-adrenoreceptors: from the gene to the clinic.1. Molecular biology and adrenereceptor subclassification</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1995</year>
+          <volume>38</volume>
+          <fpage>3415</fpage>
+          <lpage>3444</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00922">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruffolo</surname>
+              <given-names>R. R.</given-names>
+            </name>
+            <name>
+              <surname>Bondinell</surname>
+              <given-names>W.E.</given-names>
+            </name>
+            <name>
+              <surname>Hielbe</surname>
+              <given-names>J.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>&#x3B1;- and &#x3B2;-adrenoreceptors: from the gene to the clinic.2. Structure&#x2013;activity relationships and therepeutic applications</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1995</year>
+          <volume>38</volume>
+          <fpage>3681</fpage>
+          <lpage>3716</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00922">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsuo</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Taniguchi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Katsura</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kamitani</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ueda</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>New 2-aryliminoimidazolidines. I. Synthesis and antihypertensive properties of 2-(2-phenoxyphenylimino)imidazolidines and related compounds</article-title>
+          <source>Chem. Pharm. Bull. (Tokyo).</source>
+          <year>1985</year>
+          <volume>33</volume>
+          <fpage>4409</fpage>
+          <lpage>4421</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00922">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dardonville</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Rozas</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Imidazoline binding sites and their ligands: An overview of the different chemical structures</article-title>
+          <source>Med. Res. Rev.</source>
+          <year>2004</year>
+          <volume>24</volume>
+          <fpage>639</fpage>
+          <lpage>61</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00922">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mundla</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>L. J.</given-names>
+            </name>
+            <name>
+              <surname>Klopfenstein</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <name>
+              <surname>Seibel</surname>
+              <given-names>W. L.</given-names>
+            </name>
+            <name>
+              <surname>Nikolaides</surname>
+              <given-names>N. N.</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel method for the efficient synthesis of 2-arylamino-2-imidazolines</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2000</year>
+          <volume>41</volume>
+          <fpage>6563</fpage>
+          <lpage>6566</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00922">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paterson</surname>
+              <given-names>L M.</given-names>
+            </name>
+            <name>
+              <surname>Tyacke</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name>
+              <surname>Nutt</surname>
+              <given-names>D. J.</given-names>
+            </name>
+            <name>
+              <surname>Hudson</surname>
+              <given-names>A. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Relationship between imidazoline(2) sites and monoamine oxidase</article-title>
+          <source>Ann. N. Y. Acad. Sci.</source>
+          <year>2003</year>
+          <volume>1009</volume>
+          <fpage>353</fpage>
+          <lpage>356</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00922">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alemany</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Olmos</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Sevilla</surname>
+              <given-names>J. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Labelling of I2B-imidazoline receptors by [3H]2-(2-benzofuranyl)-2-imidazoline (2-BFI) in rat brain and liver: characterization, regulation and relation to monoamine oxidase enzymes</article-title>
+          <source>Naunyn Schmiedebergs Arch. Pharmacol.</source>
+          <year>1997</year>
+          <volume>356</volume>
+          <fpage>39</fpage>
+          <lpage>47</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00922">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sanchez-Blazquez</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Boronat</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>Olmos</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Sevilla</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Garzon</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Activation of I(2)-imidazoline receptors enhances supraspinal morphine analgesia in mice: a model to detect agonist and antagonist activities at these receptors</article-title>
+          <source>Br. J. Pharmacol.</source>
+          <year>2000</year>
+          <volume>130</volume>
+          <fpage>146</fpage>
+          <lpage>152</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00922">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holsapple</surname>
+              <given-names>M. P.</given-names>
+            </name>
+            <name>
+              <surname>Trizzino</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nichols</surname>
+              <given-names>D. E.</given-names>
+            </name>
+            <name>
+              <surname>Yim</surname>
+              <given-names>G. K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Therapeutic and adjunctive applications of an imidazoline anti inflammatory agent</article-title>
+          <source>J. Pharmacol. Exp. Ther.</source>
+          <year>1983</year>
+          <volume>224</volume>
+          <fpage>567</fpage>
+          <lpage>571</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00922">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiec-Kononowicz</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Szymanska</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Motyl</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Bialecka</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kasprowicz</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, spectral and antimicrobial properties of 5-chloroarylidene aromatic derivatives of imidazoline-4-one</article-title>
+          <source>Pharmazie</source>
+          <year>1998</year>
+          <volume>53</volume>
+          <fpage>680</fpage>
+          <lpage>684</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00922">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Terasawa</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Sugita</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yokoe</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Fujisawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sakagami</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cytotoxic activity of 5-benzoylimidazole and related compounds against human oral tumor cell lines</article-title>
+          <source>Anticancer Res.</source>
+          <year>2001</year>
+          <volume>21</volume>
+          <fpage>1081</fpage>
+          <lpage>1086</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00922">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Olmos</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>De Gregorio-Rocasolano</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Paz Regalado</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gasull</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Assumpcio Boronat</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Trullas</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Villarroel</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Lerma</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Sevilla</surname>
+              <given-names>J. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Protection by imidazol(ine) drugs and agmatine of glutamate-induced neurotoxicity in cultured cerebellar granule cells through blockade of NMDA receptor</article-title>
+          <source>Br. J. Pharmacol.</source>
+          <year>1999</year>
+          <volume>127</volume>
+          <fpage>1317</fpage>
+          <lpage>1326</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00922">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Graf</surname>
+              <given-names>E.</given-names>
+            </name>
+			<name>
+              <surname>Sieck</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Wenzl</surname>
+              <given-names>H.</given-names>
+            </name>
+			<name>
+              <surname>Winkelmann</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Animal experiments on the safety pharmacology of lofexidine</article-title>
+          <source>Arzneimittel-Forsch.</source>
+          <year>1982</year>
+          <volume>32</volume>
+          <fpage>931</fpage>
+          <lpage>940</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00922">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laila</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Yues</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bernard</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Claude</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Gerard</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gerard</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biological variability of superoxide dismutase, glutathione peroxidase and catalase in blood</article-title>
+          <source>Clin. Chem.</source>
+          <year>1991</year>
+          <volume>37</volume>
+          <fpage>1932</fpage>
+          <lpage>1937</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00922">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Halliwell</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Free radical antioxidants in human disease. Curiosity, cause or consequence</article-title>
+          <source>Lancet</source>
+          <year>1994</year>
+          <volume>344</volume>
+          <fpage>721</fpage>
+          <lpage>724</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00922">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kappus</surname>
+              <given-names>H.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A survey of chemicals inducing lipid peroxidation in biological systems</article-title>
+          <source>Chem. Phys. Lipids</source>
+          <year>1987</year>
+          <volume>45</volume>
+          <fpage>105</fpage>
+          <lpage>115</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00922">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fang</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Vaca</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Valsta</surname>
+              <given-names>L.M.</given-names>
+            </name>
+            <name>
+              <surname>Mutanen</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determination of DNA adducts of malonaldehyde in humans: effects of dietary fatty acid composition</article-title>
+          <source>Carcinogenesis</source>
+          <year>1996</year>
+          <volume>17</volume>
+          <fpage>1035</fpage>
+          <lpage>1040</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00922">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sarkar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yadav</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Bhatnagar</surname>
+              <given-names>D.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cadmium-induced lipid peroxidation and the antioxidant system in rat erythrocytes: the role of antioxidants</article-title>
+          <source>Trace Elem. Med. Biol.</source>
+          <year>1997</year>
+          <volume>11</volume>
+          <fpage>8</fpage>
+          <lpage>13</lpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00922">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheesman</surname>
+              <given-names>K.H.</given-names>
+            </name>
+            <name>
+              <surname>Slater</surname>
+              <given-names>T.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Introduction to free radical biochemistry</article-title>
+          <source>Br. Med. Bull.</source>
+          <year>1993</year>
+          <volume>49</volume>
+          <fpage>481</fpage>
+          <lpage>493</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00922">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jacob</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Burri</surname>
+              <given-names>B.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxidative damage and defense</article-title>
+          <source>Am. J. Clin. Nutr.</source>
+          <year>1996</year>
+          <volume>63</volume>
+          <fpage>985</fpage>
+          <lpage>990</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00922">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Can-Eke</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Puskullu</surname>
+              <given-names>M.O.</given-names>
+            </name>
+            <name>
+              <surname>Buyukbingol</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Iscan</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>A study on the antioxidant capacities of some benzimidazoles in rat tissues</article-title>
+          <source>Chem. Biol. Interact.</source>
+          <year>1998</year>
+          <volume>113</volume>
+          <fpage>65</fpage>
+          <lpage>77</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00922">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Papaccio</surname>
+              <given-names>G.</given-names>
+            </name>
+			<name>
+              <surname>Nicoletti</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>Pisanti</surname>
+              <given-names>FA</given-names>
+            </name>
+			<name>
+              <surname>Galdieri</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Bendtzen</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>An imidazoline compound completely counteracts interleukin-1[beta] toxic effects to rat pancreatic islet [beta] cells</article-title>
+          <source>Mol Med.</source>
+          <year>2002</year>
+          <volume>8</volume>
+          <fpage>536</fpage>
+          <lpage>545</lpage>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00922">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sogawa</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Nihro</surname>
+              <given-names>Y.</given-names>
+            </name>
+			<name>
+              <surname>Ueda</surname>
+              <given-names>H.</given-names>
+            </name>
+			<name>
+              <surname>Miki</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Matsomota</surname>
+              <given-names>H.</given-names>
+            </name>
+			<name>
+              <surname>Satoh</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Protective effects of hydroxychalcones on free radical-induced cell damage</article-title>
+          <source>Biol. Pharm. Bull.</source>
+          <year>1994</year>
+          <volume>17</volume>
+          <fpage>251</fpage>
+          <lpage>256</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00922">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Servi</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>The efficient synthesis of 2-arylamino-2-imidazolines, 2-heteroaryl substituted benzimidazoles, and their morpholin-4-ylmethyl derivatives</article-title>
+          <source>S. Afr. J. Chem.</source>
+          <year>2002</year>
+          <volume>55</volume>
+          <fpage>119</fpage>
+          <lpage>123</lpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00922">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Genc</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Servi</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microwave-Assisted Rapid Synthesis of 2-Arylamino-2-Imidazolines on a Solid-Support</article-title>
+          <source>Heteroatom Chem.</source>
+          <year>2005</year>
+          <volume>16</volume>
+          <comment><italic>in press</italic></comment>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00922">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miller</surname>
+              <given-names>K.W.</given-names>
+            </name>
+            <name>
+              <surname>Lorr</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>C.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Simultaneous determination of plasma retinol, &#x3B1;-tocopherol, lycopene, &#x3B1;-carotene, and &#x3B2;-carotene by high performance liquid- chromatography</article-title>
+          <source>Anal. Biochem.</source>
+          <year>1984</year>
+          <volume>138</volume>
+          <fpage>340</fpage>
+          <lpage>345</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00922">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cerhata</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Bauerova</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ginter</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determination of ascorbic acid in serum using high performance liquid-chromatography and its correlation with spectrophometric (colorimetric) determination</article-title>
+          <source>Caska Slov. Farm.</source>
+          <year>1994</year>
+          <volume>43</volume>
+          <fpage>166</fpage>
+          <lpage>168</lpage>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00922">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tavazzi</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Lazzarino</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Di-Piero</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Giardina</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Malondialdehyde production and ascorbate decrease are associated to the reperfusion of the isolated postischemic rat heart</article-title>
+          <source>Free Radic. Biol. Med.</source>
+          <year>1992</year>
+          <volume>13</volume>
+          <fpage>75</fpage>
+          <lpage>78</lpage>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00922">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karatas</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Karatepe</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baysar</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determination of free malondialdehyde in human serum by high performance liquid chromatography</article-title>
+          <source>Anal. Biochem.</source>
+          <year>2002</year>
+          <volume>311</volume>
+          <fpage>76</fpage>
+          <lpage>79</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+        <p><italic>Sample Availability:</italic> Contact the authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

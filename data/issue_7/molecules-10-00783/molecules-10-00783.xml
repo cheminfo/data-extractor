@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10070783</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00783</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Highly Lipophilic Benzoxazoles with Potential Antibacterial Activity</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vin&#x161;ov&#xE1;</surname>
+            <given-names>Jarmila</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00783" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00783" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hor&#xE1;k</surname>
+            <given-names>V&#xE1;clav</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00783" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Buchta</surname>
+            <given-names>Vladim&#xED;r</given-names>
+          </name>
+          <xref rid="af3-molecules-10-00783" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kaustov&#xE1;</surname>
+            <given-names>Jarmila</given-names>
+          </name>
+          <xref rid="af4-molecules-10-00783" ref-type="aff">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00783"><label>1</label>Department of Inorganic and Organic Chemistry, Faculty of Pharmacy Charles University, 500 05 Hradec Kr&#xE1;lov&#xE9;, The Czech Republic</aff>
+      <aff id="af2-molecules-10-00783"><label>2</label>Georgetown University, Washington DC 20057-1227, USA</aff>
+      <aff id="af3-molecules-10-00783"><label>3</label>Department of Biological and Medical Sciences, Faculty of Pharmacy, Charles University</aff>
+      <aff id="af4-molecules-10-00783"><label>4</label>National Reference Laboratory for Mycobacterium Kansasii, Regional Institute of Hygiene, Ostrava, The Czech Republic</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00783"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>vinsova@faf.cuni.cz</email>, tel. (+420)-49- 5067343; fax (+420)-49-5514330;</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>7</issue>
+      <fpage>783</fpage>
+      <lpage>793</lpage>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>04</day>
+          <month>03</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>03</month>
+        <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A series of lipophilic 2-substituted 5,7-di-<italic>tert</italic>-butylbenzoxazoles was prepared in average yields by the reaction of 3,5-di-<italic>tert</italic>-butyl-1,2-benzoquinone with amino acids and dipeptides bearing N-terminal glycine. Dipeptides having other N-terminal amino acids undergo oxidative deamination. 5,7-Di-<italic>tert</italic>-butylbenzoxazoles have shown activity against <italic>Mycobacterium tuberculosis</italic> and some nontuberculous strains where isoniazid has been inactive. Antifungal activity was mediocre.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>3,5-di-<italic>tert</italic>-Butyl-1,2-benzoquinone</kwd>
+		<kwd>5,7-di-<italic>tert</italic>-butylbenzoxazoles</kwd>
+		<kwd>antimyco-bacterial activity</kwd>
+		<kwd>antifungal activity</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The objectives of this study were the preparation and biological testing of some highly lipophilic 2-substituted-5,7-di-<italic>tert</italic>-butyl-benzoxazoles. Such lipophilicity may permit their easier penetration through the lipophilic mycobacterial cell walls. Benzoxazoles have been extensively studied for their antibacterial and antifungal activity [<xref ref-type="bibr" rid="B1-molecules-10-00783">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00783">2</xref>], anticancer activity [<xref ref-type="bibr" rid="B3-molecules-10-00783">3</xref>], and also as new non-nucleoside topoisomerase I poisons [<xref ref-type="bibr" rid="B4-molecules-10-00783">4</xref>] and HIV-1 reverse transcriptase inhibitors [<xref ref-type="bibr" rid="B5-molecules-10-00783">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00783">6</xref>]. Benzoxazoles are also interesting fluorescent probes which show high Stokes shift and present thermal and photophysical stability due to an excited state intramolecular proton transfer mechanism [<xref ref-type="bibr" rid="B7-molecules-10-00783">7</xref>]. They interfere with the biosynthesis of coloured carotenoids by inhibiting the enzyme phytoene desaturase so they are studied as potential bleaching herbicides [<xref ref-type="bibr" rid="B8-molecules-10-00783">8</xref>]. Benzoxazoles can be considered as structural isosteres of the naturally occurring nucleic bases adenine and guanine, which allow them to interact easily with polymers of living systems. They have shown low toxicity in warm-blooded animals [<xref ref-type="bibr" rid="B9-molecules-10-00783">9</xref>].</p>
+      <p>For preparation of 2-substituted-5,7-di-<italic>tert</italic>-butylbenzoxazoles the method of choice involves reactions of 3,5-di-<italic>tert</italic>-butyl-1,2-benzoquinone (DTBBQ) with primary alkyl primary amines, amino acids and some of their derivatives [<xref ref-type="bibr" rid="B10-molecules-10-00783">10</xref>]. From di- and oligopeptides those with glycine at the N-terminal also form the desired products.</p>
+	  </sec>
+    <sec>
+      <title>Results and Discussion</title>
+      <p>Amino acids (Gly, Ala, Phe, Pgl, Val, Leu, Met, Tyr, Trp) and some of their derivatives such as glycinamide and tryptamine produced with DTBBQ the benzoxazole derivatives <bold>2a-j</bold> in average yields. Lysine reacted with both amino groups to form the <italic>bis</italic>(benzoxazole) derivative <bold>2k</bold>. The reaction occurred under mild conditions in ethanol (60-96 %) at a temperature of 50 &#xB0;C. TLC on silica gel showed a complex mixture of products that were separated by preparative TLC on silica gel plates or by flash column chromatography. All products were characterized by NMR, UV-Vis, IR spectra, elemental analyses and calculated LogP. UV-Vis absorption bands (typical values for <bold>2b</bold>: 208, 236, 274 nm) are useful for benzoxazole identification.</p>
+        <fig id="molecules-10-00783-f001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00783-f001_Scheme 1</object-id>
+          <label>Scheme 1</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00783-g001.tif"/>
+        </fig>
+      <p>The formation of the target compounds from amino acids and DTBBQ is a multistep process that involves a sequence of consecutive reactions in which the intermediates cannot be detected to confirm the proposed reaction scheme (<xref ref-type="scheme" rid="molecules-10-00783-f001">Scheme 1</xref>). In the first step the amino group is added to the less hindered carbonyl group in the position 1 of DTBBQ, followed by dehydration and formation of both <italic>E/Z</italic> isomeric quinone imines. The unstable quinone imines rearrange spontaneously into a mixture of two <italic>E/Z</italic> isomeric Schiff bases that cyclize into a mixture of two 2,3-dihydrobenzoxazole stereoisomers. The latter is dehydrogenated by a second molecule of DTTBQ into a benzoxazole with loss of carbon dioxide (for a review see [<xref ref-type="bibr" rid="B10-molecules-10-00783">10</xref>]). The needed amount of the DTBBQ was produced by air oxidation from the 3,5-di-<italic>tert</italic>-butylbenzene-1,2-diol  produced  from DTBBQ  during  the dehydrogenation process. The main reaction sequence is accompanied by the formation of highly coloured by-products, especially 2,4,6,8-tetra-<italic>tert</italic>-butylphenoxazine-1-one [<xref ref-type="bibr" rid="B11-molecules-10-00783">11</xref>], which complicate isolation of pure benzoxazoles. Formation of these pigments originates in the reaction of the Schiff base or its hydrolysis product, 2-amino-3,5-di-<italic>tert</italic>-butylphenol, with DTBBQ (<xref ref-type="scheme" rid="molecules-10-00783-f002">Scheme 2</xref>).</p>
+        <fig id="molecules-10-00783-f002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00783-f002_Scheme 2</object-id>
+          <label>Scheme 2</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00783-g002.tif"/>
+        </fig>
+      <p>Phenylserine (R = H) produces the corresponding benzoxazole <bold>2l</bold> as the product, while phenylserine methyl ester (R = CH<sub>3</sub>) reacts in a different way. The latter produces benzoxazole <bold>2m</bold> in a reaction involving C-C bond cleavage, in accordance with our previous results with 2-aminoethanol derivatives carrying benzylic hydroxyls [<xref ref-type="bibr" rid="B12-molecules-10-00783">12</xref>] (<xref ref-type="scheme" rid="molecules-10-00783-f003">Scheme 3</xref>).</p>
+        <fig id="molecules-10-00783-f003" position="float">
+          <object-id pub-id-type="pii">molecules-10-00783-f003_Scheme 3</object-id>
+          <label>Scheme 3</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00783-g003.tif"/>
+        </fig>
+      <p>Dipeptides with N-terminal glycine (Gly-Gly, Gy-Leu, Gly-Tyr) afforded benzoxazole derivatives <bold>2n</bold>, <bold>2o</bold>, <bold>2p</bold> (<xref ref-type="scheme" rid="molecules-10-00783-f004">Scheme 4</xref>).</p>
+        <fig id="molecules-10-00783-f004" position="float">
+          <object-id pub-id-type="pii">molecules-10-00783-f004_Scheme 4</object-id>
+          <label>Scheme 4</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00783-g004.tif"/>
+        </fig>
+      <p>As expected, dipeptides carrying at the N-terminal an amino acid other than glycine (Ala-Gly, Phe- Phe and Leu-Gly) underwent Correy&#xB4;s oxidative deamination [<xref ref-type="bibr" rid="B13-molecules-10-00783">13</xref>] with formation of ketoacylamino acids <bold>3a</bold>, <bold>3b</bold>, <bold>3c</bold>, (<xref ref-type="scheme" rid="molecules-10-00783-f005">Scheme 5</xref>). Two of them were characterized by their 2,4-dinitrophenylhydrazones <bold>4a</bold>, <bold>4b</bold> (<xref ref-type="scheme" rid="molecules-10-00783-f006">Scheme 6</xref>).</p>
+        <fig id="molecules-10-00783-f005" position="float">
+          <object-id pub-id-type="pii">molecules-10-00783-f005_Scheme 5</object-id>
+          <label>Scheme 5</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00783-g005.tif"/>
+        </fig>
+        <fig id="molecules-10-00783-f006" position="float">
+          <object-id pub-id-type="pii">molecules-10-00783-f006_Scheme 6</object-id>
+          <label>Scheme 6</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00783-g006.tif"/>
+        </fig>
+      <sec>
+        <title>Biological activity</title>
+        <p>Antimycobacterial activity was evaluated against a set of four mycobacterium strains: <italic>Mycobacterium tuberculosis</italic> CNCTC My 331/88, <italic>Mycobacterium kansasii</italic> CNCTC My 235/80, <italic>M. kansasii</italic> 6509/96 and <italic>Mycobacterium avium</italic> CNCTC My 330/88 using the micro method for determination  of  the  minimum  inhibitory  concentration  (MIC),  the  lowest  concentration  of  a substance, at which the inhibition of growth of mycobacteria occurred. The following concentrations were used: 1000, 500, 250, 125, 62.5, 32, 16, 8 and 4 &#x3BC;mol&#xB7;L<sup>-1</sup>. Results of the tests are shown in <xref ref-type="table" rid="molecules-10-00783-t001">Table 1</xref>. The tested compounds have shown promising activity, ranging from 16 &#x3BC;mol&#xB7;L<sup>-1</sup> to 500 &#x3BC;mol&#xB7;L<sup>-1</sup>. The most active was the benzoxazole 4-(5,7-di-<italic>tert</italic>-butylbenzoxazole-2-yl-methyl)-phenol (<bold>2h</bold>).</p>
+        <table-wrap id="molecules-10-00783-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00783-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p><italic>In vitro</italic> antimycobacterial activity of compounds expressed as MIC (&#x3BC;mol&#xB7;L<sup>-1</sup>)</p>
+          </caption>
+          <table>
+<thead>
+              <tr>
+                <th rowspan="2" align="center" valign="middle">Compound</th>
+                <th colspan="10" align="center" valign="middle" style="border-bottom:solid thin">Strains</th>
+              </tr>
+              <tr>
+                <th colspan="3" align="left" valign="top"><italic>Mycobacterium kansasii</italic> 6 509/96 conc. 10<sup>-4</sup></th>
+                <th colspan="3" align="left" valign="top"><italic>Mycobacterium kansasii</italic> My 235/80 conc. 10<sup>-4</sup></th>
+                <th colspan="2" align="left" valign="top"><italic>Mycobacterium avium</italic> My 330/88 conc. 10<sup>-5</sup></th>
+                <th colspan="2" align="left" valign="top"><italic>Mycobacterium tuberculosis</italic> My 331/88 conc. 10<sup>-3</sup></th>
+      </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle">Time</td>
+                <td align="center" valign="middle">7d</td>
+                <td align="center" valign="middle">14 d</td>
+                <td align="center" valign="middle">21 d</td>
+                <td align="center" valign="middle">7d</td>
+                <td align="center" valign="middle">14 d</td>
+                <td align="center" valign="middle">21 d</td>
+                <td align="center" valign="middle">7d</td>
+                <td align="center" valign="middle">14 d</td>
+                <td align="center" valign="middle">14 d</td>
+                <td align="center" valign="middle">21 d</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">2e</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">125</td>
+                <td align="center" valign="middle">250</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">&gt;1000</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">500</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">2h</td>
+                <td align="center" valign="middle">16</td>
+                <td align="center" valign="middle">32</td>
+                <td align="center" valign="middle">62.5</td>
+                <td align="center" valign="middle">32</td>
+                <td align="center" valign="middle">62.5</td>
+                <td align="center" valign="middle">125</td>
+                <td align="center" valign="middle">250</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">125</td>
+                <td align="center" valign="middle">125</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">2i</td>
+                <td align="center" valign="middle">62.5</td>
+                <td align="center" valign="middle">125</td>
+                <td align="center" valign="middle">125</td>
+                <td align="center" valign="middle">62.5</td>
+                <td align="center" valign="middle">125</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">250</td>
+                <td align="center" valign="middle">250</td>
+                <td align="center" valign="middle">250</td>
+                <td align="center" valign="middle">250</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">2j</td>
+                <td align="center" valign="middle">62.5</td>
+                <td align="center" valign="middle">62.5</td>
+                <td align="center" valign="middle">62.5</td>
+                <td align="center" valign="middle">62.5</td>
+                <td align="center" valign="middle">125</td>
+                <td align="center" valign="middle">125</td>
+                <td align="center" valign="middle">125</td>
+                <td align="center" valign="middle">250</td>
+                <td align="center" valign="middle">125</td>
+                <td align="center" valign="middle">125</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">2n</td>
+                <td align="center" valign="middle">250</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">250</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">500</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">2o</td>
+                <td align="center" valign="middle">125</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">250</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">250</td>
+                <td align="center" valign="middle">250</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">2p</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">1000</td>
+                <td align="center" valign="middle">&gt;1000</td>
+                <td align="center" valign="middle">500</td>
+                <td align="center" valign="middle">1000</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">INH</td>
+                <td align="center" valign="middle">2</td>
+                <td align="center" valign="middle">2</td>
+                <td align="center" valign="middle">4</td>
+                <td align="center" valign="middle">&gt;250</td>
+                <td align="center" valign="middle">&gt;250</td>
+                <td align="center" valign="middle">&gt;250</td>
+                <td align="center" valign="middle">&gt;250</td>
+                <td align="center" valign="middle">&gt;250</td>
+                <td align="center" valign="middle">0.5<sup>a</sup></td>
+                <td align="center" valign="middle">1.0<sup>a</sup></td>
+              </tr>
+            </tbody>
+          </table>
+            <table-wrap-foot>
+            <fn>
+        <p><sup>a</sup> conc. 10<sup>-4</sup></p>
+            </fn>
+            </table-wrap-foot>
+        </table-wrap>
+        <p>The <italic>in vitro</italic> antifungal activity was tested against <italic>Candida albicans</italic> ATCC 44859 (CA), <italic>Candida tropicalis</italic> 156 (CT), <italic>Candida krusei</italic> E28 (CK), <italic>Candida glabrata</italic> 20/I (CG), <italic>Trichosporon beigelii</italic> 1188 (TB), <italic>Trichophyton mentagrophytes</italic> 445 (TM)<italic>, Aspergillus fumigatus</italic> 231 (AF) and <italic>Absidia corymbifera</italic> 272 (AC) by using the microdilution broth test [<xref ref-type="bibr" rid="B14-molecules-10-00783">14</xref>]. All strains, except CA were clinical isolates, identified by conventional morphological and biochemical methods. All the studied compounds were nearly inactive in concentrations of less than 500 &#x3BC;mol&#xB7;L<sup>-1</sup> MIC against all strains, with the exception of compound <bold>2j</bold>, which showed 62.5 &#x3BC;mol&#xB7;L<sup>-1</sup> MIC against CA and 125 &#x3BC;mol&#xB7;L<sup>-1</sup> MIC against AC.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Preliminary biological evaluation has shown that a number of our newly synthesised  highly lipophilic benzoxazole derivatives possess antimycobacterial activity. This included activity against nontuberculous mycobacteria such as <italic>Mycobacterium kansasii</italic> isolated from a clinical isolate and <italic>Mycobacterium avium,</italic> where isoniazid is inactive. The possible improvement of the antituberculotic properties of these structures, through the modulation of the benzoxazole substitution and/or further functionalisation warrants further investigation. Antifungal testing against selected strains has not shown any significant activity.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This work was supported by the Grant IGA MZ 1A/8238-3 and MSM 002120822.</p>
+    </ack>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Chemicals were purchased from Aldrich. Melting points (uncorrected) were determined on a Kofler block. Elemental analyses were performed on CHNS-O CE instrument (FISONS EA 1110) and were within &#xB1;0.4 % of calculated values. UV spectra were measured on Polarimeter ADP 220 (BS Bellingham Stanley Ltd.). IR spectra were recorded on Nicolet Impact 400 spectrometer in KBr pellets, Nujol mulls or CHCl<sub>3</sub> solutions. NMR spectra were measured in CDCl<sub>3</sub> or DMSO-d<sub>6</sub> solutions at ambient temperature in a Varian Mercury-VxBB 300 spectrometer operating at 300 MHz. The chemical shifts &#x3B4; are given in ppm related to tetramethylsilane (TMS) as internal standard. The coupling constants (<italic>J</italic>) are reported in Hz. Log P was calculated by using ChemDraw Ultra version 6.0.1. The reactions were monitored and the purity of the products was checked by TLC (Silufol UV 254, Kavalier Votice, Czech Republic and Merck TLC plates silica gel 60 F<sub>254</sub>, aluminium back) usually with ethyl acetate &#x2013; light petroleum ether (1:9) or ethyl acetate-toluene (1:4) as eluents. The plates were visualized using UV light, iodine fumes, or carbonyl group detection by reaction with 2,4-dinitrophenylhydrazine. Preparative TLC was carried out on silica gel 60 F<sub>254</sub> (0.015 &#x2013;0.040 mm, Merck). Silica gel 60 (0.015-0.040 mm, Merck) was used for column chromatography.</p>
+      </sec>
+      <sec>
+        <title>General synthesis procedure</title>
+        <p>Amino acid (dipeptide) (1 mmol) and DTBBQ (1 mmol) were dissolved in ethanol (50 mL, 60 - 96%) and heated for 5 hrs at 50 &#xB0;C. The solvent was removed and the residue separated by column chromatography or repeatedly by preparative TLC on 20 x 20 cm plates developed with mixtures of ethyl acetate-petroleum ether (EA-PE), ethyl acetate- toluene (EA-Tol) or petroleum ether-diethyl ether (PE-E) in the appropriate ratios. Purity of isolated layers was checked by TLC using a minimum of two types of developing solvents.</p>
+        <p><italic>5,7-Di-tert-butylbenzoxazole</italic> (<bold>2a</bold>). C<sub>15</sub>H<sub>21</sub>NO = 231.33; Yield 45 %; m.p. 50 &#xB0;C (lit [<xref ref-type="bibr" rid="B15-molecules-10-00783">15</xref>] m.p. 53-55 &#xB0;C); prep. TLC (EA-PE 1:9) R<sub>f</sub> = 0.32, TLC (CHCl<sub>3</sub>-MeOH 9:1) R<sub>f</sub> = 0.71; 
+		<inline-formula>
+        <mml:math display="block" id="mm1">
+          <mml:semantics>
+            <mml:mrow>
+			<mml:mstyle mathcolor='red'>
+              <mml:mo stretchy="false">(</mml:mo>
+              <mml:mi>MeOH</mml:mi>
+              <mml:mo>&#x002D;</mml:mo>
+			  <mml:msub>
+              <mml:mi mathvariant="normal">H</mml:mi>
+			  <mml:mn>2</mml:mn>
+			  </mml:msub>
+			  <mml:mi mathvariant="normal">O</mml:mi>
+              <mml:mo stretchy="false">)</mml:mo>
+			  <mml:mtext>value</mml:mtext>
+			  <mml:mo>?</mml:mo>
+			  </mml:mstyle>
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </inline-formula>; IR (CHCl<sub>3</sub>) &#x3BD;<sub>max</sub> 2961, 2908, 2870 (C-H), 1616, 1520 (C=N), 1482 (C=C), 1392, 1365 (CH<sub>3</sub>) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 8.08 (s, 1H, Ar); 7.66 (d, 1H, <italic>J</italic>=1.65 Hz, Ar), 7.34 (d, 1H, <italic>J</italic>=1.65 Hz, Ar); 1.49 (s, 9H, CH<sub>3</sub>), 1.39 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 152.02, 147.70, 140.27, 134.09, 119.86, 114.56, 35.02, 34.37, 31.80, 29.83; UV (EtOH) 211, 236, 275 nm; cLogP 5.068.</p> 
+		<p><italic>5,7-Di-tert-butyl-2-methylbenzoxazole</italic> (<bold>2b</bold>). C<sub>16</sub>H<sub>23</sub>NO = 245.18; Yield 72 %; m.p. 58-61 &#xB0;C; prep. TLC PE-E (1:1) R<sub>f</sub> = 0.64; TLC CH<sub>2</sub>Cl<sub>2</sub> R<sub>f</sub> = 0.13, CHCl<sub>3</sub>-MeOH (9:1) R<sub>f</sub> = 0.75, EA-PE (9:1) R<sub>f</sub> = 0.28; IR (KBr) &#x3BD;<sub>max</sub> 2955, 2906, 2869 (C-H), 1608, 1582 (C=N), 1483, 1466 (C=C), 1394, 1363 (CH<sub>3</sub>), 873, 843 (Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 7.51 (d, 1H, J=1.92 Hz, Ar), 7.23 (d, 1H, J=1.92 Hz, Ar), 2.63 (s, 3H, CH<sub>3</sub>), 1.47 (s, 9H, CH<sub>3</sub>), 1.38 (s. 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 163.10, 147.11, 141.67, 133.35, 118.66, 113.59, 34.96, 34.36, 31.82, 29.88, 14.63; M<sup>+ </sup> = 245 m/e; UV(EtOH) 208, 236, 274 nm; cLogP 5.336.</p>
+        <p><italic>5,7-Di-tert-butyl-2-phenylbenzoxazole</italic> (<bold>2c</bold>)<bold>.</bold> C<sub>21</sub>H<sub>25</sub>NO = 307.43; Yield 68 %; m.p. 59-60 &#xB0;C (EtOH), lit [<xref ref-type="bibr" rid="B16-molecules-10-00783">16</xref>] m.p. 60-61 &#xB0;C (MeOH); prep. TLC EA-PE (1:9) R<sub>f</sub> = 0.52; TLC EA-Tol (1:4) R<sub>f</sub> = 0.80; IR (KBr) &#x3BD;<sub>max</sub> 2957, 2907, 2868 (C-H), 1624, 1557 (C=N), 1482 (C=C), 1391, 1362 (CH<sub>3</sub>), 863, 706 (Ar- H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 8.30&#x2013;8.23 (m, 2H, Ar); 7.67 (d, 1H, <italic>J</italic> = 1.79 Hz, Ar); 7.57&#x2013;7.50 (m, 3H, Ar); 7.32 (d, 1H, <italic>J</italic>=1.79 Hz, Ar); 1.56 (s, 9H, CH<sub>3</sub>); 1.41 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 162.45, 147.72, 146.91, 142.28, 133.70, 131.17, 128.86, 127.51, 127.38, 119.54, 114.20, 35.07, 34.46, 31.81, 30.01; UV (EtOH) 207, 239, 296 nm; cLogP 7.165.</p>
+        <p><italic>5,7-Di-tert-butyl-2-benzylbenzoxazole</italic> (<bold>2d</bold>). C<sub>22</sub>H<sub>27</sub>NO = 321.46; Yield 73 %; oil; prep. TLC EA-PE (1:9) R<sub>f</sub> = 0.18; IR (Nujol) &#x3BD;<sub>max</sub> 1605, 1575 (C=N), 1582 (C=C), 1391, 1360 (CH<sub>3</sub>), 868, 849, 722 (Ar- H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 7.55 (d, 1H, <italic>J</italic>=1.92 Hz, Ar), 7.42-7.27 (m, 5H, Ar), 7.25 (d, 1H, <italic>J</italic>=1.93 Hz, Ar), 4.27 (s, 2H, CH<sub>2</sub>), 1.45 (s, 9H, SH<sub>3</sub>), 1.36 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 164.65, 147.32, 147.21, 142.86, 135.28, 133.58, 128.91, 127.13, 119.00, 113.92, 35.29, 34.35, 31.79, 31.57, 29.60; UV (EtOH) 211, 238, 276 nm; cLogP 6.904.</p>
+        <p><italic>5,7-Di-tert-butyl-2-(1-methyl)ethylbenzoxazole</italic> (<bold>2e</bold>). C<sub>18</sub>H<sub>27</sub>NO = 273.21; Yield 52.6 %; oil; prep. TLC EA-PE (1:9) R<sub>f</sub> = 0.55, then PE-E (1:1) R<sub>f</sub> = 088; IR (KBr) &#x3BD;<sub>max</sub> 2958, 2907, 2871 (C-H), 1608, 1574 (C=N), 1482 (C=C), 1390, 1363 (CH<sub>3</sub>), 869, 837 (Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 7.58 (d, 1H, J=1.79 Hz, Ar), 7.25 (d, 1H, J=1.79 Hz, Ar), 3.34-3.18 (m, 1H, CH), 1.48 (s, 9H, CH<sub>3</sub>), 1.46 (d, 6H, J=7.69, CH<sub>3</sub>), 1.37 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 170.75, 147.24, 146.86, 141.02, 133.48, 118.75, 113.75, 34.99, 34.36, 31.82, 29.87, 28.79, 20.35; UV (EtOH) 208, 236, 276 nm; cLogP 6.264.</p>
+        <p><italic>5,7-Di-tert-butyl-2-(2-methyl)propylbenzoxazole</italic> (<bold>2f</bold>)<bold>.</bold> C<sub>19</sub>H<sub>29</sub>NO = 287.44; Yield 34 %; oil; prep. TLC EA-PE (1:9) R<sub>f</sub> = 0.87; IR (CHCl<sub>3</sub>) &#x3BD;<sub>max</sub> 2959, 2908, 2871 (C-H), 1607, 1575 (C=N), 1482 (C=C), 1392, 1364 (CH<sub>3</sub>), 868 (Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 7.54 (d, 1H, <italic>J</italic>=1.79 Hz, Ar), 7.24 (d, 1H, <italic>J</italic>=1.79 Hz, Ar), 2.81 (d, 2H, <italic>J</italic>=7.14 Hz, CH<sub>2</sub>), 2.38-2.19 (m, 1H, CH), 1.48 (s, 9H, CH<sub>3</sub>), 1.37 (s, 9H, CH<sub>3</sub>), 1.05 (d, 6H, <italic>J</italic>=6.6 Hz, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 165.95, 147.07, 141.52, 133.42, 118.64, 113.72, 37.58, 34.98, 34.35, 31.83, 29.87, 27.56, 22.42; UV (EtOH) 212, 237, 275 nm; cLogP 6.793.</p>
+        <p><italic>5,7-Di-tert-butyl-2-(2-methylthioethyl)-benzoxazole</italic> (<bold>2g</bold>)<bold>.</bold> C<sub>18</sub>H<sub>27</sub>NOS = 305.48; Yield 67.3 %; m.p. 95 &#xB0;C; column chromatography EA-PE (0.5:9.5), then prep. TLC EA-PE (2:8) R<sub>f</sub> = 0.45; IR (CHCl<sub>3</sub>) &#x3BD;<sub>max</sub> 2966, 2921, 2910, 2871 (C-H), 1606, 1574 (C=N), 1482 (C=C), 1393, 1365 (CH<sub>3</sub>) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 7.55 (d, 1H, <italic>J</italic>=1.92 Hz, Ar), 7.25 (d, 1H, <italic>J</italic>=1.92 Hz, Ar), 3.28-3.20 (m, 2H, CH<sub>2</sub>), 3.07- 2.99 (m, 2H, CH<sub>2</sub>), 2.17 (s, 3H, CH<sub>3</sub>), 1.47 (s, 9H, CH<sub>3</sub>), 1.36 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 142.13, 142.07, 140.54, 135.59, 115.95, 110.36, 34.89, 34.40, 31.63, 29.74, 15.60; UV (EtOH) 213, 238, 275 nm; cLogP 5.634.</p>
+        <p><italic>4-(5,7-Di-tert-butylbenzoxazol-2-yl-methyl)-phenol</italic> (<bold>2h</bold>). C<sub>22</sub>H<sub>27</sub>NO<sub>2</sub> = 337.46; Yield 35.7 %; m.p. 121-123 &#xB0;C (EtOH/H<sub>2</sub>O); TLC EA-PE (1:9) R<sub>f</sub> = 0.64; IR (KBr) &#x3BD;<sub>max</sub> 3440 (O-H), 2959, 2906, 2869 (C-H), 1615, 1517(C=N), 1479 (C=C), 1392, 1363 (CH<sub>3</sub>), 834, (Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 7.53 (d, 1H, <italic>J</italic>=1.92 Hz, Ar), 7.26 (d, 1H, <italic>J</italic>=1.92 Hz, Ar), 7.17-7.10 (m AA&#xB4;BB&#xB4;, 2H, Ar), 6.73-6.67 (m, AA&#xB4;BB&#xB4;, 2H, Ar), 4.18 (s, 2H, CH<sub>2</sub>), 1.47 (s, 9H, CH<sub>3</sub>), 1.34 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 165.72, 155.51, 147.64, 147.01, 140.84, 133.73, 130.05, 126.13, 119.20, 115.91, 113.58, 35.01, 34.38, 34.35, 31.47, 29.89; UV (EtOH) 217, 279, 328 nm; cLogP 6.237.</p>
+        <p><italic>5,7-Di-tert-butyl-2-</italic><italic>[</italic><italic>1H-indol-3-yl(methyl)</italic><italic>]</italic><italic>-benzoxazole</italic> (<bold>2i</bold>). C<sub>24</sub>H<sub>28</sub>N<sub>2</sub>O = 360.49; Yield 82%; M.p.: 159-161 &#xB0;C (EtOH/H<sub>2</sub>O); column chromatography PE-CH<sub>2</sub>Cl<sub>2</sub> (2:8), then EA-PE (1:9) R<sub>f</sub> = 0.57; IR (KBr) &#x3BD;<sub>max</sub> 3390 (N-H), 2963, 2906, 2870 (C-H), 1617, 1575 (C=N), 1481, 1458 (C=C), 1391, 1363 (CH<sub>3</sub>), 871, 845 (Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 8.28 (bs, 1H, NH), 7.75 (d, 1H, J=7.7 Hz, Ar), 7.55 (d, 1H, J=1.9 Hz, Ar), 7.37-7.32 (m, 1H, Ar), 7.24 (d, 1H, J=1.9 Hz, Ar), 7.23-7.10 (m, 3H, Ar), 4.44 (s, 2H, CH<sub>2</sub>), 1.46 (s, 9H, CH<sub>3</sub>), 1.35 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 165.21, 147.27, 147.09, 141.30, 136.16, 133.56, 126.99, 122.89, 122.23, 119.64, 118.92, 113.81, 111.17, 109.48, 34.98, 34.35, 31.80, 29.90, 25.38; UV (EtOH) 223, 242, 276 nm; cLogP 6.894.</p>
+        <p><italic>5,7-Di-tert-butylbenzoxazole-2-carboxamide</italic> (<bold>2j</bold>)<bold>.</bold> C<sub>16</sub>H<sub>22</sub>N<sub>2</sub>O<sub>2</sub>= 274.17; Yield 61 %; m.p. 193-194 &#xB0;C (EtOH); column chromatography in Tol, then EA-Tol (1:4), TLC R<sub>f</sub> = 0.2; TLC EA-PE (1:9) R<sub>f</sub> = 0.52; IR (KBr) &#x3BD;<sub>max</sub> 2961, 2907, 2871(C-H), 1701(C=N), 1619, 1600 (C=N), 1546 (C=N), 1483 (C=C), 1395, 1364 (CH<sub>3</sub>), 870, 841 (Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 7.63 (d, 1H, J=1.64 Hz, Ar), 7.44 (d, 1H, <italic>J</italic>=1.64 Hz, Ar), 7.25 (bs, 1H, NH<sub>2</sub>), 6.42 (bs, 1H, NH<sub>2</sub>),  1.51 (s, 9H, CH<sub>3</sub>), 1.38 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 157.70, 154.50, 148.96, 140.51, 135.20, 122.11, 115.04, 35.150, 34.57, 31.68, 29.92; UV (EtOH) 213, 231, 274 nm; cLogP 4.566.</p>
+        <p><italic>1,3-Bis(5,7-di-tert-butylbenzoxazol-2-yl)propane</italic> (<bold>2k</bold>). C<sub>33</sub>H<sub>46</sub>N<sub>2</sub>O<sub>2</sub>=502,73; Yield 38 %; m.p. 155-157 &#xB0;C (EA-PE); prep. TLC EA-PE (1:9) R<sub>f</sub> = 0.68; TLC Tol-EA (4:1) R<sub>f</sub> = 0.83; IR (KBr) &#x3BD;<sub>max</sub> 2957, 2906, 2869 (C-H), 1607, 1574 (C=N), 1482 (C=C), 1403, 1363 (CH<sub>3</sub>), 869, 769 (Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4;: 7.55 (d, 2H, <italic>J</italic>=2.29 Hz, Ar), 7.25 (d, 2H, <italic>J</italic>=2.29 Hz, Ar), 3.13 (t, 4H, <italic>J</italic>=7.41 Hz, CH<sub>2</sub>), 2.56-2.44 (m, 2H, CH<sub>2</sub>), 1.46 (s, 18H, CH<sub>3</sub>), 1.37 (s, 18H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 165.38, 147.25, 147.03, 141.44, 133.52, 118.88, 113.80, 34.99, 34.36, 31.82, 29.90, 27.88, 23.93; UV (EtOH) 216, 239, 275 nm; cLogP 9.978.</p>
+        <p><italic>(5,7-Di-tert-butylbenzoxazol-2-yl)phenylmethanol</italic> (<bold>2l</bold>). C<sub>22</sub>H<sub>27</sub>NO<sub>2</sub> = 337.20; Yield 33 %; m.p. 112 &#x2013; 114 &#xB0;C; column chromatography in CH<sub>2</sub>Cl<sub>2</sub> followed by MeOH; TLC CHCl<sub>3</sub>-MeOH (9:1) R<sub>f</sub> = 0.65; IR (KBr) &#x3BD;<sub>max</sub> 2961, 2907, 2869 (C-H), 1624, 1570 (C=N), 1482 (C=C), 1403, 1364 (CH<sub>3</sub>), 869, 855 (Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 7.57-7.52 (m, 3H Ar), 7.42-7.28 (m, 3H Ar), 7.28-7.25 (m, 1H Ar), 6.03 (d, 1H, <italic>J</italic>=5.2 Hz, CH), 3.75 (d, 1H, <italic>J</italic>=5.5 Hz, OH); 1.41 (s, 9H, CH<sub>3</sub>), 1.36 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 166.08, 147.78, 147.29, 140.48, 139.18, 133.98, 128.66, 128.56, 126.61, 119.60, 114.21, 70.47, 35.04, 34.34, 31.77, 29.83; M<sup>+</sup> = 337 m/e; UV (EtOH) 209, 242, 277 nm; cLogP 4.029.</p>
+        <p><italic>5,7-Di-tert-butylbezoxazol-2-methylcarbonate</italic> (<bold>2m</bold>). C<sub>17</sub>H<sub>23</sub>NO<sub>3</sub> = 289.37; Yield 17 %; oil; preparative TLC CHCl<sub>3</sub>-MeOH (9:1) R<sub>f</sub> = 0.78; IR (CHCl<sub>3</sub>) &#x3BD;<sub>max</sub> 2967, 2908, 2872 (C-H), 1746 (CO-ester), 1616, 1544 (C=N), 1483 (C=C), 1365 (CH<sub>3</sub>) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 7.69 (d, 1H, <italic>J</italic>=1.92 Hz, Ar); 7.46 (d, 1H, <italic>J</italic>=1.92 Hz, Ar); 4.07 (s, 3H, CH<sub>3</sub>); 1.51 (s, 9H, CH<sub>3</sub>); 1.38 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 157.07, 152.19, 149.10, 147.42, 140.85, 135.01, 122.66, 115.71, 53.43, 35.14, 34.53, 31.64, 29.85; UV (EtOH) 213, 233, 275 nm; cLogP 4.789.</p>
+        <p><italic>[</italic><italic>(5,7-di-tert-butylbenzoxazole-2-carbonyl)-amino</italic><italic>]</italic><italic>-acetic</italic> <italic>acid</italic> (<bold>2n</bold>)<bold>.</bold> C<sub>18</sub>H<sub>24</sub>N<sub>2</sub>O<sub>4</sub> = 332.39; Yield 80 %; m.p. 182-183 &#xB0;C; isolation by extraction with PE. Insoluble crystalline part recrystallized from EA-PE; TLC CHCl<sub>3</sub>-MeOH (9:1) R<sub>f</sub> = 0.26, 1-butanol-formic acid-water (75:15:10) R<sub>f</sub> = 0.87; IR (KBr) &#x3BD;<sub>max</sub> 3410 (O-H), 2961, 2908, 2872 (C-H), 1740 (COOH), 1694 (CONH<sub>2</sub>), 1618, 1559 (C=N), 1482 (C=C), 1391, 1365 (CH<sub>3</sub>), 869, 845 (Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 8.27 (t, 1H, <italic>J</italic>=5.63 Hz, NH), 7.61 (d, 1H, <italic>J</italic>=1.79 Hz, Ar), 7.43 (d, 1H, <italic>J</italic>=1.79 Hz, Ar), 4.37 (d, 2H, <italic>J</italic>=5.77 Hz, CH<sub>2</sub>), 1.50 (s, 9H, CH<sub>3</sub>), 1.37 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 172.73, 156.15, 154.47, 149.23, 147.37, 139.73, 135.21, 122.27, 114.66, 41.27, 35.12, 34.46, 31.60, 29.77; UV (EtOH) 217, 231, 264 nm; cLogP 4.673.</p>
+        <p><italic>2-</italic><italic>[</italic><italic>(5,7-Di-tert-butylbenzoxazole-2-carbonyl)-amino</italic><italic>]</italic><italic>-4-methylpentanoic</italic> <italic>acid</italic> (<bold>2o</bold>). C<sub>22</sub>H<sub>32</sub>N<sub>2</sub>O<sub>4</sub> = 388.50; Yield 41.3 %; m.p. 183-184 &#xB0;C; isolation by extraction with PE. Insoluble crystalline part recrystallized from EA-PE; TLC CHCl<sub>3</sub>-MeOH (9:1) R<sub>f</sub>=0.32, 1-butanol-formic acid-water (75:15:10) R<sub>f</sub> = 0.62; [&#x3B1;]<sub>D</sub><sup>25</sup> = 39.32 &#xB0;(c = 0.9; EA); IR (KBr) &#x3BD;<sub>max</sub> 3408 (O-H), 2961, 2907, 2869 (C-H), 1725 (COOH), 1685 (CONH<sub>2</sub>), 1618, 1557 (C=N), 1482 (C=C), 1391, 1364 (CH<sub>3</sub>), 869 cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 7.85 (d, 1H, <italic>J</italic>=8.52 Hz, NH), 7.62 (d, 1H, <italic>J</italic>=1.79 Hz, Ar), 7.42 (d, 1H, <italic>J</italic>=1.79 Hz, Ar), 6.72 (bs, 1H, COOH), 4.92-4.82 (m, 1H, CH), 1.91-1.72 (m, 3H, CH, CH<sub>2</sub>), 1.50 (s, 9H, CH<sub>3</sub>), 1.37 (s, 9H, CH<sub>3</sub>), 1.00 (d overlapped, 3H, <italic>J</italic>=6.05 Hz, CH<sub>3</sub>), 0.99 (d, overlapped, 3H, <italic>J</italic>=6.05 Hz, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 176.35, 155.76, 154.62, 149.06, 147.61, 140.10, 135.23, 122.09, 114.83, 51.04, 41.08, 35.15, 34.53, 31.67, 29.89, 24.92, 21.68; UV (EtOH) 212, 233, 279 nm; cLogP 6.439.</p>
+        <p><italic>2-</italic><italic>[</italic><italic>(5,7-Di-tert-butylbenzoxazole-2-carbonyl)-amino</italic><italic>]</italic><italic>-3-(4-hydroxyphenyl)propionic</italic> <italic>acid</italic> (<bold>2p</bold>). C<sub>25</sub>H<sub>30</sub>N<sub>2</sub>O<sub>5</sub> = 438.52; Yield 64 %; m.p.: 126 -128 &#xB0;C; isolation by extraction with PE. Insoluble crystalline part recrystallized from E-PE; [&#x3B1;]<sub>D</sub><sup>25</sup> = 36.58 &#xB0;(c=0.8; EA); TLC EA-Tol (1:4) R<sub>f</sub> = 0.1, CHCl<sub>3</sub>-MeOH (7:3) R<sub>f</sub> = 0.85; IR (KBr) &#x3BD;<sub>max</sub> 3405 (O-H), 2962, 2909, 2871(C-H), 1724 (COOH), 1678 (CONH<sub>2</sub>), 1616, 1558 (C=N), 1483 (C=C), 1392 , 1365 (CH<sub>3</sub>), 877 ,837(Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 9.20 (bs, 1H, OH), 9.12 (d, 1H, J=8.24 Hz), 7.66 (d, 1H, <italic>J</italic>=1.64 Hz, Ar), 7.41 (d, 1H, <italic>J</italic>=1.92 Hz, Ar), 7.11-7.04 (m AA&#xB4;BB&#xB4;, 2H, Ar), 6.67-6.60 (m AA&#xB4;BB&#xB4;, 2H, Ar), 4.67-4.52 (m, 1H, CH), 3.14-3.01 (m, 2H, CH<sub>2</sub>), 1.44 (s, 9H, CH<sub>3</sub>), 1.34 (s, 9H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 172.42, 156.16, 155.38, 155.13, 148.63, 146.75, 140.44, 134.58, 130.29, 127.80, 121.59, 115.26, 115.16, 54.50, 40.54, 35.23, 34.36, 31.67, 29.83; UV (EtOH) 209, 242, 277 nm; cLogP 5.733.</p>
+        <p><italic>(2-Oxo-propionylamino)acetic</italic> <italic>acid</italic> (<bold>3a</bold>). C<sub>5</sub>H<sub>7</sub>NO<sub>4</sub> = 145.11; Yield 65 %. M.p.: 88 &#xB0;C (EA-PE), lit. [<xref ref-type="bibr" rid="B17-molecules-10-00783">17</xref>] m.p. 90 &#xB0;C; TLC 1-butanol-formic acid-water (75:15:10) R<sub>f</sub> = 0.63; IR (KBr) &#x3BD;<sub>max</sub> 3283 (N-H), 1734 (CO-COOH), 1683 (CO), 1663 (amide-I), 1538 (amide II), 1412, 161 (CH<sub>3</sub>), 1183 (C-O) cm<sup>-1</sup>; <sup>1</sup>H NMR (D<sub>2</sub>O) &#x3B4; 4.1 (s, 2H, CH<sub>2</sub>), 2.2 (s, 3H, CH<sub>3</sub>); <sup>13</sup>C-NMR (D<sub>2</sub>O) &#x3B4; 200.00, 177.93, 165.10, 43.61, 26.95</p>
+        <p><italic>2-(2-Oxo-3-phenyl-propionylamino)-3-pheyl-propionic</italic> <italic>acid</italic> (<bold>3b</bold>). C<sub>18</sub>H<sub>17</sub>NO<sub>4</sub> = 311.33; Compound was isolated as <bold>4b</bold></p>
+        <p><italic>4-Methyl-2-oxo-pentanoylamino)-acetic</italic> <italic>acid</italic> (<bold>3c</bold>). C<sub>8</sub>H<sub>13</sub>NO<sub>4</sub> = 187.19; Yield 20 %; oil, TLC CHCl<sub>3</sub>- MeOH (9:1) R<sub>f</sub>=0,21; IR (CHCl<sub>3</sub>) &#x3BD;<sub>max</sub> 3404 (O-H), 2963, 2935, 2874 (C-H), 1732 (COOH), 1689 (CONH<sub>2</sub>), 1526, 1467, 1438, 1370 cm<sup>-1</sup>; <sup>1</sup>H-NMR (DMSO) &#x3B4; 7.51 (bs, 1H, NH), 7.13 (d, 2H, <italic>J</italic>=5.49, CH<sub>2</sub>), 2.80 (d, 2H, <italic>J</italic>=6.87 Hz, CH<sub>2</sub>) 2,35-1.98 (m, 1H, CH), 0.95 (d, 6H, <italic>J</italic>=6.6 Hz, CH<sub>3</sub>)</p>
+        <p><italic>{</italic><italic>2-</italic><italic>[</italic><italic>(2,4-dinitrophenyl)-hydrazono</italic><italic>]</italic><italic>-propionylamino</italic><italic>}</italic><italic>acetic</italic> <italic>acid</italic> (<bold>4a</bold>) C<sub>11</sub>H<sub>11</sub>N<sub>5</sub>O<sub>7</sub> = 325.23; Yield 45 %; m.p.: 245 &#x2013; 246 &#xB0;C (EtOH/H<sub>2</sub>O), lit. [<xref ref-type="bibr" rid="B18-molecules-10-00783">18</xref>] m.p.: 245-246 &#xB0;C; IR (KBr) &#x3BD;<sub>max</sub> 3314 (N-H); 3108, 3095 (=C-H), 1737 (-CO-C=N); 1654 (CONH<sub>2</sub>); 1619, 1341 (NO<sub>2</sub>); 848, 833(Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 11.22 (bs, 1H, OH), 9.18 (d, 1H, <italic>J</italic>=2.47 Hz, H3&#xB4;), 8.44 (ddd, 1H, <italic>J</italic>=9.48 Hz, <italic>J</italic>=2.47 Hz, <italic>J</italic>=0.55 Hz, H5&#xB4;), 8.00 (d, 1H, <italic>J</italic>=9.48 Hz, H6&#xB4;), 7.47 (t, 1H, <italic>J</italic>=4.94 Hz, NH), 4.19 (d, 2H, <italic>J</italic>=5.22 Hz, CH<sub>2</sub>), 2.32 (s, 3H, CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 169.76, 163.08, 146.53, 143.92, 139.60, 139.60, 123.28, 116.62, 61.84, 41.52, 14.16; UV (EtOH) 207, 264, 351 nm.</p>
+        <p><italic>2</italic><italic>{</italic><italic>2-</italic><italic>[</italic><italic>(2,4-dinitrophenyl)-hydrazono</italic><italic>]</italic><italic>-3-phenyl-propionylamino</italic><italic>}</italic><italic>-3-phenylpropionic</italic> <italic>acid</italic> (<bold>4b</bold>) C<sub>24</sub>H<sub>21</sub>N<sub>5</sub>O<sub>7</sub> = 491.45; Yield 35 %; m.p. 131-133 &#xB0;C (EtOH); IR (KBr) &#x3BD;<sub>max</sub> 3420 (N-H); 1736 (-CO-C=N); 1671 (CONH<sub>2</sub>); 1618, 1339 (NO<sub>2</sub>); 742, 702 (Ar-H) cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 11.24 (bs, 1H, OH), 9.10 (d, 1H, <italic>J</italic>=2.48 Hz, H3&#xB4;), 8.33 (dd, 1H, <italic>J</italic>=9.62 Hz, J=2.48, H5&#xB4;), 7.67 (d, 1H, <italic>J</italic>=9.62 Hz, H6&#xB4;), 7.57-7.29 (m, 10H), 5.06-4.97 (m, 1H, CH), 4.13 (d, 2H, CH<sub>2</sub>), 3.28 (d, 2H, <italic>J</italic>=5.49 Hz, CH<sub>2</sub>); <sup>13</sup>C NMR (CDCl<sub>3</sub>) &#x3B4; 14.18, 30.67, 37.85, 61.84, 116.78, 123.10, 127.31, 127.49, 128.69, 129.23, 129.48, 130.07, 131.09, 133.18, 135.65, 139.63, 143.75, 147.76, 162.86, 171.26; UV (EtOH) 210, 253, 352 nm.</p>
+      </sec>
+      <sec>
+        <title>Antimycobacterial testing</title>
+        <p>All strains were obtained from the Czech National Collection of Type Cultures (CNCTC) with exception of <italic>M</italic>. <italic>kansasii</italic> 6509/96, which was a clinical isolate. The antimycobacterial activities of the compounds were determined in the &#x160;ula semisyntetic medium (SEVAC, Prague). The compounds were added in form of a solution in dimethyl sulphoxide/water (10 % maximum of DMSO) to the medium. MICs were determined after incubation at 37 &#xB0;C for 7, 14 and 21 days.</p>
+      </sec>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00783">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Temiz</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Oren</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Sener</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Yalcin</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Ucart&#xFC;rk</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>Il Farmaco</source>
+          <year>1998</year>
+          <volume>53</volume>
+          <fpage>337</fpage>
+          <lpage>341</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00783">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oren</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Temiz</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Yalcin</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Sener</surname>
+              <given-names>E. A.</given-names>
+            </name>
+            <name>
+              <surname>Altanlar</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Pharm. Sci</source>
+          <year>1998</year>
+          <volume>7</volume>
+          <fpage>153</fpage>
+          <lpage>160</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00783">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Jacob</surname>
+              <given-names>M. R.</given-names>
+            </name>
+            <name>
+              <surname>Reynolds</surname>
+              <given-names>M. B.</given-names>
+            </name>
+            <name>
+              <surname>Kerwin</surname>
+              <given-names>S. M.</given-names>
+            </name>
+          </person-group>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2002</year>
+          <volume>10</volume>
+          <fpage>3997</fpage>
+          <lpage>4004</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0968-0896(02)00327-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00783">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Gatto</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>Ch.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>L. F.</given-names>
+            </name>
+            <name>
+              <surname>LaVoie</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>J. Bioorg. Med. Chem.</source>
+          <year>1996</year>
+          <volume>4</volume>
+          <fpage>621</fpage>
+          <lpage>630</lpage>
+          <pub-id pub-id-type="doi">10.1016/0968-0896(96)00047-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00783">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoffman</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Rooney</surname>
+              <given-names>C. S.</given-names>
+            </name>
+            <name>
+              <surname>Fisher</surname>
+              <given-names>T. E.</given-names>
+            </name>
+            <name>
+              <surname>Wai</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>C. M.</given-names>
+            </name>
+            <name>
+              <surname>Bamberger</surname>
+              <given-names>D. L.</given-names>
+            </name>
+            <name>
+              <surname>Barne</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>William</surname>
+              <given-names>T. M.</given-names>
+            </name>
+            <name>
+              <surname>Jobes</surname>
+              <given-names>H. H.</given-names>
+            </name>
+            <name>
+              <surname>Olson</surname>
+              <given-names>B. D.</given-names>
+            </name>
+            <name>
+              <surname>O&#xB4;Brien</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Goldman</surname>
+              <given-names>M. E.</given-names>
+            </name>
+            <name>
+              <surname>Nunberg</surname>
+              <given-names>J. H.</given-names>
+            </name>
+            <name>
+              <surname>Quintero</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Schleif</surname>
+              <given-names>W. A.</given-names>
+            </name>
+            <name>
+              <surname>Emini</surname>
+              <given-names>E. A.</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>P. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1993</year>
+          <volume>36</volume>
+          <fpage>953</fpage>
+          <lpage>966</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00060a002</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00783">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perrin</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Rakik</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Yearly</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Baumberger</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kinloch-deLoies</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pechiere</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hirschel</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>AIDS</source>
+          <year>1996</year>
+          <volume>10</volume>
+          <fpage>1233</fpage>
+          <lpage>1239</lpage>
+          <pub-id pub-id-type="pmid">8883585</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00783">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holler</surname>
+              <given-names>M. G.</given-names>
+            </name>
+            <name>
+              <surname>Campo</surname>
+              <given-names>L. F.</given-names>
+            </name>
+            <name>
+              <surname>Brandelli</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Stefani</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <source>J. Photochem. Photobiol. A: Chemistry</source>
+          <year>2002</year>
+          <volume>149</volume>
+          <fpage>217</fpage>
+          <lpage>225</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1010-6030(02)00008-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00783">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laber</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Usunow</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Wiecko</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Franke</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Franke</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>K&#xF6;hn</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Pesticide Biochem. Physiol</source>
+          <year>1999</year>
+          <volume>63</volume>
+          <fpage>173</fpage>
+          <lpage>184</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00783">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunwell</surname>
+              <given-names>D. W.</given-names>
+            </name>
+            <name>
+              <surname>Evans</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <source>Med. Chem.</source>
+          <year>1977</year>
+          <volume>20</volume>
+          <fpage>797</fpage>
+          <lpage>801</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00216a011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00783">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vinsova</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Horak</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Listy</source>
+          <year>2001</year>
+          <volume>97</volume>
+          <fpage>1157</fpage>
+          <lpage>1167</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00783">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Voleva</surname>
+              <given-names>V. B.</given-names>
+            </name>
+            <name>
+              <surname>Belostotskaya</surname>
+              <given-names>I. S.</given-names>
+            </name>
+            <name>
+              <surname>Bundel</surname>
+              <given-names>A. Yu.</given-names>
+            </name>
+            <name>
+              <surname>Komissarova</surname>
+              <given-names>N. L.</given-names>
+            </name>
+            <name>
+              <surname>Erskov</surname>
+              <given-names>V. V.</given-names>
+            </name>
+          </person-group>
+          <source>Russ. Chem. Bull.</source>
+          <year>1997</year>
+          <volume>46</volume>
+          <fpage>385</fpage>
+          <lpage>386</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00783">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Horak</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Mermersky</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Guirguis</surname>
+              <given-names>D. B.</given-names>
+            </name>
+          </person-group>
+          <source>Collect. Czech Chem. Commun.</source>
+          <year>1994</year>
+          <volume>59</volume>
+          <fpage>227</fpage>
+          <lpage>230</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00783">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corey</surname>
+              <given-names>E. J.</given-names>
+            </name>
+            <name>
+              <surname>Achiwa</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1969</year>
+          <volume>91</volume>
+          <fpage>1429</fpage>
+          <lpage>1432</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00783">
+        <label>14.</label>
+        <citation citation-type="book">
+          <source>National Committee for Clinical Laboratory Standards: Reference method for broth dilution antifungal susceptibility testing of yeast: Approved Standard, NCCLS document, M27-A</source>
+          <publisher-name>NCCLS</publisher-name>
+          <publisher-loc>Villanova, PA</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00783">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haeussler</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Jadamus</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Ber.</source>
+          <year>1964</year>
+          <volume>97</volume>
+          <fpage>3051</fpage>
+          <lpage>3055</lpage>
+          <pub-id pub-id-type="doi">10.1002/cber.19640971113</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00783">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gilchrist</surname>
+              <given-names>T.L.</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>C. J.</given-names>
+            </name>
+            <name>
+              <surname>King</surname>
+              <given-names>F. D.</given-names>
+            </name>
+            <name>
+              <surname>Peek</surname>
+              <given-names>M. E.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>Ch.</given-names>
+            </name>
+          </person-group>
+          <source>W. J. Chem. Soc. Perkin Trans 1</source>
+          <year>1988</year>
+          <fpage>2169</fpage>
+          <lpage>2174</lpage>
+          <pub-id pub-id-type="doi">10.1039/p19880002169</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00783">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wieland</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Klu, Hi Shin, Heinke</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Ber.</source>
+          <year>1958</year>
+          <volume>91</volume>
+          <fpage>483</fpage>
+          <lpage>487</lpage>
+          <pub-id pub-id-type="doi">10.1002/cber.19580910304</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00783">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Errera</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Greenstein</surname>
+              <given-names>J. P.</given-names>
+            </name>
+          </person-group>
+          <source>Arch. Biochem.</source>
+          <year>1947</year>
+          <volume>14</volume>
+          <fpage>477</fpage>
+          <lpage>478</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability:</italic> Contact the authors</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xml:lang="en" article-type="editorial" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10060583</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00583</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Editorial</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Open Access and Author&#x2019;s Open Choice</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lin</surname>
+            <given-names>Shu-Kun</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00583">Molecular Diversity Preservation International (MDPI), Matthaeusstrasse 11, Basel CH-4057 Switzerland. Tel. ++41 79 322 3379, Fax: ++41 61 302 8918, <uri>http://www.mdpi.org/lin</uri></aff>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+       <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <fpage>583</fpage>
+      <lpage>584</lpage>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>05</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 Molecular Diversity Preservation International (MDPI)</copyright-statement>
+        <copyright-year>2005</copyright-year>
+		</permissions>
+    </article-meta>
+  </front>
+  <body>
+    <p>For the last ten years we have devoted our time and financial resources to Open Access electronic (online) journal publication [<xref ref-type="bibr" rid="B1-molecules-10-00583">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00583">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00583">3</xref>]. During this time we have tried to balance the commitment to scientific publication with the realities of sustaining such an enterprise financially. As our readership and authors will be aware from previous editorials, authors&#x2019; contributions of publication fees have been our main source of revenue. As clearly stipulated in our Instructions for Authors, this was always based on an honour system whereby authors would be invoiced after acceptance and publication of their papers, and requests for reduced payments were always considered based on the respective author&#x2019;s circumstances, but increasingly this has been abused by authors who after publication have then ignored our requests for payment, while at the same time the number of papers submitted, processed and published has increased dramatically, leading to the need to set up and staff an Editorial Office to handle these tasks. We have therefore decided that effective immediately and for all MDPI journals we shall have a two tier system, in which we will continue to offer full Open Access publication to those authors willing to contribute financially to support this option, while providing authors with the alternative choice of free publication <italic>without</italic> Open Access for those who prefer not to pay. This was essentially the policy in effect during 1997-2001.</p>
+    <p>All the papers published will be listed in a common Table of Contents file, but only the Open Access papers will have a relative link to the folder on the mdpi.<named-content content-type="color:lime">net</named-content> server where the pdf files are uploaded. These Open Access papers will be mirrored on several servers, with mdpi.<named-content content-type="color:lime">net</named-content> as the main server. The non-Open Access papers will have an absolute link leading to a blocked (password protected) folder on the mdpi.<named-content content-type="color:red">org</named-content> server.
+    <array>
+        <tbody>
+          <tr>
+            <td style="border-bottom:solid thin;border-left:solid thin;border-right:solid thin;border-top:solid thin" align="left" valign="middle">mdpi.<named-content content-type="color:red">org</named-content></td>
+            <td style="border-bottom:solid thin;border-left:solid thin;border-right:solid thin;border-top:solid thin" align="left" valign="middle">Hosts all papers</td>
+            <td align="left" valign="middle"  style="border-bottom:solid thin;border-left:solid thin;border-right:solid thin;border-top:solid thin">Password protected</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin;border-left:solid thin;border-right:solid thin;border-top:solid thin">mdpi.<named-content content-type="color:lime">net</named-content></td>
+            <td align="left" valign="middle" style="border-bottom:solid thin;border-left:solid thin;border-right:solid thin;border-top:solid thin">Hosts only Open Access papers</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin;border-left:solid thin;border-right:solid thin;border-top:solid thin">Open Access. Mirrored</td>
+          </tr>
+        </tbody>
+      </array></p>
+    <p>Thus, we will provide those authors who do not wish to support Open Access the choice of doing so, knowing that their papers will only be available to paid subscribers, who will continue to have full access. We will continue to set very low publication fees, compared to the fees collected, for example, by Springer Verlag, for their Open Choice plan [<xref ref-type="bibr" rid="B4-molecules-10-00583">4</xref>].</p>
+  </body>
+  <back>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00583">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McPhee</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>S.-K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Editorial: Molecules after 10 Years: the Best is Yet to Come</article-title>
+          <source>Molecules</source>
+          <year>2005</year>
+          <volume>10</volume>
+          <fpage>1</fpage>
+          <lpage>2</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00583">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muguet</surname>
+              <given-names>F.F.</given-names>
+            </name>
+            <name>
+              <surname>McPhee</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>S.-K.</given-names>
+            </name>
+          </person-group>
+          <article-title>New Development: A Printed Edition</article-title>
+          <source>Molecules</source>
+          <year>2002</year>
+          <volume>7</volume>
+          <fpage>858</fpage>
+          <lpage>860</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00583">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McPhee</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>S.-K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Editorial: Invitation: High Quality Papers with Extensive Literature Review and Full Experimental Details</article-title>
+          <source>Molecules</source>
+          <year>2001</year>
+          <volume>6</volume>
+		  <fpage>i</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00583">
+        <label>4.</label>
+        <note>
+		<p>For more information, visit the <uri>www.mdpi.org/oaj-supports.htm</uri> website.</p></note>
+      </ref>
+    </ref-list>
+  </back>
+</article>

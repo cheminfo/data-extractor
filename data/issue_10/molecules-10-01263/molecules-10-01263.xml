@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10101263</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01263</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Theoretical Study of Molecular Determinants Involved in Signal Binding to the TraR Protein of <italic>Agrobacterium tumefaciens</italic></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Goh</surname>
+            <given-names>Wai-Kean</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01263" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rice</surname>
+            <given-names>Scott A.</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01263" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kumar</surname>
+            <given-names>Naresh</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01263" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-01263" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01263"><label>1</label>School of Chemistry and</aff>
+      <aff id="af2-molecules-10-01263"><label>2</label>The Centre for Marine Biofouling and Bio-Innovation, The University of New South Wales, NSW 2052, Australia. Tel. +(612)-9385-4698</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01263"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>n.kumar@unsw.edu.au</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>10</issue>
+      <fpage>1263</fpage>
+      <lpage>1271</lpage>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p><italic>N</italic>-acylated homoserine lactone (AHL) mediated cell-cell communication in bacteria is dependent on the recognition of the cognate signal by its receptor. This interaction allows the receptor-ligand complex to act as a transcriptional activator, controlling the expression of a range of bacterial phenotypes, including virulence factor expression and biofilm formation. One approach to determine the key features of signal-binding is to model the intermolecular interactions between the receptor and ligand using computational-based modeling software (LigandFit). In this communication, we have modeled the crystal structure of the AHL receptor protein TraR and its AHL signal <italic>N</italic>-(3-oxooctanoyl)-homoserine lactone from <italic>Agrobacterium tumefaciens</italic> and compared it to the previously reported antagonist behaviour of a number of AHL analogues, in an attempt to determine structural constraints for ligand binding. We conclude that (i) a common conformation of the AHL in the hydrophobic and hydrophilic region exists for ligand-binding, (ii) a tail chain length threshold of 8 carbons is most favourable for ligand-binding affinity, (iii) the positive correlation in the docking studies could be used a virtual screening tool.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Quorum sensing</kwd>
+		<kwd>TraR</kwd>
+		<kwd><italic>N</italic>-acyl homoserine lactone</kwd>
+		<kwd>Molecular modeling</kwd>
+		<kwd>AHL receptor binding</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Traditional treatment of bacterial related diseases is based upon chemicals that ultimately kill or inhibit the growth of the bacteria. These drugs work against microorganisms by breaching their cell walls, disrupting metabolism, or inhibiting macromolecule synthesis. With the re-emergence of many infectious diseases and the emergence of drug-resistant strains of bacteria, it is increasingly important to identify new therapeutic compounds with novel mechanisms of action to supplement existing anti-microbials.</p>
+      <p>The various regulatory systems in bacteria may represent novel targets. For example, it is now well understood that some pathogenic bacteria rely on the secretion and detection of small diffusible cues/signals, to control the expression of virulence [<xref ref-type="bibr" rid="B1-molecules-10-01263">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-01263">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-01263">3</xref>]. One such quorum sensing (QS) system, found in Gram-negative bacteria, is the <italic>N</italic>-acylated homoserine lactone (AHL) system, which has been shown to control phenotypes such as virulence factor production and biofilm formation [<xref ref-type="bibr" rid="B4-molecules-10-01263">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-01263">5</xref>].</p>
+      <p>The essential features of this system include the signal molecule (AHLs), synthesized by the synthase LuxI and the signal receptor, LuxR, which also activates gene expression. It has been suggested that understanding the key interactions of the signal with its receptor could lead to the development of novel inhibitors of these systems [<xref ref-type="bibr" rid="B6-molecules-10-01263">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-01263">7</xref>] and hence the development of novel anti-microbial compounds.</p>
+      <p>Over 50 different Gram-negative species have been identified as using quorum sensing (QS) to control gene expression [<xref ref-type="bibr" rid="B8-molecules-10-01263">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-01263">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-01263">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-01263">11</xref>]. This display of QS, or cell population density-dependant control of gene expression plays an important role in many bacterial transcriptional profile [<xref ref-type="bibr" rid="B12-molecules-10-01263">12</xref>]. The AHLs utilized by these bacteria all share a common lactone group (&#x2018;the head&#x2019;), but differ in the length and the substitution of the acyl chain (&#x2018;the tail&#x2019;), depending on the individual synthase gene (&#x2018;I&#x2019;).</p>
+      <p>The chain lengths vary from four to seventeen carbons, maybe unsubstituted, or 3-oxo- or 3-hydroxy substituted (<xref ref-type="fig" rid="molecules-10-01263-f001">Figure 1</xref>) where the differences may exist to help the bacteria to differentiate signals from other QS bacterium within their environment. Not surprisingly, the diversity of AHLs is also mirrored in the diversity of the receptor protein (&#x2018;R&#x2019;) which have a conserved DNA binding domain (C-terminal) [<xref ref-type="bibr" rid="B13-molecules-10-01263">13</xref>] and the N-terminal signal binding domain [<xref ref-type="bibr" rid="B14-molecules-10-01263">14</xref>].</p>
+      <fig id="molecules-10-01263-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Structure of AHLs found in different Gram-negative bacteria and their signal synthases [<xref ref-type="bibr" rid="B16-molecules-10-01263">16</xref>].</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01263-g001.tif"/>
+      </fig>
+      <p>Since the first reported observation of QS signaling in bacteria, many attempts have been directed towards producing synthetic analogues of these autoinducers to mimic natural AHL signaling molecules in an attempt to control the virulence gene expressions of the pathogenic bacteria and also to understand the requirements for signal binding inhibition [<xref ref-type="bibr" rid="B6-molecules-10-01263">6</xref>,<xref ref-type="bibr" rid="B15-molecules-10-01263">15</xref>,<xref ref-type="bibr" rid="B17-molecules-10-01263">17</xref>]. Most of these synthetic analogues contain &#x2018;the head&#x2019;, a homoserine lactone (HSL) moiety, and &#x2018;the tail&#x2019;, a fatty acyl group, with various chain lengths, saturation levels, and oxidation states. The biological activity of these compounds has been investigated and some compounds were found to possess significant antagonist behaviour. These compounds were synthesized to closely mirror the cognate autoinducer and the ability of the analogue to bind effectively to the receptor subsequently determines the extent of gene expression.</p>
+      <p>The binding of the autoinducer to the sensor can be compared to those of a ligand-binding to an enzyme active site. Thus, it is imperative to perform an analysis of the binding receptor site to establish molecular determinants involved in the binding of signal antagonists to the receptor protein. Recently, the crystal structure of TraR, the AHL receptor protein of <italic>Agrobacterium tumefaciens</italic> complexed with its cognate autoinducer (3-oxooctanoyl-HSL) and DNA was reported by Vannini <italic>et al</italic>. [<xref ref-type="bibr" rid="B18-molecules-10-01263">18</xref>] and Zang <italic>et al.</italic> [<xref ref-type="bibr" rid="B19-molecules-10-01263">19</xref>].</p>
+      <p>Herein, we modeled the signaling molecules, <italic>N</italic>-acylated homoserine lactone (AHLs) with the receptor protein (TraR &#x2013; <italic>A. tumefaciens</italic>) to determine structural constraints to ligand-binding. Based on the ligand docking experiments, we compared the docking data to the antagonist activity of known analogues to determine whether a correlation existed between the ligand-binding affinity with known inhibitory activity mediated by signal analogues using previously reported biological data for analogues synthesized by Zhu <italic>et</italic> <italic>al</italic>. [<xref ref-type="bibr" rid="B15-molecules-10-01263">15</xref>].</p>
+    </sec>
+    <sec>
+      <title>Materials and Methods</title>
+      <p>Docking software used: Discovery Studio Modeling 1.2 &#x2013; LigandFit (Accelrys).</p>
+      <p>TraR Protein Crystal Structure (PDB ID: 1h0m)</p>
+      <p><bold>Protocol for ligand-receptor docking</bold>: The three-dimensional structure of TraR protein was taken from the pdb file (1h0m). The native autoinducer and all water molecules were removed. Hydrogen were added using the templates for the protein residues. The three-dimensional structures of the analogues were constructed by overlapping analogue conformers onto the reference ligand (5) in the template and then forming new complexes by exchanging atoms or sketching them. The ligands were then energy-minimized in the in-built Modeler available in Discovery Studio.</p>
+      <fig id="molecules-10-01263-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Structure of <italic>N</italic>-(3-oxooctanoyl)-L-homoserine lactone.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01263-g002.tif"/>
+      </fig>
+	  <fig id="molecules-10-01263-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>Ribbon diagram of the two subunits, A (red) and B (green), complexed with the autoinducer (yellow) of the asymmetric unit.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01263-g003.tif"/>
+      </fig>
+      <p><bold>Docking</bold>: The active site of Monomer A was first identified and defined using an eraser size of 5.0 &#xC5; which resulted in a cavity size of 1709 point units. The ligands were docked into the active site (TraR:A) using the &#x2018;Flexible Fit&#x2019; option. The ligand-receptor site complex was subjected to &#x2018;<italic>in situ</italic>&#x2019; ligand minimization which was performed using the in-built CHARMm forcefield calculation. The nonbond cutoff and the distance dependence was set to 11 &#xC5; and (&#x3B5; = 1R) respectively. The determination of the ligand-binding affinity was calculated using the shape-based interaction energies of the ligand with the protein. Consensus scoring with the top tier of s=10% using two scoring methodologies, LigScore and PLP1 were used to estimate the ligand-binding energies.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p><italic>Crystal Structure.</italic> The crystal structure of the TraR protein complexed with its autoinducer <italic>N</italic>-(3-oxooctanoyl)-<sc>l</sc>-HSL, (3-oxooctanoyl-HSL) (<xref ref-type="fig" rid="molecules-10-01263-f002">Figure 2</xref>), and target DNA was retrieved from the Protein Data Bank (entries: 1h0m). The protein was found to exist as two crystallographically independent complexes in an asymmetric unit attached to a single duplex DNA. One of the asymmetric unit dimers (A:B) bound to the DNA duplex with its individual 3-oxooctanoyl-HSL, coloured yellow, is shown in <xref ref-type="fig" rid="molecules-10-01263-f003">Figure 3</xref>. The cognate autoinducer was identified as those of <italic>N</italic>-(3-oxooctanoyl)-HSL which promotes agonist behaviour.</p>
+      <fig id="molecules-10-01263-f004" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p>Chemical structures of AHL compounds used in the docking study modified from [<xref ref-type="bibr" rid="B15-molecules-10-01263">15</xref>].</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01263-g004.tif"/>
+      </fig>
+      <p>The TraR (A:B) dimer and (C:D) dimer are structural analogues where the conformation of the active sites are conserved [<xref ref-type="bibr" rid="B18-molecules-10-01263">18</xref>]. Furthermore, the monomers A and B were found to be structural analogues of each other, differing only in their conformation around the active site (<xref ref-type="fig" rid="molecules-10-01263-f005">Figure 5</xref>) when superimposed together. For our study, only monomer A was used as the active receptor site as it gives a fairly good representation of the entire receptor site present in TraR.</p>
+      <p>A range of synthetic AHLs, preserving the HSL moiety as its &#x2018;head&#x2019; but varying in the chain lengths for the fatty acyl group with different saturation levels and oxidation states (<xref ref-type="fig" rid="molecules-10-01263-f004">Figure 4</xref>) have been synthesized by Zhu <italic>et</italic> <italic>al</italic> [<xref ref-type="bibr" rid="B15-molecules-10-01263">15</xref>]. These compounds were assayed for the ability to induce &#x3B2;-galactosidase activity in strain WCF47(pCF372) and to also competitively displace the cognate AHL, 3-oxooctanoyl-HSL (<bold>5</bold>).</p>
+      <fig id="molecules-10-01263-f005" position="float">
+        <label>Figure 5</label>
+        <caption>
+          <p>Superimposed Active Site of Monomer A &amp; B</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01263-g005.tif"/>
+      </fig>
+      <table-wrap id="molecules-10-01263-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-01263-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Biological activity and scoring function values of the ligands docked in the Monomer A receptor site</p>
+        </caption>
+        <table>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin;border-bottom:solid thin">Inhibitor Ligand<sup>a</sup></td>
+              <td align="center" valign="middle" style="border-right:solid thin;border-bottom:solid thin">A/A<sub>z</sub><sup>b,c</sup></td>
+              <td align="center" valign="middle" style="border-right:solid thin;border-bottom:solid thin">LigScore<sup>d</sup></td>
+              <td align="center" valign="middle" style="border-right:solid thin;border-bottom:solid thin">PLP1<sup>e</sup></td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">3-Oxobutanoyl-HSL (<bold>1</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">106</td>
+              <td align="center" valign="middle" style="border-right:solid thin">5.02</td>
+              <td align="center" valign="middle" style="border-right:solid thin">58.49</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">3-Oxopentanoyl-HSL (<bold>2</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">103</td>
+              <td align="center" valign="middle" style="border-right:solid thin">5.43</td>
+              <td align="center" valign="middle" style="border-right:solid thin">67.90</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">3-Oxohexanoyl-HSL (<bold>3</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">100</td>
+              <td align="center" valign="middle" style="border-right:solid thin">5.11</td>
+              <td align="center" valign="middle" style="border-right:solid thin">71.37</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin;background:yellow">3-Oxoheptanoyl-HSL (<bold>4</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">62</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">5.91</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">90.48</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin;background:yellow">3-Oxoundecanoyl-HSL (<bold>6</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">82</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">5.01</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">95.58</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin;background:yellow">3-Oxododecanoyl-HSL (<bold>7</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">74</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">4.72</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">93.05</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">Butanoyl-HSL (<bold>8</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">118</td>
+              <td align="center" valign="middle" style="border-right:solid thin">5.13</td>
+              <td align="center" valign="middle" style="border-right:solid thin">66.01</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">Pentanoyl-HSL (<bold>9</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">103</td>
+              <td align="center" valign="middle" style="border-right:solid thin">5.06</td>
+              <td align="center" valign="middle" style="border-right:solid thin">64.45</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">Hexanoyl-HSL (<bold>10</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">112</td>
+              <td align="center" valign="middle" style="border-right:solid thin">5.40</td>
+              <td align="center" valign="middle" style="border-right:solid thin">74.02</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin;background:yellow">Heptanoyl-HSL (<bold>11</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">53</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">6.09</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">81.68</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin;background:yellow">Octanoyl-HSL (<bold>12</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">28</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">6.11</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">91.51</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">Decanoyl-HSL (<bold>13</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">109</td>
+              <td align="center" valign="middle" style="border-right:solid thin">5.39</td>
+              <td align="center" valign="middle" style="border-right:solid thin">90.17</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">Dodecanoyl-HSL (<bold>14</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">121</td>
+              <td align="center" valign="middle" style="border-right:solid thin">4.40</td>
+              <td align="center" valign="middle" style="border-right:solid thin">93.37</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">2-Butenoyl-HSL (<bold>15</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">94</td>
+              <td align="center" valign="middle" style="border-right:solid thin">4.66</td>
+              <td align="center" valign="middle" style="border-right:solid thin">53.76</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">2-Pentenoyl-HSL (<bold>16</bold></td>
+              <td align="center" valign="middle" style="border-right:solid thin">112</td>
+              <td align="center" valign="middle" style="border-right:solid thin">4.83</td>
+              <td align="center" valign="middle" style="border-right:solid thin">67.13</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">2-Hexenoyl-HSL (<bold>17</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">97</td>
+              <td align="center" valign="middle" style="border-right:solid thin">4.95</td>
+              <td align="center" valign="middle" style="border-right:solid thin">74.06</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">2-Octenoyl-HSL (<bold>18</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">100</td>
+              <td align="center" valign="middle" style="border-right:solid thin">5.07</td>
+              <td align="center" valign="middle" style="border-right:solid thin">72.08</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">2-Nonenoyl-HSL (<bold>19</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">109</td>
+              <td align="center" valign="middle" style="border-right:solid thin">4.99</td>
+              <td align="center" valign="middle" style="border-right:solid thin">90.08</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">2-Decenoyl-HSL (<bold>20</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">106</td>
+              <td align="center" valign="middle" style="border-right:solid thin">5.26</td>
+              <td align="center" valign="middle" style="border-right:solid thin">86.45</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">2-Butynoyl-HSL (<bold>21</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">100</td>
+              <td align="center" valign="middle" style="border-right:solid thin">4.39</td>
+              <td align="center" valign="middle" style="border-right:solid thin">56.30</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">2-Hexenoyl-HSL (<bold>22</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">106</td>
+              <td align="center" valign="middle" style="border-right:solid thin">4.88</td>
+              <td align="center" valign="middle" style="border-right:solid thin">78.36</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">2-Octynoyl-HSL (<bold>23</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">94</td>
+              <td align="center" valign="middle" style="border-right:solid thin">5.24</td>
+              <td align="center" valign="middle" style="border-right:solid thin">82.09</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin;background:yellow">3-Hydroxynonanoyl-HSL (<bold>24</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">65</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">6.11</td>
+              <td align="center" valign="middle" style="border-right:solid thin;background:yellow">100.75</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin">3-Hydroxydodecanoyl-HSL (<bold>25</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">103</td>
+              <td align="center" valign="middle" style="border-right:solid thin">3.88</td>
+              <td align="center" valign="middle" style="border-right:solid thin">84.37</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><italic>di</italic>HSL decandioate (<bold>26</bold>)</td>
+              <td align="center" valign="middle" style="border-right:solid thin">100</td>
+              <td align="center" valign="middle" style="border-right:solid thin">0.00</td>
+              <td align="center" valign="middle" style="border-right:solid thin">0.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin;border-bottom:solid thin">diHSL-3,12-dioxotetradecandioate (<bold>27</bold>)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">100</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">0.00</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">0.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">3-Oxooctanoyl-HSL (<bold>5</bold>)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">100</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">5.77</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">90.72</td>
+            </tr>
+          </tbody>
+         </table>
+        <table-wrap-foot>
+          <fn>
+            <p><sup>a</sup>Refer to <xref ref-type="fig" rid="molecules-10-01263-f004">Figure 4</xref>. <sup>b</sup>Measure of competitive inhibition of &#x3B2;-galactosidase activity in <italic>A. tumefaciens</italic> strain with 100 nM concentration of the ligand in the presence of 100 nM of the native autoinducer, 3-oxo-C<sub>8</sub>-HSL [<xref ref-type="bibr" rid="B15-molecules-10-01263">15</xref>]. <sup>c</sup>Relative % activity, referenced to A<sub>z</sub>, activity without the presence of inhibitor ligand. <sup>d,e</sup>Scoring function references [<xref ref-type="bibr" rid="B20-molecules-10-01263">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-01263">21</xref>].</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>The structures listed in <xref ref-type="fig" rid="molecules-10-01263-f004">Figure 4</xref> were docked according to a molecular mechanics/dynamic protocol allowing side chain flexibility to the receptor site region. To evaluate the docking protocol without water molecules, all water molecules present in the crystal structure and the native AHL (3-oxooctanoyl-HSL) were removed from the active site and the native AHL was redocked into the active site to investigate the water solvent effect. A similar AHL conformation, polar interactions and position relative to the active site was observed for the native AHL indicating the absence of any solvent effects during ligand-binding. This assumption is supported by the observation that the discrete hydrophobic cavity opening of the receptor site probably precludes any solvent [<xref ref-type="bibr" rid="B18-molecules-10-01263">18</xref>] and the conformation of the AHL in the receptor cavity is likely to depend on the interactions of the ligand and the receptor.</p>
+      <p><italic>Docking Results.</italic> To correlate the biological activity of the different autoinducers and the shape-directed docking of ligands, we scored our models using two scoring functions, LigScore (Protein-Ligand Affinity Energy) and PLP1 (Steric and H-bonding intermolecular function) as implemented in the LigandFit module [<xref ref-type="bibr" rid="B20-molecules-10-01263">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-01263">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-01263">22</xref>]. These scoring functions have been used to estimate the ligand-binding affinity to screen out active and inactive compounds during the process of virtual screening [<xref ref-type="bibr" rid="B23-molecules-10-01263">23</xref>]. Previous work has also shown that a correlation does exist between binding affinities and the dock scores [<xref ref-type="bibr" rid="B24-molecules-10-01263">24</xref>]. Scores of the docked ligands are tabulated in <xref ref-type="table" rid="molecules-10-01263-t001">Table 1</xref>, (larger score value indicates better ligand-binding affinity).</p>
+      <p>When the biological activities were compared to the two scoring functions, a similar rank order was observed for six ligands that exhibited competitive antagonist behaviour: 3-oxoheptanoyl-HSL (<bold>4</bold>); 3-oxoundecanoyl-HSL (<bold>6</bold>); 3-oxododecanoyl-HSL (<bold>7</bold>); heptanoyl-HSL (<bold>11</bold>); octanoyl-HSL (<bold>12</bold>); and 3-hydroxynonanoyl-HSL (<bold>24</bold>). Ligands <bold>4</bold>, <bold>6</bold>, and <bold>7</bold> have similar binding affinities and also demonstrated similar reductions in &#x3B2;-galactosidase activity. Heptanoyl-HSL (<bold>11</bold>) and octanoyl-HSL (<bold>12</bold>) were more potent inhibitors of &#x3B2;-galactosidase activity and have higher receptor affinities based on their LigScore. Ligand-binding affinities were unavailable for <italic>di</italic>HSL-decandioate (<bold>26</bold>) and <italic>di</italic>HSL-3,12-dioxotetradecan-dioate (<bold>27</bold>) as the docking protocol failed to run due to the dimeric nature of these ligands, the ligands being larger than the binding pocket. However, <italic>di</italic>HSL-3,12-dioxotetradecan-dioate (<bold>27</bold>) was shown to have antagonist activity at higher concentration (&gt;100 nM) suggesting it may access the binding pocket and could bind in a dimeric fashion with the adjoining monomer <italic>e.g.</italic> TraR dimer (A:B).</p>
+      <p>It was observed that the scoring range required for antagonist behaviour was a LigScore &gt;5 and a PLP1 score &gt;90. However, for the ligand to be a good antagonist they must also have higher scoring values compared to the native AHL, 3-oxooctanoyl-HSL (<bold>5</bold>), as demonstrated by the six ligands which have either a higher LigScore or PLP1 or both, compared to the native AHL, (<bold>5</bold>). Ligands such as decanoyl-HSL (<bold>13</bold>) and 2-nonenoyl-HSL (<bold>19</bold>) have lower affinity/docking scores than (<bold>5</bold>), and did not display inhibition activity. The remaining 18 ligands have poor scoring values and similarly, did not exhibit antagonist behaviour.</p>
+      <p><italic>Antagonist selectivity.</italic> Although flexibility of the ligand side chains was allowed in all docking protocols, the initial binding pattern of the &#x2018;head&#x2019; and &#x2018;tail&#x2019; of the ligand to the receptor site remains conserved for all docked ligands. When the docked ligands were superimposed onto the traces of the co-crystallized native autoinducer of TraR, we noticed that they shared the same conformation with the &#x2018;head&#x2019; docked into the hydrophilic region bound by Trp52, Trp57, Asp70, Phe101, Tyr102, Ala105 and Ile110 and the tail extended into the hydrophobic region bound by Leu40, Tyr53, Gln58, Tyr61 and Phe62 (<xref ref-type="fig" rid="molecules-10-01263-f006">Figure 6</xref>). With competitive antagonists, we would assume that ligands with the higher binding affinities for the receptor site would be able to displace the cognate autoinducer and that this activity would be observed at concentration ratios that are closer to the native AHL, (<bold>5</bold>). The 6 ligands (ligand <bold>4</bold>, <bold>6</bold>, <bold>7</bold>, <bold>11</bold>, <bold>12</bold>, and <bold>24</bold>, <xref ref-type="fig" rid="molecules-10-01263-f004">Figure 4</xref>) that exhibited antagonist behaviour have higher binding affinities compared to the native AHL (<bold>5</bold>), as determined from both scoring functions.</p>
+      <fig id="molecules-10-01263-f006" position="float">
+        <label>Figure 6</label>
+        <caption>
+          <p>Binding pocket surface representation of Monomer A (TraR) with the native autoinducer (E) docked into the receptor site. The &#x2018;transparent cloud&#x2019; indicates the binding pocket while atoms of the autoinducer are displayed as thick lines. The thin lines are representative of the different residues surrounding the active site. Green dotted line indicates H-bonding</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01263-g006.tif"/>
+      </fig>
+      <p>From the ligand-binding affinities, it can be concluded that there exists a notable &#x2018;tail&#x2019; length threshold of about eight carbons extending from the nitrogen atom that is most favorable for ligand-binding affinity. Any change in the length resulted in low scores and unfavourable binding as observed in ligands <bold>7</bold> and <bold>14</bold> with &#x2018;tail&#x2019; lengths of eleven carbons. This observation was supported by the available biological data showing a decrease in competitive induction (<xref ref-type="table" rid="molecules-10-01263-t001">Table 1</xref>).</p>
+      <p>Two main classes of acyl chains were studied closely, one having two carbonyl moieties present in the &#x2018;tail&#x2019; at the C1 and C3 positions (ligand <bold>1</bold>-<bold>7</bold>), while the other having a single carbonyl moiety at C1 (ligand <bold>8</bold>-<bold>14</bold>). A comparison of both classes of compounds revealed that the &#x2018;tail&#x2019; system with only one carbonyl moiety offered a competitive edge over the compounds with two carbonyl moieties. These compounds have stronger ligand-binding affinities and were confirmed to be better antagonists in biological assays. This could largely be due to the conformation of the ligand and possibly the existence of a hydrophilic and hydrophobic region in the receptor cavity. The AHLs, when docked to the cavity, assume the bent-conformation, where the &#x2018;head&#x2019; is stabilized in the hydrophilic region through H-bonding between the NH of the homoserine lactone and the &#x3B5; oxygen of the buried Asp70, and between the carbonyl oxygen of the lactone moiety and the &#x3B5; nitrogen of Trp57. This stability is probably further enhanced by the H-bonding of the first carbonyl moiety adjacent the nitrogen in the acyl chain with &#x3B5; nitrogen of Trp85. The acyl carbon chain extends into the cavity and is further stabilized by the hydrophobic interactions with Leu40, Tyr53, Gln58 and Tyr61.</p>
+      <p>The presence of the second carbonyl moiety (ligand <bold>1</bold>-<bold>7</bold>) extending into hydrophobic region probably disrupts the hydrophobic interactions and thus, an overall lowering of the binding affinity for the native signal. The series of the 3-oxo-C<sub>1-9</sub>-HSL (ligand <bold>1-7</bold>) has a generally lower score compared to the C<sub>2-11</sub>-HSL (ligand <bold>8-14</bold>) but activation is better in the former series. We hypothesize that the 3- oxo moiety might be essential for activation of the genes but may not be suitable for antagonist activity.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have described the docking of 26 autoinducer analogues at the receptor site of Monomer A from the TraR protein complex. Hydrophobic and hydrophilic regions for ligand-binding have been detected in the receptor cavity which plays crucial roles in stabilizing the docked ligands. Also, there exists a &#x2018;tail&#x2019; chain length threshold of 8 carbons that is most favourable for ligand-binding affinity. Taken together, our docking results show that there is a positive correlation between the dock scores and the induction of &#x3B2;-galactosidase activity data. Thus, docking studies could be used as an initial screen for identifying new antagonist molecules</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-01263">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hartman</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Wise</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Lancet</source>
+          <year>1998</year>
+          <volume>351</volume>
+          <fpage>848</fpage>
+          <lpage>849</lpage>
+          <pub-id pub-id-type="pmid">9525356</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01263">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Iglewski</surname>
+              <given-names>B.H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Clin. Invest.</source>
+          <year>2003</year>
+          <volume>112</volume>
+          <fpage>1460</fpage>
+          <lpage>1465</lpage>
+          <pub-id pub-id-type="pmid">14617745</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01263">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hardman</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>G.S.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Antonie van Leeuwenhoek</source>
+          <year>1998</year>
+          <volume>74</volume>
+          <fpage>199</fpage>
+          <lpage>210</lpage>
+          <pub-id pub-id-type="pmid">10081580</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01263">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manefield</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>De Nys</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Read</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Givskov</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Steinberg</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kjelleberg</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Microbiol.</source>
+          <year>1999</year>
+          <volume>145</volume>
+          <fpage>283</fpage>
+          <lpage>291</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01263">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Pappas</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Brace</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>P. C.</given-names>
+            </name>
+            <name>
+              <surname>Oulmassov</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Molyneaux</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Bashkin</surname>
+              <given-names>J. K.</given-names>
+            </name>
+            <name>
+              <surname>Winans</surname>
+              <given-names>S. C.</given-names>
+            </name>
+            <name>
+              <surname>Joachimiak</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Nature</source>
+          <year>2002</year>
+          <volume>417</volume>
+          <fpage>971</fpage>
+          <lpage>974</lpage>
+          <pub-id pub-id-type="pmid">12087407</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01263">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schaefer</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>Hanzelka</surname>
+              <given-names>B.L.</given-names>
+            </name>
+            <name>
+              <surname>Eberhard</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Greenberg</surname>
+              <given-names>E.P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Bacteriol.</source>
+          <year>1996</year>
+          <volume>178</volume>
+          <fpage>2897</fpage>
+          <lpage>2901</lpage>
+          <pub-id pub-id-type="pmid">8631679</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01263">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Givskov</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>de Nys</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Manefield</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gram</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Maximilien</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Eberl</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Molin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Steinberg</surname>
+              <given-names>P.D.</given-names>
+            </name>
+            <name>
+              <surname>Kjelleberg</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Bacteriol.</source>
+          <year>1996</year>
+          <volume>178</volume>
+          <fpage>6618</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="pmid">8932319</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01263">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fuqua</surname>
+              <given-names>W.C.</given-names>
+            </name>
+            <name>
+              <surname>Winans</surname>
+              <given-names>S.C.</given-names>
+            </name>
+            <name>
+              <surname>Greenberg</surname>
+              <given-names>E.P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Bacteriol.</source>
+          <year>1994</year>
+          <volume>176</volume>
+          <fpage>269</fpage>
+          <lpage>275</lpage>
+          <pub-id pub-id-type="pmid">8288518</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01263">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Salond</surname>
+              <given-names>G.P.C.</given-names>
+            </name>
+            <name>
+              <surname>Bycroft</surname>
+              <given-names>B.W.</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>G.S.A.B.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Mol. Microbiol.</source>
+          <year>1995</year>
+          <volume>16</volume>
+          <fpage>615</fpage>
+          <lpage>624</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01263">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sitnikov</surname>
+              <given-names>D.M.</given-names>
+            </name>
+            <name>
+              <surname>Schineller</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Baldwin</surname>
+              <given-names>T.O.</given-names>
+            </name>
+          </person-group>
+          <source>Mol. Microbiol.</source>
+          <year>1995</year>
+          <volume>17</volume>
+          <fpage>801</fpage>
+          <lpage>812</lpage>
+          <pub-id pub-id-type="pmid">8596430</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01263">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bassler</surname>
+              <given-names>B.L.</given-names>
+            </name>
+          </person-group>
+          <source>Curr. Opin. in Microbiol.</source>
+          <year>1999</year>
+          <volume>2</volume>
+          <fpage>582</fpage>
+          <lpage>587</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01263">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whitehead</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Barnard</surname>
+              <given-names>A.M.L.</given-names>
+            </name>
+            <name>
+              <surname>Slater</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Simpson</surname>
+              <given-names>N.J.L</given-names>
+            </name>
+            <name>
+              <surname>Salmond</surname>
+              <given-names>G.P.C.</given-names>
+            </name>
+          </person-group>
+          <source>FEMS Microb. Rev.</source>
+          <year>2001</year>
+          <volume>25</volume>
+          <fpage>365</fpage>
+          <lpage>404</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01263">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Choi</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Greenberg</surname>
+              <given-names>E.P.</given-names>
+            </name>
+          </person-group>
+          <source>Proc. Nat. Acad. Sci.</source>
+          <year>1991</year>
+          <volume>88</volume>
+          <fpage>11115</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="pmid">1763027</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01263">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hanzelka</surname>
+              <given-names>Brian L.</given-names>
+            </name>
+            <name>
+              <surname>Greenberg</surname>
+              <given-names>E. P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Bacteriol.</source>
+          <year>1995</year>
+          <volume>177</volume>
+          <fpage>815</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="pmid">7836318</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01263">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Beaber</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>More</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Fuqua</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Eberhard</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Winans</surname>
+              <given-names>S.C.</given-names>
+            </name>
+          </person-group>
+          <source>J. Bacteriol.</source>
+          <year>1998</year>
+          <volume>180</volume>
+          <fpage>5398</fpage>
+          <lpage>5405</lpage>
+          <pub-id pub-id-type="pmid">9765571</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01263">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taga</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Bassler</surname>
+              <given-names>B.L.</given-names>
+            </name>
+          </person-group>
+          <source>Proc. Nat. Acad. Sci.</source>
+          <year>2003</year>
+          <volume>100</volume>
+          <supplement>(Suppl. 2)</supplement>
+          <fpage>14549</fpage>
+          <lpage>14554</lpage>
+          <pub-id pub-id-type="pmid">12949263</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-01263">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Bu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Suga</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Biol.</source>
+          <year>2003</year>
+          <volume>10</volume>
+          <fpage>563</fpage>
+          <lpage>571</lpage>
+          <pub-id pub-id-type="pmid">12837389</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01263">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vannini</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Volpari</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gargioli</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Muraglia</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Cortese</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Francesco</surname>
+              <given-names>R.D.</given-names>
+            </name>
+            <name>
+              <surname>Neddermann</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Marco</surname>
+              <given-names>S.D.</given-names>
+            </name>
+          </person-group>
+          <source>EMBO J.</source>
+          <year>2002</year>
+          <volume>21</volume>
+          <fpage>4393</fpage>
+          <lpage>4401</lpage>
+          <pub-id pub-id-type="pmid">12198141</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01263">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>R.G.</given-names>
+            </name>
+            <name>
+              <surname>Pappas</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Brace</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>P.C.</given-names>
+            </name>
+            <name>
+              <surname>Oulmassov</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Molyneaux</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Bashkin</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Winans</surname>
+              <given-names>S.C.</given-names>
+            </name>
+            <name>
+              <surname>Joachimiak</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Nature</source>
+          <year>2002</year>
+          <volume>417</volume>
+          <fpage>971</fpage>
+          <lpage>974</lpage>
+          <pub-id pub-id-type="pmid">12087407</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-01263">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gehlhaar</surname>
+              <given-names>D.K.</given-names>
+            </name>
+            <name>
+              <surname>Verkhivker</surname>
+              <given-names>G.M.</given-names>
+            </name>
+            <name>
+              <surname>Rejto</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Sherman</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Fogel</surname>
+              <given-names>D.B.</given-names>
+            </name>
+            <name>
+              <surname>Fogel</surname>
+              <given-names>L.J.</given-names>
+            </name>
+            <name>
+              <surname>Freer</surname>
+              <given-names>S.T.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Biol.</source>
+          <year>1995</year>
+          <volume>2</volume>
+          <fpage>317</fpage>
+          <lpage>324</lpage>
+          <pub-id pub-id-type="pmid">9383433</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-01263">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muegge</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>Y.C.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>2001</year>
+          <volume>44</volume>
+          <fpage>2333</fpage>
+          <lpage>2343</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-01263">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Venkatachalam</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Waldman</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Graph. Modell.</source>
+          <year>2003</year>
+          <volume>21</volume>
+          <fpage>289</fpage>
+          <lpage>307</lpage>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-01263">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gohlke</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Klebe</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Curr. Opin. Struct. Biol.</source>
+          <year>2001</year>
+          <volume>11</volume>
+          <fpage>231</fpage>
+          <lpage>235</lpage>
+          <pub-id pub-id-type="pmid">11297933</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-01263">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Andreani</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Robbins</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Muegge</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>J. Comput.-Aided Mol. Des.</source>
+          <year>2000</year>
+          <volume>14</volume>
+          <fpage>435</fpage>
+          <lpage>448</lpage>
+          <pub-id pub-id-type="pmid">10896316</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-01263">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Passador</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Cook</surname>
+              <given-names>J.M</given-names>
+            </name>
+            <name>
+              <surname>Gambello</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Rust</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Iglewski</surname>
+              <given-names>B.H.</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <year>1993</year>
+          <volume>260</volume>
+          <fpage>1127</fpage>
+          <lpage>1130</lpage>
+          <pub-id pub-id-type="pmid">8493556</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-01263">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pearson</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Pesci</surname>
+              <given-names>E.C.</given-names>
+            </name>
+            <name>
+              <surname>Iglewski</surname>
+              <given-names>B.H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Bacteriol.</source>
+          <year>1997</year>
+          <volume>149</volume>
+          <fpage>5756</fpage>
+          <lpage>5767</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability:</italic> Not applicable.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

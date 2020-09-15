@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="review-article" dtd-version="2.3">
+ <front>
+ <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+  </journal-meta>
+  <article-meta>
+   <article-id pub-id-type="doi">10.3390/10080937</article-id>
+   <article-id pub-id-type="publisher-id">molecules-10-00937</article-id>
+   <article-categories>
+    <subj-group>
+     <subject>Review</subject>
+    </subj-group>
+   </article-categories>
+   <title-group>
+    <article-title>Reactions of 3-Formylchromone with Active Methylene and Methyl Compounds and Some Subsequent Reactions of the Resulting Condensation Products.</article-title>
+   </title-group>
+   <contrib-group>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Ga&#x161;parov&#xE1;</surname>
+      <given-names>Renata</given-names>
+     </name>
+     <xref rid="af1-molecules-10-00937" ref-type="aff">1</xref>
+     <xref rid="c1-molecules-10-00937" ref-type="corresp">*</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>L&#xE1;cov&#xE1;</surname>
+      <given-names>Margita</given-names>
+     </name>
+     <xref rid="af2-molecules-10-00937" ref-type="aff">2</xref>
+    </contrib>
+   </contrib-group>
+   <aff id="af1-molecules-10-00937"><label>1</label>Department of Chemistry, Faculty of Natural Sciences, University of St. Cyril and Methodius, N&#xE1;mestie Jozefa Herdu 2, SK-917 01 Trnava, Slovak Republic; Tel.: (+421) 33 55 65 321, Fax: (+421) 33 55 65 185</aff>
+   <aff id="af2-molecules-10-00937"><label>2</label>Department of Organic Chemistry, Faculty of Natural Sciences, Comenius University, Mlynsk&#xE1; dolina CH-2, SK-842 15 Bratislava, Slovak Republic; e-mail: <underline><email>lacova@fns.uniba.sk</email></underline></aff>
+   <author-notes>
+    <corresp id="c1-molecules-10-00937"><label>*</label>Author to whom correspondence should be addressed; e-mail: <underline><email>renata.gasparova@ucm.sk</email></underline></corresp>
+   </author-notes>
+   <pub-date pub-type="epub">
+    <day>31</day>
+    <month>08</month>
+    <year>2005</year>
+   </pub-date>
+   <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>8</issue>
+   <fpage>937</fpage>
+   <lpage>960</lpage>
+   <history>
+    <date date-type="received">
+     <day>12</day>
+     <month>03</month>
+     <year>2004</year>
+    </date>
+    <date date-type="rev-recd">
+     <day>08</day>
+     <month>02</month>
+     <year>2005</year>
+    </date>
+    <date date-type="accepted">
+     <day>10</day>
+     <month>03</month>
+     <year>2005</year>
+    </date>
+   </history>
+   <permissions>
+    <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+    <copyright-year>2005</copyright-year>
+    <license license-type="open-access">
+     <p>Reproduction is permitted for noncommercial purposes.</p>
+    </license>
+   </permissions>
+   <abstract>
+    <p>This review presents a survey of the condensations of 3-formylchromone with various active methylene and methyl compounds, e.g. malonic or barbituric acid derivatives, five-membered heterocycles, etc. The utilisation of the condensation products for the synthesis of different heterocyclic systems, which is based on the ability of the <italic>&#x3B3;</italic>-pyrone ring to be opened by the nucleophilic attack is also reviewed. Finally, the applications of microwave irradiation as an unconventional method of reaction activation in the synthesis of condensation products is described and the biological activity of some chromone derivatives is noted.</p>
+   </abstract>
+   <kwd-group>
+       <kwd>3-Formylchromone</kwd>
+		<kwd>Knoevenagel condensation</kwd>
+		<kwd>active methylene compound</kwd>
+		<kwd>active methyl compound</kwd>
+		<kwd>microwave irradiation</kwd>
+		<kwd>biological activity</kwd>
+   </kwd-group>
+  </article-meta>
+ </front>
+ <body>
+  <sec sec-type="intro">
+   <title>Introduction</title>
+   <p>From a synthetic viewpoint, 3-formylchromone (<bold>1</bold>, <xref ref-type="fig" rid="molecules-10-00937-f001">Figure 1</xref>) occupies an important position in the synthesis of various heterocyclic systems. Due to the availability of three electron deficient sites: carbon C-2, the aldehyde carbon and the C-4 carbon of the carbonyl group, 3-formylchromone is able to serve as a heterodiene as well as a dienophile or a Michael acceptor and fused heterocycles can be prepared directly by reaction of <bold>1</bold> with bifunctional nucleophiles.</p>
+   <fig id="molecules-10-00937-f001" position="float">
+    <label>Figure 1</label>
+    <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g001.tif"/>
+   </fig>
+   <p>Since a facile synthesis of <bold>1</bold> by the Vilsmeier&#x2013;Haack reaction was first published [<xref ref-type="bibr" rid="B1-molecules-10-00937">1</xref>], the interest on the chemistry of chromones and their pharmacological utilisation hasn&#x2019;t decreased. Several reviews dealing with the synthesis, properties and reactions of <bold>1</bold> were published [<xref ref-type="bibr" rid="B2-molecules-10-00937">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00937">3</xref>], however, condensations of <bold>1</bold> with active methylene and methyl compounds didn&#x2019;t appear to generate great interest in the earlier research.</p>
+   <p>This review presents the synthetic capability and the exploitation of the abovementioned types of condensation, achieved using the microwave irradiation method of synthesis as a new and very convenient rate enhancing method [<xref ref-type="bibr" rid="B4-molecules-10-00937">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00937">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00937">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00937">7</xref>]. Several types of subsequent reactions of the condensation products illustrate the ability of chromone derivatives to serve as excellent precursors for the synthesis of a wide variety of heterocyclic systems.</p>
+  </sec>
+  <sec>
+   <title>Condensations of <bold>1</bold> with active methylene compounds</title>
+   <sec>
+    <title>Condensations of <italic><bold>1</bold></italic> with malonic acid derivatives</title>
+    <p>3-Formylchromones readily react with malonic acid and its derivatives in the presence of base, mostly pyridine (<xref ref-type="scheme" rid="molecules-10-00937-f002">Scheme 1</xref>). Reaction of <bold>1</bold> with malonic acid [<xref ref-type="bibr" rid="B8-molecules-10-00937">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00937">9</xref>] or diethyl malonate [<xref ref-type="bibr" rid="B9-molecules-10-00937">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00937">10</xref>] in the presence of pyridine afforded <italic>E-&#x3B2;</italic>-(4-oxo-4H-1-benzopyran-3-yl)acrylic acids <bold>2a</bold> (R<sup>1</sup> = H) or ethyl acrylates <bold>2b</bold> (R<sup>1</sup> = C<sub>2</sub>H<sub>5</sub>), which strongly inhibit the secretion of histamine, therefore they can serve as the suitable agents for the treatment of allergic diseases, especially bronchial asthma. Reaction of <bold>1</bold> with cyanoacetic acid [<xref ref-type="bibr" rid="B11-molecules-10-00937">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00937">12</xref>] led to <italic>E</italic>-<italic>&#x3B2;</italic>-(4-oxo-4H-1-benzopyran-3-yl)acrylonitriles <bold>3a</bold> (R<sup>1</sup> = H) in 56&#x2013;74 % yields. Finally, condensation of <bold>1</bold> with malondinitrile, reported by Ellis [<xref ref-type="bibr" rid="B13-molecules-10-00937">13</xref>] gave derivative <bold>3b</bold> (R = H, R<sup>1</sup> = CN) in 72% yield after 10 min heating at 42 &#xB0;C.</p>
+    <p>When 6-substituted <bold>1</bold> were refluxed for 8 &#x2013; 12 hrs with malonic diamide in pyridine, 3-substituted 5-(2-hydroxybenzoyl)-2(1<italic>H</italic>)-pyridones <bold>5</bold> were obtained in 62-71% yields [<xref ref-type="bibr" rid="B14-molecules-10-00937">14</xref>]. Cyanoacetamide reacted with <bold>1a</bold> (R = H) or <bold>1b</bold> (R = C<sub>2</sub>H<sub>5</sub>) under the similar conditions to produce the mixture of <bold>5a</bold> (<bold>5b</bold>) together with <bold>6a</bold> (<bold>6b</bold>). In the case of 6-nitro-3-formylchromone only <bold>5c</bold> (R = NO<sub>2</sub>) was isolated in 57%  yield.  Reaction  of  <bold>1b</bold>  with  cyanoacetamide  provides  2-cyano-3-(6-ethyl-(4-oxo-4H-1-benzopyran-3-yl)acrylamide <bold>4</bold> in 42 % yield after 5 min reflux. Whereas <bold>4</bold> was transformed to <bold>5b</bold> (R = C<sub>2</sub>H<sub>5</sub>) in 60% yield by prolonged reflux in pyridine, in the presence of water, both <bold>5b</bold> and <bold>6b</bold> (1:1) were isolated (<xref ref-type="scheme" rid="molecules-10-00937-f002">Scheme 1</xref>).</p>
+    <fig id="molecules-10-00937-f002" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f002_Scheme 1</object-id>
+     <label>Scheme 1</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g002.tif"/>
+    </fig>
+   </sec>
+   <sec>
+    <title>Condensations of <bold>1</bold> with 2,4-pentanedione</title>
+    <p>Condensation of <bold>1</bold> with an excess amount of 2,4-pentanedione (<xref ref-type="scheme" rid="molecules-10-00937-f003">Scheme 2</xref>, path a) in boiling ethanol catalysed by ammonium acetate furnished 3-acetyl-5-(5-R-2-hydroxybenzoyl)-2-methyl-pyridines <bold>9</bold> in 20&#x2013;29% yields [<xref ref-type="bibr" rid="B15-molecules-10-00937">15</xref>]. The mechanism of this reaction involves the initial base-catalysed condensation of <bold>1</bold> with 2,4-pentanedione to obtain 3-[(4-oxo-4H-1-benzopyran-3-yl)methylene]-pentanediones <bold>7</bold>, followed by the cleavage of the pyrone ring at C-2 by ammonia and cyclisation of <bold>7</bold> to afford <bold>9</bold> <italic>via</italic> non-isolable intermediate <bold>8</bold>. Product <bold>7</bold> was also synthesized in 60% yield by condensation of <bold>1</bold> and 2,4-pentanedione in acetic anhydride &#x2013; sodium acetate medium [<xref ref-type="bibr" rid="B16-molecules-10-00937">16</xref>]. Benzophenones <bold>14</bold> were obtained in low yields (15&#x2013;30 %) along with <bold>7</bold> (30&#x2013;40 %) by the addition of a solution of <bold>1</bold> in acetic acid to a preheated (70&#x2013;80 &#xBA;C) mixture of 2,4-pentanedione in acetic acid containing a catalytic amount of hydrochloric acid [<xref ref-type="bibr" rid="B17-molecules-10-00937">17</xref>]. The formation of <bold>14</bold> (<xref ref-type="scheme" rid="molecules-10-00937-f003">Scheme 2</xref>, path c) can be explained by a mechanism which involves the acid-catalysed 1,4-addition of the enol form of 2,4-pentanedione to <bold>1</bold>, followed by ring opening to generate intermediate <bold>10</bold>, which then enolises to <bold>12</bold>. Benzophenone <bold>14</bold> is finally obtained by cyclisation of <bold>12</bold> to <bold>13</bold> and subsequent dehydration and tautomerisation.</p>
+    <fig id="molecules-10-00937-f003" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f003_Scheme 2</object-id>
+     <label>Scheme 2</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g003.tif"/>
+    </fig>
+    <p>When the mixture of <bold>1</bold>, 2,4-pentanedione and the catalytic amount of hydrochloric acid is treated in acetic acid at room temperature and then heated at 70&#x2013;80&#xBA;C for 2 hrs, only products <bold>7a</bold> and <bold>7b</bold>, respectively, were isolated in 40&#x2013;45% yields [<xref ref-type="bibr" rid="B17-molecules-10-00937">17</xref>], which demosntrates 1,2 &#x2013; addition of 2,4-pentane-dione to protonated <bold>1</bold>. On the other hand, the mechanism of base-catalysed condensation of <bold>1</bold> consists on the initial attack of the nucleophile at the C-2 of pyrone ring, followed by ring opening and recyclisation to <bold>11</bold> with subsequent elimination of water to give <bold>7</bold> (<xref ref-type="scheme" rid="molecules-10-00937-f003">Scheme 2</xref>, path b) [<xref ref-type="bibr" rid="B2-molecules-10-00937">2</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00937">16</xref>].</p>
+   </sec>
+   <sec>
+    <title>Condensations of <bold>1</bold> with ethyl acylacetates</title>
+    <p>Condensation products <bold>15</bold>, prepared in 63 or 30 % yields from <bold>1</bold> and ethyl acetoacetate or ethyl benzoylacetate in sodium acetate &#x2013; acetic anhydride medium served as the intermediates for synthesis of diethyl 5-(2-hydroxybenzoyl)-2-methylisophtalate <bold>16</bold> [<xref ref-type="bibr" rid="B16-molecules-10-00937">16</xref>] (<xref ref-type="scheme" rid="molecules-10-00937-f004">Scheme 3</xref>).Thus, <bold>15a</bold> (R = CH<sub>3</sub>) on treatment with excess ethyl acetoacetate in the presence of piperidine in ethanol gives <bold>16</bold>, which can be also formed in 80 % yield by one-step reaction of <bold>1</bold> with excess ethyl acetoacetate in piperidine &#x2013; ethanol medium (<xref ref-type="scheme" rid="molecules-10-00937-f004">Scheme 3</xref>, path a). The proposed mechanism involves initial condensation of <bold>1</bold> with ethyl acetoacetate followed by Michael addition of the second molecule of ethyl acetoacetate and subsequent rearrangement (<xref ref-type="scheme" rid="molecules-10-00937-f004">Scheme 3</xref>, path b).</p>
+    <fig id="molecules-10-00937-f004" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f004_Scheme 3</object-id>
+     <label>Scheme 3</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g004.tif"/>
+    </fig>
+   </sec>
+   <sec>
+    <title>Condensations of <bold>1</bold> with 5-nitrofuryltrichloromethylsulphone</title>
+    <p>Product <bold>17</bold> [<xref ref-type="bibr" rid="B18-molecules-10-00937">18</xref>] was formed, when <bold>1</bold> was treated with 5-nitrofuryltrichlormethylsulphone in glacial acetic acid in the presence of ammonium acetate and piperidine at 50&#x2013;80 &#xB0;C. Further <bold>17</bold> gave with diazomethane the cyclopropanes <bold>18</bold> instead of the expected pyrazoline derivatives.</p>
+    <fig id="molecules-10-00937-f005" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f005_Scheme 4</object-id>
+     <label>Scheme 4</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g005.tif"/>
+    </fig>
+    <p>These results can be explained by non-finished stepwise mechanism (<xref ref-type="scheme" rid="molecules-10-00937-f005">Scheme 4</xref>). Nucleophilic attack of diazomethane on the polarised C=C double bond of trisubstituted ethylenes produces carbanion, which undergoes a cyclopropane forming S<sub>N</sub>i reaction with the simultaneous elimination of N<sub>2</sub>.</p>
+   </sec>
+   <sec>
+    <title>Condensations of <bold>1</bold> with 5,5-dimethylcyclohexane-1,3-dione and Meldrum&#x2019;s acid</title>
+    <p>When <bold>1</bold> was treated with 5,5-dimethylcyclohexane-1,3-dione (dimedone) in aqueous ethanol, a 2:1 adduct <bold>21</bold> was formed [<xref ref-type="bibr" rid="B19-molecules-10-00937">19</xref>] . Reaction in pyridine gave the same product <bold>21</bold>, which was dehydrated to xantone derivative <bold>22</bold> (73 %) by recrystalization in ethanol, containing hydrochloric acid [<xref ref-type="bibr" rid="B20-molecules-10-00937">20</xref>] (<xref ref-type="scheme" rid="molecules-10-00937-f006">Scheme 5</xref>).</p>
+    <fig id="molecules-10-00937-f006" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f006_Scheme 5</object-id>
+     <label>Scheme 5</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g006.tif"/>
+    </fig>
+    <p>On the other hand, when condensation of <bold>1</bold> with dimedone took place in acetic anhydride in the presence of potassium acetate, expected adducts <bold>19</bold> were isolated in 54&#x2013;64 % yields by reflux for 1 hr as well as under 4&#x2013;6 min irradiation in microwave oven [<xref ref-type="bibr" rid="B21-molecules-10-00937">21</xref>]. Various heterocyclic aldehydes, including 3-formylchromone, were condensed with 2,2-dimethyl-1,3-dioxane-4,6-dione (Meldrum&#x2019;s acid). Product <bold>20</bold> was obtained in 63 % yield by heating of <bold>1</bold> with Meldrum&#x2019;s acid in chloroform in the acetic acid&#x2013;piperidine medium [<xref ref-type="bibr" rid="B22-molecules-10-00937">22</xref>] (<xref ref-type="scheme" rid="molecules-10-00937-f006">Scheme 5</xref>).</p>
+   </sec>
+   <sec>
+    <title>Condensations of <bold>1</bold> with 1,3-indandione and the other five-membered fused heterocycles</title>
+    <p>1,3-Indandione was used as a component for condensations with <bold>1</bold> under various reaction conditions. Products <bold>23</bold> were synthesized in 61&#x2013;92% yields either by 20 min of reflux in glacial acetic acid in the presence of piperidine [<xref ref-type="bibr" rid="B23-molecules-10-00937">23</xref>] or by 4&#x2013;6 min of the microwave irradiation in acetic anhydride without any catalyst [<xref ref-type="bibr" rid="B21-molecules-10-00937">21</xref>]. Nearly identical yields (61%) were obtained when these reactions were performed in ethanol in the absence of a catalyst at room temperature [<xref ref-type="bibr" rid="B24-molecules-10-00937">24</xref>].</p>
+    <p>It is also possible to obtain the same product <bold>23</bold> in pyridine after 3 hrs at room temperature [<xref ref-type="bibr" rid="B20-molecules-10-00937">20</xref>]. According to the same procedure there were prepared products <bold>26</bold> and <bold>27</bold> by condensations of <bold>1</bold> with 3-oxo-2,3dihydrobenzo[<italic>b</italic>]thiophene-1,1-dioxide and oxindole, respectively.</p>
+    <fig id="molecules-10-00937-f007" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f007_Scheme 6</object-id>
+     <label>Scheme 6</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g007.tif"/>
+    </fig>
+    <p>Reactions of <bold>23</bold> or <bold>26</bold> with aqueous ammonia led to 3-(2-hydroxybenzoyl)-5-oxoindano[3,2-<italic>b</italic>]pyridine (<bold>25</bold>) in 81% yield and 3-(2-hydroxybenzoyl)[1]benzothieno[3, 2-<italic>b</italic>]pyridine-5,5-dioxide (<bold>28</bold>) in 89% yield. In comparison with these results, adduct <bold>27</bold> didn&#x2019;t react with ammonia, what is explained by lower electrophilicity of carbonyl group. On the other hand, reaction of <bold>23</bold> with hydrazine sulfate in pyridine gave pyrazole <bold>24</bold> in 45% yield [<xref ref-type="bibr" rid="B21-molecules-10-00937">21</xref>]. [1,3]Thiazolo[3,2-<italic>a</italic>]benzimidazol- 3(2<italic>H</italic>)-one was prepared by the cyclization of (2-benzimidazolylthio)acetic acid in acetic anhydride. The following condensation with <bold>1</bold> under microwave irradiation for 18&#x2013;30 min as well as by the classical heating at 130&#xB0;C for 1.5&#x2013;3 hrs lead to high yields (60&#x2013;97 %) of products <bold>29</bold> [<xref ref-type="bibr" rid="B21-molecules-10-00937">21</xref>].</p>
+    <p>3-Formylchromones react easily with 2-methyl[1,3]thiazolo[3, 2-<italic>b</italic>][1,2,4]triazol-5(6<italic>H</italic>)-one in acetic anhydride &#x2013; sodium acetate medium. After 8 hrs of reflux <bold>30</bold> was produced in 68&#x2013;91 % yields [<xref ref-type="bibr" rid="B24-molecules-10-00937">24</xref>]. 1,2'-Biindenylidene-3,1',3'-trione (bindone), as the derivative of 1,3-indandione, gave by treatment with <bold>1</bold> in acetic anhydride &#x2013; potassium acetate [<xref ref-type="bibr" rid="B21-molecules-10-00937">21</xref>] only low yields of condensation products <bold>31</bold> (20&#x2013; 43 %), what is probably caused by the steric effects (<xref ref-type="scheme" rid="molecules-10-00937-f007">Scheme 6</xref>).</p>
+   </sec>
+   <sec>
+    <title>Condensations of <italic><bold>1</bold></italic> with hippuric acid, N-acetylglycine and benzoylpropionic acid</title>
+    <p>In the presence of acetic anhydride and sodium acetate <bold>1</bold> was condensed with hippuric acid [<xref ref-type="bibr" rid="B27-molecules-10-00937">27</xref>] to afford acrylic acid derivatives <bold>32</bold>, which subsequently cyclised to 2-phenyl-4-[(chromon-3-yl)methylene]oxazolin&#x2013;5(4<italic>H</italic>)-ones <bold>33a</bold> in 40 -52 % yields.</p>
+    <fig id="molecules-10-00937-f008" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f008_Scheme 7</object-id>
+     <label>Scheme 7</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g008.tif"/>
+    </fig>
+    <p>Heating of <bold>33a</bold> in ethanolic or methanolic solution of sodium carbonate lead to 37&#x2013;78% yields of pyrroles <bold>34</bold> (<xref ref-type="scheme" rid="molecules-10-00937-f008">Scheme 7</xref>). Analogously it is possible to obtain products <bold>33b</bold> from <bold>1</bold> and <italic>N</italic>-acetylglycine [<xref ref-type="bibr" rid="B39-molecules-10-00937">39</xref>]. Both of the products <bold>33a</bold> and <bold>33b</bold> can be transformed to <bold>36</bold> by treatment with amines. In an alternate method, compounds <bold>36</bold> could also be obtained by condensations of <bold>1</bold> with 1,2-disubstituted imidazolin-5(4<italic>H</italic>)-ones, which were prepared from <italic>N</italic>-acylglycine and the corresponding amine.</p>
+    <p>Substituted benzoylpropionic acids cyclized readily with <bold>1</bold> to <bold>35</bold> [<xref ref-type="bibr" rid="B26-molecules-10-00937">26</xref>]. Classical heating in acetic anhydride in the presence of potassium acetate gave 78% of products <bold>35</bold>, while the irradiation in microwave oven in the same medium needed only 1&#x2013;4 min to prepare <bold>35</bold> in 62&#x2013;84% yields.</p>
+    <p>3-Formylchromones were condensed with substituted 4-coumarinylacetic acids in acetic anhydride in the presence of potassium carbonate as the catalyst either by heating at 80&#x2013;90 &#xB0;C for 3 hrs or by 4&#x2013;10 min of irradiation in microwave oven. The expected products <bold>38</bold> were not obtained directly and the reaction led to arising of 2-hydroxy derivatives <bold>37</bold>, which were transformed to 2-ethoxy derivatives <bold>40</bold> by reflux in ethanol. Compounds <bold>38</bold> were formed only by reflux of <bold>37</bold> or <bold>40</bold> in acetic acid.</p>
+    <fig id="molecules-10-00937-f009" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f009_Scheme 8</object-id>
+     <label>Scheme 8</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g009.tif"/>
+    </fig>
+    <p>Derivatives <bold>37</bold>, <bold>38</bold> and <bold>40</bold> were able to change into each other as it is indicated in scheme 8. It was proved that only chromone parts of molecules of <bold>37</bold>, <bold>38</bold> and <bold>40</bold> reacted with primary amines or formamide. After nucleophilic attack the pyrone ring was opened to cause the rearrangement of chromone system into pyridine derivatives <bold>41</bold> and <bold>42</bold>, respectively [<xref ref-type="bibr" rid="B28-molecules-10-00937">28</xref>].</p>
+    <p>On the other hand, Shingare and co-workers [<xref ref-type="bibr" rid="B29-molecules-10-00937">29</xref>] described the condensations of substituted 3-formylchromones with 6,8-dimethylcoumarin-4-acetic acid. Even if the reactions were carried out in pyridine, after 6 hrs of reflux the opening of the pyrone ring was not observed. Condensation products <bold>38</bold> were obtained in 46&#x2013;69 % yields.</p>
+    <p>When substituted 3-formylchromones were treated with 3- or 4-coumarinylacetic acids in acetic anhydride&#x2013;potassium acetate either by heating at 90&#x2013;100&#xB0;C for 1&#x2013;2 hrs or by microwave irradiation for 10 min, products <bold>43a</bold> and <bold>44a</bold> (R<sup>2</sup> = CH<sub>3</sub>CO), respectively were obtained in 80&#x2013;86 % yields (<xref ref-type="scheme" rid="molecules-10-00937-f010">Scheme 9</xref>).</p>
+    <fig id="molecules-10-00937-f010" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f010_Scheme 9</object-id>
+     <label>Scheme 9</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g010.tif"/>
+    </fig>
+    <p>Their subsequent alcoholysis with various alcohols at 60&#x2013;100 &#xB0;C in the presence of p- toluenesulfonic acid gives ethers <bold>43</bold> and <bold>44</bold> (R<sup>2</sup> = CH<sub>3</sub>, C<sub>2</sub>H<sub>5</sub>, CH<sub>2</sub>-CH=CH<sub>2</sub>) in about 80% yields. It was also found, that all prepared compounds <bold>43</bold> and <bold>44</bold> underwent a rearrangement by heating with acetic acid at 60&#x2013;80 &#xB0;C to afford products <bold>45</bold> and <bold>46</bold> in about 75 % yields [<xref ref-type="bibr" rid="B30-molecules-10-00937">30</xref>] (<xref ref-type="scheme" rid="molecules-10-00937-f011">Scheme 10</xref>).</p>
+   </sec>
+   <sec>
+    <title>Condensations of <italic><bold>1</bold></italic> with barbituric acid derivatives</title>
+    <p>3-Formylchromone was easily condensed with several pyrimidine derivatives [<xref ref-type="bibr" rid="B20-molecules-10-00937">20</xref>,<xref ref-type="bibr" rid="B31-molecules-10-00937">31</xref>]. Product <bold>47</bold> was obtained in 94 % yield after 10 min of reflux of <bold>1</bold> and barbituric acid in pyridine [<xref ref-type="bibr" rid="B20-molecules-10-00937">20</xref>] (<xref ref-type="scheme" rid="molecules-10-00937-f011">Scheme 10</xref>). Two types of condensation products were synthesized by treatment of <bold>1</bold> with 1,3-dimethyl-4-iminouracil depending on the reaction conditions [<xref ref-type="bibr" rid="B31-molecules-10-00937">31</xref>].</p>
+    <fig id="molecules-10-00937-f011" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f011_Scheme 10</object-id>
+     <label>Scheme 10</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g011.tif"/>
+    </fig>
+    <p>When the reaction took place in water, a Knoevenagel type product <bold>48</bold> was produced in 39 % yield. On the other hand using of the ethanol&#x2013;water medium (1:1) in the presence of a catalytic amount pyridine led to product <bold>49</bold> in 28% yield.</p>
+    <p>Substituted barbituric or thiobarbituric acids reacted with <bold>1</bold> in acetone under triethylamine&#x2013;pyridine catalysis to afford products <bold>50</bold> in 13&#x2013;21 % yields, while an acetic acid&#x2013;acetic anhydride medium has been identified as suitable for preparing pyrimidopyranopyrimidines <bold>51</bold>, which were obtained in 12&#x2013;64 % yieds [<xref ref-type="bibr" rid="B31-molecules-10-00937">31</xref>].</p>
+   </sec>
+   <sec>
+    <title>Condensations of <bold>1</bold> with 5-membered heterocycles</title>
+    <sec>
+     <title>Reactions with 2-thioxoimidazolidin-4-one</title>
+     <p>Condensation products <bold>52</bold> were prepared in 74&#x2013;78 % yields by refluxing <bold>1</bold> with 2-thioxo-imidazolidin-4-one (thiohydantoin) in glacial acetic acid in the presence of piperidine for 20 min [<xref ref-type="bibr" rid="B23-molecules-10-00937">23</xref>]. A subsequent method is based on 0.5&#x2013;2 hr heating of the reaction mixture in acetic anhydride and catalysed by potassium acetate [<xref ref-type="bibr" rid="B32-molecules-10-00937">32</xref>]. Microwave irradiation shortened the reaction times to 4&#x2013;10 min and gave comparable yields (62&#x2013;96 %) of <bold>52</bold> (<xref ref-type="scheme" rid="molecules-10-00937-f012">Scheme 11</xref>).</p>
+    </sec>
+   <sec>
+    <title>Reactions with 2-thioxothiazolidin-4-one</title>
+    <p>2-Thioxothiazolidin-4-one (rhodanine) gives with <bold>1</bold> in acetic anhydride under sodium acetate catalysis [<xref ref-type="bibr" rid="B27-molecules-10-00937">27</xref>] products <bold>53</bold> (R = H or R = 5-CH<sub>3</sub>, 6-CH<sub>3</sub>O) in 43 and 66 % yields. Products <bold>53</bold> have been utilised for the preparation of thiophene carboxylic acids <bold>55</bold>. Thus, on treatment of <bold>53</bold> in aqueous sodium hydroxide after 1 hr of reflux afforded <bold>55</bold> (R = H, CH<sub>3</sub>) in 44 and 80 % yields, respectively.</p>
+    <p>Similarly, <bold>1</bold> with 3-ethylrhodanine gave product <bold>54</bold> (R = H) in 95 % yield in potassium acetate&#x2013;absolute ethanol medium [<xref ref-type="bibr" rid="B53-molecules-10-00937">53</xref>]. Products <bold>54</bold> were also prepared in acetic anhydride&#x2013;potassium acetate medium after 5 minutes of the microwave irradiation, while classical heating lead in these cases to comparable amounts (65&#x2013;74 %) of products <bold>54</bold> after 1 hr [<xref ref-type="bibr" rid="B32-molecules-10-00937">32</xref>].</p>
+    <p>Condensations of various aldehydes, including <bold>1</bold> with acylated 3-aminorhodanines were also published [<xref ref-type="bibr" rid="B33-molecules-10-00937">33</xref>]. The acylation of 3-amino group of rhodanine was taken place by the reflux of 3-aminorhodanine with acylhalogenides in tetrahydrofurane. Subsequent condensation of 3-aminoacetylrhodanine with <bold>1</bold> in ethanol gave product <bold>56</bold>.</p>
+   </sec>
+   <sec>
+    <title>Reactions with 2-imino-1-methylimidazolidin-4-one</title>
+    <p>Reactions of <bold>1</bold> with 2-imino-1-methylimidazolidin.4-one (creatinine) provide several types of products, depending on the reaction medium [<xref ref-type="bibr" rid="B32-molecules-10-00937">32</xref>]. When substituted <bold>1</bold> were condensed with creatinine in acetic anhydride at catalysis by potassium acetate under microwave irradiation for 1 - 4 min as well as at classical heating for 1&#x2013;2 hrs, 2-iminogroup was acetylated to yield products <bold>57</bold> in 40&#x2013;84%.</p>
+    <p>The convenient synthesis of 1-methyl-4-oxo-[(6-R-4-oxo-4H-1-benzopyran-3-yl)methylidene]-4,5-dihydroimidazol-2-carbamoic acids <bold>58</bold> was accomplished by reaction of creatinine with ethyl chloroformate in dimethylformamide at 0&#x2013;5&#xB0;C over 30 min, followed by subsequent condensation with <bold>1</bold>. Products <bold>58</bold> were obtained after 4&#x2013;6 hrs in 69&#x2013;71% yields by both the classical and microwave irradiation methods, even under anhydrous conditions. Unsubstituted condensation products <bold>59</bold> were prepared in 68&#x2013;98% by heating of the mixture of <bold>1</bold> and creatinine in dimethylsulfoxide under boric acid catalysis for 3 hrs.</p>
+    <fig id="molecules-10-00937-f012" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f012_Scheme 11</object-id>
+     <label>Scheme 11</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g012.tif"/>
+    </fig>
+   </sec>
+   <sec>
+    <title>Reactions with 3-substituted isoxazol-5(4H)-ones</title>
+    <p>Knoevenagel products <bold>60</bold> of <bold>1</bold> with 3-methylisoxazol-5(4<italic>H</italic>)-one [<xref ref-type="bibr" rid="B34-molecules-10-00937">34</xref>] or with 3-methyl- and 3-phenylisoxazol-5(4<italic>H</italic>)-one, respectively [<xref ref-type="bibr" rid="B34-molecules-10-00937">34</xref>] were synthesized either in chloroform &#x2013; ethanol medium at room temperature [<xref ref-type="bibr" rid="B34-molecules-10-00937">34</xref>], or by 3 hr heating in ethanol [<xref ref-type="bibr" rid="B32-molecules-10-00937">32</xref>] in 81-89 % yields<bold>.</bold> Condensation products <bold>60</bold> serve as convenient starting materials for the synthesis of benzopyranylacetylenes <bold>60</bold>. Chromon-3-ylacetylene <bold>61</bold> (R<sup>4</sup> = H) was prepared from appropriate <bold>60</bold> by flash pyrolysis at 750&#xB0;C [<xref ref-type="bibr" rid="B34-molecules-10-00937">34</xref>]. 2-Methyl or 2-phenylchromonylacetylenes <bold>61</bold> (R<sup>4</sup> = CH<sub>3</sub>, C<sub>6</sub>H<sub>5</sub>) were synthesized in good yields (79&#x2013;89%) after reduction of <bold>60</bold> (R<sup>3</sup> = CH<sub>3</sub>, C<sub>6</sub>H<sub>5</sub>) with sodium borohydride&#x2013;methanol for 3 hr at room temperature and exposure to aqueous sodium nitrite&#x2013;ferrous sulfate in acetic acid [<xref ref-type="bibr" rid="B35-molecules-10-00937">35</xref>] (<xref ref-type="scheme" rid="molecules-10-00937-f012">Scheme 11</xref>).</p>
+   </sec>
+   <sec>
+    <title>Reactions with substituted pyrazolin-5-(4H)-ones</title>
+    <p>Substituted <bold>1</bold> condensed readily with 3-methyl-1-phenylpyrazolin-5-(4<italic>H</italic>)-one [<xref ref-type="bibr" rid="B36-molecules-10-00937">36</xref>] in acetic acid to give products <bold>62</bold> in 47&#x2013;80% yields. When the mixture of <bold>1</bold> and 3-methyl-1-phenylpyrazolin-5-(4<italic>H</italic>)- one in solvent free conditions was exposed to microwave irradiation for 3-5 min derivatives <bold>62</bold> were isolated in 54&#x2013;85% yields. Comparable yields of <bold>62</bold> (56&#x2013;86 %) were obtained by microwave irradiation of <bold>1</bold> and 3-methyl-1-phenylpyrazolin-5-(4<italic>H</italic>)-one on aluminia support or by &#x201C;classical&#x201D; heating in dioxane&#x2013;triethylamine medium for 45 min [<xref ref-type="bibr" rid="B37-molecules-10-00937">37</xref>] (<xref ref-type="scheme" rid="molecules-10-00937-f013">Scheme 12</xref>).</p>
+    <fig id="molecules-10-00937-f013" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f013_Scheme 12</object-id>
+     <label>Scheme 12</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g013.tif"/>
+    </fig>
+    <p>Reactions of 6-substituted 3-formylchromones with 4-hydroxy-1-methyl-3-(5-oxo-2-pyrazolin-3-yl)quinolin-2(1<italic>H</italic>)-one [<xref ref-type="bibr" rid="B38-molecules-10-00937">38</xref>] were carried out in glacial acetic acid in the presence of sodium acetate to give quinoline derivatives <bold>63</bold> (<xref ref-type="scheme" rid="molecules-10-00937-f013">Scheme 12</xref>). When compound <bold>63a</bold> (R = H) was treated with hydrazine hydrate in a 1:1 molar ratio in boiling ethanol the product of pyrone ring opening and pyrazole ring closure <bold>64a</bold> (A = NH) was obtained in 66% yield. Treatment of <bold>63a</bold> with the excess of hydroxylamine in boiled dimethylformamide led to product <bold>65a</bold> in 56%. Furthermore <bold>65a</bold> was obtained in 89% yield by refluxing <bold>64a</bold> with excess hydrazine hydrate in dimethylformamide (<xref ref-type="scheme" rid="molecules-10-00937-f013">Scheme 12</xref>). Similar results were acquired by reaction of <bold>63a</bold> with hydroxylammonium chloride in a mixture of ethanol&#x2013;dimethylformamide. When a 1:1 molar ratio was used, pruduct <bold>64b</bold> (A = O) was obtained in 84% yield, while using excess of hydroxylammonium chloride led to <bold>65b</bold> in 71% yield. Treatment of <bold>64b</bold> with the excess of hydroxylammonium chloride also yielded <bold>65b</bold> in 85 % yield (<xref ref-type="scheme" rid="molecules-10-00937-f013">Scheme 12</xref>).</p>
+    <p>As it was mentioned above [<xref ref-type="bibr" rid="B15-molecules-10-00937">15</xref>,<xref ref-type="bibr" rid="B20-molecules-10-00937">20</xref>], the action of ammonia to chromone derivatives led to their conversion into substitutes 3-(2-hydroxybenzoyl)pyridines. Thus, the reflux of <bold>63a</bold> with ammonium acetate in dimethylformamide for 3 hrs furnished 3-(pyrazolo[3,4-<italic>b</italic>]pyridinyl)quinoline <bold>66</bold> in 80% yield (<xref ref-type="scheme" rid="molecules-10-00937-f014">Scheme 13</xref>).</p>
+    <p>Condensation product <bold>63a</bold> underwent reactions with bidentate nucleophiles [<xref ref-type="bibr" rid="B38-molecules-10-00937">38</xref>]. Thiobarbituric acid, which is one of the most useful precursors of polyaza-fused heterocycles, reacted with <bold>63a</bold> in sodium ethanolate-ethanol medium to give pyrano[2,3-<italic>d</italic>]pyrimidinone <bold>67</bold> in 68% yield. Using phase-transfer catalysis conditions (potassium carbonate&#x2013;dioxane&#x2013;tetrabutylammonium bromide) compound <bold>63a</bold> reacted with sulfanylacetic acid to give after 2 hrs of heating 53% of thiophene-2-carboxylic acid <bold>68</bold> <italic>via</italic> nucleophilic &#x3B3;-pyrone ring opening followed by thiophene ring closure. The subsequent dehydration of <bold>68</bold> with polyphosphoric acid (PPA) yielded thieno[2,3-<italic>c</italic>]coumarine <bold>69</bold> in 52 % yield.</p>
+    <p>The addition of ketene<italic>-S,S</italic>-acetal to compound <bold>63a</bold> was carried out by <italic>in situ</italic> reaction of ethyl cyanoacetate and carbon disulfide under similar phase-transfer catalysis conditions. Product <bold>70</bold> was obtained after 30 min heating in 77 % yield. Thiapyridone <bold>71</bold> was prepared in 73 % yield by reaction of cyanothioacetamide with <bold>63a</bold> at sodium ethanolate&#x2013;ethanol.</p>
+    <p>The reaction of <bold>63a</bold> with 1,4-<italic>S,N</italic>-nucleophiles led to the formation of thiazepine derivatives, thus the reaction of <bold>63a</bold> with 2-aminothiophenol in sodium ethoxide&#x2013;ethanol medium furnished benzo[1,5]thiazepine <bold>72</bold> in 51 % yield. Similarly, its treatment with 4-amino-5-triflourmethyl-4H-[1,2,4]triazole-3-thiol gave 65% yield of triazolo[3,4-<italic>b</italic>][1,5,6]thiadiazepine <bold>73</bold>.</p>
+    <p>Finally, thiourea and guanidine hydrochloride served as suitable precursors of pyrimidine derivatives. The pyrimidinethione <bold>74</bold> was furnished in 85 % yield by treatment of <bold>63a</bold> with thiourea in potassium hydroxide &#x2013; ethanol medium, while using guanidine hydrochloride at the similar conditions led to arising of aminopyrimidine <bold>75</bold> in 79 % yield (<xref ref-type="scheme" rid="molecules-10-00937-f014">Scheme 13</xref>).</p>
+   </sec>
+   </sec>
+   <sec>
+    <title>Condensations of <italic><bold>1</bold></italic> with phenylacetic acids, aryl- or heteroarylsubstituted acetonitriles and six-membered fused heterocycles</title>
+    <p>The condensation of <bold>1</bold> with phenylacetic acid [<xref ref-type="bibr" rid="B40-molecules-10-00937">40</xref>] in acetic anhydride in the presence of piperidine as a catalyst furnished the products <bold>76</bold> in 47 &#x2013; 68 % yields. The spectral data showed the presence acetyl instead of the carboxy group, which could be explained by decarboxylation followed by acetylation <italic>in situ</italic> (<xref ref-type="scheme" rid="molecules-10-00937-f015">Scheme 14</xref>).</p>
+    <fig id="molecules-10-00937-f014" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f014_Scheme 13</object-id>
+     <label>Scheme 13</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g014.tif"/>
+    </fig>
+    <fig id="molecules-10-00937-f015" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f015_Scheme 14</object-id>
+     <label>Scheme 14</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g015.tif"/>
+    </fig>
+    <p>1-Naphtylacetonitrile condenses with <bold>1</bold> to give only moderate yields (30&#x2013;38 %) of products <bold>77</bold> after 17&#x2013;20 hrs of heating at 150 &#xB0;C. Under the influence of microwave irradiation the yields of <bold>77</bold> were increased only marginally (39&#x2013;46 %), but the reaction times were shortened to 10 min [<xref ref-type="bibr" rid="B26-molecules-10-00937">26</xref>].</p>
+    <p>Knoevenagel products <bold>78</bold> were obtained in low yields (15&#x2013;43%) by heating <bold>1</bold> with 2<italic>H</italic>-1,4-benzothiazin-3(4<italic>H</italic>)-one in acetic anhydride&#x2013;potassium acetate medium for 6&#x2013;10 hrs. Using microwave irradiation reaction times were shorterned to 7&#x2013;20 min with an increase in yields to 33&#x2013;62%. Treatment with hydrazine led to the conversion of <bold>78</bold> to the pyrazine derivatives <bold>79</bold> [<xref ref-type="bibr" rid="B21-molecules-10-00937">21</xref>] (<xref ref-type="scheme" rid="molecules-10-00937-f015">Scheme 14</xref>), similarly to the indandione derivative <bold>24</bold> (<xref ref-type="scheme" rid="molecules-10-00937-f007">Scheme 6</xref>)</p>
+    <p>A series of condensation products of [2-amino-4-(3,5,5-trimethyl-2-pyrazolino)-1,3,5-triazin-6-yl]acetonitrile with various aromatic or heterocyclic aldehydes including <bold>1</bold> were synthesized in high yields by reflux in ethanol&#x2013;piperidine medium. Derivative <bold>80</bold> was obtained in 95 % yield. All the products were screened for their activities against 60 tumor cell lines [<xref ref-type="bibr" rid="B41-molecules-10-00937">41</xref>]. Harnish [<xref ref-type="bibr" rid="B42-molecules-10-00937">42</xref>] has described the condensation of <bold>1</bold> with 2-benzimidazolylacetonitrile. The reaction took place in ethanol at room temperature to give 96 % of <bold>81</bold> (<xref ref-type="scheme" rid="molecules-10-00937-f015">Scheme 14</xref>).</p>
+    <p>Reaction of <bold>1</bold> with 4-chromanone [<xref ref-type="bibr" rid="B43-molecules-10-00937">43</xref>] in ethanol&#x2013;triethylamine medium gave after 3 hrs of reflux benzopyrano-2,3-dihydrobenzopyranones <bold>82</bold> in high yields (67&#x2013;80 %). In the next step compounds <bold>82</bold> were refluxed for 2 hrs with ammonia in aqueous methanolic medium or with ammonium acetate in acetic acid to give benzopyrano[4-3-<italic>b</italic>]pyridines <bold>83</bold> in 50 &#x2013; 63 % yields. The <italic>o</italic>-hydroxybenzoyl moiety of <bold>83</bold> can be converted either to the coumarine or to benzofuran systems. Thus, the reaction of <bold>83</bold> with phenylacetyl chloride in the presence of aquerous K<sub>2</sub>CO<sub>3</sub> in the conditions of phase-transfer catalysis using tetrabutylammonium hydrogensulfate and dichlormethane lead to 3-(2-oxo-3-phenylcoumarin-4-yl)-5H-1-benzopyrano[4,3-<italic>b</italic>]pyridines <bold>84</bold> in 48&#x2013;70 % yields , while similar reaction with 4-chloro- phenacyl bromide gives 3-(2-benzoylbenzo[<italic>b</italic>]furan-3-yl)-5<italic>H</italic>-1-benzopyrano[4,3-<italic>b</italic>]pyridines <bold>85</bold> in 60&#x2013;84% yields (<xref ref-type="scheme" rid="molecules-10-00937-f015">Scheme 14</xref>).</p>
+		</sec>
+	<sec>
+		<title>Condensations of <italic><bold>1</bold></italic> with active methyl compounds</title>
+		<sec>
+    <title>Condensations with acetaldehyde and arylmethylketones</title>
+    <p>Ghosh and co-workers [<xref ref-type="bibr" rid="B44-molecules-10-00937">44</xref>] published synthesis of 3-(4-Oxo-4H-1-benzopyran-3-yl)acroleines <bold>86</bold> in moderate yields (21&#x2013;49 %) <italic>via</italic> cycloaddition of <bold>1</bold> with ethylvinylether and subsequent hydrolysis of benzopyranopyrane intermediumtes. More efficient method, described by Polyakov [<xref ref-type="bibr" rid="B45-molecules-10-00937">45</xref>], consists of the reaction of <bold>1</bold> with acetaldehyde in dimethylformamide, catalysed with aqueous piperidine at low temperatures, followed with acidic hydrolysis. Acroleins <bold>86</bold> were thus prepared in 70&#x2013;99% yields (<xref ref-type="scheme" rid="molecules-10-00937-f017">Scheme 16</xref>). Substituted acetophenones served as a versatile reagents in the synthesis of a new chromonylchalcones <bold>87</bold> [<xref ref-type="bibr" rid="B46-molecules-10-00937">46</xref>,<xref ref-type="bibr" rid="B47-molecules-10-00937">47</xref>]. Reaction took place in methanolic potassium acetate at room temperature for 3 hrs to give 70&#x2013;76 % of products (<xref ref-type="scheme" rid="molecules-10-00937-f016">Scheme 15</xref>).</p>
+   </sec>
+</sec>
+   <sec>
+    <title>Condensations of <italic><bold>1</bold></italic> with 3-alkyl-4-phenyl-3-cyclobuten-1,2-diones and 3-methylthiazine</title>
+    <p>The reaction of <bold>1</bold> with 3-methyl or 3-ethyl-4-phenylcyclobut-3-en-1,2-diones was reported to yield derivatives <bold>88</bold>. The synthesis consists of the treatment of a mixture of <bold>1</bold> and 3-methyl-4-phenyl-3-cyclobuten-1,2-dione in aluminium chloride&#x2013;dichlormethane medium for 3.5 hrs to yield 41% of <bold>88</bold> (R = H). 3-Ethyl-4-phenyl-cyclobut-3-en-1,2-dione reacted with <bold>1</bold> in concentrated hydrochloric acid to give <bold>88</bold> (R = CH<sub>3</sub>) in 26 % yield [<xref ref-type="bibr" rid="B48-molecules-10-00937">48</xref>]. Arylvinylthiazolines, including <bold>89</bold>, show antifungal activity and antiparasitic activity on <italic>Molinema dessetae</italic> [<xref ref-type="bibr" rid="B49-molecules-10-00937">49</xref>] (<xref ref-type="scheme" rid="molecules-10-00937-f016">Scheme 15</xref>).</p>
+    <fig id="molecules-10-00937-f016" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f016_Scheme 15</object-id>
+     <label>Scheme 15</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g016.tif"/>
+    </fig>
+   </sec>
+   <sec>
+    <title>Condensations of <italic><bold>1</bold></italic> with methyl-substituted oxygen heterocycles</title>
+    <p>The chromone derivatives <bold>90</bold> &#x2013; <bold>92</bold> were prepared by two procedures. Condensations of <bold>1</bold> with 3-R<sup>1</sup>-4,5,5-trimethyl-2,5-dihydrofuran-2-ones or  3-R<sup>1</sup>-4,6,6-trimethyl-5,6-dihydropyran-2-ones  carried out in acetic anhydride in the temperature range 80 &#x2013; 90 &#xB0;C yielded products <bold>90</bold>, <bold>91</bold> in 65 &#x2013; 75 %. Products <bold>92</bold>, which contained amide group as R<sup>1</sup>, were prepared by reaction of 1 and 4-methylcoumarin in refluxing toluene [<xref ref-type="bibr" rid="B50-molecules-10-00937">50</xref>] (<xref ref-type="scheme" rid="molecules-10-00937-f016">Scheme 15</xref>).</p>
+    <p>Methyl-3-acetylchromone contains two active methyl groups, which can react by aldol condensation. Products <bold>93</bold> were obtained by the reaction of <bold>1</bold> with substituted 2-methyl-3-acetyl-chromones in acetic anhydride&#x2013;potassium acetate medium by the classical method, which required the heating at 120&#x2013;130 &#xB0;C for 2&#x2013;3 hrs as well as by 40 sec&#x2013;2 min irradiation in the microwave oven (<xref ref-type="scheme" rid="molecules-10-00937-f016">Scheme 15</xref>). In both cases the reaction occurred only at the 2-methyl group [<xref ref-type="bibr" rid="B51-molecules-10-00937">51</xref>].</p>
+   </sec>
+   <sec>
+    <title>Condensations of <italic><bold>1</bold></italic> with 2-methylbenzothiazole and 2-methylbenzimidazole derivatives</title>
+    <p>An effective method for synthesis of benzothiazolium salts <bold>94</bold> consists on the preparing of 3-alkyl or 3-aryl-2-methylbenzothiazolium halides and their subsequent condensations with <bold>1</bold> [<xref ref-type="bibr" rid="B52-molecules-10-00937">52</xref>]. 2-Methyl-benzothiazolium salts were synthesized either by 2&#x2013;20 hr of heating of 2-methylbenzothiazole with alkyl or arylhalides in acetonitrile or nitromethane or by 10&#x2013;30 min of the irradiation of reaction mixture in microwave oven (<xref ref-type="scheme" rid="molecules-10-00937-f017">Scheme 16</xref>, path a). In the following step 2-methylbenzothiazolium salts were treated with 6-substituted <bold>1</bold> in acetonitrile to give 29&#x2013;85% of <bold>94</bold> after 3&#x2013;35 min of the microwave irradiation or 0.5&#x2013;8 hrs of heating. The opposite sequence of reaction steps was used at the synthesis of <bold>94c</bold>, as well as the products <bold>96</bold> (<xref ref-type="scheme" rid="molecules-10-00937-f017">Scheme 16</xref>, path b).</p>
+    <fig id="molecules-10-00937-f017" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f017_Scheme 16</object-id>
+     <label>Scheme 16</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g017.tif"/>
+    </fig>
+    <p>Condensations of <bold>1</bold> with 2-methylbenzothiazole or 2-methylbenzimidazole carried out in dimethylsulfoxide&#x2013;boric acid medium at 120 &#xB0;C to give compounds <bold>96</bold> in 50 - 68 % yields. Decreasing of the reaction temperature to 60&#xB0;C lead to products <bold>97a</bold>, <bold>97b</bold>, which were prepared in 81, 85 % yields (<xref ref-type="scheme" rid="molecules-10-00937-f017">Scheme 16</xref>). Most of products <bold>94</bold> showed antialgal activity towards <italic>Chlorella vulgaris</italic> [<xref ref-type="bibr" rid="B53-molecules-10-00937">53</xref>]. Products <bold>95</bold> were prepared by the treatment of <bold>94</bold> with ethanol, dimethylamine or 2,3-dimethylbenzothiazolium methylmetasulphate in acetonitrile in the presence of triethylamine [<xref ref-type="bibr" rid="B54-molecules-10-00937">54</xref>].</p>
+   </sec>
+   <sec>
+    <title>Condensations of <italic><bold>1</bold></italic> with 4-nitro and 2,4-dinitrotoluene. Subsequent reactions of 3-styrylchromones.</title>
+    <p>3-Styrylchromones <bold>98a</bold> (R<sup>1</sup> = NO<sub>2</sub>, R<sup>2</sup> = H) were synthesized in 24&#x2013;50 % yields [<xref ref-type="bibr" rid="B39-molecules-10-00937">39</xref>] by 8 hrs of reflux of <bold>1</bold> with p-nitrotoluene in ethanol. Different 3-styrylchromones <bold>98b</bold> (R<sup>1</sup>, R<sup>2</sup> = NO<sub>2</sub>) were obtained by condensation of 3-formylchromones with 2,4-nitrotoluene in pyridine [<xref ref-type="bibr" rid="B55-molecules-10-00937">55</xref>].</p>
+    <fig id="molecules-10-00937-f018" position="float">
+     <object-id pub-id-type="pii">molecules-10-00937-f018_Scheme 17</object-id>
+     <label>Scheme 17</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00937-g018.tif"/>
+    </fig>
+    <p>The other 3-styrylchromones <bold>98c</bold>, <bold>98d</bold> (R<sup>1</sup> = H, Cl) where methyl group of toluene is not sufficiently activated, were prepared by Wittig reaction of <bold>1</bold> with benzylidenetriphenyl phosphoranes [<xref ref-type="bibr" rid="B56-molecules-10-00937">56</xref>] and their subsequent reactions were extensively studied. 4-Styryl-3-(2-hydroxyphenyl)pyrazoles <bold>99</bold> have been prepared by reaction of <bold>98c</bold> and <bold>98d</bold>, respectively with hydrazine hydrate [<xref ref-type="bibr" rid="B57-molecules-10-00937">57</xref>]. Diels- Alder reactions of <bold>98c</bold>, <bold>98d</bold> under microwave irradiation with dimethyl acetylenedicarboxylate led to xanthone derivatives <bold>100</bold> [<xref ref-type="bibr" rid="B58-molecules-10-00937">58</xref>] and with <italic>N</italic>-methyl or <italic>N</italic>-phenylmaleimide [<xref ref-type="bibr" rid="B59-molecules-10-00937">59</xref>] to derivatives <bold>101</bold> (<xref ref-type="scheme" rid="molecules-10-00937-f018">Scheme 17</xref>).</p>
+   </sec>
+  </sec>
+ <sec sec-type="conclusions">
+   <title>Conclusions</title>
+   <p>Knoevenagel condensations of 3-formylchromone with active methylene and methyl compounds, described in this review, represent not only a convenient synthetic route leading to many biologically active compounds, but combined with the cleavage of the pyrone ring by the attack of nucleophiles and subsequent rearrangement, they are widely utilised in the synthesis of new heterocyclic systems. The microvawe irradiation method of reaction activation was in many cases successfully used for increasing the yields, as well as to achieve a considerable shorterning of reaction times.</p>
+  </sec>
+ </body>
+ <back>
+  <ref-list>
+   <title>References</title>
+   <ref id="B1-molecules-10-00937">
+    <label>1.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Nohara</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Umetani</surname>
+       <given-names>T.</given-names>
+      </name>
+      <name>
+       <surname>Sanno</surname>
+       <given-names>Y.</given-names>
+      </name>
+     </person-group>
+     <source>Tetrahedron Lett.</source>
+     <year>1973</year>
+	<fpage>1995</fpage>
+    </citation>
+   </ref>
+   <ref id="B2-molecules-10-00937">
+    <label>2.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Ghosh</surname>
+       <given-names>C. K.</given-names>
+      </name>
+     </person-group>
+     <source>J. Heterocycl. Chem.</source>
+     <year>1983</year>
+     <volume>20</volume>
+     <fpage>1437</fpage>
+     <pub-id pub-id-type="doi">10.1002/jhet.5570200601</pub-id>
+    </citation>
+   </ref>
+   <ref id="B3-molecules-10-00937">
+    <label>3.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Sabitha</surname>
+       <given-names>G.</given-names>
+      </name>
+     </person-group>
+     <source>Aldrichimica Acta</source>
+     <year>1996</year>
+		 <volume>29</volume>
+		 <fpage>15</fpage>
+    </citation>
+   </ref>
+   <ref id="B4-molecules-10-00937">
+    <label>4.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Bram</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Loupy</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Majdoub</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Gutierrez</surname>
+       <given-names>E.</given-names>
+      </name>
+      <name>
+       <surname>Ruiz &#x2013; Hitzky</surname>
+       <given-names>E.</given-names>
+      </name>
+     </person-group>
+     <source>Tetrahedron</source>
+     <year>1990</year>
+		 <volume>46</volume>
+		 <fpage>5167</fpage>
+    </citation>
+   </ref>
+   <ref id="B5-molecules-10-00937">
+    <label>5.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Mingos</surname>
+       <given-names>D. M. P.</given-names>
+      </name>
+      <name>
+       <surname>Baghurst</surname>
+       <given-names>D. R.</given-names>
+      </name>
+     </person-group>
+     <source>Chem. Soc. Rev.</source>
+     <year>1991</year>
+     <volume>20</volume>
+     <fpage>1</fpage>
+     <pub-id pub-id-type="doi">10.1039/cs9912000001</pub-id>
+    </citation>
+   </ref>
+   <ref id="B6-molecules-10-00937">
+    <label>6.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Abramovitch</surname>
+       <given-names>R. A.</given-names>
+      </name>
+     </person-group>
+     <source>Org. Prep. Proceed. Int.</source>
+     <year>1991</year>
+     <volume>23</volume>
+     <fpage>683</fpage>
+     <pub-id pub-id-type="doi">10.1080/00304949109458244</pub-id>
+    </citation>
+   </ref>
+   <ref id="B7-molecules-10-00937">
+    <label>7.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Toma</surname>
+       <given-names>S.</given-names>
+      </name>
+     </person-group>
+     <source>Chem. Listy</source>
+     <year>1993</year>
+     <volume>87</volume>
+     <fpage>627</fpage>
+    </citation>
+   </ref>
+   <ref id="B8-molecules-10-00937">
+    <label>8.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Ku</surname>
+       <given-names>K. C.</given-names>
+      </name>
+      <name>
+       <surname>Koh</surname>
+       <given-names>S. Y.</given-names>
+      </name>
+      <name>
+       <surname>Tang</surname>
+       <given-names>T. F.</given-names>
+      </name>
+      <name>
+       <surname>Chang</surname>
+       <given-names>H. L.</given-names>
+      </name>
+     </person-group>
+     <source>Hua Hsueh Hsueh Pao</source>
+     <year>1976</year>
+     <volume>34</volume>
+     <fpage>123</fpage>
+		 <comment>[<italic>Chem. Abstr.</italic> <bold>1977</bold>, <italic>87</italic>, 184 319m]</comment>
+    </citation>
+   </ref>
+   <ref id="B9-molecules-10-00937">
+    <label>9.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Nohara</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Umetani</surname>
+       <given-names>T.</given-names>
+      </name>
+      <name>
+       <surname>Miyata</surname>
+       <given-names>Y.</given-names>
+      </name>
+      <name>
+       <surname>Sanno</surname>
+       <given-names>Y.</given-names>
+      </name>
+     </person-group>
+     <source>Ger Often.</source>
+     <year>1973</year>
+     <fpage>2 253 914</fpage>
+		 <comment>[<italic>Chem Abstr.</italic> <bold>1973</bold>, <italic>79</italic>, 31 874y]</comment>
+    </citation>
+   </ref>
+   <ref id="B10-molecules-10-00937">
+    <label>10.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Nohara</surname>
+       <given-names>A.</given-names>
+      </name>
+			<name>
+       <surname>Kuriki</surname>
+       <given-names>H.</given-names>
+      </name>
+			<name>
+       <surname>Saijo</surname>
+       <given-names>T.</given-names>
+      </name>
+			<name>
+       <surname>Ukawa</surname>
+       <given-names>K.</given-names>
+      </name>
+			<name>
+       <surname>Murata</surname>
+       <given-names>T.</given-names>
+      </name>
+			<name>
+       <surname>Sanno</surname>
+       <given-names>Y.</given-names>
+      </name>
+     </person-group>
+     <source>J. Med. Chem.</source>
+     <year>1975</year>
+     <volume>18</volume>
+     <fpage>34</fpage>
+     <pub-id pub-id-type="doi">10.1021/jm00235a008</pub-id>
+    </citation>
+   </ref>
+   <ref id="B11-molecules-10-00937">
+    <label>11.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Nohara</surname>
+       <given-names>A.</given-names>
+      </name>
+			<name>
+       <surname>Umetani</surname>
+       <given-names>T.</given-names>
+      </name>
+			<name>
+       <surname>Sanno</surname>
+       <given-names>Y.</given-names>
+      </name>
+     </person-group>
+     <source>Japan Kokai</source>
+     <year>1975</year>
+     <fpage>7 552 067</fpage>
+		 <comment>[<italic>Chem Abstr.</italic> <bold>1976</bold>, <italic>84</italic>, 105400t]</comment>
+    </citation>
+   </ref>
+   <ref id="B12-molecules-10-00937">
+    <label>12.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Nohara</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Kuriki</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Saijo</surname>
+       <given-names>T.</given-names>
+      </name>
+      <name>
+       <surname>Sugihara</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Kanno</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Sanno</surname>
+       <given-names>Y.</given-names>
+      </name>
+     </person-group>
+     <source>J. Med. Chem.</source>
+     <year>1977</year>
+     <volume>20</volume>
+     <fpage>141</fpage>
+     <pub-id pub-id-type="doi">10.1021/jm00211a030</pub-id>
+    </citation>
+   </ref>
+   <ref id="B13-molecules-10-00937">
+    <label>13.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Ellis</surname>
+       <given-names>G. P.</given-names>
+      </name>
+     </person-group>
+     <source>J. Med. Chem.</source>
+     <year>1978</year>
+     <volume>21</volume>
+     <fpage>1120</fpage>
+     <pub-id pub-id-type="doi">10.1021/jm00209a006</pub-id>
+    </citation>
+   </ref>
+   <ref id="B14-molecules-10-00937">
+    <label>14.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Nohara</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Ishiguto</surname>
+       <given-names>T.</given-names>
+      </name>
+      <name>
+       <surname>Sanno</surname>
+       <given-names>Y.</given-names>
+      </name>
+     </person-group>
+     <source>Tetrahedron Lett.</source>
+     <year>1974</year>
+		 <volume>13</volume>
+		 <fpage>1183</fpage>
+    </citation>
+   </ref>
+   <ref id="B15-molecules-10-00937">
+    <label>15.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Ghosh</surname>
+       <given-names>C. K.</given-names>
+      </name>
+      <name>
+       <surname>Khan</surname>
+       <given-names>S.</given-names>
+      </name>
+     </person-group>
+     <source>Synthesis</source>
+     <year>1981</year>
+		 <fpage>903</fpage>
+    </citation>
+   </ref>
+   <ref id="B16-molecules-10-00937">
+    <label>16.</label>
+    <citation citation-type="journal">
+		<person-group person-group-type="author">
+      <name>
+       <surname>Jones</surname>
+       <given-names>W. D.</given-names>
+      </name>
+      <name>
+       <surname>Albrecht</surname>
+       <given-names>W. L.</given-names>
+      </name>
+     </person-group>
+     <source>J. Org. Chem.</source>
+     <year>1996</year>
+		 <volume>41</volume>
+		 <fpage>706</fpage>
+    </citation>
+   </ref>
+   <ref id="B17-molecules-10-00937">
+    <label>17.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Bandyophadhyay</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Sur</surname>
+       <given-names>K. R.</given-names>
+      </name>
+      <name>
+       <surname>Patra</surname>
+       <given-names>R.</given-names>
+      </name>
+     </person-group>
+     <source>J. Chem. Res. Synop.</source>
+     <year>1998</year>
+     <volume>12</volume>
+     <fpage>802</fpage>
+    </citation>
+   </ref>
+   <ref id="B18-molecules-10-00937">
+    <label>18.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Prousek</surname>
+       <given-names>J.</given-names>
+      </name>
+      <name>
+       <surname>Jurasek</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Kovac</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <source>Coll. Czech. Chem. Commun.</source>
+     <year>1980</year>
+     <volume>45</volume>
+     <fpage>1704</fpage>
+     <pub-id pub-id-type="doi">10.1135/cccc19801704</pub-id>
+    </citation>
+   </ref>
+   <ref id="B19-molecules-10-00937">
+    <label>19.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Eiden</surname>
+       <given-names>F.</given-names>
+      </name>
+      <name>
+       <surname>Haverland</surname>
+       <given-names>H.</given-names>
+      </name>
+     </person-group>
+     <source>Arch. Pharm.</source>
+     <year>1967</year>
+     <volume>300</volume>
+     <fpage>806</fpage>
+    </citation>
+   </ref>
+   <ref id="B20-molecules-10-00937">
+    <label>20.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Haas</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Stanton</surname>
+       <given-names>L.</given-names>
+      </name>
+      <name>
+       <surname>Von Sprecher</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Wenk</surname>
+       <given-names>P.</given-names>
+      </name>
+     </person-group>
+     <source>J. Heterocyclic Chem.</source>
+     <year>1981</year>
+     <volume>18</volume>
+     <fpage>607</fpage>
+     <pub-id pub-id-type="doi">10.1002/jhet.5570180334</pub-id>
+    </citation>
+   </ref>
+   <ref id="B21-molecules-10-00937">
+    <label>21.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Gasparova</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Lacova</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <source>Coll. Czech. Chem. Commun.</source>
+     <year>1995</year>
+     <volume>60</volume>
+     <fpage>1178</fpage>
+    </citation>
+   </ref>
+   <ref id="B22-molecules-10-00937">
+    <label>22.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Prousek</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <source>Coll. Czech. Chem. Commun.</source>
+     <year>1991</year>
+     <volume>56</volume>
+     <fpage>1361</fpage>
+     <pub-id pub-id-type="doi">10.1135/cccc19911361</pub-id>
+    </citation>
+   </ref>
+   <ref id="B23-molecules-10-00937">
+    <label>23.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Polyakov</surname>
+       <given-names>V. K.</given-names>
+      </name>
+      <name>
+       <surname>Shevtsova</surname>
+       <given-names>R. G.</given-names>
+      </name>
+      <name>
+       <surname>Tsukerman</surname>
+       <given-names>S. V.</given-names>
+      </name>
+     </person-group>
+     <source>Ukr. Khim. Zh.</source>
+     <year>1981</year>
+     <volume>47</volume>
+     <fpage>85</fpage>
+    </citation>
+   </ref>
+   <ref id="B24-molecules-10-00937">
+    <label>24.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Franz</surname>
+       <given-names>C.</given-names>
+      </name>
+			<name>
+       <surname>Heinisch</surname>
+       <given-names>G.</given-names>
+      </name>
+			<name>
+       <surname>Holzer</surname>
+       <given-names>W.</given-names>
+      </name>
+			<name>
+       <surname>Mereiter</surname>
+       <given-names>K.</given-names>
+      </name>
+			<name>
+       <surname>Strobe</surname>
+       <given-names>B.</given-names>
+      </name>
+			<name>
+       <surname>Zheng</surname>
+       <given-names>C.</given-names>
+      </name>
+     </person-group>
+     <source>Heterocycles</source>
+     <year>1995</year>
+     <volume>41</volume>
+     <fpage>2527</fpage>
+    </citation>
+   </ref>
+   <ref id="B25-molecules-10-00937">
+    <label>25.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Gaikwad</surname>
+       <given-names>M. S.</given-names>
+      </name>
+      <name>
+       <surname>Karale</surname>
+       <given-names>B. K.</given-names>
+      </name>
+      <name>
+       <surname>Mane</surname>
+       <given-names>A. S.</given-names>
+      </name>
+      <name>
+       <surname>Chavan</surname>
+       <given-names>V. P.</given-names>
+      </name>
+      <name>
+       <surname>Shingare</surname>
+       <given-names>M. S.</given-names>
+      </name>
+     </person-group>
+     <source>Indian J. Heterocycl. Chem.</source>
+     <year>2001</year>
+     <volume>10</volume>
+     <fpage>313</fpage>
+    </citation>
+   </ref>
+   <ref id="B26-molecules-10-00937">
+    <label>26.</label>
+    <citation citation-type="other">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Gasparova</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Lacova</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <comment><italic>Unpublished</italic>&#xA0;<italic>results</italic></comment>
+    </citation>
+   </ref>
+   <ref id="B27-molecules-10-00937">
+    <label>27.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Fitton</surname>
+       <given-names>A. O.</given-names>
+      </name>
+      <name>
+       <surname>Frost</surname>
+       <given-names>J. R.</given-names>
+      </name>
+      <name>
+       <surname>Suschitzky</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Houghton</surname>
+       <given-names>P. G.</given-names>
+      </name>
+     </person-group>
+     <source>Synthesis</source>
+     <year>1977</year>
+		 <fpage>133</fpage>
+    </citation>
+   </ref>
+   <ref id="B28-molecules-10-00937">
+    <label>28.</label>
+    <citation citation-type="confproc">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Lacova</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Loos</surname>
+       <given-names>D.</given-names>
+      </name>
+      <name>
+       <surname>Chovancova</surname>
+       <given-names>J.</given-names>
+      </name>
+			<name>
+       <surname>Kralova</surname>
+       <given-names>K.</given-names>
+      </name>
+     </person-group>
+		 <source>3<sup>rd</sup> International Electronic Conference on Synthetic Organic Chemistry, ECSOC-3</source>
+     <conf-date>September 1 – 30, 1999</conf-date>
+    </citation>
+   </ref>
+   <ref id="B29-molecules-10-00937">
+    <label>29.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Karale</surname>
+       <given-names>B. K.</given-names>
+      </name>
+      <name>
+       <surname>Chavan</surname>
+       <given-names>V. P.</given-names>
+      </name>
+      <name>
+       <surname>Hangarge</surname>
+       <given-names>R. V.</given-names>
+      </name>
+      <name>
+       <surname>Mane</surname>
+       <given-names>A. S.</given-names>
+      </name>
+      <name>
+       <surname>Gill</surname>
+       <given-names>C. H.</given-names>
+      </name>
+      <name>
+       <surname>Shingare</surname>
+       <given-names>M. S.</given-names>
+      </name>
+     </person-group>
+     <source>Indian J. Heterocycl. Chem.</source>
+     <year>2001</year>
+     <volume>11</volume>
+     <fpage>81</fpage>
+    </citation>
+   </ref>
+   <ref id="B30-molecules-10-00937">
+    <label>30.</label>
+    <citation citation-type="confproc">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Bartosova</surname>
+       <given-names>B.</given-names>
+      </name>
+      <name>
+       <surname>Lacova</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Gaplovsky</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Chovancova</surname>
+       <given-names>J.</given-names>
+      </name>
+      <name>
+       <surname>Pronayova</surname>
+       <given-names>N.</given-names>
+      </name>
+      <name>
+       <surname>Simunek</surname>
+       <given-names>P.</given-names>
+      </name>
+      <name>
+       <surname>Loos</surname>
+       <given-names>D.</given-names>
+      </name>
+     </person-group>
+     <source>6<sup>th</sup> Electronic Conference on Synthetic Organic Chemistry, ECSOC-6</source>
+     <conf-date>September 1-30, 2002</conf-date>
+    </citation>
+   </ref>
+   <ref id="B31-molecules-10-00937">
+    <label>31.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Eiden</surname>
+       <given-names>F.</given-names>
+      </name>
+      <name>
+       <surname>Schikorr</surname>
+       <given-names>W.</given-names>
+      </name>
+     </person-group>
+     <source>Arch. Pharm.</source>
+     <year>1972</year>
+     <volume>305</volume>
+     <fpage>187</fpage>
+    </citation>
+   </ref>
+   <ref id="B32-molecules-10-00937">
+    <label>32.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Lacova</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Gasparova</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Loos</surname>
+       <given-names>D.</given-names>
+      </name>
+      <name>
+       <surname>Liptay</surname>
+       <given-names>T.</given-names>
+      </name>
+      <name>
+       <surname>Pronayova</surname>
+       <given-names>N.</given-names>
+      </name>
+     </person-group>
+     <source>Molecules</source>
+     <year>2000</year>
+		 <volume>5</volume>
+		 <fpage>167</fpage>
+    </citation>
+   </ref>
+   <ref id="B33-molecules-10-00937">
+    <label>33.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Hanefeld</surname>
+       <given-names>W.</given-names>
+      </name>
+      <name>
+       <surname>Schlitzer</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <source>J. Heterocyclic Chem.</source>
+     <year>1995</year>
+     <volume>32</volume>
+     <fpage>1019</fpage>
+     <pub-id pub-id-type="doi">10.1002/jhet.5570320358</pub-id>
+    </citation>
+   </ref>
+   <ref id="B34-molecules-10-00937">
+    <label>34.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Wentrup</surname>
+       <given-names>C.</given-names>
+      </name>
+			<name>
+       <surname>Winter</surname>
+       <given-names>H. W.</given-names>
+      </name>
+     </person-group>
+     <source>Angew. Chem.</source>
+     <year>1978</year>
+     <volume>90</volume>
+     <fpage>643</fpage>
+     <pub-id pub-id-type="doi">10.1002/ange.19780900826</pub-id>
+    </citation>
+   </ref>
+   <ref id="B35-molecules-10-00937">
+    <label>35.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Sabitha</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Reddy</surname>
+       <given-names>M. M.</given-names>
+      </name>
+      <name>
+       <surname>Archana</surname>
+       <given-names>B.</given-names>
+      </name>
+      <name>
+       <surname>Yadav</surname>
+       <given-names>J. S.</given-names>
+      </name>
+     </person-group>
+     <source>Synth Commun</source>
+     <year>1998</year>
+		 <volume>28</volume>
+		 <fpage>573</fpage>
+    </citation>
+   </ref>
+   <ref id="B36-molecules-10-00937">
+    <label>36.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Polyakov</surname>
+       <given-names>V. K.</given-names>
+      </name>
+      <name>
+       <surname>Babitch</surname>
+       <given-names>J. P.</given-names>
+      </name>
+      <name>
+       <surname>Shevtsova</surname>
+       <given-names>R. G.</given-names>
+      </name>
+      <name>
+       <surname>Trusevich</surname>
+       <given-names>N. D.</given-names>
+      </name>
+     </person-group>
+     <source>Izv. Vysh. Utch. Zaved. Khim., Khim. Technol.</source>
+     <year>1987</year>
+     <volume>30</volume>
+     <fpage>42</fpage>
+		 <comment>[<italic>Chem. Abstr.</italic> <bold>1988</bold>, <italic>108</italic>, 112 324p]</comment>
+    </citation>
+   </ref>
+   <ref id="B37-molecules-10-00937">
+    <label>37.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Karale</surname>
+       <given-names>B. K.</given-names>
+      </name>
+      <name>
+       <surname>Chavan</surname>
+       <given-names>V. P.</given-names>
+      </name>
+      <name>
+       <surname>Mane</surname>
+       <given-names>A. S.</given-names>
+      </name>
+      <name>
+       <surname>Hangarge</surname>
+       <given-names>R. V.</given-names>
+      </name>
+      <name>
+       <surname>Shingare</surname>
+       <given-names>M. S.</given-names>
+      </name>
+     </person-group>
+     <source>Synth. Commun.</source>
+     <year>2002</year>
+     <volume>32</volume>
+     <fpage>497</fpage>
+    </citation>
+   </ref>
+   <ref id="B38-molecules-10-00937">
+    <label>38.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Abass</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Hassan</surname>
+       <given-names>A.</given-names>
+      </name>
+     </person-group>
+     <source>Chem. Papers</source>
+     <year>2003</year>
+     <volume>57</volume>
+     <fpage>267</fpage>
+    </citation>
+   </ref>
+   <ref id="B39-molecules-10-00937">
+    <label>39.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Sarma</surname>
+       <given-names>G. V. S. R.</given-names>
+      </name>
+      <name>
+       <surname>Reddy</surname>
+       <given-names>V. M.</given-names>
+      </name>
+     </person-group>
+     <source>Ind. J. Heterocycl. Chem.</source>
+     <year>1993</year>
+     <volume>3</volume>
+     <fpage>111</fpage>
+		 <comment>[<italic>Chem. Abstr.</italic> <bold>1994</bold>, <italic>121</italic>, 108 619q]</comment>
+    </citation>
+   </ref>
+   <ref id="B40-molecules-10-00937">
+    <label>40.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Shingare</surname>
+       <given-names>M. S.</given-names>
+      </name>
+      <name>
+       <surname>Karale</surname>
+       <given-names>B. K.</given-names>
+      </name>
+      <name>
+       <surname>Gill</surname>
+       <given-names>C. H.</given-names>
+      </name>
+      <name>
+       <surname>Ganage</surname>
+       <given-names>K. N.</given-names>
+      </name>
+      <name>
+       <surname>Bachute</surname>
+       <given-names>M. T.</given-names>
+      </name>
+     </person-group>
+     <source>Ind. J. Heterocycl. Chem.</source>
+     <year>1999</year>
+     <volume>9</volume>
+     <fpage>153</fpage>
+    </citation>
+   </ref>
+   <ref id="B41-molecules-10-00937">
+    <label>41.</label>
+    <citation citation-type="journal">
+		<person-group person-group-type="author">
+      <name>
+       <surname>Brzozowski</surname>
+       <given-names>Z.</given-names>
+      </name>
+			<name>
+       <surname>Saczewski</surname>
+       <given-names>F.</given-names>
+      </name>
+			</person-group>
+     <source>Eur. J. Med. Chem., Chem. Ther.</source>
+     <year>2002</year>
+		 <volume>37</volume>
+		 <fpage>709</fpage>
+    </citation>
+   </ref>
+   <ref id="B42-molecules-10-00937">
+    <label>42.</label>
+    <citation citation-type="journal">
+		<person-group person-group-type="author">
+      <name>
+       <surname>von Harnish</surname>
+       <given-names>H.</given-names>
+      </name>
+			</person-group>
+			<source>Justus Lieb. Ann. Chem.</source>
+     <year>1972</year>
+		 <volume>765</volume>
+		 <fpage>14</fpage>
+    </citation>
+   </ref>
+   <ref id="B43-molecules-10-00937">
+    <label>43.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Reddy</surname>
+       <given-names>K. V.</given-names>
+      </name>
+      <name>
+       <surname>Sabitha</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Rao</surname>
+       <given-names>S.</given-names>
+      </name>
+     </person-group>
+     <source>Org. Prep. Proced. Intern.</source>
+     <year>1996</year>
+     <volume>28</volume>
+     <fpage>325</fpage>
+     <pub-id pub-id-type="doi">10.1080/00304949609356538</pub-id>
+    </citation>
+   </ref>
+   <ref id="B44-molecules-10-00937">
+    <label>44.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Ghosh</surname>
+       <given-names>C. K.</given-names>
+      </name>
+      <name>
+       <surname>Tewari</surname>
+       <given-names>N.</given-names>
+      </name>
+      <name>
+       <surname>Bhattacharyya</surname>
+       <given-names>A.</given-names>
+      </name>
+     </person-group>
+     <source>Synthesis</source>
+     <year>1984</year>
+		 <fpage>614</fpage>
+    </citation>
+   </ref>
+   <ref id="B45-molecules-10-00937">
+    <label>45.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Skumat</surname>
+       <given-names>A. P.</given-names>
+      </name>
+      <name>
+       <surname>Babitch</surname>
+       <given-names>Y. P.</given-names>
+      </name>
+      <name>
+       <surname>Pivnenko</surname>
+       <given-names>N. C.</given-names>
+      </name>
+      <name>
+       <surname>Polyakov</surname>
+       <given-names>V. K.</given-names>
+      </name>
+      <name>
+       <surname>Lavrushkin</surname>
+       <given-names>V. F.</given-names>
+      </name>
+     </person-group>
+     <source>Zh. Obsh. Khim.</source>
+     <year>1989</year>
+     <volume>59</volume>
+     <fpage>1116</fpage>
+    </citation>
+   </ref>
+   <ref id="B46-molecules-10-00937">
+    <label>46.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Shankar</surname>
+       <given-names>M. S. S.</given-names>
+      </name>
+      <name>
+       <surname>Reddy</surname>
+       <given-names>R. B.</given-names>
+      </name>
+      <name>
+       <surname>Chandra Mouli</surname>
+       <given-names>G. V. P.</given-names>
+      </name>
+      <name>
+       <surname>Reddy</surname>
+       <given-names>Y. D.</given-names>
+      </name>
+     </person-group>
+     <source>J. Ind. Chem. Soc.</source>
+     <year>1989</year>
+     <volume>66</volume>
+     <fpage>30</fpage>
+    </citation>
+   </ref>
+   <ref id="B47-molecules-10-00937">
+    <label>47.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Polyakov</surname>
+       <given-names>V. K.</given-names>
+      </name>
+      <name>
+       <surname>Shevtsova</surname>
+       <given-names>R. G.</given-names>
+      </name>
+      <name>
+       <surname>Tsukerman</surname>
+       <given-names>S. V.</given-names>
+      </name>
+     </person-group>
+     <source>Ukr. Khim. Zh.</source>
+     <year>1982</year>
+     <volume>48</volume>
+     <fpage>772</fpage>
+    </citation>
+   </ref>
+   <ref id="B48-molecules-10-00937">
+    <label>48.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Ried</surname>
+       <given-names>W.</given-names>
+      </name>
+      <name>
+       <surname>Vogl</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <source>Chem. Ber.</source>
+     <year>1982</year>
+     <volume>115</volume>
+     <fpage>403</fpage>
+     <pub-id pub-id-type="doi">10.1002/cber.19821150202</pub-id>
+    </citation>
+   </ref>
+   <ref id="B49-molecules-10-00937">
+    <label>49.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Caujolle</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Baziard-Mouysset</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Favrot</surname>
+       <given-names>J. D.</given-names>
+      </name>
+      <name>
+       <surname>Payard</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Loiseau</surname>
+       <given-names>P. R.</given-names>
+      </name>
+      <name>
+       <surname>Amarouch</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Linas</surname>
+       <given-names>M. D.</given-names>
+      </name>
+      <name>
+       <surname>Seguela</surname>
+       <given-names>J. P.</given-names>
+      </name>
+      <name>
+       <surname>Loiseau</surname>
+       <given-names>P. M.</given-names>
+      </name>
+     </person-group>
+     <source>Eur. J. Med. Chem.</source>
+     <year>1993</year>
+     <volume>28</volume>
+     <fpage>29</fpage>
+     <pub-id pub-id-type="doi">10.1016/0223-5234(93)90076-Q</pub-id>
+    </citation>
+   </ref>
+   <ref id="B50-molecules-10-00937">
+    <label>50.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Melikyan</surname>
+       <given-names>G. S.</given-names>
+      </name>
+      <name>
+       <surname>Lacova</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Kralova</surname>
+       <given-names>K.</given-names>
+      </name>
+      <name>
+       <surname>El-Shaaer</surname>
+       <given-names>H. M.</given-names>
+      </name>
+      <name>
+       <surname>Henselova</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Avetisyan</surname>
+       <given-names>A. A.</given-names>
+      </name>
+     </person-group>
+     <source>Chem. Papers</source>
+     <year>1993</year>
+     <volume>47</volume>
+     <fpage>388</fpage>
+    </citation>
+   </ref>
+   <ref id="B51-molecules-10-00937">
+    <label>51.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Lacova</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>El-Shaaer</surname>
+       <given-names>H. M.</given-names>
+      </name>
+      <name>
+       <surname>Loos</surname>
+       <given-names>D.</given-names>
+      </name>
+      <name>
+       <surname>Matulova</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Chovancova</surname>
+       <given-names>J.</given-names>
+      </name>
+      <name>
+       <surname>Furdik</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <source>Molecules</source>
+     <year>1998</year>
+		 <volume>3</volume>
+		 <fpage>120</fpage>
+    </citation>
+   </ref>
+   <ref id="B52-molecules-10-00937">
+    <label>52.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Gasparova</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Lacova</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>El-Shaaer</surname>
+       <given-names>H. M.</given-names>
+      </name>
+      <name>
+       <surname>Odlerova</surname>
+       <given-names>Z.</given-names>
+      </name>
+     </person-group>
+     <source>Il Farmaco</source>
+     <year>1997</year>
+		 <volume>52</volume>
+		 <fpage>251</fpage>
+    </citation>
+   </ref>
+   <ref id="B53-molecules-10-00937">
+    <label>53.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Kralova</surname>
+       <given-names>K.</given-names>
+      </name>
+      <name>
+       <surname>Sersen</surname>
+       <given-names>F.</given-names>
+      </name>
+      <name>
+       <surname>Gasparova</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Lacova</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <source>Chem. Papers</source>
+     <year>1998</year>
+     <volume>52</volume>
+     <fpage>776</fpage>
+    </citation>
+   </ref>
+   <ref id="B54-molecules-10-00937">
+    <label>54.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Tolmatchev</surname>
+       <given-names>A. I.</given-names>
+      </name>
+      <name>
+       <surname>Shulezhko</surname>
+       <given-names>L. M.</given-names>
+      </name>
+      <name>
+       <surname>Briks</surname>
+       <given-names>Y.</given-names>
+      </name>
+      <name>
+       <surname>Katchkovski</surname>
+       <given-names>A. D.</given-names>
+      </name>
+     </person-group>
+     <source>Khim. Geterocikl. Soed.</source>
+     <year>1990</year>
+     <volume>9</volume>
+     <fpage>1271</fpage>
+    </citation>
+   </ref>
+   <ref id="B55-molecules-10-00937">
+    <label>55.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Sonawane</surname>
+       <given-names>S. A.</given-names>
+      </name>
+      <name>
+       <surname>Chavan</surname>
+       <given-names>V. P.</given-names>
+      </name>
+      <name>
+       <surname>Shingare</surname>
+       <given-names>M. S.</given-names>
+      </name>
+      <name>
+       <surname>Karale</surname>
+       <given-names>B. K.</given-names>
+      </name>
+     </person-group>
+     <source>Ind. J. Heterocycl. Chem.</source>
+     <year>2002</year>
+     <volume>12</volume>
+     <fpage>65</fpage>
+    </citation>
+   </ref>
+   <ref id="B56-molecules-10-00937">
+    <label>56.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Sandulache</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Silva</surname>
+       <given-names>A. M. S.</given-names>
+      </name>
+      <name>
+       <surname>Pinto</surname>
+       <given-names>D. C. G.A.</given-names>
+      </name>
+      <name>
+       <surname>Almeida</surname>
+       <given-names>L. C. M. P. M.</given-names>
+      </name>
+      <name>
+       <surname>Cavaleiro</surname>
+       <given-names>J. A. S.</given-names>
+      </name>
+     </person-group>
+     <source>New J. Chem.</source>
+     <year>2003</year>
+     <volume>27</volume>
+     <fpage>1592</fpage>
+    </citation>
+   </ref>
+   <ref id="B57-molecules-10-00937">
+    <label>57.</label>
+    <citation citation-type="confproc">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Silva</surname>
+       <given-names>V. L. M.</given-names>
+      </name>
+      <name>
+       <surname>Silva</surname>
+       <given-names>A. M. S.</given-names>
+      </name>
+      <name>
+       <surname>Pinto</surname>
+       <given-names>D. C. G. A.</given-names>
+      </name>
+      <name>
+       <surname>Cavaleiro</surname>
+       <given-names>J. A. S.</given-names>
+      </name>
+     </person-group>
+     <source>10<sup>th</sup> Blue Danube Symposium on Heterocyclic Chemistry</source>
+		 <conf-loc>Vienna</conf-loc>
+     <conf-date>September 3-6, 2003</conf-date>
+    </citation>
+   </ref>
+   <ref id="B58-molecules-10-00937">
+    <label>58.</label>
+    <citation citation-type="confproc">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Pinto</surname>
+       <given-names>D. C. G. A.</given-names>
+      </name>
+      <name>
+       <surname>Silva</surname>
+       <given-names>A. M. S.</given-names>
+      </name>
+      <name>
+       <surname>Carrillo</surname>
+       <given-names>J. R.</given-names>
+      </name>
+      <name>
+       <surname>Diaz-Ortiz</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>de la Hoz</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Cavaleiro</surname>
+       <given-names>J. A. S.</given-names>
+      </name>
+     </person-group>
+     <source>10<sup>th</sup> Blue Danube Symposium on Heterocyclic Chemistry</source>
+     <conf-loc>Vienna</conf-loc>
+     <conf-date>September 3-6, 2003</conf-date>
+    </citation>
+   </ref>
+   <ref id="B59-molecules-10-00937">
+    <label>59.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Pinto</surname>
+       <given-names>D. C. G. A.</given-names>
+      </name>
+      <name>
+       <surname>Silva</surname>
+       <given-names>A. M. S.</given-names>
+      </name>
+      <name>
+       <surname>Almeida</surname>
+       <given-names>L. M. P. M.</given-names>
+      </name>
+      <name>
+       <surname>Carrillo</surname>
+       <given-names>J. R.</given-names>
+      </name>
+      <name>
+       <surname>Diaz-Ortiz</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>de la Hoz</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Cavaleiro</surname>
+       <given-names>J. A. S.</given-names>
+      </name>
+     </person-group>
+     <source>Synlett</source>
+     <year>2003</year>
+		 <volume>10</volume>
+		 <fpage>1415</fpage>
+    </citation>
+   </ref>
+  </ref-list>
+  <fn-group>
+   <fn>
+    <p><italic>Sample availability:</italic> Not applicable.</p>
+   </fn>
+  </fn-group>
+ </back>
+</article>

@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10070772</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00772</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Regioselective Synthesis of Vinylic Derivatives of Common Monosccarides Through Their Activated Stannylene Acetal Intermediates</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Namazi</surname>
+            <given-names>H.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00772" ref-type="aff">1</xref>
+          <xref rid="af2-molecules-10-00772" ref-type="aff">2</xref>
+          <xref rid="c1-molecules-10-00772" ref-type="corresp">*</xref>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Sharifzadeh</surname>
+            <given-names>R.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00772" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00772"><label>1</label>Lab of Dendrimers and Biopolymers, Faculty of Chemistry, University of Tabriz, Tabriz, P. O. Box: 51664, Iran</aff>
+      <aff id="af2-molecules-10-00772"><label>2</label>Research Institute for Fundamental Sciences, Tabriz, P. O. Box: 5154916371, Iran</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00772"><label>*</label>Author to whom correspondence should be addressed; Tel: (+89) 411 3344273; Fax: (+89) 4113344273; E-mail: <underline><email>namazi@tabrizu.ac.ir</email></underline></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>7</issue>
+      <fpage>772</fpage>
+      <lpage>782</lpage>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>04</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>04</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>06</day>
+          <month>11</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+  <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+  <copyright-year>2005</copyright-year>
+  <license license-type="open-access">
+   <p>Reproduction is permitted for noncommercial purposes.</p>
+  </license>
+  </permissions>
+      <abstract>
+        <p>The regioselective C-2-O-acrylation and metacrylation of methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside and methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-galactopyranoside through their corresponding organotin intermediates have been studied. Regioselectivity was achived through the formation of a tin chelate of the 2,3-diols. Thus, methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside and methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-galactopyranoside were reacted with dibutylstannylene to give the corresponding dibutylstannylene acetal intermediates that were then reacted in a regioselective manner with acryloyl chloride or metacryloyl chloride in the presence of triethylamine (TEA) or pyridine to give the vinylic type monomeric compounds. The monomeric products containing glucose and galactose units from each reaction were separated by column chromatography using a gradient of n-hexane and ethyl acetate as eluant. The structure of the obtained compounds were confirmed using <sup>1</sup>H-, <sup>13</sup>C- and 2D NMR spectroscopy.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Regioselectivity</kwd>
+		<kwd>monosaccharides</kwd>
+		<kwd>tin intermediates</kwd>
+		<kwd>acrylation and metacrylation.</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Carbohydrates are naturally occuring bioorganic compounds which are found in biological systems [<xref ref-type="bibr" rid="B1-molecules-10-00772">1</xref>]. Carbohydrates are the most abundant class of compounds in the biological world, making up more than 50% of the dry weight of earth&#x2019;s biomass. Carbohydrates are important constituents of all living organisms, and have a variety of different functions. Some are important structural components of cells, and some act as recognition sites on cell surfaces. Others serve as a major source of metabolic energy [<xref ref-type="bibr" rid="B2-molecules-10-00772">2</xref>]. The traditional view of carbohydrates as Nature&#x2019;s energy source (starch and glycogen) and structural materials (cellulose, collagen and proteoglycans) has expanded. Carbohydrates are known to have a wide variety of biological functions [<xref ref-type="bibr" rid="B3-molecules-10-00772">3</xref>]. For instance, the sulfated polysaccharide, heparin, plays an essential role in blood coagulation [<xref ref-type="bibr" rid="B4-molecules-10-00772">4</xref>]. Cell surface clustering carbohydrates are involved in numerous biological functions, including cellular recognition, adhesion, cell growth regulation, cancer cell metastasis, and inflammation [<xref ref-type="bibr" rid="B5-molecules-10-00772">5</xref>]. They also serve as attachment sites for infectious bacteria, viruses, toxins and hormones that result in pathogenesis [<xref ref-type="bibr" rid="B6-molecules-10-00772">6</xref>]. One of the important application of monomers containing carbohydrates is their utilization in glycopolymers [<xref ref-type="bibr" rid="B7-molecules-10-00772">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00772">8</xref>] The glycopolymers have been synthesized through the polymerization of carbohydrates-containing vinyl monomers or vinyl type monomers. The obtined polymers have the variety applications in: medical, agricultural, consumer goods packaging and etc.</p>
+      <p>Synthetic glycopolymers that are biocompatible and biodegradable are increasingly used in tissue engineering and controlled drug release devices [<xref ref-type="bibr" rid="B9-molecules-10-00772">9</xref>]. These specific carbohydrate-based interactions could be applied as drug or gene delivery carriers. On the other hand, modification of only one of several identical functional groups in a molecule is a fundamental challenge to organic chemists. An important and synthetically relevant example of this problem is the regioselective acylation and acrylation of hydroxyl groups in carbohydrates: even discrimination between primary and secondary hydroxyls usually involves multistep procedures, while there is no general basis for the positionally specific acrylation of the more aboundant secondary OH groups [<xref ref-type="bibr" rid="B10-molecules-10-00772">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00772">11</xref>].</p>
+      <p>In the recent years synthetic vinylic monomers containing carbohydrates as branched derivatives of monosccarides have received considerable interest and syntheses of such monomers have been devoloped [<xref ref-type="bibr" rid="B12-molecules-10-00772">12</xref>]. Here we report a route for the regioselective acrylatioin and acylation of common carbohydrates to access the synthetic intermediates which are found in many naturally occurring compounds that contain <italic>O</italic>-acyl and other acryl groups. However, for the synthetic organic chemists, who are working with carbohydrates, a major consideration in designing any reaction is the protection of functional groups [<xref ref-type="bibr" rid="B13-molecules-10-00772">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00772">14</xref>]. The process of protection and deporetection requires choosing a protecting group or groups that can be added in high yield and removed in high yield without affecting the remainder of the molecule. Also the protecting groups must be stable during the other reactions in the synthetic sequence [<xref ref-type="bibr" rid="B15-molecules-10-00772">15</xref>]. These requirements are difficult to satisfy and on the other hand the primery hydroxyls in carbohydrates are more reactive than secondary hydroxyls toward electrophiles. Dialkylstannylene acetals serve as convenient intermediates for acheiving highly regioselective substitution of diols and polyols [<xref ref-type="bibr" rid="B16-molecules-10-00772">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00772">17</xref>]. Reactions of dibutylstannylene acetals of methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside and methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-galactopyranoside with acryloyl chloride and metacryloyl chloride in the presence of TEA or pyridine were usually complete in 1h at room temperature and gave the monomers methyl 2-<italic>O</italic>, 3-<italic>O</italic> and 2,3-<italic>O</italic>-4,6-<italic>O</italic>-benzylidene-diacryloyl-&#x3B1;-D-glucopyranoside  and  or  galactopyranoside,  respectively,  with  high  regioselectivity and in excellent yield [<xref ref-type="bibr" rid="B18-molecules-10-00772">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00772">19</xref>]. Methyl 4,6-<italic>O</italic>-benzylidene-2,3-<italic>O</italic>-dibutylstannylene-&#x3B1;-D-gluco- and galacto-pyranoside are known to produce 2-<italic>O</italic>-acryloyl and metacryloyl products with high regioselectivity on reaction with one equivalent of acryloyl chloride or metacryloyl chloride [<xref ref-type="bibr" rid="B20-molecules-10-00772">20</xref>]. Here we show that the methyl 4,6-<italic>O</italic>-benzylidene-2-<italic>O</italic>-acryloyl-&#x3B1;-D-gluco- and galactopyranoside and methyl 4,6-<italic>O</italic>-benzylidene-2-<italic>O</italic>-metacryloyl-&#x3B1;-D-gluco- and galactopyranosides are the major products in the reaction of acryloyl chloride and metacryloyl chloride with stannylene acetal intermediates derived from the examined carbohydrate molecules [<xref ref-type="bibr" rid="B21-molecules-10-00772">21</xref>].</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The regioselective acrylation and acylation of common sugar molecules in order to obtain synthetic intermediates and also to prepare the naturally occurring compounds which contain <italic>O</italic>-acyl or acryl groups are of considearble interest. A major consideration in designing any reaction with the carbohydrates as the polyol compounds is the protection of functional hydroxyl groups. The process of protection and deporetection need choosing a protecting group or groups that can be added in high yield and removed in high yield without affecting the remainder of the examined molecule. Also the protecting groups must be enough stable during the other reactions in the synthetic sequence. Dialkylstannylene acetals serve as convenient intermediates for this aim in achieving highly regioselective substitutions in diols and polyols.</p>
+      <fig id="molecules-10-00772-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00772-f002_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of dibutylstannylene acetal intermediates from methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside and methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-galactopyranoside</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00772-g002.tif"/>
+      </fig>
+      <p>Dialkylstannylene acetals are easily formed from diols and serve as intermediates in reactions that have shown considerable promise towards achieving this goal. In fact, by using tin intermediates in this series of reactions we can carry out some selective reactions on hydroxyl groups in diols that do not differ from each other in reactivity. As shown in <xref ref-type="scheme" rid="molecules-10-00772-f002">Scheme 1</xref> these reactions are complete in 12 h upon refluxing in toluene or benzene. For instance, reaction of the dibutylstannylene acetal of methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside (<bold>1'</bold>) with acryloyl chloride in the presence of nucleophiles such as TEA or pyridine is complete in 30 minute at room temperature. After workup a dark brown syrup was obtained and purified using column chromatography, a method which affords the monomeric compounds <bold>1a</bold>, <bold>1b</bold> and <bold>1c</bold> in yields 49%, 22% and 23%, respectively (<xref ref-type="scheme" rid="molecules-10-00772-f003">Scheme 2</xref>). The resolution factors (R<sub>f</sub>) for these compounds using n-hexane-ethyl acetate (v/v 1:1) are 0.55, 0.25 and 0.77, respectively.</p>
+      <fig id="molecules-10-00772-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00772-f003_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Synthesis of acrylic monomers through dibutylstannylene acetal intermediates derived from methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00772-g003.tif"/>
+      </fig>
+      <p>The structures of all isolated compounds were confirmed by <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectroscopy. The comparison of the <sup>1</sup>H-NMR spectra of <bold>1'</bold> and the monomer <bold>1a</bold> shows that the signals of H-2 at 3.61 ppm has been shifted to lower field (4.23 ppm) and shielded by about 0.62 ppm under the effect of the acylated substituent at C-2. Also a comparison of the <sup>13</sup>C-NMR spectra of <bold>1'</bold> and the monomer <bold>1a</bold> shows that C-2 appears at 73 and 77 ppm, respectively. <xref ref-type="fig" rid="molecules-10-00772-f001">Figure 1</xref> displays the <sup>1</sup>H-NMR  of compound <bold>1a</bold>. The presence of signals in 5.82, 6.15 and 6.43 confirm the presence of the vinylic part of the acryloyl group attached to the C-2 position in this compound.</p>
+      <fig id="molecules-10-00772-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>400 MHz <sup>1</sup>H-NMR of methyl 4,6-<italic>O</italic>-benzylidene-2-<italic>O</italic>-acryloyl-&#x3B1;-D-gluco-pyranoside (<bold>1a</bold>) in CDCl<sub>3</sub></p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00772-g001.tif"/>
+      </fig>
+      <p>The <sup>1</sup>H-NMR of methyl 4,6-<italic>O</italic>-benzylidene-3-<italic>O</italic>-acryloyl-&#x3B1;-D-glucopyranoside (<bold>1b</bold>) shows deshielding of about 1.85 ppm for H-3 in comparison to the spectrum of compound <bold>1</bold>, which is unambiguous evidence for the acylation of C-3 in the starting material. The structure of methyl 4,6-<italic>O</italic>-benzylidene-2, 3-<italic>O</italic>-diacryloyl-&#x3B1;-D-glucopyranoside (<bold>1c</bold>) was also established from its NMR spectra, in which the signals of both H-2 and H-3 were deshielded with respect to their positions in the spectrum of the starting material, appearing at 3.73 and 3.66 ppm, respectively.</p>
+      <p>In the same way reaction of the dibutylstannylene acetals of methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside with metacryloyl chloride in the presence of TEA or pyridine were complete in less than 30 min at room temperature. After general workup and column chromatography, the compounds methyl 4,6-<italic>O</italic>-benzylidene-2-<italic>O</italic>-metacryloyl-&#x3B1;-D-glucopyranoside (<bold>1d</bold>), methyl 4,6-<italic>O</italic>-benzylidene-3-<italic>O</italic>-metacryloyl-&#x3B1;-D-glucopyranoside (<bold>1e</bold>) and methyl 4,6-<italic>O</italic>-benzylidene-2,3-<italic>O</italic>-dimetacryloyl-&#x3B1;-D-glucopyranoside (<bold>1f</bold>) were isolated in yields of 45%, 21% and 24%. The structures of the above obtained compounds established from their NMR spectra.</p>
+      <fig id="molecules-10-00772-f004" position="float">
+        <object-id pub-id-type="pii">molecules-10-00772-f004_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <caption>
+          <p>Synthesis of metacrylic monomers through dibutylstannylene acetal intermediates derived from methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00772-g004.tif"/>
+      </fig>
+      <p>The analogous reaction of the dibutylstannylene acetal derived from methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-galactopyranoside with metacryloyl chloride, in the presence of TEA or pyridine was accomplished in less than 1 h at room temperature (see <xref ref-type="scheme" rid="molecules-10-00772-f005">Scheme 4</xref>).</p>
+      <fig id="molecules-10-00772-f005" position="float">
+        <object-id pub-id-type="pii">molecules-10-00772-f005_Scheme 4</object-id>
+        <label>Scheme 4</label>
+        <caption>
+          <p>Synthesis of metacrylic monomers through dibutylstannylene acetal intermediates derived from methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-galacto-pyranoside</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00772-g005.tif"/>
+      </fig>
+      <p>Use of column chromatography for the purification of the crude syrup compound gave the compounds methyl 4,6-<italic>O</italic>-benzylidene-2-<italic>O</italic>-metacryloyl-&#x3B1;-D-galactopyranoside (<bold>2a</bold>), methyl 4,6-<italic>O</italic>-benzylidene-3-<italic>O</italic>-meta-cryloyl-&#x3B1;-D-galacto-pyranoside (<bold>2b</bold>) and methyl 4,6-<italic>O</italic>-benzylidene-2,3-<italic>O</italic>-dimetacryloyl-&#x3B1;-D-galactopyranoside (<bold>2c</bold>) in yields of 58%, 21% and 24%, respectively. As noted from these experimental results, the dibutylstannylene acetals reacted faster with the electrophilic reagents in the presence of added nucleophiles or bases, such as TEA and under these conditions, give C-2<italic>-O-</italic>acrylated and metacrylated compounds. The structure of the isolated products was easily established from their <sup>1</sup>H-NMR spectra. The signals of all carbohydrate protons were assigned by combinations of first-order analyses. The location of the acryl substituted groups were determined from the identity of the H-2 and H-3 that were most deshielded by the presence of the acyl groups in comparison to their positions in the starting material.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The activated intermediate dibutylstannylene acetals derived from methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside (<bold>1'</bold>) and methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-galactopyranoside  (<bold>2'</bold>) were  used as the starting materials for the regioselective synthesis of carbohydrate-based vinylic monomeric compounds in good yields. The regioselectivty obtained is the same as previously observed for reaction of acyl containing reagents with diols. Formation of the ester group in C-2-<italic>O</italic> was the major product, which might be related to the structure and population of the dimeric species of 2,3-<italic>O</italic>-dibuthylstannylene acetal derivatives (<bold>1</bold> and <bold>2</bold>) in the reaction solutions.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>D-glucose (dried at 70 &#xB0;C before using), D-galactose (dried at 70 &#xB0;C before using), dibutyltin oxide, acryloyl chloride and metacryloyl chloride were purchased from Merck. Methyl &#x3B1;-D-gluco-pyranoside and methyl &#x3B1;-D-galactopyranoside were prepared using Fisher&#x2019;s method for the synthesis of glycosides. Methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside and methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-galactopyranoside were synthesized with common protecting methods used in carbohydrate chemistry. For the determining the structure of all resulting compounds <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were recorded for CDCl<sub>3</sub> solutions on a Bruker-NMR 400 MHz spectrometer.</p>
+      </sec>
+      <sec>
+        <title>General method for preparation of dibutystannylene acetals <italic><bold>1</bold></italic> and <italic><bold>2</bold></italic>:</title>
+        <p>The specified protected monosaccharide 1,2-diols (1 mmol) and dibutyltin oxide (1.1 mmol) were refluxed for 15 h in toluene (20 mL) with azeotropic removal of part of the solvent. The reaction mixture was concentrated to a volume of ca. 12 mL to give activated compounds <bold>1</bold> and <bold>2</bold>. The residue obtained in each reaction was directly reacted with acryloyl chloride or metacryloyl chloride without further purification for the synthesis of monomers containing carbohydrate units [<xref ref-type="bibr" rid="B22-molecules-10-00772">22</xref>].</p>
+      </sec>
+      <sec>
+        <title>General workup procedure for the reactions described below.</title>
+        <p>Water (2-3 mL) was added to the toluene reaction mixture and it was stirred for 1 h at room temperature, then diluted with chloroform (15 mL) and the organic layer was washed successively with a dilute solution of hydrochloric acid (0.05 M, 5 mL), water (15 mL) and finally with a standard solution of sodium bicarbonate (15 mL), dried over magnesium sulfate or calcium sulfate and concentrated.</p>
+      </sec>
+      <sec>
+        <title>Preparation of methyl 4,6-O-benzylidene-2-O-acryloyl-&#x3B1;-D-glucopyranoside <italic>(<bold>1a</bold>)</italic>, methyl 4,6-O-benzylidene-3-O-acryloyl-&#x3B1;-D-glucopyranoside <italic>(<bold>1b</bold>)</italic> and methyl 4,6-O-benzylidene-2,3-O-diacryloyl-&#x3B1;-D-glucopyranoside <italic>(<bold>1c</bold>)</italic></title>
+        <p>Methyl 4,6-O-benzylidene-&#x3B1;-D-glucopyranoside (<bold>1'</bold>, 3 mmol, 0.85 g) was reacted with dibutyltin oxide (3.3 mmol, 0.84 g) in toluene (60 mL) to give the dibutylstannylene acetal <bold>1</bold>. The mixture was cooled to 0 &#xB0;C then gradually warmed to 25 &#xB0;C and TEA or pyridine (3 mmol) was added. After 1 h acryloyl chloride (3 mmol) was added slowly to the stirred solution. Within one hour the reaction was complete and the color of the solution changed to dark. Following workup according to the general procedure described above the residue was purified using column chromatography (eluent: 1:1 v/v <italic>n</italic>-hexane/ethyl acetate) to give the following products:</p>
+        <p><italic>Methyl 4,6-O-benzylidene-2-O-acryloyl-&#x3B1;-D-glucopyranoside</italic> (<bold>1a</bold>). R<sub>f</sub> = 0.48; <sup>1</sup>H-NMR: &#x3B4; 1.96 (s, 1H, OH), 3.32 (s, 3H, -CH<sub>3</sub>), 3.50 (t, 1H, J<sub>3, 2</sub> = 9.3Hz, J<sub>3, 4</sub> = 9.3Hz, H-3), 3.7 (t, 1H, J<sub>6b, 6a</sub> = 10.26Hz J<sub>6b, 5</sub> = 10.2Hz, H-6<sub>b</sub>), 3.77 (dd, 1H, J<sub>5, 4</sub> = 4.7Hz, J<sub>5, 6b, 6a</sub> = 4.5Hz, H-5), 4.15 (t, 1H, J<sub>6a, 6b</sub> = 9.4Hz, J<sub>6a, 5</sub> = 5.5Hz H-6a), 4.23 (dd, 1H, J<sub>2, 3</sub> = 5.7Hz, J<sub>2,4</sub> = 4.6Hz, H-2) 4.8 (dd, 1H, J<sub>4,5</sub> = J<sub>4,3</sub> = 3.76Hz, H-4), 4.91 (d, 1H, J<sub>2,1</sub> = 3.7Hz, H-1), 5.48 (s, 1H, H benzylidene), 5.82  (dd, 1H, J<sub>Ha, Hb</sub> = 1.3Hz, J<sub>Ha,Hc</sub> = 1.3Hz, Ha vinylic ), 6.15 (dd, 1H, J<sub>Hc, Hb</sub> = J<sub>Hc,Ha</sub> = 10.4  H<sub>c</sub> vinylic), 6.43(dd, 1H, 1H, J<sub>Hb,Ha</sub> = J<sub>Hb,Hc</sub> =1.3 Hz H<sub>b</sub> vinylic) 7.33-745 (m, 5H  aromatic); <sup>13</sup>C-NMR: &#x3B4; 55.26 (1C, C-6), 60 (1C, -CH<sub>3</sub>), 68.8 (1C, C-3), 70.9 (1C, C-5), 77 (1C, C-2), 81 (1C, C-4), 97 (1C, C-1), 102 (1C, benzylidene), 126-136 (6C, aromatic, vinylic C<sub>a</sub>), 165.8 (1C, vinylic C<sub>b</sub>), 192.5 (1C, vinylic C=O).</p>
+        <p><italic>Methyl 4,6-O-benzylidene-3-O-acryloyl-&#x3B1;-D-glucopyranoside</italic> (<bold>1b</bold>). R<sub>f</sub> = 0.25; <sup>1</sup>H-NMR: &#x3B4; 2.2 (s, 1 H, OH), 3.40 (s, 3H, -CH<sub>3</sub>), 3.56 (t, 1H, J<sub>2,3</sub> =J<sub>2,1</sub> = 9.6 Hz H-2), 3.64 (dd, 1H, J<sub>4,5</sub> = 3.6, J<sub>4,3</sub> = 3.7 Hz, H-4), 3.67 (t, 1H, J<sub>6b,5</sub> = 2Hz J<sub>6b,6a</sub> = 5.1Hz, H-6<sub>b</sub>), 3.80 (dd, 1H, J<sub>5,6b</sub> = 4.7Hz, H-5), 4.24 (dd, 1H, J<sub>6a,6b</sub> = 4.7Hz, J<sub>6a.5</sub> = 4.7Hz, H-6a), 4.74 (d, 1H, J<sub>1,2</sub> = 3.8Hz, H-1), 5.33 (t, 1H, J<sub>3,2</sub> = 4.5Hz, J<sub>3,4</sub> = 5.7Hz H-3), 5.42 (s, 1H, H benzylidene), 5.7 (dd, 1H, J<sub>Ha, Hb</sub> = J<sub>Ha, Hc</sub> =10.4 Hz, H<sub>a</sub> vinylic), 6.1 (dd, 1H, J<sub>Hc, Hb</sub> = J<sub>Hc,Ha</sub> = 10.4Hz, H<sub>c</sub> vinylic), 6.40 (dd, 1H, J<sub>Hb,Ha</sub> = 1.36Hz , J<sub>Hb,Hc</sub> = 1.42Hz, H<sub>b</sub> vinylic), 7.2-7.4 (m, 5H, aromatic); <sup>13</sup>C-NMR: &#x3B4; 54.5 (1C, C-6), 61.5 (1C,-CH<sub>3</sub>), 67.7 (1C, C-2), 70.8 (1C, C-5), 77.6 (1C, C-3), 98 (1C, C-4), 99 (1C, C-1), 100 (1C, benzylidene), 125-135 (5C, aromatic), 133 (1C, vinylic C<sub>b</sub>), 165 (1C, vinylic C<sub>a</sub>), 192 (1C, acryloyl C=O).</p>
+        <p><italic>Methyl 4,6-O-benzylidene-2,3-O-diacryloyl-&#x3B1;-D-glucopyranoside</italic> (<bold>1c</bold>). R<sub>f</sub> = 0.77; <sup>1</sup>H-NMR: &#x3B4; 3.35 (s, 3H, -CH<sub>3</sub>), 3.66 (t, 1H, J<sub>3, 2</sub> = 7.3Hz, J<sub>3, 4</sub> = 9.6Hz, H-3), 3.73 (t, 1H, J<sub>2, 3</sub> = J<sub>2, 1</sub> = 10.3Hz H-2), 3.90 (m, 1H, H-6<sub>b</sub>), 4.26 (dd, 1H, J<sub>6a, 6b</sub> = 4.8Hz, J<sub>6a, 5</sub> = 2.7Hz, H-6a), 4.94 (d, 1H, J<sub>1, 2</sub> = 3.9H-1), 4.93 (dd, 1H, J<sub>4, 5</sub> = 1.9Hz, J<sub>4, 3</sub> = 7.4Hz, H-4), 5.45 (s, 1H, H benzylidene), 5.7 (t, 1H, J<sub>4, 5</sub> = J<sub>4, 3</sub> = 9.6Hz, H4), 5.80 (dd, 2H, J<sub>Ha, Hb</sub> = J<sub>Ha, Hc</sub> = 1.3Hz, vinylic 2 H<sub>a</sub>), 6.02 (m, 2H, vinylic 2 H<sub>c</sub>), 6.3 (td, 2H, J<sub>Hb, Ha</sub> =J<sub>Hb, Hc</sub>=1.2Hz, vinylic 2 H<sub>b</sub>), 7.19-7.38 (m, 5H, aromatic); <sup>13</sup>C-NMR: &#x3B4; 54.3 (1C, C-6), 60 (1C, -CH<sub>3</sub>), 68.6 (1C, C-4), 70.9 (1C, C-5), 77.9 (1C, C-2), 76.3 (1C, C-3), 95 (1C, C-1), 100 (1C, benzylidene), 125-135 (5C, aromatic), 133 (2C, C=O), 163-165 (6C, vinylic C<sub>a</sub>), 191.4 (6C, vinylic C<sub>b</sub>).</p>
+      </sec>
+      <sec>
+        <title>Preparation of methyl 4,6-O-benzylidene-2-O-metacryloyl-&#x3B1;-D-glucopyranoside <italic>(<bold>1d</bold>)</italic>, methyl 4,6-O-benzylidene-3-O-metacryloyl-&#x3B1;-D-glucopyranoside <italic>(<bold>1e</bold>)</italic> and methyl 4,6-O-benzylidene-2,3-O-dimetacryloyl-&#x3B1;-D-glucopyranoside <italic>(<bold>1f</bold>)</italic>.</title>
+        <p>Methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside (<bold>1'</bold>, 3 mmol, 0.85 g) was reacted with dibutyltin oxide (3.3 mmol, 0.84 g) in toluene (60 mL) to give the dibutylstannylene acetal <bold>1</bold>. The mixture was cooled to 0 &#xB0;C then gradually warmed to 25 &#xB0;C and TEA or pyridine (3 mmol) was added. After 1 h metacryloyl chloride (0.24 mL, 3 mmol) was added slowly to the stirred solution. The color of the solution changed to dark. The reaction was complete in 45 minutes, and was worked up as described in the general procedure, followed by purification of residue using column chromatography (eluent: 1:3 (v/v) n-hexane-ethyl acetate) to give the following compounds:</p>
+        <p><italic>Methyl 4,6-O-benzylidene-2-O-metacryloyl-&#x3B1;-D-glucopyranoside</italic> (<bold>1d</bold>). R<sub>f</sub> = 0.60; <sup>1</sup>H-NMR: &#x3B4; 1.27 (s, 3H, metacryloyl -CH<sub>3</sub> ), 1.42 (s, 1H, OH), 3.38-3.78 (9H, pyranoside ether protons), 4.97 (s, 1H, H benzylidene), 5.51 (s, 1H, anomeric), 5.51-6.16 (2H, metacrylic protons), 7.32-7.41 (m, 5H, aromatic); <sup>13</sup>C-NMR: &#x3B4; 30 (1C, metacryloyl methyl), 54.4 (1C, -CH<sub>3</sub>), 61.4-81 (5 C, C<sub>2</sub>, C<sub>3</sub>, C<sub>4</sub>, C<sub>5</sub> and C<sub>6</sub>), 99.71 (1C, C- anomeric), 102 (1C, C-benzylidene), 125-170 (7C, aromatic and double bond C=C).</p>
+        <p><italic>Methyl 4,6-O-benzylidene-3-O-metacryloyl-&#x3B1;-D-glucopyranoside</italic> (<bold>1e</bold>). R<sub>f</sub> = 0.22); <sup>1</sup>H-NMR: &#x3B4; 1.26 (s, 3H, metacryloyl -CH<sub>3</sub>), 1.97 (s, 1H, OH), 3.36-4.29 (9H, pyranoside ether protons), 4.98 (s, 1H, H benzylidene), 5.50 (s, 1H, anomeric), 5.55-6.21 (2H, metacrylic protons), 7.30-7.8 (m, 5H, aromatic); <sup>13</sup>C-NMR: &#x3B4; 17.25 (1C, metacryloyl methyl), 54.4 (1C, -CH<sub>3</sub>), 61.5-80.36 (5C, C<sub>2</sub>, C<sub>3</sub>, C<sub>4</sub>, C<sub>5</sub> and C<sub>6</sub>), 96.71 (1C, C- anomeric), 101 (1C, C- benzylidene), 125-171 (7C, aromatic and double bond C=C). </p>
+		<p><italic>Methyl 4,6-O-benzylidene-2,3-O-dimetacryloyl-&#x3B1;-D-glucopyranoside</italic> (<bold>1f</bold>). R<sub>f</sub> = 0.80; <sup>1</sup>H-NMR: &#x3B4; 1.27 (s, 3H, metacryloyl -CH<sub>3</sub>), 3.37-4.29 (9H, pyranoside ether protons), 4.92 (s, 1H, H benzylidene), 5.55 (s, 1H, anomeric), 5.60-6.25 (4H, metacrylic protons), 7.30-7.5 (m, 5H, aromatic).</p>
+      </sec>
+      <sec>
+        <title>Preparation of methyl 4,6-O-benzylidene-2-O-metacryloyl-&#x3B1;-D-galactopyranoside <italic>(<bold>2a</bold>)</italic></title>
+        <p>Methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-galactopyranoside (<bold>2',</bold> 3 mmol, 0.84 g) was reacted with dibutyltin oxide (3.3 mmol, 0.85 g) in toluene (60 mL) to give the dibutylstannylene acetal <bold>2</bold>. The mixture was cooled to 0 &#xB0;C, then gradually warmed to 25 &#xB0;C, and triethylamine or pyridine (3 mmol) was added. After 1 h, metacryloyl chloride (3 mmol, 0.24 mL) was added slowly to the stirred solution. The color of the solution changed to dark green. The reaction was complete in 45 minute. The workup of reaction was done as described above. Purification of the residue using column chromatography was carried out using 1:2 (v/v) n-hexane-ethyl acetate as eluent. <bold>2a</bold> was obtained as a pure compound, R<sub>f</sub> = 0.58; <sup>1</sup>H-NMR: &#x3B4; 1.54 (s, 3H, metacryloyl -CH<sub>3</sub>), 1.96 (s, 1H, OH), 3.32-4.18 (9H, pyranoside ether protons), 4.84 (s, 1H, H benzylidene), 5.42 (s, 1H, anomeric), 5.49-6.14 (2H, metacrylic protons), 7.30-7.45 (m, 5H, aromatic).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors are grateful to the Research Institute for Fundamental Sciences (RIFS) for its financial support of this project.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00772">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaji</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Harita</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stannyleneacetal-mediated regioselective open glycosylation of methyl 4,6-<italic>O</italic>-benzylidene-&#x3B2;-D-galactopyranoside and methyl-&#x3B1;-L-ramnopyranoside</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2000</year>
+          <volume>41</volume>
+          <fpage>53</fpage>
+          <lpage>56</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(99)01997-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00772">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Therisod</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Klibanov</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Regioselective acylation of secondary hydroxyl groups in sugars catalyzed by lipases in organic solvents</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1987</year>
+          <volume>109</volume>
+          <fpage>3977</fpage>
+          <lpage>3981</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00247a024</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00772">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jenkins</surname>
+              <given-names>D. J.</given-names>
+            </name>
+            <name>
+              <surname>Potter</surname>
+              <given-names>B. V. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>On the selectivity of stannylene-mediated alkylation and esterification of methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-glucopyranoside</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>1994</year>
+          <volume>265</volume>
+          <fpage>145</fpage>
+          <lpage>149</lpage>
+          <pub-id pub-id-type="doi">10.1016/0008-6215(94)00221-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00772">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martin</surname>
+              <given-names>B. D.</given-names>
+            </name>
+            <name>
+              <surname>Ampofo</surname>
+              <given-names>S. A.</given-names>
+            </name>
+            <name>
+              <surname>Dordick</surname>
+              <given-names>J. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biocatalytic synthesis of sugar-containing poly(acrylate)-based hydrogels</article-title>
+          <source>Macromolecules</source>
+          <year>1992</year>
+          <volume>25</volume>
+          <fpage>7081</fpage>
+          <lpage>7086</lpage>
+          <pub-id pub-id-type="doi">10.1021/ma00052a001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00772">
+        <label>5.</label>
+        <citation citation-type="journal">
+		 <article-title>4,6-<italic>O</italic>-Benzylidene-&#x3B1;-D-glucopyranoside and its sodium salt: new data on their preparation and properties</article-title>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barili</surname>
+              <given-names>P. L.</given-names>
+            </name>
+            <name>
+              <surname>Berti</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Catelani</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Cini</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Andrea</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mastrorilli</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Carbohydr. Res.</source>
+          <year>1995</year>
+          <volume>287</volume>
+          <fpage>43</fpage>
+          <lpage>57</lpage>
+          <pub-id pub-id-type="doi">10.1016/0008-6215(95)00227-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00772">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tokiwa</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hiraguri</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kurane</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biodegradation of a sugar branched polymer consisting of sugar, fatty acid and poly(vinyl alcohol)</article-title>
+          <source>Macromolecules</source>
+          <year>2000</year>
+          <volume>33</volume>
+          <fpage>1636</fpage>
+          <lpage>1639</lpage>
+          <pub-id pub-id-type="doi">10.1021/ma981451v</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00772">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Osborn</surname>
+              <given-names>H. M. I.</given-names>
+            </name>
+            <name>
+              <surname>Brome</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Regioselective C-3-O-acylation and O-methylation of 4,6-<italic>O</italic>-benzylidene-&#x3B2;-D-gluco- and galacto- pyranosides displaying a range of anomeric substituents</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>2001</year>
+          <volume>332</volume>
+          <fpage>157</fpage>
+          <lpage>166</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0008-6215(01)00063-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00772">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Klein</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Herzog</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Hajibegli</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Poly (vinyl saccharide)s, 1. Emulsion polymerization of poly(methacryloylglucose)</article-title>
+          <source>Makromol. Chem., Rapid Commun.</source>
+          <year>1985</year>
+          <volume>6</volume>
+          <fpage>675</fpage>
+          <lpage>678</lpage>
+          <pub-id pub-id-type="doi">10.1002/marc.1985.030061008</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00772">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dasgupta</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Garegg</surname>
+              <given-names>P. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Monoalkylation of tributyltin activated methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-D-gluco- and -galacto- pyranosides</article-title>
+          <source>Synthesis</source>
+          <year>1994</year>
+          <fpage>1121</fpage>
+          <lpage>1123</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1994-25649</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00772">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andersson</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kenne</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and NMR studies of methyl 3-O-[9R0- and (S)-1-carboxyethyl]-&#x3B1;-D-gluco-, galacto- and manno- pyranosides</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>1998</year>
+          <volume>313</volume>
+          <fpage>157</fpage>
+          <lpage>164</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0008-6215(98)00272-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00772">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nishida</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Thiem</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Unexpected formation of a 4,6-O-propylidene derivative from galactose and allyl alcohol in the presence of amberlyst<sup>R</sup>15</article-title>
+          <source>J. Carbohydr. Res.</source>
+          <year>1994</year>
+          <volume>13</volume>
+          <fpage>1059</fpage>
+          <lpage>1063</lpage>
+          <pub-id pub-id-type="doi">10.1080/07328309408011847</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00772">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Loykulnant</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hirao</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterization of well-defined chain-end- and in-chain-functionalized polystyrenes with a definite number of D-glucose and/or D-galactose</article-title>
+          <source>Macromolecules</source>
+          <year>2001</year>
+          <volume>34</volume>
+          <fpage>8434</fpage>
+          <lpage>8445</lpage>
+          <pub-id pub-id-type="doi">10.1021/ma0107861</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00772">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kitazawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Okumura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kinomura</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Sakakibara</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses and proprieties of novel vinyl monomers bearing a glycoside residue</article-title>
+          <source>Chem. Lett.</source>
+          <year>1990</year>
+          <fpage>1733</fpage>
+          <lpage>1736</lpage>
+          <pub-id pub-id-type="doi">10.1246/cl.1990.1733</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00772">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Dordick</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Linhardt</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and application of carbohydrate-containing polymers</article-title>
+          <source>J. Chem. Mater.</source>
+          <year>2002</year>
+          <volume>14</volume>
+          <fpage>3232</fpage>
+          <lpage>3244</lpage>
+          <pub-id pub-id-type="doi">10.1021/cm0200137</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00772">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grindley</surname>
+              <given-names>T. B.</given-names>
+            </name>
+            <name>
+              <surname>Thangarasa</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>The structure and reactions of stannylene acetals from carbohydrate-derived trans-diols</article-title>
+          <source>Can. J. Chem.</source>
+          <year>1990</year>
+          <volume>68</volume>
+          <fpage>1007</fpage>
+          <lpage>1019</lpage>
+          <pub-id pub-id-type="doi">10.1139/v90-158</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00772">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grindley</surname>
+              <given-names>T. B.</given-names>
+            </name>
+            <name>
+              <surname>Namazi</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>The regioselective synthesis of non-glycosidically linked oligosaccharides</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1996</year>
+          <volume>37</volume>
+          <fpage>991</fpage>
+          <lpage>996</lpage>
+          <pub-id pub-id-type="doi">10.1016/0040-4039(95)02360-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00772">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kong</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Grindley</surname>
+              <given-names>T. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Control of regioselectivity in reactions of dialkylstannylene acetals</article-title>
+          <source>Can. J. Chem.</source>
+          <year>1994</year>
+          <volume>72</volume>
+          <fpage>2405</fpage>
+          <lpage>2415</lpage>
+          <pub-id pub-id-type="doi">10.1139/v94-307</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00772">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garcia-Martin</surname>
+              <given-names>M. G.</given-names>
+            </name>
+            <name>
+              <surname>Jimenez-Hidalgo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Al-Kass</surname>
+              <given-names>S. S. J.</given-names>
+            </name>
+            <name>
+              <surname>Caraballo</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Galibia</surname>
+              <given-names>J. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterization of some new homo- and co-poly(vinylsccharides). Some preliminary studies as drug delivery</article-title>
+          <source>Polymer</source>
+          <year>2000</year>
+          <volume>41</volume>
+          <fpage>821</fpage>
+          <lpage>826</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0032-3861(99)00266-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00772">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Namazi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Grindley</surname>
+              <given-names>T. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel approach to carbohydrate clusters: the regioselective synthesis of non- glycosidically linked oligosaccharides</article-title>
+          <source>Can. J. Chem.</source>
+          <year>1997</year>
+          <volume>75</volume>
+          <fpage>983</fpage>
+          <lpage>995</lpage>
+          <pub-id pub-id-type="doi">10.1139/v97-118</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00772">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshida</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of polysaccharides having specific biological activities</article-title>
+          <source>Prog. Polym. Sci.</source>
+          <year>2001</year>
+          <volume>26</volume>
+          <fpage>379</fpage>
+          <lpage>441</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0079-6700(00)00045-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00772">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Evans</surname>
+              <given-names>M. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Methyl 4,6-<italic>O</italic>-benzylidene-&#x3B1;-and- &#x3B2;-D-glucosides</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>1972</year>
+          <volume>21</volume>
+          <fpage>473</fpage>
+          <lpage>475</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0008-6215(00)84931-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00772">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dubber</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lindhorst</surname>
+              <given-names>T. K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of octopus: core molecules for the construction of glycoclusters and carbohydrate-centered dendrimers</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>1999</year>
+          <volume>310</volume>
+          <fpage>35</fpage>
+          <lpage>41</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0008-6215(98)00155-4</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability:</italic> Available from the authors</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

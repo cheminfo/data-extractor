@@ -1,0 +1,2298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020334</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00334</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Valence Topological Charge-Transfer Indices for Reflecting Polarity: Correction for Heteromolecules</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Torrens</surname>
+            <given-names>Francisco</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00334" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>	  
+      <aff id="af1-molecules-10-00334">Universitari de Ci&#xE8;ncia Molecular, Universitat de Val&#xE8;ncia, Dr. Moliner&#xA0;50, E-46100 Burjassot (Val&#xE8;ncia), Spain. <uri>http://www.uv.es/~icmol</uri>. Tel. +34 963 543 182, Fax +34 963 543 156, <email>Francisco.Torrens@uv.es</email></aff>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>334</fpage>
+      <lpage>345</lpage>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+      </history>
+     <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Valence topological charge-transfer (CT) indices are applied to the calculation of dipole moments <italic>&#x3BC;</italic>. The <italic>&#x3BC;</italic> calculated by <italic>algebraic</italic> and <italic>vector semisums</italic> of the CT indices are defined. The model is generalized for molecules with heteroatoms and corrected for <italic>sp</italic><sup>3</sup>-heteromolecules. The ability of the indices for the description of the molecular charge distribution is established by comparing them with <italic>&#x3BC;</italic> of the valence-isoelectronic series of cyclopentadiene, benzene and styrene. Two CT indices, <italic>&#x3BC;</italic><sub>vec</sub> (vector semisum of vertex-pair <italic>&#x3BC;</italic>) and <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> (valence <italic>&#x3BC;</italic><sub>vec</sub>) are proposed. The <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> behaviour is intermediate between <italic>&#x3BC;</italic><sub>vec</sub> and <italic>&#x3BC;</italic><sub>experiment</sub>. The correction is produced in the correct direction. The best results are obtained for the greatest group. Inclusion of the heteroatom in the <italic>&#x3C0;</italic>-electron system is beneficial for the description of <italic>&#x3BC;</italic>, owing to either the role of additional <italic>p</italic> and/or <italic>d</italic> orbitals provided by the heteroatom or the role of <italic>steric</italic> factors in the <italic>&#x3C0;</italic>-electron conjugation. The steric effect is almost constant along the series and the dominating effect is electronic. Inclusion of the heteroatom enhances <italic>&#x3BC;</italic>, which can improve the solubility of the molecule. For heteroatoms in the same group, the ring size and the degree of ring flattering are inversely proportional to their electronegativity.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Charge distribution</kwd>
+        <kwd>Dipole moment</kwd>
+        <kwd>Heteroatom</kwd>
+        <kwd>Isolelectroic series</kwd>
+        <kwd>Valence topological charge-transfer index</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Homo and heterocycles were studied as models of fluorescers, organic conducting polymers or nonlinear optical (NLO) materials. New fluorescers contain heteroaromatic components. Some heterocycles recur often in industrial fluorescers. They do not fluoresce themselves, but have a fluorescence enhancing effect when coupled to conjugated systems. Reiser <italic>et al</italic>. measured the absorption and emission spectra, and fluorescence yields of aromatic benzoxazole derivatives [<xref ref-type="bibr" rid="B1-molecules-10-00334">1</xref>]. Lippert <italic>et al</italic>. reviewed the photophysics of internal twisting [<xref ref-type="bibr" rid="B2-molecules-10-00334">2</xref>]. Dey and Dogra measured and calculated the solvatochromism and prototropism in 2-(aminophenyl)benzothiazoles [<xref ref-type="bibr" rid="B3-molecules-10-00334">3</xref>]. Catal&#xE1;n <italic>et al</italic>. studied the role of the torsion of the phenyl moiety in the mechanism of stimulated ultraviolet light generation in 2-phenylbenzazoles [<xref ref-type="bibr" rid="B4-molecules-10-00334">4</xref>]. Levitus <italic>et al</italic>. performed photophysical measurements and semiempirical calculations with 1,4-bis(phenylethynyl)benzene [<xref ref-type="bibr" rid="B5-molecules-10-00334">5</xref>]. Organic conducting polymers have a highly anisotropic quasi-one-dimensional (quasi-1D) structure similar to that of charge-transfer (CT) salts [<xref ref-type="bibr" rid="B6-molecules-10-00334">6</xref>]. In the conducting state, both materials are ionic. In CT complexes conductivity is greater along the stacking direction, while in conducting polymers conductivity is higher along the chain direction. In these polymers, the chainlike structure leads to strong coupling of the electronic states to conformational excitations peculiar to 1D systems. The relatively weak interchain binding allows diffusion of dopant molecules into the structure, while the strong intrachain C&#x2013;C bonds maintain the integrity of the polymer. The modulation of the electronic properties of conjugated polymers was studied through design of polymer backbone [<xref ref-type="bibr" rid="B7-molecules-10-00334">7</xref>].</p>
+      <p>The search for NLO organic materials with large values of the second hyperpolarizability (<italic>&#x3B3;</italic>) attracted interest from the experimental and theoretical points of view [<xref ref-type="bibr" rid="B8-molecules-10-00334">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00334">9</xref>]. Morley <italic>et al</italic>. calculated the first hyperpolaizability (<italic>&#x3B2;</italic>) of S-heteromolecules [<xref ref-type="bibr" rid="B10-molecules-10-00334">10</xref>]. Zhao <italic>et al</italic>. computed <italic>&#x3B3;</italic> for modified benzothiazoles, benzoxazoles and benzimidazoles [<xref ref-type="bibr" rid="B11-molecules-10-00334">11</xref>]. Meyers <italic>et al</italic>. calculated the geometries and electronic and NLO properties of CT molecules based on the 2-methylene-2<italic>H</italic>-pyrrole repeating unit [<xref ref-type="bibr" rid="B12-molecules-10-00334">12</xref>]. Li <italic>et al</italic>. computed structure&#x2013;performance characteristics for <italic>&#x3B2;</italic> and <italic>&#x3B3;</italic> of <italic>&#x3C0;</italic>-conjugated organic chromophores with the Pariser&#x2013;Parr&#x2013;Pople model [<xref ref-type="bibr" rid="B13-molecules-10-00334">13</xref>]. Yeates <italic>et al</italic>. analyzed (X-ray) and calculated 2-(2-benzothiazolyl)-1-(2-thienyl)ethene as a model for high <italic>&#x3B3;</italic>  [<xref ref-type="bibr" rid="B14-molecules-10-00334">14</xref>]. Gao <italic>et al</italic>. studied the effect of conjugated length on the computed <italic>&#x3B2;</italic> of organic molecules [<xref ref-type="bibr" rid="B15-molecules-10-00334">15</xref>]. Tomonari <italic>et al</italic>. calculated the simplified sum-over-states and missing-orbital analysis on <italic>&#x3B2;</italic> and <italic>&#x3B3;</italic> of benzene derivatives [<xref ref-type="bibr" rid="B16-molecules-10-00334">16</xref>]. Glaser and Chen computed asymmetrization effects on structures of dipolar donor&#x2013;acceptor-substituted molecular organic NLO materials [<xref ref-type="bibr" rid="B17-molecules-10-00334">17</xref>]. Raptis <italic>et al</italic>. calculated the polarizability (<italic>&#x3B1;</italic>), <italic>&#x3B2;</italic> and <italic>&#x3B3;</italic>  of polysulfanes [<xref ref-type="bibr" rid="B18-molecules-10-00334">18</xref>]. Rao and Bhanuprakash computed donor and acceptor organic molecules separated by a saturated C&#x2013;C <italic>&#x3C3;</italic>  bond, which show large <italic>&#x3B2;</italic>  [<xref ref-type="bibr" rid="B19-molecules-10-00334">19</xref>]. Nakano <italic>et al</italic>. calculated <italic>&#x3B3;</italic>  of tetrathiapentalene and tetrathiafulvalene [<xref ref-type="bibr" rid="B20-molecules-10-00334">20</xref>]. Cheng <italic>et al</italic>. computed <italic>&#x3B1;</italic> and <italic>&#x3B2;</italic>  of H-silsesquioxanes [<xref ref-type="bibr" rid="B21-molecules-10-00334">21</xref>]. Levitus <italic>et al</italic>. analyzed and calculated the photophysics of 1,4-bis(phenylethynyl)benzene [<xref ref-type="bibr" rid="B22-molecules-10-00334">22</xref>] and 1,4-diethynyl- 2-fluorobenzene [<xref ref-type="bibr" rid="B23-molecules-10-00334">23</xref>] to demarcate the effects of chromophore aggregation and planarization in poly(phenyleneethynylene)s. &#xD6;berg <italic>et al</italic>. computed <italic>&#x3B2;</italic>  and <italic>&#x3B3;</italic>  of organic compounds [<xref ref-type="bibr" rid="B24-molecules-10-00334">24</xref>].</p>
+      <p>Organic electronic materials are conjugated solids where both optical absorption and charge transport are dominated by partly delocalized <italic>&#x3C0;</italic>  and <italic>&#x3C0;<sup>*</sup></italic> orbitals [<xref ref-type="bibr" rid="B25-molecules-10-00334">25</xref>]. Organic photovoltaic materials differ from inorganic semiconductors in the following important respects. (1) Photogenerated excitations (<italic>excitons</italic>) are strongly bound and do not spontaneously dissociate into charge pairs. This means that carrier generation does not necessarily result for the absorption of light. (2) Charge transport proceeds by <italic>hopping</italic> between localized states, rather than transport within a band, and mobilities are low. (3) The spectral range of optical absorption is relatively narrow compared to the solar spectrum. (4) Absorption coefficients are high so that high optical densities can be achieved, at peak wavelength, with films less than 100nm thick. (5) Many materials are susceptible to degradation in the presence of oxygen or water. (6) As 1D semiconductors, their electronic and optical properties can be highly anisotropic. These properties impose some constraints on organic photovoltaic devices. (1) A strong driving force such as an electric field should be present to break up the photogenerated excitons. (2) Low charge carrier mobilities limit the useful thickness of devices. (3) Limited light absorption across the solar spectrum limits the photocurrent. (4) Very thin devices mean interference effects can be important. (5) Photocurrent is sensitive to temperature through hopping transport.</p>
+      <p>In earlier publications, <italic>&#x3B1;</italic> of benzothiazole (A)&#x2013;benzobisthiazole (B) A&#x2013;B<italic><sub>n</sub></italic>&#x2013;A (<italic>n</italic>&#x2264;13) oligomers was calculated and extrapolated to <italic>n</italic>&#x2192;&#x221E; [<xref ref-type="bibr" rid="B26-molecules-10-00334">26</xref>]. Torsional effects were analyzed [<xref ref-type="bibr" rid="B27-molecules-10-00334">27</xref>,<xref ref-type="bibr" rid="B28-molecules-10-00334">28</xref>]. CT indices were brought to the calculation of the dipole moment <italic>&#x3BC;</italic> of hydrocarbons [<xref ref-type="bibr" rid="B29-molecules-10-00334">29</xref>]. The model was extended to heteroatoms [<xref ref-type="bibr" rid="B30-molecules-10-00334">30</xref>]. An index inspired by plastic evolution improved the results [<xref ref-type="bibr" rid="B31-molecules-10-00334">31</xref>,<xref ref-type="bibr" rid="B32-molecules-10-00334">32</xref>]. The method was applied to the valence-isoelectronic series of benzene and styrene (2&#x2013;4 molecules) [<xref ref-type="bibr" rid="B33-molecules-10-00334">33</xref>,<xref ref-type="bibr" rid="B34-molecules-10-00334">34</xref>]. This study presents a reparametrization of the method for <italic>sp</italic><sup>3</sup>-heteromolecules. The next section introduces CT indices. Following that, the correction for <italic>sp</italic><sup>3</sup>-heteromolecules is presented. Next, the results are discussed. The last section summarizes the conclusions.</p>
+    </sec>
+    <sec>
+      <title>Topological Charge-Transfer Indices</title>
+      <p>The most important matrices that delineate the labelled chemical graph are the <italic>adjacency</italic> (<bold>A</bold>) [<xref ref-type="bibr" rid="B35-molecules-10-00334">35</xref>] and the <italic>distance</italic> (<bold>D</bold>) <italic>matrices</italic>, wherein <italic>D<sub>ij</sub></italic>=<italic>l<sub>ij</sub></italic> if <italic>i</italic>=<italic>j</italic>, &#x201C;0&#x201D; otherwise; <italic>l<sub>ij</sub></italic> is the shortest edge count between vertices <italic>i</italic> and <italic>j</italic> [<xref ref-type="bibr" rid="B36-molecules-10-00334">36</xref>]. In <bold>A</bold>, <italic>A<sub>ij</sub></italic>=1 if vertices <italic>i</italic> and <italic>j</italic> are adjacent, &#x201C;0&#x201D; otherwise. The <bold>D</bold><sup>[-2]</sup> matrix is the matrix whose elements are the squares of the reciprocal distances <italic>D<sub>ij</sub></italic><sup>-2</sup>. The intermediate matrix <bold>M</bold> is defined as the matrix product of <bold>A</bold> by <bold>D</bold><sup>[-2]</sup>:
+	  <disp-formula>
+       <bold>M</bold> = <bold>AD</bold><sup>[-2]</sup>
+	   </disp-formula>
+       The <italic>charge-transfer matrix</italic> <bold>C</bold> is defined as <bold>C</bold> = <bold>M</bold> &#x2013; <bold>M</bold><sup>T</sup>, where <bold>M</bold><sup>T</sup> is the transpose of <bold>M</bold> [<xref ref-type="bibr" rid="B37-molecules-10-00334">37</xref>]. By agreement, <italic>C<sub>ii</sub></italic>=<italic>M<sub>ii</sub></italic>. For <italic>i</italic>&#x2260;<italic>j</italic>, the <italic>C<sub>ij</sub></italic> terms represent a measure of the intramolecular <italic>net charge</italic> transferred from atom <italic>j</italic> to <italic>i</italic>. The <italic>topological</italic> CT <italic>indices G<sub>k</sub></italic> are described as the sum, in absolute value, of the <italic>C<sub>ij</sub></italic> terms defined for the vertices <italic>i,j</italic>  placed at a topological distance <italic>D<sub>ij</sub></italic> equal to <italic>k</italic>
+	  <disp-formula id="FD1">
+        <label>(1)</label>
+        <mml:math display="block" id="mm2">
+          <mml:semantics>
+            <mml:mrow>
+              <mml:msub>
+                <mml:mi>G</mml:mi>
+                <mml:mi>k</mml:mi>
+              </mml:msub>
+              <mml:mo>=</mml:mo>
+              <mml:mstyle displaystyle="true">
+                <mml:munderover>
+                  <mml:mo>&#x2211;</mml:mo>
+                  <mml:mrow>
+                    <mml:mi>i</mml:mi>
+                    <mml:mo>=</mml:mo>
+                    <mml:mn>1</mml:mn>
+                  </mml:mrow>
+                  <mml:mrow>
+                    <mml:mi>N</mml:mi>
+                    <mml:mo>&#x2212;</mml:mo>
+                    <mml:mn>1</mml:mn>
+                  </mml:mrow>
+                </mml:munderover>
+                <mml:mrow>
+                  <mml:mstyle displaystyle="true">
+                    <mml:munderover>
+                      <mml:mo>&#x2211;</mml:mo>
+                      <mml:mrow>
+                        <mml:mi>j</mml:mi>
+                        <mml:mo>=</mml:mo>
+                        <mml:mi>i</mml:mi>
+                        <mml:mo>+</mml:mo>
+                        <mml:mn>1</mml:mn>
+                      </mml:mrow>
+                      <mml:mi>N</mml:mi>
+                    </mml:munderover>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>|</mml:mo>
+                        <mml:mrow>
+                          <mml:msub>
+                            <mml:mi>C</mml:mi>
+                            <mml:mrow>
+                              <mml:mi>i</mml:mi>
+                              <mml:mi>j</mml:mi>
+                            </mml:mrow>
+                          </mml:msub>
+                        </mml:mrow>
+                        <mml:mo>|</mml:mo>
+                      </mml:mrow>
+                      <mml:mi>&#x3B4;</mml:mi>
+                      <mml:mrow>
+                        <mml:mo>(</mml:mo>
+                        <mml:mrow>
+                          <mml:mi>k</mml:mi>
+                          <mml:mo>,</mml:mo>
+                          <mml:msub>
+                            <mml:mi>D</mml:mi>
+                            <mml:mrow>
+                              <mml:mi>i</mml:mi>
+                              <mml:mi>j</mml:mi>
+                            </mml:mrow>
+                          </mml:msub>
+                        </mml:mrow>
+                        <mml:mo>)</mml:mo>
+                      </mml:mrow>
+                    </mml:mrow>
+                  </mml:mstyle>
+                </mml:mrow>
+              </mml:mstyle>
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </disp-formula>
+      where <italic>N</italic>  is the number of vertices in the graph, <italic>D<sub>ij</sub></italic> are the entries of the <bold>D</bold> matrix, and <italic>&#x3B4;</italic>  is the Kronecker <italic>&#x3B4;</italic>  function, being <italic>&#x3B4;</italic>=1 for <italic>i</italic>=<italic>j</italic>  and <italic>&#x3B4;</italic>=0 for <italic>i</italic>&#x2260;<italic>j</italic>. <italic>G<sub>k</sub></italic> represents the sum of all the <italic>C<sub>ij</sub></italic> terms, for every pair of vertices <italic>i</italic>  and <italic>j</italic>  at topological distance <italic>k</italic>. Other topological CT index, <italic>J<sub>k</sub></italic>, I defined as:
+	   <disp-formula id="FD2">
+        <label>(2)</label>
+        <mml:math display="block" id="mm3">
+          <mml:semantics>
+            <mml:mrow>
+              <mml:msub>
+                <mml:mi>J</mml:mi>
+                <mml:mi>k</mml:mi>
+              </mml:msub>
+              <mml:mo>=</mml:mo>
+              <mml:mfrac>
+                <mml:mrow>
+                  <mml:msub>
+                    <mml:mi>G</mml:mi>
+                    <mml:mi>k</mml:mi>
+                  </mml:msub>
+                </mml:mrow>
+                <mml:mrow>
+                  <mml:mi>N</mml:mi>
+                  <mml:mo>&#x2212;</mml:mo>
+                  <mml:mn>1</mml:mn>
+                </mml:mrow>
+              </mml:mfrac>
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </disp-formula></p>
+      <p>This index represents the mean value of the CT for each edge, since the number of edges for acyclic compounds is <italic>N</italic>&#x2013;1.</p>
+      <p>The <italic>algebraic semisum</italic>  CT <italic>index</italic> <italic>&#x3BC;</italic><sub>alg</sub> is defined as
+	    <disp-formula id="FD3">
+        <label>(3)</label>
+        <mml:math display="block" id="mm4">
+          <mml:semantics>
+            <mml:mrow>
+              <mml:msub>
+                <mml:mi>&#x3BC;</mml:mi>
+                <mml:mrow>
+                  <mml:mi>a</mml:mi>
+                  <mml:mi>lg</mml:mi>
+                </mml:mrow>
+              </mml:msub>
+              <mml:mo>=</mml:mo>
+              <mml:mfrac>
+                <mml:mn>1</mml:mn>
+                <mml:mn>2</mml:mn>
+              </mml:mfrac>
+              <mml:mstyle displaystyle="true">
+                <mml:munderover>
+                  <mml:mo>&#x2211;</mml:mo>
+                  <mml:mrow>
+                    <mml:mi>i</mml:mi>
+                    <mml:mo>=</mml:mo>
+                    <mml:mn>1</mml:mn>
+                  </mml:mrow>
+                  <mml:mrow>
+                    <mml:mi>N</mml:mi>
+                    <mml:mo>&#x2212;</mml:mo>
+                    <mml:mn>1</mml:mn>
+                  </mml:mrow>
+                </mml:munderover>
+                <mml:mrow>
+                  <mml:mstyle displaystyle="true">
+                    <mml:munderover>
+                      <mml:mo>&#x2211;</mml:mo>
+                      <mml:mrow>
+                        <mml:mi>j</mml:mi>
+                        <mml:mo>=</mml:mo>
+                        <mml:mi>i</mml:mi>
+                        <mml:mo>+</mml:mo>
+                        <mml:mn>1</mml:mn>
+                      </mml:mrow>
+                      <mml:mi>N</mml:mi>
+                    </mml:munderover>
+                    <mml:mrow>
+                      <mml:msub>
+                        <mml:mi>A</mml:mi>
+                        <mml:mrow>
+                          <mml:mi>i</mml:mi>
+                          <mml:mi>j</mml:mi>
+                        </mml:mrow>
+                      </mml:msub>
+                      <mml:mrow>
+                        <mml:mo>|</mml:mo>
+                        <mml:mrow>
+                          <mml:msub>
+                            <mml:mi>C</mml:mi>
+                            <mml:mrow>
+                              <mml:mi>i</mml:mi>
+                              <mml:mi>j</mml:mi>
+                            </mml:mrow>
+                          </mml:msub>
+                        </mml:mrow>
+                        <mml:mo>|</mml:mo>
+                      </mml:mrow>
+                    </mml:mrow>
+                  </mml:mstyle>
+                </mml:mrow>
+              </mml:mstyle>
+              <mml:mo>=</mml:mo>
+              <mml:mfrac>
+                <mml:mn>1</mml:mn>
+                <mml:mn>2</mml:mn>
+              </mml:mfrac>
+              <mml:mstyle displaystyle="true">
+                <mml:munderover>
+                  <mml:mo>&#x2211;</mml:mo>
+                  <mml:mrow>
+                    <mml:mi>e</mml:mi>
+                    <mml:mo>=</mml:mo>
+                    <mml:mn>1</mml:mn>
+                  </mml:mrow>
+                  <mml:mi>M</mml:mi>
+                </mml:munderover>
+                <mml:mrow>
+                  <mml:mrow>
+                    <mml:mo>|</mml:mo>
+                    <mml:mrow>
+                      <mml:msup>
+                        <mml:mi>C</mml:mi>
+                        <mml:mi>e</mml:mi>
+                      </mml:msup>
+                    </mml:mrow>
+                    <mml:mo>|</mml:mo>
+                  </mml:mrow>
+                </mml:mrow>
+              </mml:mstyle>
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </disp-formula>
+      where <italic>C<sup>e</sup></italic> is the <italic>C<sub>ij</sub></italic> index for vertices <italic>i</italic>  and <italic>j</italic>  connected by edge <italic>e</italic>  [<xref ref-type="bibr" rid="B29-molecules-10-00334">29</xref>]. The sum extends for all pairs of adjacent vertices in the molecular graph and <italic>&#x3BC;</italic><sub>alg</sub> is a graph invariant. An edge-to-edge analysis of <italic>&#x3BC;</italic> suggests that each edge dipole moment <italic>&#x3BC;<sup>e</sup></italic> connecting vertices <italic>i</italic> and <italic>j</italic> can be evaluated from the corresponding edge <italic>C<sup>e</sup></italic> index as
+	   <disp-formula>
+        <mml:math display="block" id="mm5">
+          <mml:semantics>
+            <mml:mrow>
+              <mml:msup>
+                <mml:mi>&#x3BC;</mml:mi>
+                <mml:mi>e</mml:mi>
+              </mml:msup>
+              <mml:mo>=</mml:mo>
+              <mml:mfrac>
+                <mml:mn>1</mml:mn>
+                <mml:mn>2</mml:mn>
+              </mml:mfrac>
+              <mml:msup>
+                <mml:mi>C</mml:mi>
+                <mml:mi>e</mml:mi>
+              </mml:msup>
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </disp-formula></p>
+      <p>Each edge dipole can be associated with a vector <bold>&#x3BC;</bold><italic><sup>e</sup></italic> in space. This vector has magnitude |<italic>&#x3BC;<sup>e</sup></italic>|, lies in the edge <italic>e</italic> connecting vertices <italic>i</italic> and <italic>j</italic>, and its direction is from <italic>j</italic> to <italic>i</italic>. The molecular dipole moment vector <bold>&#x3BC;</bold> results the vector sum of the edge dipole moments as
+	  <disp-formula>
+        <mml:math display="block" id="mm6">
+          <mml:semantics>
+            <mml:mrow>
+              <mml:mi mathvariant="bold-sans-serif">&#x3BC;</mml:mi>
+			  <mml:mo>=</mml:mo>
+              <mml:mstyle displaystyle="true">
+                <mml:munderover>
+                  <mml:mo>&#x2211;</mml:mo>
+                  <mml:mrow>
+                    <mml:mi>e</mml:mi>
+                    <mml:mo>=</mml:mo>
+                    <mml:mn>1</mml:mn>
+                  </mml:mrow>
+                  <mml:mi>m</mml:mi>
+                </mml:munderover>
+                <mml:mrow>
+                  <mml:msup>
+                     <mml:mi mathvariant="bold-sans-serif">&#x3BC;</mml:mi>
+                    <mml:mi>e</mml:mi>
+                  </mml:msup>
+                </mml:mrow>
+              </mml:mstyle>
+              <mml:mo>=</mml:mo>
+              <mml:mfrac>
+                <mml:mn>1</mml:mn>
+                <mml:mn>2</mml:mn>
+              </mml:mfrac>
+              <mml:mstyle displaystyle="true">
+                <mml:munderover>
+                  <mml:mo>&#x2211;</mml:mo>
+                  <mml:mrow>
+                    <mml:mi>e</mml:mi>
+                    <mml:mo>=</mml:mo>
+                    <mml:mn>1</mml:mn>
+                  </mml:mrow>
+                  <mml:mi>m</mml:mi>
+                </mml:munderover>
+                <mml:mrow>
+                  <mml:msup>
+                    <mml:mstyle mathvariant="bold" mathsize="normal">
+                      <mml:mi>C</mml:mi>
+                    </mml:mstyle>
+                    <mml:mi>e</mml:mi>
+                  </mml:msup>
+                </mml:mrow>
+              </mml:mstyle>
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </disp-formula>
+      summed for all the <italic>m</italic>  edges in the molecular graph. The <italic>vector semisum</italic> CT <italic>index&#x3BC;</italic><sub>vec</sub> is defined as the module of <bold>&#x3BC;</bold>:
+	   <disp-formula id="FD4">
+        <label>(4)</label>
+        <mml:math display="block" id="mm7">
+          <mml:semantics>
+            <mml:mrow>
+              <mml:msub>
+                <mml:mi>&#x3BC;</mml:mi>
+				 <mml:mtext>vec</mml:mtext>
+              </mml:msub>
+              <mml:mo>=</mml:mo>
+              <mml:mi>N</mml:mi>
+              <mml:mrow>
+                <mml:mo>(</mml:mo>
+				 <mml:mi mathvariant="bold-sans-serif">&#x3BC;</mml:mi>
+                <mml:mo>)</mml:mo>
+              </mml:mrow>
+              <mml:mo>=</mml:mo>
+              <mml:msup>
+                <mml:mrow>
+                  <mml:mrow>
+                    <mml:mo>(</mml:mo>
+                    <mml:mrow>
+                      <mml:msubsup>
+                        <mml:mi>&#x3BC;</mml:mi>
+                        <mml:mi>x</mml:mi>
+                        <mml:mn>2</mml:mn>
+                      </mml:msubsup>
+                      <mml:mo>+</mml:mo>
+                      <mml:msubsup>
+                        <mml:mi>&#x3BC;</mml:mi>
+                        <mml:mi>y</mml:mi>
+                        <mml:mn>2</mml:mn>
+                      </mml:msubsup>
+                      <mml:mo>+</mml:mo>
+                      <mml:msubsup>
+                        <mml:mi>&#x3BC;</mml:mi>
+                        <mml:mi>z</mml:mi>
+                        <mml:mn>2</mml:mn>
+                      </mml:msubsup>
+                    </mml:mrow>
+                    <mml:mo>)</mml:mo>
+                  </mml:mrow>
+                </mml:mrow>
+                <mml:mrow>
+                  <mml:mrow>
+                    <mml:mn>1</mml:mn>
+                    <mml:mo>/</mml:mo>
+                    <mml:mn>2</mml:mn>
+                  </mml:mrow>
+                </mml:mrow>
+              </mml:msup>
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </disp-formula>
+      and <italic>&#x3BC;</italic><sub>vec</sub> is a graph invariant.</p>
+      <p>When heteroatoms are present, some way of discriminating atoms of different kinds needs to be considered [<xref ref-type="bibr" rid="B38-molecules-10-00334">38</xref>]. In valence CT indices terms, the presence of each heteroatom is taken into account by introducing its electronegativity value in the corresponding entry of the main diagonal of the adjacency matrix <bold>A</bold>. For each heteroatom <italic>X</italic>, its entry <italic>A<sub>ii</sub></italic> is redefined as
+	  <disp-formula id="FD5">
+        <label>(5)</label>
+        <mml:math display="block" id="mm8">
+          <mml:semantics>
+            <mml:mrow>
+              <mml:msubsup>
+                <mml:mi>A</mml:mi>
+                <mml:mrow>
+                  <mml:msub>				 
+                      <mml:mi>i</mml:mi>
+                      <mml:mi>i</mml:mi>
+                  </mml:msub>
+                </mml:mrow>
+                <mml:mi>V</mml:mi>
+              </mml:msubsup>
+              <mml:mo>=</mml:mo>
+              <mml:mn>2.2</mml:mn>
+              <mml:mrow>
+                <mml:mo>(</mml:mo>
+                <mml:mrow>
+                  <mml:msub>
+                    <mml:mi>&#x3C7;</mml:mi>
+                    <mml:mi>X</mml:mi>
+                  </mml:msub>
+                  <mml:mo>&#x2212;</mml:mo>
+                  <mml:msub>
+                    <mml:mi>&#x3C7;</mml:mi>
+                    <mml:mtext>C</mml:mtext>
+                  </mml:msub>
+                </mml:mrow>
+                <mml:mo>)</mml:mo>
+              </mml:mrow>
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </disp-formula>
+      to give the <italic>valence adjacency</italic>  <bold>A</bold><italic><sup>V</sup> matrix</italic>  where <italic>&#x3C7;<sub>X</sub></italic> and <italic>&#x3C7;</italic><sub>C</sub> are the electronegativities of heteroatom <italic>X</italic>  and carbon, respectively, in Pauling units. Notice that the subtractive term keeps <italic>A<sub>ii</sub><sup>V</sup></italic>=0 for the C atom (Equation 5). Moreover, the multiplicative factor reproduces <italic>A<sub>ii</sub><sup>V</sup></italic>=2.2 for O, which was taken as standard. From the valence <bold>A</bold><italic><sup>V</sup></italic>, <bold>M</bold><italic><sup>V</sup></italic> and <bold>C</bold><italic><sup>V</sup></italic> matrices, <italic>&#x3BC;</italic><sub>alg</sub><italic><sup>V</sup></italic>, <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> and topological CT indices <italic>G<sub>k</sub><sup>V</sup></italic> and <italic>J<sub>k</sub><sup>V</sup></italic> can be calculated by following the former procedure with the <bold>A</bold><italic><sup>V</sup></italic> matrix. The <italic>C<sub>ii</sub><sup>V</sup></italic>, <italic>G<sub>k</sub><sup>V</sup></italic>, <italic>J<sub>k</sub><sup>V</sup></italic>, <italic>&#x3BC;</italic><sub>alg</sub><italic><sup>V</sup></italic> and <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> descriptors are graph invariants. The main difference between <italic>&#x3BC;</italic><sub>vec</sub> and <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> is that <italic>&#x3BC;</italic><sub>vec</sub> is sensitive only to the <italic>steric</italic> effect of the heteroatoms, while <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> is sensitive to both electronic and steric effects.</p>
+    </sec>
+    <sec>
+      <title>Correction for <italic>sp</italic><sup>3</sup>-Heteroatom-Containing Compounds</title>
+      <p>Kubinyi showed that the poor hydrogen-bond-formation capacity of the <italic>sp</italic><sup>3</sup>-oxygen atoms that are directly linked to an <italic>sp</italic><sup>2</sup>-carbon atom (like in esters, aromatic ethers and furans) is also reflected by a significant decrease of their polarity (MedChem database 1-octanol&#x2013;water partition coefficient, <italic>P</italic>) in going from aliphatic to araliphatic and to aromatic ethers R&#x2013;O&#x2013;R&#x2019; (<xref ref-type="table" rid="molecules-10-00334-t001">Table 1</xref>) [<xref ref-type="bibr" rid="B39-molecules-10-00334">39</xref>]. Therefore, in this study it is suggested to halve the factor in Equation (5) as
+	  <disp-formula id="FD6">
+        <label>(6)</label>
+        <mml:math display="block" id="mm9">
+          <mml:semantics>
+            <mml:mrow>
+              <mml:msubsup>
+                <mml:mi>A</mml:mi>
+                <mml:mrow>
+                  <mml:msub>
+                      <mml:mi>i</mml:mi>
+                      <mml:mi>i</mml:mi>
+                  </mml:msub>
+                </mml:mrow>
+                <mml:mi>V</mml:mi>
+              </mml:msubsup>
+              <mml:mo>=</mml:mo>
+              <mml:mn>1.1</mml:mn>
+              <mml:mrow>
+                <mml:mo>(</mml:mo>
+                <mml:mrow>
+                  <mml:msub>
+                    <mml:mi>&#x3C7;</mml:mi>
+                    <mml:mi>X</mml:mi>
+                  </mml:msub>
+                  <mml:mo>&#x2212;</mml:mo>
+                  <mml:msub>
+                    <mml:mi>&#x3C7;</mml:mi>
+                    <mml:mtext>C</mml:mtext>
+                  </mml:msub>
+                </mml:mrow>
+                <mml:mo>)</mml:mo>
+              </mml:mrow>
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </disp-formula>
+      for <italic>sp</italic><sup>3</sup>-<italic>X</italic>  (&#x2013;<italic>X</italic>&#x2013;), <italic>X</italic> = O. <xref ref-type="table" rid="molecules-10-00334-t001">Table 1</xref> gives the molecular dipole moments <italic>&#x3BC;</italic>  for hydrocarbons and ethers calculated with different charge-transfer indices. The polarity decrease is also reflected by a significant decrease of the differential dipole moment (<italic>&#x3BC;</italic><sub>ether</sub> &#x2013; <italic>&#x3BC;</italic><sub>hydrocarbon</sub>) denoted as &#x394;(O &#x2013; CH<sub>2</sub>). The &#x394;(O &#x2013; CH<sub>2</sub>) <italic>&#x3BC;</italic><sub>experiment</sub> decreases with minus &#x394;(O &#x2013; CH<sub>2</sub>) log<italic>P</italic>. The &#x394;(O &#x2013; CH<sub>2</sub>) <italic>&#x3BC;</italic><sub>vec</sub> does not show this diminution, while &#x394;(O &#x2013; CH<sub>2</sub>) <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> gives very great values. However, &#x394;(O &#x2013; CH<sub>2</sub>) <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic><sup>,corrected</sup> is of the same order of magnitude as both <italic>&#x3BC;</italic><sub>experiment</sub> and <italic>&#x3BC;</italic><sub>MOPAC-AM1</sub> references. As similar effects were shown for <italic>sp</italic><sup>3</sup>-Si, P, Ge, As, Sn, Sb, Pb and Bi heteromolecules [<xref ref-type="bibr" rid="B34-molecules-10-00334">34</xref>], Equation (6) is used for all <italic>sp</italic><sup>3</sup>-<italic>X</italic>  (&#x2013;<italic>X</italic>&#x2013;), <italic>X</italic> = O, Si, P, S, Ge, As, Se, Sn, Sb, Te, Pb, Bi, Po.</p>
+      <table-wrap id="molecules-10-00334-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00334-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Molecular dipole moment (in D) for hydrocarbons and ethers with charge indices.</p>
+        </caption>
+           <table>
+            <thead>
+            <tr>
+              <th align="left" valign="top">Method</th>
+              <th align="left" valign="top">Compound</th>
+              <th align="left" valign="top">X = &#x2013;CH<sub>2</sub>&#x2013;</th>
+              <th align="left" valign="top">X = &#x2013;O&#x2013;</th>
+              <th align="left" valign="top">&#x394;(O &#x2013; CH<sub>2</sub>)</th>
+              <th align="left" valign="top">&#x394;(O&#x2013;CH<sub>2</sub>) log P<sup>a</sup></th>
+           </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top">Vector semisum</td>
+              <td align="left" valign="top">Et&#x2013;X&#x2013;Et</td>
+              <td align="left" valign="top">0.407</td>
+              <td align="left" valign="top">0.436</td>
+              <td align="left" valign="top">&#x2003;0.029</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top">Phe&#x2013;X&#x2013;Et</td>
+              <td align="left" valign="top">0.739</td>
+              <td align="left" valign="top">0.659</td>
+              <td align="left" valign="top">-0.080</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top">Phe&#x2013;X&#x2013;Phe</td>
+              <td align="left" valign="top">0.427</td>
+              <td align="left" valign="top">0.333</td>
+              <td align="left" valign="top">-0.094</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">Valence vector semisum</td>
+              <td align="left" valign="top">Et&#x2013;X&#x2013;Et</td>
+              <td align="left" valign="top">0.407</td>
+              <td align="left" valign="top">2.854</td>
+              <td align="left" valign="top">&#x2003;2.447</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top">Phe&#x2013;X&#x2013;Et</td>
+              <td align="left" valign="top">0.739</td>
+              <td align="left" valign="top">2.621</td>
+              <td align="left" valign="top">&#x2003;1.882</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top">Phe&#x2013;X&#x2013;Phe</td>
+              <td align="left" valign="top">0.427</td>
+              <td align="left" valign="top">2.742</td>
+              <td align="left" valign="top">&#x2003;2.315</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">Corrected valence vectorsemisum</td>
+              <td align="left" valign="top">Et&#x2013;X&#x2013;Et</td>
+              <td align="left" valign="top">0.407</td>
+              <td align="left" valign="top">1.209</td>
+              <td align="left" valign="top">&#x2003;0.802</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top">Phe&#x2013;X&#x2013;Et</td>
+              <td align="left" valign="top">0.739</td>
+              <td align="left" valign="top">1.211</td>
+              <td align="left" valign="top">&#x2003;0.472</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top">Phe&#x2013;X&#x2013;Phe</td>
+              <td align="left" valign="top">0.427</td>
+              <td align="left" valign="top">1.204</td>
+              <td align="left" valign="top">&#x2003;0.777</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">Experiment<sup>b</sup></td>
+              <td align="left" valign="top">Et&#x2013;X&#x2013;Et</td>
+              <td align="left" valign="top">0.087<sup>c</sup></td>
+              <td align="left" valign="top">1.170</td>
+              <td align="left" valign="top">&#x2003;1.083</td>
+              <td align="left" valign="top">-2.50</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top">Phe&#x2013;X&#x2013;Et</td>
+              <td align="left" valign="top">0.350</td>
+              <td align="left" valign="top">1.410</td>
+              <td align="left" valign="top">&#x2003;1.060</td>
+              <td align="left" valign="top">-1.21</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top">Phe&#x2013;X&#x2013;Phe</td>
+              <td align="left" valign="top">0.260</td>
+              <td align="left" valign="top">1.150</td>
+              <td align="left" valign="top">&#x2003;0.890</td>
+              <td align="left" valign="top">&#x2003;0.07</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">AM1</td>
+              <td align="left" valign="top">Et&#x2013;X&#x2013;Et</td>
+              <td align="left" valign="top">0.006</td>
+              <td align="left" valign="top">1.246</td>
+              <td align="left" valign="top">&#x2003;1.240</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top">Phe&#x2013;X&#x2013;Et</td>
+              <td align="left" valign="top">0.257</td>
+              <td align="left" valign="top">1.264</td>
+              <td align="left" valign="top">&#x2003;1.007</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top">Phe&#x2013;X&#x2013;Phe</td>
+              <td align="left" valign="top">0.080</td>
+              <td align="left" valign="top">1.252</td>
+              <td align="left" valign="top">&#x2003;1.172</td>
+              <td align="left" valign="top">&#x2003;&#x2013;</td>
+            </tr>
+          </tbody>
+        </table>
+		 <table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> P is the 1-octanol&#x2013;water partition coefficient.</p>
+			</fn>
+			<fn>
+            <p><sup>b</sup> Reference 40.</p>
+			</fn>
+			<fn>
+            <p><sup>c</sup> Gaussian-2 composite <italic>ab initio</italic>  method calculation taken from Reference 41.</p>
+            </fn>
+            </table-wrap-foot>
+     </table-wrap>
+    </sec>
+    <sec>
+      <title>Calculation Results and Discussion</title>
+      <p>The molecular CT indices <italic>G<sub>k</sub></italic>, <italic>J<sub>k</sub></italic>, <italic>G<sub>k</sub><sup>V</sup></italic> and <italic>J<sub>k</sub><sup>V</sup></italic> (with <italic>k</italic>&lt;6) are listed in <xref ref-type="table" rid="molecules-10-00334-t002">Table 2</xref> for the valence-isoelectronic series of benzene (C<sub>6</sub>H<sub>6</sub>). As one might have expected, all the molecules show the same set of <italic>G<sub>k</sub></italic> (and, consequently, <italic>J<sub>k</sub></italic>) values. For instance, <italic>G</italic><sub>1</sub> is related to the degree of branching and <italic>G</italic><sub>2</sub> is related to the number of unsaturations in the molecule, which are constant throughout the series. On the other hand, <italic>G<sub>k</sub><sup>V</sup></italic>, which also depends on the electronegativity of the heteroatom through Equations (5&#x2013;6), is influenced, in general, by the substitution.</p>
+      <p>In particular, <italic>G</italic><sub>1</sub><italic><sup>V</sup></italic> is related to the absolute differential electronegativity of the heteroatom |<italic>&#x3C7;<sub>X</sub></italic>&#x2013;<italic>&#x3C7;</italic><sub>C</sub>| in the molecule. However, an exception occurs: <italic>G</italic><sub>2</sub><sup>V</sup> (and, as a result, <italic>J</italic><sub>2</sub><italic><sup>V</sup></italic>) is equal throughout the series. C<sub>5</sub>H<sub>6</sub>Si, C<sub>5</sub>H<sub>6</sub>Ge, C<sub>5</sub>H<sub>6</sub>Sn and C<sub>5</sub>H<sub>6</sub>Pb show the same results for all <italic>G<sub>k</sub><sup>V</sup></italic> and <italic>J<sub>k</sub><sup>V</sup></italic>. This is due to the fact that Si, Ge, Sn and Pb have the same electonegativity (<italic>&#x3C7;</italic><sub>Si</sub>=<italic>&#x3C7;</italic><sub>Ge</sub>=<italic>&#x3C7;</italic><sub>Sn</sub>=<italic>&#x3C7;</italic><sub>Pb</sub>=1.8). The same happens for C<sub>5</sub>H<sub>5</sub>Sb and C<sub>5</sub>H<sub>5</sub>Bi (<italic>&#x3C7;</italic><sub>Sb</sub>=<italic>&#x3C7;</italic><sub>Bi</sub>=1.9). Although in pyridine and C<sub>5</sub>H<sub>5</sub>As, the N and As atoms have the same absolute differential electronegativity |<italic>&#x3C7;</italic><sub>N</sub>&#x2013;<italic>&#x3C7;</italic><sub>C</sub>|=|<italic>&#x3C7;</italic><sub>As</sub>&#x2013;<italic>&#x3C7;</italic><sub>C</sub>|=0.5, pyridine is calculated by Equation (5) while C<sub>5</sub>H<sub>5</sub>As, by Equation (6), and so <italic>G</italic><sub>2</sub><sup>V</sup>(pyridine) = 2<italic>G</italic><sub>2</sub><sup>V</sup>(C<sub>5</sub>H<sub>5</sub>As).</p>
+      <table-wrap-group id="molecules-10-00334-t002" position="float">
+        <label>Table 2</label>
+        <caption>
+          <p>Charge indices up to the fifth order for the valence-isoelectronic series of benzene.<sup>a</sup></p>
+        </caption>
+        <table-wrap id="molecules-10-00334-t002a" position="float">
+		<object-id pub-id-type="pii">molecules-10-00334-t002a_Table 2</object-id>
+		<caption><p>&#xA0;</p></caption>
+		<table>
+         <thead>
+            <tr>
+              <th align="left" valign="top">Molecules</th>
+              <th align="left" valign="top"><italic>N</italic></th>
+              <th align="left" valign="top"><italic>G</italic><sub>1</sub></th>
+              <th align="left" valign="top"><italic>G</italic><sub>2</sub></th>
+              <th align="left" valign="top"><italic>J</italic><sub>1</sub></th>
+              <th align="left" valign="top"><italic>J</italic><sub>2</sub></th>
+             </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top">all molecules</td>
+              <td align="left" valign="top">6</td>
+              <td align="left" valign="top">0.0000</td>
+              <td align="left" valign="top">5.3333</td>
+              <td align="left" valign="top">0.0000</td>
+              <td align="left" valign="top">1.0667</td>
+            </tr>
+			</tbody>
+			 </table>
+		 </table-wrap>  
+		<table-wrap id="molecules-10-00334-t002b" position="float">
+		<object-id pub-id-type="pii">molecules-10-00334-t002b_Table 2</object-id>
+		<caption><p>&#xA0;</p></caption>
+		<table>
+         <thead>
+            <tr>
+              <th align="left" valign="top">Molecules</th>
+              <th align="left" valign="top"><italic>G</italic><sub>1</sub><italic><sup>V</sup></italic></th>
+              <th align="left" valign="top"><italic>G</italic><sub>3</sub><italic><sup>V</sup></italic></th>
+              <th align="left" valign="top"><italic>J</italic><sub>1</sub><italic><sup>V</sup></italic></th>
+              <th align="left" valign="top"><italic>J</italic><sub>3</sub><italic><sup>V</sup></italic></th>
+             </tr>
+          </thead>
+          <tbody>
+           <tr>
+              <td align="left" valign="top">benzene</td>
+              <td align="left" valign="top">0.0000</td>
+              <td align="left" valign="top">0.0000</td>
+              <td align="left" valign="top">0.0000</td>
+              <td align="left" valign="top">0.0000</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">pyridine</td>
+              <td align="left" valign="top">2.2000</td>
+              <td align="left" valign="top">0.1222</td>
+              <td align="left" valign="top">0.4400</td>
+              <td align="left" valign="top">0.0244</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>SiH<sub>6</sub></td>
+              <td align="left" valign="top">1.5400</td>
+              <td align="left" valign="top">0.0856</td>
+              <td align="left" valign="top">0.3080</td>
+              <td align="left" valign="top">0.0171</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>PH<sub>5</sub></td>
+              <td align="left" valign="top">0.8800</td>
+              <td align="left" valign="top">0.0489</td>
+              <td align="left" valign="top">0.1760</td>
+              <td align="left" valign="top">0.0098</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>GeH<sub>6</sub></td>
+              <td align="left" valign="top">1.5400</td>
+              <td align="left" valign="top">0.0856</td>
+              <td align="left" valign="top">0.3080</td>
+              <td align="left" valign="top">0.0171</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>AsH<sub>5</sub></td>
+              <td align="left" valign="top">1.1000</td>
+              <td align="left" valign="top">0.0611</td>
+              <td align="left" valign="top">0.2200</td>
+              <td align="left" valign="top">0.0122</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>SnH<sub>6</sub></td>
+              <td align="left" valign="top">1.5400</td>
+              <td align="left" valign="top">0.0856</td>
+              <td align="left" valign="top">0.3080</td>
+              <td align="left" valign="top">0.0171</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>SbH<sub>5</sub></td>
+              <td align="left" valign="top">1.3200</td>
+              <td align="left" valign="top">0.0733</td>
+              <td align="left" valign="top">0.2640</td>
+              <td align="left" valign="top">0.0147</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>PbH<sub>6</sub></td>
+              <td align="left" valign="top">1.5400</td>
+              <td align="left" valign="top">0.0856</td>
+              <td align="left" valign="top">0.3080</td>
+              <td align="left" valign="top">0.0171</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>BiH<sub>5</sub></td>
+              <td align="left" valign="top">1.3200</td>
+              <td align="left" valign="top">0.0733</td>
+              <td align="left" valign="top">0.2640</td>
+              <td align="left" valign="top">0.0147</td>
+            </tr>
+          </tbody>
+        </table>
+		 <table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> <italic>G<sub>i</sub></italic>, <italic>J<sub>i</sub></italic> (<italic>i</italic> &gt; 2), <italic>G<sub>i</sub><sup>V</sup></italic>, <italic>J<sub>i</sub><sup>V</sup></italic> (<italic>i</italic> &gt; 3) are zero for all the entries; <italic>G</italic><sub>2</sub><italic><sup>V</sup></italic> = 5.3333, <italic>J</italic><sub>2</sub><italic><sup>V</sup></italic> = 1.0667.</p>
+            </fn>
+            </table-wrap-foot>
+      </table-wrap>  
+      </table-wrap-group>
+	  <p><xref ref-type="fig" rid="molecules-10-00334-f001">Figure 1</xref> illustrates the increment in the dipole moment of benzene in the presence of the heteroatom. The calculated <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> is of the same order of magnitude as <italic>&#x3BC;</italic><sub>experiment</sub>, while the calculated <italic>&#x3BC;</italic><sub>vec</sub>=0 remains constant. Since <italic>&#x3BC;</italic><sub>vec</sub> is sensitive to the steric effect but not to the electronic effect of the heteroatom, it is clear that the electronic effect (<italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic>) dominates over the steric one (<italic>&#x3BC;</italic><sub>vec</sub>). In particular, the best results are obtained for the fourth long-period (Sn&#x2013;Sb) and for the group-V heteromolecules.</p>
+      <fig id="molecules-10-00334-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Dipole moment of the valence-isolectronic series of benzene <italic>vs</italic>. the atomic number of the heteroatom. Experimental data from Reference 40. Points with <italic>Z</italic> = 14, 15, 32, 33, 50, 51, 82 and 83 are AM1 calculations.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00334-g001.tif"/>
+      </fig>
+      <table-wrap-group id="molecules-10-00334-t003" position="float">
+        <label>Table 3</label>
+        <caption>
+          <p>Charge indices up to the fifth order for the valence-isoelectronic series of styrene.</p>
+        </caption>
+		<table-wrap id="molecules-10-00334-t003a" position="float">
+        <object-id pub-id-type="pii">molecules-10-00334-t003a_Table 3</object-id>
+		<caption><p>&#xA0;</p></caption>
+         <table>
+         <thead>
+            <tr>
+              <th align="left" valign="top">Molecule</th>
+              <th align="left" valign="top"><italic>N</italic></th>
+              <th align="left" valign="top"><italic>G</italic><sub>1</sub></th>
+              <th align="left" valign="top"><italic>G</italic><sub>2</sub></th>
+              <th align="left" valign="top"><italic>G</italic><sub>3</sub></th>
+              <th align="left" valign="top"><italic>G</italic><sub>4</sub></th>
+              <th align="left" valign="top"><italic>G</italic><sub>5</sub></th>
+          </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top">all molecules</td>
+              <td align="left" valign="top">8</td>
+              <td align="left" valign="top">1.0000</td>
+              <td align="left" valign="top">6.8889</td>
+              <td align="left" valign="top">0.4375</td>
+              <td align="left" valign="top">0.2133</td>
+              <td align="left" valign="top">0.0625</td>
+            </tr>
+			 </tbody>
+			 </table>
+		 </table-wrap>  
+		<table-wrap id="molecules-10-00334-t003b" position="float">
+		<object-id pub-id-type="pii">molecules-10-00334-t003b_Table 3</object-id>
+		<caption><p>&#xA0;</p></caption>
+		<table>
+         <thead>
+            <tr>
+              <th align="left" valign="top">Molecules</th>
+              <th align="left" valign="top"><italic>J</italic><sub>1</sub></th>
+              <th align="left" valign="top"><italic>J</italic><sub>2</sub></th>
+              <th align="left" valign="top"><italic>J</italic><sub>3</sub></th>
+              <th align="left" valign="top"><italic>J</italic><sub>4</sub></th>
+			  <th align="left" valign="top"><italic>J</italic><sub>5</sub></th>
+             </tr>
+          </thead>
+          <tbody>
+			 <tr>
+              <td align="left" valign="top">all molecules</td>
+              <td align="left" valign="top">0.1429</td>
+              <td align="left" valign="top">0.9841</td>
+              <td align="left" valign="top">0.0625</td>
+              <td align="left" valign="top">0.0305</td>
+              <td align="left" valign="top">0.0089</td>
+            </tr>
+			 </tbody>
+			 </table>
+		 </table-wrap>  
+		<table-wrap id="molecules-10-00334-t003c" position="float">
+		<object-id pub-id-type="pii">molecules-10-00334-t003c_Table 3</object-id>
+		<caption><p>&#xA0;</p></caption>
+		<table>
+         <thead>
+            <tr>
+              <th align="left" valign="top">Molecules</th>
+              <th align="left" valign="top"><italic>G</italic><sub>1</sub><sup>V</sup></th>
+              <th align="left" valign="top"><italic>G</italic><sub>2</sub><sup>V</sup></th>
+              <th align="left" valign="top"><italic>G</italic><sub>3</sub><sup>V</sup></th>
+              <th align="left" valign="top"><italic>G</italic><sub>4</sub><sup>V</sup></th>
+			  <th align="left" valign="top"><italic>G</italic><sub>5</sub><sup>V</sup></th>
+             </tr>
+          </thead>
+          <tbody>
+			  <tr>
+              <td align="left" valign="top">styrene</td>
+              <td align="left" valign="top">1.0000</td>
+              <td align="left" valign="top">6.8889</td>
+              <td align="left" valign="top">0.4375</td>
+              <td align="left" valign="top">0.2133</td>
+              <td align="left" valign="top">0.0625</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">benzaldimine</td>
+              <td align="left" valign="top">1.6000</td>
+              <td align="left" valign="top">7.1639</td>
+              <td align="left" valign="top">0.5569</td>
+              <td align="left" valign="top">0.2708</td>
+              <td align="left" valign="top">0.0185</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">benzaldehyde</td>
+              <td align="left" valign="top">2.7000</td>
+              <td align="left" valign="top">7.4389</td>
+              <td align="left" valign="top">0.8014</td>
+              <td align="left" valign="top">0.4083</td>
+              <td align="left" valign="top">0.0255</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=SiH<sub>2</sub></td>
+              <td align="left" valign="top">2.5400</td>
+              <td align="left" valign="top">6.5039</td>
+              <td align="left" valign="top">0.5297</td>
+              <td align="left" valign="top">0.3436</td>
+              <td align="left" valign="top">0.1241</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=PH</td>
+              <td align="left" valign="top">1.8800</td>
+              <td align="left" valign="top">6.6689</td>
+              <td align="left" valign="top">0.4375</td>
+              <td align="left" valign="top">0.2611</td>
+              <td align="left" valign="top">0.0977</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">thiobenzaldehyde</td>
+              <td align="left" valign="top">1.0000</td>
+              <td align="left" valign="top">6.8889</td>
+              <td align="left" valign="top">0.4375</td>
+              <td align="left" valign="top">0.2133</td>
+              <td align="left" valign="top">0.0625</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=GeH<sub>2</sub></td>
+              <td align="left" valign="top">2.5400</td>
+              <td align="left" valign="top">6.5039</td>
+              <td align="left" valign="top">0.5297</td>
+              <td align="left" valign="top">0.3436</td>
+              <td align="left" valign="top">0.1241</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=AsH</td>
+              <td align="left" valign="top">2.1000</td>
+              <td align="left" valign="top">6.6139</td>
+              <td align="left" valign="top">0.4375</td>
+              <td align="left" valign="top">0.2886</td>
+              <td align="left" valign="top">0.1065</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=Se</td>
+              <td align="left" valign="top">1.2200</td>
+              <td align="left" valign="top">6.8339</td>
+              <td align="left" valign="top">0.4375</td>
+              <td align="left" valign="top">0.2133</td>
+              <td align="left" valign="top">0.0713</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=SnH<sub>2</sub></td>
+              <td align="left" valign="top">2.5400</td>
+              <td align="left" valign="top">6.5039</td>
+              <td align="left" valign="top">0.5297</td>
+              <td align="left" valign="top">0.3436</td>
+              <td align="left" valign="top">0.1241</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=SbH</td>
+              <td align="left" valign="top">2.3200</td>
+              <td align="left" valign="top">6.5589</td>
+              <td align="left" valign="top">0.4808</td>
+              <td align="left" valign="top">0.3161</td>
+              <td align="left" valign="top">0.1153</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=Te</td>
+              <td align="left" valign="top">1.8800</td>
+              <td align="left" valign="top">6.6689</td>
+              <td align="left" valign="top">0.4375</td>
+              <td align="left" valign="top">0.2611</td>
+              <td align="left" valign="top">0.0977</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=PbH<sub>2</sub></td>
+              <td align="left" valign="top">2.5400</td>
+              <td align="left" valign="top">6.5039</td>
+              <td align="left" valign="top">0.5297</td>
+              <td align="left" valign="top">0.3436</td>
+              <td align="left" valign="top">0.1241</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=BiH</td>
+              <td align="left" valign="top">2.3200</td>
+              <td align="left" valign="top">6.5589</td>
+              <td align="left" valign="top">0.4808</td>
+              <td align="left" valign="top">0.3161</td>
+              <td align="left" valign="top">0.1153</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=Po</td>
+              <td align="left" valign="top">2.1000</td>
+              <td align="left" valign="top">6.6139</td>
+              <td align="left" valign="top">0.4375</td>
+              <td align="left" valign="top">0.2886</td>
+              <td align="left" valign="top">0.1065</td>
+            </tr>
+			 </tbody>
+			 </table>
+		 </table-wrap>  
+		<table-wrap id="molecules-10-00334-t003d" position="float">
+		<object-id pub-id-type="pii">molecules-10-00334-t003d_Table 3</object-id>
+		<caption><p>&#xA0;</p></caption>
+		<table>
+         <thead>
+            <tr>
+              <th align="left" valign="top">Molecules</th>
+              <th align="left" valign="top"><italic>J</italic><sub>1</sub><sup>V</sup></th>
+              <th align="left" valign="top"><italic>J</italic><sub>2</sub><sup>V</sup></th>
+              <th align="left" valign="top"><italic>J</italic><sub>3</sub><sup>V</sup></th>
+              <th align="left" valign="top"><italic>J</italic><sub>4</sub><sup>V</sup></th>
+			  <th align="left" valign="top"><italic>J</italic><sub>5</sub><sup>V</sup></th>
+             </tr>
+          </thead>
+          <tbody>
+			  <tr>
+              <td align="left" valign="top">styrene</td>
+              <td align="left" valign="top">0.1429</td>
+              <td align="left" valign="top">0.9841</td>
+              <td align="left" valign="top">0.0625</td>
+              <td align="left" valign="top">0.0305</td>
+              <td align="left" valign="top">0.0089</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">benzaldimine</td>
+              <td align="left" valign="top">0.2286</td>
+              <td align="left" valign="top">1.0234</td>
+              <td align="left" valign="top">0.0796</td>
+              <td align="left" valign="top">0.0387</td>
+              <td align="left" valign="top">0.0026</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">benzaldehyde</td>
+              <td align="left" valign="top">0.3857</td>
+              <td align="left" valign="top">1.0627</td>
+              <td align="left" valign="top">0.1145</td>
+              <td align="left" valign="top">0.0583</td>
+              <td align="left" valign="top">0.0036</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=SiH<sub>2</sub></td>
+              <td align="left" valign="top">0.3629</td>
+              <td align="left" valign="top">0.9291</td>
+              <td align="left" valign="top">0.0757</td>
+              <td align="left" valign="top">0.0491</td>
+              <td align="left" valign="top">0.0177</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=PH</td>
+              <td align="left" valign="top">0.2686</td>
+              <td align="left" valign="top">0.9527</td>
+              <td align="left" valign="top">0.0625</td>
+              <td align="left" valign="top">0.0373</td>
+              <td align="left" valign="top">0.0140</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">thiobenzaldehyde</td>
+              <td align="left" valign="top">0.1429</td>
+              <td align="left" valign="top">0.9841</td>
+              <td align="left" valign="top">0.0625</td>
+              <td align="left" valign="top">0.0305</td>
+              <td align="left" valign="top">0.0089</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=GeH<sub>2</sub></td>
+              <td align="left" valign="top">0.3629</td>
+              <td align="left" valign="top">0.9291</td>
+              <td align="left" valign="top">0.0757</td>
+              <td align="left" valign="top">0.0491</td>
+              <td align="left" valign="top">0.0177</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=AsH</td>
+              <td align="left" valign="top">0.3000</td>
+              <td align="left" valign="top">0.9448</td>
+              <td align="left" valign="top">0.0625</td>
+              <td align="left" valign="top">0.0412</td>
+              <td align="left" valign="top">0.0152</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=Se</td>
+              <td align="left" valign="top">0.1743</td>
+              <td align="left" valign="top">0.9763</td>
+              <td align="left" valign="top">0.0625</td>
+              <td align="left" valign="top">0.0305</td>
+              <td align="left" valign="top">0.0102</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=SnH<sub>2</sub></td>
+              <td align="left" valign="top">0.3629</td>
+              <td align="left" valign="top">0.9291</td>
+              <td align="left" valign="top">0.0757</td>
+              <td align="left" valign="top">0.0491</td>
+              <td align="left" valign="top">0.0177</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=SbH</td>
+              <td align="left" valign="top">0.3314</td>
+              <td align="left" valign="top">0.9370</td>
+              <td align="left" valign="top">0.0687</td>
+              <td align="left" valign="top">0.0452</td>
+              <td align="left" valign="top">0.0165</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=Te</td>
+              <td align="left" valign="top">0.2686</td>
+              <td align="left" valign="top">0.9527</td>
+              <td align="left" valign="top">0.0625</td>
+              <td align="left" valign="top">0.0373</td>
+              <td align="left" valign="top">0.0140</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=PbH<sub>2</sub></td>
+              <td align="left" valign="top">0.3629</td>
+              <td align="left" valign="top">0.9291</td>
+              <td align="left" valign="top">0.0757</td>
+              <td align="left" valign="top">0.0491</td>
+              <td align="left" valign="top">0.0177</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=BiH</td>
+              <td align="left" valign="top">0.3314</td>
+              <td align="left" valign="top">0.9370</td>
+              <td align="left" valign="top">0.0687</td>
+              <td align="left" valign="top">0.0452</td>
+              <td align="left" valign="top">0.0165</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>H<sub>5</sub>&#x2013;CH=Po</td>
+              <td align="left" valign="top">0.3000</td>
+              <td align="left" valign="top">0.9448</td>
+              <td align="left" valign="top">0.0625</td>
+              <td align="left" valign="top">0.0412</td>
+              <td align="left" valign="top">0.0152</td>
+            </tr>
+          </tbody>
+        </table>
+       </table-wrap>
+      </table-wrap-group>
+	  <p>The molecular CT indices <italic>G<sub>k</sub></italic>, <italic>J<sub>k</sub></italic>, <italic>G<sub>k</sub><sup>V</sup></italic> and <italic>G<sub>k</sub><sup>V</sup></italic> for the valence-isoelectronic series of styrene (C<sub>6</sub>H<sub>5</sub>&#x2013;CH=CH<sub>2</sub>) are collected in <xref ref-type="table" rid="molecules-10-00334-t003">Table 3</xref>. As expected, all the molecules show the same set of <italic>G<sub>k</sub></italic> and <italic>J<sub>k</sub></italic> values. However, <italic>G<sub>k</sub><sup>V</sup></italic> are influenced by the atomic number of the heteroatom. In particular, the results for thiobenzaldehyde are equal to those for styrene. This is because the electronegativity for the S atom has been taken equal to that of C (<italic>&#x3C7;</italic><sub>S</sub>=<italic>&#x3C7;</italic><sub>C</sub>=2.5). The same happens for the Si/Ge/Sn/Pb (<italic>&#x3C7;</italic><sub>Si</sub>=<italic>&#x3C7;</italic><sub>Ge</sub>=<italic>&#x3C7;</italic><sub>Sn</sub>=<italic>&#x3C7;</italic><sub>Pb</sub>=1.8), P/Te (<italic>&#x3C7;</italic><sub>P</sub>=<italic>&#x3C7;</italic><sub>Te</sub>=2.1), As/Po (<italic>&#x3C7;</italic><sub>As</sub>=<italic>&#x3C7;</italic><sub>Po</sub>=2.0) and Sb/Bi compounds (<italic>&#x3C7;</italic><sub>Sb</sub>=<italic>&#x3C7;</italic><sub>Bi</sub>=1.9).</p>
+      <p><xref ref-type="fig" rid="molecules-10-00334-f002">Figure 2</xref> shows the increase in the dipole moment of the valence-isoelectronic series of styrene when the heteroatom is present. Again, <italic>&#x3BC;</italic><sub>experiment</sub> and <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> vary in a similar fashion, while <italic>&#x3BC;</italic><sub>vec</sub> remains almost constant (<italic>&#x3BC;</italic><sub>vec</sub>~0.43D for the three groups IV&#x2013;VI). The electronic effect of the heteroatom (<italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic>) dominates, in general, over the steric one (<italic>&#x3BC;</italic><sub>vec</sub>). In particular, for thiobenzaldehyde (<italic>Z</italic>=16) the result of <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> = <italic>&#x3BC;</italic><sub>vec</sub> (because <italic>&#x3C7;</italic><sub>S</sub>=<italic>&#x3C7;</italic><sub>C</sub>) should be taken with care. It is an artefact of the model for S-heteromolecules. Furthermore, the best results are obtained, in general, for the fourth long-period (Sn&#x2013;Te) and for the group-VI heteromolecules.</p>
+      <fig id="molecules-10-00334-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Dipole moment of the valence-isolectronic series of styrene <italic>vs</italic>. the atomic number of the heteroatom. Point with <italic>Z</italic> = 6 from Reference 42; <italic>Z</italic> = 7, 14&#x2013;16, 32&#x2013;34, 51 and 52 are computed with AM1; <italic>Z</italic> = 8 from Reference 43; <italic>Z</italic> = 50, 82 and 83 are PM3 calculations.</p>
+        </caption>
+		<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00334-g002.tif"/>
+      </fig>
+      <p>In order to test the model for other S-containing heterocycle, <xref ref-type="fig" rid="molecules-10-00334-f003">Figure 3</xref> displays the increase in the dipole moment of the valence-isoelectronic series of cyclopentadiene when the heteroatom is present. Once more, <italic>&#x3BC;</italic><sub>experiment</sub> and <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> vary in a similar fashion while <italic>&#x3BC;</italic><sub>vec</sub> remains almost constant (<italic>&#x3BC;</italic><sub>vec</sub>~0.45D). The electronic effect of the heteroatom (<italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic>) dominates over the steric one (<italic>&#x3BC;</italic><sub>vec</sub>). In particular, for thiophene (<italic>Z</italic>=16) <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> = <italic>&#x3BC;</italic><sub>vec</sub> (because <italic>&#x3C7;</italic><sub>S</sub>=<italic>&#x3C7;</italic><sub>C</sub>). However, the <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> relative error for thiophene (10%) is even smaller than for cyclopentadiene (12%).</p>
+      <fig id="molecules-10-00334-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>Dipole moment of the valence-isolectronic series of cyclopentadiene <italic>vs</italic>. the atomic number of the heteroatom. Point with <italic>Z</italic> = 15 is AM1 calculation.</p>
+        </caption>
+		<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00334-g003.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+	   <p>The following conclusions can be made from this study:
+      <list list-type="order">
+      <list-item><p>The behaviour of <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> is intermediate between <italic>&#x3BC;</italic><sub>vec</sub> and <italic>&#x3BC;</italic><sub>experiment</sub> and so the correction introduced with respect to <italic>&#x3BC;</italic><sub>vec</sub> is produced in the correct direction. The best results are obtained for the greatest group that can be studied.</p></list-item>
+      <list-item><p>Inclusion of the heteroatom in the <italic>&#x3C0;</italic>-electron system is beneficial for the description of the dipole moment, owing to either the role of additional <italic>p</italic> and/or <italic>d</italic> orbitals provided by the heteroatom or the role of steric factors in the <italic>&#x3C0;</italic>-electron conjugation. The analysis of both electronic and steric factors in <italic>&#x3BC;</italic> caused by the presence of the heteroatom shows that the electronic factor dominates over the steric one. Work is in progress on the calculation of the dipole moments of a homologous series of 4-alkylanilines, which are percutaneous enhancers of transdermal-delivery drugs.</p></list-item>
+      <list-item><p>Inclusion of the heteroatom enhances <italic>&#x3BC;</italic> with the only exception of the insertion of the Si atom in styrene. In turn, the increase in <italic>&#x3BC;</italic> can improve the solubility of the molecule.</p></list-item>
+      <list-item><p>For heteroatoms in the same group of the periodic table, the ring size and the degree of ring flattering are inversely proportional to the electronegativity of the hetetoatom, <italic>e.g</italic>., cyclopentadiene<sub>ring</sub> &lt; C<sub>4</sub>SiH<sub>6 ring</sub> &lt; C<sub>4</sub>GeH<sub>6 ring</sub> &lt; C<sub>4</sub>SnH<sub>6 ring</sub> &lt; C<sub>4</sub>PbH<sub>6 ring</sub> and benzene<sub>ring</sub> &lt; C<sub>5</sub>SiH<sub>6 ring</sub> &lt; C<sub>5</sub>GeH<sub>6 ring</sub> &lt; C<sub>5</sub>SnH<sub>6 ring</sub> &lt; C<sub>5</sub>PbH<sub>6 ring</sub>.</p></list-item>
+      <list-item><p>Inclusion of the heteroatom increases <italic>&#x3BC;</italic>, which is smaller for the benzene than for the styrene series. On going from styrene to C<sub>6</sub>H<sub>5</sub>&#x2013;CH=SnH<sub>2</sub>, <italic>&#x3BC;</italic><sub>experiment</sub> increases by a factor of 41. Although there is a minor steric effect (<italic>&#x3BC;</italic><sub>vec</sub> increases by a factor of 1.6), the major effect is electronic (<italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> augments by a factor of 12). From <italic>&#x3BC;</italic><sub>vec</sub> to <italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> the introduced correction is produced in the correct direction. However, the result for thiobenzaldehyde is uncertain. Work is in progress with the correct parameterization of the method for the S atom. On going from cyclopentadiene to pyrrole, <italic>&#x3BC;</italic><sub>experiment</sub> increases by a factor of 4. Although there is an antagonistic steric effect (in fact <italic>&#x3BC;</italic><sub>vec</sub> decreases), the major effect is electronic (<italic>&#x3BC;</italic><sub>vec</sub><italic><sup>V</sup></italic> is trebled).</p></list-item>
+	   </list></p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The author acknowledges financial support from the Spanish MCT (Plan Nacional I+D+I, Project No. BQU2001-2935-C02-01) and Generalitat Valenciana (DGEUI INF01-051 and INFRA03-047, and OCYT GRUPOS03-173).</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00334">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reiser</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Leyshon</surname>
+              <given-names>L. J.</given-names>
+            </name>
+            <name>
+              <surname>Saunders</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Mijovic</surname>
+              <given-names>M. V.</given-names>
+            </name>
+            <name>
+              <surname>Bright</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bogie</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fluorescence of Aromatic Benzoxazole Derivatives</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1972</year>
+          <volume>94</volume>
+          <fpage>2414</fpage>
+          <lpage>2421</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00334">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lippert</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Rettig</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Bona&#xE7;i&#x2248;-Kouteck&#xA5;</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Heisel</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mieh&#xE9;</surname>
+              <given-names>J. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photophysics of Internal Twsting</article-title>
+          <source>Adv. Chem. Phys.</source>
+          <year>1987</year>
+          <volume>68</volume>
+          <fpage>1</fpage>
+          <lpage>173</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00334">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dey</surname>
+              <given-names>J. K.</given-names>
+            </name>
+            <name>
+              <surname>Dogra</surname>
+              <given-names>S. K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvatochromism and Prototropism in 2-(Aminophenyl) Benzothiazoles</article-title>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1991</year>
+          <volume>64</volume>
+          <fpage>3142</fpage>
+          <lpage>3152</lpage>
+          <pub-id pub-id-type="doi">10.1246/bcsj.64.3142</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00334">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Catal&#xE1;n</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Mena</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Fabero</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Amat-Guerri</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Role of the Torsion of the Phenyl Moiety in the Mechanism of Stimulated Ultraviolet Light Generation in 2-Phenylbenzazoles</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>1992</year>
+          <volume>96</volume>
+          <fpage>2005</fpage>
+          <lpage>2016</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.462103</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00334">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Levitus</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Schmieder</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ricks</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Shimizu</surname>
+              <given-names>K. D.</given-names>
+            </name>
+            <name>
+              <surname>Bunz</surname>
+              <given-names>U. H. F.</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Garibay</surname>
+              <given-names>M. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Steps to Demarcate the Effects of Chromophore Aggregation and Planarization in Poly(phenyleneethynylene)s. 1. Rotationally Interrupted Conjugation in the Excited States of 1,4-Bis(phenylethynyl)benzene</article-title>
+          <source>J. Am. Chem. Soc</source>
+          <year>2001</year>
+          <volume>123</volume>
+          <fpage>4259</fpage>
+          <lpage>4265</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00334">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patil</surname>
+              <given-names>A. O.</given-names>
+            </name>
+            <name>
+              <surname>Heeger</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Wudl</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Optical Properties of Conducting Polymers</article-title>
+          <source>Chem. Rev.</source>
+          <year>1988</year>
+          <volume>88</volume>
+          <fpage>183</fpage>
+          <lpage>200</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr00083a009</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00334">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piqueras</surname>
+              <given-names>M. C.</given-names>
+            </name>
+            <name>
+              <surname>Crespo</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Tom&amp;#xE1</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modulation of the Electronic Properties of Conjugated Polymers Through Design of Polymer Backbone</article-title>
+          <source>J. Mol. Struct. (Theochem)</source>
+          <year>1995</year>
+          <volume>330</volume>
+          <fpage>181</fpage>
+          <lpage>185</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00334">
+        <label>8.</label>
+        <citation citation-type="book">
+          <source>Nonlinear Optical Properties of Polymers</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Heeger</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Orenstein</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ulrich</surname>
+              <given-names>D. R.</given-names>
+            </name>
+          </person-group>
+          <comment>Materials Research Society Symp. Proc. Vol. 109</comment>		  
+          <publisher-name>MRS</publisher-name>
+          <publisher-loc>Pittsburgh</publisher-loc>
+          <year>1987</year>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00334">
+        <label>9.</label>
+        <citation citation-type="book">
+          <source>Nonlinear Optical and Electroactive Polymers</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Prasad</surname>
+              <given-names>P. N.</given-names>
+            </name>
+            <name>
+              <surname>Ulrich</surname>
+              <given-names>D. R.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Plenum</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1988</year>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00334">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morley</surname>
+              <given-names>J. O.</given-names>
+            </name>
+            <name>
+              <surname>Docherty</surname>
+              <given-names>V. J.</given-names>
+            </name>
+            <name>
+              <surname>Pugh</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Non-Linear Optical Properties of Organic Molecules. Part 4. Calculations of the Hyperpolarisability of Sulphur-Containing Systems</article-title>
+          <source>J. Chem. Soc., Perkin Trans. 2</source>
+          <year>1987</year>
+          <fpage>1361</fpage>
+          <lpage>1363</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00334">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Samoc</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Prasad</surname>
+              <given-names>P. N.</given-names>
+            </name>
+            <name>
+              <surname>Reinhardt</surname>
+              <given-names>B. A.</given-names>
+            </name>
+            <name>
+              <surname>Unroe</surname>
+              <given-names>M. R.</given-names>
+            </name>
+            <name>
+              <surname>Prazak</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Evers</surname>
+              <given-names>R. C.</given-names>
+            </name>
+            <name>
+              <surname>Kane</surname>
+              <given-names>J. J.</given-names>
+            </name>
+            <name>
+              <surname>Jariwala</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Sinsky</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies of Third-Order Optical Nonlinearities of Model Compounds Containing Benzothiazole, Benzimidazole, and Benzoxazole Units</article-title>
+          <source>Chem. Mater.</source>
+          <year>1990</year>
+          <volume>2</volume>
+          <fpage>670</fpage>
+          <lpage>678</lpage>
+          <pub-id pub-id-type="doi">10.1021/cm00012a015</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00334">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meyers</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Adant</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Br&#xE9;das</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Theoretical Investigation of the Electronic and Geometric Structures and Nonlinear Optical Properties of 2H-pyrrole Derivatives</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1991</year>
+          <volume>113</volume>
+          <fpage>3715</fpage>
+          <lpage>3719</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00010a013</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00334">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Marks</surname>
+              <given-names>T. J.</given-names>
+            </name>
+            <name>
+              <surname>Ratner</surname>
+              <given-names>M. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nonlinear Optical Phenomena in Conjugated Organic Chromophores. Theoretical Investigations via a <italic>&#x3C0;</italic>-Electron Formalism</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1992</year>
+          <volume>96</volume>
+          <fpage>4325</fpage>
+          <lpage>4336</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00334">
+        <label>14.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yeates</surname>
+              <given-names>A. T.</given-names>
+            </name>
+            <name>
+              <surname>Dudis</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Resch</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Fratini</surname>
+              <given-names>A. V.</given-names>
+            </name>
+          </person-group>
+          <source>Materials Research Society Symp. Proc.</source>
+		  <comment>Vol. 247</comment>
+          <publisher-name>MRS</publisher-name>
+          <publisher-loc>Pittsburgh</publisher-loc>
+          <year>1992</year>
+		   <fpage>259</fpage>
+          <lpage>264</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00334">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gao</surname>
+              <given-names>X. L.</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>J. K.</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>C. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of Conjugated Length on the Calculated Nonlinear Second-Order Optical Susceptibilities of Some Organic Molecules</article-title>
+          <source>Int. J. Quantum Chem.</source>
+          <year>1992</year>
+          <volume>42</volume>
+          <fpage>1747</fpage>
+          <lpage>1758</lpage>
+          <pub-id pub-id-type="doi">10.1002/qua.560420612</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00334">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tomonari</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ookubo</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Takada</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Feyereisen</surname>
+              <given-names>M. W.</given-names>
+            </name>
+            <name>
+              <surname>Alml&#xF6;f</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Simplified Sum-over-States Calculations and Missing-Orbital Analysis on Hyperpolarizabilities of Benzene Derivatives</article-title>
+          <source>Chem. Phys. Lett.</source>
+          <year>1993</year>
+          <volume>203</volume>
+          <fpage>603</fpage>
+          <lpage>610</lpage>
+          <pub-id pub-id-type="doi">10.1016/0009-2614(93)85318-I</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00334">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Glaser</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>G. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Asymmetrization Effects on Structures and Populations of the Ground State of Dipolar Donor&#x2013;Acceptor-Substituted Molecular Organic NLO Materials</article-title>
+          <source>J. Comput. Chem.</source>
+          <year>1998</year>
+          <volume>19</volume>
+          <fpage>1130</fpage>
+          <lpage>1140</lpage>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1096-987X(19980730)19:10&lt;1130::AID-JCC2&gt;3.0.CO;2-N</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00334">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raptis</surname>
+              <given-names>S. G.</given-names>
+            </name>
+            <name>
+              <surname>Nasiou.</surname>
+              <given-names>S. M.</given-names>
+            </name>
+            <name>
+              <surname>Demetropoulos</surname>
+              <given-names>I. N.</given-names>
+            </name>
+            <name>
+              <surname>Papadopoulos</surname>
+              <given-names>M. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Static and Frequency Dependent Polarizabilities and Hyperpolarizabilities of H<sub>2</sub>S<sub>n</sub></article-title>
+          <source>Comput. Chem.</source>
+          <year>1998</year>
+          <volume>19</volume>
+          <fpage>1698</fpage>
+          <lpage>1715</lpage>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1096-987X(19981130)19:15&lt;1698::AID-JCC3&gt;3.0.CO;2-I</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00334">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rao</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Bhanuprakash</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Theoretical Studies on the Non-Linear Optical Properties of Some Organic Molecules: Effect of <italic>&#x3C0;&#x2013;&#x3C3;&#x2013;&#x3C0;</italic> through-Bond Coupling on the First Hyperpolarizability</article-title>
+          <source>J. Mol. Struct. (Theochem)</source>
+          <year>1999</year>
+          <volume>458</volume>
+          <fpage>269</fpage>
+          <lpage>273</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00334">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nakano</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Yamada</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yamaguchi</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>On the Second Hyperpolarizabilities <italic>&#x3B3;</italic>  of Three Charged States of Tetrathiapentalene and Tetrathiafulvalene: A <italic>&#x3B3;</italic>  Density Analysis</article-title>
+          <source>Chem. Phys. Lett.</source>
+          <year>2000</year>
+          <volume>321</volume>
+          <fpage>491</fpage>
+          <lpage>497</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0009-2614(00)00333-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00334">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>W.-D.</given-names>
+            </name>
+            <name>
+              <surname>Xiang</surname>
+              <given-names>K.-H.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Pernisz</surname>
+              <given-names>U. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Calculations of Linear and Nonlinear Optical Properties of H-silsesquioxanes</article-title>
+          <source>J. Phys. Chem. B</source>
+          <year>2000</year>
+          <volume>104</volume>
+          <fpage>6737</fpage>
+          <lpage>6742</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00334">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Levitus</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Schmieder</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ricks</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Shimizu</surname>
+              <given-names>K. D.</given-names>
+            </name>
+            <name>
+              <surname>Bunz</surname>
+              <given-names>U. H. F.</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Garibay</surname>
+              <given-names>M. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Steps to Demarcate the Effects of Chromophore Aggregation and Planarization in Poly(phenyleneethynylene)s. 1. Rotationally Interrupted Conjugation in the Excited States of 1,4-Bis(phenylethynyl)benzene</article-title>
+          <source>J. Am. Chem. Soc</source>
+          <year>2001</year>
+          <volume>123</volume>
+          <fpage>4259</fpage>
+          <lpage>4265</lpage>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00334">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Levitus</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zepeda</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Dang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Godinez</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Khuong</surname>
+              <given-names>T.-A. V.</given-names>
+            </name>
+            <name>
+              <surname>Schmieder</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Garibay</surname>
+              <given-names>M. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Steps to Demarcate the Effects of Chromophore Aggregation and Planarization in Poly(phenyleneethynylene)s. 2. The Photophysics of 1,4-Diethynyl-2-fluorobenzene in Solution and in Crystals</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2001</year>
+          <volume>66</volume>
+          <fpage>3188</fpage>
+          <lpage>3195</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00334">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>berg</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Berglund</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Edlund</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Eliasson</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of Nonlinear Optical Responses of Organic Compounds</article-title>
+          <source>J. Chem. Inf. Comput. Sci.</source>
+          <year>2001</year>
+          <volume>41</volume>
+          <fpage>811</fpage>
+          <lpage>814</lpage>
+          <pub-id pub-id-type="doi">10.1021/ci000402q</pub-id>
+          <pub-id pub-id-type="pmid">11410062</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00334">
+        <label>25.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Halls</surname>
+              <given-names>J. J. M.</given-names>
+            </name>
+            <name>
+              <surname>Friend</surname>
+              <given-names>R. H.</given-names>
+            </name>
+          </person-group>
+          <source>Clean Electricity from Photovoltaics</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Archer</surname>
+              <given-names>M. D.</given-names>
+            </name>
+            <name>
+              <surname>Hill</surname>
+              <given-names>R. D.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Imperial College</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>2001</year>
+		   <fpage>377</fpage>
+          <lpage>445</lpage>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00334">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torrens</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>S&#xE1;nchez-Mar&#xED;n</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nebot-Gil</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Interacting Induced Dipoles Polarization Model for Molecular Polarizabilities. Application to Benzothiazole (A)-Benzobisthiazole (B) Oligomers: A-B<sub>13</sub>-A</article-title>
+          <source>J. Mol. Struct. (Theochem)</source>
+          <year>1998</year>
+          <volume>426</volume>
+          <fpage>105</fpage>
+          <lpage>116</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00334">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torrens</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>S&#xE1;nchez-Mar&#xED;n</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nebot-Gil</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Torsional Effects on the Molecular Polarizabilities of the Benzothiazole (A)-Benzobisthiazole (B) Oligomer A-B<sub>13</sub>-A</article-title>
+          <source>J. Mol. Graphics</source>
+          <year>1996</year>
+          <volume>14</volume>
+          <fpage>245</fpage>
+          <lpage>259</lpage>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00334">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torrens</surname>
+              <given-names>F.</given-names>
+            </name>
+           <name>
+              <surname>S&#xE1;nchez-Mar&#xED;n</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nebot-Gil</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polarization by the Effect of a Small Torsional Change in the Benzothiazole (A)-Benzobisthiazole (B) Oligomer A-B<sub>13</sub>-A</article-title>
+          <source>Molecules</source>
+          <year>1999</year>
+          <volume>4</volume>
+          <fpage>28</fpage>
+          <lpage>51</lpage>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00334">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torrens</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>A New Topological Index to Elucidate Apolar Hydrocarbons</article-title>
+          <source>J. Comput.-Aided Mol. Design</source>
+          <year>2001</year>
+          <volume>15</volume>
+          <fpage>709</fpage>
+          <lpage>719</lpage>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00334">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torrens</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Valence Topological Charge-Transfer Indices for Dipole Moments</article-title>
+          <source>Molecules</source>
+          <year>2003</year>
+          <volume>8</volume>
+          <fpage>169</fpage>
+          <lpage>185</lpage>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00334">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torrens</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>A New Chemical Index Inspired by Biological Plastic Evolution</article-title>
+          <source>Indian J. Chem., Sect. A</source>
+          <year>2003</year>
+          <volume>42</volume>
+          <fpage>1258</fpage>
+          <lpage>1263</lpage>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00334">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torrens</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Chemical Index Inspired by Biological Plastic Evolution: Valence-Isoelectronic Series of Aromatics</article-title>
+          <source>J. Chem. Inf. Comput. Sci</source>
+          <comment>in press</comment>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-00334">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torrens</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Valence Topological Charge-Transfer Indices for Dipole Moments</article-title>
+          <source>J. Mol. Struct. (Theochem)</source>
+          <year>2003</year>
+          <volume>621</volume>
+          <fpage>37</fpage>
+          <lpage>42</lpage>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-00334">
+        <label>34.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torrens</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Valence Topological Charge-Transfer Indices for Dipole Moments</article-title>
+          <source>Mol. Diversity</source>
+          <comment>in press</comment>
+        </citation>
+      </ref>
+      <ref id="B35-molecules-10-00334">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Randic</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>On Characterization of Molecular Branching</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1975</year>
+          <volume>97</volume>
+          <fpage>6609</fpage>
+          <lpage>6615</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00856a001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36-molecules-10-00334">
+        <label>36.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hosoya</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Topological Index. A Newly Proposed Quantity Characterizing the Topological Nature of Structural Isomers of Saturated Hydrocarbons</article-title>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1971</year>
+          <volume>44</volume>
+          <fpage>2332</fpage>
+          <lpage>2339</lpage>
+        </citation>
+      </ref>
+      <ref id="B37-molecules-10-00334">
+        <label>37.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>G&#xE1;lvez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Garc&#xED;a</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Salabert</surname>
+              <given-names>M. T.</given-names>
+            </name>
+            <name>
+              <surname>Soler</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Charge Indexes. New Topological Descriptors</article-title>
+          <source>J. Chem. Inf. Comput. Sci.</source>
+          <year>1994</year>
+          <volume>34</volume>
+          <fpage>520</fpage>
+          <lpage>525</lpage>
+          <pub-id pub-id-type="doi">10.1021/ci00019a008</pub-id>
+        </citation>
+      </ref>
+      <ref id="B38-molecules-10-00334">
+        <label>38.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kier</surname>
+              <given-names>L. B.</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>H. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular Connectivity VII: Specific Treatment of Heteroatoms</article-title>
+          <source>J. Pharm. Sci.</source>
+          <year>1976</year>
+          <volume>65</volume>
+          <fpage>1806</fpage>
+          <lpage>1809</lpage>
+          <pub-id pub-id-type="doi">10.1002/jps.2600651228</pub-id>
+          <pub-id pub-id-type="pmid">1032667</pub-id>
+        </citation>
+      </ref>
+      <ref id="B39-molecules-10-00334">
+        <label>39.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kubinyi</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Pharmacokinetic Optimization in Drug Research&#xA0;</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Testa</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>van de Waterbeemd</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Folkers</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Guy</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Helvetica Chimica Acta</publisher-name>
+          <publisher-loc>Zurich</publisher-loc>
+          <year>2001</year>
+		   <fpage>513</fpage>
+          <lpage>524</lpage>
+        </citation>
+      </ref>
+      <ref id="B40-molecules-10-00334">
+        <label>40.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McClellan</surname>
+              <given-names>A. L.</given-names>
+            </name>
+          </person-group>
+          <source>Tables of Experimental Dipole Moments</source>
+          <publisher-name>Freeman</publisher-name>
+          <publisher-loc>San Francisco</publisher-loc>
+          <year>1963</year>
+        </citation>
+      </ref>
+      <ref id="B41-molecules-10-00334">
+        <label>41.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tasi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Mizukami</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Scaled Effective One-Electron Method Based on G2 Theory: Results for Aliphatic Alkane Molecules</article-title>
+          <source>J. Chem. Inf. Comput. Sci.</source>
+          <year>1998</year>
+          <volume>38</volume>
+          <fpage>632</fpage>
+          <lpage>638</lpage>
+          <pub-id pub-id-type="doi">10.1021/ci980001z</pub-id>
+        </citation>
+      </ref>
+      <ref id="B42-molecules-10-00334">
+        <label>42.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Molina</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>B. R.</given-names>
+            </name>
+            <name>
+              <surname>Merch&#xE1;n</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Theoretical Study of the Electronic Spectrum of Styrene</article-title>
+          <source>Chem. Phys. Lett.</source>
+          <year>1999</year>
+          <volume>309</volume>
+          <fpage>486</fpage>
+          <lpage>494</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0009-2614(99)00607-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43-molecules-10-00334">
+        <label>43.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Molina</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Merch&#xE1;n</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Theoretical Analysis of the Electronic Spectra of Benzaldehyde</article-title>
+          <source>J. Phys. Chem. A</source>
+          <year>2001</year>
+          <volume>105</volume>
+          <fpage>3745</fpage>
+          <lpage>3751</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	 <fn>
+    <p><italic>Sample availability</italic>:  Not applicable.</p>
+	</fn>
+	</fn-group>
+  </back>
+</article>

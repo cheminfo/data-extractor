@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10091161</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01161</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of Oxadiazoles, Thiadiazoles and Triazoles Derived from Benzo[b]thiophene.</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sharba</surname>
+            <given-names>A. Hussain K.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-01161" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Al-Bayati</surname>
+            <given-names>R. H.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Aouad</surname>
+            <given-names>M.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rezki</surname>
+            <given-names>N.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01161">Department of Chemistry, College of Science, Al-Mustansirya University, Baghdad, Iraq.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01161"><label>*</label> Author to whom correspondence should be addressed; e- mail: <underline><email>hussainirk@yahoo.com</email></underline></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+      <fpage>1161</fpage>
+      <lpage>1168</lpage>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>06</month>
+          <year>2005</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>29</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>In this work 3-chloro-2-chlorocarbonylbenzo[b]thiophene (<bold>1</bold>) was prepared from cinnamic acid and then converted into the acid hydrazide <bold>2</bold>. The azomethines <bold>3a-e</bold> were prepared from the corresponding aryl aldehydes and the acid hydrazide <bold>2.</bold> Treatment of compound <bold>2</bold> with formic acid gave the N-formyl acid hydrazide <bold>4</bold>, which upon refluxing with phosphorous pentoxide or phosphorous pentasulphide in xylene yielded the corresponding 2- (3-chloro-1-benzothien-2-yl)-1,3,4-oxadiazole (<bold>5</bold>) and 2-(3-chloro-1-benzo-thien-2-yl)-1,3,4- thiadiazole (<bold>6</bold>). Reaction of <bold>1</bold>-thiosemicarbazide <bold>7</bold> with NaOH leads to ring closure giving 5- (3-chloro-1-benzothien-2- yl)-4H&#x2013;triazole-3-thiol (<bold>8</bold>) which is converted into a number of derivatives <bold>9-12</bold> Reaction of <bold>2</bold> with phenyl isothiocyanate and NaOH afforded 5-(3-chloro- 1-benzothien-2-yl)-4-(phenyl)-4H-1,2,4-triazole-3-thiol &#xA0;(<bold>14</bold>).</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Benzo[b]thiophene</kwd>
+		<kwd>oxadiazole</kwd>
+		<kwd>thiadiazole</kwd>
+		<kwd>4H-1,2,4-triazole-3-thiol</kwd>
+		<kwd>azomethine</kwd>
+		<kwd>Mannich bases</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Derivatives of 1,3,4&#x2013;oxadiazole and 1,3,4 &#x2013;thiadiazole have been found to possess a wide spectrum of pharmacological ,medical,and biological activities [<xref ref-type="bibr" rid="B1-molecules-10-01161">1</xref>]. Schiff bases have also been widely reported to be biologically versatile compounds having antifungal, herbicidal and plant growth regulating properties [<xref ref-type="bibr" rid="B2-molecules-10-01161">2</xref>]. Moreover derivatives of 1,2,4-triazole are known to exhibit anti-inflammatory [<xref ref-type="bibr" rid="B3-molecules-10-01161">3</xref>], antiviral [<xref ref-type="bibr" rid="B4-molecules-10-01161">4</xref>], analgesic [<xref ref-type="bibr" rid="B5-molecules-10-01161">5</xref>], antimicrobial [<xref ref-type="bibr" rid="B6-molecules-10-01161">6</xref>], anticonvulsant [<xref ref-type="bibr" rid="B7-molecules-10-01161">7</xref>] and antidepressant activities [<xref ref-type="bibr" rid="B8-molecules-10-01161">8</xref>]. A series of 1,2,4-triazole derivatives have been patented and extensively employed in agriculture [<xref ref-type="bibr" rid="B9-molecules-10-01161">9</xref>]. We now report on the synthesis of  compounds derived from benzo[b]thiophene containing oxadiazole, thiadiazole and triazole moieties, with the purpose of investigating in the future their possible antibacterial and antifungal activities.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The new oxadiazole and thiadiazole derivatives were prepared following the reaction sequences depicted in <xref ref-type="scheme" rid="molecules-10-01161-f001">Scheme 1</xref>. The starting material for the synthesis of the targeted compounds is 3-chloro-2- chlorocarbonyl benzo[b]thiophene (<bold>1</bold>) which was prepared by the reaction of cinnamic acid with thionyl chloride in DMF and dry pyridine according to the reported method [<xref ref-type="bibr" rid="B10-molecules-10-01161">10</xref>]. Reaction between <bold>1</bold> and hydrazine hydrate afforded the acid hydrazide <bold>2</bold> in good yield. The IR spectra showed the N-H stretching absorption near 3140 cm<sup>-1</sup>  and the C=O stretching one at 1640 cm<sup>-1</sup>. Condensation of the acid hydrazide <bold>2</bold> with aryl aldehydes in absolute ethanol gave the Schiff bases <bold>3a-e</bold>.</p>
+	  <fig id="molecules-10-01161-f001" position="float">
+        <label>Scheme 1</label>
+		 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01161-g001.tif"/>
+      </fig>
+      <p>The formation of these Schiff bases was indicated by the presence in their IR spectra of the azomethine (CH=N) stretching band at 1600 cm<sup>-1</sup>, combined with the disappearance of the NH<sub>2</sub> stretching band. Further, 3-chloro-2-(N-formyl acid hydrazide)benzo[b]thiophene (<bold>4</bold>) was obtained in 70% yield when the acid hydrazide <bold>2</bold> was allowed to react with formic acid[<xref ref-type="bibr" rid="B11-molecules-10-01161">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-01161">12</xref>]. The structure of compound <bold>4</bold> was confirmed by the presence of two amidic carbonyl stretching bands at 1720 cm<sup>-1</sup> and 1660 cm<sup>-1</sup> (CO-NH-NH-CHO).</p>
+	  <fig id="molecules-10-01161-f002" position="float">
+        <label>Scheme 2</label>
+		<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01161-g002.tif"/>
+      </fig>
+      <p>Refluxing compound <bold>4</bold> with phosphorous pentoxide in xylene for one hour afforded 2-(3-chloro-1- benzothien-2-yl)-1,3,4- oxadiazole (<bold>5</bold>), which displayed two bands at 1245 cm<sup>-1</sup> and 1080 cm<sup>-1</sup> for the C-O-C asymmetric and symmetric stretching, respectively [<xref ref-type="bibr" rid="B12-molecules-10-01161">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-01161">13</xref>], in addition to the band at 1620 cm<sup>-1</sup> for the C=N stretch. Moreover, 2-(3-chloro-1-benzothien-2-yl)-1,3,4-thiadiazole (<bold>6</bold>) was obtained in 62-68% yield from the reaction of <bold>4</bold> with phosphorous pentasulphide under reflux in xylene solution. The absorption band at 1610 cm<sup>-1</sup> in the IR spectrum of <bold>6</bold> is due to C=N stetching. On the other hand the reaction of <bold>1</bold> with powdered thiosemicarbazide in dry benzene afforded the acylthiosemicarbazide <bold>7</bold>, which upon ring closure with NaOH gave 5-(3-chloro-1-benzothien-2-yl)-4H-1,2,4-triazole-3-thiol (<bold>8</bold>) [<xref ref-type="bibr" rid="B14-molecules-10-01161">14</xref>] which exists in a tautomeric thiol &#x2013; thione equilibrium, as indicated by the C=S stretching band at 1190 cm<sup>-1</sup> and S-H stretch at 2600 cm<sup>-1</sup> [<xref ref-type="bibr" rid="B15-molecules-10-01161">15</xref>]. Alkylation of <bold>8</bold> gave compound <bold>9</bold>, while treatment with secondary amines resulted in compound <bold>10</bold> by nucleophilic displacement of the SH group. Further, reaction of <bold>8</bold> with propargyl chloride led to the introduction of alkynyl functionality, thus affording compound <bold>11</bold>, as indicated by the strong band at 2100 cm<sup>-1</sup> for the C&#x2261;C stretch and 3300 cm<sup>-1</sup> for the &#x2261;C-H stretching vibration, respectively. Treatment of  <bold>11 </bold> with  secondary  cyclic amines, namely morpholine, piperidine or piperazine, under Mannich reaction conditions resulted into the Mannich bases <bold>12a-c</bold>, which was indicated by the disapperance of the &#x2261;C-H vibration band.</p>
+      <p>In another triazole preparation, condensation of acid hydrazide <bold>2</bold> with phenyl  isothiocyanate afforded the corresponding thiosemicarbazide <bold>13</bold> in moderate yield. Ring closure of arylthiosemicarbazides in an alkaline medium is a well known method for the synthesis of 1,2,4-triazoles and thus 5&#x2013;(3-chloro-1-benzothien-2-yl)-4-phenyl-4H-1,2,4-triazole-3-thiol (<bold>14</bold>) was obtained from the corresponding <bold>13</bold> by this method. The IR spectra of 1,4-substituted thiosemicarbazide derivative <bold>13</bold> display a C=O stretching band at 1680 cm<sup>-1</sup> and C=S stretching band at 1240 cm<sup>-1</sup>. It is worth mentioning that compounds <bold>8</bold> and <bold>14</bold> exist as thiol &#x2013; thione tautomers, as indicated by their IR spectra which showed a band due to SH and another band to N-C=S .</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Melting points were determined in open capillary tubes on a Gallenkamp mething point apparatus and are uncorrected. The IR spectra (KBr discs) were recorded with a Pye&#x2013;Unicam SP-300 spectrometer. UV spectra were recorded on Hitachi&#x2013;2000 spectrophotometer using absolute ethanol as solvent. <sup>1</sup>H-NMR on a Hitachi&#x2013;Perkin&#x2013;Elmer 60 MHz NMR spectrometer in DMSO&#x2013;d<sub>6</sub> solutions and with tetramethylsilane as an internal standard. Elemental analysis were done on a 1106 Carlo &#x2013; Erba instrument.</p>
+      </sec>
+      <sec>
+        <title>Preparation of 3-chloro-2-chloromethyl benzo[b]thiophene <italic>(<bold>1</bold>)</italic></title>
+        <p>This compound was prepared according to the method reported in the literature [<xref ref-type="bibr" rid="B10-molecules-10-01161">10</xref>]; mp 112- 114&#xB0;C (lit. mp 110-112&#xB0;C [<xref ref-type="bibr" rid="B10-molecules-10-01161">10</xref>])</p>
+      </sec>
+      <sec>
+        <title>Preparation of 3- chloro benzo[b] thiophene-2-carboxylic acid hydrazide <italic>(<bold>2</bold>)</italic></title>
+        <p>To a solution of compound <bold>1</bold> (0.001 mole) in dry chloroform (5 mL), hydrazine hydrate (0.0018 mole) was added dropwise. The mixture was refluxed for one hour. The solvent was removed <italic>in vacuo</italic> and the solid product was collected and crystallized from ethanol, mp 164-166&#xB0;C; 73% yield; IR (&#x3C5;, cm<sup>-1</sup>): 3280, 3140 (N-H), 1650(C =O), 1570 (C=C), 1070 (=C-Cl), 680 (C-S-C); UV (&#x3BB;<sub>max</sub>): 297 nm.</p>
+      </sec>
+      <sec>
+        <title>Preparation of compounds <italic><bold>3a-e.</bold></italic></title>
+        <p>A mixture of <bold>2</bold> (0.01 mole) and the corresponding aryl halide (0.01 mole) in ethanol (25 mL) was refluxed for 3 hours and cooled. The precipitate was filtered and crystallized from ethanol. (<bold>3b</bold>) Yield 76%; mp 212-214; IR v (cm<sup>-1</sup>): 3180 (N-H), 3020 (C-H ar ), 1650 (C=O), 1600(C=N); UV: 295 nm; (<bold>3c</bold>) Yield 82%; mp 240-242; IR v (cm<sup>-1</sup>): 3200 (N-H), 3050 (C-H ar), 1640 (C=O), 1610 (C=N); UV: 289 nm.</p>
+      </sec>
+      <sec>
+        <title>Preparation of compound <italic><bold>4.</bold></italic></title>
+        <p>A solution of <bold>2</bold> (0.01 mole) in formic acid (20 mL) was refluxed for 30 minutes. The solvent was evaporated and the residue was crystallized from methanol; 73% yield; mp. 188-190&#xB0;C; IR (&#x3C5;, cm<sup>-1</sup>): 3200 (N-H), 1660, 1720 (C=O); UV (&#x3BB;<sub>max</sub>): 306 nm; Calculated for C<sub>10</sub>H<sub>7</sub>N<sub>2</sub>O<sub>2</sub>SCl (%); C, 57.30; H, 3.09; N, 11.79; found (%): C, 56.95; H, 3.11; N, 11.65.</p>
+      </sec>
+      <sec>
+        <title>General Procedure for preparation of 2-(3-chloro-1-benzothien-2-yl)-1,3,4-oxadiazole <italic>(<bold>5</bold>)</italic> and 2-(3- chloro-1-benzothien-2-yl)-1,3,4-thiadiazole <italic>(<bold>6</bold>)<bold>.</bold></italic></title>
+        <p>To a solution of <bold>4</bold> (0.01 mole) in xylene (150 mL), phosphorous pentoxide or phosphorous pentasulphide (0.01 mole) was added. The mixture was refluxed for one hour. The solvent was evaporated, water (10 mL) was added and the mixture was extracted with chloroform. The solvent was evaporated and the residue was recrystallized from benzene or ethylacetate. Compound <bold>5</bold>: mp. 100- 102 &#xB0;C; yield 53%; IR (&#x3C5;, cm<sup>-1</sup>): 1620 (C=N), 1530 (C=C), 1245, 1080 (C-O-C); UV (&#x3BB;<sub>max</sub>) 287 nm; <sup>1</sup>H-NMR &#x3B4;: 6.2 (s, 1H, oxadiazole), 7.0-7.5 (m, 4H, Ar-H);  Compound <bold>6</bold>: mp. 124-126&#xB0;C; yield 63%; IR (&#x3C5;, cm<sup>-1</sup>) 1610 (C=N), 1550 (C=C); UV (&#x3BB;<sub>max</sub>) 294 nm; <sup>1</sup>H-NMR &#x3B4;: 6.6 (s, 1H, thiadiazole), 7.7-8 (m, 4H, Ar-H); Calcd. for C<sub>10</sub>H<sub>5</sub>N<sub>2</sub>S<sub>2</sub>Cl (%): C, 47.62; H,1.98; N,11.11; found %: C, 47.29; H,2.07; N, 10.98.</p>
+      </sec>
+      <sec>
+        <title>Preparation of 3- chloro benzo[b]thiophene -2- carboxylic thiosemicarbazide <italic>(<bold>7</bold>)</italic>.</title>
+        <p>To a solution of compound <bold>1</bold> (0.01 mole) in dry benzene (50 mL) was added thiosemicarbazide (0.01 mole). The mixture was refluxed for 2 hours and after cooling the precipitate was filtered and crystallized from ethanol &#x2013; water; mp 200-202&#xB0;C; yield 78%; IR (&#x3C5;, cm<sup>-1</sup>): 3170 (N-H); 1660 (C=O); 1220 (C=S); 1070 (C-Cl); 690 (C-S-C); UV (&#x3BB;<sub>max</sub>): 298 nm; <sup>1</sup>H-NMR &#x3B4; (ppm): 10.4 (s, 1H, CONH); 9.7 (s, 1H, CSNH); 8-7.5 (m, 4H, Ar-H); 3.6 (s, 2H, CSNH<sub>2</sub>); Calcd. for C<sub>10</sub>H<sub>8</sub>N<sub>3</sub>OS<sub>2</sub> Cl (%): C, 42.10; H, 2.80; N, 14.73; found (%): C,41.88; H,3.01; N,14.55.</p>
+      </sec>
+      <sec>
+        <title>Preparation of  5-(3-chloro-1-benzothien-2-yl)-4H-1,2,4-triazole-3-thiol <italic>(<bold>8</bold>)<bold>.</bold></italic></title>
+        <p>A stirred mixture of compound <bold>7</bold> and aqueous sodim hydroxide (4%, 10 mL) was refluxed for 3 hours. The mixture was acidified with dil. HCl and the precipitate was collected and crystallized from ethanol; yield 54%; mp. 231(dec)&#xB0;C; IR &#x3C5; (cm<sup>-1</sup>): 3130 (N-H), 3045 (C-Har), 2600 (SH), 1650 (C=N), 1590 (C=C); 1190 (C=S); UV (&#x3BB;<sub>max</sub>): 299.5 nm; Calcd. for C<sub>10</sub>H<sub>6</sub>N<sub>3</sub>S<sub>2</sub>Cl (%): C, 44.94; H, 2.28; N, 15.73; found (%): C, 44.59; H, 2.34; N, 15.48.</p>
+      </sec>
+      <sec>
+        <title>Preparation of compounds <italic><bold>9a-c.</bold></italic></title>
+        <p>To the stirred solution of compound <bold>8</bold> (0.001 mole) and sodium acetate (0.0024 mole) in ethanol (20 mL), alkyl/aryl halide (0.001 mole) was added. The mixture was refluxed  for  3  hours.  After cooling, the solution was poured onto crushed ice (30 g). The precipitate was filtered and recrystallized from acetone &#x2013; water.</p>
+        <p><italic>5-(3-chloro-1-benzothien-2-yl)-4H-1,2,4-triazole-3 methyl thiol</italic> (<bold>9a</bold>): Yield 52%; mp. 150-152&#xB0;C; IR (&#x3C5;, cm<sup>-1</sup>): 3330 (N-H), 3070 (C-Har), 1600 (C=N), 1550 (C=C), 1440 (S-CH<sub>3</sub>), 750 (C-S); UV (&#x3BB;<sub>max</sub>): 252 nm; <sup>1</sup>H-NMR (&#x3B4;) ppm: 7.5-8.5 (m, 4H, Ar-H), 3.2 (s, 3H, SCH<sub>3</sub>).</p>
+        <p><italic>5-(3-chloro-1-benzothien-2-yl)-4H-1,2,4-triazole-3-(4-nitrobenzyl) thiol</italic> (<bold>9b</bold>): Yield 40%; mp. 163- 165&#xB0;C; IR (&#x3C5;, cm<sup>-1</sup>): 3260 (N-H), 3070 (C-Har), 1600 (C=N), 1510 (C=C), 1510, 1340 (C&#x2013;NO<sub>2</sub>); UV (&#x3BB;<sub>max</sub>): 381 nm; Calcd. for C<sub>17</sub>H<sub>11</sub>N<sub>4</sub>O<sub>2</sub>S<sub>2</sub>Cl (%): C, 52.57; H, 2.83; N, 10.82; found (%): C, 52.34; H, 2.95; N, 10.66.</p>
+        <p><italic>5-(3-chloro-1-benzothien-2-yl)-4H-1,2,4-triazole-3-(2,4-dinitrophenyl) thiol</italic> (<bold>9 c</bold>): Yield 67%; mp 161-163&#xB0;C; IR (&#x3C5;, cm<sup>-1</sup>): 3120 (N-H), 3050 (C-Har), 1620 (C=N), 1530 (C=C), 1540, 1350 (C-NO<sub>2</sub>), 760 (C-S); UV (&#x3BB;<sub>max</sub>): 382 nm.</p>
+      </sec>
+      <sec>
+        <title>Preparation of compounds <italic><bold>10a-c.</bold></italic></title>
+        <p>To a stirred solution of compound <bold>8</bold> (0.003 mole) in dry dioxane (10 mL) was added a solution of the appropriate secondary amine (0.003 mole) in dry dioxane (5 mL). The mixture was refluxed for four hours. After cooling, the precipitate was filtered and crystallized from methanol.</p>
+        <p><italic>5-(3-chloro-1-benzothien-2-yl)-4H-1,2,4-triazole-3-N-piperidine</italic> (<bold>10a</bold>): Yield 60%; mp 160-162&#xB0;C; IR (&#x3C5;, cm<sup>-1</sup>): 3340 (N-H), 3030 (C-Har ), 2860, 2970 (C-Hal), 1640 (C=N), 1575 (C=C); UV (&#x3BB;<sub>max</sub>): 300 nm; <sup>1</sup>H-NMR (&#x3B4;) ppm: 2.6-2.8 (m, piperidine ring protons), 6.5-6.8 (m, 4H, Ar-H). Calcd. For C<sub>15</sub>H<sub>15</sub>N<sub>4</sub>SCl (%): C, 56.60; H, 4.71; N, 17.61; found (%): C, 56.33; H, 5.00; N, 17.44</p>
+      </sec>
+      <sec>
+        <title>General procedure for preparation of  5-(3-chloro-1-benzothien -2-yl)-4H-1,2,4-triazole-3-(prop-2- ynyl) thiol <italic>(<bold>11</bold>)</italic></title>
+        <p>To a stirred solution of compound <bold>8</bold> (0.01 mole) and triethylamine (0.01 mole) in ethanol (25 mL), was added propargyl chloride (0.01 mole) dropwise. The mixture was refluxed for two hours in a water bath. Excess ethanol was removed <italic>in vacuo</italic>. The product was collected and crystallized from ethanol &#x2013; water; Yield 75%; mp 108-110&#xB0;C; IR (&#x3C5;, cm<sup>-1</sup>): 3300 (&#x2261; C-H), 3180 (N-H), 3060 (C-Har), 2970 (C-Hal), 1650 (C=N), 1590 (C=C), 2100 (C&#x2261;C); UV (&#x3BB;<sub>max</sub>):  298nm.</p>
+      </sec>
+      <sec>
+        <title>General procedure for preparation of compounds <italic><bold>12a-c.</bold></italic></title>
+        <p>To a stirring solution of compound <bold>11</bold> (0.005 mole) in dioxane (25  mL)  was  added  cuprous chloride (0.0025 g) and the mixture was heated for a few minutes, then paraformaldehyde (0.005 mole) and the appropriate secondary amine (0.005 mole) were added. The mixture was heated at 90&#xB0;C for two hours. After cooling, the mixture was filtered and the poured onto ice water (100 mL). The residue was extracted with chloroform (3 x 25 mL) and purified on a column of silica gel using chloroform &#x2013; petroleum spirit as eluent. The product is oily. Yield of <bold>12b</bold> 68% (from piperidine); IR (&#x3C5;, cm<sup>-1</sup>): 3400 (N-H), 3050(C-Har), 2920, 2880 (C-Hal ), 1645 (C=N), 1560 (C=C), 1180 (C-N); UV (&#x3BB;<sub>max</sub>): 305 nm.</p>
+      </sec>
+      <sec>
+        <title>General procedure for preparation of compound <italic><bold>14.</bold></italic></title>
+        <p>A mixture of the acid hydrazide <bold>2</bold> (0.01 mole) and phenyl isothiocyanate (0.01 mole) in dry C<sub>6</sub>H<sub>6</sub> was refluxed for 6 hours. The solid material obtained on cooling was filtered off and recrystallized from methanol to give compound <bold>13.</bold> IR (&#x3C5;, cm<sup>-1</sup>): 1680 (C=O), 1240 (C=S). A stirring mixture of compound <bold>13</bold> (1 mmole) and sodium hydroxide (40 mg, 1 mmole) was refluxed for 4 hours. After cooling, the solution was acidified with hydrochloric acid and the precipitate was filtered. The solid <italic>5-(3-chloro-1-benzothien -2-yl-4-phenyl-4H-1,2,4-triazole-3-thiol</italic> (<bold>14</bold>) was recrystallized from ethyl acetate. Yield: 73%; mp 240-242&#xB0;C; IR (&#x3C5;, cm<sup>-1</sup>): 3320 (N-H thione), 3060 (C-Har), 1635 (C=N), 1530 (C=C), 1310 (C=S thione); UV (&#x3BB;<sub>max</sub>): 313 nm; <sup>1</sup>H-NMR (&#x3B4;) ppm: 3.8 (s, 1H, N-H thione), 8.3 &#x2013; 8.9 (m, 9H, Ar-H); Calcd. for C<sub>16</sub>H<sub>10</sub>N<sub>3</sub>S<sub>2</sub>Cl (%): C, 55.97; H, 2.91; N, 12.44; found (%): C, 55.59; H, 3.08; N, 12.23.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01161">
+        <label>1.</label>
+        <citation citation-type="journal">
+		 <label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wahab</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Rao</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Indian Chem. Soc.</source>
+          <year>1978</year>
+          <volume>55</volume>
+          <fpage>389</fpage>
+          <lpage>392</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Bajaj</surname>
+              <given-names>O. P.</given-names>
+            </name>
+          </person-group>
+          <source>ibid</source>
+          <year>1978</year>
+		  <volume>55</volume>
+          <fpage>108</fpage>
+          <lpage>110</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01161">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dash</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Mahapatra</surname>
+              <given-names>P.K.</given-names>
+            </name>
+            <name>
+              <surname>Panda</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Pattnaik</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Indian Chem. Soc.</source>
+          <year>1984</year>
+          <volume>61</volume>
+          <fpage>1061</fpage>
+		  <lpage>1064</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01161">
+        <label>3.</label>
+        <citation citation-type="journal">
+		<label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Unangst</surname>
+              <given-names>P.C.</given-names>
+            </name>
+            <name>
+              <surname>Shurum</surname>
+              <given-names>G.P.</given-names>
+            </name>
+            <name>
+              <surname>Connor</surname>
+              <given-names>D.T.</given-names>
+            </name>
+            <name>
+              <surname>Dyer</surname>
+              <given-names>R.D.</given-names>
+            </name>
+            <name>
+              <surname>Schrier</surname>
+              <given-names>D.J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1992</year>
+          <volume>35</volume>
+          <fpage>3691</fpage>
+          <lpage>3698</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mullican</surname>
+              <given-names>M.D.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Connor</surname>
+              <given-names>D.T.</given-names>
+            </name>
+            <name>
+              <surname>Kostlan</surname>
+              <given-names>C.R.</given-names>
+            </name>
+            <name>
+              <surname>Schrier</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Dyer</surname>
+              <given-names>R.D.</given-names>
+            </name>
+          </person-group>
+          <source>ibid</source>
+          <year>1993</year>
+		  <volume>36</volume>
+          <fpage>1090</fpage>
+          <lpage>1099</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01161">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <name>
+              <surname>Slack</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Squires</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wooldridge</surname>
+              <given-names>K.R.H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1965</year>
+          <volume>8</volume>
+          <fpage>676</fpage>
+          <lpage>680</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00329a026</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01161">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sughen</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Yoloye</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Pharm. Acta Helv.</source>
+          <year>1978</year>
+          <volume>58</volume>
+          <fpage>64</fpage>
+          <lpage>68</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01161">
+        <label>6.</label>
+        <citation citation-type="journal">
+		<label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shams El- Dine</surname>
+              <given-names>Sh.A.</given-names>
+            </name>
+            <name>
+              <surname>Hazzaa</surname>
+              <given-names>A.A.B.</given-names>
+            </name>
+          </person-group>
+          <source>Pharmazie</source>
+          <year>1974</year>
+		  <volume>29</volume>
+          <fpage>761</fpage>
+          <lpage>768</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cansiz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Servi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Koparir</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Altintas</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Digrak</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Pak.</source>
+          <year>2001</year>
+          <volume>23</volume>
+          <fpage>237</fpage>
+          <lpage>239</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01161">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stillings</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Welbourn</surname>
+              <given-names>A.P.</given-names>
+            </name>
+            <name>
+              <surname>Walter</surname>
+              <given-names>D.Sc.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1986</year>
+          <volume>29</volume>
+          <fpage>2280</fpage>
+          <lpage>2284</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00161a025</pub-id>
+          <pub-id pub-id-type="pmid">3783590</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01161">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kane</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Dudley</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Sorensen</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>F.P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med.Chem.</source>
+          <year>1988</year>
+          <volume>3</volume>
+          <fpage>1253</fpage>
+          <lpage>1258</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00401a031</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01161">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vamvakides</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Pharm. Fr.</source>
+          <year>1990</year>
+          <volume>48</volume>
+          <fpage>154</fpage>
+          <lpage>159</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01161">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parkey</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Castle</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocyclic Chem.</source>
+          <year>1986</year>
+          <volume>23</volume>
+          <fpage>1571</fpage>
+          <lpage>1577</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01161">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shafiee</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Naum</surname>
+              <given-names>E.P.</given-names>
+            </name>
+            <name>
+              <surname>Foroumadi</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Shekan</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocyclic Chem.</source>
+          <year>1995</year>
+          <volume>32</volume>
+          <fpage>1235</fpage>
+          <lpage>1239</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01161">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shafiee</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Yazdikarimy</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Sadri</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocyclic Chem.</source>
+          <year>1989</year>
+          <volume>6</volume>
+          <fpage>1342</fpage>
+          <lpage>1343</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01161">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lancelot</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Moune</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Robba</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocyclic Chem.</source>
+          <year>1980</year>
+          <volume>17</volume>
+          <fpage>625</fpage>
+          <lpage>629</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570170401</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01161">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henichart</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Houssin</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Lablanche</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocyclic Chem.</source>
+          <year>1977</year>
+          <volume>14</volume>
+          <fpage>615</fpage>
+          <lpage>619</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01161">
+        <label>15.</label>
+        <citation citation-type="journal">
+		<label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>K.C.</given-names>
+            </name>
+            <name>
+              <surname>Shih</surname>
+              <given-names>B.J.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J.W.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocyclic Chem.</source>
+          <year>1988</year>
+          <volume>25</volume>
+          <fpage>1215</fpage>
+          <lpage>1217</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andotra</surname>
+              <given-names>C.S.</given-names>
+            </name>
+            <name>
+              <surname>Langer</surname>
+              <given-names>T.C.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>S.K.</given-names>
+            </name>
+          </person-group>
+          <source>J. Indian Chem. Soc.</source>
+          <year>1989</year>
+          <volume>66</volume>
+          <fpage>122</fpage>
+          <lpage>123</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+  <fn>
+<p><italic>Sample availability:</italic> Available from the authors.</p>
+</fn>
+</fn-group>
+  </back>
+</article>

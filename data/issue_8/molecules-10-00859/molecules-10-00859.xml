@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10080859</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00859</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Epoxidation and Bis-hydroxylation of <italic>C</italic>-Phenyl-&#x394;<sup>2,3</sup>-glyco-pyranosides.</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fakha</surname>
+            <given-names>Ghada</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sinou</surname>
+            <given-names>Denis</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00859" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+	  <aff id="af1-molecules-10-00859">Laboratoire de Synth&#xE8;se Asym&#xE9;trique, UMR 5181, CPE Lyon, Universit&#xE9; Claude Bernard Lyon 1, 43, Boulevard du 11 novembre 1918, 69622 Villeurbanne, France. Tel. +33 (0)472448183, Fax +33 (0)478898914</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00859"><label>*</label>Author to whom correspondence should be addressed; e-mail <email>sinou@univ-lyon1.fr</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>8</issue>
+      <fpage>859</fpage>
+      <lpage>870</lpage>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>10</month>
+          <year>2004</year>
+        </date>
+		<date date-type="rev-recd">
+          <day>13</day>
+          <month>10</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>10</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+    <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+    <copyright-year>2005</copyright-year>
+    <license license-type="open-access">
+     <p>Reproduction is permitted for non commercial purposes.</p>
+    </license>
+   </permissions>
+      <abstract>
+        <p>Epoxidation and <italic>cis</italic>-hydroxylation of <italic>C</italic>-phenyl-&#x394;<sup>2,3</sup>-glycopyranosides have been carried out with a view to developing <italic>C</italic>-aryl glycoside synthesis. Epoxidation of (2,3- dideoxy-<sc>d</sc>-<italic>erythro</italic>-hex-2-enopyranosyl)benzene and (6-<italic>O</italic>-<italic>tert</italic>-butyldimethylsilyl-2,3- dideoxy-<sc>d</sc>-<italic>erythro</italic>-hex-2-enopyranosyl)benzene gave predominantly the <italic>allo</italic>-adducts whatever the configuration at the anomeric center. Epoxidation of (4,6-di-<italic>O</italic>-<italic>tert</italic>-butyl-dimethylsilyl-2,3-dideoxy-<sc>d</sc>-<italic>erythro</italic>-hex-2-enopyranosyl)benzene gave the <italic>manno</italic>- and <italic>allo</italic>-adducts in a 89:11 and 40:60 ratios for the &#x3B1;- and &#x3B2;-anomers, respectively. Hydroxylation of &#x3B1;-<italic>C</italic>-phenyl-&#x394;<sup>2,3</sup>-glycopyranosides using OsO<sub>4</sub> afforded the <italic>manno</italic>-adduct only, whatever the substituents at positions 4 and 6, whereas hydroxylation of (2,3-dideoxy- &#x3B2;-<sc>d</sc>-<italic>erythro</italic>-hex-2-enopyranosyl)benzene and (4,6-di-<italic>O</italic>-<italic>tert</italic>-butyldimethylsilyl-2,3- dideoxy- &#x3B2;-<sc>d</sc>-<italic>erythro</italic>-hex-2-enopyranosyl)benzene gave the <italic>manno</italic>- and <italic>allo</italic>-adducts in 25:75 and 80:20 ratios, respectively.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>(2,3-Unsaturated-glycopyranosyl)benzene</kwd>
+        <kwd>epoxidation</kwd>
+        <kwd><italic>cis</italic>-hydroxylation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>There is a great interest in <italic>C</italic>-aryl glycosides. This is due to their occurrence in many natural products possessing important medicinal and therapeutic properties [<xref ref-type="bibr" rid="B1-molecules-10-00859">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00859">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00859">3</xref>], as well as to their use as valuable chiral building blocks [<xref ref-type="bibr" rid="B4-molecules-10-00859">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00859">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00859">6</xref>]. However, it is important to obtain the two anomers of these <italic>C</italic>-aryl glycopyranosides with the highest stereoselectivity. Several synthetic methods are now available for the stereoselective and even stereospecific preparation of <italic>C</italic>-aryl glycopyranosides possessing a double bond in the 2,3-position [<xref ref-type="bibr" rid="B7-molecules-10-00859">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00859">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00859">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00859">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00859">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00859">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00859">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00859">14</xref>]. It is to be noted that these unsaturated glycosides are useful precursors of the corresponding saturated <italic>C</italic>-aryl glycosides by simple functionalization of this unsaturation. Whereas epoxidation or hydroxylation of 2,3-dideoxy-hex-2-pyranosides has been well studied [<xref ref-type="bibr" rid="B15-molecules-10-00859">15</xref>], there have not been any such systematic studies in the case of <italic>C</italic>-glycopyranosides, although some examples of <italic>cis</italic>-hydroxylation of <italic>C</italic>-aryl glycopyranosides appeared in the literature [<xref ref-type="bibr" rid="B14-molecules-10-00859">14</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00859">16</xref>]. We report in this paper some stereochemical aspects concerning the epoxidation and <italic>cis</italic>-hydroxylation of both anomers of some <italic>C</italic>-phenyl-&#x394;<sup>2,3</sup>-glycopyranosides (<xref ref-type="scheme" rid="molecules-10-00859-f001">Scheme 1</xref>).</p>
+      <fig id="molecules-10-00859-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00859-f001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00859-g001.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The different <italic>C</italic>-phenyl-&#x394;<sup>2,3</sup>-glycopyranosides having the &#x3B1;- and the &#x3B2;-configuration used in this study are shown in <xref ref-type="scheme" rid="molecules-10-00859-f001">Scheme 1</xref>. The synthesis of bis-silylated 2,3-unsaturated-<italic>C</italic>-phenyl glyco-pyranosides <bold>1a</bold> and <bold>2a</bold> has already been described [<xref ref-type="bibr" rid="B12-molecules-10-00859">12</xref>]. The deprotected unsaturated <italic>C</italic>-phenyl glycopyranosides <bold>1b</bold> and <bold>2b</bold> were obtained by a simple desilylation of compounds <bold>1a</bold> and <bold>2a</bold>, whereas monosilylation of <bold>1b</bold> and <bold>2b</bold> with <italic>tert</italic>-butyldimethylsilyl chloride afforded compounds <bold>3a</bold> and <bold>3b</bold>, respectively.</p>
+      <p>We studied first the epoxidation of these substrates using as the epoxidation reagent <italic>m</italic>-chloro-perbenzoic acid in CHCl<sub>3</sub> at 50 &#xB0;C for 24 h. Epoxidation of bis-silylated pseudo-glucal <bold>1a</bold> possessing the &#x3B1;-configuration gave in 79% yield a 11:89 mixture of the &#x3B1;&#x2212;<italic>allo</italic>- and &#x3B1;&#x2212;<italic>manno</italic>-epoxides <bold>4a</bold> and <bold>5a</bold>, which were separated by column chromatography, whereas the non-protectected pseudo-glucal <bold>1b</bold> gave only the &#x3B1;&#x2212;<italic>allo</italic> isomer <bold>4b</bold>, albeit in a quite low yield (20%) (<xref ref-type="scheme" rid="molecules-10-00859-f002">Scheme 2</xref>); even prolonged reaction times did not improve this yield, degradation products being observed in these cases. Epoxidation of the monosilylated pseudo-glucal <bold>3a</bold> (<xref ref-type="scheme" rid="molecules-10-00859-f002">Scheme 2</xref>) gave the reverse selectivity to that observed for the bis-silylated compound <bold>1a</bold>; a 86:14 mixture of the &#x3B1;&#x2212;<italic>allo</italic>- and &#x3B1;-<italic>manno</italic>-epoxides <bold>6</bold> and <bold>7</bold> was now obtained in 70% yield, the &#x3B1;-<italic>allo</italic>-epoxide being now predominant. These results are quite different from those observed in the epoxidation of alkyl 2,3-dideoxy-hex-2-pyranosides [<xref ref-type="bibr" rid="B15-molecules-10-00859">15</xref>].</p>
+      <p>The <italic>allo</italic> or <italic>manno</italic> configuration of those epoxides was established through comparison of the coupling constants <italic>J</italic><sub>1,2</sub> and <italic>J</italic><sub>3,4</sub> [<xref ref-type="bibr" rid="B15-molecules-10-00859">15</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00859">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00859">18</xref>], these two values being always higher for the &#x3B1;-<italic>allo</italic> than for the &#x3B1;-<italic>manno</italic> derivative. Effectively no H-1/H-2 or H-3/H-4 couplings were observed for compounds <bold>5a</bold> and <bold>7</bold>, whilst compounds <bold>4a</bold> and <bold>6</bold> showed <italic>J</italic><sub>1,2</sub> = 3.6 and 3.4 Hz, and <italic>J</italic><sub>3,4</sub> = 1.7 and 2.3 Hz, respectively. The observed stereoselectivities could be rationalized by assuming that the epoxidation of compound <bold>1a</bold> is under steric control, the peracid attacking on the &#x3B2; face because of the increased steric requirements on &#x3B1; face imparted by the two substituents at C-1 and C-4, whereas the epoxidation of compounds <bold>1b</bold> and <bold>3a</bold> was reversed, due to the <italic>cis</italic>-directing influence of the allylic hydroxyl group at position 4.</p>
+      <fig id="molecules-10-00859-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00859-f002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00859-g002.tif"/>
+      </fig>
+      <fig id="molecules-10-00859-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00859-f003_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00859-g003.tif"/>
+      </fig>
+      <p>The epoxidation was then extended to the unsaturated &#x3B2;-phenyl glycopyranosides (<xref ref-type="scheme" rid="molecules-10-00859-f003">Scheme 3</xref>). The non-protected unsaturated glycoside <bold>2b</bold> and the monosilylated compound <bold>3b</bold> gave the unique &#x3B2;-<italic>allo</italic>-epoxides <bold>8b</bold> and <bold>10</bold> in 86 and 50% yield, respectively. This stereospecific epoxidation could again be attributed to the <italic>cis</italic>-directing effect of the hydroxyl function at position 4. Conversely, epoxidation of the bis-silylated &#x3B2;-anomer <bold>2a</bold> gave a 60:40 mixture of the &#x3B2;<italic>-allo</italic> and &#x3B2;<italic>-manno</italic>-epoxides <bold>8a</bold> and <bold>9a</bold> in 69% yield; this lack of stereoselectivity was probably due to similar crowding of the two faces of the double bond of this compound.</p>
+      <p>The <italic>allo</italic> and <italic>manno</italic>-configurations were assigned from the NMR spectra; whereas H-1 appears as a singlet for all the compounds, the value of <italic>J</italic><sub>3,4</sub> is characteristic, this value being 0 for the &#x3B2;<italic>-manno</italic> configuration and varying from 1.5 to 2.2 Hz for the &#x3B2;<italic>-allo</italic> configuration. Moreover the &#x3B2;<italic>-allo</italic> configuration was confirmed for compound <bold>9a</bold> by NoE experiments. Irradiation of the signal of H-1 at &#x3B4; = 4.83 ppm resulted in an increase of the signal of H-2 of 10%, when the irradiation of the signal of H-4 at &#x3B4; = 3.90 ppm showed a small enhancement (2%) of the signal of H-3. This implied that H-1 and H-2 and H-3 and H-4 have <italic>cis</italic> relationships.</p>
+      <p>The <italic>cis</italic>-hydroxylation was then examined using osmium tetroxide and <italic>N</italic>-methylmorpholine oxide as the re-oxidant. The bis-silylated and bis-hydroxy pseudo-glucals <bold>1a</bold> and <bold>1b</bold> afforded exclusively &#x3B1;- <sc>d</sc>-phenyl-mannopyranosides <bold>11</bold> and <bold>12</bold> in 70 and 43% chemical yield, respectively, after acetylation in the last case (<xref ref-type="scheme" rid="molecules-10-00859-f004">Scheme 4</xref>). This very high stereoselectivity could be explained, as for alkyl 2,3-dideoxy- &#x3B1;-<sc>d</sc>-hex-enopyranosides, by the approach of the reactant on the less sterically crowded face of the <italic>C</italic>-glycoside [<xref ref-type="bibr" rid="B14-molecules-10-00859">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00859">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00859">16</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00859">19</xref>].</p>
+      <fig id="molecules-10-00859-f004" position="float">
+        <object-id pub-id-type="pii">molecules-10-00859-f004_Scheme 4</object-id>
+        <label>Scheme 4</label>
+        <caption>
+          <p>anomers of some</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00859-g004.tif"/>
+		<p>Reactants: i) OsO<sub>4</sub>, NMO, H<sub>2</sub>O/acetone, 70% yield; ii) OsO<sub>4</sub>, NMO, H<sub>2</sub>O/acetone, thenAc<sub>2</sub>O, pyridine, 43% yield</p>
+      </fig>
+      <p>Application of the <italic>cis</italic>-hydroxylation process to the &#x3B2;-anomers <bold>2a</bold> and <bold>2b</bold> gave a mixture of <italic>C</italic>-phenyl &#x3B2;-<italic>manno</italic>- and <italic>allo-</italic>pyranosides (<xref ref-type="scheme" rid="molecules-10-00859-f005">Scheme 5</xref>). The bis-O-silylated compound <bold>2a</bold> gave in 70% yield a 80:20 ratio of &#x3B2;-<italic>manno-</italic>pyranoside <bold>13</bold> and &#x3B2;-<italic>allo-</italic>pyranoside <bold>14</bold>, which could not be separated, while unprotected <bold>2b</bold> gave in 75% yield after acetylation a 25:75 ratio of &#x3B2;-<italic>manno</italic>-pyranoside <bold>15</bold> and &#x3B2;-<italic>allo</italic>-pyranoside <bold>16</bold>, which were not separated. This difference in stereoselectivity could be explained by the presence of the crowded Me<sub>2</sub>Bu<italic><sup>t</sup></italic>SiO group for <bold>2a</bold> <italic>versus</italic> the OH group for <bold>2b</bold>.</p>
+      <p>Configuration assignments for the compounds obtained by <italic>bis</italic>-hydroxylation were made on the basis of simple <sup>1</sup>H-NMR analyses and by comparison with previously described compounds.</p>
+      <fig id="molecules-10-00859-f005" position="float">
+        <object-id pub-id-type="pii">molecules-10-00859-f005_Scheme 5</object-id>
+        <label>Scheme 5</label>
+        <caption>
+          <p>anomers of some</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00859-g005.tif"/>
+      <p>Reactants: i) OsO<sub>4</sub>, NMO, H<sub>2</sub>O/acetone, 70% yield; ii) OsO<sub>4</sub>, NMO, H<sub>2</sub>O/acetone, then Ac<sub>2</sub>O, pyridine, 75% yield</p>
+      </fig>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have shown that epoxidation and <italic>cis</italic>-hydroxylation of both anomers of <italic>C</italic>-phenyl-&#x394;<sup>2,3</sup>-glyco-pyranosides are highly selective, the selectivity depending mostly on the substituent at position 4. Epoxidation of <italic>C</italic>-phenyl-&#x394;<sup>2,3</sup>-glycopyranosides having a free hydroxyl group at position 4 afforded predominantly, if not only, the <italic>allo</italic>-epoxide, whatever the anomer used. When the hydroxyl function at position 4 was protected as a <italic>tert</italic>-butyldimethylsilyl ether, the &#x3B1;-anomer gave predominantly the <italic>manno</italic>-epoxide, when the &#x3B2;-anomer afforded a 60:40 mixture of the two-adducts. <italic>Cis</italic>-dihydroxylation of <italic>C</italic>-phenyl-&#x394;<sup>2,3</sup>-&#x3B1;-glycopyranosides afforded the <italic>manno</italic>-adduct as the unique compound. For the <italic>cis</italic>-dihydroxylation of <italic>C</italic>-phenyl-&#x394;<sup>2,3</sup>-&#x3B2;-glycopyranosides, the presence of the free hydroxyl group at C-4 caused formation of the <italic>allo</italic>-adduct as the major isomer, when the <italic>allo</italic>-adduct was obtained predominantly when the hydroxyl function was protected with a <italic>tert</italic>-butyldimethylsilyl group</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Solvents were purified by standard methods and dried if necessary. Melting points (uncorrected) were determined with a capillary melting point apparatus B&#xFC;chi SMP-20. Optical rotations were recorded using a Perkin-Elmer 241 polarimeter. Thin-layer chromatography was performed using Merck silica gel 60 F<sub>254</sub> precoated aluminium plates, 0.2 mm thickness. Column chromatography was performed on silica gel (Merck 60, 70&#x2013;230 mesh). NMR spectra were recorded on a Bruker 300 MHz spectrometer (operating at 300.13 MHz for <sup>1</sup>H, and 75.01 MHz for <sup>13</sup>C).</p>
+      </sec>
+      <sec id="sec1-molecules-10-00859">
+        <title>Preparation of compounds <bold>1a,b</bold>.</title>
+        <p>A solution of the unsaturated bis-silylated <italic>C</italic>-phenyl glycopyranoside <bold>1a</bold> (or <bold>2a</bold>) (3 g, 7.7 mmol) [<xref ref-type="bibr" rid="B12-molecules-10-00859">12</xref>], and NBu<sub>4</sub>F.3H<sub>2</sub>O (2.43 g, 7.7 mmol) in THF (50 mL) was stirred at rt for 2 h. After evaporation of the solvent, CH<sub>2</sub>Cl<sub>2</sub> was added (50 mL), and the solution was washed with brine. Evaporation of the solvent under reduced pressure gave a residue that was purified by column chromatography on silica using petroleum ether/ethyl acetate as the eluent to gave compound <bold>1b</bold> (or <bold>2b</bold>).</p>
+        <p><italic>(2,3-Dideoxy-&#x3B1;-D-erythro-hex-2-enopyranosyl)benzene</italic> (<bold>1b</bold>). Yield 80%, oil, <italic>R</italic><sub>f</sub> 0.40 (petroleum ether-ethyl acetate 1:4), [&#x3B1;]<sub>D</sub><sup>20</sup> -72 (<italic>c</italic> 1, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 2.10 (bs, 2H, OH), 3.45 (ddd, 1H, <italic>J</italic> = 8.5, 4.4, 4.0 Hz, H-5), 3.78 (m, 2H, H-6), 4.28 (d, 1H, <italic>J</italic> = 8.5 Hz, H-4), 5.29 (s, 1H, H-1), 6.08 (m, 2H, H-2, H-3), 7.34 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 63.0 (C-6), 64.6 (C-4), 73.1 (C-5), 74.5 (C-1), 128.8, 128.9, 129.3, 129.8, 130.8 and 140.1 (C-2, C-3, C<sub>arom</sub>); Anal. calcd for C<sub>12</sub>H<sub>14</sub>O<sub>3</sub>: C, 69.89; H, 6.84. Found: C, 70.05; H, 6.61.</p>
+        <p><italic>(2,3-Dideoxy-&#x3B2;-D-erythro-hex-2-enopyranosyl)benzene</italic> (<bold>2b</bold>). Yield 75%, oil, <italic>R</italic><sub>f</sub> 0.40 (petroleum ether-ethyl acetate 1:4), [&#x3B1;]<sub>D</sub><sup>20</sup> +192 (<italic>c</italic> 0.8, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 1.94 (bs, 2H, OH), 3.59 (ddd, 1H, <italic>J</italic> = 8.7, 5.2, 4.1 Hz, H-5), 3.86 (dd, 1H, <italic>J</italic> = 11.6, 5.2 Hz, H-6), 3.96 (dd, 1H, <italic>J</italic> = 11.6, 4.1 Hz, H-6), 4.35 (ddd, 1H, <italic>J</italic> = 8.7, 1.6, 1.2 Hz, H-4), 5.18 (bs, 1H, H-1), 5.84 (d, 1H, <italic>J</italic> = 10.4 Hz, H-2 or H-3), 5.92 (d, 1H, <italic>J</italic> = 10.4 Hz, H-3 or H-2), 7.34 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 63.3 (C-6), 64.3 (C-4), 77.5 (C-5), 79.5 (C-1), 127.4, 128.4, 128.7, 129.0 and 131.1 (C-2, C-3, C<sub>arom</sub>); Anal. calcd for C<sub>12</sub>H<sub>14</sub>O<sub>3</sub>: C, 69.89; H, 6.84. Found: C, 69.81; H, 6.77.</p>
+      </sec>
+      <sec id="sec3-molecules-10-00859">
+        <title>Preparation of compounds <bold>3</bold>.</title>
+        <p>To a solution of the unsaturated <italic>C</italic>-phenyl glycopyranoside <bold>1b</bold> (or <bold>2b</bold>) (1 g, 4.8 mmol), imidazole (32 mg, 05 mmol) and triethylamine (1 mL, 6.7 mmol) in CH<sub>2</sub>Cl<sub>2</sub> (8 mL) maintained at rt was added a solution of <italic>tert</italic>-BuMe<sub>2</sub>SiCl (990 mg, 6.6 mmol) in CH<sub>2</sub>Cl<sub>2</sub> (10 mL). After being stirred at rt for 24 h, the solution was poured into cold water (10 mL), and the mixture was extracted with CH<sub>2</sub>Cl<sub>2</sub>. (3x10 mL). After evaporation of the solvent under reduced pressure, the residue was purified by column chromatography on silica using petroleum ether/diethyl ether as the eluent to gave compound <bold>3a</bold> (or <bold>3b</bold>).</p>
+        <p><italic>(6-O-tert-Butyldimethylsilyl-2,3-dideoxy-&#x3B1;-D-erythro-hex-2-enopyranosyl)benzene</italic> (<bold>3a</bold>). Yield 66%, oil, <italic>R</italic><sub>f</sub> 0.47 (petroleum ether-diethyl ether 2:1), [&#x3B1;]<sub>D</sub><sup>20</sup> -75 (<italic>c</italic> 1, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 0.05 (s, 3H, SiMe), 0.07 (s, 3H, SiMe), 0.88 (s, 9H, CMe<sub>3</sub>), 3.01 (bs, 1H, OH), 3.46 (ddd, 1H, <italic>J</italic> = 7.7, 7.5, 5.5 Hz, H-5), 3.71 (dd, 1H, <italic>J</italic> = 9.6, 7.7 Hz, H-6), 3.83 (dd, 1H, <italic>J</italic> = 9.6, 5.5 Hz, H-6), 4.26 (d, 1H, <italic>J</italic> = 7.5 Hz, H-4), 5.23 (s, 1H, H-1), 6.05 (m, 2H, H-2, H-3), 7.35 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -5.5 (SiMe), -5.4 (SiMe), 18.2 (<italic>C</italic>Me<sub>3</sub>), 25.9 (C<italic>Me</italic><sub>3</sub>), 65.7 (C-6), 67.0 (C-4), 71.4 (C-5), 73.9 (C-1), 128.0, 128.4, 128.5, 129.6 and 139.5 (C-2, C-3, C<sub>arom</sub>); Anal. calcd for C<sub>18</sub>H<sub>28</sub>O<sub>3</sub>Si: C, 67.46; H, 8.81. Found: C, 66.81; H, 8.81.</p>
+        <p><italic>(6-O-tert-Butyldimethylsilyl-2,3-dideoxy-&#x3B2;-D-erythro-hex-2-enopyranosyl)benzene</italic> (<bold>3b</bold>). Yield 82%, oil, <italic>R</italic><sub>f</sub> 0.36 (petroleum ether-diethyl ether 2:1), [&#x3B1;]<sub>D</sub><sup>20</sup> +120 (<italic>c</italic> 0.9, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 0.10 (s, 6H, SiMe), 0.90 (s, 9H, CMe<sub>3</sub>), 3.40 (bs, 1H, OH), 3.65 (ddd, 1H, <italic>J</italic> = 8.1, 5.1, 4.4 Hz, H-5), 3.77 (dd, 1H, <italic>J</italic> = 9.5, 8.1 Hz, H-6), 4.03 (dd, 1H, <italic>J</italic> = 9.5, 5.1 Hz, H-6), 4.40 (dd, 1H, <italic>J</italic> = 4.4, 1.5 Hz, H-4), 5.15 (s, 1H, H-1), 5.83 (dd, 1H, <italic>J</italic> = 10.3, 1.5 Hz, H-3), ), 5.90 (d, 1H, <italic>J</italic> = 10.3 Hz, H-3), 7.21 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -5.5 (SiMe), -5.6 (SiMe), 18.2 (<italic>C</italic>Me<sub>3</sub>), 25.9 (C<italic>Me</italic><sub>3</sub>), 66.5 (C-6), 67.9 (C-4), 77.2, and 77.3 (C-1, C-5), 127.3, 128.2, 128.3, 130.4 and 140.5 (C-2, C-3, C<sub>arom</sub>); Anal. calcd for C<sub>18</sub>H<sub>28</sub>O<sub>3</sub>Si: C, 67.46; H, 8.81. Found: C, 67.40; H, 8.75.</p>
+      </sec>
+      <sec>
+        <title>General procedure for the epoxidation.</title>
+        <p>A solution of the unsaturated carbohydrate (0.23 mmol) and <italic>m</italic>-CPBA (1.17 g, 0.69 mmol) in CHCl<sub>3</sub> (10 mL) was stirred at 50 &#xB0;C for 24 h. The solution was neutralized with a saturated aqueous solution of NaHCO<sub>3</sub>, the organic phase was separated, and the aqueous phase was extracted with CHCl<sub>3</sub> (2x10 mL). The organic phases were dried over Na<sub>2</sub>SO<sub>4</sub>. After evaporation of the solvent under reduced pressure, the residue was purified by column chromatography on silica using the appropriate eluent.</p>
+        <p><italic>(4,6-Di-O-tert-butyldimethylsilyl-2,3-anhydro-&#x3B1;-D-allopyranosyl)benzene</italic> (<bold>4a</bold>). Yield 9%, oil, <italic>R</italic><sub>f</sub> 0.18 (petroleum ether-ethyl acetate-triethylamine 40:1:1), [&#x3B1;]<sub>D</sub><sup>20</sup> +18 (<italic>c</italic> 0.9, CH<sub>2</sub>Cl<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 0.13 (s, 6H, SiMe), 0.17 (s, 3H, SiMe), 0.20 (s, 3H, SiMe), 0.94 (s, 9H, CMe<sub>3</sub>), 0.98 (s, 9H, CMe<sub>3</sub>), 3.54 (dd, 1H, <italic>J</italic> = 4.2, 1.7 Hz, H-3), 3.48-3.57 (m, 1H, H-5), 3.75 (dd, 1H, <italic>J</italic> = 11.2, 6.1 Hz, H-6), 3.95 (dd, 1H, <italic>J</italic> = 11.2, 1.9 Hz, H-6), 3.98 (dd, 1H, <italic>J</italic> = 4.2, 3.6 Hz, H-2), 4.02 (dd, 1H, <italic>J</italic> = 9.1, 1.7 Hz, H-4), 5.26 (bd, 1H, <italic>J</italic> = 3.6 Hz, H-1), 7.31-7.61 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -5.2 (SiMe), -5.0 (SiMe), -4.7 (SiMe), -4.0 (SiMe), 18.1 (<italic>C</italic>Me<sub>3</sub>), 18.6 (<italic>C</italic>Me<sub>3</sub>), 25.8 (C<italic>Me</italic><sub>3</sub>), 26.1 (C<italic>Me</italic><sub>3</sub>), 55.8 and 57.5 (C-2, C-3), 63.4 (C-6), 66.9 (C-4), 71.1 (C-5), 72.4 (C-1), 126.5, 127.4, 128.5 and 139.1 (C<sub>arom</sub>); Anal. calcd for C<sub>24</sub>H<sub>42</sub>O<sub>4</sub>Si<sub>2</sub>: C, 63.95; H, 9.39. Found: C, 63.61; H, 9.38.</p>
+        <p><italic>(4,6-Di-O-tert-butyldimethylsilyl-2,3-anhydro-&#x3B1;-D-mannopyranosyl)benzene</italic> (<bold>5a</bold>). Yield 70%, oil, <italic>R</italic><sub>f</sub> 0.20 (petroleum ether-ethyl acetate-triethylamine 40:1:1), [&#x3B1;]<sub>D</sub><sup>20</sup> +21 (<italic>c</italic> 0.9, CH<sub>2</sub>Cl<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 0.06 (s, 3H, SiMe), 0.08 (s, 3H, SiMe), 0.15 (s, 3H, SiMe), 0.22 (s, 3H, SiMe), 0.92 (s, 9H, CMe<sub>3</sub>), 0.95 (s, 9H, CMe<sub>3</sub>), 3.27 (ddd, 1H, <italic>J</italic> = 9.0, 6.7, 2.2 Hz, H-5), 3.36 (d, 1H, <italic>J</italic> = 3.7 Hz, H-2 or H-3), 3.60 (d, 1H, <italic>J</italic> = 3.7 Hz, H-2 or H-3), 3.65 (dd, 1H, <italic>J</italic> = 11.1, 6.7 Hz, H-6), 3.77 (d, 1H, <italic>J</italic> = 9.0 Hz, H-4), 3.83 (dd, 1H, <italic>J</italic> = 11.1, 2.2 Hz, H-6), 5.27 (s, 1H, H-1), 7.31-7.61 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -5.2 (SiMe), -5.1 (SiMe), -4.8 (SiMe), -4.3 (SiMe), 18.0 (<italic>C</italic>Me<sub>3</sub>), 18.5 (<italic>C</italic>Me<sub>3</sub>), 25.8 (C<italic>Me</italic><sub>3</sub>), 26.0 (C<italic>Me</italic><sub>3</sub>), 52.4 and 56.9 (C-2, C-3), 63.6 (C-4), 63.6 (C-6), 72.3 (C-5), 73.1 (C-1), 127.6, 128.0, 128.7 and 137.5 (C<sub>arom</sub>); Anal. calcd for C<sub>24</sub>H<sub>42</sub>O<sub>4</sub>Si<sub>2</sub>: C, 63.95; H, 9.39. Found: C, 63.72; H, 9.42. </p>
+        <p><italic>(2,3-Anhydro-&#x3B1;-D-allopyranosyl)benzene</italic> (<bold>4b</bold>). Yield 20%, oil, <italic>R</italic><sub>f</sub> 0.24 (diethylether), [&#x3B1;]<sub>D</sub><sup>20</sup> &#x2013;6.0 (<italic>c</italic> 0.7, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 2.84 (bs, 2H, OH), 3.31 (ddd, 1H, <italic>J</italic> = 8.8, 4.5, 3.4 Hz, H-5), 3.50 (dd, 1H, <italic>J</italic> = 4.3, 1.7 Hz, H-3), 3.63 (dd, 1H, <italic>J</italic> = 11.8, 4.5 Hz, H-6), 3.69 (dd, 1H, <italic>J</italic> = 11.8, 3.4 Hz, H-6), 3.79 (dd, 1H, <italic>J</italic> = 4.3, 3.6 Hz, H-2), 3.93 (dd, 1H, <italic>J</italic> = 8.8, 1.7 Hz, H-4), 5.06 (d, 1H, <italic>J</italic> = 3.6 Hz, H-1), 7.16-7.34 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 55.6 and 58.2 (C-2, C-3), 62.8 (C-6), 66.2 (C-4), 71.4 (C-5), 72.4 (C-1), 126.9, 128.2, 129.9 and 138.8 (C<sub>arom</sub>); Anal. calcd for C<sub>12</sub>H<sub>14</sub>O<sub>4</sub>: C, 64.85; H, 6.35. Found: C, 64.65; H, 6.46.</p>
+        <p><italic>(6-O-tert-Butyldimethylsilyl-2,3-anhydro-&#x3B1;-D-allopyranosyl)benzene</italic> (<bold>6</bold>). Yield 60%, oil, <italic>R</italic><sub>f </sub> 0.40 (petroleum ether-ethyl acetate 2:1), [&#x3B1;]<sub>D</sub><sup>20</sup> -22 (<italic>c</italic> 1.2, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 0.00 (s, 6H, SiMe), 0.81 (s, 9H, CMe<sub>3</sub>), 2.48 (bs, 1H, OH), 3.51 (dt, 1H, <italic>J</italic> = 7.1, 5.3 Hz, H-5), 3.66 (dd, 1H, <italic>J</italic> = 4.1, 2.3 Hz, H-3), 3.86 (d, 1H, <italic>J</italic> = 5.3 Hz, H-6), 3.93 (dd, 1H, <italic>J</italic> = 4.1, 3.4 Hz, H-2), 4.10 (dd, 1H, <italic>J</italic> = 7.1, 2.3 Hz, H-4), 5.21 (d, 1H, <italic>J</italic> = 3.4 Hz, H-1), 7.30-7.54 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -5.1 (SiMe), 18.1 (<italic>C</italic>Me<sub>3</sub>), 18.7 (<italic>C</italic>Me<sub>3</sub>), 26.3 (C<italic>Me</italic><sub>3</sub>), 55.2 and 57.7 (C-2, C-3), 65.0 (C-6), 67.6, 71.4, and 72.1 (C-1, C-4, C-5), 127.0, 128.1, 128.8 and 138.8 (C<sub>arom</sub>); Anal. calcd for C<sub>18</sub>H<sub>28</sub>O<sub>4</sub>Si (mixture <bold>6</bold> + <bold>7</bold>): C, 64.25; H, 8.39. Found: C, 64.26; H, 8.59.</p>
+        <p><italic>(6-O-tert-Butyldimethylsilyl-2,3-anhydro-&#x3B1;-D-mannopyranosyl)benzene</italic> (<bold>7</bold>). Yield 10%, oil, <italic>R</italic><sub>f</sub> 0.54 (petroleum ether-ethyl acetate 2:1), [&#x3B1;]<sub>D</sub><sup>20</sup> -21 (<italic>c</italic> 1.2, CHCl3); <sup>1</sup>H-NMR (CDCl3) &#x3B4; 0.00 (s, 3H, SiMe), 0.03 (s, 3H, SiMe), 0.83 (s, 9H, CMe<sub>3</sub>), 2.50 (bs, 1H, OH), 3.17 (ddd, 1H, <italic>J</italic> = 8.7, 5.3, 4.3 Hz, H-5), 3.44 (d, 1H, <italic>J</italic> = 3.6, Hz, H-2 or H-3), 3.55 (d, 1H, <italic>J</italic> = 3.6 Hz, H-2 or H-3), 3.58 (dd, 1H, <italic>J</italic> = 9.4, 4.3 Hz, H-6), 3.70 (dd, 1H, <italic>J</italic> = 9.4, 5.3 Hz, H-6), 3.87 (d, 1H, <italic>J</italic> = 8.7 Hz, H-4), 5.11 (s, 1H, H-1), 7.32-7.46 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -5.3 (SiMe), -5.2 (SiMe), 18.5 (<italic>C</italic>Me<sub>3</sub>), 26.2 (C<italic>Me</italic><sub>3</sub>), 51.9 and 55.3 (C-2, C-3), 66.3 (C-6), 66.9, 69.4, and 72.9 (C-1, C-4, C-5), 128.6, 128.9, 129.1 and 136.8 (C<sub>arom</sub>).</p>
+        <p><italic>(4,6-Di-O-tert-butyldimethylsilyl-2,3-anhydro-&#x3B2;-D-allopyranosyl)benzene</italic> (<bold>8a</bold>). Yield 32%, oil, <italic>R</italic><sub>f</sub> 0.22 (petroleum ether-ethyl acetate-triethylamine 50:1:1), [&#x3B1;]<sub>D</sub><sup>20</sup> +116 (<italic>c</italic> 1.2, CH<sub>2</sub>Cl<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 0.02 (s, 3H, SiMe), 0.03 (s, 3H, Me, 0.17 (s, 3H, SiMe), 0.19 (s, 3H, SiMe), 0.90 (s, 9H, CMe<sub>3</sub>), 0.95 (s, 9H, CMe<sub>3</sub>), 3.33-3.40 (m, 2H, H-2, H-3), 3.49 (ddd, 1H, <italic>J</italic> = 9.0, 2.9, 2.7 Hz, H-5), 3.77-3.88 (m, 2H, H-6), 4.27 (dd, 1H, <italic>J</italic> = 9.0, 1.5 Hz, H-4), 4.90 (s, 1H, H-1), 7.29-7.44 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -5.2 (SiMe), -5.1 (SiMe), -4.7 (SiMe), -4.2 (SiMe), 18.1 (<italic>C</italic>Me<sub>3</sub>), 18.4 (<italic>C</italic>Me<sub>3</sub>), 25.8 (C<italic>Me</italic><sub>3</sub>), 26.0 (C<italic>Me</italic><sub>3</sub>), 55.4 and 60.5 (C-2, C-3), 62.3 (C-6), 65.9 (C-4), 74.7 (C-5), 76.0 (C-1), 126.6, 127.9, 128.4 and 139.7 (C<sub>arom</sub>); Anal. calcd for C<sub>24</sub>H<sub>42</sub>O<sub>4</sub>Si<sub>2</sub>: C, 63.95; H, 9.39. Found: C, 63.93; H, 9.34.</p>
+        <p><italic>(4,6-Di-O-tert-butyldimethylsilyl-2,3-anhydro-&#x3B2;-D-mannopyranosyl)benzene</italic> (<bold>9a</bold>). Yield 20%, oil, <italic>R</italic><sub>f</sub> 0.18 (petroleum ether-ethyl acetate-triethylamine 50:1:1), [&#x3B1;]<sub>D</sub><sup>20</sup> +89 (<italic>c</italic> 1.1, CH<sub>2</sub>Cl<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 0.01 (s, 3H, SiMe), 0.04 (s, 3H, SiMe), 0.15 (s, 3H, SiMe), 0.19 (s, 3H, SiMe), 0.88 (s, 9H, CMe<sub>3</sub>), 0.94 (s, 9H, CMe<sub>3</sub>), 3.22 (ddd, 1H, <italic>J</italic> = 9.1, 5.1, 2.0 Hz, H-5), 3.33-3.40 (s, 2H, H-2, H-3), 3.72 (dd, 1H, <italic>J</italic> = 11.5, 5.1 Hz, H-6), 3.83 (dd, 1H, <italic>J</italic> = 11.5, 2.0 Hz, H-6), 3.90 (d, 1H, <italic>J</italic> = 9.1 Hz, H-4), 4.83 (s, 1H, H-1), 7.30-7.48 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -5.1 (2xSiMe), -4.9 (SiMe), -4.4 (SiMe), 18.0 (<italic>C</italic>Me<sub>3</sub>), 18.5 (<italic>C</italic>Me<sub>3</sub>), 25.8 (C<italic>Me</italic><sub>3</sub>), 26.0 (C<italic>Me</italic><sub>3</sub>), 53.4 and 57.4 (C-2, C-3), 62.6 (C-4), 63.1 (C-6), 75.7 (C-5), 80.5 (C-1), 128.0, 128.3, 128.4 and 138.7 (C<sub>arom</sub>); Anal. calcd for C<sub>24</sub>H<sub>42</sub>O<sub>4</sub>Si<sub>2</sub>: C, 63.95; H, 9.39. Found: C, 63.95; H, 9.38.</p>
+        <p><italic>(2,3-Anhydro-&#x3B2;-D-allopyranosyl)benzene</italic> (<bold>8b).</bold> Yield 80%, oil, <italic>R</italic><sub>f</sub> 0.26 (diethyl ether); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 2.80 (bs, 2H, OH), 3.46 (d, 1H, <italic>J</italic> = 4.4 Hz, H-2), 3.50-3.58 (m, 2H, H-3, H-5), 3.78 (dd, 1H, <italic>J</italic> = 11.7, 5.5 Hz, H-6), 3.90 (dd, 1H, <italic>J</italic> = 11.7, 3.7 Hz, H-6), 4.10 (dd, 1H, <italic>J</italic> = 9.2, 1.8 Hz, H-4), 4.89 (s, 1H, H-1), 7.25-7.50 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 54.9 and 60.3 (C-2, C-3), 62.4 (C-6), 65.9 (C-4), 74.0 (C-5), 76.3 (C-1), 126.7, 128.4, 128.7 and 138.7 (C<sub>arom</sub>); Anal. calcd for C<sub>12</sub>H<sub>14</sub>O<sub>4</sub>: C, 64.85; H, 6.35. Found: C, 64.94; H, 6.28.</p>
+        <p><italic>(6-O-tert-Butyldimethylsilyl-2,3-anhydro-&#x3B2;-D-allopyranosyl)benzene</italic> (<bold>10</bold>). Yield 50%, oil, <italic>R</italic><sub>f</sub> 0.32 (petroleum ether-diethyl ether 2:1), [&#x3B1;]<sub>D</sub><sup>20</sup> +100 (<italic>c</italic> 0.9, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 0.10 (s, 6H, SiMe), 0.93 (s, 9H, CMe<sub>3</sub>), 3.32 (d, 1H, <italic>J</italic> = 3.9 Hz, OH), 3.44 (d, 1H, <italic>J</italic> = 4.3 Hz, H-2), 3.57 (dd, 1H, <italic>J</italic> = 4.3, 2.2 Hz, H-3), 3.60 (ddd, 1H, <italic>J</italic> = 9.0, 6.9, 4.9 Hz, H-5), 3.79 (dd, 1H, <italic>J</italic> = 10.1, 6.9 Hz, H-6), 3.96 (dd, 1H, <italic>J</italic> = 10.1, 4.9 Hz, H-6), 4.19 (ddd, 1H, <italic>J</italic> = 9.0, 3.9, 2.2 Hz, H-4), 4.91 (s, 1H, H-1), 7.38 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -1.3 (2xSiMe), 18.7 (<italic>C</italic>Me<sub>3</sub>), 26.3 (C<italic>Me</italic><sub>3</sub>), 55.2 and 57.7 (C-2, C-3), 65.0 (C-6), 67.6 (C-4), 71.4 (C-5), 72.1 (C-1), 127.0, 128.1, 128.8 and 138.8 (C<sub>arom</sub>); Anal. calcd for C<sub>18</sub>H<sub>28</sub>O<sub>4</sub>Si: C, 64.25; H, 8.39. Found: C, 64.28; H, 8.79.</p>
+      </sec>
+      <sec>
+        <title>General procedure for the bis-hydroxylation.</title>
+        <p>A solution of the unsaturated carbohydrate (1 mmol), <italic>N</italic>-methylmorpholine oxide (470 mg, 4 mmol), and OsO<sub>4</sub> (5 mg,0.02 mmol, 2%) in acetone/water (4 mL/1 mL) was stirred at rt until all the starting carbohydrate has disappeared as shown by TLC. Na<sub>2</sub>SO<sub>3</sub> (500 mg) was then added, and the solution was stirred at rt for 0.5 h. After addition of brine (10 mL), the mixture was extracted with ethyl acetate (3x10 mL). Evaporation of the solvent under reduced pressure gave a residue that was purified by column chromatography on silica using the corresponding eluent for the silylated products. When starting from dihydroxy compounds <bold>2a</bold> and <bold>2b</bold>, the crude mixture was directly acetylated using a standard procedure, and the tetraacetates were purified by chromatography.</p>
+        <p><italic>(4,6-Di-O-tert-butyldimethylsilyl-&#x3B1;-D-mannopyranosyl)benzene</italic> (<bold>11</bold>). Yield 70%, oil, <italic>R</italic><sub>f</sub> 0.40 (petroleum ether-ethyl acetate 4:1), [&#x3B1;]<sub>D</sub><sup>20</sup> +17 (<italic>c</italic> 1.0, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 0.04 (s, 3H, SiMe), 0.06 (s, 3H, SiMe), 0.08 (s, 3H, SiMe), 0.10 (s, 3H, SiMe), 0.85 (s, 9H, CMe<sub>3</sub>), 0.95 (s, 9H, CMe<sub>3</sub>), 2.25 (bs, 1H, OH), 2.25 (d, 1H, <italic>J</italic> = 7.4 Hz, OH), 3.60 (ddd, 1H, <italic>J</italic> = 5.9, 5.0, 3.7 Hz, H-5), 3.74 (ddd, 1H, <italic>J</italic> = 7.4, 6.6, 2.9 Hz, H-3), 3.80 (dd, 1H, <italic>J</italic> = 11.0, 5.0 Hz, H-6), 3.96 (dd, 1H, <italic>J</italic> = 6.6, 5.9 Hz, H-4), 4.03 (dd, 1H, <italic>J</italic> = 11.0, 3.7 Hz, H-6), 4.27 (bdd, 1H, <italic>J</italic> = 5.9, 2.9 Hz, H-2), 4.90 (d, 1H, <italic>J</italic> = 5.9 Hz, H-1), 7.40 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -5.0 (SiMe), -4.9 (SiMe), -4.5 (SiMe), -4.0 (SiMe), 18.5 (<italic>C</italic>Me<sub>3</sub>), 18.7 (<italic>C</italic>Me<sub>3</sub>), 26.2 (2xC<italic>Me</italic><sub>3</sub>), 64.4 (C-6), 70.8, 71.2 and 72.2 (C-1, C-4, C-5), 77.6, and 77.7 (C-2, C-3), 127.3, 128.3, 129.0 and 138.7 (C<sub>arom</sub>); Anal. calcd for C<sub>24</sub>H<sub>44</sub>O<sub>5</sub>Si<sub>2</sub>: C, 61.50; H, 9.47. Found: C, 61.50; H, 9.77.</p>
+        <p><italic>(2,3,4,6-Tetra-O-acetyl-&#x3B1;-D-mannopyranosyl)benzene</italic> (<bold>12</bold>). Yield 43%, white solid, m.p. 136 &#xB0;C, <italic>R</italic><sub>f</sub> 0.60 (petroleum ether-ethyl acetate 1:1), [&#x3B1;]<sub>D</sub><sup>20</sup> +46 (<italic>c</italic> 1.0, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 2.01 (s, 3H, Me), 2.06 (s, 3H, Me), 2.13 (s, 3H, Me), 2.17 (s, 3H, Me), 3.77 (ddd, 1H, <italic>J</italic> = 8.8, 6.1, 2.6 Hz, H-5), 4.14 (dd, 1H, <italic>J</italic> = 12.0, 6.1 Hz, H-6), 4.38 (dd, 1H, <italic>J</italic> = 12.0, 2.6 Hz, H-6), 5.12 (d, 1H, <italic>J</italic> = 2.9 Hz, H-1), 5.17 (dd, 1H, <italic>J</italic> = 9.1, 3.1 Hz, H-3), 5.35 (dd, 1H, <italic>J</italic> = 9.1, 8.8 Hz, H-4), 6.20 (dd, 1H, <italic>J</italic> = 3.1, 2.9 Hz, H-2), 7.35-7.55 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 21.1 (2xMe), 21.2 (Me), 21.4 (Me), 62.8 (C-6), 67.2 (C-4), 69.6 (C-2), 70.1 (C-3), 71.5 (C-5), 76.2 (C-1), 126.8, 128.9, 129.5 and 135.6 (C<sub>arom</sub>), 170.0 (CO), 170.3 (CO), 170.7 (CO), 171.1 (CO). All the data are in agreement with the literature [<xref ref-type="bibr" rid="B21-molecules-10-00859">21</xref>].</p>
+        <p><italic>(4,6-Di-O-tert-butyldimethylsilyl-&#x3B2;-D-mannopyranosyl)benzene</italic> (<bold>13</bold>) (as a mixture with <bold>14</bold>). Yield 56%, oil, <italic>R</italic><sub>f</sub> 0.45 (petroleum ether-ethyl acetate 4:1); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 0.10 (s, 3H, SiMe), 0.14 (s, 3H, SiMe), 0.15 (s, 3H, SiMe), 0.19 (s, 3H, SiMe), 0.93 (s, 9H, CMe<sub>3</sub>), 0.94 (s, 9H, CMe<sub>3</sub>), 1.70 (bs, 1H, OH), 2.40 (bs, 1H, OH), 3.31 (ddd, 1H, <italic>J</italic> = 9.2, 5.5, 2.9 Hz, H-5), 3.66 (dd, 1H, <italic>J</italic> = 8.8, 3.3 Hz, H-3), 3.88 (dd, 1H, <italic>J</italic> = 9.2, 8.8 Hz, H-4), 3.93 (m, 2H, H-6), 4.06 (d, 1H, <italic>J</italic> = 3.3 Hz, H-2), 4.60 (s, 1H, H-1), 7.28 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -5.1 (CH<sub>3</sub>), -5.0 (CH<sub>3</sub>), -4.8 (CH<sub>3</sub>), -4.0 (CH<sub>3</sub>), 18.4 (<italic>C</italic>Me<sub>3</sub>), 18.5 (<italic>C</italic>Me<sub>3</sub>), 26.0 (C<italic>Me</italic><sub>3</sub>), 26.1 (C<italic>Me</italic><sub>3</sub>), 62.3 (C-6), 69.1, 73.1, and 76.3 (C-1, C-4, C-5), 79.4 and 81.5 (C-2, C-3), 126.0, 127.7, 128.4 and 138.0 (C<sub>arom</sub>); Anal. calcd for C<sub>24</sub>H<sub>44</sub>O<sub>5</sub>Si<sub>2</sub> (mixture <bold>13</bold> + <bold>14</bold>): C, 61.50; H, 9.47. Found: C, 61.86; H, 9.31.</p>
+        <p><italic>(4,6-Di-O-tert-butyldimethylsilyl-&#x3B2;-D-allopyranosyl)benzene</italic> (<bold>14</bold>) (as a mixture with <bold>13</bold>). Yield 14%, oil, <italic>R</italic><sub>f</sub> 0.45 (petroleum ether-ethyl acetate 4:1); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 0.00 (s, 3H, SiMe), 0.03 (s, 3H, SiMe), 0.07 (s, 3H, SiMe), 0.16 (s, 3H, SiMe), 0.90 (s, 9H, CMe<sub>3</sub>), 0.93 (s, 9H, CMe<sub>3</sub>), 1.50 (bs, 1H, OH), 2.60 (bs, 1H, OH), 3.50 (dd, 1H, <italic>J</italic> = 9.9, 2.9 Hz, H-2), 3.61 (ddd, 1H, <italic>J</italic> = 9.5, 2.9, 1.5 Hz, H-5), 3.80 (dd, 1H, <italic>J</italic> = 11.4, 2.9 Hz, H-6), 3.87 (dd, 1H, <italic>J</italic> = 11.4, 1.5 Hz, H-6), 4.01 (dd, 1H, <italic>J</italic> = 9.5, 2.9 Hz, H-4), 4.20 (dd, 1H, <italic>J</italic> = 2.9, 2.9 Hz, H-3), 4.50 (d, 1H, <italic>J</italic> = 9.9 Hz, H-1), 7.40 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; -5.2 (CH<sub>3</sub>), -5.0 (CH<sub>3</sub>), -4.8 (CH<sub>3</sub>), -4.5 (CH<sub>3</sub>), 18.0 (<italic>C</italic>Me<sub>3</sub>), 18.2 (<italic>C</italic>Me<sub>3</sub>), 25.8 (C<italic>Me</italic><sub>3</sub>), 26.0 (C<italic>Me</italic><sub>3</sub>), 62.2 (C-6), 67.8, 71.5 and 73.1 (C-1, C-4, C-5), 76.1 and 77.6 (C-2, C-3), 127.4, 128.0, 128.2 and 137.0 (C<sub>arom</sub>).</p>
+        <p><italic>(2,3,4,6-Tetra-O-acetyl-&#x3B2;-D-mannopyranosyl)benzene</italic> (<bold>15</bold>) (as a mixture with <bold>16</bold>). Yield 19%, oil, <italic>R</italic><sub>f</sub> 0.30 (petroleum ether-ethyl acetate 1:1); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 2.00 (s, 3H, Me), 2.03 (s, 3H, Me), 2.11 (s, 3H, Me), 2.20 (s, 3H, Me), 3.83 (ddd, 1H, <italic>J</italic> = 9.5, 5.9, 2.6 Hz, H-5), 4.21-4.30 (m, 1H, H-6), 4.35 (dd, 1H, <italic>J</italic> = 12.5, 5.9 Hz, H-6), 4.79 (d, 1H, <italic>J</italic> = 1.1 Hz, H-1), 5.25 (dd, 1H, <italic>J</italic> = 10.2, 3.3 Hz, H-3), 5.33 (dd, 1H, <italic>J</italic> = 10.2, 9.5 Hz, H-4), 5.55 (dd, 1H, <italic>J</italic> = 3.3, 1.1 Hz, H-2), 7.30 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 20.2 (Me), 20.3 (Me), 20.8 (Me), 21.0 (Me), 60.4 (C-6), 66.6 (C-4), 73.1 (C-2), 77.3 (C-3), 77.4 (C-5), 81.8 (C-1), 127.2, 128.7, 129.2, and 136.3 (C<sub>arom</sub>), 168.7 (CO), 168.9 (CO), 169.2 (CO), 170.6 (CO). All data are in agreement with the literature [<xref ref-type="bibr" rid="B21-molecules-10-00859">21</xref>].</p>
+        <p><italic>(2,3,4,6-Tetra-O-acetyl-&#x3B2;-D-allopyranosyl)benzene</italic> (<bold>16</bold>) (as a mixture with <bold>15</bold>). Yield 56%, oil, <italic>R</italic><sub>f</sub> 0.30 (petroleum ether-ethyl acetate 1:1); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 1.80 (s, 3H, Me), 2.03 (s, 3H, Me), 2.08 (s, 3H, Me), 2.23 (s, 3H, Me), 4.15-4.27 (m, 3H, H-5, H-6), 4.71 (d, 1H, <italic>J</italic> = 10.3 Hz, H-1), 5.03 (dd, 1H, <italic>J</italic> = 10.3, 2.9 Hz, H-2), 5.12 (dd, 1H, <italic>J</italic> = 9.9, 2.6 Hz, H-4), 5.73 (dd, 1H, <italic>J</italic> = 2.9, 2.6 Hz, H-3), 7.35-7.43 (m, 5H, H<sub>arom</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 20.4 (Me), 20.6 (Me), 20.8 (Me), 21.4 (Me), 62.8 (C-6), 66.6 (C-4), 68.5 (C-2), 70.6 (C-3), 71.4 (C-5), 76.2 (C-1), 126.9, 127.2, 128.4 and 136.9 (C<sub>arom</sub>), 168.8 (CO), 169.2 (CO), 170.0 (CO), 170.8 (CO).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00859">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hacksell</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Davies</surname>
+              <given-names>G. D.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+          </person-group>
+          <article-title>The chemistry and biochemistry of <italic>C</italic>-nucleosides and <italic>C</italic>-arylglycosides</article-title>
+          <source>Prog. Med. Chem.</source>
+          <year>1985</year>
+          <volume>22</volume>
+          <fpage>1</fpage>
+          <lpage>65</lpage>
+          <pub-id pub-id-type="pmid">3915364</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00859">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Faul</surname>
+              <given-names>M. M.</given-names>
+            </name>
+            <name>
+              <surname>Huff</surname>
+              <given-names>B. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Strategy and methodology development for the total synthesis  of polyether ionophore antibiotics</article-title>
+          <source>Chem. Rev.</source>
+          <year>2000</year>
+          <volume>100</volume>
+          <fpage>2407</fpage>
+          <lpage>2473</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr940210s</pub-id>
+          <pub-id pub-id-type="pmid">11749289</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00859">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Faulkner</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Marine natural products</article-title>
+          <source>Nat. Prod. Rep.</source>
+          <year>2000</year>
+          <volume>17</volume>
+          <fpage>7</fpage>
+          <lpage>55</lpage>
+          <pub-id pub-id-type="doi">10.1039/a809395d</pub-id>
+          <pub-id pub-id-type="pmid">10714898</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00859">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lewis</surname>
+              <given-names>M. D.</given-names>
+            </name>
+            <name>
+              <surname>Cha</surname>
+              <given-names>J. K.</given-names>
+            </name>
+            <name>
+              <surname>Kishi</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Highly stereoselective approaches to &#x3B1;- and &#x3B2;-<italic>C</italic>-glycopyranosides</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1982</year>
+          <volume>104</volume>
+          <fpage>4976</fpage>
+          <lpage>4978</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00382a053</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00859">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paterson</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Keown</surname>
+              <given-names>L. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies in marine macrolide synthesis: Stereocontrolled synthesis of the F-ring subunit of spongistatin 1 (altohyrtin A)</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1997</year>
+          <volume>38</volume>
+          <fpage>5727</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(97)01257-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00859">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Horita</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Sakurai</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nagasawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hachiya</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yonemitsu</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chiral synthesis of polyketide-derived natural products. 48. Synthetic studies of halichondrin B, an antitumor polyether macrolide isolated from a marine sponge. 3. Synthesis of C27-C36 subunit via completely stereoselective <italic>C</italic>-glycosylation to the F ring</article-title>
+          <source>Synlett</source>
+          <year>1994</year>
+          <fpage>43</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1994-22732</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00859">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kwok</surname>
+              <given-names>D.-I.</given-names>
+            </name>
+            <name>
+              <surname>Farr</surname>
+              <given-names>R. N.</given-names>
+            </name>
+            <name>
+              <surname>Daves</surname>
+              <given-names>G. D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium-mediated coupling of a 3-deoxy pyranoid glycal: stereochemistry of <italic>C</italic>-glycosyl bond formation</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1991</year>
+          <volume>56</volume>
+          <fpage>3711</fpage>
+          <lpage>3713</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00011a049</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00859">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Czernecki</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Dechavanne</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>C</italic>-glycoside synthesis by palladium-mediated glycal-aglycon coupling reactions</article-title>
+          <source>Can. J. Chem.</source>
+          <year>1983</year>
+          <volume>61</volume>
+          <fpage>533</fpage>
+          <lpage>540</lpage>
+          <pub-id pub-id-type="doi">10.1139/v83-093</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00859">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunkerton</surname>
+              <given-names>L. V.</given-names>
+            </name>
+            <name>
+              <surname>Serino</surname>
+              <given-names>A. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium-assisted <italic>C</italic>-glycosylation. Addition of carbanions to cyclic enol ethers</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1982</year>
+          <volume>47</volume>
+          <fpage>2812</fpage>
+          <lpage>2814</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00135a035</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00859">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunkerton</surname>
+              <given-names>L. V.</given-names>
+            </name>
+            <name>
+              <surname>Euske</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Serino</surname>
+              <given-names>A. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium-assisted reactions.  III.  Palladium(0)- assisted synthesis of <italic>C</italic>-glycopyranosyl compounds</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>1987</year>
+          <volume>171</volume>
+          <fpage>89</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0008-6215(00)90881-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00859">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Daves</surname>
+              <given-names>G. D.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+          </person-group>
+          <article-title><italic>C</italic>-Glycoside synthesis by palladium-mediated glycal-aglycon coupling reactions</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>1990</year>
+          <volume>23</volume>
+          <fpage>201</fpage>
+          <lpage>206</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar00174a006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00859">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moineau</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Bolitt</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Sinou</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of &#x3B1;- and &#x3B2;-<italic>C</italic>-aryl &#x394;<sup>2</sup>-glycopyranosides from <italic>p-tert</italic>-butylphenyl &#x394;<sup>2</sup>-glycopyranosides <italic>via</italic> Grignard reagents</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1998</year>
+          <volume>63</volume>
+          <fpage>582</fpage>
+          <lpage>597</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo9714674</pub-id>
+          <pub-id pub-id-type="pmid">11672048</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00859">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramnauth</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Poulin</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Rakhit</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Maddaford</surname>
+              <given-names>S. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium(II) acetate  catalyzed stereoselective <italic>C</italic>-glycosidation of peracetylated glycals with arylboronic acids</article-title>
+          <source>Org. Lett.</source>
+          <year>2001</year>
+          <volume>3</volume>
+          <fpage>2013</fpage>
+          <lpage>2015</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol010070q</pub-id>
+          <pub-id pub-id-type="pmid">11418037</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00859">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Price</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Minehan</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of <italic>C</italic>-aryl-&#x394;<sup>2,3</sup>-glycopyranosides <italic>via</italic> uncatalyzed addition of triarylindium reagents to glycals</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2004</year>
+          <volume>45</volume>
+          <fpage>5197</fpage>
+          <lpage>5201</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2004.05.046</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00859">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferrier</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name>
+              <surname>Prasad</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Unsaturated carbohydrates. Part X. Epoxidations and hydroxylations of 2,3-dideoxy-&#x3B1;-<bold><sc>d</sc></bold>-hex-2-enopyranosides. The four methyl 4,6-di-<italic>O</italic>-acetyl-2,3-anhydro-&#x3B1;-<bold><sc>d</sc></bold>-hexopyranosides</article-title>
+          <source>J. Chem. Soc. (C)</source>
+          <year>1969</year>
+           <fpage>575</fpage>
+          <lpage>580</lpage>
+          <pub-id pub-id-type="doi">10.1039/j39690000575</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00859">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Fakha</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sinou</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stereoselective synthesis of <italic>C</italic>-glycosyl analogues of phenylalanine</article-title>
+          <source>Tetrahedron</source>
+          <year>2002</year>
+          <volume>58</volume>
+          <fpage>7539</fpage>
+          <lpage>7544</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(02)00831-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00859">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Buss</surname>
+              <given-names>D. H.</given-names>
+            </name>
+            <name>
+              <surname>Hough</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>L. D.</given-names>
+            </name>
+            <name>
+              <surname>Manville</surname>
+              <given-names>J. F.</given-names>
+            </name>
+          </person-group>
+          <article-title>A proton magnetic resonance study of carbohydrate 2,3-epoxides and related compounds</article-title>
+          <source>Tetrahedron</source>
+          <year>1965</year>
+          <volume>21</volume>
+          <fpage>69</fpage>
+          <lpage>74</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(01)82203-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00859">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herscovici</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Muleka</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Bouma&#xEF;za</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Antonakis</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>C</italic>-Glycoside synthesis <italic>via</italic> glycal alkylation by olefinic derivatives</article-title>
+          <source>J. Chem. Soc., Perkin Trans. 1</source>
+          <year>1990</year>
+          <fpage>1995</fpage>
+          <lpage>2009</lpage>
+          <pub-id pub-id-type="doi">10.1039/p19900001995</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00859">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stevens</surname>
+              <given-names>C. L.</given-names>
+            </name>
+            <name>
+              <surname>Filippi</surname>
+              <given-names>J. B.</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>K. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hydroxylation of ethyl 2,3-didehydro-2,3-dideoxy-&#x3B1;- <bold><sc>d</sc></bold>-glucopyranoside</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1966</year>
+          <volume>31</volume>
+          <fpage>1292</fpage>
+          <lpage>1293</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo01342a513</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00859">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fraser-Reid</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Molino</surname>
+              <given-names>B. F.</given-names>
+            </name>
+            <name>
+              <surname>Magdzinski</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Mootoo</surname>
+              <given-names>D. R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tripyranoside  precursors  for ansamycins. Pyranosidic homologation</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1987</year>
+          <volume>52</volume>
+          <fpage>4505</fpage>
+          <lpage>4511</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00229a014</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00859">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bellosta</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Chassagnard</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Czernecki</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural studies by <sup>1</sup>H- and <sup>13</sup>C-n.m.r. spectroscopy and circular dichroism of acetylated &#x3B1;- and &#x3B2;-<bold><sc>d</sc></bold>-gluco- and &#x2013;manno-pyranosylarenes</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>1991</year>
+          <volume>219</volume>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1016/0008-6215(91)89037-G</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability:</italic> Available from the authors</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

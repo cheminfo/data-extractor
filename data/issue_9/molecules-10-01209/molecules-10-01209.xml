@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10091209</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01209</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis, Tautomeric States and Crystal Structure of (Z)-Ethyl 2- Cyano-2-(3H-Quinazoline-4-ylidene) Acetate and (Z)-Ethyl 2-Cyano-2- (2-Methyl-3H-Quinazoline-4-ylidene) Acetate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tulyasheva</surname>
+            <given-names>Muborak</given-names>
+          </name>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Rasulev</surname>
+            <given-names>Bakhtiyor  F.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-01209" ref-type="corresp">*</xref>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Tojiboev</surname>
+            <given-names>Akmal G.</given-names>
+          </name>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Turgunov</surname>
+            <given-names>Kambarali K.</given-names>
+          </name>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Tashkhodjaev</surname>
+            <given-names>Bakhodir</given-names>
+          </name>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Abdullaev</surname>
+            <given-names>Nasrulla  D.</given-names>
+          </name>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Shakhidoyatov</surname>
+            <given-names>Khusnutdin M.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01209">Institute of the Chemistry of Plant Substances AS RUz, Kh. Abdullaev str., 77, Tashkent, 700170, Uzbekistan. Fax: (+998 71) 1206475</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01209"><label>*</label>To whom correspondence should be addressed; email: <email>bakhrasu@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+      <fpage>1209</fpage>
+      <lpage>1217</lpage>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>29</day>
+          <month>06</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>06</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The new compounds (Z)-ethyl 2-cyano-2-(3H- and 2-methyl-3H-quinazoline- 4-ylidene) acetate (<bold>1</bold> and <bold>2,</bold> respectively) were synthesized by multi-step reactions. The structures in a solution have been determined by <sup>1</sup>H-NMR spectroscopy and in the crystal form by X-ray analysis. Molecule <bold>1</bold> crystallized in a primitive monoclinic cell, space group &#x420;2<sub>1</sub>/c. The cell dimensions are a=7.970(6) &#xC5;, b=7.061(2) &#xC5;, c=20.537(7) &#xC5;, &#x3B2;=97.69(5)&#xB0;, V=1145.3(10) &#xC5;<sup>3</sup>. Molecule <bold>2</bold> crystallized in a triclinic cell, space group P1, the cell dimensions are a=8.196(5) &#xC5;, b=8.997(6) &#xC5;, c=9.435(4) &#xC5;, &#x3B1;=74.22(4)&#xB0;, &#x3B2;=89.75(4)&#xB0;, &#x3B3;=74.07(5)&#xB0;, V=641.9(6) &#xC5;<sup>3</sup>. In both compounds the presence of intramolecular NH---O=C hydrogen bonding between the nitrogen atom in position 3 of the quinazoline ring and a carbonyl group of the ethyl cyanoacetate residue was proven by quantum-chemical, <sup>1</sup>H-NMR and X-ray methods.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Quinazolines</kwd>
+		<kwd>activated methylene groups</kwd>
+		<kwd>intramolecular hydrogen bonding</kwd>
+		<kwd>tautomery</kwd>
+		<kwd>quantum-chemical calculations</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molecules-10-01209" sec-type="intro">
+      <title>Introduction</title>
+      <p>From a theoretical perspective quinazolines are undoubtedly of interest as topics for study because they are multipurpose heterocyclic systems with multiple reactive centers. Among them are found a series of highly effective agricultural compounds, such as fungicides, bactericides, defoliants and plant growth stimulants [<xref ref-type="bibr" rid="B1-molecules-10-01209">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-01209">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-01209">3</xref>]. Compounds of this class also are used as medicinal drugs with various pharmacological activities [<xref ref-type="bibr" rid="B4-molecules-10-01209">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-01209">5</xref>]. It is known that pyrimidine system derivatives that contain activated methylene group residues can exist in different tautomeric forms [<xref ref-type="bibr" rid="B6-molecules-10-01209">6</xref>]. The tautomeric state of these substances depends on nature of the substituent&#x2019;s functional group at the C2 atom, the substituent at positions C5 and C6, solvent nature and other factors. There was no data in the literature concerning the tautomeric states of pyrimidine derivatives and their benzene analogs (quinazolines), having substituents at C4 [<xref ref-type="bibr" rid="B7-molecules-10-01209">7</xref>]. Because of this the study of possible tautomeric forms of 2-substituted quinazolines containing compounds with an activated methylene group at C4 is of theoretical interest. Moreover, the study of influence on tautomery of the substituent properties at the C-2 position is also interesting. In this paper the synthesis, study of tautomeric states (in solution &#x2013; by NMR spectroscopy, in crystal state &#x2013;by X-ray analysis) and the quantum-chemical justification of the presence of tautomeric forms is discussed.</p>
+    </sec>
+    <sec id="sec2-molecules-10-01209" sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Compounds <bold>1</bold> and <bold>2</bold> were obtained by nucleophilic substitution of 4-chloro-2-H(methyl)-3,4-dihydroquinazoline with ethyl cyanoacetate (<xref ref-type="fig" rid="molecules-10-01209-f001">Figure 1</xref>). The reactions proceeded smoothly in boiling dimethylformamide in the presence of sodium hydride for 3 hours, with the yields ranging from 60 up to 75 %.</p>
+      <fig id="molecules-10-01209-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Structural representation and reaction scheme of compounds <bold>1</bold> and <bold>2</bold></p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01209-g001.tif"/>
+      </fig>
+      <p>From a theoretical point of view these compounds can exist in three tautomeric forms (<xref ref-type="fig" rid="molecules-10-01209-f002">Figure 2</xref>).</p>
+      <fig id="molecules-10-01209-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Possible tautomeric states for compounds <bold>1</bold> and <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01209-g002.tif"/>
+      </fig>
+      <p>Moreover, in tautomeric forms <bold>A</bold> and <bold>B</bold> two geometrical isomers &#x2013; the E and Z-forms - (i.e., the double bond conformers A&#x2019;, B&#x2019;) can exist (<xref ref-type="fig" rid="molecules-10-01209-f003">Figure 3</xref>).</p>
+      <fig id="molecules-10-01209-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>Two geometrical isomers of compounds <bold>1</bold> and <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01209-g003.tif"/>
+      </fig>
+      <p>NMR  and  X-ray  crystallography  were  used  to  elucidate  the  structures  of  the  products. The <sup>1</sup>H-NMR spectra have been interpreted on the basis of proton-proton correlations (<xref ref-type="fig" rid="molecules-10-01209-f004">Figure 4</xref>).</p>
+      <fig id="molecules-10-01209-f004" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p>NMR spectrum of compound 1 (zones A and B also shown in expanded view).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01209-g004.tif"/>
+      </fig>
+      <p>Both compounds have a downfield signal at 14.15 ppm, corresponding to the NH group in position 3. The downfield shift of the NH signal testifies to the interaction of the NH group proton with the oxygen atom of the carbonyl group of the substituent at C4. However, in this case the strong intramolecular NH--O=C hydrogen bonding also confirms the presence in solution of the tautomeric form <bold>B</bold> (<xref ref-type="fig" rid="molecules-10-01209-f005">Figure 5</xref>). If there were a significant presence of tautomer <bold>A</bold> at room temperature the NH group signal would be observed at more strong fields, near 10-12 ppm, but not such peak is observed.</p>
+      <fig id="molecules-10-01209-f005" position="float">
+        <label>Figure 5</label>
+        <caption>
+          <p>Intramolecular hydrogen bond formation</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01209-g005.tif"/>
+      </fig>
+      <p>The downfield shift of the H5 proton signal (approximately by 1.5 ppm) in comparison with the signals of the other aromatic protons in both compounds may be explained  by  the  close  spatial presence of the CN group, which causes a deshielding effect due to carbon-nitrogen &#x3C0;-bonding (<xref ref-type="fig" rid="molecules-10-01209-f006">Figure 6</xref>). With the purpose of obtaining unambiguous evidence of the structures and determination of their conformations in crystal form the X-ray structural analysis of these substances was carried out. The determined structures are shown in <xref ref-type="fig" rid="molecules-10-01209-f006">Figure 6</xref>.</p>
+      <fig id="molecules-10-01209-f006" position="float">
+        <label>Figure 6</label>
+        <caption>
+          <p>ORTEP plots of compounds <bold>1</bold> and <bold>2</bold> in crystal state.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01209-g006.tif"/>
+      </fig>
+      <p>Interesting with regards to the tautomery question is the geometry of the pseudo-aromatic substituted pyrimidine ring, in particular of nodal atoms C2, C4 and C9. In compounds <bold>1</bold> and <bold>2</bold> the quinazoline skeleton with substituents in position C4 on the whole has a planar geometry to within 0.06 &#xC5; (with the exception of the &#x421;14 methyl group). The planarity of the molecules and the sum of valence angles (360&#xB0;) at C4 and C9 indicate that atoms &#x421;4 and &#x421;9 have sp<sup>2</sup>-hybridization. Further, by comparing the lengths of the valence bonds from nodal atoms C4 and C9, it is possible to note that the C4-&#x421;9 bonds (1.405 in <bold>1</bold> and 1.398 in <bold>2</bold>) are much shorter than a single bond and are identical to aromatic benzene ring bonds. These data indicate that the double bond is in the &#x421;4=&#x421;9 position.</p>
+      <p>By comparison of C2-N1 (1.276 in <bold>1</bold> and 1.290 in <bold>2</bold>) and C2-N3 bond lengths (1.360 in <bold>1</bold> and 1.366 in <bold>2</bold>) and the experimentally determined location of the &#x41D; atom at N3 we may state that in the molecules examined the formal double bond in pyrimidine ring is at N1=&#x421;2, like in the related quinazoline alkaloids [<xref ref-type="bibr" rid="B8-molecules-10-01209">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-01209">9</xref>]. Thus, in the crystalline state molecules <bold>1</bold> and <bold>2</bold> exist in the tautomeric form <bold>B</bold> with double bonds at positions N1=C2 and C4=C9. The trend towards averaging of these heterobonds in the pyrimidine ring specifies the presence of coupling between the &#x3C0;-electrons of the double bonds with the lone pair electrons of atoms N1 and N3.</p>
+      <p>The methyl groups (-&#x421;(14)H<sub>3</sub>) are located differently with regards to the plane of the quinazoline skeletons. In molecule <bold>1</bold> the methyl group is slightly turned out from this plane (the torsion angle is -175.8), while in <bold>2</bold> it is located practically perpendicular (-81.2) as a consequence of the effect of the packing factor. From <xref ref-type="fig" rid="molecules-10-01209-f006">Figure 6</xref> it is seen that molecules are in the Z  form.  The  planarity  of  the molecules and the Z-form of the cyanoacetate ester substituent in position &#x421;4 favors the formation of intramolecular H-bonding, such as N-H...O, between the relatively syn-located atoms N3 and  O1 (N3...O1 distance 2.594 and 2.592 &#xC5;, H...O 1.844 and 1.782 &#xC5;, N3-H-O1 angle 140.82 and 140.66&#xB0;, respectively, in <bold>1</bold> and <bold>2</bold>).</p>
+      <sec id="sec2dot1-molecules-10-01209">
+        <title>Determination of the most stable tautomeric form of compound <bold>1</bold> by a computational approach.</title>
+        <p>The ability of the MNDO [<xref ref-type="bibr" rid="B10-molecules-10-01209">10</xref>], AM1 [<xref ref-type="bibr" rid="B11-molecules-10-01209">11</xref>], and PM3 [<xref ref-type="bibr" rid="B12-molecules-10-01209">12</xref>] semiempirical molecular orbital methods to reproduce the structure of a series of aromatic heterocycles has been examinated earlier. It has been found that AM1 parameters are superior to either MNDO or PM3 for this class of compounds [<xref ref-type="bibr" rid="B13-molecules-10-01209">13</xref>]. We chose the AM1 method, based on the structure  determination  mentioned  above,  to  be  the computational tool considered in the present study of 2-substituted quinazoline-4 derivatives. Therefore, the AM1 parameters could be a good choice for quinazoline derivatives from  both structural and energetic points of view. AM1 was thus used to calculate relative stability energies, dipole moments, charges on atoms, energies of HOMO and LUMO molecular orbitals, electrostatic potentials and electron densities on atoms.</p>
+        <p>No detailed structural information was available for any of these compounds, but it was interesting to see to what extent the relative stabilities within the various tautomers were reproduced by semiempirical method AM1 (<xref ref-type="table" rid="molecules-10-01209-t001">Table 1</xref>). The results of AM1 calculations for tautomerization energies are satisfactory and they exhibit a good correlation with the experimental data [<xref ref-type="bibr" rid="B14-molecules-10-01209">14</xref>]  so that its use is recommended, in particular for high molecular weight compounds [<xref ref-type="bibr" rid="B15-molecules-10-01209">15</xref>].</p>
+        <p>It is known, that the given compounds can be present in several tautomeric forms [<xref ref-type="bibr" rid="B16-molecules-10-01209">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-01209">17</xref>], corresponding to different protonation sites. In this case, 2-substituted-quinazoline-4 appears in 3 tautomeric forms as shown in <xref ref-type="fig" rid="molecules-10-01209-f002">Figure 2</xref>, at the ring nitrogen atoms (N1 or N3), and at the carbonyl atom of substituent (C9).</p>
+        <p>A check of which form from three possible tautomeric ones was the most stable has been carried out by a semiempirical calculation by AM1 method. For the tautomeric structures parameters such as heat of formation, dipole moment and ionization potential have been calculated (<xref ref-type="table" rid="molecules-10-01209-t001">Table 1</xref>).</p>
+        <table-wrap id="molecules-10-01209-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-01209-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>The Heat of formation (&#x2206;H<sub>f</sub>), Dipole moments and Ionization potentials for tautomeric forms (A-C) of compound <bold>1</bold>, calculated by AM1 in gas phase (&#x3B5;=1).</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin;border-top:solid thin">Tautomer</th>
+                <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin;border-top:solid thin">Ionization potential</th>
+                <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin;border-top:solid thin">Dipole moment, D</th>
+                <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin">Heat of formation, &#x2206;H<sub>f</sub> , (kcal/mol)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="top" style="border-right:solid thin"><bold>A</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">8.75</td>
+                <td align="center" valign="top" style="border-right:solid thin">6.80</td>
+                <td align="center" valign="top">15.14</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-right:solid thin"><bold>B</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">8.91</td>
+                <td align="center" valign="top" style="border-right:solid thin">2.79</td>
+                <td align="center" valign="top">7.09</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><bold>C</bold></td>
+                <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">9.74</td>
+                <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">4.45</td>
+                <td align="center" valign="top" style="border-bottom:solid thin">10.41</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p><xref ref-type="table" rid="molecules-10-01209-t001">Table 1</xref> shows that among the possible tautomers of compound <bold>1</bold> (tautomers <bold>A</bold> &#x2013; <bold>C</bold>, <xref ref-type="fig" rid="molecules-10-01209-f002">Figure 2</xref>) tautomer <bold>B</bold> is calculated to be significantly more stable as it possesses the minimal  energy.  The difference in relative energy between tautomers ranges from 3.32 - 8.05 kcal/mol. The formation of hydrogen bonding also is seen on orientation of the substituent in space in the  calculations.  In tautomers <bold>A</bold> and <bold>C</bold> it is located perpendicular to the quinazoline skeleton, and in tautomer <bold>B</bold> - planar. The C=O group is directed aside the NH proton (r =2.03 &#xC5;). The N-H&#xB7;&#xB7;&#xB7;O distance is rather short, implying a strong hydrogen bonding. Taking into account the similarity of the investigated structures, all these conclusions following from semiempirical calculations of compound <bold>1</bold> can also be applied to compound <bold>2</bold> with confidence.</p>
+      </sec>
+    </sec>
+    <sec id="sec3-molecules-10-01209" sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Syntheses of two quinazolines, distinguished by the type of the substituent at position 2 of the quinazoline rings, was carried out. By X-ray structural analysis and NMR spectroscopy methods it was shown that in molecules of (Z)-ethyl 2-cyano-2-(3H- and 2-methyl-3H-quinazolin-4-ylidene)acetate in the crystalline state and in solution the tautomeric form <bold>B</bold> with double bonds in positions N(1)=C(2) and C(4)=C(9) exists.</p>
+      <p>Formation of NH---O=C intramolecular hydrogen bonding makes the the form <bold>B</bold> the most stable and energetically favorable, which explains its preferred presence both as crystal and in solution. Semiempirical calculations on the AM1 level satisfactorily reproduce the energetics of the tautomeric equilibrium. The results clearly indicate that 2-substituted quinazoline-4 derivatives in the gas phase exist predominantly in the tautomeric form <bold>B</bold>. This result is in agreement with available experimental data in liquid phase (<sup>1</sup>H-NMR) and X-ray analysis.</p>
+    </sec>
+    <sec id="sec4-molecules-10-01209" sec-type="methods">
+      <title>Experimental</title>
+      <sec id="sec4dot1-molecules-10-01209">
+        <title>General</title>
+        <p>NMR spectra were obtained on a Tesla BS567A spectrometer (100 MHz), equipped with a 5-mm detector. Approximately 0.05M solutions of the  studied  compounds  in  deuterochloroform  (CDCl3) were used for recording of spectra at 25 &#xB0;C. TMS was utilized as the internal standard.</p>
+        <p><italic>(Z)-ethyl 2-cyano-2-(3H-quinazolin-4-ylidene)acetate</italic> (<bold>1</bold>). A mix of dimethylformamide (12 mL, 5.6 mmol), ethyl cyanoacetate (0.6 mL, 5.6 mmol) and sodium hydride (0.14 g, 5.6 mmol) was stirred at room temperature for 30 min., then 4-chlorquinazoline (0.92 g, 5.6 mmol) was added to the reaction mixture and the reaction was continued for about 8 hours at 110-115 &#xB0;&#x421;. After refrigerating, water was added  to  the reaction  mixture  and  the  crystals  formed  were  filtered  off.  The  aqueous  filtrate  was extracted with chloroform, the extract dried over anhydrous sodium sulphate and then the chloroform was distilled off. Recrystallization was from petroleum ester. Yield: 0.85g (63.5 %), m.p. 178-179 &#xB0;&#x421;; <sup>1</sup>H-NMR: 14.15 (1H, br.s, NH), 9.30 (1H, d, ArH, J=8.5 Hz; 1.3 Hz), 8.15 (d, 1H, H<sub>2</sub>, J=3 Hz), 7.90-7.42 (3H, m, ArH, J=8.5 Hz; 6 Hz; 3 Hz; 1.3 Hz), 4.30 (2H, q, OCH<sub>2</sub>, J=7.5 Hz), 1.55 (H, br. s., CH), 1.33 (3H, t., <underline>CH<sub>2</sub>CH<sub>3</sub></underline>, J=7.5 Hz)</p>
+        <p><italic>(Z)-ethyl 2-cyano-2-(2-methyl-3H-quinazolin-4-ylidene)acetate</italic> (<bold>2</bold>). A mixture of dimethylformamide (12 mL, 5.6 mmol), ethyl cyanoacetate (0.6 mL, 5.6 mmol) and sodium hydride (0.14 g, 5.6 mmol) was stirred at room temperature for 30 min. Then 2-methyl-4-chlorquinazoline (1g, 5.6 mmol) was added to the reaction mixture and the reaction was continued for about 8 hours at 110-115 &#xB0;&#x421;. After refrigerating water was added to the reaction mixture and the crystals formed were filtered off. The aqueous solution was extracted with chloroform, the extract dried over anhydrous sodium sulphate and the chloroform distilled off. Recrystallization was from heptane. Yield - 1g (71.5 %), m.p. 147-148 &#xB0;&#x421;. <sup>1</sup>H-NMR 14.15 (1H, br.s, NH), 9.05 (1H, d, ArH, J=7.6 Hz; 1.5 Hz), 7.75 (1H, m, ArH, J=8.5 Hz; 7.6 Hz; 1.3 Hz), 7.58 (1H, d, ArH, J=7.1 Hz; 2.1 Hz), 7.42 (1&#x41D;, m, ArH, J=8.5 Hz; 7.1 Hz; 2.1), 4.26 (2H, q, OCH<sub>2</sub>, J=7.5 Hz), 2.50 (3H, br. s., 2-CH3), 1.33 (3H, t., <underline>CH<sub>2</sub>CH<sub>3</sub></underline>, J=7.5 Hz)</p>
+      </sec>
+      <sec id="sec4dot2-molecules-10-01209">
+        <title>X-ray structural analysis</title>
+        <p>Single crystals of compounds <bold>1</bold> and <bold>2</bold> were grown for X-ray analysis from methanol and ethanol at room temperature. The crystals are transparent. The crystals of <bold>1</bold> have a plate form. The crystals of <bold>2</bold> are shaped like elongated prisms. The unit cell parameters were determined on a Stoe Stadi-4 diffractometer. Intensities of reflections were measured on the same diffractometer using graphite monochromated MoK&#x3B1;-radiation, in the &#x3C9;/2&#x3B8; scan mode. Reduction of intensities is carried out by program XRED [<xref ref-type="bibr" rid="B18-molecules-10-01209">18</xref>], absorption effects were not corrected. Final cell parameters are given in <xref ref-type="table" rid="molecules-10-01209-t002">Table 2</xref> along with other information regarding data collection and  refinement.  Structures  were  solved  by direct methods and refined by least-squares method in full-matrix isotropic-anisotropic approaching. All calculations were performed using the SHELXTL [<xref ref-type="bibr" rid="B19-molecules-10-01209">19</xref>] crystallographic  software  package  of Bruker Analytical X-ray Systems. Coordinates of &#x41D; atoms are determined experimentally from difference  synthesis  of  electron  density  (ED).  Atomic  coordinates  and  equivalent  displacement parameters have been deposited with CCDC as supplementary information [<xref ref-type="bibr" rid="B20-molecules-10-01209">20</xref>]. Location of coordinates of &#x41D; atoms at heteroatom N3 from difference synthesis of ED has allowed defining the tautomeric form of molecules in a crystal.</p>
+        <table-wrap id="molecules-10-01209-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-01209-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Crystal data, experimental and refinement parameters for compounds <bold>1</bold> and <bold>2</bold>.</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="left" valign="bottom" style="border-bottom:solid thin;border-top:solid thin;border-right:solid thin">Parameter</th>
+                <th align="center" valign="bottom"  style="border-bottom:solid thin;border-top:solid thin;border-right:solid thin">1</th>
+                <th align="center" valign="bottom" style="border-top:solid thin;border-bottom:solid thin">2</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">Empirical formula</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">C<sub>13</sub>H<sub>11</sub>N<sub>3</sub>O<sub>2</sub></td>
+                <td align="left" valign="bottom">C<sub>14</sub>H<sub>13</sub>N<sub>3</sub>O<sub>2</sub></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">Formula weight</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">241.25</td>
+                <td align="left" valign="bottom">255.27</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">Crystal size  (mm)</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">0.90 &#x445; 0.80 &#x445; 0.10</td>
+                <td align="left" valign="bottom">0.80 &#x445; 0.30 &#x445; 0.20</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">Crystal system</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">Monoclinic</td>
+                <td align="left" valign="bottom">Triclinic</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">Space group</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">P 2<sub>1</sub>/&#x441;</td>
+                <td align="left" valign="bottom">P-1</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">Z</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">4</td>
+                <td align="left" valign="bottom">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin"><italic>a</italic>, &#xC5;</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">7.970(6)</td>
+                <td align="left" valign="bottom">8.196(5)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin"><italic>b,</italic> &#xC5;</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">7.061(2)</td>
+                <td align="left" valign="bottom">8.997(6)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin"><italic>c</italic>, &#xC5;</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">20.537(7)</td>
+                <td align="left" valign="bottom">9.435(4)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">&#x3B1;</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">90</td>
+                <td align="left" valign="bottom">74.22(4)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">&#x3B2;</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">97.69(5)</td>
+                <td align="left" valign="bottom">89.75(4)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">&#x3B3;</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">90</td>
+                <td align="left" valign="bottom">74.07(5)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">V, &#xC5;<sup>3</sup></td>
+                <td align="left" valign="bottom" style="border-right:solid thin">1145.3(10)</td>
+                <td align="left" valign="bottom">641.9(6)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">d<sub>call</sub>, g/cm<sup>3</sup></td>
+                <td align="left" valign="bottom" style="border-right:solid thin">1.399</td>
+                <td align="left" valign="bottom">1.321</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">Theta range</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">2.4&lt;&#x3B8;&lt;26.0&#xB0;</td>
+                <td align="left" valign="bottom">2.3&lt;&#x3B8;&lt;26.0&#xB0;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">&#x3BC;<sub>exp</sub>  (cm<sup>-1</sup>)</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">0.098</td>
+                <td align="left" valign="bottom">0.091</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">Reflections collected</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">2247</td>
+                <td align="left" valign="bottom">2526</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin">Number of reflections with</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">1644</td>
+                <td align="left" valign="bottom">1674</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin"><bold>I</bold>&gt;2&#x3C3; (<bold>I</bold>)</td>
+                <td align="left" valign="bottom" style="border-right:solid thin"> </td>
+                <td align="left" valign="bottom"> </td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin"><bold>R1</bold> (<bold>I</bold>&gt;2&#x3C3;(<bold>I</bold>) and for all)</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">0.0523  (0.0777)</td>
+                <td align="left" valign="bottom">0.0714 (0.1092)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-right:solid thin"><bold>WR2</bold> (<bold>I</bold>&gt;2&#x3C3;(<bold>I</bold>) and for all)</td>
+                <td align="left" valign="bottom" style="border-right:solid thin">0.1197 (0.1387)</td>
+                <td align="left" valign="bottom">0.1539 (0.1821)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" style="border-bottom:solid thin;border-right:solid thin">Max. diff. peak and hole</td>
+                <td align="left" valign="bottom" style="border-bottom:solid thin;border-right:solid thin">0.166 and &#x2013;0.181 e&#xC5;<sup>-3</sup></td>
+                <td align="left" valign="bottom" style="border-bottom:solid thin">0.209 &#x438; &#x2013;0.261 e&#xC5;<sup>-3</sup></td>
+              </tr>
+            </tbody>
+</table>
+        </table-wrap>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This study was financially supported by the Center for Science and Technologies of the Cabinet of Ministers of Uzbekistan within projects No.11 &#x201C;Development of the psychotropic preparations on the basis of modified natural compounds and their synthetic analogs from local sources&#x201D; and Grant No. FM-3-201; 2004 for Young Scientists &#x201C;Synthesis of 2,4- substituted quinazolines and study of their molecular features by a complex of experimental methods. Methods of Crystal Engineering&#x201D;.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01209">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shakhidoyatov</surname>
+              <given-names>Kh. M.</given-names>
+            </name>
+            <name>
+              <surname>Irisbaev</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Abdullaev</surname>
+              <given-names>N. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of potential growth regulators of plants in series of the N-substituted lactams and quinazolines</article-title>
+          <source>Growth regulators of plants and herbicides</source>
+          <publisher-name>Fan</publisher-name>
+          <publisher-loc>Tashkent</publisher-loc>
+          <year>1978</year>
+          <fpage>166</fpage>
+          <lpage>195</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01209">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yaxontev</surname>
+              <given-names>L. N.</given-names>
+            </name>
+            <name>
+              <surname>Liberman</surname>
+              <given-names>S. S.</given-names>
+            </name>
+            <name>
+              <surname>Jiharyova</surname>
+              <given-names>G. P.</given-names>
+            </name>
+            <name>
+              <surname>Kuzmina</surname>
+              <given-names>K. K.</given-names>
+            </name>
+          </person-group>
+          <source>Chem.-Pharm. J.</source>
+          <year>1977</year>
+          <volume>5</volume>
+          <fpage>14</fpage>
+          <lpage>26</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01209">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Michael</surname>
+              <given-names>J. P.</given-names>
+            </name>
+          </person-group>
+          <source>Nat. Prod. Rep.</source>
+          <year>2002</year>
+          <volume>19</volume>
+          <fpage>742</fpage>
+          <lpage>760</lpage>
+          <pub-id pub-id-type="pmid">12521267</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01209">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhattacharjee</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Skanchy</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Jennings</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Hudson</surname>
+              <given-names>T.H.</given-names>
+            </name>
+            <name>
+              <surname>Brendle</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Werbovetz</surname>
+              <given-names>K.A.</given-names>
+            </name>
+          </person-group>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2003</year>
+          <volume>10</volume>
+          <fpage>1979</fpage>
+          <lpage>89</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01209">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>C. M.</given-names>
+            </name>
+            <name>
+              <surname>Bhaduri</surname>
+              <given-names>A.P.</given-names>
+            </name>
+            <name>
+              <surname>Khanna</surname>
+              <given-names>N. M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1968</year>
+          <volume>11</volume>
+          <fpage>392</fpage>
+          <lpage>395</lpage>
+          <pub-id pub-id-type="pmid">5663640</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01209">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abdullaev</surname>
+              <given-names>N. P.</given-names>
+            </name>
+            <name>
+              <surname>Kayumov</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Shakhidoyatov</surname>
+              <given-names>K. M.</given-names>
+            </name>
+          </person-group>
+          <source>Uzb. Khim. J.</source>
+          <year>1997</year>
+          <volume>2</volume>
+          <fpage>29</fpage>
+          <lpage>34</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01209">
+        <label>7.</label>
+        <citation citation-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fathalla</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Cajan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Marek</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Pazdera</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Proceedings of ECSOC-5, The Fifth International Electronic Conference on Synthetic Organic Chemistry</source>
+          <comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.mdpi.org/ecsoc-5.htm" ext-link-type="uri">http://www.mdpi.org/ecsoc-5.htm</ext-link></comment>
+          <conf-date>September 1-30</conf-date>
+		  <year>2001</year>
+		  <comment>A0049</comment>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01209">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tashkhodjaev</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Turgunov</surname>
+              <given-names>K. K.</given-names>
+            </name>
+            <name>
+              <surname>Dyakonov</surname>
+              <given-names>A. L.</given-names>
+            </name>
+            <name>
+              <surname>Belova</surname>
+              <given-names>G. A.</given-names>
+            </name>
+            <name>
+              <surname>Shakhidoyatov</surname>
+              <given-names>Kh. M.</given-names>
+            </name>
+          </person-group>
+          <source>Khim. Prirod. Soedin.</source>
+          <year>1995</year>
+          <fpage>410</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01209">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turgunov</surname>
+              <given-names>K. K.</given-names>
+            </name>
+            <name>
+              <surname>Tashkhodjaev</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Molchanov</surname>
+              <given-names>L. V.</given-names>
+            </name>
+            <name>
+              <surname>Aripov</surname>
+              <given-names>Kh. N.</given-names>
+            </name>
+          </person-group>
+          <source>Khim. Prirod. Soedin.</source>
+          <year>1995</year>
+          <fpage>849</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01209">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pople</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Santry</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Segal</surname>
+              <given-names>G. A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Phys.</source>
+          <year>1965</year>
+          <volume>43</volume>
+          <fpage>S129</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01209">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dewar</surname>
+              <given-names>M. J. S.</given-names>
+            </name>
+            <name>
+              <surname>Zoebisch</surname>
+              <given-names>E. G.</given-names>
+            </name>
+            <name>
+              <surname>Healy</surname>
+              <given-names>E. F.</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>J. J. P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1985</year>
+          <volume>107</volume>
+          <fpage>3902</fpage>
+          <lpage>3909</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01209">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stewart</surname>
+              <given-names>J. P. P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Comput. Chem.</source>
+          <year>1989</year>
+          <volume>10</volume>
+          <fpage>209</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01209">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zahedi</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Struct. (THEOCHEM)</source>
+          <year>1998</year>
+          <volume>452</volume>
+          <fpage>125</fpage>
+          <lpage>131</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01209">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sygula</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Buda</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Struct. (THEOCHEM)</source>
+          <year>1985</year>
+          <volume>121</volume>
+          <fpage>133</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01209">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sygula</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Res., Synop.</source>
+          <year>1989</year>
+          <fpage>56</fpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01209">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koryakova</surname>
+              <given-names>O. V.</given-names>
+            </name>
+            <name>
+              <surname>Sattarova</surname>
+              <given-names>V. V.</given-names>
+            </name>
+            <name>
+              <surname>Sevenard</surname>
+              <given-names>D. V.</given-names>
+            </name>
+            <name>
+              <surname>Khomutov</surname>
+              <given-names>O. G.</given-names>
+            </name>
+            <name>
+              <surname>Pashkevich</surname>
+              <given-names>K. I.</given-names>
+            </name>
+          </person-group>
+          <source>Russ. J. Gen. Chem.</source>
+          <year>2003</year>
+          <volume>73</volume>
+          <fpage>141</fpage>
+          <lpage>144</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-01209">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cs&#xE1;nyi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Haj&#xF3;s</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Tim&#xE1;ri</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Riedl</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Kotschy</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kappe</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>P&#xE1;rk&#xE1;nyi</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Egyed</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Kajt&#xE1;r-Peredy</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Holly</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2002</year>
+          <volume>1</volume>
+          <fpage>133</fpage>
+          <lpage>138</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01209">
+        <label>18.</label>
+        <citation citation-type="book">
+          <article-title>&#x425;RED 1.09. Data Reduction program for Stadi-4 and IPDS. STOE &amp; Cie GmbH (<bold>1997</bold>)</article-title>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01209">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G. M.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Crystallogr.</source>
+          <year>1993</year>
+          <volume>A49</volume>
+          <fpage>53</fpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-01209">
+        <label>20.</label>
+        <citation citation-type="book">
+          <article-title>CCDC 240414 and CCDC 240415 contain the supplementary crystallographic data for this paper</article-title>
+          <comment>These data can be obtained free of charge from the CCDC, 12 Union Road, Cambridge CB2 1EZ, UK; fax: (+44) 1223 336033; e-mail: <email>deposit@ccdc.cam.ac.uk</email> or via the URL <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ccdc.cam.ac.uk/conts/retrieving.html" ext-link-type="uri">http://www.ccdc.cam.ac.uk/conts/retrieving.html</ext-link>)</comment>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample availability:</italic> Available from the authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

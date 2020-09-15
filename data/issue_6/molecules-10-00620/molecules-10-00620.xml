@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10060620</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00620</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Developments of Chiral Metallocenes as Polymerization Catalysts</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nakayama</surname>
+            <given-names>Yuushou</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00620" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shiono</surname>
+            <given-names>Takeshi</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00620">Department of Applied Chemistry, Graduate School of Engineering, Hiroshima University, Higashi-Hiroshima 739-8527, Japan</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00620"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>yuushou@hiroshima-u.ac.jp</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <fpage>620</fpage>
+      <lpage>633</lpage>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>04</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>08</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>This review article describes developments in chiral metallocenes as polymerization catalysts focusing on <italic>C</italic><sub>2</sub> symmetric <italic>ansa</italic>-zirconocene complexes. Selective synthesis of <italic>rac</italic>-isomers of <italic>ansa</italic>-zirconocenes are surveyed. Isospecific polymerizations of propylene catalyzed by chiral zirconocenes are summarized. Advanced series of polymerizations by chiral metallocenes such as asymmetric polymerization and polymerization of polar monomers are also introduced.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Chiral Metallocene Catalysts</kwd>
+		<kwd>Polymerization Catalysts</kwd>
+		<kwd>Isotactic Polypropylene</kwd>
+		<kwd>Asymmetric Polymerization</kwd>
+		<kwd>Isotactic Poly(Methyl Methacrylate)</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Metallocenes of Group 4 metals have been attracted great attention as precursors of homogeneous olefin polymerization catalysts [<xref ref-type="bibr" rid="B1-molecules-10-00620">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00620">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00620">3</xref>]. In comparison with heterogeneous Ziegler-Natta catalysts, the metallocene catalysts have many advantages based on their homogeneity. One of the most exciting features of the metallocene catalysts is the strong ligand effect on their catalytic behaviors such as activity, molecular weight control, and stereospecificity. Especially, tacticities of the resulting poly(&#x3B1;-olefin)s highly depend on the structures of the precatalysts: achiral simple metallocenes such as Cp<sub>2</sub>ZrCl<sub>2</sub> (<bold>1</bold>, Cp = cyclopentadienyl) produce atactic polymers, while <italic>C</italic><sub>2</sub>-symmetric chiral metallocenes such as <italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>ZrCl<sub>2</sub> (<bold><italic>rac</italic>-2</bold>, Ind = 1-indenyl)) and <italic>C</italic><sub>s</sub>-symmetric complexes such as Me<sub>2</sub>C(C<sub>5</sub>H<sub>4</sub>)(Flu)ZrCl<sub>2</sub> (<bold>3</bold>, Flu = fluorenyl) yield isotactic and syndiotactic poly(&#x3B1;-olefin)s, respectively (<xref ref-type="scheme" rid="molecules-10-00620-f001">Scheme 1</xref>). </p>
+      <fig id="molecules-10-00620-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00620-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-g001.tif"/>
+      </fig>
+      <p>Among these three types of metallocene catalysts, <italic>C</italic><sub>2</sub>-symmetric chiral metallocenes are of great importance, because isotactic polypropylene is one of the most popular commodity resins. For the purpose of isospecific polymerization, contamination of achiral meso-isomers such as <bold><italic>meso</italic>-2</bold>, which produce atactic polymers, should be avoided. In this review article, we survey developments of chiral metallocenes focusing on <italic>C</italic><sub>2</sub> symmetric <italic>ansa</italic>-zirconocene catalysts, including their selective synthesis and their catalytic behavior for stereospecific polymerization of &#x3B1;-olefins and polar monomers.</p>
+    </sec>
+    <sec>
+      <title>Selective Synthesis of Chiral <italic>ansa</italic>-Metallocenes</title>
+      <p>For the purpose of isospecific polymerization of &#x3B1;-olefins, chiral metallocenes are not necessary to be optically active, but should be free from undesired impurities such as achiral <italic>meso</italic>-isomers. Chiral <italic>ansa</italic>-metallocenes such as <italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>MCl<sub>2</sub> (M = Ti (<bold><italic>rac</italic>-4</bold>), Zr (<bold><italic>rac</italic>-2</bold>), Hf (<bold><italic>rac</italic>-5</bold>)) had been synthesized by the reaction of MCl<sub>4</sub>(THF)<sub>2</sub> and Li<sub>2</sub>{(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>} [<xref ref-type="bibr" rid="B4-molecules-10-00620">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00620">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00620">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00620">7</xref>]. However, these reactions are always suffered by the formation of byproducts such as undesired achiral <italic>meso</italic>-isomers and polymeric complexes. Thus, <italic>rac</italic>-selective syntheses of <italic>ansa</italic>-metallocenes have been studied.</p>
+      <p>A reaction of binaphtholate complex Cl<sub>2</sub>Ti(BIN) (BIN = 1,1&#x2019;-bi-2-naphtholate) with C<sub>2</sub>Me<sub>4</sub>(C<sub>5</sub>H<sub>3</sub>Bu<italic><sup>t</sup></italic>-3)<sub>2</sub>Li<sub>2</sub> was reported to give a <italic>rac</italic>-isomer, <italic>rac</italic>-C<sub>2</sub>Me<sub>4</sub>(C<sub>5</sub>H<sub>3</sub>Bu<italic><sup>t</sup></italic>-3)<sub>2</sub>Ti(BIN) (<bold>6</bold>), selectively [<xref ref-type="bibr" rid="B8-molecules-10-00620">8</xref>], although the yield was rather low (~15%), probably due to the aggregation of Cl<sub>2</sub>Ti(BIN). The use of bulky biphenolate (BIP) ligands instead of binaphtholate substantially improved the yields [<xref ref-type="bibr" rid="B9-molecules-10-00620">9</xref>]. Mononuclear zirconium biphenolates, Cl<sub>2</sub>Zr(BIP)(THF)<sub>2</sub> (BIP = 3,3&#x2019;-Pr<italic><sup>i</sup></italic><sub>2</sub>-6,6&#x2019;-Me<sub>2</sub>-1,1&#x2019;-bi-2-phenolate (<bold>7a</bold>), and 3,3&#x2019;-Bu<italic><sup>t</sup></italic><sub>2</sub>-5,5&#x2019;-Me<sub>2</sub>-1,1&#x2019;-bi-2-phenolate (<bold>7b</bold>) react with (C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>Mg(THF)<sub>2</sub> to give <italic>rac</italic>-isomers <bold>8a</bold> and <bold>8b</bold> directly in good yields (equation 1). The reaction of 3,3&#x2019;,5,5&#x2019;-Bu<italic><sup>t</sup></italic><sub>4</sub>-1,1&#x2019;-bi-2-phenolate complex (<bold>7c</bold>) with (Me<sub>2</sub>Si)(Ind)<sub>2</sub>Li<sub>2</sub> also directly affords a <italic>rac</italic>-complex <bold>9c</bold>, while the reactions of <bold>7c</bold> with bulkier substituted <italic>ansa</italic>-bis(indenyl) ligands such as Me<sub>2</sub>Si(2-MeInd)<sub>2</sub>, Me<sub>2</sub>Si(2-Me-4-PhInd)<sub>2</sub>, and Me<sub>2</sub>Si(2-Me-benz[<italic>e</italic>]Ind)<sub>2</sub> initially give kinetic mixtures of <italic>meso</italic>- and <italic>rac</italic>-isomers. Heating the reaction mixtures to 75 &#xB0;C for 5&#x2014;7 h affords pure thermodynamically-favored <italic>rac</italic>-derivatives <bold>10c</bold>&#x2014;<bold>12c</bold> (Equation 2).</p>
+	  <disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-i001.tif"/>
+        </disp-formula>
+		<disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-i002.tif"/>
+        </disp-formula>
+      <p>Jordan <italic>et al</italic>. developed amine-elimination approach for the selective synthesis of chiral <italic>rac</italic>-metallocenes (<xref ref-type="scheme" rid="molecules-10-00620-f002">Scheme 2</xref>) [<xref ref-type="bibr" rid="B10-molecules-10-00620">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00620">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00620">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00620">13</xref>]. The key features for high <italic>rac</italic>-selectivity is reversibility of the amine elimination reaction and thermodynamically higher stability of <italic>rac</italic>-isomers than <italic>meso</italic>-isomers.</p>
+      <fig id="molecules-10-00620-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00620-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-g002.tif"/>
+      </fig>
+      <p>The reaction of Zr(NMe<sub>2</sub>)<sub>4</sub> with (C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>H<sub>2</sub> under continuous N<sub>2</sub> flow gives a 1:1 mixture of <italic>rac</italic>- and <italic>meso</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>Zr(NMe<sub>2</sub>)<sub>2</sub>. In sharp contrast, the same reaction under static N<sub>2</sub> atmosphere affords (C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>Zr(NMe<sub>2</sub>)<sub>2</sub> in a 13/1 <italic>rac</italic>/<italic>meso</italic> ratio, from which pure <italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>Zr(NMe<sub>2</sub>)<sub>2</sub> (<bold><italic>rac</italic>-13</bold>) can be isolated in ~70% yield by a single crystallization. Treatment of the resulting chiral <italic>ansa</italic>-metallocene bis(amide) with Me<sub>3</sub>SiCl or AlMe<sub>3</sub> affords the corresponding dichloride or dimethyl complex, respectively. The <italic>rac</italic>-selectivity is dependent on both the <italic>ansa</italic>-cyclopentadienyl ligand and amide ligand, e.g., the use of Zr(NEt<sub>2</sub>)<sub>4</sub>, Zr(NPr<italic><sup>i</sup></italic><sub>2</sub>)<sub>2</sub>(NMe<sub>2</sub>)<sub>2</sub>, and Zr(NC<sub>4</sub>H<sub>8</sub>)<sub>4</sub>, result in lower <italic>rac</italic>-selectivity than the case of Zr(NMe<sub>2</sub>)<sub>4</sub> in the synthesis of (C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>Zr(NR<sub>2</sub>)<sub>2</sub>. This strategy is also effective for the <italic>rac</italic>-selective synthesis of silylene bridged metallocene complexes, when appropriate amide complexes are chosen depending on the <italic>ansa</italic>-cyclopentadienyl ligand used.</p>
+      <p>The amine elimination reaction is quite useful for the preparation of rather simple chiral <italic>ansa</italic>-metallocenes, but not so effective for bulky substituted bridged-indenyl derivatives. A chelating diamide complex, Zr{PhN(CH<sub>2</sub>)<sub>3</sub>NPh}Cl<sub>2</sub>(THF)<sub>2</sub> was found to be an effective precursor for <italic>rac</italic>-selective synthesis of bulky <italic>ansa</italic>-metallocenes (<bold>14</bold>&#x2014;<bold>17</bold>) (equation 3) [<xref ref-type="bibr" rid="B14-molecules-10-00620">14</xref>]. Treatment of these complexes with Me<sub>3</sub>SiCl or HCl converts to the corresponding dichloride complexes</p>
+	  <disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-i003.tif"/>
+        </disp-formula>
+      <p>A 1,4-diphenyl-1,3-butadiene complex is also effective for <italic>rac</italic>-selective synthesis of bulky <italic>ansa</italic>-metallocenes (<xref ref-type="scheme" rid="molecules-10-00620-f004">Scheme 4</xref>) [<xref ref-type="bibr" rid="B15-molecules-10-00620">15</xref>]. The diphenylbutadiene complex, ZrCl<sub>2</sub>(PR<sub>3</sub>)<sub>2</sub>(DPBD) (R = Et, Pr<italic><sup>i</sup></italic>; DPBD = 1,4-diphenyl-1,3-butadiene), can be prepared by the reduction of ZrCl<sub>4</sub>(PR<sub>3</sub>)<sub>2</sub> with Li metal in the presence of diphenylbutadiene in 90-93% yields. The treatment of ZrCl<sub>2</sub>(PR<sub>3</sub>)<sub>2</sub>(DPBD) with Li<sub>2</sub>{Me<sub>2</sub>Si(2-Me-4-Ph-Ind)<sub>2</sub>} in toluene produces quantitatively the desired racemic, divalent <italic>ansa</italic>-zirconocene (<bold>18</bold>). The DPBD complex <bold>18</bold> can be used as highly active isospecific propylene polymerization catalyst in combination with MAO without the conversion to the corresponding dichloride or dimethyl complexes.</p>
+	  <disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-i004.tif"/>
+        </disp-formula>
+    </sec>
+    <sec>
+      <title>Isospecific Polymerization of Propylene by Chiral <italic>ansa</italic>-Type (Bridged) Metallocenes</title>
+      <p>In 1984, Ewen found that chiral <italic>ansa</italic>-metallocene catalysts promote isospecific polymerization of propylene [<xref ref-type="bibr" rid="B16-molecules-10-00620">16</xref>]. A mixture of <italic>meso</italic>- and <italic>rac</italic>-isomers of (C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>TiCl<sub>2</sub> (<bold>4</bold>) upon activation with MAO afforded a mixture of isotactic PP and atactic PP [<xref ref-type="bibr" rid="B16-molecules-10-00620">16</xref>], this opened a new era of mtallocene catalyst. Examples of chiral metallocenes as precursors of olefin polymerization catalysts are illustrated in <xref ref-type="scheme" rid="molecules-10-00620-f003">Scheme 3</xref>, and the representative results of isospecific polymerization of propylene are shown in <xref ref-type="table" rid="molecules-10-00620-t001">Table 1</xref>.</p>
+      <fig id="molecules-10-00620-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00620-scheme3_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-g003.tif"/>
+      </fig>
+      <table-wrap id="molecules-10-00620-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00620-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Isospecific Polymerization of Propylene by Chiral Metallocenes upon Activation with MAO.</p>
+        </caption>
+        <table rules="all" style="border:solid thin">
+<tbody>
+            <tr>
+              <td align="left" valign="middle">Catalyst</td>
+              <td align="center" valign="top">Temp (&#xB0;C)</td>
+              <td align="center" valign="middle">Activity<italic><sup>a</sup></italic></td>
+              <td align="center" valign="middle"><italic>M</italic><sub>n</sub>/10<sup>3</sup></td>
+              <td align="center" valign="middle"><italic>M</italic><sub>w</sub>/<italic>M</italic><sub>n</sub></td>
+              <td align="center" valign="middle"><italic>mmmm</italic> (%)</td>
+              <td align="center" valign="middle"><italic>T</italic><sub>m</sub> (&#xB0;C)</td>
+              <td align="center" valign="middle">ref.</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>ansa</italic>-Metallocenes</td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+    </tr>
+            <tr>
+
+              <td align="left" valign="middle">(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>ZrCl<sub>2</sub> (<bold>2</bold>)</td>
+              <td align="center" valign="middle">60</td>
+              <td align="center" valign="middle">1.375</td>
+              <td align="center" valign="middle">6.3</td>
+              <td align="center" valign="middle">1.9</td>
+              <td align="center" valign="middle">63</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B58-molecules-10-00620">58</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"> </td>
+              <td align="center" valign="middle">30</td>
+              <td align="center" valign="middle">7.0</td>
+              <td align="center" valign="middle">35.9 <italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">2.40</td>
+              <td align="center" valign="middle">85.2</td>
+              <td align="center" valign="middle">142.3</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B22-molecules-10-00620">22</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(IndH<sub>4</sub>)<sub>2</sub>ZrCl<sub>2</sub> (<bold>19</bold>)</td>
+              <td align="center" valign="middle">20</td>
+              <td align="center" valign="middle">4.75</td>
+              <td align="center" valign="middle">45 <italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">1.9</td>
+              <td align="center" valign="middle">95<italic><sup>c</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B18-molecules-10-00620">18</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(Ind)<sub>2</sub>ZrCl<sub>2</sub> (<bold>20</bold>)</td>
+              <td align="center" valign="middle">65</td>
+              <td align="center" valign="middle">11.0 <italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">44 <italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">2.2</td>
+              <td align="center" valign="middle">96.2 <italic><sup>c</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B21-molecules-10-00620">21</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(2,3,5-Me<sub>3</sub>Cp)<sub>2</sub>ZrCl<sub>2</sub> (<bold>21</bold>)</td>
+              <td align="center" valign="middle">30</td>
+              <td align="center" valign="middle">5.3</td>
+              <td align="center" valign="middle">134<italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">1.99</td>
+              <td align="center" valign="middle">97.7</td>
+              <td align="center" valign="middle">162.0</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B22-molecules-10-00620">22</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(3-Bu<italic><sup>t</sup></italic>-5-MeCp)<sub>2</sub>ZrCl<sub>2</sub> (<bold>22</bold>)</td>
+              <td align="center" valign="middle">50</td>
+              <td align="center" valign="middle">0.505</td>
+              <td align="center" valign="middle">9.19 <italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">2.5</td>
+              <td align="center" valign="middle">94</td>
+              <td align="center" valign="middle">149</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B23-molecules-10-00620">23</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(2-Me-4-PhInd)<sub>2</sub>ZrCl<sub>2</sub> (<bold>23</bold>)</td>
+              <td align="center" valign="middle">70</td>
+              <td align="center" valign="middle">755</td>
+              <td align="center" valign="middle">729</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">95.2</td>
+              <td align="center" valign="middle">157</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B24-molecules-10-00620">24</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(2-Me-4-NaphInd) <sub>2</sub>ZrCl<sub>2</sub> (<bold>24</bold>)</td>
+              <td align="center" valign="middle">70</td>
+              <td align="center" valign="middle">875</td>
+              <td align="center" valign="middle">920</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">99.1</td>
+              <td align="center" valign="middle">161</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B24-molecules-10-00620">24</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(Benz[e]Ind)<sub>2</sub> ZrCl<sub>2</sub> (<bold>25</bold>)</td>
+              <td align="center" valign="middle">40</td>
+              <td align="center" valign="middle">37.5</td>
+              <td align="center" valign="middle">28</td>
+              <td align="center" valign="middle">1.7</td>
+              <td align="center" valign="middle">93.9</td>
+              <td align="center" valign="middle">146.6</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B26-molecules-10-00620">26</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(2-Me-Benz[e]Ind)<sub>2</sub>ZrCl<sub>2</sub> (<bold>26</bold>)</td>
+              <td align="center" valign="middle">40</td>
+              <td align="center" valign="middle">45.0</td>
+              <td align="center" valign="middle">248</td>
+              <td align="center" valign="middle">2.2</td>
+              <td align="center" valign="middle">96.2</td>
+              <td align="center" valign="middle">164.1</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B26-molecules-10-00620">26</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(5-Me-1-Ph-4-Pyr[b]Cp)<sub>2</sub>ZrCl<sub>2</sub> (<bold>27</bold>)</td>
+              <td align="center" valign="middle">70</td>
+              <td align="center" valign="middle">443<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">145<italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">146</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B27-molecules-10-00620">27</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(2,5-Me<sub>2</sub>-1-Ph-4-Pyr[b]Cp)<sub>2</sub>ZrCl<sub>2</sub> (<bold>28</bold>)</td>
+              <td align="center" valign="middle">70</td>
+              <td align="center" valign="middle">324<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">198<italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">155</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B27-molecules-10-00620">27</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(2,5-Me<sub>2</sub>-3-Ph-6-Tp[b]Cp)<sub>2</sub>ZrCl<sub>2</sub> (<bold>29</bold>)</td>
+              <td align="center" valign="middle">70</td>
+              <td align="center" valign="middle">1953<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">445<italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">156</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B27-molecules-10-00620">27</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si{2,5-Me<sub>2</sub>-3-(2-MeC<sub>6</sub>H<sub>4</sub>)-6-Tp[b]-Cp}<sub>2</sub>ZrCl<sub>2</sub> (<bold>30</bold>)</td>
+              <td align="center" valign="middle">70</td>
+              <td align="center" valign="middle">850<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">604<italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">160</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B27-molecules-10-00620">27</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si{2,5-Me<sub>2</sub>-3-(2,5-Me<sub>2</sub>C<sub>6</sub>H<sub>3</sub>)-6-Tp[b] Cp}<sub>2</sub>ZrCl<sub>2</sub> (<bold>31</bold>)</td>
+              <td align="center" valign="middle">70</td>
+              <td align="center" valign="middle">479<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">795<italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">160</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B27-molecules-10-00620">27</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>HfCl<sub>2</sub> (<bold>5</bold>)</td>
+              <td align="center" valign="middle">50</td>
+              <td align="center" valign="middle">43.6</td>
+              <td align="center" valign="middle">304<italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">2.3</td>
+              <td align="center" valign="middle">95&#x2013;99 <italic><sup>e</sup></italic></td>
+              <td align="center" valign="middle">136</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B29-molecules-10-00620">29</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(IndH<sub>4</sub>)<sub>2</sub>HfCl<sub>2</sub> (<bold>34</bold>)</td>
+              <td align="center" valign="middle">50</td>
+              <td align="center" valign="middle">9.1</td>
+              <td align="center" valign="middle">150<italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">2.2</td>
+              <td align="center" valign="middle">95&#x2013;99 <italic><sup>e</sup></italic></td>
+              <td align="center" valign="middle">142</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B29-molecules-10-00620">29</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(2,3,5-Me<sub>3</sub>Cp)<sub>2</sub>HfCl<sub>2</sub></td>
+              <td align="center" valign="middle">30</td>
+              <td align="center" valign="middle">0.10</td>
+              <td align="center" valign="middle">256</td>
+              <td align="center" valign="middle">2.38</td>
+              <td align="center" valign="middle">98.7</td>
+              <td align="center" valign="middle">162.8</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B22-molecules-10-00620">22</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"> (C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>TiCl<sub>2</sub> (<bold>4</bold>) (56% <italic>rac</italic> 44% <italic>meso</italic>)</td>
+              <td align="center" valign="middle">&#x2013;60</td>
+              <td align="center" valign="middle">0.018<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">96.6</td>
+              <td align="center" valign="middle">1.59</td>
+              <td align="center" valign="middle">54<italic><sup>c</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B16-molecules-10-00620">16</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"> MeCH(Ind)(C<sub>5</sub>Me<sub>4</sub>)TiCl<sub>2</sub> (<bold>35</bold>)</td>
+              <td align="center" valign="middle">50</td>
+              <td align="center" valign="middle">0.167</td>
+              <td align="center" valign="middle">66.6</td>
+              <td align="center" valign="middle">1.9</td>
+              <td align="center" valign="middle">40</td>
+              <td align="center" valign="middle">51.2 <break/>66.0</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B32-molecules-10-00620">32</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle">Unbridged Metallocenes</td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"> Cp<sub>2</sub>TiPh<sub>2</sub> (<bold>37</bold>)</td>
+              <td align="center" valign="middle">&#x2013;60</td>
+              <td align="center" valign="middle">0.055<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">195</td>
+              <td align="center" valign="middle">1.8</td>
+              <td align="center" valign="middle">53</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B16-molecules-10-00620">16</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-(PhMeCHCp)<sub>2</sub>ZrCl<sub>2</sub> (<bold>38</bold>)</td>
+              <td align="center" valign="middle">&#x2013;50</td>
+              <td align="center" valign="middle">0.026<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">310<italic><sup>f</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">43</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B36-molecules-10-00620">36</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-(CyMeCHCy)<sub>2</sub>ZrCl<sub>2</sub> (<bold>39</bold>)</td>
+              <td align="center" valign="middle">&#x2013;50</td>
+              <td align="center" valign="middle">0.003<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">86<italic><sup>f</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">51</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B36-molecules-10-00620">36</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-{(9-BBN)CH<sub>2</sub>CH(Ph)Cp}<sub>2</sub>ZrCl<sub>2</sub> (<bold>40</bold>)</td>
+              <td align="center" valign="middle">&#x2013;50</td>
+              <td align="center" valign="middle">0.012<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">11<italic><sup>f</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">54</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B36-molecules-10-00620">36</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-{(9-BBN)CH<sub>2</sub>CH(Cy)Cp}<sub>2</sub>ZrCl<sub>2</sub> (<bold>41</bold>)</td>
+              <td align="center" valign="middle">&#x2013;50</td>
+              <td align="center" valign="middle">0.005<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">10<italic><sup>f</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">75</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B36-molecules-10-00620">36</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"> {2-(1-neoisomenthyl)Ind}<sub>2</sub>ZrCl<sub>2</sub> (<bold>42</bold>)</td>
+              <td align="center" valign="middle">&#x2013;30</td>
+              <td align="center" valign="middle">0.032<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">260<italic><sup>f</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">77</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B37-molecules-10-00620">37</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"> {2-(3&#x2019;-&#x3B1;-cholestanyl)Ind}<sub>2</sub>ZrCl<sub>2</sub> (<bold>43</bold>)</td>
+              <td align="center" valign="middle">&#x2013;30</td>
+              <td align="center" valign="middle">0.041<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">470 <italic><sup>f</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">80</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B38-molecules-10-00620">38</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"> (1-MeFlu)<sub>2</sub>ZrCl<sub>2</sub> (<bold>44</bold>)</td>
+              <td align="center" valign="middle">60</td>
+              <td align="center" valign="middle">0.035<italic><sup>d</sup></italic></td>
+              <td align="center" valign="middle">65<italic><sup>b</sup></italic></td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">83</td>
+              <td align="center" valign="middle">145</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B40-molecules-10-00620">40</xref>]</td>
+    </tr>
+          </tbody>
+        </table>
+		 <table-wrap-foot>
+            <fn>
+            <p><array>
+
+<tbody>
+  <tr style="border-top:hidden">
+    <td align="left" valign="top"><italic><sup>a</sup></italic> Kg mmol<sup>&#x2013;1</sup>h<sup>&#x2013;1</sup>atm<sup>&#x2013;1</sup>.</td>
+    <td align="left" valign="top">&#x2003;&#x2003;<italic><sup>d</sup></italic> Kg mmol<sup>&#x2013;1</sup>h<sup>&#x2013;1</sup></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><italic><sup>b</sup></italic> <italic>M</italic><sub>w</sub> value.</td>
+    <td align="left" valign="top">&#x2003;&#x2003;<italic><sup>e</sup></italic> mole % of units with the same relative configuration.</td>
+  </tr>
+  <tr style="border-bottom:hidden">
+    <td align="left" valign="top"><italic><sup>c</sup></italic> <italic>mm</italic> value.</td>
+    <td align="left" valign="top">&#x2003;&#x2003;<italic><sup>f</sup></italic> <italic>M</italic><sub>&#x3B7;</sub> value.</td>
+  </tr>
+</tbody>
+
+</array></p>
+            </fn>
+            </table-wrap-foot>
+		</table-wrap>
+      <p>The isospecificity of (C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>ZrCl<sub>2</sub> (<bold>2</bold>)/MAO in the polymerization of propylene tends to decrease with raising polymerization temperature and decreasing [Al]/[Zr] ratio [<xref ref-type="bibr" rid="B17-molecules-10-00620">17</xref>]. Brintzinger found that a pure <italic>rac</italic> isomer of <italic>ansa</italic>-zirconocene, <italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(IndH<sub>4</sub>)<sub>2</sub>ZrCl<sub>2</sub> (<bold>19</bold>, IndH<sub>4</sub> = tetrahydroindenyl), polymerized propylene to produce isotactic polypropylene [<xref ref-type="bibr" rid="B18-molecules-10-00620">18</xref>]. The investigation on the stereo- and regioirregularity of the polypropylenes obtained by <bold><italic>rac</italic>-2</bold> and <bold>19</bold> concluded that the isospecific polymerizations by the chiral <italic>ansa</italic>-metallocene catalysts proceed with the enantiomorphic site control mechanism [<xref ref-type="bibr" rid="B19-molecules-10-00620">19</xref>]. This is in sharp contrast to the fact that stereospecific polymerizations by achiral titanocenes proceed with chain end control [<xref ref-type="bibr" rid="B20-molecules-10-00620">20</xref>].</p>
+      <p><italic>C</italic><sub>2</sub>-Symmetric silylene bridged metallocenes are also catalyst precursors for isospecific polymerization of propylene. Actually, a silylene bridged derivative, <italic>rac</italic>-Me<sub>2</sub>Si(Ind)<sub>2</sub>ZrCl<sub>2</sub> (<bold>20</bold>) [<xref ref-type="bibr" rid="B21-molecules-10-00620">21</xref>], shows higher activity and isospesificity than the ethylene-bridged complex <bold>2</bold>. A <italic>C</italic><sub>2</sub>-symmetric silylene-bridged bis(trimethylcyclopentadienyl)zirconium complex, <italic>rac</italic>-Me<sub>2</sub>Si(2,3,5-Me<sub>3</sub>Cp)<sub>2</sub>ZrCl<sub>2</sub> (<bold>21</bold>) [<xref ref-type="bibr" rid="B22-molecules-10-00620">22</xref>], exhibits quite high isospecificity to give polymers with high molecular weight and high melting point. A <italic>tert</italic>-butyl substituted complex, <italic>rac</italic>-Me<sub>2</sub>Si(3-Bu<italic><sup>t</sup></italic>-5-MeCp)<sub>2</sub>ZrCl<sub>2</sub> (<bold>22</bold>) [<xref ref-type="bibr" rid="B23-molecules-10-00620">23</xref>], is less stereospecific than <bold>21</bold>. Silylenebis(indenyl)complexes having aromatic group at 4-position of the indenyl rings, <italic>rac</italic>-Me<sub>2</sub>Si(2-Me-4-PhInd)<sub>2</sub>ZrCl<sub>2</sub> (<bold>23</bold>) and <italic>rac</italic>-Me<sub>2</sub>Si(2-Me-4-NaphInd) <sub>2</sub>ZrCl<sub>2</sub> (<bold>24</bold>), show high activity and high isospecificity to produce high molecular weight polymers. The isospecificity of the <bold>24</bold>/MAO system seems to be highest among those of the metallocene catalysts.</p>
+      <p>Complexes having extended fused aromatic rings, <italic>rac</italic>-Me<sub>2</sub>Si(Benz[e]Ind)<sub>2</sub>ZrCl<sub>2</sub> (<bold>25</bold>) and <italic>rac</italic>-Me<sub>2</sub>Si(2-Me-Benz[e]Ind)<sub>2</sub>ZrCl<sub>2</sub> (<bold>26</bold>), are also effective for isospecific polymerization of propylene [<xref ref-type="bibr" rid="B24-molecules-10-00620">24</xref>,<xref ref-type="bibr" rid="B25-molecules-10-00620">25</xref>,<xref ref-type="bibr" rid="B26-molecules-10-00620">26</xref>]. In comparison between <bold>25</bold> and <bold>26</bold>, the Me-substituent at 2-position of the indenyl group in <bold>26</bold> was found to be effective for suppression of chain transfer to produce high molecular weight polymers [<xref ref-type="bibr" rid="B26-molecules-10-00620">26</xref>]. The fused pyrrol complexes <bold>27</bold> and <bold>28</bold> are slightly less active and less isoselective but more regioselective in comparison with the similar indenyl complex <bold>23</bold> under the same conditions [<xref ref-type="bibr" rid="B27-molecules-10-00620">27</xref>]. The fused thiophene complexes <bold>29</bold>&#x2014;<bold>31</bold> are notable for the highest activity among the reported propylene polymerization catalysts [<xref ref-type="bibr" rid="B27-molecules-10-00620">27</xref>]. Their isospecificity is only slightly lower and their regioselectivity is higher than those of <bold>23</bold>.</p>
+      <p>Chiral <italic>C</italic><sub>2</sub>-symmetric doubly bridged zirconocene complexes, (Me<sub>2</sub>Si)<sub>2</sub>{1,2-(3,4-Me<sub>2</sub>Cp)}<sub>2</sub>ZrCl<sub>2</sub> (<bold>32</bold>) and (Me<sub>2</sub>Si)<sub>2</sub>(1,2-IndH<sub>4</sub>)<sub>2</sub>ZrCl<sub>2</sub> (<bold>33</bold>), produced polypropylene in the presence of MAO, but their  isospecificities (mmmm = 38 and 80%, respectively) are lower than the similar singly bridged metallocenes [<xref ref-type="bibr" rid="B28-molecules-10-00620">28</xref>].</p>
+      <p>The ethylene-bridged hafnocenes, <italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>HfCl<sub>2</sub> (<bold>5</bold>) and <italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(IndH<sub>4</sub>)<sub>2</sub>HfCl<sub>2</sub> (<bold>34</bold>), also catalyze isospecific polymerization of propylene upon the activation by MAO [<xref ref-type="bibr" rid="B29-molecules-10-00620">29</xref>]. The hafnium catalysts produce polypropylenes with similar isotacticities and higher molecular weights in comparison with zirconium catalysts, however, their activities are significantly lower than the zirconium catalysts.</p>
+      <p>Stereospecificities of chiral <italic>C</italic><sub>1</sub>-symmetric complexes depend on their steric hindrances. For example, a 3-methyl substitutedcomplex, Me<sub>2</sub>C(3-MeCp)(Flu)ZrCl<sub>2</sub>, provides hemiisotactic polypropylene [<xref ref-type="bibr" rid="B30-molecules-10-00620">30</xref>], while the similar <italic>tert</italic>-butyl substituted complex, Me<sub>2</sub>C(3-Bu<sup>t</sup>Cp)(Flu)ZrCl<sub>2</sub>, affords isotactic polypropylene [<xref ref-type="bibr" rid="B31-molecules-10-00620">31</xref>].</p>
+      <p>Chiral titanocene complexes such as <bold>4</bold> also produce isotactic polypropylene, however, their activities and isospecificities tend to be lower than the similar zirconium catalysts [<xref ref-type="bibr" rid="B32-molecules-10-00620">32</xref>]. Chiral <italic>C</italic><sub>1</sub>-symmetric ethylidene-bridged titanium complexes, MeCH(Ind)(C<sub>5</sub>Me<sub>4</sub>)TiX<sub>2</sub>/MAO (X = Cl (<bold>35</bold>), Me (<bold>36</bold>)) polymerize propylene to give a stereoblock polymer comprising alternating sequences of stereoregular and stereoirregular polypropylene, which is a thermoplastic elastomer [<xref ref-type="bibr" rid="B32-molecules-10-00620">32</xref>,<xref ref-type="bibr" rid="B33-molecules-10-00620">33</xref>,<xref ref-type="bibr" rid="B34-molecules-10-00620">34</xref>].</p>
+    </sec>
+    <sec>
+      <title>Isospecific Polymerization of Propylene by Unbridged Metallocenes</title>
+      <p>Some unbridged metallocenes having chiral substituents on Cp rings catalyze isospecific polymerization of propylene. Examples of such complexes are illustrated in <xref ref-type="scheme" rid="molecules-10-00620-f004">Scheme 4</xref>, and the representative results are included in <xref ref-type="table" rid="molecules-10-00620-t001">Table 1</xref>. A simple achiral metallocene catalyst, Cp<sub>2</sub>TiPh<sub>2</sub> (<bold>37</bold>)/MAO, promotes isospecific polymerization of propylene (mmmm ~ 50%) at low temperature by chain-end control mechanism [<xref ref-type="bibr" rid="B16-molecules-10-00620">16</xref>]. Zirconocene complexes having chiral substituents on Cp rings, <italic>rac</italic>-(R*Cp)<sub>2</sub>ZrCl<sub>2</sub> (<bold>38</bold>&#x2014;<bold>41</bold>), produces partially isotactic polypropylene (mmmm ~75%) at low temperature upon activation with MAO [<xref ref-type="bibr" rid="B35-molecules-10-00620">35</xref>,<xref ref-type="bibr" rid="B36-molecules-10-00620">36</xref>]. Bis(indenyl)zirconium complexes having bulky chiral substituents on indenyl rings, (R*Ind)<sub>2</sub>ZrCl<sub>2</sub> (R* = neoisomenthy (<bold>42</bold>), 3-&#x3B1;-cholestanyl (<bold>43</bold>)), are more isospecific (mmmm = 77% for <bold>42</bold>, 80% for <bold>43</bold>) than <bold>38</bold>&#x2014;<bold>41</bold> [<xref ref-type="bibr" rid="B37-molecules-10-00620">37</xref>,<xref ref-type="bibr" rid="B38-molecules-10-00620">38</xref>,<xref ref-type="bibr" rid="B39-molecules-10-00620">39</xref>].</p>
+      <p>A reaction of ZrCl<sub>4</sub> with two equiv. of 1-methylfluorenyllithium selectively affords a stereorigid and chiral zirconocene, (1-MeFlu)<sub>2</sub>ZrCl<sub>2</sub> (<bold>44</bold>), because of steric effect of the ligand. The complex <bold>44</bold> together with MAO polymerized propylene to give polypropylene with relatively high isotacticity among the unbridged zirconocene systems even at 60 &#xB0;C [<xref ref-type="bibr" rid="B40-molecules-10-00620">40</xref>].</p>
+      <p>A unique unbridged bis(2-phenylindenyl)zirconium complex (<bold>45</bold>) gave elastic, isotactic-atactic stereoblock polypropylene controlled by rotation of the 2-phenylindenyl as shown in <xref ref-type="scheme" rid="molecules-10-00620-f005">Scheme 5</xref> [<xref ref-type="bibr" rid="B41-molecules-10-00620">41</xref>].</p>
+      <fig id="molecules-10-00620-f004" position="float">
+        <object-id pub-id-type="pii">molecules-10-00620-scheme4_Scheme 4</object-id>
+        <label>Scheme 4</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-g004.tif"/>
+      </fig>
+      <fig id="molecules-10-00620-f005" position="float">
+        <object-id pub-id-type="pii">molecules-10-00620-scheme5_Scheme 5</object-id>
+        <label>Scheme 5</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-g005.tif"/>
+      </fig>
+    </sec>
+    <sec>
+      <title>Asymmetric Polymerization by Enantiopure Chiral Metallocenes</title>
+      <p>Polymerization of 1,5-hexadiene by an enantiopure <italic>ansa</italic>-zirconocene (<bold>46</bold>)/MAO system proceeds with cyclization to give an main-chain optically active <italic>trans</italic>-diisotactic polymer (equation 5, 68% trans rings) [<xref ref-type="bibr" rid="B42-molecules-10-00620">42</xref>,<xref ref-type="bibr" rid="B43-molecules-10-00620">43</xref>,<xref ref-type="bibr" rid="B44-molecules-10-00620">44</xref>]. The enantioselectivity for this cyclopolymerization can be explained by the fact that the same prochiral face of olefins was selected by the chiral zirconium center. Asymmetric hydrogenation as well as C-C bond formation catalyzed by <bold>46</bold> has recently been developed to achieve high enantioselectivity. This parallels to the high stereoselectivity in the polymerization.</p>
+	  <disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-i005.tif"/>
+        </disp-formula>
+      <p>Enantiopure doubly bridged metallocenes <bold>47</bold>&#x2014;<bold>50</bold> (<xref ref-type="scheme" rid="molecules-10-00620-f006">Scheme 6</xref>) are effective for kinetic resolution of racemic mixture of chiral &#x3B1;-olefins by enantio-selective polymerization [<xref ref-type="bibr" rid="B45-molecules-10-00620">45</xref>]. The zirconocene dichlorides having an enantiopure methylneopentyl group on the &#x201C;upper&#x201D; cyclopentadienyl ligand <bold>47</bold>&#x2014;<bold>49</bold> showed unprecedent activity for the polymerization of -olefins having bulky substituents at 3- and/or 4-positions. these complexes achieved partial kinetic resolution of 3-methyl-1-pentene, 3-methyl-1-hexene, and 3,5,5-trimethyl-1-hexene (<italic>s</italic> = <italic>k<sub>faster</sub></italic>/<italic>k<sub>slower</sub></italic> &#x2248; 2), and in paricular, realized high resolution of 3,4-dimethyl-1-pentene (<italic>s</italic> &gt; 15 for <bold>47</bold>). The zirconocene dichlorides having an enantiopure 1-cyclohexylethyl group on the &#x201C;lower&#x201D; cyclopentadienyl ligand <bold>50a</bold> and <bold>50b</bold> are less effective for kinetic resolution of those monomers than <bold>47</bold>&#x2014;<bold>49</bold>.</p>
+      <fig id="molecules-10-00620-f006" position="float">
+        <object-id pub-id-type="pii">molecules-10-00620-scheme6_Scheme 6</object-id>
+        <label>Scheme 6</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-g006.tif"/>
+      </fig>
+    </sec>
+    <sec>
+      <title>Isospecific Polymerization of Polar Monomers</title>
+      <p>Metallocene catalysts are also effective for the polymerization of polar monomers such as methyl methacrylate (MMA), and the representative results of the polymerization of MMA are listed in <xref ref-type="table" rid="molecules-10-00620-t002">Table 2</xref>.</p>
+      <table-wrap id="molecules-10-00620-t002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00620-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Isospecific Polymerization of MMA by Chiral Metallocenes.</p>
+        </caption>
+        <table rules="all" style="border:solid thin">
+<tbody>
+            <tr>
+              <td align="left" valign="middle">Catalyst (Initiator)</td>
+              <td align="center" valign="top">Temp (&#xB0;C)</td>
+              <td align="center" valign="top">[MMA]<sub>0</sub>/[cat.]</td>
+              <td align="center" valign="top">Time (h)</td>
+              <td align="center" valign="middle">Yield (%)</td>
+              <td align="center" valign="middle"><italic>M</italic><sub>n</sub>/10<sup>3</sup></td>
+              <td align="center" valign="middle"><italic>M</italic><sub>w</sub>/<italic>M</italic><sub>n</sub></td>
+              <td align="center" valign="middle"><italic>mm</italic> (%)</td>
+              <td align="center" valign="middle"><italic>mr</italic> (%)</td>
+              <td align="center" valign="middle"><italic>rr</italic> (%)</td>
+              <td align="center" valign="middle">ref.</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>ZrMe<sub>2</sub> (<bold>54</bold>) <break/>/[Ph<sub>3</sub>C][B(C<sub>6</sub>F<sub>5</sub>)<sub>4</sub>] <break/>/Zn(CH<sub>2</sub>CH<sub>2</sub>CH=CH<sub>2</sub>)<sub>2</sub></td>
+              <td align="center" valign="middle">0</td>
+              <td align="center" valign="middle">1870</td>
+              <td align="center" valign="middle">24</td>
+              <td align="center" valign="middle">48</td>
+              <td align="center" valign="middle">599</td>
+              <td align="center" valign="middle">1.30</td>
+              <td align="center" valign="middle">98.0</td>
+              <td align="center" valign="middle">1.3</td>
+              <td align="center" valign="middle">0.7</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B50-molecules-10-00620">50</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(IndH<sub>4</sub>)<sub>2</sub>ZrMe<sub>2</sub> (<bold>55</bold>) <break/>/[Ph<sub>3</sub>C][B(C<sub>6</sub>F<sub>5</sub>)<sub>4</sub>] <break/>/Zn(CH<sub>2</sub>CH<sub>2</sub>CH=CH<sub>2</sub>)<sub>2</sub></td>
+              <td align="center" valign="middle">0</td>
+              <td align="center" valign="middle">1870</td>
+              <td align="center" valign="middle">24</td>
+              <td align="center" valign="middle">64</td>
+              <td align="center" valign="middle">339</td>
+              <td align="center" valign="middle">1.25</td>
+              <td align="center" valign="middle">95.5</td>
+              <td align="center" valign="middle">3.3</td>
+              <td align="center" valign="middle">1.2</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B50-molecules-10-00620">50</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(Ind)<sub>2</sub>ZrMe<sub>2</sub> (<bold>56</bold>) <break/>/[Ph<sub>3</sub>C][B(C<sub>6</sub>F<sub>5</sub>)<sub>4</sub>] <break/>/Zn(CH<sub>2</sub>CH<sub>2</sub>CH=CH<sub>2</sub>)<sub>2</sub></td>
+              <td align="center" valign="middle">0</td>
+              <td align="center" valign="middle">1870</td>
+              <td align="center" valign="middle">24</td>
+              <td align="center" valign="middle">34</td>
+              <td align="center" valign="middle">345</td>
+              <td align="center" valign="middle">1.34</td>
+              <td align="center" valign="middle">91.4</td>
+              <td align="center" valign="middle">5.3</td>
+              <td align="center" valign="middle">2.3</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B50-molecules-10-00620">50</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(Ind)<sub>2</sub>ZrMe<sub>2</sub> (<bold>56</bold>) <break/>/B(C<sub>6</sub>F<sub>4</sub>-2-C<sub>6</sub>F<sub>5</sub>)<sub>3</sub></td>
+              <td align="center" valign="middle">0</td>
+              <td align="center" valign="middle">935</td>
+              <td align="center" valign="middle">5.5</td>
+              <td align="center" valign="middle">100</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">&#x2014;</td>
+              <td align="center" valign="middle">93.0</td>
+              <td align="center" valign="middle">4.8</td>
+              <td align="center" valign="middle">2.2</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B51-molecules-10-00620">51</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>ZrMe<sub>2</sub> (<bold>54</bold>)/B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub></td>
+              <td align="center" valign="middle">r.t.</td>
+              <td align="center" valign="middle">200</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">98</td>
+              <td align="center" valign="middle">48.7</td>
+              <td align="center" valign="middle">1.20</td>
+              <td align="center" valign="middle">95</td>
+              <td align="center" valign="middle">4</td>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B52-molecules-10-00620">52</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-Me<sub>2</sub>Si(Ind)<sub>2</sub>ZrMe<sub>2</sub> (<bold>56</bold>)/Al(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub></td>
+              <td align="center" valign="middle">0</td>
+              <td align="center" valign="middle">200</td>
+              <td align="center" valign="middle">4</td>
+              <td align="center" valign="middle">100</td>
+              <td align="center" valign="middle">73.9</td>
+              <td align="center" valign="middle">1.32</td>
+              <td align="center" valign="middle">4.6</td>
+              <td align="center" valign="middle">34.6</td>
+              <td align="center" valign="middle">60.8</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B53-molecules-10-00620">53</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>ZrMe{OC(OPr<italic><sup>i</sup></italic>)=CMe<sub>2</sub>} (<bold>57</bold>)/B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub></td>
+              <td align="center" valign="middle">r.t.</td>
+              <td align="center" valign="middle">400</td>
+              <td align="center" valign="middle">1/6</td>
+              <td align="center" valign="middle">&gt;99</td>
+              <td align="center" valign="middle">48.6</td>
+              <td align="center" valign="middle">1.03</td>
+              <td align="center" valign="middle">96.7</td>
+              <td align="center" valign="middle">2.2</td>
+              <td align="center" valign="middle">1.1</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B55-molecules-10-00620">55</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle">[<italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>Zr{OC(OPr<italic><sup>i</sup></italic>)=CMe<sub>2</sub>}]-[MeB(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub>] (<bold>58</bold>)</td>
+              <td align="center" valign="middle">r.t.</td>
+              <td align="center" valign="middle">600</td>
+              <td align="center" valign="middle">1/6</td>
+              <td align="center" valign="middle">&gt;99</td>
+              <td align="center" valign="middle">75.5</td>
+              <td align="center" valign="middle">1.03</td>
+              <td align="center" valign="middle">95.3</td>
+              <td align="center" valign="middle">3.2</td>
+              <td align="center" valign="middle">1.5</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B55-molecules-10-00620">55</xref>]</td>
+    </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>Zr<sup>+</sup>Me-OCPr<italic><sup>i</sup></italic>OAl<sup>&#x2013;</sup>(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> (<bold>59</bold>)</td>
+              <td align="center" valign="middle">r.t.</td>
+              <td align="center" valign="middle">400</td>
+              <td align="center" valign="middle">20</td>
+              <td align="center" valign="middle">90</td>
+              <td align="center" valign="middle">51.9</td>
+              <td align="center" valign="middle">1.93</td>
+              <td align="center" valign="middle">6.6</td>
+              <td align="center" valign="middle">34.2</td>
+              <td align="center" valign="middle">59.2</td>
+              <td align="center" valign="middle">[<xref ref-type="bibr" rid="B55-molecules-10-00620">55</xref>]</td>
+    </tr>
+          </tbody>
+        </table>
+		</table-wrap>
+      <p>A cationic achiral zirconocene, [Cp<sub>2</sub>ZrMe(THF)][BPh<sub>4</sub>] (<bold>51</bold>), polymerize MMA in the presence of neutral zirconocene, Cp<sub>2</sub>ZrMe<sub>2</sub> (<bold>52</bold>), to give syndiotactic-rich poly(methyl methacrylate) (PMMA) by chain-end control mechanism [<xref ref-type="bibr" rid="B46-molecules-10-00620">46</xref>]. A two component system composed of neutral zirconocene ester enolate complex, Cp<sub>2</sub>ZrMe{OC(OBu<italic><sup>t</sup></italic>)=CMe<sub>2</sub>} (<bold>53</bold>) as initiator and <bold>51</bold> as catalyst polymerize MMA in a living fashion, and also produces syndiotactic-rich PMMA [<xref ref-type="bibr" rid="B47-molecules-10-00620">47</xref>,<xref ref-type="bibr" rid="B48-molecules-10-00620">48</xref>].</p>
+      <p>In contrast, chiral <italic>ansa</italic>-zirconocene catalysts produce highly isotactic PMMAs via enantiomorphic site-control mechanism. Chiral ethylene-bridged complexes, <italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>ZrMe<sub>2</sub> (<bold>54</bold>), <italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(IndH<sub>4</sub>)<sub>2</sub>ZrMe<sub>2</sub> (<bold>55</bold>) and <italic>rac</italic>-Me<sub>2</sub>Si(Ind)<sub>2</sub>ZrMe<sub>2</sub> (<bold>56</bold>), catalyze polymerization of MMA in the presence of [Ph<sub>3</sub>C][B(C<sub>6</sub>F<sub>5</sub>)<sub>4</sub>] and ZnR<sub>2</sub> (R = Me, Et, <italic>n</italic>-Bu, 1-buten-4-yl) to give highly isotactic PMMA (mm ~98%) at 0 &#xB0;C [<xref ref-type="bibr" rid="B49-molecules-10-00620">49</xref>,<xref ref-type="bibr" rid="B50-molecules-10-00620">50</xref>].</p>
+      <p>Although the <bold>54</bold>&#x2011;<bold>56</bold>/[Ph<sub>3</sub>C][B(C<sub>6</sub>F<sub>5</sub>)<sub>4</sub>] systems are inactive for MMA polymerization without ZnR<sub>2</sub>, the use of B(C<sub>6</sub>F<sub>4</sub>-2-C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> (PBB) as a cocatalyst for zirconocene dimethyl complexes develops catalytic activity for MMA polymerization without ZnR<sub>2</sub> [<xref ref-type="bibr" rid="B51-molecules-10-00620">51</xref>]. Thus, <bold>56</bold>/B(C<sub>6</sub>F<sub>4</sub>-2-C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> shows higher activity and higher isospecificity than the three-component <bold>56</bold>/[Ph<sub>3</sub>C][B(C<sub>6</sub>F<sub>5</sub>)<sub>4</sub>]/ZnR<sub>2</sub> system. The <bold>54</bold>/B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> system rapidly polymerizes MMA in CH<sub>2</sub>Cl<sub>2</sub> to give highly isotactic PMMA with narrow molecular weight distribution [<xref ref-type="bibr" rid="B52-molecules-10-00620">52</xref>].</p>
+      <p>In a sharp contrast to the case of boron-containing cocatalysts, the use of an aluminum-based cocatalyst Al(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> yields syndiotactic-rich PMMA even in a combination of chiral metallocene <bold>56</bold> [<xref ref-type="bibr" rid="B53-molecules-10-00620">53</xref>]. The polymerization by the Al(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> system is proposed to proceed via enolaluminate. A unique combination of the isospecific metallocene catalyst and syndiospecific aluminum catalyst realize isotactic-<italic>b</italic>-syndiotactic stereoblock copolymerization of MMA ([mm]/[mr]/[rr] = 46.4/7.9/45.7) (<xref ref-type="scheme" rid="molecules-10-00620-f007">Scheme 7</xref>) [<xref ref-type="bibr" rid="B54-molecules-10-00620">54</xref>].</p>
+      <p>The active species in these MMA polymerization by zirconocene systems had been suggested to be metal enolates, therefore chiral <italic>ansa</italic>-zirconocene ester enolates were isolated to reveal the polymerization mechanism [<xref ref-type="bibr" rid="B55-molecules-10-00620">55</xref>]. The chiral <italic>ansa</italic>-zirconocene diamide complex <bold><italic>rac</italic>-13</bold> can be derived to a ester enolate complex, <italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>ZrMe{OC(OPr<italic><sup>i</sup></italic>)=CMe<sub>2</sub>} (<bold>57</bold>). The complex <bold>57</bold> reacts with B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> in THF to give a cationic complex [<italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>Zr(THF){OC(OPr<italic><sup>i</sup></italic>)=CMe<sub>2</sub>}][MeB(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub>] (<bold>58</bold>) as expected, while the reaction of <bold>57</bold> with Al(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> yields a tight ion pair <italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>Zr<sup>+</sup>MeOCPr<italic><sup>i</sup></italic>OAl<sup>&#x2013;</sup>(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> (<bold>59</bold>) with liberating propylene (<xref ref-type="scheme" rid="molecules-10-00620-f008">Scheme 8</xref>). Both the <bold>57</bold>/B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> and <bold>58</bold> systems show high activity for the polymerization of MMA to afford highly isotactic PMMA with extremely narrow molecular weight distribution. In contrast, the ion pair <bold>59</bold> produces syndiotactic-rich PMMA.</p>
+      <fig id="molecules-10-00620-f007" position="float">
+        <object-id pub-id-type="pii">molecules-10-00620-scheme7_Scheme 7</object-id>
+        <label>Scheme 7</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-g007.tif"/>
+      </fig>
+	  <fig id="molecules-10-00620-f008" position="float">
+        <object-id pub-id-type="pii">molecules-10-00620-scheme8_Scheme 8</object-id>
+        <label>Scheme 8</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00620-g008.tif"/>
+      </fig>
+      <p>Cationic chiral <italic>C</italic><sub>1</sub>-symmetric <italic>ansa</italic>-zirconocene methyl complexes such as [Me<sub>2</sub>Si(C<sub>5</sub>H<sub>4</sub>)(3-R-C<sub>5</sub>H<sub>3</sub>)ZrMe][MeB(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub>] (R = H, Me, Cy, Pr<italic><sup>i</sup></italic>, Bu<italic><sup>t</sup></italic>) and butadiene derivatives show moderate activity for MMA polymerization&#xFF0E;These two series of catalysts have substantial difference in stereoselectivity in MMA polymerization probably due to an influence of the respective counteranions [<xref ref-type="bibr" rid="B56-molecules-10-00620">56</xref>].</p>
+      <p>The cationic complex <bold>58</bold> also achieved highly isospecific and controlled polymerization of <italic>N</italic>,<italic>N</italic>-dimethylacrylamide (DMAA) for the first time [<xref ref-type="bibr" rid="B57-molecules-10-00620">57</xref>]. The polymerizations of DMAA by cationic methyl complexes [<italic>rac</italic>-(C<sub>2</sub>H<sub>4</sub>)(Ind)<sub>2</sub>ZrMe][MeM(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub>] (M = B and Al) produce isotactic-rich poly(<italic>N</italic>,<italic>N</italic>-dimethylacrylamide) (PDMAA, <italic>mm</italic> = 93% and 61%, respectively). Both complexes yielded highly isotactic PDMAA (<italic>mm</italic> = 98%) in the presence of radical-inhibitor (galvinoxyl), but their molecular weight distributions are broad. The cationic ester enolate complex <bold>58</bold> selectively promotes coordination polymerization of DMAA even without radical-inhibitor to afford almost perfectly isotactic (<italic>mm</italic> &gt; 99%) PDMAA with narrow molecular weight distribution (<italic>M</italic><sub>n</sub> = 92.7 kg/mol, <italic>M</italic><sub>w</sub>/<italic>M</italic><sub>n</sub> = 1.07) and high melting point (<italic>T</italic><sub>m</sub> = 306 &#xB0;C).</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Because of their commercial importance, chiral zirconocenes developed at first as catalyst precursors for the isospecific polymerization of &#x3B1;-olefins, especially of propylene. Now, research interests seem to be moving onto the polymerization of functionalized monomers. Highly stereoregular polymerization of many technologically important polar monomers still remains challenging. Because both enantioselective polymerization of hydrocarbon monomers and isospecific polymerization of polar monomers had been achieved, asymmetric polymerization of polar monomers by enantiopure chiral metallocene catalysts could also be possible. Thus, polymerization of polar monomers by chiral metallocenes seems to be promising.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00620">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scheirs</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kaminsky</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Metallocene-Based Polyolefins</source>
+          <publisher-name>John Wiley &amp; Suns Ltd</publisher-name>
+          <publisher-loc>West Sussex</publisher-loc>
+          <year>2000</year>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00620">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mashima</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Nakayama</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nakamura</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Adv. Polym. Sci.</source>
+          <year>1997</year>
+          <volume>133</volume>
+          <fpage>1</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00620">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Britovsek</surname>
+              <given-names>G. J. P.</given-names>
+            </name>
+            <name>
+              <surname>Gibson</surname>
+              <given-names>V. C.</given-names>
+            </name>
+            <name>
+              <surname>Wass</surname>
+              <given-names>D. F.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>1999</year>
+          <volume>38</volume>
+          <fpage>428</fpage>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1521-3773(19990215)38:4&lt;428::AID-ANIE428&gt;3.0.CO;2-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00620">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wild</surname>
+              <given-names>F. R. W. P.</given-names>
+            </name>
+            <name>
+              <surname>Zsolnai</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Huttner</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Brintzinger</surname>
+              <given-names>H. H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>1982</year>
+          <volume>232</volume>
+          <fpage>233</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00620">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wild</surname>
+              <given-names>F. R. W. P.</given-names>
+            </name>
+            <name>
+              <surname>Wasiucionek</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Huttner</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Brintzinger</surname>
+              <given-names>H. H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>1985</year>
+          <volume>288</volume>
+          <fpage>63</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00620">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grossman</surname>
+              <given-names>R. B.</given-names>
+            </name>
+            <name>
+              <surname>Doyle</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Buchwald</surname>
+              <given-names>S. L.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1991</year>
+          <volume>10</volume>
+          <fpage>1501</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00620">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>I.-M.</given-names>
+            </name>
+            <name>
+              <surname>Gauthier</surname>
+              <given-names>W. J.</given-names>
+            </name>
+            <name>
+              <surname>Ball</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Iyengar</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Collins</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1992</year>
+          <volume>11</volume>
+          <fpage>2115</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00620">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erickson</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>Fronczek</surname>
+              <given-names>F. R.</given-names>
+            </name>
+            <name>
+              <surname>McLaughlin</surname>
+              <given-names>M. L.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>1991</year>
+          <volume>415</volume>
+          <fpage>75</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00620">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Damrau</surname>
+              <given-names>H.-R. H.</given-names>
+            </name>
+            <name>
+              <surname>Royo</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Obert</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Schaper</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Weeber</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Brintzinger</surname>
+              <given-names>H.-H.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>2001</year>
+          <volume>20</volume>
+          <fpage>5258</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00620">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diamond</surname>
+              <given-names>G. M.</given-names>
+            </name>
+            <name>
+              <surname>Jordan</surname>
+              <given-names>R. F.</given-names>
+            </name>
+            <name>
+              <surname>Petersen</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1996</year>
+          <volume>118</volume>
+          <fpage>8024</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00620">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diamond</surname>
+              <given-names>G. M.</given-names>
+            </name>
+            <name>
+              <surname>Jordan</surname>
+              <given-names>R. F.</given-names>
+            </name>
+            <name>
+              <surname>Petersen</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1996</year>
+          <volume>16</volume>
+          <fpage>4030</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00620">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Christopher</surname>
+              <given-names>J. N.</given-names>
+            </name>
+            <name>
+              <surname>Diamond</surname>
+              <given-names>G. M.</given-names>
+            </name>
+            <name>
+              <surname>Jordan</surname>
+              <given-names>R. F.</given-names>
+            </name>
+            <name>
+              <surname>Petersen</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1996</year>
+          <volume>15</volume>
+          <fpage>4038</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00620">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diamond</surname>
+              <given-names>G. M.</given-names>
+            </name>
+            <name>
+              <surname>Jordan</surname>
+              <given-names>R. F.</given-names>
+            </name>
+            <name>
+              <surname>Petersen</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1996</year>
+          <volume>15</volume>
+          <fpage>4045</fpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00620">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Guzei</surname>
+              <given-names>I. A.</given-names>
+            </name>
+            <name>
+              <surname>Jordan</surname>
+              <given-names>R. F.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2000</year>
+          <volume>122</volume>
+          <fpage>8093</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00620">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>E. Y.-X.</given-names>
+            </name>
+			<name>
+              <surname>Richard</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Devore</surname>
+              <given-names>D. D.</given-names>
+            </name>
+            <name>
+              <surname>Green</surname>
+              <given-names>D. P.</given-names>
+            </name>
+            <name>
+              <surname>Link</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Soto</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>D. R.</given-names>
+            </name>
+            <name>
+              <surname>Abboud</surname>
+              <given-names>K. A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2004</year>
+          <volume>126</volume>
+          <fpage>42</fpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00620">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ewen</surname>
+              <given-names>J. A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1984</year>
+          <volume>106</volume>
+          <fpage>6355</fpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00620">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rieger</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Mu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Mallin</surname>
+              <given-names>D. T.</given-names>
+            </name>
+            <name>
+              <surname>Rausch</surname>
+              <given-names>M. D.</given-names>
+            </name>
+            <name>
+              <surname>Chien</surname>
+              <given-names>J. C. W.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>1990</year>
+          <volume>23</volume>
+          <fpage>3559</fpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00620">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaminsky</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Kulper</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Brintzinger</surname>
+              <given-names>H. H.</given-names>
+            </name>
+            <name>
+              <surname>Wild</surname>
+              <given-names>F. R. W. P.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem., Int. Ed. Engl.</source>
+          <year>1985</year>
+          <volume>24</volume>
+          <fpage>507</fpage>
+          <pub-id pub-id-type="doi">10.1002/anie.198505071</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00620">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grassi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Zambelli</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Resconi</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Albizzati</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Mazzocchi</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>1988</year>
+          <volume>21</volume>
+          <fpage>617</fpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00620">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Longo</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Grassi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pellecchia</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Zambelli</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>1987</year>
+          <volume>20</volume>
+          <fpage>1015</fpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00620">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herrmann</surname>
+              <given-names>W. A.</given-names>
+            </name>
+            <name>
+              <surname>Rohrmann</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem., Int. Ed. Engl.</source>
+          <year>1989</year>
+          <volume>28</volume>
+          <fpage>1511</fpage>
+          <pub-id pub-id-type="doi">10.1002/anie.198915111</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00620">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mise</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Miya</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yamazaki</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Lett.</source>
+          <year>1989</year>
+          <fpage>1853</fpage>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00620">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>R&#xF6;ll</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Brinztinger</surname>
+              <given-names>H.-H.</given-names>
+            </name>
+            <name>
+              <surname>Rieger</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Zolk</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem., Int. Ed. Engl.</source>
+          <year>1990</year>
+          <volume>29</volume>
+          <fpage>279</fpage>
+          <pub-id pub-id-type="doi">10.1002/anie.199002791</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00620">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spaleck</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>K&#xFC;ber</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Winter</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Rohrmann</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bachmann</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Antberg</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Dolle</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Paulus</surname>
+              <given-names>E. F.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1994</year>
+          <volume>13</volume>
+          <fpage>954</fpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00620">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stehling</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Diebold</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>R&#xF6;ll</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Brintzinger</surname>
+              <given-names>H. H.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1994</year>
+          <volume>13</volume>
+          <fpage>964</fpage>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00620">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>J&#xFC;ngling</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>M&#xFC;lhaupt</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Stehling</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Brintzinger</surname>
+              <given-names>H.-H.</given-names>
+            </name>
+            <name>
+              <surname>Fischer</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Langhauser</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>J. Polym. Sci., Part A: Polym. Chem.</source>
+          <year>1995</year>
+          <volume>33</volume>
+          <fpage>1305</fpage>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00620">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ewen</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Elder</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>R. L.</given-names>
+            </name>
+            <name>
+              <surname>Rheingold</surname>
+              <given-names>A. L.</given-names>
+            </name>
+            <name>
+              <surname>Liable-Sands</surname>
+              <given-names>L. M.</given-names>
+            </name>
+            <name>
+              <surname>Sommer</surname>
+              <given-names>R. D.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2001</year>
+          <volume>123</volume>
+          <fpage>4763</fpage>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00620">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mengele</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Diebold</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Troll</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>R&#xF6;ll</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Brintzinger</surname>
+              <given-names>H.-H.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1993</year>
+          <volume>12</volume>
+          <fpage>1931</fpage>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00620">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ewen</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Haspeslagh</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Atwood</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1987</year>
+          <volume>109</volume>
+          <fpage>6544</fpage>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00620">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Farina</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Silvestro</surname>
+              <given-names>G. D.</given-names>
+            </name>
+            <name>
+              <surname>Sozzani</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>1993</year>
+          <volume>26</volume>
+          <fpage>946</fpage>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00620">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ewen</surname>
+              <given-names>J. A.</given-names>
+            </name>
+          </person-group>
+          <source>Macromol. Symp.</source>
+          <year>1995</year>
+          <volume>89</volume>
+          <fpage>181</fpage>
+          <pub-id pub-id-type="doi">10.1002/masy.19950890119</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00620">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mallin</surname>
+              <given-names>D. T.</given-names>
+            </name>
+            <name>
+              <surname>Rausch</surname>
+              <given-names>M. D.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>Y.-G.</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Chien</surname>
+              <given-names>J. C. W.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1990</year>
+          <volume>112</volume>
+          <fpage>2030</fpage>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-00620">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chien</surname>
+              <given-names>J. C. W.</given-names>
+            </name>
+            <name>
+              <surname>Llinas</surname>
+              <given-names>G. H.</given-names>
+            </name>
+            <name>
+              <surname>Rausch</surname>
+              <given-names>M. D.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>G.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Winter</surname>
+              <given-names>H. H.</given-names>
+            </name>
+            <name>
+              <surname>Atwood</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Bott</surname>
+              <given-names>S. G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1991</year>
+          <volume>113</volume>
+          <fpage>8569</fpage>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-00620">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Llinas</surname>
+              <given-names>G. H.</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>S.-H.</given-names>
+            </name>
+            <name>
+              <surname>Mallin</surname>
+              <given-names>D. T.</given-names>
+            </name>
+            <name>
+              <surname>Rausch</surname>
+              <given-names>M. D.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>Y.-G.</given-names>
+            </name>
+            <name>
+              <surname>Winter</surname>
+              <given-names>H. H.</given-names>
+            </name>
+            <name>
+              <surname>Chien</surname>
+              <given-names>J. C. W.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>1992</year>
+          <volume>25</volume>
+          <fpage>1242</fpage>
+        </citation>
+      </ref>
+      <ref id="B35-molecules-10-00620">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erker</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Nolte</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Tsay</surname>
+              <given-names>Y.-H.</given-names>
+            </name>
+            <name>
+              <surname>Kr&#xFC;ger</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem., Int. Ed. Engl.</source>
+          <year>1989</year>
+          <volume>28</volume>
+          <fpage>628</fpage>
+          <pub-id pub-id-type="doi">10.1002/anie.198906281</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36-molecules-10-00620">
+        <label>36.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erker</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Nolte</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Aul</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Wilker</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kr&#xFC;ger</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Noe</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1991</year>
+          <volume>113</volume>
+          <fpage>7594</fpage>
+        </citation>
+      </ref>
+      <ref id="B37-molecules-10-00620">
+        <label>37.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erker</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Aulbach</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Knickmeier</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wingberm&#xFC;hle</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kr&#xFC;ger</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Nolte</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Werner</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1993</year>
+          <volume>115</volume>
+          <fpage>4590</fpage>
+        </citation>
+      </ref>
+      <ref id="B38-molecules-10-00620">
+        <label>38.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erker</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Temme</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1992</year>
+          <volume>114</volume>
+          <fpage>4004</fpage>
+        </citation>
+      </ref>
+      <ref id="B39-molecules-10-00620">
+        <label>39.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erker</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Pure and Appl. Chem.</source>
+          <year>1992</year>
+          <volume>64</volume>
+          <fpage>393</fpage>
+        </citation>
+      </ref>
+      <ref id="B40-molecules-10-00620">
+        <label>40.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Razavi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Atwood</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1993</year>
+          <volume>115</volume>
+          <fpage>7529</fpage>
+        </citation>
+      </ref>
+      <ref id="B41-molecules-10-00620">
+        <label>41.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coates</surname>
+              <given-names>C. W.</given-names>
+            </name>
+            <name>
+              <surname>Waymouth</surname>
+              <given-names>R. M.</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <year>1995</year>
+          <volume>267</volume>
+          <fpage>217</fpage>
+        </citation>
+      </ref>
+      <ref id="B42-molecules-10-00620">
+        <label>42.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coates</surname>
+              <given-names>G. W.</given-names>
+            </name>
+            <name>
+              <surname>Waymouth</surname>
+              <given-names>R. M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1993</year>
+          <volume>115</volume>
+          <fpage>91</fpage>
+        </citation>
+      </ref>
+      <ref id="B43-molecules-10-00620">
+        <label>43.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Waymouth</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Pino</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1990</year>
+          <volume>112</volume>
+          <fpage>4911</fpage>
+        </citation>
+      </ref>
+      <ref id="B44-molecules-10-00620">
+        <label>44.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pino</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>1990</year>
+          <volume>370</volume>
+          <fpage>1</fpage>
+        </citation>
+      </ref>
+      <ref id="B45-molecules-10-00620">
+        <label>45.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baar</surname>
+              <given-names>C. R.</given-names>
+            </name>
+            <name>
+              <surname>Levy</surname>
+              <given-names>C. J.</given-names>
+            </name>
+            <name>
+              <surname>Min</surname>
+              <given-names>E. Y.-J.</given-names>
+            </name>
+            <name>
+              <surname>Henling</surname>
+              <given-names>L. M.</given-names>
+            </name>
+            <name>
+              <surname>Day</surname>
+              <given-names>M. W.</given-names>
+            </name>
+            <name>
+              <surname>Bercaw</surname>
+              <given-names>J. E.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2004</year>
+          <volume>126</volume>
+          <fpage>8216</fpage>
+        </citation>
+      </ref>
+      <ref id="B46-molecules-10-00620">
+        <label>46.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Collins</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>D. G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1992</year>
+          <volume>114</volume>
+          <fpage>5460</fpage>
+        </citation>
+      </ref>
+      <ref id="B47-molecules-10-00620">
+        <label>47.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>D. G.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>S. S.</given-names>
+            </name>
+            <name>
+              <surname>Collins</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>1997</year>
+          <volume>30</volume>
+          <fpage>1875</fpage>
+        </citation>
+      </ref>
+      <ref id="B48-molecules-10-00620">
+        <label>48.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Collins</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>D. G.</given-names>
+            </name>
+            <name>
+              <surname>Suddaby</surname>
+              <given-names>K. H.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>1994</year>
+          <volume>2</volume>
+          <fpage>24</fpage>
+        </citation>
+      </ref>
+      <ref id="B49-molecules-10-00620">
+        <label>49.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soga</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Yano</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Shiono</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>1994</year>
+          <volume>27</volume>
+          <fpage>7938</fpage>
+        </citation>
+      </ref>
+      <ref id="B50-molecules-10-00620">
+        <label>50.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deng</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Shiono</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Soga</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>1995</year>
+          <volume>28</volume>
+          <fpage>3067</fpage>
+        </citation>
+      </ref>
+      <ref id="B51-molecules-10-00620">
+        <label>51.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y.-X. E.</given-names>
+            </name>
+            <name>
+              <surname>Metz</surname>
+              <given-names>M. V.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Stern</surname>
+              <given-names>C. L.</given-names>
+            </name>
+            <name>
+              <surname>Marks</surname>
+              <given-names>T. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1998</year>
+          <volume>120</volume>
+          <fpage>6287</fpage>
+        </citation>
+      </ref>
+      <ref id="B52-molecules-10-00620">
+        <label>52.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cameron</surname>
+              <given-names>P. A.</given-names>
+            </name>
+            <name>
+              <surname>Gibson</surname>
+              <given-names>V. C.</given-names>
+            </name>
+            <name>
+              <surname>Graham</surname>
+              <given-names>A. J.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>2000</year>
+          <volume>33</volume>
+          <fpage>4329</fpage>
+        </citation>
+      </ref>
+      <ref id="B53-molecules-10-00620">
+        <label>53.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolig</surname>
+              <given-names>A. D.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>E. Y.-X.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2001</year>
+          <volume>123</volume>
+          <fpage>7943</fpage>
+        </citation>
+      </ref>
+      <ref id="B54-molecules-10-00620">
+        <label>54.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolig</surname>
+              <given-names>A. D.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>E. Y.-X.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2002</year>
+          <volume>124</volume>
+          <fpage>5612</fpage>
+        </citation>
+      </ref>
+      <ref id="B55-molecules-10-00620">
+        <label>55.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolig</surname>
+              <given-names>A. D.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>E. Y.-X.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2004</year>
+          <volume>126</volume>
+          <fpage>4897</fpage>
+        </citation>
+      </ref>
+      <ref id="B56-molecules-10-00620">
+        <label>56.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Strauch</surname>
+              <given-names>J. W.</given-names>
+            </name>
+            <name>
+              <surname>Faure</surname>
+              <given-names>J.-L.</given-names>
+            </name>
+            <name>
+              <surname>Bredeau</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kehr</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Frohlich</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Luftmann</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Erker</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2004</year>
+          <volume>126</volume>
+          <fpage>2089</fpage>
+        </citation>
+      </ref>
+      <ref id="B57-molecules-10-00620">
+        <label>57.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mariott</surname>
+              <given-names>W. R.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>E. Y.-X.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>2004</year>
+          <volume>37</volume>
+          <fpage>4741</fpage>
+        </citation>
+      </ref>
+      <ref id="B58-molecules-10-00620">
+        <label>58.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bochmann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lancaster</surname>
+              <given-names>S. J.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1993</year>
+          <volume>12</volume>
+          <fpage>633</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

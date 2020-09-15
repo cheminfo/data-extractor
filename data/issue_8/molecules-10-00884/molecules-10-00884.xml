@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+ <front>
+ <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+  </journal-meta>
+  <article-meta>
+   <article-id pub-id-type="doi">10.3390/10080884</article-id>
+   <article-id pub-id-type="publisher-id">molecules-10-00884</article-id>
+   <article-categories>
+    <subj-group>
+     <subject>Article</subject>
+    </subj-group>
+   </article-categories>
+   <title-group>
+    <article-title>Bi(OTf)<sub>3</sub> and SiO<sub>2</sub>-Bi(OTf)<sub>3</sub> as Effective Catalysts for the Ferrier Rearrangement<xref rid="fn1-molecules-10-00884" ref-type="fn">#</xref></article-title>
+   </title-group>
+   <contrib-group>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Babu</surname>
+      <given-names>J. Lokesh</given-names>
+     </name>
+     <xref rid="af1-molecules-10-00884" ref-type="aff">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Khare</surname>
+      <given-names>Anakshi</given-names>
+     </name>
+     <xref rid="af2-molecules-10-00884" ref-type="aff">2</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Vankar</surname>
+      <given-names>Yashwant D.</given-names>
+     </name>
+     <xref rid="af1-molecules-10-00884" ref-type="aff">1</xref>
+     <xref rid="c1-molecules-10-00884" ref-type="corresp">*</xref>
+    </contrib>
+   </contrib-group>
+   <aff id="af1-molecules-10-00884"><label>1</label>Department of Chemistry, Indian Institute of Technology Kanpur 208 016, India. Fax: (+91)-512- 259 7492.</aff>
+   <aff id="af2-molecules-10-00884"><label>2</label>Department of Chemistry, University of Lucknow, Lucknow 226 006, India.</aff>
+   <author-notes>
+    <corresp id="c1-molecules-10-00884"><label>*</label> Author to whom correspondence should be addressed. E-Mail: <email>vankar@iitk.ac.in</email></corresp>
+    <fn id="fn1-molecules-10-00884">
+     <label>#</label>
+     <p>This paper is dedicated to Prof. K. K. Balsubramanian on his 65<sup>th</sup> birthday.</p>
+    </fn>
+   </author-notes>
+   <pub-date pub-type="epub">
+    <day>31</day>
+    <month>08</month>
+    <year>2005</year>
+   </pub-date>
+   <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>8</issue>
+   <fpage>884</fpage>
+	 <lpage>892</lpage>
+   <history>
+    <date date-type="received">
+     <day>09</day>
+     <month>11</month>
+     <year>2004</year>
+    </date>
+    <date date-type="rev-recd">
+     <day>07</day>
+     <month>02</month>
+     <year>2005</year>
+    </date>
+    <date date-type="accepted">
+     <day>07</day>
+     <month>02</month>
+     <year>2005</year>
+    </date>
+   </history>
+   <permissions>
+    <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+    <copyright-year>2005</copyright-year>
+    <license license-type="open-access">
+     <p>Reproduction is permitted for non commercial purposes.</p>
+    </license>
+   </permissions>
+   <abstract>
+    <p>Bi(OTf)<sub>3</sub> and SiO<sub>2</sub>-Bi(OTf)<sub>3</sub> are found to effectively catalyze the Ferrier rearrangement of tri-O-acetyl glycals with different alcohols providing an effective route to 2,3-unsaturated <italic>O</italic>-glycosides with good anomeric selectivity and&#xA0; good to excellent yields after short reaction times.</p>
+   </abstract>
+   <kwd-group>
+    <kwd>Glycals</kwd>
+    <kwd>pseudoglycals</kwd>
+    <kwd>glycosidation</kwd>
+    <kwd>bismuth triflate</kwd>
+    <kwd>Ferrier rearrangement</kwd>
+   </kwd-group>
+  </article-meta>
+ </front>
+ <body>
+  <sec sec-type="intro">
+   <title>Introduction</title>
+   <p>The Lewis acid catalyzed allylic rearrangement of glycals in the presence of alcohols is known as the Ferrier rearrangement [<xref ref-type="bibr" rid="B1-molecules-10-00884">1</xref>]. This rearrangement leads to the formation of alkyl and aryl 2,3- unsaturated-<italic>O</italic>-glycosides, which are versatile chiral intermediates in the synthesis of several biologically active natural products [<xref ref-type="bibr" rid="B2-molecules-10-00884">2</xref>]. 2,3-Unsaturated-<italic>O</italic>-glycosides are also important building blocks in the synthesis of some antibiotics [<xref ref-type="bibr" rid="B3-molecules-10-00884">3</xref>]. The Ferrier rearrangement involves the intermediacy of an allylic oxycarbenium ion to which the nucleophile adds preferentially in a quasi-axial orientation. The Lewis acid catalysts used for this rearrangement include BF<sub>3</sub>&#xB7;OEt<sub>2</sub> [<xref ref-type="bibr" rid="B4-molecules-10-00884">4</xref>], SnCl<sub>4</sub> [<xref ref-type="bibr" rid="B5-molecules-10-00884">5</xref>] and FeCl<sub>3</sub> [<xref ref-type="bibr" rid="B6-molecules-10-00884">6</xref>]. Other reagents such as DDQ [<xref ref-type="bibr" rid="B7-molecules-10-00884">7</xref>], NIS [<xref ref-type="bibr" rid="B8-molecules-10-00884">8</xref>], I<sub>2</sub> [<xref ref-type="bibr" rid="B9-molecules-10-00884">9</xref>], acidic Montmorillonite K-10 [<xref ref-type="bibr" rid="B10-molecules-10-00884">10</xref>], BiCl<sub>3</sub>  [<xref ref-type="bibr" rid="B11-molecules-10-00884">11</xref>] and InCl<sub>3</sub> [<xref ref-type="bibr" rid="B12-molecules-10-00884">12</xref>] are also known to bring about the Ferrier rearrangement under different conditions. In recent years Sc(OTf)<sub>3</sub> [<xref ref-type="bibr" rid="B13-molecules-10-00884">13</xref>] and Yb(OTf)<sub>3</sub> [<xref ref-type="bibr" rid="B14-molecules-10-00884">14</xref>] have also been employed for the Ferrier rearrangement. However, many of these procedures have limitations in terms of yields, stereoselectivities, reaction temperatures, reaction times and amounts of reagent or catalyst used. For example, 1.6 equivalents of NIS [<xref ref-type="bibr" rid="B8-molecules-10-00884">8</xref>], or varied amounts of BF<sub>3</sub>&#xB7;OEt<sub>2</sub>  [<xref ref-type="bibr" rid="B4-molecules-10-00884">4</xref>] are needed to bring about the transformation. Reagents such as Sc(OTf)<sub>3</sub> and Yb(OTf)<sub>3</sub> are relatively expensive and while using Yb(OTf)<sub>3</sub> for this transformation, the reaction time is somewhat longer in some cases (see <xref ref-type="table" rid="molecules-10-00884-t002">Table 2</xref>). Therefore, there is a need for the introduction of convenient and inexpensive reagents which are cheaper, require shorter reaction times and offer good anomeric selectivity.</p>
+   <p>To this end bismuth(III) trifluoromethane sufonate (bismuth triflate) [Bi(OTf)<sub>3</sub>], has drawn our attention for use in the Ferrier rearrangement as it is cheap, easy to prepare [<xref ref-type="bibr" rid="B15-molecules-10-00884">15</xref>], and has low toxicity. Bismuth triflate has been used as a catalyst for the Friedel-Crafts acylation [<xref ref-type="bibr" rid="B16-molecules-10-00884">16</xref>], sulfonylation of arenes [<xref ref-type="bibr" rid="B17-molecules-10-00884">17</xref>], the Diels-Alder reaction [<xref ref-type="bibr" rid="B18-molecules-10-00884">18</xref>], aza Diels-Alder reaction [<xref ref-type="bibr" rid="B19-molecules-10-00884">19</xref>], acylation of alcohols [<xref ref-type="bibr" rid="B20-molecules-10-00884">20</xref>], epoxide rearrangements [<xref ref-type="bibr" rid="B21-molecules-10-00884">21</xref>] and acylal synthesis [<xref ref-type="bibr" rid="B22-molecules-10-00884">22</xref>].</p>
+  </sec>
+  <sec sec-type="results">
+   <title>Results and Discussion</title>
+   <p>Herein, we wish to report that Bi(OTf)<sub>3</sub> acts as a mild and highly efficient reagent for the <italic>O</italic>-glycosylation of 3,4,6-tri-<italic>O</italic>-acetylglucal (<bold>1</bold>) with diverse alcohols (<xref ref-type="scheme" rid="molecules-10-00884-f001">Scheme 1</xref>). The glycosylation of tri-<italic>O</italic>-acetyl glucal with primary, secondary, benzyl, allyl and propargyl alcohols proceeded smoothly at ambient temperature to afford, after short reaction times, the corresponding alkyl 2,3-unsaturated glycosides <bold>2</bold> in good to high yields, with the &#x3B1;-anomer being the major or the exclusive product. Our results are summarized in <xref ref-type="table" rid="molecules-10-00884-t001">Table 1</xref>. As shown there, these glycosylation reactions proceed smoothly in the presence of 2 mol % of Bi(OTf)<sub>3</sub> or 2 mol% of the catalyst supported on 250 mg of SiO<sub>2</sub> in dichloromethane per 100 mg of the 3,4,6-tri-<italic>O</italic>-acetylglucal substrate. In all the given examples, except for entry 12 (&#x3B2;-naphthol), the corresponding <italic>O</italic>-glycosylation products are obtained. In the case of entry 12 the corresponding 1-<italic>C</italic>-glucoside was obtained, presumably via rearrangement of the corresponding <italic>O</italic>-glucoside. Formation of the C-glucoside was confirmed by its acetylation followed by the characterization of the corresponding acetylated product by <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, IR and mass spectral data (cf. Experimental section).</p>
+   <fig id="molecules-10-00884-f001" position="float">
+    <object-id pub-id-type="pii">molecules-10-00884-f001_Scheme 1</object-id>
+    <label>Scheme 1</label>
+    <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-g001.tif"/>
+   </fig>
+   <p>Further, we have also found that bismuth triflate supported on silica gel also acts as an efficient reagent for the above transformation. The use of SiO<sub>2</sub>-supported Bi(OTf)<sub>3</sub> reagent had in some cases interesting effects in terms of yield (entries 9,10,14), reaction time (entries 1, 3, 13) and selectivity (entries 1, 2, 5), as can be seen in <xref ref-type="table" rid="molecules-10-00884-t001">Table 1</xref>. Therefore it appears that increasing the surface of the catalyst is advantageous in certain cases, although it reduces the reactivity. It is therefore clear that either of the reagents could be more useful, depending on the glycosyl acceptor.</p>
+   <table-wrap id="molecules-10-00884-t001" position="float">
+    <object-id pub-id-type="pii">molecules-10-00884-t001_Table 1</object-id>
+    <label>Table 1</label>
+    <caption>
+     <p>Bi(OTf)<sub>3</sub> catalyzed glycosylation of alcohols.</p>
+    </caption>
+    <table>
+<thead>
+      <tr>
+       <th rowspan="2" align="center" valign="top" style="border:solid thin">S. No.</th>
+       <th rowspan="2" align="center" valign="top" style="border:solid thin">Alcohol</th>
+       <th colspan="3" align="center" valign="top" style="border:solid thin">Bi(OTf)<sub>3</sub></th>
+       <th colspan="3" align="center" valign="top" style="border:solid thin">Bi(OTf)<sub>3</sub> &#x2013; SiO<sub>2</sub></th>
+    </tr>
+      <tr>
+       <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Reaction time</th>
+       <th align="center" valign="top" style="border:solid thin">Yield (%)
+        <italic><sup>a</sup></italic></th>
+       <th align="center" valign="top" style="border:solid thin">Anomeric ratio(a:b)
+        <italic><sup>b</sup></italic></th>
+       <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Reaction time</th>
+       <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Yield (%)
+        <italic><sup>a</sup></italic></th>
+       <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Anomeric ratio(a:b)<sup>b</sup></th>
+    </tr>
+  </thead>
+     <tbody>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">1.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">CH<sub>3</sub>CH<sub>2</sub>OH</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">78</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5.5 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">40 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">72</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">12 : 1</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">2.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>OH</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">45 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">72</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">70</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">10 : 1</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">3.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">CH<sub>3</sub>OH</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">56</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6.6 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">75 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">81</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6.9 : 1</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">4.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i001.tif"/></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">20 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">70</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5.5 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">45 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">60</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5.3 : 1</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">5.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">CH<sub>3</sub>(CH<sub>2</sub>)<sub>7</sub>OH</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">50 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">84</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">4.5 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">83</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">8.9 :1</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">6.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i002.tif"/></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">75</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x3B1;</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">51</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x3B1;</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">7.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i003.tif"/></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">73</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x3B1;</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2.5 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">76</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">7.8 : 1</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">8.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i004.tif"/></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">30 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">82</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x3B1;</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">80</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3 : 1</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">9.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i005.tif"/></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">25 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">53</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">40 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">81</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">8.7 : 1</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">10.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i006.tif"/></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">69</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">4 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">15 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">90</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2.2 : 1</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">11.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Cholesterol</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">70</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x3B1;</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">74</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">15 : 1<sup>c</sup></td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">12.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i007.tif"/></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">10 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">66</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">20 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">58</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3.2 : 1<sup>d</sup></td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">13.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i008.tif"/></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">12 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">73</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">16 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">61</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">12 : 1</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">14.</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i009.tif"/></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">79</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">20 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">83</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6 : 1</td>
+      </tr>
+     </tbody>
+    </table>
+    <table-wrap-foot>
+     <fn>
+      <p><list list-type="roman-lower">
+   <list-item>
+   <label>(a)</label>
+   <p>Isolated yields</p>
+   </list-item>
+   <list-item>
+   <label>(b)</label>
+<p>Anomeric ratio is determined by <sup>1</sup>H-NMR (400MHz) spectroscopy.</p>
+   </list-item>
+   <list-item>
+   <label>(c)</label>
+<p>4 mol % of the catalyst was used and reaction warmed to 40<sup>o</sup>C.</p>
+   </list-item>
+   <list-item>
+   <label>(d)</label>
+   <p>Only C-Ferrier product is observed.</p>
+   </list-item>
+   </list></p>
+     </fn>
+    </table-wrap-foot>
+   </table-wrap>
+   <p>A comparison of the literature methods with the new Bi(OTf)<sub>3</sub> and Bi(OTf)<sub>3</sub>-SiO<sub>2</sub> reagents is presented in <xref ref-type="table" rid="molecules-10-00884-t002">Table 2</xref>. Although BiCl<sub>3</sub> is known [<xref ref-type="bibr" rid="B11-molecules-10-00884">11</xref>] to bring about the Ferrier rearrangement (cf. entries 1, 3, 4 and 7, <xref ref-type="table" rid="molecules-10-00884-t002">Table 2</xref>), it is clear from the data that with alcohols such as benzyl alcohol (entry 1), propargyl alcohol (entry 3), and allyl alcohol (entry 4) the time required using bismuth chloride is between 1 to 1.5 h, in comparison to 3 min required using Bi(OTf)<sub>3</sub>.</p>
+   <table-wrap id="molecules-10-00884-t002" position="float">
+    <object-id pub-id-type="pii">molecules-10-00884-t002_Table 2</object-id>
+    <label>Table 2</label>
+    <caption>
+     <p>Comparison of results of Bi(OTf)<sub>3</sub> with other catalysts</p>
+    </caption>
+    <table>
+<thead>
+      <tr>
+       <th align="left" valign="top" style="border:solid thin"> S.No.</th>
+       <th align="left" valign="top" style="border:solid thin"> Alcohol</th>
+       <th align="left" valign="top" style="border:solid thin"> Catalyst</th>
+       <th align="left" valign="top" style="border:solid thin"> Time</th>
+       <th align="left" valign="top" style="border:solid thin"> Yield (%)</th>
+       <th align="left" valign="top" style="border:solid thin">(&#x3B1; :&#x3B2;) ratio</th>
+       <th align="center" valign="top" style="border:solid thin">Amount of catalyst used</th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td rowspan="7" align="center" valign="top" style="border:solid thin">1.</td>
+       <td rowspan="7" align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i010.tif"/></td>
+       <td align="center" valign="top" style="border-right:solid thin">CAN</td>
+       <td align="center" valign="top" style="border-right:solid thin">3 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">90</td>
+       <td align="center" valign="top" style="border-right:solid thin">7 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Sc(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">3.5 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">85</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Yb(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">3 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">94</td>
+       <td align="center" valign="top" style="border-right:solid thin">9 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 mol%</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">BiCl<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">1 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">94</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 mol%</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">InCl<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">10 min</td>
+       <td align="center" valign="top" style="border-right:solid thin">86</td>
+       <td align="center" valign="top" style="border-right:solid thin">6.3 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">20 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Bi(OTf)<sub>3</sub>-SiO<sub>2</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">15 min</td>
+       <td align="center" valign="top" style="border-right:solid thin">90</td>
+       <td align="center" valign="top" style="border-right:solid thin">2.2 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Bi(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">69</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">4 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td rowspan="4" align="center" valign="top" style="border:solid thin">2.</td>
+       <td rowspan="4" align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i011.tif"/></td>
+       <td align="center" valign="top" style="border-right:solid thin">CAN</td>
+       <td align="center" valign="top" style="border-right:solid thin">2.5 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">89</td>
+       <td align="center" valign="top" style="border-right:solid thin">9 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Sc(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">2.5 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">92</td>
+       <td align="center" valign="top" style="border-right:solid thin">9 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Bi(OTf)<sub>3</sub>-SiO<sub>2</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">40 min</td>
+       <td align="center" valign="top" style="border-right:solid thin">81</td>
+       <td align="center" valign="top" style="border-right:solid thin">8.7 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Bi(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">25 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">53</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td rowspan="6" align="center" valign="top" style="border:solid thin">3.</td>
+       <td rowspan="6" align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i012.tif"/></td>
+       <td align="center" valign="top" style="border-right:solid thin">CAN</td>
+       <td align="center" valign="top" style="border-right:solid thin">6 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">80</td>
+       <td align="center" valign="top" style="border-right:solid thin">4 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Sc(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">1.5 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">93</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Yb(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">4 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">91</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">BiCl<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">1.5 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">95</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Bi(OTf)<sub>3</sub>-SiO<sub>2</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">2.5 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">76</td>
+       <td align="center" valign="top" style="border-right:solid thin">7.8 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Bi(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">73</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x3B1;</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td rowspan="6" align="center" valign="top" style="border:solid thin">4.</td>
+       <td rowspan="6" align="left" valign="top" style="border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i013.tif"/></td>
+       <td align="center" valign="top" style="border-right:solid thin">CANSc</td>
+       <td align="center" valign="top" style="border-right:solid thin">3 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">90</td>
+       <td align="center" valign="top" style="border-right:solid thin">4 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 mol %</td>
+      </tr>
+       <tr>
+       <td align="center" valign="top" style="border-right:solid thin">(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">1.5 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">95</td>
+       <td align="center" valign="top" style="border-right:solid thin">7 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">BiCl<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">1.5 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">95</td>
+       <td align="center" valign="top" style="border-right:solid thin">11 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Bi(OTf)<sub>3</sub>-SiO<sub>2</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">2 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">51</td>
+       <td align="center" valign="top" style="border-right:solid thin">&#x3B1;</td>
+       <td align="center" valign="top" style="border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Bi(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">3 min</td>
+       <td align="center" valign="top" style="border-right:solid thin">75</td>
+       <td align="center" valign="top" style="border-right:solid thin">&#x3B1;</td>
+       <td align="center" valign="top" style="border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">I<sub>2</sub></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">88</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">7 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">20 mol %</td>
+      </tr>
+      <tr>
+       <td rowspan="6" align="center" valign="top" style="border:solid thin">5.</td>
+       <td rowspan="6" align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i014.tif"/></td>
+       <td align="center" valign="top" style="border-right:solid thin">CAN</td>
+       <td align="center" valign="top" style="border-right:solid thin">4.5 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">80</td>
+       <td align="center" valign="top" style="border-right:solid thin">14 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 mol%</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Sc(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">3 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">83</td>
+       <td align="center" valign="top" style="border-right:solid thin">7 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 mol%</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Yb(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">18 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">89</td>
+       <td align="center" valign="top" style="border-right:solid thin">11 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">InCl<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">30 min</td>
+       <td align="center" valign="top" style="border-right:solid thin">90</td>
+       <td align="center" valign="top" style="border-right:solid thin">9 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">20 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Bi(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">30 min</td>
+       <td align="center" valign="top" style="border-right:solid thin">82</td>
+       <td align="center" valign="top" style="border-right:solid thin">&#x3B1;</td>
+       <td align="center" valign="top" style="border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Bi(OTf)<sub>3</sub>-SiO<sub>2</sub></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">80</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td rowspan="4" align="center" valign="top" style="border:solid thin">6.</td>
+       <td rowspan="4" align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i015.tif"/></td>
+       <td align="center" valign="top" style="border-right:solid thin">CAN</td>
+       <td align="center" valign="top" style="border-right:solid thin">4 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">87</td>
+       <td align="center" valign="top" style="border-right:solid thin">7 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Sc(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">2 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">92</td>
+       <td align="center" valign="top" style="border-right:solid thin">9 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-right:solid thin">Bi(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">5 min</td>
+       <td align="center" valign="top" style="border-right:solid thin">79</td>
+       <td align="center" valign="top" style="border-right:solid thin">6 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Bi(OTf)<sub>3</sub>-SiO<sub>2</sub></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">20 min</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">83</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6 : 1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">7.</td>
+       <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">Cholesterol</td>
+       <td align="center" valign="top" style="border-right:solid thin">CAN</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">78</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">10 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin"> </td>
+       <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+       <td align="center" valign="top" style="border-right:solid thin">BiCl<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">2 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">90</td>
+       <td align="center" valign="top" style="border-right:solid thin">4 : 1</td>
+       <td align="center" valign="top" style="border-right:solid thin">5 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin"> </td>
+       <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+       <td align="center" valign="top" style="border-right:solid thin">Bi(OTf)<sub>3</sub></td>
+       <td align="center" valign="top" style="border-right:solid thin">2 h</td>
+       <td align="center" valign="top" style="border-right:solid thin">70</td>
+       <td align="center" valign="top" style="border-right:solid thin">&#x3B1;</td>
+       <td align="center" valign="top" style="border-right:solid thin">2 mol %</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin"> </td>
+       <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Bi(OTf)<sub>3</sub>-SiO<sub>2</sub></td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3 h</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">74</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">15:1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2 mol%</td>
+      </tr>
+     </tbody>
+    </table>
+   </table-wrap>
+   <p>Likewise, with allyl alcohol, propargyl alcohol and cholesterol (entry 7) the Ferrier product is a mixture of &#x3B1; and &#x3B2; anomers using bismuth chloride whereas with Bi(OTf)<sub>3</sub> only the &#x3B1; anomer is obtained. In general, the amount of the BiCl<sub>3</sub> uesd is 5 mol%, whereas Bi(OTf)<sub>3</sub> is used in only 2 mol% indicating that it is more reactive than BiCl<sub>3</sub>. Thus, overall it appears that Bi(OTf)<sub>3</sub> has distinct advantages over BiCl<sub>3</sub> in terms of reaction time, selectivity, and amount of the catalyst required.</p>
+   <p>Furanoid skeletons (<xref ref-type="scheme" rid="molecules-10-00884-f002">Scheme 2</xref>) are important components [<xref ref-type="bibr" rid="B23-molecules-10-00884">23</xref>] of many biologically important natural products. Certain monosaccharides under acidic conditions lead to furans [<xref ref-type="bibr" rid="B24-molecules-10-00884">24</xref>]. An optically active furandiol such as 2-(D-glycero-1,2-dihydroxyethyl)furan (<bold>4</bold>) is a potential chiral building block in organic synthesis [<xref ref-type="bibr" rid="B25-molecules-10-00884">25</xref>]. The transformation of D-glucal <bold>3</bold> to furandiol <bold>4</bold> with the HgSO<sub>4</sub>-dioxane system was first reported by Gonzalez <italic>et al.</italic> [<xref ref-type="bibr" rid="B26-molecules-10-00884">26</xref>]. Following this report, Hayashi <italic>et al.</italic> [<xref ref-type="bibr" rid="B27-molecules-10-00884">27</xref>] screened several catalysts such as Pd(OAc)<sub>2</sub>, RuCl<sub>2</sub>(PPh)<sub>3</sub>, Sm(OTf)<sub>3</sub>  and Yb(OTf)<sub>3</sub>  for the transformation of <bold>3</bold> into <bold>4</bold>, reporting yields ranging from 44% to 70% and requiring 30-165 minutes at 80-100<sup>o</sup>C, but some of these reagents are expensive and HgSO<sub>4</sub> is toxic. Some improved procedures for this transformation can be found in the literature. Recently, Balasubramanian <italic>et al.</italic> [<xref ref-type="bibr" rid="B28-molecules-10-00884">28</xref>] used InCl<sub>3</sub>&#xB7;3H<sub>2</sub>O for this purpose. The reaction requires 10 mol % of the catalyst and is completed in 2.5 h to give <bold>4</bold> in 82% yield. More recently, in our laboratory [<xref ref-type="bibr" rid="B29-molecules-10-00884">29</xref>], HClO<sub>4</sub>-SiO<sub>2</sub> has been found to be an efficient acidic catalyst for the formation of <bold>4</bold> in 89% yield. It therefore seemed logical to focus our attention on the use of the present reagent system for the formation of <bold>4.</bold> Thus, use of 1 mol% of Bi(OTf)<sub>3</sub> transformed D-glucal into <bold>4</bold> in after 1 h, albeit in only 59% yield. Increasing the amount of the catalyst from 1 mol% to 3 mol% reduced the reaction time to 15 minutes, but the yield also dropped to 47%. Reaction of galactal, on the other hand, required 2 mol% of Bi(OTf)<sub>3</sub>  and it took 5 minutes for the reaction to complete, resulting in a 47% yield of the diol <bold>4</bold>.</p>
+   <fig id="molecules-10-00884-f002" position="float">
+    <object-id pub-id-type="pii">molecules-10-00884-f002_Scheme 2</object-id>
+    <label>Scheme 2</label>
+    <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-g002.tif"/>
+   </fig>
+  </sec>
+  <sec sec-type="conclusions">
+   <title>Conclusions</title>
+   <p>We have developed a highly stereoselective, Bi(OTf)<sub>3</sub> and SiO<sub>2</sub>-Bi(OTf)<sub>3</sub> catalyzed Ferrier glycosylation to produce 2,3-unsaturated glycosides. Compared to other methods, our method appears to have advantages such as easy preparation of the inexpensive catalyst, shorter reaction times, good yields, high anomeric selectivity, mild reaction conditions and low catalyst loadings. We believe that it should find use in organic synthesis.</p>
+  </sec>
+  <sec>
+   <title>Experimental:</title>
+   <sec>
+    <title>General</title>
+    <p>All the alcohols used for the reactions are commercially available and were purchased from different chemical companies. All liquid alcohols were freshly distilled before use and solid alcohols were recrystallized. CH<sub>3</sub>CN was dried over P<sub>2</sub>O<sub>5</sub> followed by over CaH<sub>2</sub>. After distillation it was stored over 4&#xC5; molecular sieves and used directly for the reactions. Dichloromethane was dried over anhydrous CaCl<sub>2</sub> and freshly distilled over CaH<sub>2</sub> prior to use. All reactions were carried out under an inert nitrogen atmosphere. All products were purified by silica gel column chromatography (100-200 mesh) using pet. ether and ethyl acetate as the eluents. Proton NMR spectra were recorded on a Jeol 400 MHz NMR spectrometer using CDCl<sub>3</sub> as the solvent. The yields reported are after purification. All compounds are known and the structures were confirmed by <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra and comparison of physical properties with the available literature data.</p>
+   </sec>
+   <sec>
+    <title>Preparation of the silica gel supported catalyst</title>
+    <p>Bismuth triflate (40 mg) was dissolved in dry CH<sub>3</sub>CN (4 mL). To this solution was added activated silica gel (2g, 100-200 mesh) and a slurry was prepared by evaporating the solvent under vacuum. The slurry is kept under a nitrogen atmosphere and 250 mg of this reagent, which contains 2 mol % (5mg ) of bismuth triflate, is used for each reaction .</p>
+   </sec>
+   <sec>
+    <title>General synthetic procedure</title>
+    <p>To a stirred mixture of tri-<italic>O</italic>-acetyl D-glucal (100 mg, 0.3676 mmol) and alcohol (1.1 eq) in dichloromethane (3 mL) under nitrogen was added 2 mol% of Bi(OTf)<sub>3</sub> (5 mg) at ambient temperature and the reaction was monitored by TLC. After the reaction was over, the reaction mixture was quenched with 20% aqueous NaHCO<sub>3</sub> solution and the crude product was extracted with dichloromethane (3 x 10 mL). The combined organic layers were washed with water, brine, and finally dried over anhydrous Na<sub>2</sub>SO<sub>4</sub>. Pure compound was obtained by column chromatography on SiO<sub>2</sub> (100- 200 mesh).</p>
+   </sec>
+   <sec id="sec1-molecules-10-00884">
+    <title>Spectral data for the 1-C-glucoside corresponding to entry <bold>12</bold>: <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00884-i016.tif"/></title>
+    <p><sup>1</sup>H-NMR (400 MHz, CDCl<sup>3</sup>) (&#x3B1;-anomer) &#x3B4;: 2.13 (s, 3H), 2.15 (s, 3H), 4.08-4.11 (dt, <italic>J</italic> = 2.92, 5.84, 9.28 Hz, 1H), 4.32-4.39 (m, 2H), 5.65 (dd, <italic>J</italic> = 1.96, 9.28 Hz, 1H), 5.87-5.90 (m, 1H), 5.97-6.00 (dd, 1H, <italic>J</italic> = 4.4, 11.84 Hz), 6.31 (brs, 1H), 7.09-7.79 (m, 6H), 8.53 (s, 1H).  (&#x3B2;-anomer) &#x3B4;: 8.34 (s, 1H), 6.11(brs, 1H);  <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) (&#x3B1;-anomer) &#x3B4;: 20.7, 20.9, 62.4, 64.2, 75.3, 75.3, 119.9, 120.6, 112.6-154.0 (10 aromatic carbons), 170.1, 170.8; IR(CH<sub>2</sub>Cl<sub>2</sub>) &#x3BD;: 3362, 1742, 1622 1264, 1230 cm<sup>-1</sup>; MSES<sup>+</sup>: 379 [M + Na]<sup>+</sup>, 295 [(M+2)-86+Na]<sup>+</sup>, 237 [M-143+Na] <sup>+</sup>. <italic>Acetate of 1-C-glucoside:</italic> 1H-NMR (400 MHz, CDCl<sub>3</sub>) (&#x3B1;-anomer) &#x3B4;: 2.06 (s, 3H), 2.14 (s, 3H), 2.38 (s, 3H), 4.06-4.12 (m, 1H), 4.21-4.34 (m, 2H), 5.67-5.69 (m, 1H), 5.89-6.02 (m, 3H); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) (&#x3B1;-anomer) &#x3B4;: 20.8, 21.0, 21.1, 63.5, 65.2, 71.6, 75.4, 121.4-146.7 (10 aromatic and 2 olefinic carbons), 169.6, 170.4, 171.0. IR (CH<sub>2</sub>Cl<sub>2</sub>) &#x3BD;: 3055, 1740, 1232, 739 cm<sup>-1</sup>. MSES<sup>+</sup>: 819 [2M+Na]<sup>+</sup>, 421 [M+Na]<sup>+</sup>.</p>
+   </sec>
+  </sec>
+ </body>
+ <back>
+  <ack>
+   <title>Acknowledgements</title>
+   <p>We thank the Department of Science and Technology, New Delhi for financial support through a project SP/S1/G-21/2001.</p>
+  </ack>
+  <ref-list>
+   <title>References</title>
+   <ref id="B1-molecules-10-00884">
+    <label>1.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Ferrier</surname>
+       <given-names>R.J.</given-names>
+      </name>
+      <name>
+       <surname>Prasad</surname>
+       <given-names>N.</given-names>
+      </name>
+     </person-group>
+     <article-title>Synthesis of 2,3-Dideoxy-&#x3B1;-D-erythro-hex-2-enopyranosides from Tri-<italic>O</italic>-acetyl-D-glucal</article-title>
+     <source>J. Chem. Soc. C</source>
+     <year>1969</year>
+     <fpage>570</fpage>
+     <pub-id pub-id-type="doi">10.1039/j39690000570</pub-id>
+    </citation>
+   </ref>
+   <ref id="B2-molecules-10-00884">
+    <label>2.</label>
+    <citation citation-type="journal">
+	<label>(a)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Dorgan</surname>
+       <given-names>B.J.</given-names>
+      </name>
+      <name>
+       <surname>Jackson</surname>
+       <given-names>R.F.W.</given-names>
+      </name>
+     </person-group>
+     <article-title>Synthesis of C-Linked Glycosyl Amino Acid Derivatives using Organozinc Reagents</article-title>
+     <source>Synlett</source>
+     <year>1996</year>
+     <fpage>859</fpage>
+    </citation>
+    <citation citation-type="journal">
+	<label>(b)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Fraser-Reid</surname>
+       <given-names>B.</given-names>
+      </name>
+     </person-group>
+     <article-title>Some progeny of 2,3- unsaturated sugars - they little resemble grandfather glucose: ten years later</article-title>
+     <source>Acc. Chem. Res</source>
+     <year>1985</year>
+     <volume>18</volume>
+     <fpage>347</fpage>
+    </citation>
+	<citation citation-type="journal">
+	<label>(c)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Ferrier</surname>
+       <given-names>R.J.</given-names>
+      </name>
+     </person-group>
+     <article-title>Unsaturated sugars</article-title>
+     <source>Adv. Carbohyd. Chem. Biochem</source>
+     <year>1969</year>
+     <volume>24</volume>
+     <fpage>199</fpage>
+    </citation>
+   </ref>
+   <ref id="B3-molecules-10-00884">
+    <label>3.</label>
+    <citation citation-type="book">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Williams</surname>
+       <given-names>N.R.</given-names>
+      </name>
+      <name>
+       <surname>Wander</surname>
+       <given-names>J.D.</given-names>
+      </name>
+     </person-group>
+     <source>The Carbohydrates: Chemistry and Biochemistry</source>
+     <publisher-name>Academic Press</publisher-name>
+     <publisher-loc>New York</publisher-loc>
+     <year>1980</year>
+     <fpage>761</fpage>
+    </citation>
+   </ref>
+   <ref id="B4-molecules-10-00884">
+    <label>4.</label>
+    <citation citation-type="journal">
+	<label>(a)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Descotes</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Martin</surname>
+       <given-names>J.C.</given-names>
+      </name>
+     </person-group>
+     <article-title>Sur1&#x2019; isomerisation du 1,5-anhydro-3,4,6-tri-O-benzyl-1,2-didesoxy-D-arabino-hex-1-enitol en presence d&#x2019;acides de Lewis</article-title>
+     <source>Carbohydr. Res.</source>
+     <year>1977</year>
+     <volume>56</volume>
+	 <fpage>168</fpage>
+    </citation>
+	<citation citation-type="journal">
+	<label>(b)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Klaffke</surname>
+       <given-names>W.</given-names>
+      </name>
+      <name>
+       <surname>Pudlo</surname>
+       <given-names>P.</given-names>
+      </name>
+      <name>
+       <surname>Springer</surname>
+       <given-names>D.</given-names>
+      </name>
+      <name>
+       <surname>Thiem</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <article-title>Artificial deoxy glycosides of antracyclines</article-title>
+     <source>Liebigs Ann. Chem</source>
+     <year>1991</year>
+     <fpage>509</fpage>
+    </citation>
+   </ref>
+   <ref id="B5-molecules-10-00884">
+    <label>5.</label>
+    <citation citation-type="journal">
+	<label>(a)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Grynkiewicz</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Priebe</surname>
+       <given-names>W.</given-names>
+      </name>
+      <name>
+       <surname>Zamojski</surname>
+       <given-names>A.</given-names>
+      </name>
+     </person-group>
+     <article-title>Synthesis of alkyl 4,6-di-<italic>o</italic>-acetyl-2,3-dideoxy-&#x3B1;- D-<italic>threo</italic>-hex-2-enopyranosides from 3,4,6-tri-<italic>o</italic>-acetyl-1,5-anhydro-2-deoxy-<sc>D</sc>-<italic>lyxo</italic>-hex-1-enitol (3,4,6-tri-<italic>O</italic>-acetyl- -galactal)</article-title>
+     <source>Carbohydrate Res.</source>
+     <year>1979</year>
+     <volume>68</volume>
+     <fpage>33</fpage>
+    </citation>
+	<citation citation-type="journal">
+	<label>(b)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Bhate</surname>
+       <given-names>P.</given-names>
+      </name>
+      <name>
+       <surname>Horton</surname>
+       <given-names>D.</given-names>
+      </name>
+      <name>
+       <surname>Priebe</surname>
+       <given-names>W.</given-names>
+      </name>
+     </person-group>
+     <article-title>Allylic rearrangement of 6-deoxyglycals having practical utility</article-title>
+     <source>Carbohydr. Res.</source>
+     <year>1985</year>
+     <volume>144</volume>
+     <fpage>331</fpage>
+    </citation>
+   </ref>
+   <ref id="B6-molecules-10-00884">
+    <label>6.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Masson</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Soto</surname>
+       <given-names>J.</given-names>
+      </name>
+      <name>
+       <surname>Bessodes</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <article-title>Ferric Chloride: A new and very efficient catalyst for the Ferrier glycosylation reaction</article-title>
+     <source>Synlett</source>
+     <year>2000</year>
+     <fpage>1281</fpage>
+    </citation>
+   </ref>
+   <ref id="B7-molecules-10-00884">
+    <label>7.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Toshima</surname>
+       <given-names>K.</given-names>
+      </name>
+      <name>
+       <surname>Ishizuka</surname>
+       <given-names>T.</given-names>
+      </name>
+      <name>
+       <surname>Matsuo</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Nakata</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Konoshita</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <article-title>Glycosidation of Glycals by 2,3-Dichloro-5,6-dicyano-p-benzoquinone (DDQ) as a catalytic promoter</article-title>
+     <source>J. Chem. Soc., Chem. Commun.</source>
+     <year>1993</year>
+     <fpage>704</fpage>
+     <pub-id pub-id-type="doi">10.1039/c39930000704</pub-id>
+    </citation>
+   </ref>
+   <ref id="B8-molecules-10-00884">
+    <label>8.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Fraser-Reid</surname>
+       <given-names>B.</given-names>
+      </name>
+      <name>
+       <surname>Madsen</surname>
+       <given-names>R.</given-names>
+      </name>
+     </person-group>
+     <article-title>Ferrier rearrangement under nonacidic conditions based on iodonium-induced rearrangements of allylic n-pentenyl esters, n-pentenyl glycosides, and phenyl thioglycosides</article-title>
+     <source>J. Org. Chem.</source>
+     <year>1995</year>
+     <volume>60</volume>
+     <fpage>3851</fpage>
+    </citation>
+   </ref>
+   <ref id="B9-molecules-10-00884">
+    <label>9.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Koreeda</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Houston</surname>
+       <given-names>T.A.</given-names>
+      </name>
+      <name>
+       <surname>Shull</surname>
+       <given-names>B.K.</given-names>
+      </name>
+      <name>
+       <surname>Klemke</surname>
+       <given-names>E.</given-names>
+      </name>
+      <name>
+       <surname>Tuinman</surname>
+       <given-names>R.J.</given-names>
+      </name>
+     </person-group>
+     <article-title>Iodine catalyzed Ferrier reaction. A mild and highly versatile glycosylation of hydroxyl and phenolic groups</article-title>
+     <source>Synlett</source>
+     <year>1995</year>
+     <fpage>90</fpage>
+     <pub-id pub-id-type="doi">10.1055/s-1995-4873</pub-id>
+    </citation>
+   </ref>
+   <ref id="B10-molecules-10-00884">
+    <label>10.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Toshima</surname>
+       <given-names>K.</given-names>
+      </name>
+      <name>
+       <surname>Ishizuka</surname>
+       <given-names>T.</given-names>
+      </name>
+      <name>
+       <surname>Matsuo</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Nakata</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <article-title>Practical glycosidation method of glycols using Montmorillonite K-10 as an environmentally acceptable and inexpensive industrial catalyst</article-title>
+     <source>Synlett</source>
+     <year>1995</year>
+     <fpage>306</fpage>
+     <pub-id pub-id-type="doi">10.1055/s-1995-4973</pub-id>
+    </citation>
+   </ref>
+   <ref id="B11-molecules-10-00884">
+    <label>11.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Swamy</surname>
+       <given-names>N.R.</given-names>
+      </name>
+      <name>
+       <surname>Venkateswarulu</surname>
+       <given-names>Y.</given-names>
+      </name>
+     </person-group>
+     <article-title>An efficient method for the synthesis of 2,3-unsaturated glycopyranosides catalyzed by bismuth trichloride in Ferrier rearrangement</article-title>
+     <source>Synthesis</source>
+     <year>2002</year>
+     <fpage>598</fpage>
+     <pub-id pub-id-type="doi">10.1055/s-2002-23551</pub-id>
+    </citation>
+   </ref>
+   <ref id="B12-molecules-10-00884">
+    <label>12.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Babu</surname>
+       <given-names>B.S.</given-names>
+      </name>
+      <name>
+       <surname>Balasubramanian</surname>
+       <given-names>K.K.</given-names>
+      </name>
+     </person-group>
+     <article-title>Indium trichloride catalyzed glycosidation. An expeditious synthesis of 2,3-unsaturated glycopyranosides</article-title>
+     <source>Tetrahedron Lett</source>
+     <year>2000</year>
+     <volume>41</volume>
+     <fpage>1271</fpage>
+     <pub-id pub-id-type="doi">10.1016/S0040-4039(99)02266-2</pub-id>
+    </citation>
+   </ref>
+   <ref id="B13-molecules-10-00884">
+    <label>13.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Yadav</surname>
+       <given-names>J.S.</given-names>
+      </name>
+      <name>
+       <surname>Subba Reddy</surname>
+       <given-names>B.V.</given-names>
+      </name>
+      <name>
+       <surname>Murthy</surname>
+       <given-names>C.V.S.R.</given-names>
+      </name>
+      <name>
+       <surname>Mahesh Kumar</surname>
+       <given-names>G.</given-names>
+      </name>
+     </person-group>
+     <article-title>Scandium Triflate catalyzed Ferrier rearrangement: An efficient synthesis of 2,3- unsaturated glycopyranosides</article-title>
+     <source>Synlett</source>
+     <year>2000</year>
+     <fpage>1450</fpage>
+     <pub-id pub-id-type="doi">10.1002/chin.200105178</pub-id>
+    </citation>
+   </ref>
+   <ref id="B14-molecules-10-00884">
+    <label>14.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Takhi</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Adel</surname>
+       <given-names>A-H.</given-names>
+      </name>
+      <name>
+       <surname>Rehman</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Schimdt</surname>
+       <given-names>R.R.</given-names>
+      </name>
+     </person-group>
+     <article-title>Highly stereoselective synthesis of pseudoglycals via Yb(OTf)<sub>3</sub> catalyzed Ferrier glycosylation</article-title>
+     <source>Synlett</source>
+     <year>2001</year>
+     <fpage>427</fpage>
+     <pub-id pub-id-type="doi">10.1002/chin.200128203</pub-id>
+    </citation>
+   </ref>
+   <ref id="B15-molecules-10-00884">
+    <label>15.</label>
+	<citation citation-type="journal">
+	<label>(a)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Repichet</surname>
+       <given-names>S.</given-names>
+      </name>
+      <name>
+       <surname>Zwick.</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Vendier</surname>
+       <given-names>L.</given-names>
+      </name>
+      <name>
+       <surname>LeRoux</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Dubac</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <article-title>A practical, cheap and environmentally friendly preparation of bismuth(III)trifluoromethanesulfonate</article-title>
+     <source>Tetrahedron Lett.</source>
+     <year>2002</year>
+     <volume>43</volume>
+     <fpage>993</fpage>
+    </citation>
+    <citation citation-type="journal">
+	<label>(b)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Labrouillere</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>LeRoux</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Gaspard</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Laporteric</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Dubac</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <article-title>An efficient method for the preparation of Bismuthe (III) trifluoromethanesulfonate</article-title>
+     <source>Tetrahedron Lett.</source>
+     <year>1999</year>
+     <volume>40</volume>
+     <fpage>285</fpage>
+    </citation>
+   </ref>
+   <ref id="B16-molecules-10-00884">
+    <label>16.</label>
+    <citation citation-type="journal">
+	<label>(a)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Labrouillere</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>LeRoux</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Gaspard</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Laporteric</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Dubac</surname>
+       <given-names>J.R.</given-names>
+      </name>
+     </person-group>
+     <article-title>Surprising catalytic activity of bismuth (III) triflate in the Friedel-Craft&#x2019;s acylation reaction</article-title>
+     <source>Tetrahedron Lett.</source>
+     <year>1997</year>
+     <volume>38</volume>
+	 <fpage>8871</fpage>
+    </citation>
+	<citation citation-type="journal">
+	<label>(b)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Repichet</surname>
+       <given-names>S.</given-names>
+      </name>
+      <name>
+       <surname>Le Roux</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Dubac</surname>
+       <given-names>J.</given-names>
+      </name>
+      <name>
+       <surname>Desmure</surname>
+       <given-names>J.R.</given-names>
+      </name>
+     </person-group>
+     <article-title>Bismuth (III) Trifluoromethanesulfonate: A chameleon catalyst for the Friedel-Crafts acylation</article-title>
+     <source>Eur. J. Org. Chem.</source>
+     <year>1998</year>
+     <fpage>2743</fpage>
+    </citation>
+   </ref>
+   <ref id="B17-molecules-10-00884">
+    <label>17.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Repichet</surname>
+       <given-names>S.</given-names>
+      </name>
+      <name>
+       <surname>Le Roux</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Hernandez</surname>
+       <given-names>P.</given-names>
+      </name>
+      <name>
+       <surname>Dubac</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <article-title>Bismuth (III) trifluromethanesulfonate: An efficient catalyst for sulfonylation of arenes</article-title>
+     <source>J. Org. Chem.</source>
+     <year>1999</year>
+     <volume>64</volume>
+     <fpage>6479</fpage>
+     <pub-id pub-id-type="doi">10.1021/jo9902603</pub-id>
+    </citation>
+   </ref>
+   <ref id="B18-molecules-10-00884">
+    <label>18.</label>
+    <citation citation-type="journal">
+	<label>(a)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Garrigues</surname>
+       <given-names>B.</given-names>
+      </name>
+      <name>
+       <surname>Gonjanga</surname>
+       <given-names>F.</given-names>
+      </name>
+      <name>
+       <surname>Robert</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Garrigues</surname>
+       <given-names>B.</given-names>
+      </name>
+      <name>
+       <surname>Dubac</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <article-title>Bismuth (III) chloride or triflate catalyzed dienophilic activity of &#x3B1;-ethylenic aldehydes and ketones</article-title>
+     <source>J. Org. Chem</source>
+     <year>1997</year>
+     <volume>62</volume>
+     <fpage>4880</fpage>
+    </citation>
+	<citation citation-type="journal">
+	<label>(b)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Robert</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Garrigues</surname>
+       <given-names>B.</given-names>
+      </name>
+      <name>
+       <surname>Dubac</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <article-title>The carbonyl-Diels-Alder reaction catalyzed by bismuth (III) chloride</article-title>
+     <source>Tetrahedron Lett.</source>
+     <year>1998</year>
+     <volume>39</volume>
+     <fpage>1161</fpage>
+     <pub-id pub-id-type="doi">10.1021/jo970389h</pub-id>
+    </citation>
+   </ref>
+   <ref id="B19-molecules-10-00884">
+    <label>19.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Laurent-Robert</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Garrigues</surname>
+       <given-names>B.</given-names>
+      </name>
+      <name>
+       <surname>Dubac</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <article-title>Bismuth (III) chloride and triflate: New efficient catalyst for the aza-Diels-Alder reaction</article-title>
+     <source>Synlett</source>
+     <year>2000</year>
+     <fpage>1160</fpage>
+    </citation>
+   </ref>
+   <ref id="B20-molecules-10-00884">
+    <label>20.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Orita</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Tanahashi</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Kakuda</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Otera</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <article-title>Highly efficient and versatile acylation of alcohols with Bi(OTf)<sub>3</sub> as a catalyst</article-title>
+     <source>Angew. Chem. Int. Ed.</source>
+     <year>2000</year>
+     <volume>39</volume>
+     <fpage>2877</fpage>
+     <pub-id pub-id-type="doi">10.1002/1521-3773(20000818)39:16&lt;2877::AID-ANIE2877&gt;3.0.CO;2-V</pub-id>
+    </citation>
+   </ref>
+   <ref id="B21-molecules-10-00884">
+    <label>21.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Bhatia</surname>
+       <given-names>K.A.</given-names>
+      </name>
+      <name>
+       <surname>Leonard</surname>
+       <given-names>N.M.</given-names>
+      </name>
+      <name>
+       <surname>Oswald</surname>
+       <given-names>M.C.</given-names>
+      </name>
+      <name>
+       <surname>Eash</surname>
+       <given-names>K.J.</given-names>
+      </name>
+      <name>
+       <surname>Mohan</surname>
+       <given-names>R.S.</given-names>
+      </name>
+     </person-group>
+     <article-title>A facile and efficient method for the rearrangement of aryl substituted epoxides to aldehydes and ketones using bismuth triflate</article-title>
+     <source>Tetrahedron Lett.</source>
+     <year>2001</year>
+     <volume>42</volume>
+     <fpage>8129</fpage>
+     <pub-id pub-id-type="doi">10.1016/S0040-4039(01)01519-2</pub-id>
+    </citation>
+   </ref>
+   <ref id="B22-molecules-10-00884">
+    <label>22.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Carrigan</surname>
+       <given-names>M.D.</given-names>
+      </name>
+      <name>
+       <surname>Eash</surname>
+       <given-names>K.J.</given-names>
+      </name>
+      <name>
+       <surname>Oswald</surname>
+       <given-names>M.C.</given-names>
+      </name>
+      <name>
+       <surname>Mohan</surname>
+       <given-names>R.S.</given-names>
+      </name>
+     </person-group>
+     <article-title>An efficient method for chemoselective synthesis of acylals from aromatic adehydes using bismuth triflate</article-title>
+     <source>Tetrahedron Lett.</source>
+     <year>2001</year>
+     <volume>42</volume>
+     <fpage>8133</fpage>
+     <pub-id pub-id-type="doi">10.1016/S0040-4039(01)01756-7</pub-id>
+    </citation>
+   </ref>
+   <ref id="B23-molecules-10-00884">
+    <label>23.</label>
+    <citation citation-type="book">
+	<label>(a)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Westly</surname>
+       <given-names>J.W.</given-names>
+      </name>
+     </person-group>
+     <source>Polyether Antibiotics Naturally Occuring Acid Ionophores</source>
+	 <publisher-name>Marcel Dekker</publisher-name>
+	 <publisher-loc>NewYork</publisher-loc>
+     <year>1982</year>
+     <volume>vol. 1 and 2</volume>
+    </citation>
+	<citation citation-type="journal">
+	<label>(b)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Hanessian</surname>
+       <given-names>S.</given-names>
+      </name>
+     </person-group>
+     <article-title>Approaches to the total Synthesis of natural products using &#x201C;Chiral Templates&#x201D; derived from carbohydrates</article-title>
+     <source>Acc. Chem. Res.</source>
+     <year>1979</year>
+     <volume>12</volume>
+     <fpage>159</fpage>
+    </citation>
+   </ref>
+   <ref id="B24-molecules-10-00884">
+    <label>24.</label>
+    <citation citation-type="book">
+	<label>(a)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Bosshard</surname>
+       <given-names>P.</given-names>
+      </name>
+      <name>
+       <surname>Eugster</surname>
+       <given-names>C.H.</given-names>
+      </name>
+     </person-group>
+	 <source>Advances in Heterocyclic Chemistry</source>
+	 <person-group person-group-type="editor">
+      <name>
+       <surname>Katritzky</surname>
+       <given-names>A.R.</given-names>
+      </name>
+      <name>
+       <surname>Boulton</surname>
+       <given-names>A.J.</given-names>
+      </name>
+     </person-group>
+	 <publisher-name>Academic Press</publisher-name>
+	 <publisher-loc>New York</publisher-loc>
+     <year>1966</year>
+     <volume>Vol.7</volume>
+	 <fpage>377</fpage>
+    </citation>
+	<citation citation-type="journal">
+	<label>(b)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Harris</surname>
+       <given-names>J.M.</given-names>
+      </name>
+      <name>
+       <surname>O&#x2019;Doherty</surname>
+       <given-names>G.A.</given-names>
+      </name>
+     </person-group>
+     <article-title>Enantioselective synthesis of 5-substituted-&#x3B1;,&#x3B2;-unsaturated-&#x3B4;-lactones: Application to the synthesis of styryllactones</article-title>
+     <source>Tetrahedron Lett.</source>
+     <year>2000</year>
+     <volume>41</volume>
+     <fpage>183</fpage>
+    </citation>
+   </ref>
+   <ref id="B25-molecules-10-00884">
+    <label>25.</label>
+    <citation citation-type="journal">
+	<label>(a)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Babu</surname>
+       <given-names>R.S.</given-names>
+      </name>
+      <name>
+       <surname>Zhou</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>O&#x2019;Doherty</surname>
+       <given-names>G.A.</given-names>
+      </name>
+     </person-group>
+     <article-title>De Novo synthesis of oligosaccharides using palladium-catalyzed glycosylation reaction</article-title>
+     <source>J. Am. Chem. Soc.</source>
+     <year>2004</year>
+     <volume>126</volume>
+     <fpage>3428</fpage>
+    </citation>
+   <citation citation-type="journal">
+	<label>(b)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Saeed</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Ilg</surname>
+       <given-names>T.</given-names>
+      </name>
+      <name>
+       <surname>Schick</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Abbas</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Voelter</surname>
+       <given-names>W.</given-names>
+      </name>
+     </person-group>
+     <article-title>Total synthesis and anti-leishmanial activity of R-(-)- argentilactone</article-title>
+     <source>Tetrahedron Lett.</source>
+     <year>2001</year>
+     <volume>47</volume>
+     <fpage>7401</fpage>
+    </citation>
+	<citation citation-type="journal">
+	<label>(c)</label>
+     <person-group person-group-type="author">
+      <name>
+       <surname>Harris</surname>
+       <given-names>J.M.</given-names>
+      </name>
+      <name>
+       <surname>Keranen</surname>
+       <given-names>M.D.</given-names>
+      </name>
+      <name>
+       <surname>Nguyen</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Young</surname>
+       <given-names>V.G.</given-names>
+      </name>
+      <name>
+       <surname>O&#x2019;Doherty</surname>
+       <given-names>G.A.</given-names>
+      </name>
+     </person-group>
+     <article-title>Syntheses of four D- and L-hexoses via diastereoselective and enantioselective dihydroxylation reactions</article-title>
+     <source>Carbohydr. Res.</source>
+     <year>2000</year>
+     <volume>328</volume>
+     <fpage>17</fpage>
+    </citation>
+   </ref>
+   <ref id="B26-molecules-10-00884">
+    <label>26.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Gonzalez</surname>
+       <given-names>F.</given-names>
+      </name>
+      <name>
+       <surname>Lesage</surname>
+       <given-names>S.</given-names>
+      </name>
+      <name>
+       <surname>Perlin</surname>
+       <given-names>A.S.</given-names>
+      </name>
+     </person-group>
+     <article-title>Catalysis by mercuric ion of reactions of glycals with water</article-title>
+     <source>Carbohydr. Res.</source>
+     <year>1975</year>
+     <volume>42</volume>
+     <fpage>267</fpage>
+     <pub-id pub-id-type="doi">10.1016/S0008-6215(00)84269-X</pub-id>
+    </citation>
+   </ref>
+   <ref id="B27-molecules-10-00884">
+    <label>27.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Hayashi</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Kawabata</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Yamada</surname>
+       <given-names>K.</given-names>
+      </name>
+     </person-group>
+     <article-title>Metal catalyzed transformation of D-glucal to optically active furandiol</article-title>
+     <source>Chem. Commun.</source>
+     <year>1999</year>
+     <fpage>965</fpage>
+     <pub-id pub-id-type="doi">10.1039/a902510c</pub-id>
+    </citation>
+   </ref>
+   <ref id="B28-molecules-10-00884">
+    <label>28.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Babu</surname>
+       <given-names>B.S.</given-names>
+      </name>
+      <name>
+       <surname>Balasubramanian</surname>
+       <given-names>K.K.</given-names>
+      </name>
+     </person-group>
+     <article-title>A facile synthesis of chiral furan diol from glycals catalyzed by indium trichloride</article-title>
+     <source>J. Org. Chem.</source>
+     <year>2000</year>
+     <volume>65</volume>
+     <fpage>4198</fpage>
+     <pub-id pub-id-type="doi">10.1021/jo000074t</pub-id>
+    </citation>
+   </ref>
+   <ref id="B29-molecules-10-00884">
+    <label>29.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Agarwal</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Rani</surname>
+       <given-names>S.</given-names>
+      </name>
+      <name>
+       <surname>Vankar</surname>
+       <given-names>Y.D.</given-names>
+      </name>
+     </person-group>
+     <article-title>Protic acid (HClO<sub>4</sub> supported silica gel) mediated synthesis of 2,3-unsaturated-<italic>O</italic>-glycosides and chiral furan diol from 2,3-glycals</article-title>
+     <source>J. Org. Chem.</source>
+     <year>2004</year>
+     <volume>69</volume>
+     <fpage>6137</fpage>
+     <pub-id pub-id-type="doi">10.1021/jo049415j</pub-id>
+     <pub-id pub-id-type="pmid">15373503</pub-id>
+    </citation>
+   </ref>
+  </ref-list>
+  <fn-group>
+   <fn>
+    <p><italic>Sample availability:</italic> Contact the authors.</p>
+   </fn>
+  </fn-group>
+ </back>
+</article>

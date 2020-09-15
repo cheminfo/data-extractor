@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10070767</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00767</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Structural Investigation of bis(4-Methyl-1-pipeqrazine- glyoximato)dipyridinato Cobalt(III) Chloro Dinitrate Trihydrate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>&#xD6;zt&#xFC;rk</surname>
+            <given-names>Sema</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00767" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00767" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Akkurt</surname>
+            <given-names>Mehmet</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00767" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Macit</surname>
+            <given-names>Mustafa</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00767" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>I&#x15F;&#x131;k</surname>
+            <given-names>&#x15E;amil</given-names>
+          </name>
+          <xref rid="af3-molecules-10-00767" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fun</surname>
+            <given-names>Hoong Kun</given-names>
+          </name>
+          <xref rid="af4-molecules-10-00767" ref-type="aff">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00767"><label>1</label>Department of Physics, Faculty of Arts and Sciences, Erciyes University, 38039-Kayseri, Turkey</aff>
+      <aff id="af2-molecules-10-00767"><label>2</label>Department of Chemistry, Faculty of Arts and Sciences, Ondokuzmay&#x131;s University, 55139-Samsun, Turkey</aff>
+      <aff id="af3-molecules-10-00767"><label>3</label>Department of Physics, Faculty of Arts and Sciences, Ondokuzmayıs University, Turkey</aff>
+      <aff id="af4-molecules-10-00767"><label>4</label>X-ray Crystallography Unit, School of Physics, University Sains Malaysia, 11800 USM, Penang, Malaysia</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00767"><label>*</label> Author to whom correspondence should be addressed; e-mail: <email>ozturk@erciyes.edu.tr</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>7</issue>
+      <fpage>767</fpage>
+      <lpage>771</lpage>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>21</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The crystal and molecular structure of the title compound, C<sub>24</sub>H<sub>36</sub>CoN<sub>10</sub>O<sub>4</sub>&#xB7;2(NO<sub>3</sub>)&#xB7;3(H<sub>2</sub>O)&#xB7;Cl, have been determined by X-ray analysis: Cc (No: 9), a = 17.6920(4) &#xC5;, b = 11.8163(2) &#xC5;, c = 16.4752(4) &#xC5;, &#xDF; = 91.679(1)&#xB0;, Z = 4. The Co(III) ion is six-coordinated with octahedral geometry, the pyridine rings are planar and the piperazine rings assume chair conformations.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Cobalt(III)</kwd>
+		<kwd>piperazine</kwd>
+		<kwd>glyoximato</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Vic-dioxime complexes are an important group of coordination compounds from different points of view. They are used as model compounds for studying the structures of vitamin B12 and coenzyme B13, which play important roles in biological mechanisms [<xref ref-type="bibr" rid="B1-molecules-10-00767">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00767">2</xref>]. In addition, they also have some medical, chromatographic and analytical importance [<xref ref-type="bibr" rid="B3-molecules-10-00767">3</xref>]. In this study, we have carried out the crystal structure determination of the title compound, bis(4-methyl-1-piperazineglyoximato)dipyridinato cobalt(III)chloro dinitrate trihydrate, by X-ray single crystal diffraction.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The Co(III) ion has an octahedral coordination environment formed by four N  atoms of the glyoximato groups and two N atoms of the pyridinato groups, <xref ref-type="fig" rid="molecules-10-00767-f001">Figure 1</xref> [<xref ref-type="bibr" rid="B4-molecules-10-00767">4</xref>]. The mean value of the Co- N bond lengths is 1.9227(5)&#xC5; and the mean value of the N-Co-N angles is 90.0(2)&#xB0;. These values agree with those observed in the crystal structure of tris(oxamide oxime)cobalt(III) trichloride; the Co&#x2013; N lengths vary within a range from 1.903(2) to 1.922(2)&#xC5; and the N-Co-N angles vary in a range from 80.02(8) to 93.92(10)&#xB0; [<xref ref-type="bibr" rid="B5-molecules-10-00767">5</xref>].</p>
+      <p>The pyridine rings are planar with the largest deviations from the least-squares plane being those of atoms C29 [-0.013(6)&#xC5;] and C34 [0.007(5)&#xC5;]; there is a dihedral angle of 8.54(2)&#xB0; between the two rings. The average value of the N-C distances in the piperazine rings is 1.4743(6)&#xC5;, in agreement with the value of 1.475(2)&#xC5; found in 1-(4-benzylpiperidin-1-yl) glyoxaldioxime [<xref ref-type="bibr" rid="B6-molecules-10-00767">6</xref>]. The piperazine rings adopt chair conformations. The puckering parameter, Q<sub>T</sub> [<xref ref-type="bibr" rid="B7-molecules-10-00767">7</xref>] is 0.570(5) for the N1-C6 and 0.563(5) for the N20-C25. The positive charge on the Co(III) cation is balanced by two (NO<sub>3</sub>)<sup>-</sup> and one Cl<sup>-</sup> ions. The crystal structure is stabilized by some inter- and intrahydrogen contacts.</p>
+      <fig id="molecules-10-00767-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>An ORTEP-II drawing with the numbering scheme and ellipsoids at the 50% probability level.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00767-g001.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We report the X-ray crystal structure determination of C<sub>24</sub>H<sub>36</sub>CoN<sub>10</sub>O<sub>4</sub>&#xB7;2(NO<sub>3</sub>)&#xB7;3(H<sub>2</sub>O)&#xB7;Cl . In this study, we confirmed by X-ray structure analysis the formula of this cobalt complex, which had been suggested by &#xD6;zpozan <italic>et al.</italic> [<xref ref-type="bibr" rid="B8-molecules-10-00767">8</xref>] on the basis of IR and Raman spectra.</p>
+	  <table-wrap id="molecules-10-00767-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00767-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Summary of crystal data and structure refinement.</p>
+        </caption>
+        <table>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" style="border-top:solid thin">Chemical formula</td>
+			  <td align="left" valign="middle" style="border-top:solid thin">C<sub>24</sub>H<sub>36</sub>CoN<sub>10</sub>O<sub>4</sub>&#xB7;2(NO<sub>3</sub>)&#xB7;3(H<sub>2</sub>O)&#xB7;Cl</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">Molecular  weight</td>
+			  <td align="left" valign="middle">801.08</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">Crystal system</td>
+			  <td align="left" valign="middle">Monoclinic</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">Space group (no.); Z</td>
+			  <td align="left" valign="middle">C c (No: 9); 4</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">Unit cell parameters (&#xC5;,&#xB0;)</td>
+			  <td align="left" valign="middle">a = 17.6920(4),</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle"> </td>
+			  <td align="left" valign="middle">b = 11.8163(2),</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle"> </td>
+			  <td align="left" valign="middle">c = 16.4752(4),</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle"> </td>
+			  <td align="left" valign="middle">&#x3B2;= 91.679(1)</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">Volume (&#xC5;<sup>3</sup>)</td>
+			  <td align="left" valign="middle">3442.7(1)</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">T(K)</td>
+			  <td align="left" valign="middle">293(2)</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle"><italic>F</italic>(000)</td>
+			  <td align="left" valign="middle">1672</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">Crystal size [mm]</td>
+			  <td align="left" valign="middle">0.54 x 0.26 x 0.06</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">Crystal density [g&#xB7;cm<sup>&#x2013;3</sup>]</td>
+			  <td align="left" valign="middle">1.546</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">&#x3BC; [mm<sup>&#x2212;1</sup>]</td>
+			  <td align="left" valign="middle">0.656</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">Absorption correction</td>
+			  <td align="left" valign="middle">Empirical using SADABS</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">T<italic><sub>max</sub></italic> and T<italic><sub>min</sub></italic></td>
+			  <td align="left" valign="middle">0.962 / 0.718</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">&#x3BB; (MoK<italic><sub>&#x3B1;</sub></italic>) = 0.71073&#xC5;</td>
+			  <td align="left" valign="middle">R<italic><sub>int</sub></italic> = 0.037</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">h , k , l</td>
+			  <td align="left" valign="middle">-22 / 22 , -14 / 15 , -21 / 20</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">&#x3B8; range [&#xB0;]</td>
+			  <td align="left" valign="middle">3.20 to 27.50</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">No. of measured  reflections</td>
+			  <td align="left" valign="middle">6422</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">No. of observed reflections [ I &#x2265; 2 &#x3C3; (I) ]</td>
+			  <td align="left" valign="middle">5254</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">Number of parameters</td>
+			  <td align="left" valign="middle">481</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle"><italic>R</italic> = 0.046</td>
+			  <td align="left" valign="middle"><italic>wR</italic> = 0.101</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle">S = 1.072</td>
+			  <td align="left" valign="middle">&#x3C3;/&#x394; = 0.00</td>
+            </tr>
+			<tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Max. and min. residual electron densities [e&#xC5;<sup>-3</sup>]</td>
+			  <td align="left" valign="middle" style="border-bottom:solid thin">+0.467,  -0.290</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec> 
+  </body>
+  <back>
+    <app-group>
+      <app>
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>1-methyl-4-piperazineglyoxime has been synthesized according to the literature [<xref ref-type="bibr" rid="B9-molecules-10-00767">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00767">10</xref>]. The title complex was formed by titration of a mixture of the transition metal ion (Co<sup>2+</sup>) and ligands with NaOH. The purities and the exact concentrations of stock solutions of the ligands and titrant were confirmed pH-metrically using the Gran method [<xref ref-type="bibr" rid="B11-molecules-10-00767">11</xref>]. Solutions of metals ions (0.001 molL<sup>-1</sup>) were prepared from CoCl<sub>2</sub>&#xB7;6H<sub>2</sub>O (Fluka), used as received. A 0.05 molal buffer solution of potassium hydrogen phthalate (KHP, Fluka) was prepared. All the IR spectra were recorded with a BOMEM MB-102 model FTIR spectrometer. The samples were prepared as a KBr pellet (in 0.1% (w/w) concentration) and detected with a DTGS detector. Each spectrum was scanned 35 times in the 200&#x2013; 4000 cm<sup>-1</sup> range. Raman spectra were recorded with a Jobin Yvon Model U1000 spectrometer with 150&#xB0; back scattering angle, at 4 second time intervals by using a single channel double monochromator.</p>
+      </sec>
+      <sec>
+        <title>Synthesis of C<sub>24</sub>H<sub>36</sub>CoN<sub>10</sub>O<sub>4</sub>&#xB7;2(NO<sub>3</sub>)&#xB7;3(H<sub>2</sub>O)&#xB7;Cl</title>
+        <p>4-Methylpiperazine (20 mmol) in ethanol (10 mL) was added dropwise to a stirred solution of <italic>anti</italic>-chloroglyoxime (20 mmol) in ethanol (30 mL) at &#x2013;10 &#xB0;C. The mixture was stirred for 4 h at 0&#xB0;C. After adjusting the pH of the mixture with 0.1 N KOH to 7-8, the mixture was stirred for 4 h at 0 &#xB0;C. A solution of Co(NO<sub>3</sub>)<sub>2</sub> &#xB7;6H<sub>2</sub>O (10 mmol) in water (10 mL) was added to this solution while stirring for 1 h at about 30&#xB0;C. After adjusting the pH of the mixture to 6-7 with 0.1 N KOH the mixture was stirred for 3 h at 30&#xB0;C. The mixture was heated with stirring to 50 &#xB0;C and stirred for 3 h. A solution of pyridine (40 mmol) in ethanol (10 mL) was added and the mixture was stirred for 3 h. The brown complex was extracted from the mixture into the chloroform phase (40 mL). The complex was crystallized from the chloroform phase and characterized by comparison of its IR and Raman spectra with the literature values as reported by &#xD6;zpozan <italic>et al.</italic> [<xref ref-type="bibr" rid="B8-molecules-10-00767">8</xref>].</p>
+        <fig id="molecules-10-00767-f002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00767-f002_Scheme 1</object-id>
+          <label>Scheme 1</label>
+          <caption>
+            <p>&#xA0;</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00767-g002.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Data collection, Crystal Structure Determination and Refinement</title>
+        <p>A summary of the key crystallographic information is given in <xref ref-type="table" rid="molecules-10-00767-t001">Table 1</xref>. Data were collected using a Siemens CCD SMART system, using graphite-monochromated MoK&#x3B1; radiation with a detector distance of 4 cm and swing angle of -35&#xB0;. A hemisphere of reciprocal space was covered by a combination of three sets of exposures; each exposure had a different &#x3C6; angle (0, 88, 180&#xB0;) and each exposure of 30s covered 0.3&#xB0; in &#x3C9;. Coverage of the unique set is over 99% complete. Crystal decay was monitored by repeating thirty initial frames at the end of data collection and analysing the duplicate reflections, and was found to be negligible.</p>
+        <p>The collected data were reduced by using the program SAINT [<xref ref-type="bibr" rid="B12-molecules-10-00767">12</xref>] and an empirical absorption correction was carried out by using the SADABS [<xref ref-type="bibr" rid="B13-molecules-10-00767">13</xref>] program. The structure was solved by direct methods SHELXS97 [<xref ref-type="bibr" rid="B14-molecules-10-00767">14</xref>] and refined by full-matrix least square methods SHELXL97 [<xref ref-type="bibr" rid="B15-molecules-10-00767">15</xref>]. The hydrogen atoms of the water molecules were found in the difference Fourier map and the U&#x2019;s of only two water H-atoms were allowed to refine while the U&#x2019;s of four H&#x2019;s were fixed along with the rest of the H&#x2019;s. The other H-atoms were positioned geometrically and refined with fixed isotropic displacement parameters. The crystal structure has been deposited at the Cambridge Crystallographic Data Centre [<xref ref-type="bibr" rid="B16-molecules-10-00767">16</xref>].</p>
+      </sec>
+     </app>
+    </app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00767">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hughes</surname>
+              <given-names>M.N.</given-names>
+            </name>
+          </person-group>
+          <source>Introduction to Chemistry of Biological Processes</source>
+          <publisher-name>New York</publisher-name>
+          <publisher-loc>Wiley</publisher-loc>
+          <year>1981</year>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00767">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Serin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>G&#xF6;k</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Karab&#xF6;cek</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>G&#xFC;ltekin</surname>
+              <given-names>S. N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determination of Nickel and Copper Using Vic-Dioximes with Potentiometric Titration</article-title>
+          <source>Analyst</source>
+          <year>1994</year>
+          <volume>119</volume>
+          <fpage>1629</fpage>
+          <lpage>1631</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00767">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Y&#x131;ld&#x131;z</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pehlivan</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ers&#xF6;z</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Pehlivan</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ligand exchange chromatography of nucleosides and nucleic acid bases on a novel modified Co(II)-loaded Lycopodium Clavatum and kinetics in the resin</article-title>
+          <source>J. Chromatogr. Sci.</source>
+          <year>1993</year>
+          <volume>31</volume>
+          <fpage>150</fpage>
+          <lpage>155</lpage>
+          <pub-id pub-id-type="doi">10.1093/chromsci/31.4.150</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00767">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>C.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>ORTEP-II, A Fortran Thermal-Ellipsoid Plot Program</article-title>
+          <comment>Report ORNL-5138</comment>
+          <publisher-name>Oak Ridge National Laboratory</publisher-name>
+          <publisher-loc>Oak Ridge, Tennessee, USA</publisher-loc>
+          <year>1976</year>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00767">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bekaro&#x11F;lu</surname>
+              <given-names>&#xD6;.</given-names>
+            </name>
+            <name>
+              <surname>Sar&#x131;basan</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Crystal Structure of Tris(oxamide  oxime)cobalt(III) Trichloride</article-title>
+          <source>Acta Crystallogr., Sect. B: Struct. Sci.</source>
+          <year>1978</year>
+          <volume>B34</volume>
+          <fpage>3591</fpage>
+          <lpage>3593</lpage>
+          <pub-id pub-id-type="doi">10.1107/S0567740878011668</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00767">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#xD6;zt&#xFC;rk</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>I&#x15F;&#x131;k</surname>
+              <given-names>&#x15E;.</given-names>
+            </name>
+            <name>
+              <surname>Macit</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fun</surname>
+              <given-names>H.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>1-(4-Benzylpiperidin-1-yl) glyoxaldioxime</article-title>
+          <source>Acta Crystallogr., C: Cryst. Struct. Commun.</source>
+          <year>1999</year>
+          <volume>C55</volume>
+          <fpage>1132</fpage>
+          <lpage>1134</lpage>
+          <pub-id pub-id-type="doi">10.1107/S0108270199004242</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00767">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cremer</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Pople</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A general definition of ring puckering coordinates</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1975</year>
+          <volume>97</volume>
+          <fpage>1354</fpage>
+          <lpage>1358</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00839a011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00767">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#xD6;zpozan</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>K&#xFC;&#xE7;&#xFC;kusta</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>B&#xFC;y&#xFC;kmumcu</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>Vibrational Spectra, Normal Coordinate Treatment and Simulation of the Vibrational Spectra of Piperazine Glyoxime and its Co(III) complex</article-title>
+          <source>J. Mol. Struct..</source>
+          <year>2003</year>
+          <volume>661&#x2013;662</volume>
+          <fpage>647</fpage>
+          <lpage>657</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.molstruc.2003.09.022</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00767">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Can</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sari</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Macit</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Potentiometric Study of The New Synthezised 1-Benzyl-4- Piperazineglyoxime and 1-Methyl-4-Piperazineglyoxime and Their Divalent Metal Complexes</article-title>
+          <source>Acta Chim. Slov.</source>
+          <year>2003</year>
+          <volume>50</volume>
+          <fpage>1</fpage>
+          <lpage>14</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00767">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Macit</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bati</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Bati</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Synth. React. Inorg. Met-Org. Chem.</source>
+          <year>1998</year>
+          <volume>28</volume>
+          <fpage>833</fpage>
+          <pub-id pub-id-type="doi">10.1080/00945719809349385</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00767">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gran</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Chem. Scand.</source>
+          <year>1950</year>
+          <volume>4</volume>
+          <fpage>559</fpage>
+          <pub-id pub-id-type="doi">10.3891/acta.chem.scand.04-0559</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00767">
+        <label>12.</label>
+        <citation citation-type="book">
+		  <person-group person-group-type="author">
+           <collab>Siemens Inc.</collab>
+          </person-group>
+          <source>SAINT v4 Software Reference Manual</source>
+          <publisher-name>Siemens Analytical X-Ray Systems, Inc.</publisher-name>
+          <publisher-loc>Madison, Wisconsin, USA</publisher-loc>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00767">
+        <label>13.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <source>SADABS. Program for Empirical Absorption Correction of Area Detector Data</source>
+          <publisher-name>Univ. of G&#xF6;ttingen</publisher-name>
+          <publisher-loc>G&#xF6;ttingen, Germany</publisher-loc>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00767">
+        <label>14.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <source>SHELXS97. Program for the Solution of Crystal Structures</source>
+          <publisher-name>University of G&#xF6;ttingen</publisher-name>
+          <publisher-loc>G&#xF6;ttingen, Germany</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00767">
+        <label>15.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <source>SHELXL97. Program for the Refinement of Crystal Structures</source>
+          <publisher-name>University of G&#xF6;ttingen</publisher-name>
+          <publisher-loc>G&#xF6;ttingen, Germany</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00767">
+        <label>16.</label>
+        <note>
+          <p>CCDC 233054 contains the supplementary crystallographic data for this paper. These data can be obtained free of charge via the URL <uri>http://www.ccdc.cam.ac.uk/conts/retrieving.html</uri> (or from the CCDC, 12 Union Road, Cambridge CB2 1EZ, UK; fax: (+44) 1223 336033; e-mail: <email>deposit@ccdc.cam.ac.uk</email>).</p>
+        </note>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Samples Availability</italic>: Available from the authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

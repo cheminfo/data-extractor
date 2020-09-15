@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="other">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10060740</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00740</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Software Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Chemical Inventory Management Solutions from CambridgeSoft</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gupta</surname>
+            <given-names>Sunil A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Frutkoff</surname>
+            <given-names>Zev</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00740">CambridgeSoft, Corp., 100 Cambridgepark Dr., Cambridge, MA, 02140 USA. <email>SGupta@cambridgesoft.com</email></aff>
+	  <pub-date pub-type="epub">
+        <day>14</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <fpage>740</fpage>
+      <lpage>746</lpage>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>07</month>
+          <year>2005</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>14</day>
+          <month>07</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>07</month>
+          <year>2005</year>
+        </date>
+      </history>
+	  <permissions>
+        <copyright-statement>&#xA9; 2005 ChemOffice, ChemDraw, Chem3D, ChemFinder &amp; ChemInfo are trademarks of CambridgeSoft Corporation</copyright-statement>
+        <copyright-year>2005</copyright-year>
+       </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Managing a chemical inventory consists of tracking the usage, disposal, and ordering of substances that are at the heart of an enterprise&#x2019;s endeavors. It also includes creating, editing, and organizing data on these substances, the &#x201C;containers&#x201D; that represent the actual, physical containers, and the locations where they are stored. To be truly useful, this information should be stored in a shared database on a networked server, accessible to users at remote desktops.</p>
+      <p>CS <italic>Inventory</italic> is an application designed to manage the chemical and reagent tracking needs of laboratories and research centers. The system manages data associated with both commercially procured and internally produced chemical substances, from their procurement or initial production, through their depletion and disposal. To meet the needs of institutions of all sizes, <italic>Inventory</italic> comes in two Desktop editions, a Workgroup edition, and an Enterprise edition.</p>
+      <p><italic>Inventory Pro</italic> is an all-inclusive desktop product. It includes Microsoft Desktop Engine<sup>&#xAE;</sup> (MSDE), the redistributable database engine for SQLServer 2000. No additional licensing is required. It is suitable for single-user installations, as well as small to medium sized groups.</p>
+      <p><italic>Inventory Ultra</italic> is the same MSDE-based product, but also includes the DVD version of ChemACX, CambridgeSoft's catalog of chemical products and suppliers.</p>
+      <p><italic>Inventory Workgroup</italic> is a thick-client SQLServer- based product. Suitable for larger organizations that don't have the ability (or don't want) to maintain an Oracle server, it requires, but <bold>does not include</bold>, a SQLServer license.</p>
+      <p><italic>Inventory Enterprise</italic> is an Oracle-based, ChemOffice Enterprise product. Designed for large organizations, it has a number of features not included in the desktop/workgroup versions. These additional features include: 
+      <list list-type="bullet">
+        <list-item>
+          <p>Plate Management</p>
+        </list-item>
+        <list-item>
+          <p>Global Searching over Inventory, Registration Enterprise, and ChemACX</p>
+        </list-item>
+        <list-item>
+          <p>Oracle Role Based Security</p>
+        </list-item>
+        <list-item>
+          <p>21CFR11 Audit Trail</p>
+        </list-item>
+      </list>
+	  </p>
+      <p>All versions of the Inventory applications use identical schemas, which allow for seamless migrations between versions.</p>
+    </sec>
+    <sec>
+      <title>2. Application Design</title>
+      <p>The three primary entities in an Inventory system are <italic>Locations</italic>, <italic>Containers</italic>, and <italic>Substances</italic>.
+      <list list-type="bullet">
+        <list-item>
+          <p>A <italic>Location</italic> is defined as any physical location where a container, plate, or another location can be stored.</p>
+        </list-item>
+        <list-item>
+          <p>An inventory <italic>Container</italic> represents a physical container capable of storing chemical substances.</p>
+        </list-item>
+        <list-item>
+          <p>An inventory <italic>Substance</italic> represents a chemical entity which can be expressed as a two dimensional chemical structure drawing.</p>
+		  <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00740-i001.tif"/></p>
+        </list-item>
+      </list>
+	  </p>
+      <sec>
+        <title>Flexible Hierarchical Location Structure</title>
+        <p>Users or administrators configure a network of locations, which represent locations in an organization. Each location, regardless of type, is arranged in a tree hierarchy. For example, a lab contains a refrigerator, which contains a rack.</p>
+      </sec>
+      <sec>
+        <title>Container/Substance Management</title>
+        <p>Containers are created to represent actual containers in your facility. Each container is assigned a unique barcode, which can be printed, using a customized template, from the Inventory interface. Each container stores a <italic>Substance</italic>. Additional text fields are available to track other chemical contents such as the solvent, and custom fields may also be defined. Typical containers include: bottle, vial, tube, cylinder, box, etc.</p>
+        <p>To keep track of Substances, the system maintains its own internal chemical structure database containing unique substances that can be associated with inventory Containers. Advanced duplicate checking is incorporated in the system. Aside from structure and name, substances can be identified via unique registry numbers such as CAS or ACX ID. Custom fields may also be defined.</p>
+        <fig id="molecules-10-00740-f001" position="float">
+          <label><italic>FIGURE</italic>&#xA0;<italic>1</italic></label>
+          <caption>
+            <p><italic>Web-based Inventory Enterprise and Inventory Desktop</italic>&#xA0;</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00740-g001.tif"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec>
+      <title>3. Main Features</title>
+      <sec>
+        <title>a) Application Settings</title>
+        <sec>
+          <title><italic>Custom Fields</italic>&#xA0;</title>
+          <p>Users with administrative privileges can add custom fields to compound and container records. Compounds can have up to five custom fields. Containers can have up to ten custom fields and five custom dates. Custom fields and dates can be designated as required fields. Custom compound fields can be marked for duplicate checking.</p>
+        </sec>
+        <sec>
+          <title><italic>Structure Searching</italic>&#xA0;</title>
+          <p>Structure searching can be by substructure, full structure (exact), or similarity. Each user can set preferences to modify the search. For example, similarity can be set from 20-100%; stereochemistry can be set to match tetrahedral or double bond stereochemistry, or both. Solvents (known as &#x201C;Extraneous Fragments&#x201D; in search parlance) can be included or excluded.</p>
+        </sec>
+        <sec>
+          <title><italic>Oracle Role Based Security (Inventory Enterprise)</italic>&#xA0;</title>
+          <p>Inventory Enterprise gives complete control over user permissions for different tasks by assigning each user to a user class, and defining permissions for each class. Both User lists and Role definitions are customizable by the administrator.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>b) Location Management</title>
+        <p>The location hierarchy is represented as nested folders on a tree control analogous to that found in the Windows file explorer. Locations may be created, moved, or deleted by the user by filling out a form.</p>
+        <p>Inventory comes with five special locations &#x2013; Root, Disposed, Missing, On Order, and Trash Can &#x2013; which may be edited, but not deleted. A Report engine can produce a Location Report listing all containers at a location, either with or without chemical structures.</p>
+      </sec>
+      <sec>
+        <title>c) Container/Substance Management</title>
+        <p>An Inventory <italic>Container</italic> represents a physical container capable of storing chemical substances. Containers are created by filling in a form. Required fields identify the Container name, type, size, unit of measure, amount, etc. Additional text fields are available to track other information, such as purchase date. Custom fields may be added, including custom dates, and these may be specified as required or optional. Each Container may be associated with no more than one <italic>Substance</italic>. (You can use Inventory to track laboratory supplies, as well as chemicals, by not assigning any substance to a container.) Containers may be moved between locations as necessary, edited to record usage, and discarded when they are no longer needed.</p>
+        <fig id="molecules-10-00740-f002" position="float">
+          <label><italic>FIGURE</italic>&#xA0;<italic>2</italic></label>
+          <caption>
+            <p><italic>New Container Form</italic>&#xA0;</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00740-g002.tif"/>
+        </fig>
+        <p>Some of the fields &#x2014; for example container type, unit of measure, or supplier &#x2014; are entered from tables by using drop-down menus for rapid entry. These tables are customizable, though entries cannot be deleted if they are in use.</p>
+        <p>An Inventory <italic>Substance</italic> represents a single pure chemical entity which can be expressed as a two dimensional chemical structure drawing. Structure drawings are created with the ChemDraw toolbar, which is activated by clicking inside a structure field in the New/Edit Substance form.</p>
+        <fig id="molecules-10-00740-f003" position="float">
+          <label><italic>FIGURE</italic>&#xA0;<italic>3</italic></label>
+          <caption>
+            <p><italic>Create/Edit Substance form with ChemDraw Toolbar</italic>&#xA0;</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00740-g003.tif"/>
+        </fig>
+        <p>The system maintains its own internal chemical structure database, containing unique substances that can be associated with Inventory Containers. Highly advanced duplicate checking is incorporated into the system to verify that each substance is only entered once in the database. Aside from structure and name, substances can be identified via unique registry numbers such as CAS or ACX ID. Custom fields may also be defined.</p>
+      </sec>
+      <sec>
+        <title>d) Searching Inventory</title>
+        <p>Searches may be performed on any field or combination of fields in a Container or Substance record. For Containers, three levels of search are available: simple, advanced, and structure. The simple search form is a subset of the most commonly used text fields of the advanced search, and is adequate for most purposes. Container barcodes may be scanned into the search form or entered manually.</p>
+        <p>Structure searches may be substructure, full structure (exact), identity (full structure with specified stereochemistry), or Tanimoto similarity. Additional text fields may also be specified to narrow the search. Structure searching may be done in two situations: to locate a container by the substance it contains, or to locate a substance in the chemical structure database in order to edit it.</p>
+        <fig id="molecules-10-00740-f004" position="float">
+          <label><italic>FIGURE</italic>&#xA0;<italic>4</italic></label>
+          <caption>
+            <p><italic>Substructure Search forms for Containers and for Substances</italic>&#xA0;</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00740-g004.tif"/>
+        </fig>
+        <p>The Report engine can produce full reports of search results (see below for more on reporting).</p>
+		<sec>
+          <title><italic>Searching Plates (Inventory Enterprise)</italic>&#xA0;</title>
+          <p>Plate searching is similar to Container searching, but with added fields for Plate type, format, status, or group, freeze/thaw cycles, molar amount, and other pertinent information.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>e) Material Safety Data Sheets</title>
+        <p>An important feature is the ability for users to add Material Safety Data Sheets (MSDS) to the database, as well as to search both the Inventory and the ChemACX databases for relevant MSDS. The ChemACX database has over 20,000 MSDS that are searchable from the Inventory interface. MSDS may also be created manually or scanned in, and can be in any standard format &#x2013; ASCII, DOC, PDF, etc. This feature allows users to have instant access to material safety data for a given container.</p>
+        <fig id="molecules-10-00740-f005" position="float">
+          <label><italic>FIGURE</italic>&#xA0;<italic>5</italic></label>
+          <caption>
+            <p><italic>MSDS in Inventory and ChemACX</italic>&#xA0;</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00740-g005.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>f) Printing</title>
+        <p>The Inventory interface allows for printing labels as well as generating elaborate reports. Inventory Desktop/Workgroup uses a report engine that incorporates wizards that allow for the quick creation of simple report/label templates that can be shared across an organization. A user has the ability to design a label based on templates for a number of commercially available label sheets (e.g. Avery Dennison). Checkboxes on the New Container form allow auto-generation of barcodes and immediate printing of the label.</p>
+        <fig id="molecules-10-00740-f006" position="float">
+          <label><italic>FIGURE</italic>&#xA0;<italic>6</italic></label>
+          <caption>
+            <p><italic>Reports and Labels</italic>&#xA0;</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00740-g006.tif"/>
+        </fig>
+        <p>Default templates allow printing labels and reports with or without barcodes and structures. There is a design wizard to help create custom labels and reports. The report engine also has the ability to print to file. It can output reports directly in ASCII text, HTML, XML, PDF, MS Excel, RTF, and several standard graphic formats. You can also email a report directly from the print routine. Discuss barcode printing (any type of barcode or printer). Report designing and printing &#x2026; location based reports</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>4. Inventory Enterprise</title>
+      <p><italic>Inventory Enterprise</italic> additionally has a number of features not included in the desktop/workgroup versions. It is a ChemOffice Enterprise application that can be tightly integrated with CambridgeSoft&#x2019;s Registration Enterprise and chemical procurement ChemACX Database. This application uses Oracle as a backend, and captures both stockroom and reagent needs as well as high-throughput discovery.</p>
+      <sec>
+        <title>Audit Trails</title>
+        <p>Each change to the database is documented in the Inventory Enterprise 21CFR11 Audit Trails. Electronically filter the data to see all changes made by a particular user, or only the changes made in a particular location between two dates.</p>
+        <fig id="molecules-10-00740-f007" position="float">
+          <label><italic>FIGURE</italic>&#xA0;<italic>7</italic></label>
+          <caption>
+            <p><italic>Standard Audit Trail</italic>&#xA0;</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00740-g007.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Managing Oracle Role Based Security</title>
+        <p>Inventory Enterprise defines Users and Roles which determine what each User can or cannot do at each point in the system. Both tables can be customized by the administrator to give different classes of users the permissions they need, and administrators highly granular control over the database.</p>
+        <fig id="molecules-10-00740-f008" position="float">
+          <label><italic>FIGURE</italic>&#xA0;<italic>8</italic></label>
+          <caption>
+            <p><italic>Users and Roles</italic>&#xA0;</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00740-g008.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Plate Management</title>
+        <p>When integrated with BioAssay Enterprise and BioSAR Browser, Inventory Manager manages plate information, much like other containers. Plate location and contents can be viewed from BioAssay Enterprise and BioSAR Browser interfaces, but this information is stored in the Inventory Manager database. There are a number of options for creating plates in the system including importing information from pipette logs, or creating plates from a SD file allowing for both single compound and mixture plates. Much like the tools used to manipulate other containers, Inventory Enterprise steps you through the process of creating new plates, moving existing plates, creating daughter plates, and dithering plate contents.</p>
+        <fig id="molecules-10-00740-f009" position="float">
+          <label><italic>FIGURE</italic>&#xA0;<italic>9</italic></label>
+          <caption>
+            <p>Plate management</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00740-g009.tif"/>
+        </fig>
+        <sec>
+          <title>EHS data handling</title>
+          <p>Inventory Enterprise can store Environmental Health and Safety data in the substance database.</p>
+          <fig id="molecules-10-00740-f010" position="float">
+            <label><italic>FIGURE</italic>&#xA0;<italic>10</italic></label>
+            <caption>
+              <p><italic>EHS data display</italic>&#xA0;</p>
+            </caption>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00740-g010.tif"/>
+          </fig>
+          <p>Administrators can custom-configure the tab&#x2014;the figure above shows one example. EHS data is created in the substance database, but can be edited (by users have suitable permission) from the container display.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec>
+      <title>5. Summary</title>
+      <p>CambridgeSoft offers an inventory option for any sized organization. From the MSDE-based Pro version shared by up to five users, to SQL-based Inventory Workgroup for medium sized organizations, to the Oracle-based Enterprise version for very large organizations, CS Inventory can meet any organization&#x2019;s current and future needs for reagent and laboratory supply tracking.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>6. References</title>
+      <ref id="B1-molecules-10-00740">
+        <label>1.</label>
+        <citation citation-type="web">
+		<person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>Sunil A.</given-names>
+            </name>
+           </person-group>
+          <source>Chemical Inventory Management</source>
+          <comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://chemnews.cambridgesoft.com/art.cfm?S=418" ext-link-type="uri">http://chemnews.cambridgesoft.com/art.cfm?S=418</ext-link></comment>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00740">
+        <label>2.</label>
+        <citation citation-type="web">
+		<person-group person-group-type="author">
+            <name>
+              <surname>Gelin</surname>
+              <given-names>Bruce R.</given-names>
+            </name>
+           </person-group>
+          <source>MethylGene Links Chemistry &amp; Biology with ChemOffice WebServer Applications</source>
+          <comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.adeptscience.co.uk/pressroom/article/70" ext-link-type="uri">http://www.adeptscience.co.uk/pressroom/article/70</ext-link></comment>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00740">
+        <label>3.</label>
+        <citation citation-type="web">
+		<person-group person-group-type="author">
+            <name>
+              <surname>Weaver</surname>
+              <given-names>Dan</given-names>
+            </name>
+           </person-group>
+          <source>Build vs. Buy vs. Both</source>
+          <comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.pharmagenomicsonline.com/pharmagenomics/article/articleDetail.jsp?id=144703 (PDF)" ext-link-type="uri">http://www.pharmagenomicsonline.com/pharmagenomics/article/articleDetail.jsp?id=144703 (PDF)</ext-link></comment>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

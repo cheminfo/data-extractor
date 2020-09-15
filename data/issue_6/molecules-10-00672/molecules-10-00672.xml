@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10060672</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00672</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Catalytic Activity During Copolymerization of Ethylene and 1-Hexene via Mixed TiO<sub>2</sub>/SiO<sub>2</sub>-Supported MAO with <italic>rac</italic>-Et[Ind]<sub>2</sub>ZrCl<sub>2</sub> Metallocene Catalyst</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jongsomjit</surname>
+            <given-names>Bunjerd</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00672" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ngamposri</surname>
+            <given-names>Sutti</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Praserthdam</surname>
+            <given-names>Piyasan</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00672">Center of Excellence on Catalysis and Catalytic Reaction Engineering, Department of Chemical Engineering, Faculty of Engineering, Chulalongkorn University, Bangkok 10330 Thailand, Phone: (+66) 2-2186869, Fax: (+66) 2-2186766</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00672"><label>*</label>To whom all correspondence should be sent; e-mail: <email>bunjerd.j@chula.ac.th</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <fpage>672</fpage>
+      <lpage>678</lpage>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>10</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Activities during ethylene/1-hexene copolymerization were found to increase using the mixed titania/silica-supported MAO with <italic>rac</italic>-Et[Ind]<sub>2</sub>ZrCl<sub>2</sub> metallocene catalyst. Energy Dispersive X-ray spectorcopy (EDX) indicated that the titania was apparently located on the outer surface of silica and acted as a spacer to anchor MAO to the silica surface.&#xA0; IR spectra revealed the Si-O-Ti stretching at 980 cm<sup>-1</sup> with low content of titania.&#xA0; The presence of anchored titania resulted in less steric hindrance and less interaction due to supporting effect.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Metallocene catalyst</kwd>
+        <kwd>titania</kwd>
+		<kwd>silica</kwd>
+        <kwd>supports</kwd>
+        <kwd>copolymerization</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Commercial interest in using metallocene catalysts for olefin polymerization has brought about an extensive effort towards utilizing metallocene catalysts more efficiently. It is known that the copolymerization of ethylene with higher 1-olefins is of commercial importance for production of elastomers and linear low-density polyethylene (LLDPE).  Metallocene catalysts with MAO have been studied for such a copolymerization. In fact, zirconocene catalysts along with MAO have been reported to be potentially useful for polymerizing ethylene with 1-olefins [<xref ref-type="bibr" rid="B1-molecules-10-00672">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00672">2</xref>]. </p>
+      <p>However, it was found that homogeneous metallocene catalytic systems have two major disadvantages; the lack of morphology control of polymers produced and reactor fouling. Therefore, binding these metallocene catalysts onto inorganic supports can provide a promising way to overcome these drawbacks. Many inorganic supports such as SiO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub> and MgCl<sub>2</sub> have been extensively studied for this purpose [<xref ref-type="bibr" rid="B3-molecules-10-00672">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00672">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00672">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00672">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00672">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00672">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00672">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00672">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00672">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00672">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00672">13</xref>]. Silica is perhaps the most widely used support for metallocene catalysts so far, but the properties of SiO<sub>2</sub> itself may not be completely satisfactory for all purposes based on activities and quality of polymer produced. For instance, it was found that the activity of the heterogeneous system was lower compared to the homogeneous one. Therefore, a modification of the support is required in order to maintain high activity. TiO<sub>2</sub>-SiO<sub>2</sub> mixed oxide has been considered to be very attractive as combined catalyst and support, which have attracted much attention in recent years.  It was reported that TiO<sub>2</sub>-SiO<sub>2</sub> mixed materials have been used as catalysts and supports for various reactions [<xref ref-type="bibr" rid="B14-molecules-10-00672">14</xref>]. This TiO<sub>2</sub>-SiO<sub>2</sub> mixed oxide would lead to robust catalytic supports of metallocene catalysts for olefin polymerization.</p>
+      <p>In this present study, the ethylene/1-hexene copolymerization using TiO<sub>2</sub>-SiO<sub>2</sub> mixed oxides supported-MAO with a zirconocene catalyst was investigated for the first time.  The mixed oxide supports and catalyst precursors were prepared, characterized and tested for ethylene/1-hexene copolymerization.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The present study showed the influences of titania/silica mixed oxide supports on the catalytic activities in a heterogeneous metallocene catalytic system. The mixed oxide supports containing various amounts of titania and silica were characterized. It was found that at low concentrations (20 to 60 wt %) of titania, the latter was apparently located on the outer surface of silica. A typical EDX (Energy Dispersive X-ray spectroscopy) mapping for the cross sectional area of the mixed oxide support containing low concentrations of titania is shown in <xref ref-type="fig" rid="molecules-10-00672-f001">Figure 1</xref>, indicating the location of titania on the outer surface of silica.  However, it can be observed that with high concentrations of titania, it started to segregate from silica probably due to its adsorption ability.</p>
+      <fig id="molecules-10-00672-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>A typical EDX mapping of titania/silica mixed oxide support at low concentrations of titania.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00672-g001.tif"/>
+      </fig>
+      <p>IR spectroscopy was also performed in order to identify chemical species and bonding of the mixed oxide supports.  The IR spectra of samples are shown in <xref ref-type="fig" rid="molecules-10-00672-f002">Figure 2</xref>.  It revealed that at low concentrations of titania, the IR band at ca. 980 cm<sup>-1</sup> assigning to Si-O-Ti connectivity was observed as also reported by Dutoit <italic>et al.</italic> [<xref ref-type="bibr" rid="B15-molecules-10-00672">15</xref>].  This indicated that the Si-O-Ti bond was formed at the titania/silica ratios of 20/80 and 40/60 suggesting an anchor or a spacer effect. Strong IR bands were also seen at ca. 1100 cm<sup>-1</sup> and assigned to asymmetric Si-O-Si stretching vibration.</p>
+      <fig id="molecules-10-00672-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>IR spectra of titania/silica mixed oxide supports</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00672-g002.tif"/>
+      </fig>
+      <p>Copolymerization of ethylene/1-hexene via various titania/silica mixed oxides-supported MAO with a zirconocene catalyst was performed in order to determine the catalytic activities influenced by the various supports.  The resulting reaction study is shown in <xref ref-type="table" rid="molecules-10-00672-t001">Table 1</xref> and <xref ref-type="fig" rid="molecules-10-00672-f003">Figure 3</xref>. The activities of the supported system were much lower than the homogeneous one, as expected.  However, considering only the supported system, it was found that activities increased with increasing the amounts of titania up to 60% in the supports.  The maximum activity can be obtained with the presence of 20% titania in the mixed support.  However, increasing the amounts of titania more than 60% resulted in lower activities compared to the pure silica.  It was also found that the activity for the pure titania is the lowest due to the strong support interaction between MAO and titania.  Thus, due to the strong support interaction, it was more difficult for MAO to be released from the surface and reacted with the catalyst resulting in a low activity.  Based on the resulted activities, the role of titania in titania/silica mixed oxide supports can be proposed.</p>
+	  <table-wrap id="molecules-10-00672-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00672-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Catalytic activities during ethylene/1-hexene copolymerization via TiO<sub>2</sub>-SiO<sub>2</sub> mixed oxides supported-MAO with zirconocene catalyst</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">TiO<sub>2</sub>-SiO<sub>2</sub> Weight Ratios</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">wt%  of TiO<sub>2</sub> in Mixed Support</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Polymer Yield<sup>a</sup> (g)</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Polymerization time (s)</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Catalytic  Activity<sup>b</sup> (x 10<sup>-4</sup> kg polymer/mol Zr &#xB7; h)</th>
+            </tr>
+          </thead>
+		  <tbody>
+            <tr>
+              <td colspan="2" align="center" valign="middle">homogeneous</td>
+              <td align="center" valign="middle">0</td>
+              <td align="center" valign="middle">1.13</td>
+              <td align="center" valign="middle">81</td>
+              <td align="center" valign="middle">3.4</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle">0/100</td>
+              <td align="center" valign="middle">0</td>
+              <td align="center" valign="middle">1.19</td>
+              <td align="center" valign="middle">148</td>
+              <td align="center" valign="middle">1.9</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle">20/80</td>
+              <td align="center" valign="middle">20</td>
+              <td align="center" valign="middle">1.16</td>
+              <td align="center" valign="middle">109</td>
+              <td align="center" valign="middle">2.6</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle">40/60</td>
+              <td align="center" valign="middle">40</td>
+              <td align="center" valign="middle">1.18</td>
+              <td align="center" valign="middle">128</td>
+              <td align="center" valign="middle">2.2</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle">60/40</td>
+              <td align="center" valign="middle">60</td>
+              <td align="center" valign="middle">1.17</td>
+              <td align="center" valign="middle">142</td>
+              <td align="center" valign="middle">2.0</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle">80/20</td>
+              <td align="center" valign="middle">80</td>
+              <td align="center" valign="middle">1.15</td>
+              <td align="center" valign="middle">151</td>
+              <td align="center" valign="middle">1.8</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle">100/0</td>
+              <td align="center" valign="middle">100</td>
+              <td align="center" valign="middle">1.16</td>
+              <td align="center" valign="middle">165</td>
+              <td align="center" valign="middle">1.7</td>
+            </tr>
+          </tbody>
+        </table>
+		<table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> The polymer yield was fixed [limited by ethylene fed and 1-hexene used (0.018 mole equally)]</p>
+			</fn>
+			<fn>
+            <p><sup>b</sup> Activities were measured at polymerization temperature of 70<sup>o</sup>C, [ethylene] = 0.018 mole, [1-hexene] = 0.018 mole, [Al]<sub>MAO</sub>/[Zr] 1135, [Al]<sub>TMA</sub>/[Zr] = 2500, in toluene with total volume = 30 ml, and [Zr] = 5 x 10<sup>-5</sup> M.</p>
+            </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <fig id="molecules-10-00672-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>Activities of EH copolymerization via various mixed oxides-supported MAO and homogeneous system.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00672-g003.tif"/>
+      </fig>
+      <p>In order to give a better understanding for the role of titania, a conceptual model for titania effect is illustrated in <xref ref-type="scheme" rid="molecules-10-00672-f004">Scheme 1</xref>.</p>
+      <fig id="molecules-10-00672-f004" position="float">
+        <object-id pub-id-type="pii">molecules-10-00672-f004_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Suggested conceptual model as a spacer of titania</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00672-g004.tif"/>
+      </fig>
+      <p>As known, when the supported system was conducted, activities decreased significantly compared to the homogeneous one. This should be due to a loss of active species by support interaction and/or the steric hindrance arising from the support. It can be observed that activities on the supported system can be divided into three levels; (i) moderate activity with the pure silica support, (ii) high activity with the certain amounts of titania present in the mixed oxide support, (iii) low activity with the pure titania support (due to strong support interaction).  In <xref ref-type="scheme" rid="molecules-10-00672-f004">Scheme 1</xref>, it showed that the presence of certain amounts (20 to 60 wt%) of titania enhanced activities.  The contribution of titania can be drawn as MAO anchored on silica with titania as a spacer group.  It can be also seen from SEM and EDX mapping that at low content, titania was decorated on silica surface and acted as a spacer to anchor MAO to the silica support. Thus, activities increased up to 30% with the presence of titania between 20 and 40 wt% in the mixed oxide supports. It should be mentioned that increased activities with the presence of titania as a spacer were observed because of less steric hindrance and less interaction on the support surface when a spacer was introduced.  On the other hand, titania present would result in more homogeneous-like in terms of activities obtained.  Investigation of a spacer such as silane in copolymerization of ethylene/1-olefins was also reported [<xref ref-type="bibr" rid="B16-molecules-10-00672">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00672">17</xref>].  However, when high amounts of titania were added, activities decreased because of the strong support interaction in titania compared to silica. Morphologies of polymers (not shown) produced via various supports were also investigated.  It indicated that there was no significant change in polymer morphologies upon various mixed oxide supports used. Other characteristics of polymers produced need to be further investigated for future work.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The present study revealed influence of various titania/silica mixed oxides-supported MAO on the catalytic activities during copolymerization of ethylene/1-hexene with a zirconocene catalyst.  It was found that with certain contents of titania ranged between 20 and 40 wt% in the mixed oxide supports, activities essentially increased up to 30% compared to one with the pure silica.  It was proposed that titania added acted as a spacer to anchor MAO to the silica support resulting in less steric hindrance and less interaction on the support surface.  On the other hand, titania present led to a more homogeneous-like catalytic system.  However, larger amounts of titania resulted in lower activities due to the strong support interaction.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>All chemicals [TiO<sub>2</sub> (anatase, Ishihara), SiO<sub>2</sub> (Cariact P-10), toluene, rac-ethylenebis(indenyl) zirconium dichloride [Et(Ind)<sub>2</sub>ZrCl<sub>2</sub>], methylaluminoxane (MAO), trimethylaluminum (TMA) and 1-hexene] were manipulated under an inert atmosphere using a vacuum glove box and/or Schelenk techniques.</p>
+      </sec>
+      <sec>
+        <title>Preparation of TiO<sub>2</sub>-SiO<sub>2</sub> mixed oxides support</title>
+        <p>TiO<sub>2</sub>-SiO<sub>2</sub> mixed oxide supports [surface areas of SiO<sub>2</sub> = 300 m<sup>2</sup>/g and TiO<sub>2</sub> (anatase form) = 70 m<sup>2</sup>/g] for MAO were prepared according to the method described by Conway <italic>et al.</italic> [<xref ref-type="bibr" rid="B18-molecules-10-00672">18</xref>]. The TiO<sub>2</sub>: SiO<sub>2</sub> ratios were varied from 0:1, 2:8, 4:6, 6:4, 8:2, and 1:0. The supports were heated under vacuum at 400<sup>o</sup>C for 6 h.  </p>
+      </sec>
+      <sec>
+        <title>Preparation of TiO<sub>2</sub>-SiO<sub>2</sub> mixed oxides-supported MAO</title>
+        <p>The TiO<sub>2</sub>-SiO<sub>2</sub> mixed oxide support obtained above (1 g) was reacted with the desired amount of MAO at room temperature and stirred for 30 min. The solvent was then removed from the mixture.  About 20 mL of toluene was added into the obtained precipitate, stirred the mixture for 5 min, and then removed the solvent. This procedure was done for 5 times to ensure the removal of impurities. Then, the solid part was dried under vacuum at room temperature to obtain white powder of TiO<sub>2</sub>-SiO<sub>2</sub> mixed oxides-supported MAO.</p>
+      </sec>
+      <sec>
+        <title>Polymerization Reaction</title>
+        <p>The ethylene/1-hexene copolymerization reaction was carried out in a 100 mL semi-batch stainless steel autoclave reactor equipped with a magnetic stirrer. At first, the supported MAO (0.1 g, [Al]<sub>MAO</sub>/[Zr] = 1135) and 1-hexene (0.018 mole) along with toluene (to make the total volume of 30 mL) were put into the reactor. The desired amount of Et(Ind)<sub>2</sub>ZrCl<sub>2</sub> (5 x 10<sup>-5</sup>M) and TMA ([Al]<sub>TMA</sub>/[Zr] = 2500) was mixed and stirred for 5-min aging at room temperature, separately, then was injected into the reactor.  The reactor was frozen in liquid nitrogen to stop reaction for 15 min and then the reactor was evacuated to remove argon.  The reactor was heated up to polymerization temperature (70<sup>o</sup>C). To start the reaction, ethylene (0.018 mole) was fed into the reactor containing the comonomer and catalyst mixtures. After all ethylene was consumed, the reaction was terminated by addition of acidic methanol (0.1% HCl in methanol) and stirred for 30 min. After filtration, the obtained copolymer (white powder) was washed with methanol and dried at room temperature.</p>
+      </sec>
+      <sec>
+        <title>Characterization of supports and catalyst precursors</title>
+        <p><italic>Scanning Electron Microscopy and Energy Dispersive X-ray spectroscopy</italic>: SEM and EDX were used to determine the sample morphologies and elemental distribution throughout the sample granules, respectively. The JEOL model JSM-5800LV SEM was applied to determine morphologies of polymers.  EDX was performed using Link Isis series 300 program. EDX is used to determine an elemental distribution as a density mapping of the specified element. Thus, it can reveal which elements are present and where they are located.</p>
+        <p><italic>FTIR spectroscopy:</italic> FTIR was conducted on a Perkin-Elmer series 2000 instruments. The supports (1 mg) were mixed with 100 mg dried KBr.  The sample cell was purged with oxygen. About 400 scans were accumulated for each spectrum in transmission with a resolution of 4 cm<sup>-1</sup>. The spectrum of dried KBr was used as a background subtraction.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors would like to thank the Thailand Research Fund (TRF), National Research Council of Thailand (NRCT) and Thailand-Japan Transfer Technology Project (TJTTP-JBIC) for the financial support of this work.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00672">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shan</surname>
+              <given-names>C.L.P.</given-names>
+            </name>
+            <name>
+              <surname>Soares</surname>
+              <given-names>J.B.P.</given-names>
+            </name>
+            <name>
+              <surname>Penlidis</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Polym. Chemistry</source>
+          <year>2002</year>
+          <volume>40</volume>
+          <fpage>4426</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00672">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chu</surname>
+              <given-names>K.J.</given-names>
+            </name>
+            <name>
+              <surname>Shan</surname>
+              <given-names>C.L.P.</given-names>
+            </name>
+            <name>
+              <surname>Soares</surname>
+              <given-names>J.B.P.</given-names>
+            </name>
+            <name>
+              <surname>Penlidis</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Macromol. Chem. Phys.</source>
+          <year>1999</year>
+          <volume>200</volume>
+          <fpage>2372</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00672">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uusitalo</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Pakkanen</surname>
+              <given-names>T.T.</given-names>
+            </name>
+            <name>
+              <surname>Iskola</surname>
+              <given-names>E.I.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Catal. A: Chem.</source>
+          <year>2002</year>
+          <volume>177</volume>
+          <fpage>179</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00672">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soga</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kaminaka</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Makromol. Chem.</source>
+          <year>1993</year>
+          <volume>194</volume>
+          <fpage>1745</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00672">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ko</surname>
+              <given-names>Y.S.</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>T.K.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>Woo</surname>
+              <given-names>S.I.</given-names>
+            </name>
+          </person-group>
+          <source>Macromol. Rapid Commun.</source>
+          <year>1996</year>
+          <volume>17</volume>
+          <fpage>749</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00672">
+        <label>6.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sugano</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. Pat. Appl.</source>
+          <patent>728773</patent>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00672">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Margue</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Conte</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Appl. Polm. Sci.</source>
+          <year>2002</year>
+          <volume>86</volume>
+          <fpage>2054</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00672">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sensarma</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sivaram</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Polym Inter.</source>
+          <year>2002</year>
+          <volume>51</volume>
+          <fpage>417</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00672">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Belelli</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Damiani</surname>
+              <given-names>D.E.</given-names>
+            </name>
+          </person-group>
+          <source>Appl.Catal. A: Gen.</source>
+          <year>2002</year>
+          <volume>228</volume>
+          <fpage>189</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00672">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Y.B.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>Z.Q.</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>L.X.</given-names>
+            </name>
+          </person-group>
+          <source>J. Polym. Sci. Part A: Polym Chem.</source>
+          <year>2001</year>
+          <volume>39</volume>
+          <fpage>3294</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00672">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Korach</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Czaja</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Polym. Bull.</source>
+          <year>2001</year>
+          <volume>46</volume>
+          <fpage>67</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00672">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koppl</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Alt</surname>
+              <given-names>H.G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Catal.A: Chem.</source>
+          <year>2001</year>
+          <volume>165</volume>
+          <fpage>23</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00672">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jongsomjit</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Praserthdam</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kaewkrajang</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Mater. Chem. Phys.</source>
+          <year>2004</year>
+          <volume>86</volume>
+          <fpage>243</fpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00672">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gao</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Wachs</surname>
+              <given-names>I.E.</given-names>
+            </name>
+          </person-group>
+          <source>Catal. Today</source>
+          <year>1999</year>
+          <volume>51</volume>
+          <fpage>233</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00672">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dutoit</surname>
+              <given-names>D.C.M.</given-names>
+            </name>
+            <name>
+              <surname>Schneider</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baiker</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Catal.</source>
+          <year>1995</year>
+          <volume>153</volume>
+          <fpage>165</fpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00672">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chao</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pratchayawutthirat</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Praserthdam</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Shiono</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Rempel</surname>
+              <given-names>G.L.</given-names>
+            </name>
+          </person-group>
+          <source>Macromol. Rapid Commun.</source>
+          <year>2002</year>
+          <volume>23</volume>
+          <fpage>672</fpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00672">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jongsomjit</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kaewkrajang</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Wanke</surname>
+              <given-names>S.E.</given-names>
+            </name>
+            <name>
+              <surname>Praserthdam</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Catal. Lett.</source>
+          <year>2004</year>
+          <volume>94</volume>
+          <fpage>205</fpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00672">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Conway</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Falconer</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>Rochester</surname>
+              <given-names>C.H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Faraday Trans.</source>
+          <year>1989</year>
+          <volume>85</volume>
+          <fpage>71</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	<fn>
+	<p><italic>Samples Availability</italic>: Available from the authors.</p>
+	</fn>
+	</fn-group>
+  </back>
+</article>

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010098</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00098</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of PLA-b-PEG Multiblock Copolymers for Stealth Drug Carrier Preparation.</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Quesnel</surname>
+            <given-names>Richard</given-names>
+          </name>
+        </contrib>
+		 <contrib contrib-type="author">
+          <name>
+            <surname>Hildgen</surname>
+            <given-names>Patrice</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00098" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00098">Facult&#xE9; de Pharmacie, Universit&#xE9; de Montr&#xE9;al, C.P. 6128 Succursale Centre-ville, Montr&#xE9;al (Qu&#xE9;bec), Canada, H3C 3J7</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00098"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>Patrice.hildgen@umontreal.ca</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>98</fpage>
+      <lpage>104</lpage>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>02</day>
+          <month>07</month>
+          <year>2004</year>
+        </date>
+      </history>
+       <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>An efficient method of preparing biodegradable and biocompatible multiblock copolymers from lactic acid and polyethylene glycol is proposed.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Copolymers</kwd> 
+		<kwd>multiblock</kwd> 
+		<kwd>lactic acid</kwd> 
+		<kwd>polyethylene glycol</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Biodegradable polymers are studied in an increasing number of medical applications. They are used as drug carriers and controlled release systems [<xref ref-type="bibr" rid="B1-molecules-10-00098">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00098">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00098">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00098">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00098">5</xref>]. Some authors are interested in the possibilities that a copolymer consisting of polylactic acid (PLA) and polyethylene glycol (PEG) can offer, but synthesis of PLA/PEG copolymers via trans-esterification with PLA [<xref ref-type="bibr" rid="B6-molecules-10-00098">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00098">7</xref>] or ring opening of (D,L)-lactide [<xref ref-type="bibr" rid="B8-molecules-10-00098">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00098">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00098">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00098">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00098">12</xref>] can only produce di-block or tri-block copolymers. A multiblock copolymer composed of PLA and PEG is of considerable interest as a drug carrier, since the PLA segments could provide rigidity [<xref ref-type="bibr" rid="B13-molecules-10-00098">13</xref>], while the PEG portions confer stealth behavior [<xref ref-type="bibr" rid="B14-molecules-10-00098">14</xref>]. Stealth microparticles have the ability to evade the immune system. They can then circulate after injection for longer periods of time without any takeover from the immune system, thus increasing their effective lifespan. PEG can also offer a certain degree of hydrophilicity to the polymer that can be useful if we want to use it as a carrier for a hydrophilic drug.</p>
+      <p>We propose here an efficient synthesis method for a polyester-polyethylene multiblock copolymer where the polyester (A) blocks alternate with polyethylene oxide (B) blocks to form a repetitive sequence. Even though microspheres from triblock A-B-A copolymers can be made, we believe that in these microspheres, the A and B parts would discriminate from each other leaving the PEG (B) part mostly on the outside and the PLA (A) part on the inside. The use of a A-B-A-B-A copolymer would force the formation of small pockets of PEG within the microsphere thus facilitating the incorporation of hydrophilic drugs.  Since some of the PEG would be present at the surface, the copolymer would also keep its stealth behavior.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p><xref ref-type="table" rid="molecules-10-00098-t001">Table 1</xref> shows the molecular weights of the triblock copolymers. Samples <bold>1a</bold> to <bold>1e</bold> were made using variety of PEG with different molecular weights at different percentages within the polymer, as describe in the experimental section. Molecular weight for the triblock polymers was also deduced from the integration ratios of resonance from the tertiary proton of the PLA block at 5.2 ppm and the CH<sub>2</sub>CH<sub>2</sub> of the PEG at 3.6 ppm. Since PEG bought commercially has a narrow mass distribution, the approximations from the integration ratios seem acceptable.</p>
+     <table-wrap id="molecules-10-00098-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00098-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Molecular weights of triblock copolymers</p>
+        </caption>
+        <table rules="cols" style="border:solid thin">
+          <thead>
+            <tr>
+              <th align="center" valign="middle">Sample</th>
+              <th align="center" valign="middle">MW<sub>NMR</sub></th>
+              <th align="center" valign="middle">MN</th>
+              <th align="center" valign="middle">MW</th>
+              <th align="center" valign="middle">MW/MN</th>
+              <th align="center" valign="middle">PEG %</th>
+           </tr>
+          </thead>
+          <tbody>
+            <tr style="border-top: solid thin">
+              <td align="center" valign="middle"><bold>1a</bold></td>
+              <td align="center" valign="middle">955.84</td>
+              <td align="center" valign="middle">926.29</td>
+              <td align="center" valign="middle">1695.8</td>
+              <td align="center" valign="middle">1.83</td>
+              <td align="center" valign="middle">9.5</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>1b</bold></td>
+              <td align="center" valign="middle">1710.0</td>
+              <td align="center" valign="middle">900.84</td>
+              <td align="center" valign="middle">1285.34</td>
+              <td align="center" valign="middle">1.43</td>
+              <td align="center" valign="middle">5.56</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>1c</bold></td>
+              <td align="center" valign="middle">2289.68</td>
+              <td align="center" valign="middle">2835.22</td>
+              <td align="center" valign="middle">3595.42</td>
+              <td align="center" valign="middle">1.27</td>
+              <td align="center" valign="middle">9.12</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>1d</bold></td>
+              <td align="center" valign="middle">3769.6</td>
+              <td align="center" valign="middle">3863</td>
+              <td align="center" valign="middle">4485</td>
+              <td align="center" valign="middle">1.16</td>
+              <td align="center" valign="middle">2.17</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>1e</bold></td>
+              <td align="center" valign="middle">15488</td>
+              <td align="center" valign="middle">13466</td>
+              <td align="center" valign="middle">20623</td>
+              <td align="center" valign="middle">1.53</td>
+              <td align="center" valign="middle">0.51</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p><xref ref-type="table" rid="molecules-10-00098-t002">Table 2</xref> shows the molecular weights for the multiblock copolymers made from the previous triblock copolymers as described in the Experimental section.  The increase in molecular weight shows that an average of 2 to 3 triblock copolymers were linked together to form multiblock copolymers.</p>
+      <table-wrap id="molecules-10-00098-t002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00098-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Molecular weights of multiblock copolymers</p>
+        </caption>
+        <table rules="cols" style="border:solid thin">
+         <thead>
+            <tr>
+              <th align="center" valign="middle">Sample</th>
+              <th align="center" valign="middle">MN (g/mol)</th>
+              <th align="center" valign="middle">MW (g/mol)</th>
+              <th align="center" valign="middle">MW/MN</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-top: solid thin">
+              <td align="center" valign="middle"><bold>2a</bold></td>
+              <td align="center" valign="middle">1983.87</td>
+              <td align="center" valign="middle">2670.60</td>
+              <td align="center" valign="middle">1.35</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>2b</bold></td>
+              <td align="center" valign="middle">3646.71</td>
+              <td align="center" valign="middle">8537.77</td>
+              <td align="center" valign="middle">2.34</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>2c</bold></td>
+              <td align="center" valign="middle">6607.95</td>
+              <td align="center" valign="middle">12040.6</td>
+              <td align="center" valign="middle">1.82</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>3a</bold></td>
+              <td align="center" valign="middle">4246</td>
+              <td align="center" valign="middle">5132</td>
+              <td align="center" valign="middle">1.21</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>4a</bold></td>
+              <td align="center" valign="middle">18815</td>
+              <td align="center" valign="middle">31309</td>
+              <td align="center" valign="middle">1.66</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>For the triblock copolymers <bold>1a-1e</bold>, typical spectra were obtained with peaks at 5.2 ppm corresponding to the tertiary PLA proton, at 3.6 ppm for the protons of the repeating units in PEG chain, at 4.3 ppm for the PEG connecting unit to the PLA block, and at 1.5 ppm for the pendant methyl group of the PLA chain. For the multiblocks <bold>2a-2c</bold>, a peak around 2.7 ppm  corresponding to the succinic acid residue is present. For the multiblock copolymer <bold>3a</bold>, peaks corresponding to the protons in the adipic acid chain were detected at 3.0 and 2.3 ppm. As for copolymers <bold>4a</bold>, only the peaks corresponding to the PEG chains were detected.  Increase in PEG content in polymer <bold>4a</bold> and the low molecular mass increase suggest that PEG was added to the end of the triblock copolymer giving an ending number of 3 PEG blocks and 2 PLA blocks.</p>
+      <fig id="molecules-10-00098-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00098-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00098-g001.tif"/>
+      </fig>
+      <fig id="molecules-10-00098-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00098-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00098-g002.tif"/>
+      </fig>
+      <p>For each copolymer, 200 mg were dissolved in 3 mL of dichloromethane, and a thin film was cast on a glass slide.  The films were dried under vacuum to remove any trace of solvent.  Polylactic acid was used as a reference for the contact angle measurement.  Contact angle measurements were made at 0 and 420 seconds. <xref ref-type="table" rid="molecules-10-00098-t003">Table 3</xref> shows that the copolymerization of PLA with PEG reduces the contact angle thus increasing the hydrophilicity of the copolymer compared to PLA alone.</p>
+      <table-wrap id="molecules-10-00098-t003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00098-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>Contact angle for multiblock copolymers</p>
+        </caption>
+        <table rules="cols" style="border:solid thin">
+           <thead>
+            <tr>
+              <th align="left" valign="middle">Polymer</th>
+              <th align="center" valign="middle">Contact angle ( t = 0s )</th>
+              <th align="center" valign="middle">Contact angle ( t = 420s )</th>
+              </tr>
+          </thead>
+          <tbody>
+            <tr style="border-top: solid thin">
+              <td align="left" valign="top"><bold>PLA</bold></td>
+              <td align="center" valign="top">73.7</td>
+              <td align="center" valign="top">49.3</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"><bold>Multiblock 2a (PEG 200)</bold></td>
+              <td align="center" valign="top">59.6</td>
+              <td align="center" valign="top">38.6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"><bold>Multiblock 2b (PEG 400)</bold></td>
+              <td align="center" valign="top">19.2</td>
+              <td align="center" valign="top">2.0</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"><bold>Multiblock 2c (PEG 1450)</bold></td>
+              <td align="center" valign="top">17.6</td>
+              <td align="center" valign="top">0.6</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>This result has been corroborated by the measure of zeta potential of nanoparticles made of multiblock polymers. Pure PLA nanoparticles have a zeta potential about -40 mV.  As expected, small amount of PEG in nanoparticles brings the zeta potential to a neutral value.  So nanoparticules made from multiblock copolymers would retain their stealth behavior even if most of the PEG is embedded in the particles and only part of it shows at the surface of the particle.</p>
+     <table-wrap id="molecules-10-00098-t004" position="float">
+        <object-id pub-id-type="pii">molecules-10-00098-t004_Table 4</object-id>
+        <label>Table 4</label>
+        <caption>
+          <p>potential of nanoparticles made from PLA and multiblock copolymers</p>
+        </caption>
+        <table rules="cols" style="border:solid thin">
+          <thead>
+            <tr>
+              <th align="center" valign="top">NS composition (multiblock:PLA)</th>
+              <th align="center" valign="top">Size (nm) &#xB1; sd</th>
+              <th align="center" valign="top">&#x3B6; (mV) &#xB1; sd</th>
+              </tr>
+          </thead>
+          <tbody>
+            <tr style="border-top: solid thin">
+              <td align="center" valign="top"><bold>40:60</bold></td>
+              <td align="center" valign="top">785.0 &#xB1; 169.8</td>
+              <td align="center" valign="top">-1.68&#xB1; 0.45</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><bold>50:50</bold></td>
+              <td align="center" valign="top">336.1 &#xB1; 92.5</td>
+              <td align="center" valign="top">-1.28&#xB1; 0.75</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><bold>60:40</bold></td>
+              <td align="center" valign="top">513.1 &#xB1; 107.9</td>
+              <td align="center" valign="top">-0.64&#xB1; 0.60</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><bold>70:30</bold></td>
+              <td align="center" valign="top">717.3 &#xB1; 141.4</td>
+              <td align="center" valign="top">+0.64&#xB1; 0.75</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><bold>80:20</bold></td>
+              <td align="center" valign="top">536.3 &#xB1; 42.4</td>
+              <td align="center" valign="top">+0.94&#xB1; 0.45</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><bold>90:10</bold></td>
+              <td align="center" valign="top">560.6 &#xB1; 72.5</td>
+              <td align="center" valign="top">+1.10&#xB1; 0.55</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Because of our concern to make polymers that have some potential as drug delivery systems, we discarded from the beginning the ones that didn&#x2019;t show this potential.  The polymers we searched for had to be solid at least at room temperature and preferably at body temperature. Consequently we didn&#x2019;t follow-up on synthesis schemes that produced soft or liquid polymers. Copolymers that are shown here present the basic characteristics for the microencapsulation of a drug.  They are solid enough to prepare microspheres and the presence of PEG ensures the stealth behavior. Others studies from Panoyan <italic>et al.</italic> already show <italic>in vitro</italic> and <italic>in vivo</italic> behavior for some of theses polymers [<xref ref-type="bibr" rid="B15-molecules-10-00098">15</xref>].</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Polyethylene glycol with molecular weight (g mol-1) of 200, 400 and 1500 were purchased from Aldrich Chemical Company, Inc. (Oakville, Ont., Canada) and were dried under vacuum in the presence of phosphorus pentoxide for 24 hours prior to use. (D,L)-lactide, tetraphenyltin, succinic acid and adipic acid (Aldrich) received the same treatment.  N,N-dimethylformamide was distilled over calcium hydride and kept on a 4&#xC5; molecular sieve prior to use. Thionyl chloride, 1-ethyl-3-[3-dimethylaminopropyl]-carbodiimide (EDC), 4-dimethylaminopyridine (4-DMAP), pyridine, methyl chloride, and chloroform were used as received from Aldrich Chemical Company. Molecular weights were measured by gel permeation chromatography using a Waters refractive index detector module. The number and weight average were determined by calibration obtained from polystyrene reference samples having narrow molecular weights distributions. The chemical composition of triblock (<xref ref-type="scheme" rid="molecules-10-00098-f001">Scheme 1</xref>) and multiblock (<xref ref-type="scheme" rid="molecules-10-00098-f002">Scheme 2</xref>) copolymers was characterized by <sup>1</sup>H-NMR in CDCl<sub>3</sub> on a Br&#xFC;ker 400 MHz spectrometer. Contact angle measurement was made for samples 2a, 2b and 2c using a Tantec CAM-MICRO contact angle meter.</p>
+        <p><italic>Triblock PLA-PEG(200)-PLA</italic> (<bold>1a</bold>). Triblock copolymers were synthesized by ring-opening polymerization of (D,L)-Lactide in the presence of PEG, as described by Cohn and Younes [<xref ref-type="bibr" rid="B13-molecules-10-00098">13</xref>]. Briefly, PEG (molecular weight 200, 3.3 g, 16.5 mmol) was added to (D,L)-lactide (21.62 g, 150 mmol) in a round bottom single neck flask, to yield a PEG(200)/lactic acid ratio of 5%. Tetraphenyltin (0.1%) was used as a catalyst. The flask was purged with argon for 30 minutes and the reaction was carried at 180 &#xB0;C for 6 hours under an argon inert atmosphere. The resulting polymer was precipitated in water from acetone, removing any unreacted PEG and (D,L)-lactide. The polymer was then dried under vacuum in the presence of phosphorus pentoxide. <sup>1</sup>H-NMR &#x3B4; = 5.0-5.3 (m, 1H, CH), 4.2-4.4 (m, 2H, CH<sub>2</sub>-OCO), 3.5-3.8 (m, 2H, CH<sub>2</sub>), 1.3-1.8 (m, 3H, CH<sub>3</sub>)</p>
+        <p><italic>Triblock PLA-PEG(400)-PLA</italic> (<bold>1b</bold>). Compound <bold>1b</bold> was synthesized as described for compound <bold>1a</bold> using 16.5 mmol of PEG (molecular weight 400) and 150 mmol of (D,L)-lactide, to yield a PEG(400)/Lactic acid ratio of 5%. <sup>1</sup>H-NMR &#x3B4; = 5.1-5.3 (m, 1H CH), 4.2-4.4 (m, 2H, CH<sub>2</sub>-OCO), 3.6-3.8 (m, 2H, CH<sub>2</sub>), 1.4-1.7 (m, 3H, CH<sub>3</sub>)</p>
+        <p><italic>Triblock PLA-PEG(1500)-PLA</italic> (<bold>1c</bold>). Compound <bold>1c</bold> was synthesized as described for compound <bold>1a</bold> using 16.5 mmol of PEG (molecular weight 1500) and 150 mmol of (D,L)-lactide, to yield a PEG(1500)/Lactic acid ratio of 5%. <sup>1</sup>H-NMR &#x3B4; = 5.0-5.3 (m, 1H, CH), 4.2-4.4 (m, 2H, CH<sub>2</sub>-OCO), 3.4-3.8 (m, 2H, CH<sub>2</sub>), 1.3-1.7 (m, 3H, CH<sub>3</sub>)</p>
+        <p><italic>Triblock PLA-PEG(400)-PLA</italic> (<bold>1d</bold>). Compound <bold>1d</bold> was synthesized as described for compound <bold>1a</bold> using 8.3 mmol of PEG (molecular weight 400) and 158.3 mmol of (D,L)-lactide, to yield a PEG(400)/Lactic acid ratio of 2.5%. The amount of tetraphenyltin was reduced to 0.01%. <sup>1</sup>H-NMR &#x3B4; = 5.0-5.3 (m, 1H, CH), 4.2-4.4 (m, 2H, CH<sub>2</sub>-OCO), 3.6-3.8 (m, 2H, CH<sub>2</sub>), 1.4-1.7 (m, 3H, CH<sub>3</sub>); <sup>13</sup>C-NMR &#x3B4; = 16.5 (CH<sub>3</sub>) , 69,0 (CH<sub>2</sub>), 70.4 (CH), 169,2 (CO)</p>
+        <p><italic>Triblock PLA-PEG(1500)-PLA</italic> (<bold>1e</bold>). Compound <bold>1e</bold> was synthesized as described for compound <bold>1a</bold> using 1.5 mmol of PEG (molecular weight 1500) and 150 mmol of (D,L)-lactide, to yield a PEG(1500)/Lactic acid ratio of 0.5%. The amount of tetraphenyltin was reduced to 0.01%. Synthesis time was reduced from 6 hours to 3 hours. <sup>1</sup>H-NMR &#x3B4; = 5.1-5.3 (m, 1H, CH), 4.2-4.4 (m, 2H, CH<sub>2</sub>-OCO), 3.6-3.8 (m, 2H, CH<sub>2</sub>), 1.4-1.8 (m, 3H, CH<sub>3</sub>); <sup>13</sup>C-NMR &#x3B4; = 16.5 (CH<sub>3</sub>), 69.7 (CH<sub>2</sub>) 70.3(CH), 169,2 (CO)</p>
+        <p><italic>Multiblock PLA-PEG(200)-PLA-co-succinic</italic> (<bold>2a</bold>). Compound <bold>1a</bold> was dried under vacuum over phosphorus pentoxide for 24 h prior to the reaction. A solution of compound <bold>1a</bold> (roughly 5 mmol), succinic acid (5 mmol) and EDC (12.5 mmol) in N,N-dimethylformamide (10 mL) was made. The solution was poured in a round bottom single neck flask and the flask was purged with argon for 30 minutes. The temperature was then brought down to 0 &#xB0;C and stirred under magnetic agitation for 2 hours.  A solution of 4-DMAP (1.5 mmol) dissolved in N,N-dimethylformamide (5 mL) was then added under an argon inert atmosphere.  The reaction was let to stir for 12 hours while the temperature was gradually brought up to 25 &#xB0;C.  The resulting polymer was precipitated in a 0.1N HCl solution to remove any unreacted compound and then vacuum dried over phosphorus pentoxide. <sup>1</sup>H-NMR &#x3B4; = 5.1-5.3 (m, 1H, CH), 4.2-4.5 (m, 2H, CH<sub>2</sub>-OCO), 3.6-3.8 (m, 2H, CH<sub>2</sub>), 2.6-3.0 (m, 2H, CH<sub>2</sub>), 1.3-1.8 (m, 3H, CH<sub>3</sub>)</p>
+        <p><italic>Multiblock PLA-PEG(400)-PLA-co-succinic</italic> (<bold>2b</bold>). Compound <bold>2b</bold> was synthesized as above, using <bold>1b</bold> instead of <bold>1a.</bold> <sup>1</sup>H-NMR &#x3B4; = 5.1-5.3 (m, 1H, CH), 4.2-4.4 (m, 2H, CH<sub>2</sub>-OCO), 3.6-3.8 (m, 2H, CH<sub>2</sub>), 2.7-3.0 (m, 2H, CH<sub>2</sub>), 1.4-1.7 (m, 3H, CH<sub>3</sub>)</p>
+        <p><italic>Multiblock PLA-PEG(1500)-PLA-co-succinic</italic> (<bold>2c</bold>). Compound <bold>2c</bold> was synthesized as above, using <bold>1c</bold> instead of <bold>1a</bold>. <sup>1</sup>H-NMR &#x3B4; = 5.1-5.3 (m, 1H, CH), 4.2-4.4 (m, 2H, CH<sub>2</sub>-OCO), 3.6-3.8 (m , 2H, CH<sub>2</sub>), 2.8-3.0 (m, 2H), 1.4-1.7 (m, 3H, CH<sub>3</sub>)</p>
+        <p><italic>Multiblock PLA-PEG(400)-PLA-co-adipic</italic> (<bold>3a</bold>).  A solution of thionyl chloride (900mg) in pyridine (10 mL) was prepared at 0 &#xB0;C by adding the pyridine dropwise to the thionyl chloride over a period of 30 minutes. A solution of adipic acid (3 mmol) and compound <bold>1d</bold> (3 mmol) in N,N-dimethylformamide (30 mL) was prepared and kept at 0 &#xB0;C. This solution was added to the thionyl chloride/pyridine dropwise over a period of 1 hour at 0 &#xB0;C.  The temperature was then gradually raised to 25 &#xB0;C over a period of 12 hours.  The resulting polymer was then precipitated in water and centrifuged at 5000 rpm for 5 minutes.  The process was repeated 2 times with fresh water.  The polymer was then freeze dried. <sup>1</sup>H-NMR &#x3B4; = 5.1-5.3(m, 1H, CH), 4.2-4.4 (m, 2H, CH<sub>2</sub>-OCO), 3.6-3.8 (m ,2H, CH<sub>2</sub>), 2.8-3.0 (m, 2H, CH<sub>2</sub>), 1.4-1.7 (m, 3H, CH<sub>3</sub>); <sup>13</sup>C-NMR &#x3B4; = 16.45 (CH<sub>3</sub>), 68.8 (CH<sub>2</sub>) 69.0(CH), , 162.5 (CO adipic),169,2 (CO)</p>
+        <p><italic>Multiblock PLA-PEG(1500)-PLA-co-PEG</italic> (<bold>4a</bold>).  ClOC-PEG(1500)-COCl was prepared from a solution of HOOC-PEG(1500)-COOH in thionyl chloride.  Thionyl chloride was removed by vacuum, leaving ClOC-PEG(1500)-COCl. A solution of modified PEG (0.52 mmol) was prepared with chloroform (20 mL) and added to a solution of compound <bold>1e</bold> (0.52 mmol) in chloroform (40 mL). DMAP (100 mg) in pyridine (1 mL) was then added to the previous solution and agitated for 3 hours.  The polymer was precipitated in 1N HCl and the chloroform was removed by evaporation.  The last step was repeated 2 times and the polymer was then dried under vacuum over phosphorus pentoxide. <sup>1</sup>H-NMR &#x3B4; = 5.1-5.3 (m, 1H, CH), 4.2-4.4 (m, 2H, CH<sub>2</sub>-OCO), 3.6-3.8 (m , 2H), 2.8-3.0 (m, 2H, CH<sub>2</sub>), 1.4-1.7 (m, 3H, CH<sub>3</sub>); <sup>13</sup>C-NMR &#x3B4; = 16.45 (CH<sub>3</sub>), 68.8 (CH<sub>2</sub>) 69.0(CH), 162.5 (CO),169.2 (CO)</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00098">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosen</surname>
+              <given-names>H.B.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wnek</surname>
+              <given-names>G.E.</given-names>
+            </name>
+            <name>
+              <surname>Linhardt</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Langer</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bioerodible polyanhydrides for drug delivery</article-title>
+          <source>Biomaterials</source>
+          <year>1983</year>
+          <volume>4</volume>
+          <fpage>131</fpage>
+          <lpage>133</lpage>
+          <pub-id pub-id-type="doi">10.1016/0142-9612(83)90054-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00098">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peppas</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Sahlin</surname>
+              <given-names>J.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hydrogels as Mucoadhesive and Bioadhesive materials: a review</article-title>
+          <source>Biomaterials</source>
+          <year>1996</year>
+          <volume>17</volume>
+          <fpage>1553</fpage>
+          <lpage>1561</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00098">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ogawa</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Injectable microcapsules prepared with biodegradable poly(alpha-hydroxy) acids for prolonged release of drugs</article-title>
+          <source>J. Biomat. Sci. Polym. E.</source>
+          <year>1997</year>
+          <volume>8</volume>
+		  <fpage>391</fpage>
+          <lpage>409</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00098">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jain</surname>
+              <given-names>R.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The manufacturing techniques of various drug loaded biodegradable poly(lactide-co-glycolide) (PLGA) devices</article-title>
+          <source>Biomaterials</source>
+          <year>2000</year>
+          <volume>21</volume>
+          <fpage>2475</fpage>
+          <lpage>90</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00098">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fournier</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Passirani</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Montero-Menei</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>N. Benoit</surname>
+              <given-names>J. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biocompatibility of implantable synthetic polymeric drug carriers: focus on brain biocompatibility</article-title>
+          <source>Biomaterials</source>
+          <year>2003</year>
+          <volume>24</volume>
+          <fpage>3311</fpage>
+          <lpage>3331</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00098">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piskin</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kaitian</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Denkbas</surname>
+              <given-names>E.B.</given-names>
+            </name>
+            <name>
+              <surname>Kucukyavuz</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel PDLLA/PEG copolymer micelles as drug carrier</article-title>
+          <source>J. Biomat. Sci. Polym. Ed.</source>
+          <year>1995</year>
+          <volume>7</volume>
+          <fpage>359</fpage>
+          <lpage>373</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00098">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Celikkaya</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Denkbas</surname>
+              <given-names>E.B.</given-names>
+            </name>
+            <name>
+              <surname>Piskin</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rifampicin Carrying Poly (D,L-Lactide)/Poly (Ethylene Glycol) Microspheres: Loading and Release</article-title>
+          <source>Artif. Organs</source>
+          <year>1996</year>
+          <volume>20</volume>
+          <fpage>743</fpage>
+          <lpage>751</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00098">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ronneberger</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kao</surname>
+              <given-names>W. J.</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Kissel</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>In vivo biocompatibility study of aba triblock copolymers consisting of poly(l-lactic-co-glycolic acid) a blocks attached to central poly(oxyethylene) b blocks</article-title>
+          <source>J. Biomed. Mat. Res.</source>
+          <year>1996</year>
+          <volume>30</volume>
+          <fpage>31</fpage>
+          <lpage>40</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00098">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X.C.</given-names>
+            </name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>J. K.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Min</surname>
+              <given-names>W. X.</given-names>
+            </name>
+            <name>
+              <surname>Cruz</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hunter</surname>
+              <given-names>W. L.</given-names>
+            </name>
+            <name>
+              <surname>Burt</surname>
+              <given-names>H. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of biodegradable polymeric paste formulations for taxol - an in vitro and in vivo study</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>1996</year>
+          <volume>137</volume>
+          <fpage>199</fpage>
+          <lpage>208</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00098">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>K.J.</given-names>
+            </name>
+            <name>
+              <surname>Xiangzhou</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Shilin</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation, Charcterisation, and Properties of Polylactide (PLA)-Poly(ethylene Glycol) (PEG) Copolymers: A potential Drug Carrier</article-title>
+          <source>J. Appl. Polym. Sci.</source>
+          <year>1990</year>
+          <volume>39</volume>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00098">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Youxin</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kissel</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and properties of biodegradable ABA triblock copolymers consisting of poly (L-lactic acid) or poly (L-lactic-co-glycolic acid) A-blocks attached to central poly (oxyethylene) B-block</article-title>
+          <source>J. Control. Rel.</source>
+          <year>1993</year>
+          <volume>27</volume>
+          <fpage>247</fpage>
+          <lpage>257</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00098">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferruti</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Penco</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>D'Addato</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Ranucci</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Deghenghi</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and properties of novel block copolymers containing poly(lactic-glycolic acid) and poly(ethyleneglycol) segments</article-title>
+          <source>Biomaterials</source>
+          <year>1995</year>
+          <volume>16</volume>
+          <fpage>1423</fpage>
+          <lpage>1428</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00098">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cohn</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Younes</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biodegradable PEO/PLA block copolymers</article-title>
+          <source>J. Biomed. Mat. Res.</source>
+          <year>1988</year>
+          <volume>22</volume>
+          <fpage>993</fpage>
+          <lpage>1009</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00098">
+        <label>14.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muller</surname>
+              <given-names>R.H.</given-names>
+            </name>
+          </person-group>
+          <source>Colloidal carriers for controlled drug delivery and targeting: modification, characterization, and in vivo distribution</source>
+          <publisher-name>CRC Press Inc.</publisher-name>
+          <publisher-loc>Boca Raton, Florida</publisher-loc>
+          <year>1991</year>
+          <fpage>45</fpage>
+          <lpage>46</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00098">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Panoyan</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Quesnel</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Hildgen</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Injectable nanospheres from a novel multiblock copolymer: cytocompatibility, degradation and in vitro release studies</article-title>
+          <source>J. Microencapsul.</source>
+          <year>2003</year>		  
+          <volume>20</volume>
+		  <fpage>745</fpage>
+          <lpage>58</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

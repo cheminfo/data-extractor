@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="2.3" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10091135</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01135</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Poly[3-(3,4-dihydroxyphenyl)glyceric Acid], A New Biologically Active Polymer from <italic>Symphytum Asperum Lepech.</italic> and S. <italic>Caucasicum Bieb.</italic> (Boraginaceae)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Barbakadze</surname>
+            <given-names>Vakhtang</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01135" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-01135" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kemertelidze</surname>
+            <given-names>Etheri</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01135" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Targamadze</surname>
+            <given-names>Iraida</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01135" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mulkijanyan</surname>
+            <given-names>Karen</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01135" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shashkov</surname>
+            <given-names>Alexander S.</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01135" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>I.Usov</surname>
+            <given-names>Anatolii</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01135" ref-type="aff">2</xref>
+          <xref rid="fn1-molecules-10-01135" ref-type="fn">&#x2020;</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01135"><label>1</label>Kutateladze Institute of Pharmacochemistry, Georgian Academy of Sciences, P.Sarajishvili str. 36, 0159 Tbilisi, Georgia. Tel.:+(995-32) 232026, Fax: +(995-32) 294786.</aff>
+      <aff id="af2-molecules-10-01135"><label>2</label>Zelinsky Institute of Organic Chemistry, Russian Academy of Sciences, Leninskii pr. 47, 119991&#xFF0C; Moscow, Russia. Tel.:+7 095 1376791, Fax: +7 095 1355328.</aff>
+      <author-notes>
+        <fn id="fn1-molecules-10-01135">
+          <label>&#x2020;</label>
+          <p>e-mail <email>usov@ioc.ac.ru</email></p>
+        </fn>
+        <corresp id="c1-molecules-10-01135"><label>*</label>Author to whom correspondence should be addressed; e-mail <email>v_barbakadze@hotmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+      <fpage>1135</fpage>
+      <lpage>1144</lpage>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract><p>Two high-molecular water-soluble preparations with high anticomplementary, antioxidant, antilipoperoxidant and antiinflammatory activities were isolated from the roots of <italic>Symphytum asperum</italic> and <italic>S. caucasicum.</italic> Their main chemical constituent was found to be poly[oxy-1-carboxy-2-(3,4-dihydroxyphenyl)ethylene], according to IR and NMR spectroscopy. The <italic>Symphytum</italic> high-molecular preparations can modulate <italic>in vitro</italic> B- chronic lymphocytic leukaemia (B-CLL) cells apoptosis and cell cycle progression.</p></abstract>
+      <kwd-group>
+        <kwd>Caffeic acid</kwd>
+        <kwd>3-(3,4-dihydroxyphenyl)glyceric acid</kwd>
+        <kwd><italic>Symphytum asperum</italic></kwd>
+        <kwd><italic>Symphytum asperum caucasicum</italic></kwd>
+        <kwd>poly[oxy-1-carboxy-2-(3,4-dihydroxyphenyl)ethylene]</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>In a previous paper it was shown that the crude polysaccharide preparations from the roots of <italic>Symphytum asperum</italic> and <italic>S. caucasicum</italic> (Boraginaceae) displayed strong anticomplementary activity [<xref ref-type="bibr" rid="B1-molecules-10-01135">1</xref>]. In order to determine the chemical nature of the active components both total polysaccharide preparations were fractionated by ultrafiltration on membrane filters with cut-off values of 1000 kDa. This fractionation procedure allowed us to remove most ballast polysaccharides and to obtain water-soluble high-molecular (&gt;1000 kDa) preparations <bold>1</bold> and <bold>2</bold> from <italic>S. asperum</italic> and <italic>S. caucasicum</italic> roots, respectively [<xref ref-type="bibr" rid="B1-molecules-10-01135">1</xref>]. They contained some amounts of carbohydrates (25.7 and 26%, respectively). The monosaccharide composition of the carbohydrate fraction of the preparations differed sharply from those of the starting polysaccharide extracts, in which fructose prevails [<xref ref-type="bibr" rid="B1-molecules-10-01135">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-01135">2</xref>]. Preparations <bold>1</bold> and <bold>2</bold> were found to contain rhamnose, arabinose, mannose, glucose, galactose, and uronic acids, along with only negligible amounts of fructose [<xref ref-type="bibr" rid="B1-molecules-10-01135">1</xref>]. Three absorption maxima at 252, 282 (shoulder) and 286 nm in veronal-saline buffer pH 7.35) were observed in the UV spectra of both preparations. The high anticomplementary activity of preparations <bold>1</bold> and <bold>2</bold> decreased sharply upon the treatment of their solutions with a skin powder. On the basis of these data, we hypothesized that the isolated compounds are phenolic polymers [<xref ref-type="bibr" rid="B1-molecules-10-01135">1</xref>]. We had shown in our preliminary communications that a regularly substituted polyoxyethylene, namely, poly[oxy- 1-carboxy-2-(3,4-dihydroxyphenyl)ethylene], is the main component of preparation <bold>1</bold> [<xref ref-type="bibr" rid="B3-molecules-10-01135">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-01135">4</xref>]. We herein report data on the comparative study of preparations <bold>1</bold> and <bold>2</bold> using IR and NMR spectroscopy and their antioxidant activities.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The absorption maxima in water at 213, 237 282 (shoulder) and 286 nm were observed in the UV spectra of both preparations. The IR spectra of preparations <bold>1</bold> and <bold>2</bold> are identical and contain absorption bands characteristic of phenol-carboxylic acids [<xref ref-type="bibr" rid="B5-molecules-10-01135">5</xref>]: 3400 (OH); 2930 (CH); 1620 (ionized carboxyl); 1600, 1510, and 1450 (aromatic C=C); 1410 and 1220 (phenols); 1270, 1130, 1075 and 1030 (R&#x2500;O&#x2500;R&#x2019;); 880 (C&#x2500;H in the aromatic ring with one isolated hydrogen atom); and 830 cm<sup>-1</sup> (C&#x2500;H in the aromatic ring with two neighboring hydrogen atoms).</p>
+      <fig id="molecules-10-01135-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>The 13C-NMR spectrum of preparation <bold>1</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01135-g001.tif"/>
+      </fig>
+      <p>The <sup>13</sup>C-NMR spectra of <bold>1</bold> and <bold>2</bold> are also completely identical. Interestingly, the signals of the carbohydrate components are practically unobservable in the spectra of these preparations, probably due to their variegated monosaccharide composition; only nine distinct signals corresponding to the carbon atoms of the substituted phenylpropionic acid fragment are observed (<xref ref-type="fig" rid="molecules-10-01135-f001">Figure 1</xref>).</p>
+      <fig id="molecules-10-01135-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>The APT spectrum of preparation <bold>1</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01135-g002.tif"/>
+      </fig>
+      <fig id="molecules-10-01135-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>The 1H-NMR spectrum of preparation <bold>1</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01135-g003.tif"/>
+      </fig>
+      <p>It follows from the spectra obtained using the APT technique [<xref ref-type="bibr" rid="B6-molecules-10-01135">6</xref>] (<xref ref-type="fig" rid="molecules-10-01135-f002">Figure 2</xref>) that five signals should be assigned to CH groups and four signals to the nonprotonated carbon atoms. The two signals with chemical shifts of 78.2 and 80.4 ppm obviously belong to oxygen-bound protonated aliphatic carbon atoms. Six signals were assigned to aromatic carbon atoms (protonated atoms at 117.4, 118.6, and 122.3 ppm and nonprotonated atoms at 131.5, 143.8, and 144.6 ppm). The broadened signal at 175.4 ppm was assigned to the carboxyl group in the compound.</p>
+      <p>The <sup>1</sup>H-NMR spectra of both preparations are also practically identical (<xref ref-type="fig" rid="molecules-10-01135-f003">Figure 3</xref>). They contain four signals at 4.88, 5.33, 7.13, and 7.24 ppm, one of them (7.13 ppm) with doubled intensity. Unfortunately, these signals are broadened, and, therefore, the coupling constants cannot be determined. The 2D heteronuclear <sup>1</sup>H/<sup>13</sup>C HSQC spectrum (<xref ref-type="fig" rid="molecules-10-01135-f004">Figure 4</xref>) exhibits the following correlations between protons and carbon atoms: 4.88/80.4, 5.33/78.2, 7.13/118.6, 7.13/122.3, and 7.24/117.4 ppm.</p>
+      <fig id="molecules-10-01135-f004" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p>The HSQC spectrum of preparation <bold>1</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01135-g004.tif"/>
+      </fig>
+      <p>The good resolution and the narrow shape of the <sup>13</sup>C-NMR signals indicate that the compounds under study are regular polymers. As shown in our previous communications [<xref ref-type="bibr" rid="B3-molecules-10-01135">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-01135">4</xref>], the polyoxyethylene chain is the backbone of the polymer molecule according to the spectral data. Dihydroxyphenyl and carboxyl groups are regular substituents at two carbon atoms in the chain (see <xref ref-type="table" rid="molecules-10-01135-t001">Table</xref>). The hydroxyl groups in positions 3 and 4 of the phenyl ring were unambiguously established by a 1D-NOE experiment performed in the difference mode. The pre-irradiation of the proton in position 1 with the chemical shift of 5.33 ppm caused a NOE in the two aromatic protons with the chemical shifts of 7.13 and 7.24 ppm. Hence, these protons occupy positions 2 and 6 in phenyl ring. Therefore, hydroxyl groups cannot occupy <italic>o-</italic>positions. Different values of NOE for these protons, different chemical shifts, and different chemical shifts of resonances of the corresponding carbon atoms in the <sup>13</sup>C NMR spectrum exclude the feasibility of symmetric bis-<italic>m-</italic>substitution in the aromatic ring with two hydroxyl groups. Thus, poly[oxy-1-carboxy-2- (3,4-dihydroxyphenyl)ethylene] is the main component of both isolated preparations <bold>1</bold> and <bold>2.</bold> The repeating unit of this polyether contains two asymmetric carbon atoms, but we do not as yet have data on the chirality of these centers.</p>
+        <table-wrap id="molecules-10-01135-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-01135-t001_Table 1</object-id>
+          <label>Table</label>
+          <caption>
+            <p>Signal assignments of the <sup>13</sup>C- and <sup>1</sup>H-NMR spectra of preparations <bold>1</bold> and <bold>2</bold>.</p>
+          </caption>
+  <table>
+          <tbody>
+            <tr>
+              <td align="center" valign="top" style="border:solid thin"> Repeating unit</td>
+              <td align="center" valign="top" style="border:solid thin"> Atom no.</td>
+              <td align="center" valign="top" style="border:solid thin"><sup>13</sup>C chemical shift,&#x3B4;, ppm</td>
+              <td align="center" valign="top" style="border:solid thin"><sup>1</sup>H chemical shift,&#x3B4;, ppm</td>
+            </tr>
+            <tr>
+              <td rowspan="9"  align="center" valign="top" style="border-left:solid thin;border-right:solid thin;border-bottom:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01135-i001.tif"/></td>
+              <td align="center" valign="top" style="border-right:solid thin">1'</td>
+              <td align="center" valign="top" style="border-right:solid thin">175.4</td>
+              <td rowspan="2" align="center" valign="top" style="border-right:solid thin"> 5.33</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-right:solid thin">1</td>
+              <td align="center" valign="top" style="border-right:solid thin">78.2</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-right:solid thin">2</td>
+              <td align="center" valign="top" style="border-right:solid thin">80.4</td>
+              <td align="center" valign="top" style="border-right:solid thin">4.88</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-right:solid thin">1''</td>
+              <td align="center" valign="top" style="border-right:solid thin">131.5</td>
+              <td align="center" valign="top" style="border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-right:solid thin">2''</td>
+              <td align="center" valign="top" style="border-right:solid thin">117.4</td>
+              <td align="center" valign="top" style="border-right:solid thin">7.24</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-right:solid thin">3''</td>
+              <td align="center" valign="top" style="border-right:solid thin">144.6</td>
+              <td align="center" valign="top" style="border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-right:solid thin">4''</td>
+              <td align="center" valign="top" style="border-right:solid thin">143.8</td>
+              <td align="center" valign="top" style="border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-right:solid thin">5''</td>
+              <td align="center" valign="top" style="border-right:solid thin">118.6</td>
+              <td align="center" valign="top" style="border-right:solid thin">7.13</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-right:solid thin;border-bottom:solid thin">6''</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">122.3</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">7.13</td>
+            </tr>
+          </tbody>
+        </table>
+		</table-wrap>
+      <p>Various phenylpropanoids are well-known fragments of lignans and structural polymers of the plant cell wall. For example, lignols are the main units of lignin [<xref ref-type="bibr" rid="B7-molecules-10-01135">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-01135">8</xref>], whereas arylpropionic acids are the main constituents of the aromatic moiety of suberin [<xref ref-type="bibr" rid="B9-molecules-10-01135">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-01135">10</xref>]. Both lignin and suberin are practically water- insoluble high-molecular three-dimensional cross-linked polymers with an irregular structure. The information on their structures is mainly based on the data obtained upon their chemical degradation [<xref ref-type="bibr" rid="B11-molecules-10-01135">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-01135">12</xref>]. The <sup>13</sup>C- NMR spectra of lignin and suberin obtained for the solid samples give rather poor structural information [<xref ref-type="bibr" rid="B10-molecules-10-01135">10</xref>,<xref ref-type="bibr" rid="B13-molecules-10-01135">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-01135">14</xref>]. On the other hand, the solubility and behavior upon fractionation make preparations <bold>1</bold> and <bold>2</bold> akin to plant polysaccharide mucilages. One can see that NMR spectroscopy is the most effective method for elucidating their structure. Although the <sup>13</sup>C-NMR spectra of solid lignin or suberin samples and solutions of <bold>1</bold> and <bold>2</bold> are not directly comparable, our assignment of the resonances in the <sup>13</sup>C-NMR spectrum does not contradict the current spectral data for lignin [<xref ref-type="bibr" rid="B13-molecules-10-01135">13</xref>], suberin [<xref ref-type="bibr" rid="B14-molecules-10-01135">14</xref>], a number of low-molecular natural compounds containing fragments of 3-(3,4-dihydroxyphenyl)lactic [<xref ref-type="bibr" rid="B15-molecules-10-01135">15</xref>], 3-(3,4- dihydroxyphenyl)glyceric acid [<xref ref-type="bibr" rid="B16-molecules-10-01135">16</xref>] and model derivatives of caffeic acid [<xref ref-type="bibr" rid="B17-molecules-10-01135">17</xref>] reported in literature.</p>
+      <p>Besides the strong anticomplementary activity of <bold>1</bold> and <bold>2</bold> [<xref ref-type="bibr" rid="B1-molecules-10-01135">1</xref>], it was shown that preparation <bold>1</bold> has high antioxidant and antilipoperoxidant activity. It strongly reduced the 1,1-diphenyl-2-picrylhydrazyl (DPPH) radical and inhibited the nonenzymatic lipid peroxidation of bovine brain. The ability of preparation <bold>1</bold> to inhibit both degranulation of azurophilic granules and superoxide generation in primed leukocytes indicates that the NADPH oxidase responsible for this process is inhibited, pointing to the preparation <bold>1</bold> as a potent antiinflammatory and vasoprotective agent. In addition, because of its strong antilipoperoxidant activity, it may partly prevent both low-density lipoprotein (LDL) oxidation and formation of byproducts resulting from lipid lipoperoxidation, and therefore, it may have a beneficial effect in the prevention of atherosclerosis and cardiovascular diseases [<xref ref-type="bibr" rid="B18-molecules-10-01135">18</xref>].</p>
+      <p>Aqueous extracts from <italic>Symphytum</italic> species are used in traditional medicine as antiinflammatory and wound-healing agents. Our results demonstrated that the new water-soluble <italic>Symphytum</italic> polymers participate in the global activity of the plant extract. The <italic>Symphytum</italic> polyether could be of significant importance for the treatment of burn wounds. The <italic>Symphytum</italic> caffeic acid-derived polymer mentioned above displayed relevant <italic>in vitro</italic> activities similar to tannic acid (e.g. antioxidant activity) [<xref ref-type="bibr" rid="B18-molecules-10-01135">18</xref>], which is used in traditional medicine to treat of burn wounds [<xref ref-type="bibr" rid="B19-molecules-10-01135">19</xref>]. However, due to the presence of only ether- linked moieties of caffeic acid, the major advantage of this <italic>Symphytum</italic> new polymer is its low susceptibility to hydrolysis, thus being a much more stable compound than tannic acid which is composed of ester-linked glucose and gallic acid moieties.</p>
+      <p>Besides generation of superoxide anions by stimulated polymorphonuclear neutrophils (PMNs) these radicals may also arise in chronic wounds where ischemic conditions may convert the enzyme xanthine dehydrogenase into xanthine oxidase which catalyses the conversion of oxygen into superoxide anions causing tissue damage. During this process xanthine oxidase converts hypoxanthine to xanthine and subsequently to uric acid. Consequently, scavenging of superoxide anions either produced by the PMNs or through xanthine oxidase is regarded to be beneficial in the treatment of chronic wounds [<xref ref-type="bibr" rid="B20-molecules-10-01135">20</xref>]. Therefore, a superoxide anion scavenging assay of <bold>1</bold> and <bold>2</bold> was carried out in which superoxide anions are generated in a cell-free hypoxanthine/xanthine-oxidase system, and measured as chemiluminescence using lucigenin as light enhancer [<xref ref-type="bibr" rid="B21-molecules-10-01135">21</xref>]. Preparations <bold>1</bold> and <bold>2</bold> were found to be strong antioxidants in this assay with IC<sub>50</sub> values of 2.0 &#xB1; 0.8 and 3.2 &#xB1; 0.7 &#xB5;g/mL, respectively [values are depicted as mean IC<sub>50</sub> values (n = 6) &#xB1; standard errors of the mean (SEM)]. Uric acid formation is usually determined to discriminate between actual scavenging of superoxide anions and inactivation of xanthine oxidase by the test sample, but in this case it was not possible to determine uric acid formation spectrophotometrically at 290 nm, due to the strong absorbance of <bold>1</bold> and <bold>2</bold> themselves (with a UV absorption maximum at 286 nm). It should be noticed that inactivation of the enzyme xanthine oxidase by <bold>1</bold> and <bold>2</bold> could not be excluded. Regarding their molecular structures, it is expected that these polyethers easily bind to proteins, thus inactivating enzymes like xanthine oxidase. On the other hand, the molecular structure of <bold>1</bold> and <bold>2</bold> also suggest strong antioxidative properties. The <italic>ortho</italic>-dihydroxyl (catechol) groups of <italic>Symphytum</italic> polymers could act as a donor of hydrogen radicals or electrons what is crucial for enhanced antioxidant efficacy. The strong nonenzymatic DPPH radical-scavenging activity of <bold>1</bold> [<xref ref-type="bibr" rid="B18-molecules-10-01135">18</xref>] may be attributed to the catechol moieties contained in this preparation.</p>
+      <p>Preliminary research regarding the effects of <bold>1</bold> and <bold>2</bold> on the modulation of TNF-&#x3B1; production by human monocytes/macrophages was carried out. The macrophage is a most important cell regulating the inflammatory process by the production of various cytokines, including TNF-&#x3B1;. It was used as marker for the modulation of macrophage functioning. Human adherent mononuclear cells were stimulated with lipopolysaccharide (LPS) from E. coli to produce  TNF-&#x3B1;, which was determined using an ELISA [<xref ref-type="bibr" rid="B22-molecules-10-01135">22</xref>]. Both preparations inhibited the TNF-&#x3B1; production by human mononuclear cells/macrophages (IC<sup>50</sup> values 10 - 60 &#xB5;g/mL). The observed inhibition may be due to binding of these phenolic polyethers to a protein TNF-&#x3B1;, rather than real inhibition of TNF-&#x3B1; production. In order to clarify this theme additional experiments should be carried out.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Thus, our results help establish that one and the same poly[oxy-1-carboxy-2-(3,4- dihydroxyphenyl)ethylene] is the main structural element of both high-molecular water-soluble preparations isolated from the roots of <italic>S. asperum</italic> and <italic>S. caucasicum.</italic> Such a caffeic acid-derived biopolymer is hitherto not known and has been identified for the first time. This compound is a representative of a new class of natural polyethers with a residue of 3-(3,4-dihydroxyphenyl)glyceric acid as the repeating unit. We have no information on the biosynthesis of such a polymer in plants, but from the chemical viewpoint, this process can be conceived as the epoxidation of the double bond in caffeic acid followed by the polymerization of the resulting epoxide.</p>
+      <p>The similarity in the anticomplementary and antioxidant activities of both preparations can obviously be explained by similarity of their chemical nature. At the same time, preparation <bold>2</bold> is somewhat less soluble than <bold>1,</bold> which could be due to the higher molecular mass of <bold>2</bold> or fine structural differences not reflected in NMR spectra. The disclosure of these differences (including the determination of the structural importance of residual carbohydrates) and further investigation of the biological activity of the polymers isolated will be the subject of future work. Further study should clarify the physiological function of these polyethers in plants and demonstrate whether their biosynthesis is the unique property of the genus <italic>Symphytum</italic> or such compounds are also generated in other plants.</p>
+      <p>Besides, recently it was shown that the new polymers from the roots of <italic>S. asperum</italic> and <italic>S. caucasicum</italic> can modulate B-chronic lymphocytic leukaemia (B-CLL) cells apoptosis and cell cycle progression [<xref ref-type="bibr" rid="B23-molecules-10-01135">23</xref>,<xref ref-type="bibr" rid="B24-molecules-10-01135">24</xref>], therefore these substances can be proposed for further investigations as prospective tumour modulating preparations.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>The total preparations of water-soluble polysaccharides from the roots of <italic>S. asperum</italic> and <italic>S.caucasicum</italic> were obtained as described in [<xref ref-type="bibr" rid="B25-molecules-10-01135">25</xref>]. Preparations <bold>1</bold> and <bold>2</bold> were isolated by the procedure described previously [<xref ref-type="bibr" rid="B1-molecules-10-01135">1</xref>]. UV spectra were recorded on a Hitachi 150-20 spectrophotometer. IR spectra were registered in KBr pellets on a Perkin-Elmer 571 spectrophotometer. NMR spectra were taken on a Bruker DRX-500 spectrometer for 1% solutions of the polymers in D<sub>2</sub>O at 70-80&#xBA;C using acetone (&#x3B4;<sub>H</sub> 2.225 ppm, &#x3B4;<sub>C</sub> 31.45 ppm) as the internal standard (sealed tubes). The preirradiation time for the 1D-NOE experiment was 1 s, and the signal of the preirradiated proton in the differential spectrum was taken as 100%. The 2D HSQC spectrum was obtained using the Bruker standard software. Superoxide anion scavenging assay in a cell-free hypoxanthine/xanthine-oxidase system was carried out as described in [<xref ref-type="bibr" rid="B21-molecules-10-01135">21</xref>]. The inhibition of TNF-&#x3B1; production by adherent human mononuclear cells/marophages was measured in accordance with [<xref ref-type="bibr" rid="B22-molecules-10-01135">22</xref>]. For spectral data (UV &#x3BB;<sub>max</sub> (H<sub>2</sub>O) nm, IR &#x3BD;<sub>max</sub> (KBr) cm<sup>-1</sup>; for <sup>1</sup>H and <sup>13</sup>C (<sup>2</sup>H<sub>2</sub>O) &#x3B4; ppm) see Results and Discussion.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01135">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barbakadze</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Kemertelidze</surname>
+              <given-names>E.P.</given-names>
+            </name>
+            <name>
+              <surname>Usov</surname>
+              <given-names>A.I.</given-names>
+            </name>
+            <name>
+              <surname>Kroes</surname>
+              <given-names>B.H.</given-names>
+            </name>
+            <name>
+              <surname>Quarles van Ufford</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Van den Worm</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Beukelman</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Van den Berg</surname>
+              <given-names>A.J.J.</given-names>
+            </name>
+            <name>
+              <surname>Labadie</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of Immunomodulatory Activity of Some Plant Polysaccharides</article-title>
+          <source>Proc. Georg. Acad. Sci., Biol. Ser.</source>
+          <year>1999</year>
+          <volume>25</volume>
+          <fpage>207</fpage>
+          <lpage>216</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01135">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barbakadze</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Kemertelidze</surname>
+              <given-names>E.P.</given-names>
+            </name>
+            <name>
+              <surname>Dekanosidze</surname>
+              <given-names>H.E.</given-names>
+            </name>
+            <name>
+              <surname>Beruchashvili</surname>
+              <given-names>T.G.</given-names>
+            </name>
+            <name>
+              <surname>Usov</surname>
+              <given-names>A.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>investigation of Glucofructans from Roots of Two Species of Comfrey <italic>Symphytum asperum</italic> Lepech. and <italic>S. caucasicum</italic> Bieb.</article-title>
+          <source>Bioorg. Khim.</source>
+          <year>1992</year>
+          <volume>18</volume>
+          <fpage>671</fpage>
+          <lpage>679</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01135">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barbakadze</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Kemertelidze</surname>
+              <given-names>E.P.</given-names>
+            </name>
+            <name>
+              <surname>Shashkov</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Usov</surname>
+              <given-names>A.I.</given-names>
+            </name>
+            <name>
+              <surname>Kroes</surname>
+              <given-names>B.H.</given-names>
+            </name>
+            <name>
+              <surname>C.J.</surname>
+            </name>
+            <name>
+              <surname>Van den Berg</surname>
+              <given-names>A.J.J.</given-names>
+            </name>
+            <name>
+              <surname>Labadie</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Partial Characterization of a New Anticomplementary Dihydroxycinnamate- Derived Polymer from <italic>Symphytum asperum</italic> Lepech</article-title>
+          <source>Proc. Georg. Acad. Sci., Biol. Ser.</source>
+          <year>2000</year>
+          <volume>25</volume>
+          <fpage>207</fpage>
+          <lpage>216</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01135">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barbakadze</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Kemertelidze</surname>
+              <given-names>E.P.</given-names>
+            </name>
+            <name>
+              <surname>Shashkov</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Usov</surname>
+              <given-names>A.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure of a New Anticomplementary Dihydroxycinnamate-Derived Polymer from <italic>Symphytum asperum</italic> (Boraginaceae)</article-title>
+          <source>Mendeleev Commun.</source>
+          <year>2000</year>
+          <volume>10</volume>
+          <fpage>148</fpage>
+          <lpage>149</lpage>
+          <pub-id pub-id-type="doi">10.1070/MC2000v010n04ABEH001295</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01135">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dyer</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <source>Applications of Absorption Spectroscopy of Organic Compounds</source>
+          <publisher-name>Prentice-Hall Inc.</publisher-name>
+          <publisher-loc>Englewood Cliffs, NY</publisher-loc>
+          <year>1965</year>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01135">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patt</surname>
+              <given-names>S.L.</given-names>
+            </name>
+            <name>
+              <surname>Schoolery</surname>
+              <given-names>J.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Attached Proton Test for Carbon-13 NMR</article-title>
+          <source>J. Magn. Reson.</source>
+          <year>2000</year>
+          <volume>46</volume>
+          <fpage>535</fpage>
+          <lpage>539</lpage>
+          <pub-id pub-id-type="doi">10.1016/0022-2364(82)90105-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01135">
+        <label>7.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Higuchi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Encyclopedia of Plant Physiology: Plant Carbohydrates II: Extracellular Carbohydrates</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Tanner</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Loewus</surname>
+              <given-names>F.A.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Springer-Verlag</publisher-name>
+          <publisher-loc>Berlin, Heidelberg, New York</publisher-loc>
+          <year>1981</year>
+		  <volume>Vol. 13B</volume>
+		  <comment>Chapter 9</comment>
+		  <fpage>194</fpage>
+		  <lpage>224</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01135">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lewis</surname>
+              <given-names>N.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>a 20(th) Century Roller Coaster Ride: a Short Account of Lignification</article-title>
+          <source>Curr. Opin. Plant Biol.</source>
+          <year>1999</year>
+          <volume>2</volume>
+          <fpage>153</fpage>
+          <lpage>162</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1369-5266(99)80030-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01135">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bernards</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>N.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Macromolecular Aromatic Domain in Suberized Tissue; a Changing Paradigm</article-title>
+          <source>Phytochemistry</source>
+          <year>1998</year>
+          <volume>47</volume>
+          <fpage>915</fpage>
+          <lpage>933</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0031-9422(98)80052-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01135">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bernards</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Lopez</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Zajicek</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>N.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hydroxycinnamic Acid-Derived Polymers Constitute the Polyaromatic Domain of Suberin</article-title>
+          <source>J. Biol. Chem.</source>
+          <year>1995</year>
+          <volume>270</volume>
+          <fpage>7382</fpage>
+          <lpage>7386</lpage>
+          <pub-id pub-id-type="pmid">7706282</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01135">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lapierre</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pollet</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Negrel</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Phenolic Domain of Potato Suberin: Structural Comparison With Lignin</article-title>
+          <source>Phytochemistry</source>
+          <year>1996</year>
+          <volume>42</volume>
+          <fpage>949</fpage>
+          <lpage>953</lpage>
+          <pub-id pub-id-type="doi">10.1016/0031-9422(96)00097-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01135">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zeier</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Schreiber</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemical Composition of Hypodermal and Endodermal Cell Walls and Xylem Vessels Isolated from Clivia mimata</article-title>
+          <source>Plant Physiol.</source>
+          <year>1997</year>
+          <volume>113</volume>
+          <fpage>1223</fpage>
+          <lpage>1231</lpage>
+          <pub-id pub-id-type="pmid">12223670</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01135">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eberhardt</surname>
+              <given-names>T.L.</given-names>
+            </name>
+            <name>
+              <surname>Bernards</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Davin</surname>
+              <given-names>L.B.</given-names>
+            </name>
+            <name>
+              <surname>Wooten</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>N.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lignification in Cell Suspension Cultures of Pinus Taeda. <italic>In situ</italic> Characterization of a Gymnosperm Lignin</article-title>
+          <source>J. Biol. Chem.</source>
+          <year>1993</year>
+          <volume>268</volume>
+          <fpage>21088</fpage>
+          <lpage>21096</lpage>
+          <pub-id pub-id-type="pmid">8407945</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01135">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stark</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Sohn</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Pacchiano</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Al-Bashir</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Garbow</surname>
+              <given-names>J.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Following Suberization in Potato Wound Periderm By Histochemical and Solid-State <sup>13</sup>C Nuclear Magnetic Resonance Methods</article-title>
+          <source>Plant Physiol.</source>
+          <year>1994</year>
+          <volume>104</volume>
+          <fpage>527</fpage>
+          <lpage>533</lpage>
+          <pub-id pub-id-type="pmid">12232102</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01135">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kelley</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Harruff</surname>
+              <given-names>R.C.</given-names>
+            </name>
+            <name>
+              <surname>Carmack</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Polyphenolic Acids of <italic>Lithospermum Ruderale</italic>. II. Carbon-13 Nuclear Magnetic Resonance of Lithospermic and Rosmarinic Acids</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1976</year>
+          <volume>41</volume>
+          <fpage>449</fpage>
+          <lpage>455</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00865a007</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01135">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tezuka</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kasimu</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J.X.</given-names>
+            </name>
+            <name>
+              <surname>Basnet</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Namba</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kadota</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Constituent of Roots of <italic>Salvia deserta</italic> Schang. (Xinjiang-Danshen)</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>1998</year>
+          <volume>46</volume>
+          <fpage>107</fpage>
+          <lpage>112</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.46.107</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-01135">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ralf</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Helm</surname>
+              <given-names>R.F.</given-names>
+            </name>
+            <name>
+              <surname>Quideau</surname>
+              <given-names>S.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lignin-Feruloyl Ester Cross-Links in Grasses. Part 2. Model Compound Syntheses</article-title>
+          <source>J. Chem. Soc. Perkin Trans.1</source>
+          <year>1992</year>
+          <fpage>2971</fpage>
+          <lpage>2980</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01135">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barthomeuf</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Debiton</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Barbakadze</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Kemertelidze</surname>
+              <given-names>E.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of the Dietetic andTherapeutic Potential of a High Molecular Weight Hydroxycinnamate-Derived Polymer from <italic>Symphytum asperum</italic> Lepech. Regarding its Antioxidant, Antilipoperoxidant, Antiinflammatory, and Cytotoxic Properties</article-title>
+          <source>J. Agric. Food Chem.</source>
+          <year>2001</year>
+          <volume>49</volume>
+          <fpage>3942</fpage>
+          <lpage>3946</lpage>
+          <pub-id pub-id-type="doi">10.1021/jf010189d</pub-id>
+          <pub-id pub-id-type="pmid">11513693</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01135">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Halkes</surname>
+              <given-names>S.B.A.</given-names>
+            </name>
+            <name>
+              <surname>Van den Berg</surname>
+              <given-names>A.J.J.</given-names>
+            </name>
+            <name>
+              <surname>Hoekstra</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Du Point</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Kreis</surname>
+              <given-names>R.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Use of Tannic Acid in the Local Treatment of Burn Wounds: intriguing Old and New Perspectives</article-title>
+          <source>Wounds</source>
+          <year>2001</year>
+          <volume>13</volume>
+          <fpage>144</fpage>
+          <lpage>158</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-01135">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Latha</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Babu</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The involvement of Free Radicals in Burn injury: a review</article-title>
+          <source>Burns</source>
+          <year>2001</year>
+          <volume>27</volume>
+          <fpage>309</fpage>
+          <lpage>317</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0305-4179(00)00127-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-01135">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Van den Worm</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Beukelman</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Van den Berg</surname>
+              <given-names>A.J.J.</given-names>
+            </name>
+            <name>
+              <surname>Kroes</surname>
+              <given-names>B.H.</given-names>
+            </name>
+            <name>
+              <surname>Labadie</surname>
+              <given-names>R.P.</given-names>
+            </name>
+            <name>
+              <surname>Van Dijk</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of Methoxylation of Apocynin and Analogs on the inhibition of Reactive Oxygen Species Production By Stimulated Human Neutrophils</article-title>
+          <source>Eur. J. Pharmacol.</source>
+          <year>2001</year>
+          <volume>433</volume>
+          <fpage>225</fpage>
+          <lpage>230</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0014-2999(01)01516-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-01135">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mattsson</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Van Dijk</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Van Kessel</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Verhoef</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Fleer</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Rollof</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>intracellular Pathways involved in Tumor Necrosis Factor-Alpha Release by Human Monocytes on Stimulation With Lipopolysaccharide Or Staphylococcal Peptidoglycan Are Partly Similar</article-title>
+          <source>J. Infect. Dis.</source>
+          <year>1996</year>
+          <volume>173</volume>
+          <fpage>212</fpage>
+          <lpage>218</lpage>
+          <pub-id pub-id-type="doi">10.1093/infdis/173.1.212</pub-id>
+          <pub-id pub-id-type="pmid">8537661</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-01135">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kardava</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Gabunia</surname>
+              <given-names>Kh.</given-names>
+            </name>
+            <name>
+              <surname>Tevzadze</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Barbakadze</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Ghirdaladze</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Iosava</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dihydroxycinnamate-Derived Polymer from <italic>Symphytum asperum</italic> increases Spontaneous in vitro Apoptosis of &#x3B2;-Chronic Lymphocytic Leukaemia Cells</article-title>
+          <source>Bull. Georg. Acad. Sci.</source>
+          <year>2000</year>
+          <volume>162</volume>
+          <fpage>47</fpage>
+          <lpage>50</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-01135">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kardava</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kulikova</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Tevzadze</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gabunia</surname>
+              <given-names>Kh.</given-names>
+            </name>
+            <name>
+              <surname>Barbakadze</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Ghirdaladze</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Iosava</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Porakishvili</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Cell Cycle Progression of &#x3B2;-Chronic Lymphocytic Leukaemia Cells <italic>in vitro</italic></article-title>
+          <source>Proc. Georg. Acad. Sci. Biol. Ser.</source>
+          <year>2001</year>
+          <volume>27</volume>
+          <fpage>465</fpage>
+          <lpage>470</lpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-01135">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barbakadze</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Gakhokidze</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Shengelia</surname>
+              <given-names>Z.S.</given-names>
+            </name>
+            <name>
+              <surname>Usov</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preliminary investigation of Water- Soluble Polysaccharides from Georgian Plants</article-title>
+          <source>Khim. Prir. Soedin.</source>
+          <year>1989</year>
+          <volume>3</volume>
+          <fpage>330</fpage>
+          <lpage>335</lpage>
+		  <comment>[<italic>Chem. Nat. Compd. (Eng. Transl.</italic>). <bold>1989</bold>, 25, 281-286]</comment>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

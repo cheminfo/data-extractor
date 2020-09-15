@@ -1,0 +1,2453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010006</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00006</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Scleroglucan: A Versatile Polysaccharide for Modified Drug Delivery</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Coviello</surname>
+            <given-names>Tommasina</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00006" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00006" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Palleschi</surname>
+            <given-names>Antonio</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00006" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Grassi</surname>
+            <given-names>Mario</given-names>
+          </name>
+          <xref rid="af3-molecules-10-00006" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Matricardi</surname>
+            <given-names>Pietro</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00006" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bocchinfuso</surname>
+            <given-names>Gianfranco</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00006" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Alhaique</surname>
+            <given-names>Franco</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00006" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00006"><label>1</label>Department of Chemistry and Technology of Biologically Active Compounds, University of Rome &#x201C;La Sapienza&#x201D;, P.le Aldo Moro, 00185 Rome, Italy</aff>
+      <aff id="af2-molecules-10-00006"><label>2</label>Department of Sciences and Chemical Technologies, University of Rome &#x201C;Tor Vergata&#x201D;, Via de la Ricerca Scientifica, 00133 Rome, Italy</aff>
+      <aff id="af3-molecules-10-00006"><label>3</label>Department of Chemical Engineering, Environment and Raw Materials, University of Trieste, P.le Europa 1, 34127 Trieste, Italy</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00006"><label>*</label> Author to whom correspondence should be addressed; e-mail: <email>tommasina.coviello@uniroma1.it</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>6</fpage>
+      <lpage>33</lpage>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>07</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Scleroglucan is a natural polysaccharide, produced by fungi of the genus <italic>Sclerotium</italic>, that has been extensively studied for various commercial applications (secondary oil recovery, ceramic glazes, food, paints, etc.) and also shows several interesting pharmacological properties. This review focuses its attention on the use of scleroglucan, and some derivatives, in the field of pharmaceutics and in particular for the formulation of modified-release dosage forms. The reported investigations refer mainly to the following topics: natural scleroglucan suitable for the preparation of sustained release tablets and ocular formulations; oxidized and crosslinked scleroglucan used as a matrix for dosage forms sensitive to environmental conditions; co-crosslinked scleroglucan/gellan whose delivery rate can be affected by calcium ions. Furthermore, a novel hydrogel obtained with this polysaccharide and borate ions is described, and the particular structure of this hydrogel network has been interpreted in terms of conformational analysis and molecular dynamics. Profound attention is devoted to the mechanisms involved in drug release from the tested dosage forms that depend, according to the specific preparation, on swelling and/or diffusion. Experimental data are also discussed on the basis of a mathematical approach that allows a better understanding of the behavior of the tested polymeric materials.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Scleroglucan</kwd>
+        <kwd>Modified release</kwd>
+        <kwd>Hydrogel.</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Natural polysaccharides, as well as their derivatives, represent a group of polymers that are widely used in pharmaceutical formulations [<xref ref-type="bibr" rid="B1-molecules-10-00006">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00006">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00006">3</xref>] and in several cases their presence plays a fundamental role in determining the mechanism and rate of drug release from the dosage form. Among these macromolecules, scleroglucan (Sclg) [<xref ref-type="bibr" rid="B4-molecules-10-00006">4</xref>] also seems to be potentially useful for the formulation of modified release dosage forms and numerous studies have been devoted to this specific topic. Interest in this polysaccharide was first aroused in 1967 [<xref ref-type="bibr" rid="B5-molecules-10-00006">5</xref>]. Sclg is a general term used to designate a class of glucans of similar structure produced by fungi, especially those of the genus Sclerotium. The commercial product is termed Scleroglucan, but it is also known with other names according to the company that produces the polysaccharide (e.g., Actigum, Clearogel, Polytetran, Polytran FS, Sclerogum). </p>
+      <p>Because of its peculiar rheological properties and its resistance to hydrolysis, temperature and electrolytes, Sclg has various industrial applications, especially in the oil industry for thickening, drilling muds and for enhanced oil recovery [<xref ref-type="bibr" rid="B6-molecules-10-00006">6</xref>, <xref ref-type="bibr" rid="B7-molecules-10-00006">7</xref>]. Other industrial uses include the preparation of adhesives, water colors, printing inks and liquid animal feed composition [<xref ref-type="bibr" rid="B8-molecules-10-00006">8</xref>].</p>
+      <p>In the cosmetic industry, Sclg may be used in hair control compositions [<xref ref-type="bibr" rid="B9-molecules-10-00006">9</xref>] and in various skin care preparations, creams and protective lotions [<xref ref-type="bibr" rid="B10-molecules-10-00006">10</xref>, <xref ref-type="bibr" rid="B11-molecules-10-00006">11</xref>]. In pharmaceutical products, Sclg may be used as a laxative [<xref ref-type="bibr" rid="B12-molecules-10-00006">12</xref>], in tablet coatings [<xref ref-type="bibr" rid="B13-molecules-10-00006">13</xref>] and in general to stabilize suspensions. In the food industry, numerous Japanese patents describe quality improvements of frozen foods [<xref ref-type="bibr" rid="B14-molecules-10-00006">14</xref>], Japanese cakes [<xref ref-type="bibr" rid="B15-molecules-10-00006">15</xref>], steamed foods [<xref ref-type="bibr" rid="B16-molecules-10-00006">16</xref>], rice crackers [<xref ref-type="bibr" rid="B17-molecules-10-00006">17</xref>] and bakery products [<xref ref-type="bibr" rid="B18-molecules-10-00006">18</xref>].</p>
+      <p>The use of Sclg as an antitumor, antiviral and antimicrobial compound has also been investigated [<xref ref-type="bibr" rid="B19-molecules-10-00006">19</xref>,<xref ref-type="bibr" rid="B20-molecules-10-00006">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00006">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00006">22</xref>]. Sclg has shown immune stimulatory effects [<xref ref-type="bibr" rid="B23-molecules-10-00006">23</xref>] compared with other biopolymers, and its potential contribution to the treatment of many diseases should be taken into account in therapeutic regimens.</p>
+      <p>Sclg is a branched homopolysaccharide that gives only D-glucose upon complete hydrolysis. The polymer consists of a main chain of (1&#x2192;3)-linked &#xDF;-D-glucopyranosyl units; every third unit it bears a single &#xDF;-D-glucopyranosyl unit linked (1&#x2192;6) (<xref ref-type="scheme" rid="molecules-10-00006-f017">Scheme 1</xref>).</p>
+      <fig id="molecules-10-00006-f017" position="float">
+        <object-id pub-id-type="pii">molecules-10-00006-f017_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Repeating unit of Scleroglucan.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g017.tif"/>
+      </fig>
+      <p>Oriented-fiber X-ray diffraction indicates that Sclg has a triple-helical backbone conformation [<xref ref-type="bibr" rid="B24-molecules-10-00006">24</xref>] and also that dissolved Sclg chains assume a rod-like triple helical structure [<xref ref-type="bibr" rid="B25-molecules-10-00006">25</xref>, <xref ref-type="bibr" rid="B26-molecules-10-00006">26</xref>], in which the D-glucosidic side groups are on the outside and prevent the helices from coming close to each other and aggregating. In dimethyl sulfoxide, or in solutions of pH=12.5 or higher, the reduced viscosity, the specific rotation and the sedimentation coefficient indicate, in each case, that Sclg molecules are monodispersed in a single-chain random coil [<xref ref-type="bibr" rid="B24-molecules-10-00006">24</xref>,<xref ref-type="bibr" rid="B25-molecules-10-00006">25</xref>,<xref ref-type="bibr" rid="B26-molecules-10-00006">26</xref>].</p>
+      <p>In this paper we will give an overview of the main lines of research carried out with Sclg, and its derivatives, as a potential matrix for sustained drug release of bioactive molecules [<xref ref-type="bibr" rid="B27-molecules-10-00006">27</xref>, <xref ref-type="bibr" rid="B28-molecules-10-00006">28</xref>]. In particular the presentation will be divided in six sections: the first five refer to the different strategies used for the preparation of the systems while the sixth one reports drug release and related theoretical calculations. In fact, some features of this polymer, like the solubility in aqueous media, the biocompatibility and the good chemical versatility due to the hydroxyl moiety easily accessible for grafting reactions, allow for its quite widespread potential use, both as native polymer and/or after derivatization reactions. </p>
+    </sec>
+    <sec>
+      <title>Modified drug delivery</title>
+      <sec>
+        <title>Native Scleroglucan</title>
+        <p>The peculiar physico-chemical properties of Sclg suggested its suitability as a slow release matrix; tablets prepared with the polymer show a remarkable swelling process (see <xref ref-type="scheme" rid="molecules-10-00006-f018">Scheme 2</xref>a), that can slow down the diffusion of molecules previously loaded in the system [<xref ref-type="bibr" rid="B29-molecules-10-00006">29</xref>].</p>
+        <p>A preliminary study showed the suitability of Sclg for its use as a monolithic matrix. The Sclg X-ray scan revealed no diffraction peaks which indicated that the structure of the polymer is completely amorphous. The sample loses humidity very rapidly (ca. 5 min) while a dried sample recovers it within 1 h and therefore the dried product should be protected to guarantee its stability upon storage. The water uptake of Sclg powder indicated that the polymer interacts very slowly with water and therefore it may be used as a matrix carrier for slow release preparations. </p>
+        <fig id="molecules-10-00006-f018" position="float">
+          <object-id pub-id-type="pii">molecules-10-00006-f018_Scheme 2</object-id>
+          <label>Scheme 2</label>
+          <caption>
+            <p>(a) Photographs of 500 mg Sclg tablets taken after immersion of the tablet in a pH=2.0 solution for 3, 7, 12 and 24 h. The reference tablet (no immersion) is in the center. Similar results were obtained when the experiment was performed at different pH values; (b) Schematic diagram representing the swelling of the tablets with the inward movement of diffusing front of the solvent and the release of the drug.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g018.tif"/>
+        </fig>
+        <p>Furthermore, during the hydration process, the formation of a swelled layer which slows down the penetration of the dissolution medium could be observed. This layer represents therefore the rate-limiting step of water penetration, very important, eventually, for the release of model drugs (see below).</p>
+        <p>When a tablet, prepared with Sclg, undergoes a different compression force, the pattern of mean pore radius and pore volume shows an inverse relationship with regards to the applied force. Even at the maximum force level (50 KN) zero porosity is not reached, which otherwise would lead to tablet decapping. X-ray and thermograms performed on Sclg tablets show how the tablet structure is similar to that of the powder: this fact points out the absence of crystalline structure formation even under the high compression force used (50 KN). All this experimental evidence indicated that Sclg can be used as a directly compressible material yielding non-disintegrating, porous, swellable matrices for sustained release tablets [<xref ref-type="bibr" rid="B30-molecules-10-00006">30</xref>].</p>
+        <p>Native Sclg has been used to prepare oral dosage forms, and in <xref ref-type="fig" rid="molecules-10-00006-f001">Figure 1</xref> it is possible to visualize the trend of the release of a model drug (benzamide) from a Sclg tablet obtained by direct compression of the polysaccharide. From the figure it comes out how it is possible to modulate the delivery rate by addition of appropriate additives to the basic formulation of Sclg alone. In the upper plot the release is increased by the presence of a hydrophilic additive, such as acacia gum, while in the plot below the release rate is decreased by addition of a hydrophobic additive, in this case a stearate [<xref ref-type="bibr" rid="B31-molecules-10-00006">31</xref>]. </p>
+        <fig id="molecules-10-00006-f001" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p>(a) Effect of increasing concentrations of acacia gum on the release of benzamide. The cumulative amount of the model drug released from the tablets is reported as a function of time. The dosage forms contained 50 mg of benzamide and different percentages of acacia in the Sclg matrix (Ref.=reference without additive; A=10%; B=15%; C=20%; D=30%); (b) Effect of increasing concentrations of magnesium stearate on the release of benzamide. The cumulative amount of the model drug released from the tablets is reported as a function of time. The dosage forms contained 50 mg of benzamide and different percentages of stearate in the Sclg matrix (Ref.=reference without additive; A=10%; B=20%; C=30%).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g001.tif"/>
+        </fig>
+        <p>It is clear, as depicted in <xref ref-type="scheme" rid="molecules-10-00006-f018">Scheme 2</xref>b, how the swelling of the tablet is a crucial point in determining water uptake and therefore the delivery of the model drug. In order to elucidate the actual mechanism of delivery from a polymeric matrix one can apply several mathematical approaches. One of the simplest equation was proposed by Pouisiex and others [<xref ref-type="bibr" rid="B32-molecules-10-00006">32</xref>] for a mechanism controlled by the penetration of the solvent inside the matrix:
+	 	<disp-formula>
+        <italic>ln m = -bt + a</italic>
+        <label>(1)</label>
+        </disp-formula>
+		</p>
+        <p>where </p>
+        <p><italic>m</italic> = percentage of undelivered drug </p>
+        <p><italic>t</italic> = time </p>
+        <p>and <italic>a</italic> and <italic>b</italic> are constants.</p>
+        <p>The linearity, obtained with different model drugs (see <xref ref-type="fig" rid="molecules-10-00006-f002">Figure 2</xref>), indicated that, at least according to this mathematical approach, the release can actually be considered as modulated by the solvent penetration.</p>
+        <fig id="molecules-10-00006-f002" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p>Release of TPH (A), Polystyrene sulphonate sodium salt (Mw=1500) (B), Benzamide (C) and Sodium salicylate (D) from Sclg tablets, plotted according to eq. (1).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g002.tif"/>
+        </fig>
+        <p>On the other hand, when the same equation was applied to the release data obtained with model molecules with increasing molecular weights, a remarkable deviation from linearity was obtained. Studying the diffusing front within the tablet using the simple apparatus depicted in <xref ref-type="scheme" rid="molecules-10-00006-f019">Scheme 3</xref> and the diffusion through a preformed Sclg gel using a three-compartment cell it was possible to conclude that the release from a Sclg tablet is ruled by the molecular size of the drug: solvent penetration is the rate-limiting step only for small molecules while, in the case of larger molecules, diffusion through the swelled layer around the tablet becomes the main factor affecting the release from the dosage form [<xref ref-type="bibr" rid="B33-molecules-10-00006">33</xref>].</p>
+        <p>In subsequent work the effect of lubricants on the pharmacotechnical and dissolution properties of a Sclg matrix was investigated. Tablets prepared with 20% and 30% of Sclg, theophylline (TPH) as a model drug, dibasic calcium phosphate and different amounts (0.5 and 1%) of magnesium stearate or sodium stearyl fumarate were compared. </p>
+        <fig id="molecules-10-00006-f019" position="float">
+          <object-id pub-id-type="pii">molecules-10-00006-f019_Scheme 3</object-id>
+          <label>Scheme 3</label>
+          <caption>
+            <p>Scheme of the apparatus used for the evaluation of the solvent penetration into the Sclg matrix. A coloured solution was used for the visualization of the diffusing front.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g019.tif"/>
+        </fig>
+        <p>From crushing strength tests it was observed that higher concentrations of magnesium stearate or sodium stearyl fumarate did not improve particle cohesion and therefore 0.5% concentrations of these substances was considered sufficient to ensure lubrication during compression. In the presence of stearate it was difficult (Sclg = 20%) or impossible (Sclg = 30%) to increase the tablet crushing strength due to the weak particle cohesion induced by this lubricant while, by addition of stearyl fumarate, it was possible to increase the tablet crushing strength. Release profiles of TPH from tablets obtained  with the various formulations were also analyzed (see <xref ref-type="fig" rid="molecules-10-00006-f003">Figure 3</xref>). </p>
+        <fig id="molecules-10-00006-f003" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p>TPH release from tablets containing 20% and 30% of Sclg with 0.5% of magnesium stearate (A20 S05, A30 S05) or 0.5% stearyl fumarate (A20 P05, A30 P05).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g003.tif"/>
+        </fig>
+        <p>The experimental results showed very interesting features: the increase in Sclg concentration (from 20 to 30%) slowed down drug transport by increasing both the viscosity of the swelled layer around the tablet and reducing the erosion process; whatever the polymer concentration used (20% or 30%), the TPH release was prolonged with formulas containing magnesium stearate; the presence of sodium stearyl fumarate, a less hydrophobic lubricant, accelerated drug release by increasing matrix wettability. From this data it was evident how the lubricant choice is a determining factor in hydrophilic matrix formulation studies [<xref ref-type="bibr" rid="B34-molecules-10-00006">34</xref>].</p>
+      </sec>
+      <sec>
+        <title>Oxidized Scleroglucan</title>
+        <p>The glucopyranose side chain of Sclg can be oxidized, as shown in <xref ref-type="scheme" rid="molecules-10-00006-f020">Scheme 4</xref>, by means of a two step reaction, using, in sequence, first periodate, to form an aldehydic derivative, and then chlorite, that leads to the carboxylated derivative (S-1.0) [<xref ref-type="bibr" rid="B35-molecules-10-00006">35</xref>], hereafter called sclerox.  </p>
+        <fig id="molecules-10-00006-f020" position="float">
+          <object-id pub-id-type="pii">molecules-10-00006-f020_Scheme 4</object-id>
+          <label>Scheme 4</label>
+          <caption>
+            <p>Reaction scheme for the preparation of the carboxylated derivative of Sclg (S&#x2013;1.0).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g020.tif"/>
+        </fig>
+        <p>By varying the ratio between oxidizing agent and polysaccharide, the polymer can be oxidized to a different extent, and it was found that, above a 60% oxidation, sclerox becomes sensitive to environmental conditions giving a reversible sol-gel transition mediated by pH.</p>
+        <fig id="molecules-10-00006-f004" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>Cumulative amount of TPH released as a function of time. Experiments were performed at pH=2.0 and 6.8 (each tablet contained 5 mg of TPH and 100 mg of the Sclg derivative).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g004.tif"/>
+        </fig>
+        <p>By means of diffusion studies it was possible to highlight how the permeation of model molecules occurs at different rates through the sol and the gel and that, consequently, the release from sclerox tablets [<xref ref-type="bibr" rid="B36-molecules-10-00006">36</xref>] shows different profiles in the two environments simulating the gastric and the intestinal fluids respectively, as shown in <xref ref-type="fig" rid="molecules-10-00006-f004">Figure 4</xref>. In acidic medium the formation of a swelled layer around the dosage form acquires a fundamental role in determining the rate of delivery, while at higher pH values erosion and dissolution become predominant. Furthermore, the release rate can be reduced in simulated intestinal fluid by addition of an acid substance, such as citric acid, in the formulation. This maintains an acidic microenvironment around the tablet and the swelled layer formation, even in a neutral solution (<xref ref-type="scheme" rid="molecules-10-00006-f021">Scheme 5</xref>).</p>
+        <fig id="molecules-10-00006-f021" position="float">
+          <object-id pub-id-type="pii">molecules-10-00006-f021_Scheme 5</object-id>
+          <label>Scheme 5</label>
+          <caption>
+            <p>Schematic representation of the effect that an acid additive may have on the pH value of the microenvironment around the dosage form during its swelling in a pH 6.8 solution.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g021.tif"/>
+        </fig>
+        <p>Although the oxidized derivative of Sclg allows one to obtain a sustained release with respect to classical tablet formulations, nevertheless the delivery appeared to be still too rapid in relation to the transit time through the gastrointestinal tract. Thus another strategy was taken into account preparing chemical gels of the polysaccharide, previously derivatized to introduce aldehydic or carboxylic groups on the side chain, with crosslinking reactions capable to produce more stable three-dimensional networks.</p>
+      </sec>
+      <sec>
+        <title>Crosslinked Scleroglucan</title>
+        <p>The reactions leading to the chemical hydrogels starting from scleraldehyde, the intermediate product of the oxidation, and from sclerox, are shown in <xref ref-type="scheme" rid="molecules-10-00006-f022">Scheme 6</xref>a and <xref ref-type="scheme" rid="molecules-10-00006-f022">Scheme 6</xref>b.</p>
+        <fig id="molecules-10-00006-f022" position="float">
+          <object-id pub-id-type="pii">molecules-10-00006-f022_Scheme 6</object-id>
+          <label>Scheme 6</label>
+          <caption>
+            <p>Reactions schemes to obtain the cross-linked polymers from Scleraldehyde (a) and from Sclerox (b).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g022.tif"/>
+        </fig>
+        <p>The scleraldehyde with a low degree of oxidation (10 and 20%), prepared by a controlled oxidation of Sclg, was found to retain essentially a triple-stranded helical conformation, while the triple-stranded chain disentangles in single chains with increasing the degree of oxidation (40 and 100%). The hydrogel prepared from scleraldehyde with a low degree of oxidation, according to SAXS profiles analysis, can be represented by a network composed of randomly oriented triple helices interlinked at the sites where the aldehyde groups are present [<xref ref-type="bibr" rid="B37-molecules-10-00006">37</xref>, <xref ref-type="bibr" rid="B38-molecules-10-00006">38</xref>].</p>
+        <p>According to the degree of oxidation of the polysaccharide, to the length of the crosslinking agent and to the &#x201C;reagent/polymer&#x201D; ratio, products with different properties were obtained. Both crosslinked polymers gave hydrogels, i.e. systems capable to swell in aqueous medium to a different extent: therefore their structure together with their suitability as matrices for controlled delivery of bioactive materials were studied. In particular, the hydrogel obtained from sclerox [<xref ref-type="bibr" rid="B39-molecules-10-00006">39</xref>] using hexamethylene dibromide as a crosslinking agent, had a remarkable increase of weight when it was soaked in water. In the case of the lower degree of crosslinking an appreciable percentage of carboxylic groups did not react with the dihalide, thus this hydrogel, keeping markedly the characteristic of the starting polyelectrolyte, was noticeably affected by environmental conditions such as ionic strength. In <xref ref-type="fig" rid="molecules-10-00006-f005">Figure 5</xref> it is shown how swelling is actually affected by the presence of sodium chloride. </p>
+        <fig id="molecules-10-00006-f005" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>Effect of ionic strength on solvent uptake by the crosslinked polysaccharide (<italic>r</italic>=0.5), determined as a function of time at 37 &#xB0;C. (A) in 0.9% (w/v) NaCl solution, (B) in distilled water and (C) in 0.9% (w/v) NaCl.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g005.tif"/>
+        </fig>
+        <p>This effect is reversible and the new hydrogel behaves almost as a sponge that is squeezed when the ionic strength is increased and it is somehow relaxed in distilled water. Such behavior is very attractive as it can be used to modulate the release of small molecules according to a variation of the surrounding medium: this is the general case of the &#x201C;intelligent&#x201D; hydrogel, systems &#x201C;on-off&#x201D; capable to react to an external stimulus, such as temperature [<xref ref-type="bibr" rid="B40-molecules-10-00006">40</xref>, <xref ref-type="bibr" rid="B41-molecules-10-00006">41</xref>], pH [<xref ref-type="bibr" rid="B42-molecules-10-00006">42</xref>] or ionic strength [<xref ref-type="bibr" rid="B43-molecules-10-00006">43</xref>]. In fact these systems, considered as soft condensed matter offer their unique feature of changing state according to some external thermodynamic parameter [<xref ref-type="bibr" rid="B44-molecules-10-00006">44</xref>].</p>
+        <p>As expected, diffusion experiments through the hydrogel showed that diffusion of a model molecule occurs at a lower rate in the presence of sodium chloride than in distilled water where the network of the hydrogel is more expanded, because of the electrostatic repulsion between the charged groups, leading to an increase of mesh size (<xref ref-type="fig" rid="molecules-10-00006-f006">Figure 6</xref>).</p>
+        <fig id="molecules-10-00006-f006" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p>Diffusion profiles of TPH in distilled water (&#x25CB;) and in 0.9% NaCl (w/v) (&#x25CF;) for the crosslinked polymer <italic>r</italic>=0.5 at 37 &#xB0;C.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g006.tif"/>
+        </fig>
+        <p>When this hydrogel was used as a matrix for tablets it was possible to observe how the crosslinking reaction actually induced a remarkable decrease of the rate of delivery with respect to the non-crosslinked sclerox. With the highest ratio between crosslinker and polymer it was possible to prepare, by solvent evaporation, a film that was used for permeation studies using TPH as diffusing species.</p>
+        <p>The experiments were carried out in distilled water and in 0.9% NaCl (w/v) and, as expected, the high degree of crosslinking led to a negligible swelling of the network that was insensitive to different ionic strengths of the medium; thus no appreciable variation of TPH permeation in the two environmental conditions could be observed. Furthermore, an approximate estimation of mesh-size of the film was determined by means of diffusion experiments carried out with polystyrene sulphonate of different molecular weight and comparing the results with those obtained with dialysis membranes of known cut-off values [<xref ref-type="bibr" rid="B45-molecules-10-00006">45</xref>, <xref ref-type="bibr" rid="B46-molecules-10-00006">46</xref>].</p>
+      </sec>
+      <sec>
+        <title>Co-crosslinked Scleroglucan</title>
+        <p>Sclg has been also exploited for the preparation of a chemical gel using another polymer, like gellan gum, as a crosslinker.  The gellan is an anionic microbial polysaccharide that is well known for its gelling properties in the presence of counterions, especially divalent ions, like calcium.</p>
+        <p>The behavior of gellan is quite different from that of Sclg and it is not suitable for the preparation of slow release matrices. In fact, although the gel gellan-calcium shows a very well ordered and regular structure both in the solid state and in solution [<xref ref-type="bibr" rid="B47-molecules-10-00006">47</xref>,<xref ref-type="bibr" rid="B48-molecules-10-00006">48</xref>,<xref ref-type="bibr" rid="B49-molecules-10-00006">49</xref>], when it is tested as a matrix for tablet it swells up and it is rapidly dispersed, leading to a quite fast release of the guest molecule.</p>
+        <p>In order to induce a better stiffness and stability to the gellan gel and with the aim of obtaining a matrix sensitive to environmental conditions, the properties of the two polysaccharides were taken by means of a co-crosslinking reaction between gellan and Sclg.</p>
+        <p>First of all a physical gel was obtained with the two polymers and then the carboxylic groups of the gellan were activated to give a chemical reaction with the hydroxyl groups of Sclg (see <xref ref-type="scheme" rid="molecules-10-00006-f023">Scheme 7</xref>). </p>
+        <fig id="molecules-10-00006-f023" position="float">
+          <object-id pub-id-type="pii">molecules-10-00006-f023_Scheme 7</object-id>
+          <label>Scheme 7</label>
+          <caption>
+            <p>Scheme of the synthesis of the gellan&#x2013;Sclg co-crosslinked hydrogel starting from a physical gel.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g023.tif"/>
+        </fig>
+        <p>In this way the physical entanglements of the previous physical gel were &#x201C;frozen&#x201D; via chemical bonds that improve the stability of the gel to give a real physical-chemical gel. The new polymeric network (CCP, Co-Crosslinked-Polymer) showed a sustained release behavior that was better modulated than that obtained with the single polysaccharides. It should be pointed out that while crosslinking reactions have already been carried out on these and other polysaccharides in organic media, co-crosslinking reactions on mixed physical gels in an aqueous medium represented a novelty. It is possible to consider the two polysaccharides almost like the woven structure of a cloth, the weft and the warp of a fabric, in particular because of the regular structure of the starting gellan physical gel. To characterize the new matrix the dynamic water uptake was evaluated; from the experimental data it was found a very rapid penetration of the solvent into the network that was almost complete within the first five minutes; at the same time, no appreciable increase of the hydrogel volume could be detected during the experiment. This effect can be related to a very stable three-dimensional network of this chemical gel; the co-crosslinking reaction was carried out on a pre-formed mixed physical gel and therefore some kind of &#x201C;freezing&#x201D; occurred on the physical supramolecular structure already present, contributing to the dimensional stability of the network. The diffusion of a model drug, TPH, through the network was studied showing that diffusion through the hydrogel was remarkably reduced with respect to the diffusion through water; furthermore, the trend of the plots showed that the diffusion rate was appreciably slower in water than in phosphate buffer (<xref ref-type="fig" rid="molecules-10-00006-f007">Figure 7</xref>). </p>
+        <fig id="molecules-10-00006-f007" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <p>Diffusion profiles of TPH through the CCP hydrogel both in water (&#x25CF;) and in phosphate buffer (pH=7.4) (&#x25B2;). Reference (&#x25CB;) obtained in water and without the polymer in the central compartment.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g007.tif"/>
+        </fig>
+        <p>This effect, quite usual for charged polymers, was related not only to the different pH conditions that induce a variation of the degree of dissociation of the carboxylic groups on the co-crosslinked polymer, but also to the &#x201C;screening effect&#x201D; that reduces the interaction between the charged polymer and the diffusing species, thus leading to a faster permeation. </p>
+        <p>The new hydrogel was tested as a matrix for sustained delivery tablets and in order to compare its behavior with that of the single polysaccharides, the release of TPH from the tablets prepared with the co-crosslinked polymer as well as with Sclg and gellan alone, as blanks, was investigated. As reported in <xref ref-type="fig" rid="molecules-10-00006-f008">Figure 8</xref> the trend of the plots shows that the release rate from the tablets prepared with the new matrix, although slower than that obtained with gellan alone, was still appreciably faster than that observed when only Sclg was used. </p>
+        <fig id="molecules-10-00006-f008" position="float">
+          <label>Figure 8</label>
+          <caption>
+            <p>Release profiles of TPH in phosphate buffer (pH=7.4) at 37 &#xB0;C from tablets prepared with the CCP polymer (&#x25CF;), with Sclg (&#x394;) and with gellan (&#x25CA;).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g008.tif"/>
+        </fig>
+        <p>Keeping in mind that the starting idea was to couple the properties of the two polysaccharides, studies were performed with tablets containing different amounts of CaCl<sub>2</sub> with the aim of attaining a modulation of the rate of delivery (<xref ref-type="fig" rid="molecules-10-00006-f009">Figure 9</xref>).</p>
+        <fig id="molecules-10-00006-f009" position="float">
+          <label>Figure 9</label>
+          <caption>
+            <p>Effect of Ca on the release profiles of TPH in phosphate buffer (pH=7.4). <italic>r</italic>=0 (&#x25CF;), <italic>r</italic>=0.2 (&#x25A1;)<bold>,</bold> <italic>r</italic>=1.3 (&#x25CB;), <italic>r</italic>=1.4 (&#x25A0;), <italic>r</italic>=2.4 (x), <italic>r</italic>=3.6 (&#x394;).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g009.tif"/>
+        </fig>
+        <p>Release profiles obtained from tablets at different <italic>r</italic> values (where <italic>r</italic> represents the ratio between the equivalents of salt and the equivalent of carboxylic groups) indicate that as the Ca<sup>+2</sup>/gellan ratio increased, a corresponding decrease of TPH delivery rate was obtained up to an <italic>r</italic> value above which such effect remained almost constant.</p>
+        <p>In <xref ref-type="fig" rid="molecules-10-00006-f010">Figure 10</xref> the percentage of TPH released from the tablets after 8 h is reported as a function of <italic>r</italic>: a sharp decrease of the release was observed at a critical <italic>r</italic> value and that for <italic>r</italic> below its critical value a linear relationship between release rate and Ca<sup>+2</sup> content is obtained (see the enlarged detail). </p>
+        <fig id="molecules-10-00006-f010" position="float">
+          <label>Figure 10</label>
+          <caption>
+            <p>Effect of Ca (<italic>r</italic>) on the percentage of TPH released, after 8 h, from tablets prepared with the CCP polymer and containing increasing amounts of CaCl<sub>2</sub>. Inset: linear relationship between percentage released and <italic>r</italic> values. Experiments were carried out in phosphate buffer (pH=7.4) at 37 &#xB0;C.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g010.tif"/>
+        </fig>
+        <p>In order to verify that the effect of Ca<sup>+2</sup> on the release rate should be actually attributed to the co-crosslinked polymer and not only to the specific interaction of this ion with gellan, tablets containing a physical mixture of gellan and Sclg were tested. </p>
+        <fig id="molecules-10-00006-f011" position="float">
+          <label>Figure 11</label>
+          <caption>
+            <p>Release profiles of TPH in phosphate buffer (pH=7.4) at 37 &#xB0;C from tablets prepared with the CCP polymer and with a gellan/Scgl weight ratio equal to 85/15. Experiments were carried out in the absence and in the, presence of Ca<sup>+2</sup>. CCP, <italic>r</italic>=0 (&#x25CF;); CCP, <italic>r</italic>=3 (&#x25B2;); gellan/Sclg 85/15, <italic>r</italic>=0 (&#x25CB;); gellan/Sclg 85/15, <italic>r</italic>=3 (&#x394;).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g011.tif"/>
+        </fig>
+        <p>In <xref ref-type="fig" rid="molecules-10-00006-f011">Figure 11</xref> it is possible to see that the presence of Ca<sup>+2</sup> had a negligible effect on the behavior of the tablets obtained from the physical mixture of the polysaccharides, while in the case of the co-crosslinked polymeric hydrogel the presence of Ca<sup>+2</sup> remarkably reduced the release rate (after 24 h only 30% of the total amount of the drug present in the formulation was released), showing that the presence of the chemical bonds, leading the three dimensional network of the hydrogel, is fundamental to modify significantly the release of the model drug [<xref ref-type="bibr" rid="B50-molecules-10-00006">50</xref>].</p>
+      </sec>
+      <sec>
+        <title>Scleroglucan/borax Hydrogel</title>
+        <p>It is well known [<xref ref-type="bibr" rid="B51-molecules-10-00006">51</xref>,<xref ref-type="bibr" rid="B52-molecules-10-00006">52</xref>,<xref ref-type="bibr" rid="B53-molecules-10-00006">53</xref>,<xref ref-type="bibr" rid="B54-molecules-10-00006">54</xref>] that polysaccharides can form gels in the presence of borate ions and also that Sclg is able to react with borax [<xref ref-type="bibr" rid="B55-molecules-10-00006">55</xref>, <xref ref-type="bibr" rid="B56-molecules-10-00006">56</xref>] to give a three-dimensional network. The gel, in this case, is very peculiar as it appears to be formed via both physical and chemical linkages.</p>
+        <p>According to a rheological study, carried out at two different polymer concentrations, the presence of borax gives more rigidity to the polymeric network as both moduli, G&#x2019; and G&#x201D;, are lower in the case of Sclg alone in comparison to the Sclg/borax sample, and the difference is more evident in the case of the loss modulus. Also the range of linear viscoelasticity is wider for the system with borate ions and all the effects were more pronounced as the polymer concentration increased. In terms of mechanical behavior it can be concluded that the borax strengthens the gel without an appreciable variation of its structure.  Considering the flow curves (<xref ref-type="fig" rid="molecules-10-00006-f012">Figure 12</xref>) it is clear that the flow properties of the polysaccharide, with and without borax, are those typical of a macromolecular system with a shear thinning behavior and a Newtonian region at low shear stress values. The presence of borax does not modify qualitatively the dependence of &#x3B7; from &#x3C4;, while it determines a noticeable increase of the Newtonian plateau and a shift towards higher values of the shear stress at which the system starts to flow; furthermore, such effect is strongly dependent on polymer concentration.</p>
+        <fig id="molecules-10-00006-f012" position="float">
+          <label>Figure 12</label>
+          <caption>
+            <p>Flow curves at 25 &#xB0;C for Sclg and Sclg/borax (<italic>c</italic>p = 0.7 and 2.3%(w/v)).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g012.tif"/>
+        </fig>
+        <p>The hardness, the adhesiveness, the force of cohesion, the force of adhesion and the viscoelastic loss of Sclg alone and in presence of borax have been also evaluated, as a function of temperature, using the texture analysis approach that, only recently emerged as a useful technique in the field of pharmaceutical gel analysis. </p>
+        <p>From the results obtained it came out that all the listed parameters are strongly dependent on the polymer concentration and the highest effect was reflected into the hardness of the system. Even more significant was the comparison, within a single concentration, when the borax was added to the polymer solution. An increase of the obtained parameters was again observed: in the case of cohesivity there was a change of more than two order of magnitude showing how crucial is the effect of borate ions in organizing the triple helices of Sclg in a more compact arrangement; furthermore the effect was always more evident for the higher polymer concentration. </p>
+        <p>Together with the dynamo-mechanical-rheological characterization, the gel samples were loaded with model molecules of different size, namely TPH, Vitamin B12 (Vit. B12) and Myoglobin (MGB) to study the delivery of these substances from the hydrogel matrix. The release profiles of the three molecules from the hydrogel are shown in <xref ref-type="fig" rid="molecules-10-00006-f013">Figure 13</xref>; it is evident how this gel modulates the release of the guest molecules as a function of their steric hindrance with relation to the mesh size of the network formed with borate ions. </p>
+        <fig id="molecules-10-00006-f013" position="float">
+          <label>Figure 13</label>
+          <caption>
+            <p>Release profiles of TPH, Vit. B12 and MGB from gel in Simulated Intestinal Fluid at 37 &#xB0;C.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g013.tif"/>
+        </fig>
+        <p>The two smaller molecules show a similar profile while, in the case of MGB, with dimensions more than three times bigger than that of TPH, a marked reduction of the diffusion from the swelled matrix was recorded. These data represent a clear evidence of the possibility to modify the release from the hydrogel according to the molecular size of the tested molecules. The effect was even more pronounced when the hydrogel was used to prepare tablets; the release profiles of the model molecules was again strictly dependent by the size of the model molecules. For the TPH the release from the matrix was quite fast while for Vit. B12 a significant reduction was observed and for the MGB only a small fraction of the drug (42%) was released after 24 hours. In order to better understand the structure of the network at molecular level conformational analysis and molecular dynamics were performed: a structure of the hydrogel was proposed in which the diol groups of the side chains of Sclg react with borate ions, <italic>via</italic> chemical and physical interactions, to give a diligand complex in which the borate ions act as &#x201C;bridge-atoms&#x201D; between the polysaccharidic chains, thus forming a three-dimensional network giving some kind of channels along which only the smaller molecules can be allocated (<xref ref-type="fig" rid="molecules-10-00006-f014">Figure 14</xref>). In the case of MGB, from energetic calculations, due to its higher steric hindrance, a different and more open structure was proposed.</p>
+        <p>Owing to the structural features of the triple helix of Sclg and to the results obtained via molecular dynamics, it was suggested that, in the swollen tablet, a possible parallel arrangement of more or less close helices is present.</p>
+        <fig id="molecules-10-00006-f014" position="float">
+          <label>Figure 14</label>
+          <caption>
+            <p>Proposed structure for Sclg/borax gel loaded with TPH, showing the channel obtained from the aggregation of three helices including a molecule of the model drug.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g014.tif"/>
+        </fig>
+        <p>In fact the swelling experiments of the tablets made with this hydrogel also supported such hypothesis. An overall increase of weight of about 20 times was obtained and an equilibrium value was reached after two days. When the experimental values are reported as a function of the square root of time a straight line is obtained (<xref ref-type="fig" rid="molecules-10-00006-f015">Figure 15</xref>), pointing out that, macroscopically, the solvent penetration occurs according to a Fickian process, at least within the interval of time reported in the figure. </p>
+        <fig id="molecules-10-00006-f015" position="float">
+          <label>Figure 15</label>
+          <caption>
+            <p>Water uptake data, relative to tablets of Sclg/borax, as a function of square root of time in distilled water (pH= 5.4) at 37 &#xB0;C.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g015.tif"/>
+        </fig>
+        <p>Furthermore, what is actually peculiar of this swelling is that the tablets behave almost as an accordion showing an elongation only along the axial direction, as it is possible to observe in <xref ref-type="fig" rid="molecules-10-00006-f016">Figure 16</xref>. </p>
+        <fig id="molecules-10-00006-f016" position="float">
+          <label>Figure 16</label>
+          <caption>
+            <p>Picture of a tablet before (left) and after (right) swelling.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-g016.tif"/>
+        </fig>
+        <p>Most probably this unusual and unique swelling behavior is related to the microscopic structure: a series of triple helices, i.e., rod-like molecules, tied together by the &#x201C;glue borax&#x201D; along a preferential direction that corresponds, for energetic reasons, to the helix axis [<xref ref-type="bibr" rid="B57-molecules-10-00006">57</xref>, <xref ref-type="bibr" rid="B58-molecules-10-00006">58</xref>].</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Drug release from polymeric matrices</title>
+      <p>During the study of these polysaccharide matrices an important factor to be taken into account was the diffusion of the model drug through the network. In fact, when polymeric matrices are brought in contact with an external release medium (usually water or a physiological solution) the matrix network swelling begins and the system internal structure changes accordingly from a glassy to rubbery state. In the rubbery region, drug molecules eventually embedded in the matrix can diffuse through the net meshes and the macroscopic drug release occurs. During the polymeric swelling phenomenon three moving boundaries may form: the swelling front, the erosion front and the diffusion front [<xref ref-type="bibr" rid="B59-molecules-10-00006">59</xref>,<xref ref-type="bibr" rid="B60-molecules-10-00006">60</xref>,<xref ref-type="bibr" rid="B61-molecules-10-00006">61</xref>]. The swelling front separates the glassy portion of the system from the rubbery one, and moves towards the glassy core. The erosion front separates the rubbery region from the external release liquid. Finally, the diffusion front separates the regions of undissolved and dissolved drug, and follows the swelling front in its motion. If the drug concentration used is well below its solubility threshold in the incoming release liquid, the swelling front and the diffusion front coincide.</p>
+      <p>The characteristics of the drug release kinetics may be highly influenced by the interaction of the dry matrix with the surrounding environment. At the swelling front, a molecular rearrangement of the polymeric chains takes place due to the transition from glassy to rubbery state. The time required for this rearrangement depends on the relaxation time <italic>t</italic><sub>r</sub> of the given polymer/liquid interface which, in turn, is a function of both local release medium concentration and temperature. If <italic>t</italic><sub>r</sub> is much lower than the characteristic time of diffusion <italic>t</italic><sub>d</sub> of the liquid - defined as the ratio of the release liquid diffusion coefficient at equilibrium and the square of a characteristic length (radius in case of spherical matrices) - the release liquid absorption may be described by means of Fick&#x2019;s law with a concentration-dependent diffusion coefficient. On the contrary, if <italic>t</italic><sub>r</sub> is much greater than <italic>t</italic><sub>d</sub>, a Fickian release liquid absorption with constant diffusivity takes place. In both these cases, however, the diffusion of the drug molecule in the swelling network may be described by Fick&#x2019;s law with a non-constant diffusion coefficient and the macroscopic drug release is said to be Fickian. When <italic>t</italic><sub>r</sub> &#x2245; <italic>t</italic><sub>d</sub>, the release liquid absorption does not follow Fick&#x2019;s law of diffusion [<xref ref-type="bibr" rid="B62-molecules-10-00006">62</xref>,<xref ref-type="bibr" rid="B63-molecules-10-00006">63</xref>,<xref ref-type="bibr" rid="B64-molecules-10-00006">64</xref>].</p>
+      <p>In such cases, the macroscopic drug release becomes anomalous or non-Fickian [<xref ref-type="bibr" rid="B65-molecules-10-00006">65</xref>]. Defining the ratio <italic>t</italic><sub>d</sub>/<italic>t</italic><sub>r</sub> as the polymer/release fluid system Deborah number <italic>De</italic> [<xref ref-type="bibr" rid="B66-molecules-10-00006">66</xref>], when <italic>De</italic> = 0 or <italic>De</italic> = &#x221E;, a Fickian liquid absorption (and, thus, drug release) takes place. When, on the contrary <italic>De</italic> &#x2248; 1, a non Fickian liquid absorption (and, thus, drug release) takes place.</p>
+      <p>From a macroscopic point of view, a Fickian drug release is characterized by a linear dependence of the released (or absorbed) mass with the square root of time (in the case of drug release or liquid uptake from a thin film); in a non-Fickian case, on the contrary, the mass released (or absorbed) varies with time <italic>t</italic> according to the following power law [<xref ref-type="bibr" rid="B67-molecules-10-00006">67</xref>]:
+	    <disp-formula id='molecules-10-00006-i001'>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-i001.tif"/>
+        <label>(2)</label>
+        </disp-formula>
+	  where <italic>M</italic><sub>t</sub> is the amount of drug released until time <italic>t</italic>, while <italic>M</italic><sub>&#x221E;</sub> represents the amount of drug released after an infinite time (fickian release implies <italic>n</italic> equal to 0.5, 0.45 and 0.43 for a thin film, a cylinder and a sphere, respectively) [<xref ref-type="bibr" rid="B68-molecules-10-00006">68</xref>].</p>
+      <p>Although several approaches have been proposed to interpret and model the liquid absorption in a glassy polymer matrix [<xref ref-type="bibr" rid="B69-molecules-10-00006">69</xref>,<xref ref-type="bibr" rid="B70-molecules-10-00006">70</xref>,<xref ref-type="bibr" rid="B71-molecules-10-00006">71</xref>,<xref ref-type="bibr" rid="B72-molecules-10-00006">72</xref>,<xref ref-type="bibr" rid="B73-molecules-10-00006">73</xref>,<xref ref-type="bibr" rid="B74-molecules-10-00006">74</xref>], the Camera-Roda and Sarti idea [<xref ref-type="bibr" rid="B75-molecules-10-00006">75</xref>] of a diffusion flux depending on time (and concentration, of course) proved to be successful [<xref ref-type="bibr" rid="B76-molecules-10-00006">76</xref>, <xref ref-type="bibr" rid="B77-molecules-10-00006">77</xref>].</p>
+      <p>Basically, this model assumes that the dimensionless mass flux <italic>J</italic><sup>+</sup> is given by the sum of two contributes:
+	    <disp-formula>
+         <italic>J</italic><bold><sup>+</sup></bold> = <italic>J</italic><sub>f</sub><sup>+</sup> + <italic>J</italic><sub>r</sub><sup>+</sup>
+        <label>(3)</label>
+        </disp-formula>
+	  where <italic>J</italic><sub>f</sub><sup>+</sup> and <italic>J</italic><sub>r</sub><sup>+</sup> are the Fickian and the relaxation contributions that are defined as:
+	    <disp-formula>
+         <italic>J</italic><sub>f</sub><sup>+</sup> = - <italic>D</italic><sub>f</sub><sup>+</sup> &#x2207;<italic>C</italic><sup>+</sup>
+        <label>(4)</label>
+        </disp-formula>
+	    <disp-formula>
+         <italic>J</italic><sub>r</sub><sup>+</sup> = - <italic>D</italic><sub>r</sub><sup>+</sup> &#x2207;<italic>C</italic><sup>+</sup> -&#x3C4;<sup>+</sup> &#x2202;(<italic>J</italic><sub>r</sub><sup>+</sup>)/&#x2202;(<italic>t</italic><sup>+</sup>)
+        <label>(5)</label>
+        </disp-formula>
+      and:
+	    <disp-formula>
+         <italic>D</italic><sub>f</sub><sup>+</sup> = 1
+        <label>(6)</label>
+        </disp-formula>
+	    <disp-formula>
+         <italic>D</italic><sub>r</sub><sup>+</sup> = <italic>R</italic><sub>d</sub> exp(<italic>g C</italic><sub>eq</sub>(<italic>C</italic><sup>+</sup>-1))- <italic>D</italic><sub>f</sub><sup>+</sup>
+        <label>(7)</label>
+        </disp-formula>
+	    <disp-formula>
+         &#x3C4;<sup>+</sup>(<italic>C</italic><sup>+</sup>) = (<italic>De</italic>/<italic>R</italic><sub>d</sub>)exp(<italic>K C</italic><sub>eq</sub>(1 - <italic>C</italic><sup>+</sup>))
+        <label>(8)</label>
+        </disp-formula>
+      where <italic>De</italic> is Deborah number, <italic>D</italic><sub>f</sub><sup>+</sup> and <italic>D</italic><sub>r</sub><sup>+</sup> are the Fickian and relaxation diffusion coefficients, respectively, <italic>C</italic><sub>eq</sub> is the equilibrium penetrant concentration in the matrix, &#x3C4;<sup>+</sup> is the dimensionless relaxation time, <italic>R</italic><sub>d</sub>, <italic>K</italic> and <italic>g</italic> are adjustable parameters while <italic>C</italic><sup>+</sup> is the dimensionless local liquid concentration. The viscoelasticity of the matrix is accounted for by means of the unique relaxation time &#x3C4;<sup>+</sup>. Accordingly, the viscoelastic properties are described through the simple Maxwell model, composed of an elastic Hookean spring (of rigidity <italic>G</italic>) and a viscous Newtonian dashpot (of viscosity &#x3BC;) in series, and, hence, are characterized by the relaxation time &#x3C4; = &#x3BC;/<italic>G</italic>.</p>
+      <p>In order to improve the model, an extension to the generalized Maxwell model can be performed [<xref ref-type="bibr" rid="B66-molecules-10-00006">66</xref>] assuming that the non Fickian portion of the mass flux is the sum of <italic>N</italic> contributes, each one characterised by its own relaxation time &#x3C4;<sub>i</sub>:
+	    <disp-formula>
+         &#x3C4;<sub>i</sub>= &#x3BC;<sub>i</sub>/G<sub>i</sub>
+        <label>(9)</label>
+        </disp-formula>
+	    <disp-formula id='molecules-10-00006-i002'>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00006-i002.tif"/>
+        <label>(10)</label>
+        </disp-formula>
+	    <disp-formula>
+         J<sub>ri</sub><sup>+</sup> = - D<sub>r</sub><sup>+</sup> &#x2207;C<sup>+</sup> -&#x3C4;<sub>i</sub><sup>+</sup> &#x2202;(J<sub>ri</sub><sup>+</sup>)/&#x2202;(t<sup>+</sup>)
+        <label>(11)</label>
+        </disp-formula>
+      where &#x3C4;<sub>i</sub><sup>+</sup> is the dimensionless form of &#x3C4;<sub>i</sub> and &#x3C3;<sub>i</sub> is the weighting factor of the i<sup>th</sup> Maxwell element [<xref ref-type="bibr" rid="B59-molecules-10-00006">59</xref>].</p>
+      <p>The application of this model on experimental data referring to water uptake from crosslinked Sclg [<xref ref-type="bibr" rid="B46-molecules-10-00006">46</xref>] reveals that only one Maxwell element is sufficient to describe water uptake and the corresponding Deborah number <italic>De</italic> is of the order of 10<sup>-2</sup>. This indicates that water absorption essentially obeys Fick&#x2019;s law, thus implying that Sclg chains relaxation at the swelling front is fast compared to the water diffusion coefficient in the polymer. </p>
+      <p>The examination of drug release data from different swollen Sclg matrices [<xref ref-type="bibr" rid="B78-molecules-10-00006">78</xref>, <xref ref-type="bibr" rid="B45-molecules-10-00006">45</xref>, <xref ref-type="bibr" rid="B46-molecules-10-00006">46</xref>, <xref ref-type="bibr" rid="B57-molecules-10-00006">57</xref>], reveals that Fick&#x2019;s law still holds for the three different drugs examined (TPH, Vit. B12 and MGB). Apparent non Fickian behavior of TPH release kinetics from native swollen Sclg matrices has to be ascribed only to the effect of particular boundary conditions [<xref ref-type="bibr" rid="B79-molecules-10-00006">79</xref>]. Moreover, it was also proved that non Fickian release kinetics from Sclg matrices cannot be attributed to polymeric network topology, namely a highly disordered structure approximating a fractal percolative lattice [<xref ref-type="bibr" rid="B80-molecules-10-00006">80</xref>, <xref ref-type="bibr" rid="B81-molecules-10-00006">81</xref>].</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Sclg is a versatile polysaccharide whose applications range from secondary oil recovery to food, paints, ceramic glazes etc.; furthermore, natural Sclg is present in some cosmetic formulations and is being used, as an additive, in a few pharmaceutical dosage forms. The numerous studies carried out on this polymer indicate the wide variety of possible applications in the field of pharmaceutics, both in its native form and as a derivative. The hydrogels, that have been obtained by means of different crosslinking agents, are suitable for a release modulation from various dosage forms and their  characterization, in terms of water uptake, diffusion studies, rheological and dynamomechanical approaches supported by mathematical and, in some cases, also by structural approaches (molecular dynamics), allow to understand the mechanisms of delivery obtained with the three different model drugs that were tested. Sustained release and environment-controlled delivery systems that can be obtained from chemical and/or physical crosslinked Sclg represent therefore an interesting challenge for the future researches on this polymer that needs to be further investigated since it already showed interesting and, in some cases, very peculiar properties indicating the wide potentiality of this polysaccharide in several fields. </p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00006">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoffman</surname>
+              <given-names>A. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hydrogels for biomedical applications</article-title>
+          <source>Adv. Drug. Deliv. Rev.</source>
+          <year>2002</year>
+          <volume>43</volume>
+          <fpage>3</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00006">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peppas</surname>
+              <given-names>N. A.</given-names>
+            </name>
+            <name>
+              <surname>Bures</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Leobandung</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Ichikawa</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hydrogels in pharmaceutical formulations</article-title>
+          <source>Eur. J. Pharm. Biopharm.</source>
+          <year>2000</year>
+          <volume>50</volume>
+          <fpage>27</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0939-6411(00)00090-4</pub-id>
+          <pub-id pub-id-type="pmid">10840191</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00006">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kikuchi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Okano</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pulsatile drug release control using hydrogels</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2002</year>
+          <volume>43</volume>
+          <fpage>53</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-409X(01)00243-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00006">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Giavasis</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Harvey</surname>
+              <given-names>L. M.</given-names>
+            </name>
+            <name>
+              <surname>McNeil</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Biopolymers</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>De Baets</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Vandamme</surname>
+              <given-names>E. J.</given-names>
+            </name>
+            <name>
+              <surname>Steinb&#xFC;chel</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>Weinheim</publisher-loc>
+          <year>2002</year>
+		  <volume>Vol. 6</volume>
+		  <comment>Chapter 2</comment>
+		  <fpage>37</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00006">
+        <label>5.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Halleck</surname>
+              <given-names>F. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polysaccharides and methods for production thereof</article-title>
+          <source>U.S. Patent</source>
+		  <patent>3,301,848</patent>
+          <year>1967</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1967</bold>, 66, 84772b]</comment>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00006">
+        <label>6.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Doster</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>Nute</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Christopher</surname>
+              <given-names>C. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recovering petroleum from underground formations</article-title>
+          <source>U.S. Patent</source>
+          <year>1984</year>
+		  <patent>4,457,372</patent>
+          <comment><italic>Chem. Abstr.</italic> <bold>1984</bold>, <italic>101</italic>, 113713g</comment>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00006">
+        <label>7.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pirri</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gadioux</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Riveno</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Scleroglucan gel applied to the oil industry</article-title>
+          <source>Societ&#xE9; Nationale Elf Aquitaine (Courbevoie, France)</source>
+          <year>1996</year>
+		  <patent>5,555,936</patent>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00006">
+        <label>8.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Halleck</surname>
+              <given-names>F. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Paint composition containing polysaccharides</article-title>
+          <source>U.S. Patent</source>
+		  <patent>3,447,940</patent>
+          <year>1969</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1969</bold>, <italic>100</italic>, 51304a; <italic>Fed. Reg</italic>, <bold>1969</bold>, <italic>34</italic>, 13162]</comment>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00006">
+        <label>9.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Halleck</surname>
+              <given-names>F. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Wave set composition containing a polysaccharides</article-title>
+          <source>U.S. Patent</source>
+		  <patent>3,507,290</patent>
+          <year>1970</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1970</bold>, <italic>73</italic>, 28775n]</comment>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00006">
+        <label>10.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Halleck</surname>
+              <given-names>F. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cosmetic composition employing water-soluble polysaccharide</article-title>
+          <source>U.S. Patent</source>
+		  <patent>3,659,025</patent>
+          <year>1972</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1972</bold>, <italic>77</italic>, 52227p]</comment>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00006">
+        <label>11.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dubief</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Composition for washing keratinous materials, in particular hair and/or skin</article-title>
+          <source>L&#x2019;Or&#xE9;al (Paris, France)</source>
+          <year>1996</year>
+          <comment>5,536,493 patent? country?</comment>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00006">
+        <label>12.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duc</surname>
+              <given-names>A. N. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Glucosylglucans and their use in gastroenterology, especially in the treatment of colon disorders</article-title>
+          <source>Eur. Patent</source>
+		  <patent>45,338</patent>
+          <year>1982</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1982</bold>, <italic>96</italic>, 168769p]</comment>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00006">
+        <label>13.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheth</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Lachman</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>The coating of tablets</article-title>
+          <source>Fr. Patent</source>
+		  <patent>1,480,874</patent>
+          <year>1967</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1967</bold>, <italic>67</italic>, 111442y]</comment>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00006">
+        <label>14.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <collab>San-Ei Chemical Industries, Ltd.</collab>
+          </person-group>
+          <article-title>Improvement of frozen food quality with sclerogum</article-title>
+          <source>Japan Kokai Tokkyo Koho</source>
+		  <patent>57,163,451</patent>
+          <year>1982</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1983</bold>, <italic>98</italic>, 15728r]</comment>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00006">
+        <label>15.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <collab>San-Ei Chemical Industries, Ltd.</collab>
+          </person-group>
+          <article-title>Improvement of quality of Japanese cake with sclerogum</article-title>
+          <source>Japan Kokai Tokkyo Koho</source>
+		  <patent>57,163,442</patent>
+          <year>1982</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1983</bold>, <italic>98</italic>, 15729s]</comment>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00006">
+        <label>16.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <collab>San-Ei Chemical Industries, Ltd.</collab>
+          </person-group>
+          <article-title>Improvement of steamed food quality with sclerogum</article-title>
+          <source>Japan Kokai Tokkyo Koho</source>
+		  <patent>163,163,441</patent>
+          <year>1982</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1983</bold>, <italic>98</italic>, 15730k]</comment>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00006">
+        <label>17.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <collab>San-Ei Chemical Industries, Ltd.</collab>
+          </person-group>
+          <article-title>Rice cracker quality improvement with sclerogum</article-title>
+          <source>Japan Kokai Tokkyo Koho</source>
+		  <patent>57,163,440</patent>
+          <year>1982</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1983</bold>, <italic>98</italic>, 15731m]</comment>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00006">
+        <label>18.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+		  <collab>San-Ei Chemical Industries, Ltd.</collab>
+          </person-group>
+          <article-title>Quality improvement of bakery products with sclerogum</article-title>
+          <source>Japan Kokai Tokkyo Koho</source>
+		  <patent>57,163,432</patent>
+          <year>1982</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1983</bold>, <italic>98</italic>, 15732n]</comment>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00006">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Wisler</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Tokuzen</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Nakahara</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Scleroglucan, an antitumor polysaccharide from <italic>Sclerotium glucanicum</italic></article-title>
+          <source>Carbohyd. Res.</source>
+          <year>1974</year>
+          <volume>37</volume>
+          <fpage>245</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0008-6215(00)87078-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00006">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jong</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Donovick</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antitumor and antiviral substances from fungi</article-title>
+          <source>Adv. Appl. Microbiol.</source>
+          <year>1989</year>
+          <volume>34</volume>
+          <fpage>183</fpage>
+          <pub-id pub-id-type="pmid">2672723</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00006">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prets</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Eusley</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>McNamee</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Browder</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isolation, physicochemical characterisation and pre-clinical efficiacy evaluation of a soluble Scleroglucan</article-title>
+          <source>J. Pharmacol. Exp. Ther.</source>
+          <year>1991</year>
+          <volume>257</volume>
+          <fpage>500</fpage>
+          <pub-id pub-id-type="pmid">1902259</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00006">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mastromarino</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Petruzziello</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Macchia</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Rieti</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nicoletti</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Orsi</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antiviral activity of natural and semisynthetic polysaccharides on early steps of rubella virus infection</article-title>
+          <source>J. Antimicrob. Chemother.</source>
+          <year>1997</year>
+          <volume>39</volume>
+          <fpage>339</fpage>
+          <pub-id pub-id-type="doi">10.1093/jac/39.3.339</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00006">
+        <label>23.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patchen</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Bleicher</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mobilisation of peripheral blood precursor cells by beta (1,3)-glucan</article-title>
+          <source>The Collaborative Group, Ltd. (New York, USA)</source>
+          <year>2000</year>
+          <comment>6,117,850. US patent?</comment>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00006">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bluhm</surname>
+              <given-names>T. L.</given-names>
+            </name>
+            <name>
+              <surname>Deslandes</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Marchessault</surname>
+              <given-names>R. H.</given-names>
+            </name>
+            <name>
+              <surname>Perez</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Rinaudo</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solid-state and solution conformations of Scleroglucan</article-title>
+          <source>Carbohyd. Res.</source>
+          <year>1982</year>
+          <volume>100</volume>
+          <fpage>117</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0008-6215(00)81030-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00006">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yanaki</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kojima</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Norisuye</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Triple helices in dilute aqueous sodium hydroxide</article-title>
+          <source>Polymer J.</source>
+          <year>1981</year>
+          <volume>13</volume>
+          <fpage>1135</fpage>
+          <pub-id pub-id-type="doi">10.1295/polymj.13.1135</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00006">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yanaki</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Norisuye</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Triple helix and random coil Scleroglucan in dilute solution</article-title>
+          <source>Polymer J.</source>
+          <year>1983</year>
+          <volume>15</volume>
+          <fpage>389</fpage>
+          <pub-id pub-id-type="doi">10.1295/polymj.15.389</pub-id>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00006">
+        <label>27.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lovreicich</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Riccioni</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pharmaceutical tablets and capsule granulates of Scleroglucan and active substance. Vectorpharma International S.P.A. (Trieste, Italy)</article-title>
+          <year>1991</year>
+          <comment>5,068,111. US patent?</comment>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00006">
+        <label>28.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lovreicich</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Riccioni</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pharmaceutical tablets and capsule granulates of Scleroglucan and active substance. Vectorpharma International S.P.A. (Trieste, Italy)</article-title>
+          <year>1993</year>
+          <comment>5,215,752. US patent?</comment>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00006">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Touitou</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Alhaique</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Riccieri</surname>
+              <given-names>F. M.</given-names>
+            </name>
+            <name>
+              <surname>Riccioni</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Santucci</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Scleroglucan sustained release oral preparations. Part I. <italic>In vitro</italic> experiments</article-title>
+          <source>Drug Des. Deliv.</source>
+          <year>1989</year>
+          <volume>5</volume>
+          <fpage>141</fpage>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00006">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rizk</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Duru</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gaudy</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Jacob</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ferrari</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Bertoni</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Caramella</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Physico-chemical characterization and tabletting properties of Scleroglucan</article-title>
+          <source>Int. J. Pharmac.</source>
+          <year>1994</year>
+          <volume>112</volume>
+          <fpage>125</fpage>
+          <pub-id pub-id-type="doi">10.1016/0378-5173(94)90422-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00006">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alhaique</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Beltrami</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Riccieri</surname>
+              <given-names>F. M.</given-names>
+            </name>
+            <name>
+              <surname>Santucci</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Scleroglucan sustained release oral preparations. Part II. Effects of additives</article-title>
+          <source>Drug Des. Deliv.</source>
+          <year>1990</year>
+          <volume>5</volume>
+          <fpage>249</fpage>
+          <pub-id pub-id-type="doi">10.2745/dds.5.249</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00006">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bamba</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Puisieux</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Marty</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Carstensen</surname>
+              <given-names>J. T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Release mechanisms in gel forming sustained release preparations</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>1979</year>
+          <volume>2</volume>
+          <fpage>307</fpage>
+          <pub-id pub-id-type="doi">10.1016/0378-5173(79)90037-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-00006">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alhaique</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Carafa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Riccieri</surname>
+              <given-names>F. M.</given-names>
+            </name>
+            <name>
+              <surname>Santucci</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Touitou</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on the release behavior of a polysaccharide matrix</article-title>
+          <source>Pharmazie</source>
+          <year>1993</year>
+          <volume>48</volume>
+          <fpage>432</fpage>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-00006">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rizk</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Guyot</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Duru</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gaudy</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Influence of lubricant properties on compression behavior and drug dissolution rate of Scleroglucan hydrophilic matrix</article-title>
+          <source>Int. J. Pharmac.</source>
+          <year>1995</year>
+          <volume>126</volume>
+          <fpage>57</fpage>
+          <pub-id pub-id-type="doi">10.1016/0378-5173(95)04084-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35-molecules-10-00006">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hofreiter</surname>
+              <given-names>B. T.</given-names>
+            </name>
+            <name>
+              <surname>Wolff</surname>
+              <given-names>I. A.</given-names>
+            </name>
+            <name>
+              <surname>Mehltretter</surname>
+              <given-names>C. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chlorus acid oxidation of periodate oxidized cornstarch</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1957</year>
+          <volume>79</volume>
+          <fpage>6457</fpage>
+          <pub-id pub-id-type="doi">10.1021/ja01581a026</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36-molecules-10-00006">
+        <label>36.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alhaique</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Riccieri</surname>
+              <given-names>F. M.</given-names>
+            </name>
+            <name>
+              <surname>Santucci</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Carafa</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Environmental effects on the delivery of drugs from a pH-sensitive matrix</article-title>
+          <source>Acta Technol. Legis Med.</source>
+          <year>1990</year>
+          <volume>1</volume>
+          <fpage>1</fpage>
+        </citation>
+      </ref>
+      <ref id="B37-molecules-10-00006">
+        <label>37.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maeda</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Coviello</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yuguchi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Urakawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Rambone</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Alhaique</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Kajiwara</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural characteristics of oxidized Scleroglucan and its network</article-title>
+          <source>Polym. Gels Netw.</source>
+          <year>1998</year>
+          <volume>6</volume>
+          <fpage>355</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0966-7822(98)00024-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B38-molecules-10-00006">
+        <label>38.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maeda</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Rambone</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Coviello</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yuguchi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Urakawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Alhaique</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Kajiwara</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Low-Degree Oxidized Scleroglucan and Its Hydrogel</article-title>
+          <source>Int. J. Biol. Macromol.</source>
+          <year>2001</year>
+          <volume>28</volume>
+          <fpage>351</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0141-8130(01)00126-X</pub-id>
+          <pub-id pub-id-type="pmid">11325421</pub-id>
+        </citation>
+      </ref>
+      <ref id="B39-molecules-10-00006">
+        <label>39.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coviello</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Yuguchi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Urakawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kajiwara</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Dentini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Crescenzi</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Conformational Characteristics of Oxidized Scleroglucan</article-title>
+          <source>Macromolecules</source>
+          <year>1998</year>
+          <volume>31</volume>
+          <fpage>1602</fpage>
+          <pub-id pub-id-type="doi">10.1021/ma9716286</pub-id>
+        </citation>
+      </ref>
+      <ref id="B40-molecules-10-00006">
+        <label>40.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ichikawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Fukumori</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel positively thermosensitive controlled-release microcapsule with membrane of nano-sized poly(<italic>N</italic>-isopropylacrylamide) gel dispersed in ethylcellulose matrix</article-title>
+          <source>J. Control. Release</source>
+          <year>2000</year>
+          <volume>63</volume>
+          <fpage>107</fpage>
+        </citation>
+      </ref>
+      <ref id="B41-molecules-10-00006">
+        <label>41.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>D. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dynamic mechanical analysis of polymeric systems of pharmaceutical and biomedical significance</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>1999</year>
+          <volume>179</volume>
+          <fpage>167</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0378-5173(98)00337-8</pub-id>
+          <pub-id pub-id-type="pmid">10053212</pub-id>
+        </citation>
+      </ref>
+      <ref id="B42-molecules-10-00006">
+        <label>42.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torres-Lugo</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Peppas</surname>
+              <given-names>N. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular Design and in Vitro Studies of Novel pH-Sensitive Hydrogels for the Oral Delivery of Calcitonin</article-title>
+          <source>Macromolecules</source>
+          <year>1999</year>
+          <volume>32</volume>
+          <fpage>6646</fpage>
+          <pub-id pub-id-type="doi">10.1021/ma990541c</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43-molecules-10-00006">
+        <label>43.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siegel</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Falamarzian</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Firestone</surname>
+              <given-names>B. A.</given-names>
+            </name>
+            <name>
+              <surname>Moxley</surname>
+              <given-names>B. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>pH-Controlled release from hydrophobic/polyelectrolyte copolymer hydrogels</article-title>
+          <source>J. Control. Release,</source>
+          <year>1988</year>
+          <volume>8</volume>
+          <fpage>179</fpage>
+        </citation>
+      </ref>
+      <ref id="B44-molecules-10-00006">
+        <label>44.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eichenbaum</surname>
+              <given-names>G. M.</given-names>
+            </name>
+            <name>
+              <surname>Kiser</surname>
+              <given-names>P. F.</given-names>
+            </name>
+            <name>
+              <surname>Simon</surname>
+              <given-names>S. A.</given-names>
+            </name>
+            <name>
+              <surname>Needham</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>pH and Ion-Triggered Volume Response of Anionic Hydrogel Microspheres</article-title>
+          <source>Macromolecules</source>
+          <year>1998</year>
+          <volume>31</volume>
+          <fpage>5084</fpage>
+          <pub-id pub-id-type="doi">10.1021/ma970897t</pub-id>
+        </citation>
+      </ref>
+      <ref id="B45-molecules-10-00006">
+        <label>45.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coviello</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Grassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rambone</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Santucci</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Carafa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Murtas</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Riccieri</surname>
+              <given-names>F. M.</given-names>
+            </name>
+            <name>
+              <surname>Alhaique</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel hydrogel system from scleroglucan: synthesis and characterization</article-title>
+          <source>J. Controlled Rel.</source>
+          <year>1999</year>
+          <volume>60</volume>
+          <fpage>367</fpage>
+        </citation>
+      </ref>
+      <ref id="B46-molecules-10-00006">
+        <label>46.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coviello</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Grassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rambone</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Alhaique</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>A crosslinked system from Scleroglucan derivative: preparation and characterization</article-title>
+          <source>Biomaterials</source>
+          <year>2001</year>
+          <volume>22</volume>
+          <fpage>1998</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0142-9612(00)00374-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B47-molecules-10-00006">
+        <label>47.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grasdalen</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Smidsr&#xF8;d</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Gelation of Gellan gum</article-title>
+          <source>Carbohyd. Polym.</source>
+          <year>1987</year>
+          <volume>7</volume>
+          <fpage>371</fpage>
+          <pub-id pub-id-type="doi">10.1016/0144-8617(87)90004-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B48-molecules-10-00006">
+        <label>48.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crescenzi</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Dentini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Coviello</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solution and gelling properties of microbial polysaccharides of industrial interest: the case of Gellan</article-title>
+          <source>Novel Biodegradable Microbial Polymers</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Dawes</surname>
+              <given-names>E.A.</given-names>
+            </name>
+          </person-group>
+          <series>NATO ASI Series E: Applied Sciences</series>
+          <publisher-name>Kluwer Academic Publishers</publisher-name>
+          <publisher-loc>Dordrecht, The Netherlands</publisher-loc>
+          <year>1990</year>
+          <volume>vol. 186</volume>
+          <fpage>277</fpage>
+        </citation>
+      </ref>
+      <ref id="B49-molecules-10-00006">
+        <label>49.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morikata</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Fukuba</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kumeno</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Nakahama</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Nishinari</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of monovalent and divalent cations on the rheological properties of gellan gels</article-title>
+          <source>Food Hydrocolloid.</source>
+          <year>1991</year>
+          <volume>4</volume>
+          <fpage>495</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0268-005X(09)80200-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B50-molecules-10-00006">
+        <label>50.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coviello</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Dentini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rambone</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Desideri</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Carafa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Murtas</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Riccieri</surname>
+              <given-names>F. M.</given-names>
+            </name>
+            <name>
+              <surname>Alhaique</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel co-crosslinked polysaccharide: studies for a controlled delivery matrix</article-title>
+          <source>J. Controlled Rel.</source>
+          <year>1998</year>
+          <volume>55</volume>
+          <fpage>57</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0168-3659(98)00028-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B51-molecules-10-00006">
+        <label>51.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deuel</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Neukom</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Weber</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reaction of boric acid with polysaccharides</article-title>
+          <source>Nature</source>
+          <year>1948</year>
+          <volume>161</volume>
+          <fpage>96</fpage>
+          <pub-id pub-id-type="doi">10.1038/161096b0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B52-molecules-10-00006">
+        <label>52.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shibayama</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Yoshizawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kurokawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Fujiwara</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nomura</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sol-gel transition of poly(vinyl alcohol)-borate complex</article-title>
+          <source>Polymer</source>
+          <year>1988</year>
+          <volume>29</volume>
+          <fpage>2066</fpage>
+          <pub-id pub-id-type="doi">10.1016/0032-3861(88)90182-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B53-molecules-10-00006">
+        <label>53.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davis</surname>
+              <given-names>H. B.</given-names>
+            </name>
+            <name>
+              <surname>Mott</surname>
+              <given-names>C. J. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Interaction of boric acid and borates with carbohydrates and related substances</article-title>
+          <source>J. Chem. Soc. Faraday I</source>
+          <year>1980</year>
+          <volume>76</volume>
+          <fpage>1991</fpage>
+          <pub-id pub-id-type="doi">10.1039/f19807601991</pub-id>
+        </citation>
+      </ref>
+      <ref id="B54-molecules-10-00006">
+        <label>54.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Verchere</surname>
+              <given-names>J. F.</given-names>
+            </name>
+            <name>
+              <surname>Hlaibi</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stability constants of borate complexes of oligosaccharides</article-title>
+          <source>Polyhedron</source>
+          <year>1987</year>
+          <volume>6</volume>
+          <fpage>1415</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0277-5387(00)80903-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B55-molecules-10-00006">
+        <label>55.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sandford</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Exocellular, microbial polysaccharides</article-title>
+          <source>Adv. Carbohydr. Chem. Biochem.</source>
+          <year>1979</year>
+          <volume>36</volume>
+          <fpage>265</fpage>
+          <pub-id pub-id-type="pmid">380276</pub-id>
+        </citation>
+      </ref>
+      <ref id="B56-molecules-10-00006">
+        <label>56.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brigand</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Industrial Gums</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Whistler</surname>
+              <given-names>R. L.</given-names>
+            </name>
+            <name>
+              <surname>BeMiller</surname>
+              <given-names>J. N.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1993</year>
+		  <comment>Chapter 17</comment>
+		  <lpage>46</lpage>
+        </citation>
+      </ref>
+      <ref id="B57-molecules-10-00006">
+        <label>57.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coviello</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Grassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lapasin</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Marino</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Alhaique</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Scleroglucan/borax: characterization of a novel hydrogel system suitable for drug delivery</article-title>
+          <source>Biomaterials</source>
+          <year>2003</year>
+          <volume>24</volume>
+          <fpage>2789</fpage>
+          <pub-id pub-id-type="pmid">12711526</pub-id>
+        </citation>
+      </ref>
+      <ref id="B58-molecules-10-00006">
+        <label>58.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coviello</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Coluzzi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Palleschi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Grassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Santucci</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Alhaique</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural and rheological characterization of Scleroglucan/borax hydrogel for drug delivery</article-title>
+          <source>Int. J. Biol. Macromol.</source>
+          <year>2003</year>
+          <volume>32</volume>
+          <fpage>38</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0141-8130(03)00041-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B59-molecules-10-00006">
+        <label>59.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colombo</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Grassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fermeglia</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lapasin</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Pricl</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modeling phase transitions and sorption-desorption kinetics in thermo-sensitive gels for controlled drug delivery systems</article-title>
+          <source>Fluid Phase Equilibr.</source>
+          <year>1996</year>
+          <volume>116</volume>
+          <fpage>148</fpage>
+          <pub-id pub-id-type="doi">10.1016/0378-3812(95)02883-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B60-molecules-10-00006">
+        <label>60.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colombo</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Bettini</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Santi</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>De Ascentiis</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Peppas</surname>
+              <given-names>N. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Analysis of the swelling and release mechanisms from drug delivery systems with emphasis on drug and water transport</article-title>
+          <source>J. Control. Release</source>
+          <year>1996</year>
+          <volume>39</volume>
+          <fpage>231</fpage>
+          <pub-id pub-id-type="doi">10.1016/0168-3659(95)00158-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B61-molecules-10-00006">
+        <label>61.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peppas</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Korsmeyer</surname>
+              <given-names>R.W.</given-names>
+            </name>
+          </person-group>
+          <source>In Controlled Release Applications, Hydrogels in Medicine and Pharmacy: Volume III Properties and Applications</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Peppas</surname>
+              <given-names>N. A.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>CRC Press, Inc.</publisher-name>
+          <publisher-loc>Boca Raton, FL</publisher-loc>
+          <year>1987</year>
+          <fpage>110</fpage>
+        </citation>
+      </ref>
+      <ref id="B62-molecules-10-00006">
+        <label>62.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>P. I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Kinetics of drug release from hydrogel matrices</article-title>
+          <source>J. Control. Release</source>
+          <year>1985</year>
+          <volume>2</volume>
+          <fpage>277</fpage>
+          <pub-id pub-id-type="doi">10.1016/0168-3659(85)90051-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B63-molecules-10-00006">
+        <label>63.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vrentas</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Jarzebski</surname>
+              <given-names>C. M.</given-names>
+            </name>
+            <name>
+              <surname>Duda</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Deborah Number for Diffusion in Polymer-Penetrant Systems</article-title>
+          <source>AIChE J.</source>
+          <year>1975</year>
+          <volume>21</volume>
+          <fpage>1</fpage>
+          <pub-id pub-id-type="doi">10.1002/aic.690210510</pub-id>
+        </citation>
+      </ref>
+      <ref id="B64-molecules-10-00006">
+        <label>64.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vrentas</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Duda</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular Diffusion in Polymer Solutions</article-title>
+          <source>AIChE J.</source>
+          <year>1979</year>
+          <volume>25</volume>
+          <fpage>1</fpage>
+        </citation>
+      </ref>
+      <ref id="B65-molecules-10-00006">
+        <label>65.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crank</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>The Mathematics of Diffusion</source>
+          <edition>second edition</edition>
+          <publisher-name>Clarendon Press</publisher-name>
+          <publisher-loc>Oxford</publisher-loc>
+          <year>1975</year>
+          <fpage>254</fpage>
+        </citation>
+      </ref>
+      <ref id="B66-molecules-10-00006">
+        <label>66.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lapasin</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Pricl</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Rheology of Industrial Polysaccharides. Theory and Applications</source>
+          <publisher-name>Chapman &amp; Hall</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1995</year>
+        </citation>
+      </ref>
+      <ref id="B67-molecules-10-00006">
+        <label>67.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ritger</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Peppas</surname>
+              <given-names>N. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A simple equation for description of solute release II. Fickian and anomalous release from swellable devices</article-title>
+          <source>J. Control. Release</source>
+          <year>1987</year>
+          <volume>5</volume>
+          <fpage>37</fpage>
+          <pub-id pub-id-type="doi">10.1016/0168-3659(87)90035-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B68-molecules-10-00006">
+        <label>68.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siepmann</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Peppas</surname>
+              <given-names>N. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modeling of drug release from delivery systems based on hydroxypropyl methylcellulose (HPMC)</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2001</year>
+          <volume>48</volume>
+          <fpage>139</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-409X(01)00112-0</pub-id>
+          <pub-id pub-id-type="pmid">11369079</pub-id>
+        </citation>
+      </ref>
+      <ref id="B69-molecules-10-00006">
+        <label>69.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Joshi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Astarita</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diffusion-relaxation coupling in polymers which show two-stage sorption phenomena</article-title>
+          <source>Polymer</source>
+          <year>1979</year>
+          <volume>20</volume>
+          <fpage>455</fpage>
+        </citation>
+      </ref>
+      <ref id="B70-molecules-10-00006">
+        <label>70.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adib</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Neogi</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sorption with oscillations in solid polymers</article-title>
+          <source>AIChE J.</source>
+          <year>1987</year>
+          <volume>33</volume>
+          <fpage>164</fpage>
+          <pub-id pub-id-type="doi">10.1002/aic.690330121</pub-id>
+        </citation>
+      </ref>
+      <ref id="B71-molecules-10-00006">
+        <label>71.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cohen</surname>
+              <given-names>D. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sharp Fronts Due to Diffusion and Stress at the Glass Transition in Polymers</article-title>
+          <source>J. Polym. Science: Part B: Polymer Physics.</source>
+          <year>1989</year>
+          <volume>27</volume>
+          <fpage>1731</fpage>
+          <pub-id pub-id-type="doi">10.1002/polb.1989.090270811</pub-id>
+        </citation>
+      </ref>
+      <ref id="B72-molecules-10-00006">
+        <label>72.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lustig</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <name>
+              <surname>Caruthers</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Peppas</surname>
+              <given-names>N. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Continuum Thermodynamics and Transport Theory for Polymer-Fluid Mixtures</article-title>
+          <source>Chem. Engineering Sci.</source>
+          <year>1992</year>
+          <volume>47</volume>
+          <fpage>3037</fpage>
+          <pub-id pub-id-type="doi">10.1016/0009-2509(92)87005-B</pub-id>
+        </citation>
+      </ref>
+      <ref id="B73-molecules-10-00006">
+        <label>73.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hariharan</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Peppas</surname>
+              <given-names>N. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modelling of water transport and solute release in physiologically sensitive gels</article-title>
+          <source>J. Control. Release</source>
+          <year>1993</year>
+          <volume>23</volume>
+          <fpage>123</fpage>
+          <pub-id pub-id-type="doi">10.1016/0168-3659(93)90038-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B74-molecules-10-00006">
+        <label>74.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Edwards</surname>
+              <given-names>D. A.</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>D. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Mathematical Model for a Dissolving Polymer</article-title>
+          <source>AIChE J.</source>
+          <year>1995</year>
+          <volume>41</volume>
+          <fpage>2345</fpage>
+          <pub-id pub-id-type="doi">10.1002/aic.690411102</pub-id>
+        </citation>
+      </ref>
+      <ref id="B75-molecules-10-00006">
+        <label>75.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Camera-Roda</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sarti</surname>
+              <given-names>G. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mass Transport with Relaxation in Polymers</article-title>
+          <source>AIChE J.</source>
+          <year>1990</year>
+          <volume>36</volume>
+		  <fpage>851</fpage>
+        </citation>
+      </ref>
+      <ref id="B76-molecules-10-00006">
+        <label>76.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lapasin</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Pricl</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modeling of drug release from a swellable matrix. (1998)</article-title>
+          <source>Chem. Eng. Comm.</source>
+          <year>169</year>
+          <fpage>79</fpage>
+          <lpage>109</lpage>
+        </citation>
+      </ref>
+      <ref id="B77-molecules-10-00006">
+        <label>77.</label>
+        <citation citation-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grassi</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modeling of penetrant uptake in viscoelastic polymeric matrices</article-title>
+          <source>Proceedings of the Joint Conference of Italian, Austrian, Slovenian Rheologists</source>
+          <conf-loc>Trieste (Italy)</conf-loc>
+          <conf-date>1998, 20 &#x2013; 23 May</conf-date>
+          <fpage>91</fpage>
+          <lpage>96</lpage>
+        </citation>
+      </ref>
+      <ref id="B78-molecules-10-00006">
+        <label>78.</label>
+        <citation citation-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grassi</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diffusione di principi attivi in matrici gel polimeriche di impiego farmaceutico</article-title>
+          <source>PhD. Thesis</source>
+          <publisher-name>Dept. of Chem. Eng. (DICAMP), University of Trieste (Italy)</publisher-name>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B79-molecules-10-00006">
+        <label>79.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lapasin</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Pricl</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Colombo</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Apparent non-fickian release from a scleroglucan gel matrix</article-title>
+          <source>Chem. Eng. Comm.</source>
+          <year>1996</year>
+          <volume>155</volume>
+          <fpage>89</fpage>
+          <pub-id pub-id-type="doi">10.1080/00986449608936658</pub-id>
+        </citation>
+      </ref>
+      <ref id="B80-molecules-10-00006">
+        <label>80.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adrover</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Giona</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Grassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lapasin</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Pricl</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Controlled release of theophylline from water-swollen scleroglucan matrices</article-title>
+          <source>J. Memb. Sci.</source>
+          <year>1996</year>
+          <volume>113</volume>
+          <fpage>7</fpage>
+          <pub-id pub-id-type="doi">10.1016/0376-7388(95)00289-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B81-molecules-10-00006">
+        <label>81.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adrover</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Giona</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Grassi</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Analysis of controlled release in disordered structures: a percolation model</article-title>
+          <source>J.  Memb. Sci.</source>
+          <year>1996</year>
+          <volume>113</volume>
+          <fpage>21</fpage>
+          <pub-id pub-id-type="doi">10.1016/0376-7388(95)00220-0</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

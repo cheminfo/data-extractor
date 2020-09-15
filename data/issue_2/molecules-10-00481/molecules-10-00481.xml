@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020481</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00481</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Novel Approach in Cinnamic Acid Synthesis: Direct Synthesis of Cinnamic Acids from Aromatic Aldehydes and Aliphatic Carboxylic Acids in the Presence of Boron Tribromide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chiriac</surname>
+            <given-names>Constantin I.</given-names>
+          </name>
+		  <xref rid="c1-molecules-10-00481" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tanasa</surname>
+            <given-names>Fulga</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Onciu</surname>
+            <given-names>Marioara</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00481">Institute of Macromolecular Chemistry &#x201C;Petru Poni&#x201D;, Aleea Grigore Ghica Voda 41 A, Iasi &#x2013; 700487 Romania</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00481"><label>*</label> Autor to whom correspondence should be addressed; e-mail: <underline><email>cchiriac@poni.icmpp.tuiasi.ro</email></underline></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>481</fpage>
+      <lpage>487</lpage>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>07</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>02</day>
+          <month>02</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>03</day>
+          <month>02</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Cinnamic acids have been prepared in moderate to high yields by a new direct synthesis using aromatic aldehydes and aliphatic carboxylic acids, in the presence of boron tribromide as reagent, 4-dimethylaminopyridine (4-DMAP) and pyridine (Py) as bases and N-methyl-2-pyrolidinone (NMP) as solvent, at reflux (180-190&#xB0;C) for 8-12 hours.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Cinnamic acids</kwd>
+        <kwd>direct synthesis</kwd>
+        <kwd>boron tribromide/4-DMAP</kwd>
+        <kwd>activating agent.</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Cinnamic acids compose a relatively large family of organic acids which appear to have antibacterial, antifungal and antiparasitical activities. They are also used in macromolecular synthesis as very important building blocks for various classes of polymers, having attractive properties, especially a high photoreactivity due to the presence, in the main or side chains, of the cinnamoyl group, well known as photoresponsive unit. Polymers containing cinnamoyl moieties are used in a wide range of applications in emerging fields such as advanced microelectronics [<xref ref-type="bibr" rid="B1-molecules-10-00481">1</xref>], photolithography [<xref ref-type="bibr" rid="B2-molecules-10-00481">2</xref>], non-linear-optical materials [<xref ref-type="bibr" rid="B3-molecules-10-00481">3</xref>], integrated circuit technology [<xref ref-type="bibr" rid="B4-molecules-10-00481">4</xref>] and photocurable coatings [<xref ref-type="bibr" rid="B5-molecules-10-00481">5</xref>].</p>
+      <p>For their use in perfume production, the food industry, pharmaceuticals, medicine and technical applications, cinnamic acids are synthesized on a commercial scale. A wide range of approaches are available, the most important being the Perkin reaction [<xref ref-type="bibr" rid="B6-molecules-10-00481">6</xref>], the Claisen condensation [<xref ref-type="bibr" rid="B7-molecules-10-00481">7</xref>], the Knoevenagel-Doebner condensation [<xref ref-type="bibr" rid="B8-molecules-10-00481">8</xref>] and the Heck reaction [<xref ref-type="bibr" rid="B9-molecules-10-00481">9</xref>]. Despite the great variety of wellknown and tried methods, the development of new general synthetic protocols for cinnamic acids is still an active field.</p>
+      <p>In this paper, we wish to report a protocol for a new direct route for cinnamic acid synthesis, starting from aromatic aldehydes and aliphatic carboxylic acids, in the presence of boron tribromide as reagent.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>In a typical experimental procedure (the Perkin reaction) [<xref ref-type="bibr" rid="B10-molecules-10-00481">10</xref>], cinnamic acids can be prepared from aromatic aldehydes and aliphatic carboxylic anhydrides in the presence of bases, particularly with sodium or potassium salts of the carboxylic acids corresponding to the anhydrides used in reactions as reagents. Thus, potassium acetate was used for the reaction between acetic anhydride and benzaldehyde at 180 &#xB0;C, for 8 hours, affording cinnamic acid in 70-72% yield. Using sodium acetate instead of potassium acetate, the yields are lower under the same conditions [<xref ref-type="bibr" rid="B11-molecules-10-00481">11</xref>]. It was also demonstrated that this reaction is not suitable when aliphatic aldehydes are employed [<xref ref-type="bibr" rid="B12-molecules-10-00481">12</xref>].</p>
+      <p>Our first investigations were focused on using aliphatic carboxylic acids instead of aliphatic carboxylic anhydrides, in order to offer an alternative to classic methods. Unfortunately, the conclusion was negative, the synthesis does not take place.</p>
+      <p>By stepwise investigations, we established that the aliphatic carboxylic acids can yield cinnamic acids only in the presence of boron tribromide, under certain conditions. We assume that the reaction evolves through a reactive intermediate, namely triacylborate, which is obtained, in a first stage of the synthesis, from the reaction between the aliphatic carboxylic acid and boron tribromide. Afterwards, it reacts with the aromatic aldehyde used in the system, resulting in cinnamic acid.</p>
+      <p>This hypothesis was confirmed by our experimental results obtained by reacting acetic acid and boron tribromide, whereupon triacetyl borate was produced <italic>in situ</italic>, the product being identical to that prepared from boric acid and acetic anhydride according to the literature [<xref ref-type="bibr" rid="B13-molecules-10-00481">13</xref>]. The resultant triacetyl borate was subsequently reacted with <italic>p</italic>-chlorobenzaldehyde, under similar conditions, giving the corresponding cinnamic acid in comparable (78%) yield. The main advantage of our method is the possibility of obtaining cinnamic acids directly in an one-pot synthesis, avoiding intermediary steps, namely the synthesis, isolation and purification of triacetyl borate. The presence  of  4-DMAP  and pyridine was needed for product formation to take place.</p>
+      <p>In this case, the high reactivity of triacyl borates can be explained by the presence of the methylene group of the aliphatic carboxylic acids, activated by the boron atom which is electronic deficient [<xref ref-type="bibr" rid="B14-molecules-10-00481">14</xref>]. Thus, we have experimentally established that aliphatic carboxylic acids <bold>1</bold> react with aromatic aldehydes <bold>2</bold> in the presence of boron tribromide as reagent and 4-DMAP and Py as bases, in the molar ratio  5.45:1:1.1: 0.5: 1.5, giving cinnamic acids <bold>3</bold>, as presented in <xref ref-type="scheme" rid="molecules-10-00481-f001">Scheme 1</xref>.</p>
+      <fig id="molecules-10-00481-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00481-f001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Direct synthesis of cinnamic acids from aliphatic carboxylic acids and aromatic aldehydes in the presence of boron tribromide</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00481-g001.tif"/>
+      </fig>
+      <p>A study on the reaction parameters, such as reagent stoichiometry, base, solvent, temperature, reaction time, aldehyde reactivity, etc. was carried out. With regards to the stoichiometry, the best molar ratio between <bold>1</bold> and <bold>2</bold> is 5.45:1, due to the fact that the triacyl borate synthesis is performed in an excess of aliphatic carboxylic acid (see Experimental Section). The molar ratio between <bold>2</bold> and boron tribromide is 1:1.1 and this resulys in good yields for the reaction. In the case of <bold>2</bold> and the bases 4-DMAP and Py, the molar ratio is 1:0.5:1.5 because the reaction gives higher yields under basic conditions (see <xref ref-type="scheme" rid="molecules-10-00481-f002">Scheme 2</xref>).</p>
+      <p>Regarding the choice of the base, taking into account literature data [<xref ref-type="bibr" rid="B15-molecules-10-00481">15</xref>] and our own previously reported experimental results [<xref ref-type="bibr" rid="B16-molecules-10-00481">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00481">17</xref>], we concluded that 4-DMAP and Py is the most effective mixture of bases for this synthesis, compared to other basic media we tested.</p>
+      <p>Another conclusion of our study is that without a suitable solvent, this reaction is difficult to perform. Under these circumstances, we tested several solvents such as dimethylsulfoxide (DMSO), dimethylformamide (DMF), N-methylpyrrolidone (NMP) and hexamethylphosphortriamide (HMPTA) (see <xref ref-type="table" rid="molecules-10-00481-t001">Table 1</xref>). We have selected NMP as the solent of choice because it proved to be a good solvent for all products  involved in synthesis, it is stable under the reaction conditions and has a convenient</p>
+      <p>boiling point (202&#xB0;C).</p>
+      <table-wrap id="molecules-10-00481-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00481-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Influence of solvent on yield in final product <sup>a</sup></p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="top" style="border:solid thin">Experiment.</th>
+              <th align="center" valign="top" style="border:solid thin">Solvent</th>
+              <th align="center" valign="top" style="border:solid thin">Temperature (&#xB0;C)</th>
+              <th align="center" valign="top" style="border:solid thin">Yield (%) <sup>b</sup></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin">1</td>
+              <td align="center" valign="top" style="border-right:solid thin">DMSO</td>
+              <td align="center" valign="top" style="border-right:solid thin">160-170</td>
+              <td align="center" valign="top" style="border-right:solid thin">35</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin">2</td>
+              <td align="center" valign="top" style="border-right:solid thin">DMF</td>
+              <td align="center" valign="top" style="border-right:solid thin">140-150</td>
+              <td align="center" valign="top" style="border-right:solid thin">27</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin">3</td>
+              <td align="center" valign="top" style="border-right:solid thin">HMPTA</td>
+              <td align="center" valign="top" style="border-right:solid thin">160-170</td>
+              <td align="center" valign="top" style="border-right:solid thin">21</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin;border-left:solid thin">4</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">NMP</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">180-190</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">80</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p><sup>a)</sup> Experiments were performed on the reaction system corresponding to cinnamic acid <bold>3a</bold> (see <xref ref-type="scheme" rid="molecules-10-00481-f001">Scheme 1</xref>)</p>
+			<p><sup>b)</sup> After recrystallization</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>As for the reaction time and temperature, the syntheses necessitated high temperatures (reflux at 180-190&#xB0;C) for 9-12 hours. (<xref ref-type="table" rid="molecules-10-00481-t002">Table 2</xref>). At lower temperatures, the yields decreased. For example, the yield for the product <bold>3a</bold> decreased from 80%, when the reaction was conducted at reflux for 9 h, to 47% when the reaction is performed at 145-150&#xB0;C for 9 h.</p>
+      <table-wrap id="molecules-10-00481-t002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00481-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Cinnamic acids prepared by direct synthesis with boron tribromide</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border:solid thin">Cinnamic acids <sup>a</sup></th>
+              <th align="center" valign="middle" style="border:solid thin">Yield <sup>b</sup> (%)</th>
+              <th align="center" valign="middle" style="border:solid thin">Reaction time (hours)</th>
+              <th align="center" valign="middle" style="border:solid thin">M.p. <sup>c</sup> (&#xB0;C)</th>
+              <th align="center" valign="middle" style="border:solid thin">Literature m.p. (&#xB0;C)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>3a</bold></td>
+              <td align="center" valign="middle" style="border-right:solid thin">80</td>
+              <td align="center" valign="middle" style="border-right:solid thin">9</td>
+              <td align="center" valign="middle" style="border-right:solid thin">248-250</td>
+              <td align="center" valign="middle" style="border-right:solid thin">249-250 [<xref ref-type="bibr" rid="B18-molecules-10-00481">18</xref>]</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>3b</bold></td>
+              <td align="center" valign="middle" style="border-right:solid thin">78</td>
+              <td align="center" valign="middle" style="border-right:solid thin">9</td>
+              <td align="center" valign="middle" style="border-right:solid thin">176-177</td>
+              <td align="center" valign="middle" style="border-right:solid thin">175-177 [<xref ref-type="bibr" rid="B18-molecules-10-00481">18</xref>]</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>3c</bold></td>
+              <td align="center" valign="middle" style="border-right:solid thin">65</td>
+              <td align="center" valign="middle" style="border-right:solid thin">12</td>
+              <td align="center" valign="middle" style="border-right:solid thin">131-133</td>
+              <td align="center" valign="middle" style="border-right:solid thin">132-133 [<xref ref-type="bibr" rid="B19-molecules-10-00481">19</xref>]</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>3d</bold></td>
+              <td align="center" valign="middle" style="border-right:solid thin">53</td>
+              <td align="center" valign="middle" style="border-right:solid thin">12</td>
+              <td align="center" valign="middle" style="border-right:solid thin">173-175</td>
+              <td align="center" valign="middle" style="border-right:solid thin">173-175 [<xref ref-type="bibr" rid="B19-molecules-10-00481">19</xref>]</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>3e</bold></td>
+              <td align="center" valign="middle" style="border-right:solid thin">81</td>
+              <td align="center" valign="middle" style="border-right:solid thin">9</td>
+              <td align="center" valign="middle" style="border-right:solid thin">195-197</td>
+              <td align="center" valign="middle" style="border-right:solid thin">196-197 [<xref ref-type="bibr" rid="B21-molecules-10-00481">21</xref>]</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>3f</bold></td>
+              <td align="center" valign="middle" style="border-right:solid thin">72</td>
+              <td align="center" valign="middle" style="border-right:solid thin">10</td>
+              <td align="center" valign="middle" style="border-right:solid thin">105-107</td>
+              <td align="center" valign="middle" style="border-right:solid thin">106-107 [<xref ref-type="bibr" rid="B20-molecules-10-00481">20</xref>]</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin;border-left:solid thin"><bold>3g</bold></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">76</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">10</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">195-197</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">196-197 [<xref ref-type="bibr" rid="B20-molecules-10-00481">20</xref>]</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p><sup>a)</sup> The obtained cinnamic acids were identified by comparison of their m.p. and IR spectra with authentic samples</p>
+			<p><sup>b)</sup> Yields calculated on the aromatic aldehydes <bold>1</bold> employed</p>
+			<p><sup>c)</sup> After recrystallization</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>As presented in <xref ref-type="table" rid="molecules-10-00481-t002">Table 2</xref>, we obtained cinnamic acids <bold>3a-g</bold> in yields which ranged from 53 to 81%, depending on the reaction conditions and structure of the aldehydes <bold>2</bold>. The cinnamic acid <bold>3d</bold> was obtained in the lowest yield due to the presence of the methoxy (&#x2013;OCH<sub>3</sub>) group which has an electron donating effect. The cinnamic acids with electron withdrawing groups were obtained in good yields.</p>
+      <fig id="molecules-10-00481-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00481-f002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Mechanism of cinnamic acids synthesis from aliphatic carboxylic acids and aromatic aldehydes in the presence of boron tribromide</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00481-g002.tif"/>
+      </fig>
+      <p>It is noticeable that, despite the fact that triacyl borate has three acyl groups, only one of them is reactive under these conditions. Our experimental data have proven that the yield of the main product decreases when the molar amount of BBr<sub>3</sub> is lower than the molar ratio given previously. On the basis of our own investigations, as well as on the basis of literature data [<xref ref-type="bibr" rid="B15-molecules-10-00481">15</xref>], the mechanism shown in <xref ref-type="scheme" rid="molecules-10-00481-f002">Scheme 2</xref> can be proposed for this new direct synthesis.</p>
+      <p>The mechanism evolves in stages, as follows: first, the aliphatic carboxylic acid <bold>1</bold> reacts with boron tribromide and produces a stable intermediate <bold>A</bold>, the triacyl borate, which behaves chemically as a mixed anhydride [<xref ref-type="bibr" rid="B22-molecules-10-00481">22</xref>]. This borate, in the presence of 4-DMAP, generates the reactive intermediate <bold>B</bold> which reacts with the aromatic aldehydes <bold>2</bold> by the known mechanism, yielding the cinnamic acids <bold>3</bold>. The detailed mechanism of this reaction will be discussed in a separate communication.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have shown that in the presence of boron tribromide, the reaction  between  an  aromatic aldehyde and an aliphatic carboxylic acid in order to obtain cinnamic acids is possible under certain conditions, through a new direct synthesis. This novel approach allows the preparation of various cinnamic acids in good to high yields (up to 81%).</p>
+      <p>In contrast to classic methods (cf. Perkin reaction, etc.), our alternative uses aliphatic carboxylic acids instead of the corresponding anhydrides. The main advantage of the method we present is the possibility of obtaining cinnamic acids in an one-pot direct synthesis, avoiding intermediate steps.</p>
+      <p>Thanks to the high reactivity in basic medium (4-DMAP/Py) of the triacylborate intermediates formed in the course of the synthesis, boron tribromide appears to be a promising reagent for various direct reactions. We are currently working on other syntheses of compounds assisted by boron tribromide and on the mechanism in order to clarify certain aspects.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>IR spectra were recorded on a Specord M90 spectrophotometer (Carl Zeiss Jena), using the KBr pellet technique. Melting points were determined with a Gallenkamp hot-block point apparatus. All solvents and reagents were purchased from Fluka and were used, when necessary, after distillation.</p>
+      </sec>
+      <sec>
+        <title>Synthesis of triacetyl borate</title>
+        <p>A suspension of boric acid (6.2 g, 0.1 mole) in acetic anhydride (36.75 g, 0.36 mole) is slowly heated under stirring. The reaction takes place almost instantly and the solid is completely dissolved. When the reaction mixture is cooled with ice, then triacetyl borate precipitates as a white solid, which is filtered off, washed with anhydrous ether and dried under vacuum. The m.p. of the triacetyl borate was 120&#xB0;C (lit. [<xref ref-type="bibr" rid="B13-molecules-10-00481">13</xref>] m.p. 120-121&#xB0;C).</p>
+      </sec>
+      <sec>
+        <title>Typical procedure: Synthesis of p-chlorocinnamic acid <italic>(<bold>3a</bold>)</italic></title>
+        <p>Anhydrous acetic acid (6.3 mL, 0.1089 mole) is placed in a 100 mL three-necked Claisen flask equipped with mechanical stirrer, thermometer and water-cooled reflux condenser. Then boron tribromide (2.2 mL, 0.022 mole) in anhydrous benzene (5 mL) is added slowly over 30-40 min with stirring  while  the  flask  is  cooled  with  ice.  The  solution  obtained  is  stirred  for  one  hour  at  room temperature and for 5-6 hours at 55-65&#xB0;C with emission of hydrogen bromide. When the gas emission ceases a solution of  triacetyl borate in acetic acid and benzene results.</p>
+        <p>After cooling to 20-30&#xB0;C, 4-DMAP (1.3 g, 0.01 mole) is added under stirring to this solution, then pyridine (2.412 mL, 0.03 mole) and NMP (2mL) are added under the same conditions. After a few minutes, <italic>p</italic>-chlorobenzaldehyde (2.81g, 0.02 mole) is added. The system is stirred for 5 min, then the mechanical stirrer and the water-cooled reflux condenser are replaced by an air-cooled reflux condenser (30 cm long x 2.9 cm diameter), which is prolonged with a distillation set. The flask is heated at reflux, while benzene and acetic acid are removed by distillation, until the temperature of solution increases up to 180-190&#xB0;C. After reaching this temperature, the heating is continued for 9 h (see <xref ref-type="table" rid="molecules-10-00481-t001">Table 1</xref>). At the end of reaction, the obtained solution is treated with water (70-80 mL) and then with 20% NaOH solution to pH=9-10. From this solution, the unreacted  <italic>p</italic>-chlorobenzaldehyde  is distilled off with water under vacuum (30-40 mmHg), until the distillate coming over is clear. The final solution is diluted with water to a volume of 80-90 mL, cooled to room temperature under stirring and filtered. The filtrate is treated with 20% HCl solution to pH=1-2, at which point the <italic>p</italic>-chlorocinnamic acid product precipitates. After stirring under ice cooling (2-3 h), the product is filtered off, washed with cool water (15-20 mL) and dried to give 2.92 g of <italic>p</italic>-chlorocinnamic acid (80% yield). The melting point after recrystallization from water was 248-250&#xB0;C. Anal. Calculated for C<sub>9</sub>H<sub>7</sub>ClO<sub>2</sub> (182.58): C, 59.20 %; H, 3.86 %; Cl, 19.41%. Found: C, 59.10 %; H, 3.67 %; Cl, 19.37%. The other cinnamic acids presented in <xref ref-type="table" rid="molecules-10-00481-t001">Table 1</xref> have been prepared under similar conditions.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00481">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mizoguchi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hasegawa</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Polym. Adv. Technol</source>
+          <year>1996</year>
+          <volume>7</volume>
+          <fpage>471</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00481">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reichmanis</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Nalamasu</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Houlihan</surname>
+              <given-names>F. M.</given-names>
+            </name>
+            <name>
+              <surname>Novembre</surname>
+              <given-names>A. E.</given-names>
+            </name>
+          </person-group>
+          <source>Polym. Int.</source>
+          <year>1999</year>
+          <volume>48</volume>
+          <fpage>1053</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00481">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sakai</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ueda</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fukuda</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Polym. Sci., Part A: Polym. Chem.</source>
+          <year>1999</year>
+          <volume>37</volume>
+          <fpage>1321</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00481">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Balaji</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Grande</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nanjundan</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Polymer</source>
+          <year>2004</year>
+          <volume>45</volume>
+          <fpage>1089</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00481">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Decker</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Materials Science and Technology</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Meijer</surname>
+              <given-names>H. E. H.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>VCH</publisher-name>
+          <publisher-loc>Weinheim</publisher-loc>
+          <year>1997</year>
+		  <volume>vol.18</volume>
+          <fpage>615</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00481">
+        <label>6.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perkin</surname>
+              <given-names>W. H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc.</source>
+          <year>1868</year>
+          <volume>21</volume>
+          <fpage>53</fpage>
+          <lpage>18l</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fittig</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Ann.</source>
+          <year>1879</year>
+          <volume>195</volume>
+          <fpage>169</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Michael</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Ber.</source>
+          <year>1901</year>
+          <volume>34</volume>
+          <fpage>918</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>J. R.</given-names>
+            </name>
+          </person-group>
+          <source>Organic Reactions</source>
+          <year>1942</year>
+          <volume>I</volume>
+          <fpage>210</fpage>
+        </citation>
+		<citation citation-type="book">
+		<label>(e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fieser</surname>
+              <given-names>L. F.</given-names>
+            </name>
+            <name>
+              <surname>Fieser</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Advanced Organic Chemistry</source>
+          <publisher-name>Wiley-Interscience</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1961</year>
+		  <fpage>464</fpage>
+		<lpage>732</lpage>
+		<page-range>464, 732</page-range>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00481">
+        <label>7.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Claisen</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Claparede</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Ber.</source>
+          <year>1881</year>
+          <volume>14</volume>
+          <fpage>2460</fpage>
+        </citation>
+		<citation citation-type="book">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fieser</surname>
+              <given-names>L. F.</given-names>
+            </name>
+            <name>
+              <surname>Fieser</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>ibid.</source>
+          <fpage>470</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00481">
+        <label>8.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Knoevenagel</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Ber.</source>
+          <year>1898</year>
+          <volume>31</volume>
+          <fpage>2596</fpage>
+        </citation>
+		<citation citation-type="book">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fieser</surname>
+              <given-names>L. F.</given-names>
+            </name>
+            <name>
+              <surname>Fieser</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Organic Chemistry 3rd ed.</source>
+          <publisher-name>Wiley &#x2013; Interscience</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1956</year>
+          <fpage>692</fpage>
+        </citation>
+		<citation citation-type="book">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>House</surname>
+              <given-names>H. O.</given-names>
+            </name>
+          </person-group>
+          <source>Modern Synthetic Reactions</source>
+          <publisher-name>W. A. Benjamin, Inc.</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1965</year>
+          <fpage>225</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00481">
+        <label>9.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heck</surname>
+              <given-names>R. F.</given-names>
+            </name>
+            <name>
+              <surname>Nolley</surname>
+              <given-names>J. P.</given-names>
+			  <suffix>Jr.</suffix>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1972</year>
+          <volume>37</volume>
+          <fpage>2320</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heck</surname>
+              <given-names>R. F.</given-names>
+            </name>
+          </person-group>
+          <source>Org. React.</source>
+          <year>1982</year>
+          <volume>27</volume>
+          <fpage>345</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Overman</surname>
+              <given-names>L. E.</given-names>
+            </name>
+            <name>
+              <surname>Dounay</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>2003</year>
+          <volume>103</volume>
+          <fpage>2945</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00481">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>J.R.</given-names>
+            </name>
+          </person-group>
+          <source>Org. React.</source>
+          <year>1942</year>
+          <volume>1</volume>
+          <fpage>210</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00481">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thayer</surname>
+              <given-names>F.K.</given-names>
+            </name>
+          </person-group>
+          <source>Org. Synth. Coll.</source>
+          <year>1941</year>
+          <volume>1</volume>
+          <fpage>398</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00481">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crawford</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Little</surname>
+              <given-names>W.T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc.</source>
+          <year>1959</year>
+          <fpage>722</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00481">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lalancette</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <source>Can. J. Chem.</source>
+          <year>1966</year>
+          <volume>44</volume>
+          <fpage>1577</fpage>
+        </citation>
+      </ref>
+	  <ref id="B14-molecules-10-00481">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stapp</surname>
+              <given-names>P.R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1973</year>
+          <volume>38</volume>
+          <fpage>1433</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00481">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scriven</surname>
+              <given-names>E.F.V.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Soc. Rev.</source>
+          <year>1983</year>
+          <volume>12</volume>
+          <fpage>129</fpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00481">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chiriac</surname>
+              <given-names>C. I.</given-names>
+            </name>
+            <name>
+              <surname>Tanasa</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Onciu</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2003</year>
+          <volume>44</volume>
+          <fpage>3579</fpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00481">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Onciu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Chiriac</surname>
+              <given-names>C.I.</given-names>
+            </name>
+            <name>
+              <surname>Timpu</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Ioan</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Grigoriu</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Rev. Roum. Chim.</source>
+          <year>1999</year>
+          <volume>44</volume>
+          <fpage>256</fpage>
+        </citation>
+      </ref>
+	  <ref id="B18-molecules-10-00481">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cleland</surname>
+              <given-names>G. H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1961</year>
+          <volume>26</volume>
+          <fpage>3362</fpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00481">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fedorov</surname>
+              <given-names>B. S.</given-names>
+            </name>
+          </person-group>
+          <source>Prom. Org. Sin. Akad. Nauk SSSR</source>
+          <year>1967</year>
+          <fpage>173</fpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00481">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Urushibara</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hirota</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Nippon Kagaku Zasshi</source>
+          <year>1961</year>
+          <volume>82</volume>
+          <fpage>351</fpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00481">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zimmerman</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1959</year>
+          <volume>81</volume>
+          <fpage>2091</fpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00481">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lappert</surname>
+              <given-names>M. F.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1956</year>
+          <volume>56</volume>
+          <fpage>959</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+        <p><italic>Sample Availability:</italic> Available from the authors</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

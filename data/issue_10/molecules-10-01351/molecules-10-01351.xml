@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10101351</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01351</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Novel Synthesis of <italic>(E)</italic>-3-Methylthio-3-Substituted Arylamino-2-Cyanoacrylates under Microwave Irradiation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ouyang</surname>
+            <given-names>Guiping</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Song</surname>
+            <given-names>Baoan</given-names>
+          </name>
+          <xref rid="c1-molecules-10-01351" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Huiping</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yang</surname>
+            <given-names>Song</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jin</surname>
+            <given-names>Linhong</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Qianzhu</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hu</surname>
+            <given-names>Deyu</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01351">Research and Development Center for Fine Chemicals, Key Laboratory of Green Pesticide and Agriculture Bioengineering, Ministry of Education, Guizhou University, Guiyang 550025, P. R. China. Tel.: (+86) 851 362 0521, Fax: (+86) 851 362 2211.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01351"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>songbaoan22@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>10</issue>
+      <fpage>1351</fpage>
+      <lpage>1357</lpage>
+      <history>
+        <date date-type="received">
+          <day>06</day>
+          <month>07</month>
+          <year>2005</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>15</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A facile synthesis of 3-methylthio-3-arylamino-2-cyanoacrylates from 3,3-dimethylthioacrylate and aromatic amines or amino pyridines has been achieved in moderate to high yields (64.0% ~ 93.5%) in 30 minutes at 50&#xB0;C under microwave irradiation. This method is very simple and the reaction conditions are mild, environmentally friendly and more importantly, quick. In the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) test, some of the title compounds were found to possess good antiproliferation activity towards PC3 cells.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2-Cyanoacrylate</kwd>
+        <kwd>aromatic amine</kwd>
+        <kwd>aminopyridine</kwd>
+        <kwd>microwave irradiation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Cyanoacrylates are potent inhibitors of photosynthetic electron transport. A number of studies concerning the inhibition of photosynthetic electron flow in photosystem II (PS II) with a series of acrylate inhibitors have shown that the potency of acrylate in blocking photosynthetic electron flow is extremely sensitive to minor structural variations [<xref ref-type="bibr" rid="B1-molecules-10-01351">1</xref>]. Among these cyanoacrylates, <italic>(Z)</italic>-ethoxyethyl 2-cyano-3-(4-chlorophenyl)methylamino-3-isopropylacrylate (CPNPE) exhibits the highest Hill inhibitory activity reported to date [<xref ref-type="bibr" rid="B2-molecules-10-01351">2</xref>].</p>
+      <p>There are several methods for the synthesis of 2-cyanoacrylate inhibitors. The most used methods over the last decade were: (a) synthesis of 3-methylthio-3&#x2032;-aminocyanoacrylate from 2-cyano-3,3-dimethylthioacrylate and benzylamine (anhydrous alcohol, room temperature, 6-11h) [<xref ref-type="bibr" rid="B3-molecules-10-01351">3</xref>]; (b) synthesis of ethyl 2-cyano-3-methylthio-3&#x2032;-[(6-chloro)-3-pyridiylmethyl]acrylate from 3-aminomethyl or 2-chloro-5-aminopyridine reacted with 2-cyano-3,3-dimethylthio ethyl acrylate (anhydrous alcohol, reflux, 2h) [<xref ref-type="bibr" rid="B4-molecules-10-01351">4</xref>]; (c) synthesis of 3-methylthio-3&#x2032;-arylaminocyanoacrylate from 2-cyano-3,3-dimethyl-thioacrylate and 4-trifluoromethylaniline (dimethylformamide [DMF] &#x2013; toluene, 10-20&#xB0;C, 40 h) [<xref ref-type="bibr" rid="B5-molecules-10-01351">5</xref>]; (d) nucleophilic substitution with 2-amino-3-chloro-4-methylpyridine under ultrasonic irradiation [<xref ref-type="bibr" rid="B6-molecules-10-01351">6</xref>]. These methods, however, suffer from various disadvantages. For methods (a), (b) and (c), the drawbacks are time-consuming reactions, low yields and complex handling, while for method (d), long reaction times are the main problem.</p>
+      <p>Microwave-assisted rapid organic reactions constitute an emerging technology that makes experimentally and industrially important organic syntheses more effective and more eco-friendly than conventional reaction methods [<xref ref-type="bibr" rid="B7-molecules-10-01351">7</xref>]. Recently we have developed a new method to synthesize the title products <bold>3</bold> under microwave irradiation in a DMF &#x2013; tetrahydrofuran (THF) solvent mixture. The method is very simple, the reaction conditions are mild, environmentally friendly and more importantly, quick. In this article we describe the preparation of 2-cyanoacrylates containing aryl moieties and their antitumor bioactivities. The reaction route is shown in <xref ref-type="scheme" rid="molecules-10-01351-f001">Scheme 1</xref>. To the best of our knowledge, it is the first report on the simultaneous reaction of arylamines and 2-cyano-3,3-dimethylthioacrylate under microwave irradiation.</p>
+      <fig id="molecules-10-01351-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-01351-f001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01351-g001.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Chemistry</title>
+        <p>In order to optimize the reaction conditions for preparing compounds <bold>3</bold>, the synthesis of (<italic>E</italic>)-ethyl 3-(4-trifluoromethylphenylamino)-2-cyano-3-methylthio acrylate (<bold>3c</bold>) was carried out under different reaction conditions. First, the microwave irradiation method should be used for the reaction. Under the normal reaction conditions without microwave irradiation, the reaction was much too slow and the yield of the product <bold>3c</bold> was decreased, for example, when the reaction time was extended to 10 h compound <bold>3c</bold> was obtained in 43.0 % yield (<xref ref-type="table" rid="molecules-10-01351-t001">Table 1</xref>, entry 13), as compared to a yield of 64.0% in 30 min under microwave irradiation (<xref ref-type="table" rid="molecules-10-01351-t001">Table 1</xref>, entry 5). In addition, the effect of solvents was studied. The results demonstrated that the use of DMF&#x2013;THF accelerated the amination reaction and moreover, when other solvents were used instead of DMF&#x2013;THF, no remarkable improvement in the yields was observed (<xref ref-type="table" rid="molecules-10-01351-t001">Table 1</xref>, entries 1, 2, 3 and 4). Further, we also examined the effects of reaction temperature and reaction time on the amination reactions (<xref ref-type="table" rid="molecules-10-01351-t001">Table 1</xref>, entries 5-12). When the reaction time was prolonged from 10 min to 30 min, the yield of <bold>3c</bold> increased from 47.3 % to 64.0% (<xref ref-type="table" rid="molecules-10-01351-t001">Table 1</xref>, entries 6-7 and entry 5). When the reaction time was prolonged further to 40 min under microwave irradiation, a tiny yield improvement (65.1%, <xref ref-type="table" rid="molecules-10-01351-t001">Table 1</xref>, entry 8) was obtained, compared to that obtained after 30 min (64.0%, entry 5). As for the reaction temperature, it could be seen that the yield was relatively lower when the reaction was carried out at room temperature (<xref ref-type="table" rid="molecules-10-01351-t001">Table 1</xref>, entry 9) than at 50&#xB0;C (<xref ref-type="table" rid="molecules-10-01351-t001">Table 1</xref>, entry 5). No substantial improvement was observed when the reaction system was heated to 60&#xB0;C (<xref ref-type="table" rid="molecules-10-01351-t001">Table 1</xref>, entry 12). Hence, we conclude that it is better for the reaction to be carried out at 50&#xB0;C than at either lower or higher temperatures.</p>
+        <table-wrap id="molecules-10-01351-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-01351-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Synthesis of <bold>3c</bold> under different reaction conditions and microwave irradiation.</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" style="border-bottom:solid thin">Entry</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">Compd. No.</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">Substrate 2</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">Solvent</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">Time/min</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">Temperature/&#xB0;C</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">Yield/%</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle">1 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">acetone</td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle">50</td>
+                <td align="center" valign="middle">33.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">2 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">THF</td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle">50</td>
+                <td align="center" valign="middle">31.2</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">3 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">DMF</td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle">50</td>
+                <td align="center" valign="middle">43.4</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">4 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">DMF+PhCH<sub>3</sub></td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle">50</td>
+                <td align="center" valign="middle">57.8</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">5 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">DMF+ THF</td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle">50</td>
+                <td align="center" valign="middle">64.0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">6 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">DMF+ THF</td>
+                <td align="center" valign="middle">10</td>
+                <td align="center" valign="middle">50</td>
+                <td align="center" valign="middle">47.3</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">7 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">DMF+ THF</td>
+                <td align="center" valign="middle">20</td>
+                <td align="center" valign="middle">50</td>
+                <td align="center" valign="middle">51.3</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">8 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">DMF+ THF</td>
+                <td align="center" valign="middle">40</td>
+                <td align="center" valign="middle">50</td>
+                <td align="center" valign="middle">65.1</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">9 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">DMF+ THF</td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle">25</td>
+                <td align="center" valign="middle">45.5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">10 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">DMF+ THF</td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle">35</td>
+                <td align="center" valign="middle">55.0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">11 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">DMF+ THF</td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle">45</td>
+                <td align="center" valign="middle">53.0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">12 <sup>a</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">DMF+ THF</td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle">60</td>
+                <td align="center" valign="middle">63.0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">13 <sup>b</sup></td>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">4-trifluoromethylaniline</td>
+                <td align="center" valign="middle">DMF+ THF</td>
+                <td align="center" valign="middle">600</td>
+                <td align="center" valign="middle">50</td>
+                <td align="center" valign="middle">43.0</td>
+              </tr>
+            </tbody>
+          </table>
+		 <table-wrap-foot>
+        <fn><p><sup>a</sup> The reactions were carried out with stirring under 700W microwave irradiation.</p></fn>
+		<fn><p><sup>b</sup> Reaction carried out in DMF-THF under stirring without microwave irradiation.</p>
+		</fn>
+		</table-wrap-foot>
+        </table-wrap>
+        <p>Using the optimized conditions, the best result was obtained when 2-cyano-3,3-dimethylthio ethyl acrylate (<bold>1)</bold> was reacted with 1 equivalent of aromatic amine or aminopyridine <bold>2</bold> [<xref ref-type="bibr" rid="B10-molecules-10-01351">10</xref>] and 2 equivalents of NaH under microwave irradiation with DMF-THF as co-solvent at 50&#xB0;C for 30 minutes. Under these conditions, the amination reaction proceeded smoothly, and the results were summarized in <xref ref-type="table" rid="molecules-10-01351-t002">Table 2</xref>.</p>
+        <table-wrap id="molecules-10-01351-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-01351-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Yields of the title compounds <bold>3</bold>.</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="left" valign="middle" style="border-bottom:solid thin">Compound <sup>a</sup></th>
+                <th align="center" valign="top" style="border-bottom:solid thin">3a</th>
+                <th align="center" valign="top" style="border-bottom:solid thin">3b</th>
+                <th align="center" valign="top" style="border-bottom:solid thin">3c</th>
+                <th align="center" valign="top" style="border-bottom:solid thin">3d</th>
+                <th align="center" valign="top" style="border-bottom:solid thin">3e</th>
+                <th align="center" valign="top" style="border-bottom:solid thin">3f</th>
+                <th align="center" valign="top" style="border-bottom:solid thin">3g</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle">Ar-</td>
+                <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01351-i001.tif"/></td>
+                <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01351-i002.tif"/></td>
+                <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01351-i003.tif"/></td>
+                <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01351-i004.tif"/></td>
+                <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01351-i005.tif"/></td>
+                <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01351-i006.tif"/></td>
+                <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01351-i007.tif"/></td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle">Yields /% <sup>b</sup></td>
+                <td align="center" valign="top">83.9</td>
+                <td align="center" valign="top">85.2</td>
+                <td align="center" valign="top">64.0</td>
+                <td align="center" valign="top">77.8</td>
+                <td align="center" valign="top">76.9</td>
+                <td align="center" valign="top">93.5</td>
+                <td align="center" valign="top">70.1</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle">Yields /% <sup>c</sup></td>
+                <td align="center" valign="top">63.8</td>
+                <td align="center" valign="top">62.1</td>
+                <td align="center" valign="top">43.0</td>
+                <td align="center" valign="top">54.1</td>
+                <td align="center" valign="top">50.9</td>
+                <td align="center" valign="top">89.2</td>
+                <td align="center" valign="top">59.0</td>
+              </tr>
+            </tbody>
+          </table>
+	<table-wrap-foot>
+        <fn><p><sup>a</sup> Isolated yields based on the amine.</p></fn>
+		<fn><p><sup>b</sup> All reactions were carried out in 6mL DMF/THF (1/1 v/v) at 50&#xB0;C for 30 min under microwave irradiation with 2 equiv. of NaH used as base.</p></fn>
+		<fn><p><sup>c</sup> All reactions were carried out in 6mL DMF/THF (1/1 v/v) at 50&#xB0;C for 600 min with 2 equiv. of NaH used as base under stirring conditions without microwave irradiation.</p>
+	</fn>
+</table-wrap-foot>	
+        </table-wrap>
+        <p>As can be seen from the general structure (<xref ref-type="scheme" rid="molecules-10-01351-f001">Scheme 1</xref>), compounds <bold>3a-g</bold> may exist in two different configurations. In practice, they have been shown to exist in the <italic>(E)</italic> configuration, as verified by single crystal structure determination [<xref ref-type="bibr" rid="B5-molecules-10-01351">5</xref>]. The structures of all the synthesized compounds were established on the basis of their spectroscopic data. They showed IR absorption bands at 3149(s)-3367(s) (NH), 3002-3008(C=C), 2200-2265 (CN) and 1620-1673 cm<sup>-1</sup> (COOR). In the <sup>1</sup>H-NMR spectra all phenyl and pyridyl protons appeared as multiplets at &#x3B4; 6.85~8.21, while the peaks of the ester CH<sub>2</sub> groups were observed at about 4.18 and 4.32 ppm, respectively, appearing as two doublets. The NH protons of compounds <bold>3</bold> were at 11.07~11.51 ppm as a singlet, probably due to the existence of hydrogen bonding between the ester carbonyl and NH of phenylamino or aminopyridyl group which leads to its chemical shift moving to lower field. The MS spectra revealed that the molecular ion and fragmentation peaks were in accordance with the proposed structure of compounds <bold>3</bold>.</p>
+        </sec>
+		<sec>
+          <title>Biological activity</title>
+        <p>The antitumor activity was assayed by the MTT method [<xref ref-type="bibr" rid="B9-molecules-10-01351">9</xref>]. The results were listed in <xref ref-type="table" rid="molecules-10-01351-t003">Table 3</xref>. It was found that these compounds exhibit certain activity against the two kinds of cancer cells <italic>in vitro</italic>. The compound <bold>3f</bold> had relatively higher antitumor activity than the other compounds. The data given in <xref ref-type="table" rid="molecules-10-01351-t003">Table 3</xref> indicated that the nature of substituent affects the antitumor activity. For example, the antiproliferation activities of compound <bold>3f</bold> at the concentration of 10 <italic>&#x3BC;</italic>g/mL against PC3 and A431 cells were 90.1% and 88.0%, respectively.</p>
+        <table-wrap id="molecules-10-01351-t003" position="float">
+          <object-id pub-id-type="pii">molecules-10-01351-t003_Table 3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <p>Inhibition rate (<italic><overline>x</overline></italic>&#xB1;s) (%) (10&#x3BC;g/mL) of compounds <bold>3a</bold>-<bold>3g</bold> in 72 hours (<italic>P</italic>&lt;0.01).</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="center" valign="top" style="border-bottom:solid thin">Compd.</th>
+                <th align="center" valign="top" style="border-bottom:solid thin">PC3 cells</th>
+                <th align="center" valign="top" style="border-bottom:solid thin">A431 cells</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="top"><bold>3a</bold></td>
+                <td align="center" valign="top">81.3&#xB1;12.0</td>
+                <td align="center" valign="top">72.1&#xB1;11.0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>3b</bold></td>
+                <td align="center" valign="top">22.8&#xB1;7.8</td>
+                <td align="center" valign="top">32.1&#xB1;8.8</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>3c</bold></td>
+                <td align="center" valign="top">51.5&#xB1;11.0</td>
+                <td align="center" valign="top">48.9&#xB1;10.0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>3d</bold></td>
+                <td align="center" valign="top">47.3&#xB1;9.0</td>
+                <td align="center" valign="top">38.8&#xB1;4.9</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>3e</bold></td>
+                <td align="center" valign="top">41.2&#xB1;10.0</td>
+                <td align="center" valign="top">31.6&#xB1;7.8</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>3f</bold></td>
+                <td align="center" valign="top">90.1&#xB1;20.1</td>
+                <td align="center" valign="top">88.0&#xB1;19.0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>3g</bold></td>
+                <td align="center" valign="top">67.8&#xB1;12.1</td>
+                <td align="center" valign="top">72.1&#xB1;14.2</td>
+              </tr>
+            </tbody>
+          </table>
+         <table-wrap-foot>
+           <fn><p>*Inhibition rate (%) = (A<sub>1</sub>-A<sub>2</sub>) / A<sub>1</sub> &#xD7;100%. A<sub>1</sub>: the mean optical densities of untreated cells, A<sub>2</sub>: the mean optical densities of drug treated cells.</p>
+		</fn>
+		</table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>In summary, a mild and effective method for the preparation of <italic>(E)</italic>-3-methylthio-3-arylamine 2-cyanoacrylates was achieved by the amination reaction of arylamines and 3,3-dimethylthiolacrylate under microwave irradiation. We believe that this procedure will offer a better and more practical alternative to the existing methodologies.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>The reagents and solvents were all analytical reagents or chemically pure and were obtained from Shanghai Reagent Company. All melting points were determined on a XT-4 binocular microscope (Beijing Tech Instrument Co., China) and were not corrected. Infrared spectra were recorded on a Bruker VECTOR 22 spectrometer. The <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were recorded on a Varian INOVA 400 (400MHz) Pulse Fourier-transform NMR spectrometer in CDCl<sub>3</sub> using tetramethylsilane as an internal standard. Splitting patterns were designated as s, singlet; d, doublet; t, triplet; q, quartet; m, multiplet; br, broad. The mass spectra were taken on an HP5988A spectrometer using the EI method. Elemental analyses were performed on a Vario III CHN analyzer. Microwave reaction was performed on a Beijing XH-100A microwave (with a power of 700W). Analytical TLC and column chromatography were performed on silica gel GF<sub>254</sub>. Column chromatographic purification was carried out using silica gel. 2,6-Dichloro-4-trifluoromethylaniline and 3-amino-2-chloro-4-methylpyridine were prepared according to a literature method [<xref ref-type="bibr" rid="B10-molecules-10-01351">10</xref>]. 2-Cyano-3,3-dimethylthioacrylate (<bold>1</bold>) was also prepared according to literature method [<xref ref-type="bibr" rid="B8-molecules-10-01351">8</xref>].</p>
+      </sec>
+      <sec>
+        <title>General Method for the Preparation of (E)-3-Methylthio-3-Substituted Aryl Amino-2-Cyanoacrylates <italic><bold>3a-3g</bold></italic></title>
+        <p>2-Cyano-3,3-dimethylthioacrylate (<bold>1</bold>, 1.736 g, 8 mmol) [<xref ref-type="bibr" rid="B8-molecules-10-01351">8</xref>], an aromatic amine (8.07 mmol), 60% sodium hydride (0.76 g, 16 mmol), DMF (3 mL) and THF (3 mL) were placed in an oven-dried three-necked 250 mL round-bottom flask fitted with a magnetic stirring bar.  The resulting mixture was then stirred at 50 &#xB0;C for 30 min. under microwave irradiation. The completion of the reaction was monitored by TLC. The mixture was poured into ice water (100 mL) and separated, then the aqueous phase was acidified with 10% HCl to pH 6~7. The solid was then filtered and the crude product was dried and recrystallized from ethanol to give the title compounds <bold>3a</bold>-<bold>3g.</bold></p>
+        <p><italic>(E)-Ethyl 3-(2,6-dichloro-4-trifluoromethylphenylamino)-2-cyano-3-methylthio acrylate</italic> (<bold>3a</bold>): colorless crystals; m.p. 125-126&#xB0;C; <sup>1</sup>H-NMR: <italic>&#x3B4;</italic> 1.38 (t, 3H, <italic>J</italic>=7.8Hz, CH<sub>3</sub>-C), 2.57 (s, 3H, SCH<sub>3</sub>), 4.32 (dd, 2H, <italic>J</italic>=18.9Hz, 8.2Hz, OCH<sub>2</sub>), 7.69 (s, 2H, Ar-H), 11.22 (s, 1H, NH); IR (KBr): 3319, 3300, 3002, 2208, 1625, 1610, 1571, 1533, 1492, 1471, 1452, 1419, 1244, 1060 cm<sup>-1</sup>; MS: 398(M<sup>+</sup>); Anal. Calc. for C<sub>14</sub>H<sub>11</sub>Cl<sub>2</sub>F<sub>3</sub>N<sub>2</sub>O<sub>2</sub>S: C 42.11; H 2.76; N 7.02. Found: C 42.00; H 2.52; N 7.00.</p>
+        <p><italic>(E)-Ethyl 3-(2-chloro-4-methylpyridin-3-yl-amino)-2-cyano-3-methylthio acrylate</italic> (<bold>3b</bold>)<bold>:</bold> colorless crystals; m.p. 113-114&#xB0;C; <sup>1</sup>H-NMR: &#x3B4; 1.38 (t, 3H, <italic>J</italic>=7.9Hz, CH<sub>3</sub>-C), 2.34 (s, 3H, Py-CH<sub>3</sub>), 2.55 (s, 3H, SCH<sub>3</sub>), 4.31 (q, 2H, CH<sub>2</sub>), 7.22-8.26 (m, 2H, Py-H),11.17(s, 1H, NH); IR( KBr): 3284, 3003, 2200, 1637, 1620, 1608, 1585, 1531, 1458, 1446, 1431, 1386, 1369, 1298, 1269, 1120, 1109, 1085, 779 cm<sup>-1</sup>; MS: 311(M<sup>+</sup>);Anal. Calc. for C<sub>13</sub>H<sub>14</sub>ClN<sub>3</sub>O<sub>2</sub>S: C, 50.08; H, 4.53; N, 13.48. Found: C, 50.00; H, 4.49; N, 13.48.</p>
+        <p><italic>(E)-Ethyl 3-(4-trifluoromethylphenylamino)-2-cyano-3-methylthio acrylate</italic> (<bold>3c</bold>): colorless crystals; m.p. 193.5~194.5&#xB0;C. <sup>1</sup>H-NMR: <italic>&#x3B4;</italic> 1.29~1.65 (m, 3H, CH<sub>3</sub>-C), 2.50(s, 3H, SCH<sub>3</sub>), 4.18~4.25 (q, 2H, -OCH<sub>2</sub>), 7.26~7.74 (m, 4H, Ar-H), 11.07 (s, 1H, NH-Ar); <sup>13</sup>C-NMR: 169.36, 161.83, 161.26, 138.40, 127.48, 127.44, 127.40, 125.18, 118.82, 60.32, 14.47; IR (KBr): 3204, 3002, 2976, 2200, 1635, 1620, 1608, 1585, 1531, 1458, 1446, 1492, 1386, 1369, 1298, 1269, 1120, 1109, 1085, 779 cm<sup>-1</sup>; Anal. Calc. for C<sub>13</sub>H<sub>12</sub>F<sub>3</sub>N<sub>3</sub>O<sub>2</sub>: C, 52.18; H, 4.04; N, 14.04. Found: C, 52.13; H, 4.00; N, 13.98.</p>
+        <p><italic>(E)-Ethyl 3-(2-methoxypyridin-4-yl-amino)-2-cyano-3-methylthio acrylate</italic> (<bold>3d</bold>): white solid; m.p. 105-106&#xB0;C, <sup>1</sup>H NMR (CDCl<sub>3</sub>): <italic>&#x3B4;</italic> 1.26 (t, 3H, <italic>J</italic>=7.6Hz, CH<sub>3</sub>-C), 2.35 (s, 3H, SCH<sub>3</sub>), 3.91 (s, 3H, MeO), 4.26 (dd, 2H, <italic>J</italic>=20.0Hz, 8.0Hz, OCH<sub>2</sub>), 6.85-8.21 (m, 3H, Py-H), 11.21 (s, 1H, NH); IR (KBr): 3367, 3006, 3002, 2265, 1673, 1599, 1586, 1530, 1464, 1264, 1234, 1134, 1081 cm<sup>-1</sup>; MS: 280(M<sup>+</sup>); Anal. Calc. for C<sub>13</sub>H<sub>18</sub>N<sub>3</sub>O<sub>2</sub>S: C 55.70; H 6.42; N 15.00. Found: C 55.69, H 6.39, N 14.89. </p>
+        <p><italic>(E)-Ethyl 3-(4-methylbenzothiazol-2-yl-amino)-2-cyano-3-methylthio acrylate</italic> (<bold>3e</bold>): white solid; m.p. 162- 163&#xB0;C; <sup>1</sup>H-NMR :<italic>&#x3B4;</italic>  1.38 (t, 3H, <italic>J</italic>=7.9Hz, CH<sub>3</sub>-C), 2.64 (s, 3H, Hetero-CH<sub>3</sub>), 2.65 (s, 3H, SCH<sub>3</sub>), 4.32 (dd, 2H, <italic>J</italic>=20.1.Hz, 7.2Hz, OCH<sub>2</sub>), 7.24-7.60 (m, 3H, Ar-H), 11.51 (s, 1H, Hetero-NH) ppm; IR (KBr): 3287, 3007, 2214, 1658, 1593, 1568, 1498, 1471, 1288, 1257, 1234, 1259, 1024 cm<sup>-1</sup>; MS: 319(M<sup>+</sup>); Anal. Calc. for C<sub>15</sub>H<sub>15</sub>N<sub>2</sub>O<sub>2</sub>S<sub>2</sub>: C 56.42; H 4.70; N 8.77. Found: C 56.50; H 4.84; N 8.69.</p>
+        <p><italic>(E)-Ethyl 3-(4-nitrophenylamino)-2-cyano-3-methylthio acrylate</italic> (<bold>3f</bold>): colorless crystals; m.p. 118-120&#xB0;C; <sup>1</sup>H-NMR:<italic>&#x3B4;</italic> 1.38 (t, 3H, <italic>J</italic>=6.4Hz, CH<sub>3</sub>-C), 2.55 (s, 3H, SCH<sub>3</sub>), 4.31 (q, 2H, CH<sub>2</sub>), 7.22~8.26 (m, 4H, Ar-H), 11.17 (s, 1H, NH);<sup>13</sup>C-NMR: 172.62, 167.71, 150.06, 148.78, 148.18, 131.49, 124.77, 116.93, 61.32, 18.26, 17.89, 14.08; IR (KBr): 3284, 3008, 2200, 1637, 1620, 1608, 1585, 1531, 1458, 1446, 1431, 1386, 1369, 1298, 1269, 1120, 1109, 1085, 779 cm<sup>-1</sup>; MS: 280(M<sup>+</sup>); Anal. Calc. for C<sub>13</sub>H<sub>18</sub>N<sub>3</sub>O<sub>2</sub>S: C 50.00; H 4.11; N 13.55. Found: C 50.08; H 4.26; N 13.67.</p>
+        <p><italic>(E)-Ethyl 3-(4-bromophenylamino)-2-cyano-3-methylthio acrylate</italic> (<bold>3g</bold>): colorless crystals; m.p. 130-132&#xB0;C;  <sup>1</sup>H-NMR: <italic>&#x3B4;</italic>  1.26 (t, 3H, <italic>J</italic>=6.8Hz, CH<sub>3</sub>-C), 2.85 (s, 3H, SCH<sub>3</sub>), 4.32 (d, 2H,<italic>J</italic>=8.8Hz, OCH<sub>2</sub>), 7.63~7.65 (m, 4H, Ar-H), 11.22 (s, 1H, NH-Ar). <sup>13</sup>C-NMR: 206.142, 133.217, 127.708, 120.642, 117.307, 61.635, 17.286, 14.531; IR (KBr): 3149, 3002, 2993, 2204, 1658, 1554, 1487, 1411, 1377, 1253, 1165, 1028, 842, 779cm<sup>-1</sup>; MS: 280(M<sup>+</sup>); Anal. Calc. for C<sub>13</sub>H<sub>18</sub>N<sub>3</sub>O<sub>2</sub>S: C 45.80; H 3.48; N 8.00. Found: C 45.76; H 3.48; N 8.21.</p>
+      </sec>
+      <sec>
+        <title>MTT Cell Proliferation Assay</title>
+        <p>Two types of cell line provided by ATCC were used in these studies: PC3 (prostate cancer) and A431 (uterine cancer). These were cultivated in F-12 (for PC3) or RPMI 1640 (for A431) supplemented with 10% fetal bovine serum and 2 mM of L-glutamine. Tissue culture reagents were obtained from Gibco BRL. Tested compounds were dissolved in DMSO (1-100&#xB5;M solution) and then diluted in the culture medium before cell treatment. Tested cells were plated in 96-well plates at a density of 4&#xD7;10<sup>3</sup> cells/well/100 &#xB5;L culture medium and treated with the compounds at concentration of 10 &#xB5;g/mL for 48h. In parallel, the cells were treated with 0.1% of DMSO as control. A MTT [3-(4,5-dimethyl-thiazol-2-yl)-2,5-diphenyltetrazolium bromide] assay (Roche Molecular Biochemicals) was performed 30 h later following the instructions provided by Roche. This assay is based on the cellular cleavage of the tetrazolium salt MTT to a formazan that is soluble in the cell culture medium and is measured at 550 nm directly in the 96-well assay plates. Absorbance is directly proportional to the number of living cells in culture.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This work was financially supported by the National Basic Research Program of China (2003CB114404), National Natural Science Foundation of China (Nos. 20362004, 20442003), Program for New Century Excellent Talents in University in China (NCET-04-0912), and the Ph.D. Program Foundation of Ministry of Education of China (20040657003)</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01351">
+        <label>1.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Philips</surname>
+              <given-names>J. N.</given-names>
+            </name>
+            <name>
+              <surname>Huppatz</surname>
+              <given-names>J. L.</given-names>
+            </name>
+		</person-group>
+		<source>Z. Naturforsch</source>
+		<year>1987</year>
+		<volume>42c</volume>
+		<fpage>679</fpage>
+		</citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>H. Y.</given-names>
+            </name>
+            <name>
+              <surname>Sha</surname>
+              <given-names>Y. L.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>H. Z.</given-names>
+            </name>
+            <name>
+              <surname>Lai</surname>
+              <given-names>L. H.</given-names>
+            </name>
+			</person-group>
+			<source>Chin. Sci. Bull.</source>
+			<year>1998</year>
+			<volume>43</volume>
+			<fpage>652</fpage>
+		</citation>
+		<citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mackay</surname>
+              <given-names>S. P.</given-names>
+            </name>
+            <name>
+              <surname>Malley</surname>
+              <given-names>P. J.</given-names>
+            </name>
+          </person-group>
+          <source>Z. Naturforsch</source>
+          <year>1993</year>
+          <volume>48c</volume>
+          <fpage>191</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01351">
+        <label>2.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huppatz</surname>
+              <given-names>L.</given-names>
+            </name>
+		</person-group>
+        <source>Weed Sci.</source>
+          <year>1996</year>
+          <volume>44</volume>
+          <fpage>743</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+		<person-group person-group-type="author">
+            <name>
+              <surname>Phillips</surname>
+              <given-names>J. N.</given-names>
+            </name>
+            <name>
+              <surname>Banham</surname>
+              <given-names>W. K.</given-names>
+            </name>
+			</person-group>
+        <source>Z. Naturforsch.</source>
+          <year>1993</year>
+          <volume>48c</volume>
+          <fpage>132</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(c)</label>
+			<person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>S. Y.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z. M.</given-names>
+            </name>
+          </person-group>
+		  <source>Chin. J. Pestic. Sci.</source>
+          <year>2001</year>
+          <volume>3</volume>
+          <fpage>18</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(d)</label>
+			<person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>S. Y.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z. M.</given-names>
+            </name>
+          </person-group>
+		  <source>Chin. J. Pestic. Sci.</source>
+          <year>2002</year>
+          <volume>4</volume>
+          <fpage>79</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(e)</label>
+			<person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Y. G.</given-names>
+            </name>
+            <name>
+              <surname>Hung</surname>
+              <given-names>R. Q.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>J. R.</given-names>
+            </name>
+          </person-group>
+		  <source>Chem. J. Chin. Univ.</source>
+          <year>1998</year>
+          <volume>19</volume>
+          <fpage>1620</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(f)</label>
+			<person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>H. K.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Q. M.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>R. Q.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y. H.</given-names>
+            </name>
+          </person-group>
+		  <source>J. Organomet. Chem.</source>
+          <year>2002</year>
+          <volume>655</volume>
+          <fpage>182</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01351">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>H. Y.</given-names>
+            </name>
+            <name>
+              <surname>Sha</surname>
+              <given-names>Y. L.</given-names>
+            </name>
+            <name>
+              <surname>Dai</surname>
+              <given-names>G. G.</given-names>
+            </name>
+            <name>
+              <surname>Tan</surname>
+              <given-names>H. F.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>H. Z.</given-names>
+            </name>
+            <name>
+              <surname>Lai</surname>
+              <given-names>L. H.</given-names>
+            </name>
+          </person-group>
+          <source>Phosphorus, Sulfur, Silicon</source>
+          <year>1999</year>
+          <volume>148</volume>
+          <fpage>235</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01351">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>H.Y.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>G.F.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Tan</surname>
+              <given-names>H.F.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>H.Z.</given-names>
+            </name>
+            <name>
+              <surname>Lai</surname>
+              <given-names>L.H.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. J. Chin. Univ.</source>
+          <year>1998</year>
+		  <volume>19</volume>
+          <fpage>899</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01351">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Song</surname>
+              <given-names>B.A.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Zhong</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>L.H.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>D.Y.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Fluor. Chem.</source>
+          <year>2005</year>
+		  <volume>126</volume>
+          <fpage>87</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01351">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H.P.</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>B.A.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Zhong</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>L.H.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>D.Y.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2005</year>
+          <comment>in press</comment>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01351">
+        <label>7.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bose</surname>
+              <given-names>A. K.</given-names>
+            </name>
+            <name>
+              <surname>Manhas</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>Ganguly</surname>
+              <given-names>S. N.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>A. H.</given-names>
+            </name>
+            <name>
+              <surname>Banik</surname>
+              <given-names>B.K.</given-names>
+            </name>
+		</person-group>
+          <source>Synthesis.</source>
+          <year>2002</year>
+          <fpage>1578</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+		<person-group person-group-type="author">
+            <name>
+              <surname>Varma</surname>
+              <given-names>R. S.</given-names>
+            </name>
+          </person-group>
+          <source>Green Chem.</source>
+          <year>1999</year>
+          <volume>1</volume>
+          <fpage>43</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01351">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>R.G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1952</year>
+		  <volume>74</volume>
+          <fpage>4889</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01351">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Skehan</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Storeng</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Scadiero</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Monks</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>McMahon</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Vistica</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Warren</surname>
+              <given-names>J. T.</given-names>
+            </name>
+            <name>
+              <surname>Bokesch</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kenney</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Boy</surname>
+              <given-names>M. R.</given-names>
+            </name>
+          </person-group>
+          <source>Natl. J. Cancer Inst.</source>
+          <year>1990</year>
+		  <volume>82</volume>
+          <fpage>1107</fpage>
+          <pub-id pub-id-type="doi">10.1093/jnci/82.13.1107</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01351">
+        <label>10.</label>
+        <citation citation-type="thesis">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>S.</given-names>
+            </name>
+		</person-group>
+          <source>Ph. D. Dissertation</source>
+		  <publisher-name>Guizhou University</publisher-name>
+		  <publisher-loc>Guiyang, P. R. China</publisher-loc>
+          <year>2004</year>
+        </citation>
+		<citation citation-type="thesis">
+		<label>(b)</label>
+		<person-group person-group-type="author">
+            <name>
+              <surname>Zhong</surname>
+              <given-names>H. M.</given-names>
+            </name>
+          </person-group>
+          <source>M.Sc. Dissertation</source>
+		  <publisher-name>Guizhou University</publisher-name>
+		  <publisher-loc>Guiyang, P. R. China</publisher-loc>
+          <year>2004</year>
+        </citation>
+		<citation citation-type="thesis">
+		<label>(c)</label>
+		<person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>M.Sc. Dissertation</source>
+		  <publisher-name>Guizhou University</publisher-name>
+		  <publisher-loc>Guiyang, P. R. China</publisher-loc>
+          <year>2003</year>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	<fn>
+        <p><italic>Samples Availability</italic>: Available from the author.</p>
+	</fn>
+</fn-group>	
+  </back>
+</article>

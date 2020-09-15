@@ -1,0 +1,2738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020457</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00457</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Influence of the Dielectric Medium on the Carbonyl Infrared Absorption Peak of Acetylferrocene</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Alvarado</surname>
+            <given-names>Ysa&#xED;as J.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00457" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00457" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pe&#xF1;a-Su&#xE1;rez</surname>
+            <given-names>Jos&#xE9; Lucas</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00457" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cubill&#xE1;n</surname>
+            <given-names>N&#xE9;stor</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00457" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00457" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Labarca</surname>
+            <given-names>Paola H.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00457" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Caldera-Luzardo</surname>
+            <given-names>Jos&#xE9; A.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00457" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>L&#xF3;pez-Linares</surname>
+            <given-names>Francisco</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00457" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00457"><label>1</label>Laboratorio de Electr&#xF3;nica Molecular, Departamento de Qu&#xED;mica, Facultad Experimental de Ciencias, La Universidad del Zulia, Ap. 526, Grano de Oro, M&#xF3;dulo No.2, Maracaibo, Venezuela Fax: (+58) 261 7598125; Tel: (+58) 261 7598125</aff>
+      <aff id="af2-molecules-10-00457"><label>2</label>Laboratorio de Qu&#xED;mica de los Metales de Transici&#xF3;n, Centro de Qu&#xED;mica, Instituto Venezolano de Investigaciones Cient&#xED;ficas Altos de Pipe, Km 11 Carretera Panamericana, Caracas, Venezuela</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00457"><label>*</label>Authors to whom correspondence may be addressed; E-mail: <email>yalvarado@hotmail.com</email>; <email>ncubillan@luz.edu.ve</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>457</fpage>
+      <lpage>474</lpage>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>06</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>12</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The solvent effect on the position of the carbonyl vibrational stretching of acetylferrocene in aprotic media was studied in this work. The solvent-induced shifts in this organometallic compound were interpreted in terms of the alternative reaction field model (SCRF-MO) proposed by Kolling. In contrast to the established trends for carbonyl groups in organic systems, the results suggest that the continuum models for the reaction field are not adequate and that the influence of dipolarity-polarizability described by an inhomogeneous coupling function <italic>&#x3B8;</italic>  (<italic>&#x3B5;</italic>)<italic>L</italic>(<italic>n</italic><sup>2</sup>) that  assumes optical dielectric saturation is responsible for the carbonyl band shift and, there is empirical evidence that the effect of field-induced intermolecular interaction on band shift, interpreted in terms of the van der Waals forces from the solvent, have a important contribution to this phenomena.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Frequency shift</kwd>
+        <kwd>SCRF-MO model</kwd>
+        <kwd>acetylferrocene</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The electronic and vibrational properties of a substance are affected by several microscopic and macroscopic properties of the medium. Consequently, there is considerable interest in the study of solvent-induced perturbations on characteristic infrared absorption peaks and linear and nonlinear optical properties of organic compounds [<xref ref-type="bibr" rid="B1-molecules-10-00457">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00457">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00457">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00457">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00457">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00457">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00457">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00457">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00457">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00457">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00457">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00457">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00457">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00457">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00457">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00457">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00457">19</xref>,<xref ref-type="bibr" rid="B20-molecules-10-00457">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00457">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00457">22</xref>,<xref ref-type="bibr" rid="B23-molecules-10-00457">23</xref>,<xref ref-type="bibr" rid="B24-molecules-10-00457">24</xref>,<xref ref-type="bibr" rid="B25-molecules-10-00457">25</xref>,<xref ref-type="bibr" rid="B26-molecules-10-00457">26</xref>]. In effect, a number of semiempirical solvatochromic parameters representing &#x201C;solvent polarity&#x201D; have been applied to the quantification of medium effects on these properties [<xref ref-type="bibr" rid="B13-molecules-10-00457">13</xref>,<xref ref-type="bibr" rid="B27-molecules-10-00457">27</xref>,<xref ref-type="bibr" rid="B28-molecules-10-00457">28</xref>]. It is known that vibrational frequencies for a molecule dissolved in a liquid depend principally on the dielectric nature of medium (solvent polarity-dipolarity) when specific local interactions are absent [<xref ref-type="bibr" rid="B1-molecules-10-00457">1</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B23-molecules-10-00457">23</xref>,<xref ref-type="bibr" rid="B27-molecules-10-00457">27</xref>]. It was shown for solute molecules having large permanent dipole moments, that the solvent effect can be explained well by the Onsager reaction field model [<xref ref-type="bibr" rid="B16-molecules-10-00457">16</xref>,<xref ref-type="bibr" rid="B24-molecules-10-00457">24</xref>]. This theory provides a means for calculating the energy of equilibrium dielectric solvation of an ideal nonpolarizable dipole (solute molecule) immersed in a dielectric continuum.</p>
+      <p>In this context, Kolling proposed an alternative solvent reaction field perturbation model (SCRF-MO), based on dielectric continuum concepts, which incorporates several reaction field functions and a molecular orbital treatment that permits estimation of these solvent-induced shifts for carbonyl species in aprotic, aliphatic and monofunctional solvents  (&#x201C;select solvents&#x201D;). His results clearly demonstrate that solvent dipolarity-polarizability is the dominant effect upon <inline-formula>
+        <mml:math id="mm1" display="block">
+         <mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+      </inline-formula> (<italic>C</italic> &#x2261; <italic>N</italic>) of benzonitrile and <inline-formula>
+        <mml:math id="mm22" display="block">
+         <mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+      </inline-formula> (<italic>C</italic> = <italic>O</italic>) of 2-butanone, ethyl acetate and tetramethylurea in a wide variety of aprotic solvents [<xref ref-type="bibr" rid="B1-molecules-10-00457">1</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B29-molecules-10-00457">29</xref>]. However, to our knowledge, this model has not been applied for interpreting the solvent dependence of the carbonyl band of organometallic compounds, although linear solvation energy relationships (LSER) have been used to explain solvent effects on various free-energy-based properties in diverse systems such as coordination and organometallic compounds [<xref ref-type="bibr" rid="B30-molecules-10-00457">30</xref>,<xref ref-type="bibr" rid="B31-molecules-10-00457">31</xref>,<xref ref-type="bibr" rid="B32-molecules-10-00457">32</xref>,<xref ref-type="bibr" rid="B33-molecules-10-00457">33</xref>,<xref ref-type="bibr" rid="B34-molecules-10-00457">34</xref>,<xref ref-type="bibr" rid="B35-molecules-10-00457">35</xref>,<xref ref-type="bibr" rid="B36-molecules-10-00457">36</xref>,<xref ref-type="bibr" rid="B37-molecules-10-00457">37</xref>]. On these basis, and continuing with our interest in this field, we report in this work a detailed evaluation using FTIR of the solvent effects on the carbonyl absorption peak in acetylferrocene (<bold>1</bold>, <xref ref-type="fig" rid="molecules-10-00457-f001">Figure 1</xref>) in 24 aprotic solvents, ranging from aprotic nonpolar to aprotic highly dipolar and aromatic classes and the analysis in terms of Kolling&#x2019;s SCRF-MO generalized model of the experimental solvent shifts. This organometallic compound was selected due to its importance for the synthesis of medicines, optical and electronic materials with exceptional properties [<xref ref-type="bibr" rid="B38-molecules-10-00457">38</xref>,<xref ref-type="bibr" rid="B39-molecules-10-00457">39</xref>,<xref ref-type="bibr" rid="B40-molecules-10-00457">40</xref>,<xref ref-type="bibr" rid="B41-molecules-10-00457">41</xref>,<xref ref-type="bibr" rid="B42-molecules-10-00457">42</xref>] and because this anisotropic molecule contains an acetyl group conjugated with a cyclopentadienyl ring of the organometallic electron donor ferrocenyl group. Besides, in this work we intend to probe the validity in this organometallic system of the polarity-polarizability model proposed by Kolling [<xref ref-type="bibr" rid="B1-molecules-10-00457">1</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B29-molecules-10-00457">29</xref>] and constructed from simplified molecular orbital arguments and reaction field theory as an alternative to interpreting the solvent-induced spectral shift for maximum frequency carbonyl band in small organic molecules.</p>
+      <fig id="molecules-10-00457-f001" position="float">
+        <label>Figure 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-g001.tif"/>
+      </fig>
+    </sec>
+    <sec>
+      <title>Theory</title>
+      <p>The reaction field theory introduced by Onsager approximates a solute as a polarizable point dipole in the center of a spherical cavity immersed in a continuous medium with a dielectric constant [<xref ref-type="bibr" rid="B26-molecules-10-00457">26</xref>,<xref ref-type="bibr" rid="B43-molecules-10-00457">43</xref>]. The presence of this solute dipole induces a dipole in the solvent molecules (the medium); this medium is considered as an isotropic homogeneous dielectric continuum, and this induced dipole generates an electric field (reaction field) that will in turn interact with the molecular dipole of solute to lead to net stabilization and thus, the local field at the location of the solute molecule, following &#xA0;Onsager&#x2019;s formalism [<xref ref-type="bibr" rid="B44-molecules-10-00457">44</xref>], is: 
+	  <disp-formula id="molecules-10-00457-i001"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i001.tif"/><label>(1)</label></disp-formula></p>
+      <p>Here, <inline-formula>
+        <mml:math id="mm3" display="block">
+		<mml:semantics>
+  <mml:mrow>
+   <mml:msub>
+    <mml:mover accent='true'>
+     <mml:mi>E</mml:mi>
+     <mml:mo>&#x2192;</mml:mo>
+    </mml:mover>
+    <mml:mi>c</mml:mi>
+   </mml:msub>
+   </mml:mrow>
+ </mml:semantics>
+</mml:math>
+</inline-formula> and <inline-formula>
+        <mml:math id="mm4" display="block">
+		<mml:semantics>
+  <mml:mrow>
+   <mml:msub>
+    <mml:mover accent='true'>
+     <mml:mi>E</mml:mi>
+     <mml:mo>&#x2192;</mml:mo>
+    </mml:mover>
+    <mml:mi>R</mml:mi>
+   </mml:msub>
+   </mml:mrow>
+ </mml:semantics>
+</mml:math>
+</inline-formula> are the cavity and the reaction field, respectively, <italic>a</italic> is the spherical solvent  cavity dimensions, <inline-formula>
+        <mml:math id="mm24" display="block">
+		<mml:semantics>
+  <mml:mrow>
+    <mml:mover accent='true'>
+     <mml:mi>&#x3BC;</mml:mi>
+     <mml:mo>&#x2192;</mml:mo>
+    </mml:mover>
+   </mml:mrow>
+ </mml:semantics>
+</mml:math>
+</inline-formula> is dipole moment vector, <inline-formula>
+        <mml:math id="mm5" display="block">
+	<mml:semantics>
+  <mml:mrow>
+   <mml:mi>g</mml:mi><mml:mrow><mml:mo>(</mml:mo>
+    <mml:mi>&#x03B5;</mml:mi>
+   <mml:mo>)</mml:mo></mml:mrow></mml:mrow>
+ </mml:semantics>
+</mml:math>
+</inline-formula> is a function that depends of bulk dielectric constant and <italic>f</italic> (<italic>&#x3B5;</italic>) is the Onsager dielectric continuum function of the reaction field with dependence in bulk dielectric constant and gives a measurement of the strength of the reaction field [<xref ref-type="bibr" rid="B44-molecules-10-00457">44</xref>]. In terms of molecular orbital theory (MO) [<xref ref-type="bibr" rid="B43-molecules-10-00457">43</xref>,<xref ref-type="bibr" rid="B44-molecules-10-00457">44</xref>,<xref ref-type="bibr" rid="B45-molecules-10-00457">45</xref>,<xref ref-type="bibr" rid="B46-molecules-10-00457">46</xref>], the electrostatic solute-solvent interaction is considered as an additional term in the Hamiltonian of the isolated molecule <italic>H</italic><sub>0</sub> and then, the Hamiltonian for the molecule with the reaction field of the solvent (<italic>H<sub>p</sub></italic>) is represented by the standard perturbation statement as [<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>] 
+<disp-formula id="molecules-10-00457-i002"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i002.tif"/><label>(2)</label></disp-formula> 
+       where, <inline-formula>
+        <mml:math id="mm2" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>&#x03BC;</mml:mi>
+   <mml:mo>&#x005E;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula> is the dipolar operator and <italic>f</italic> (<italic>&#x3B5;</italic>) is the Onsager reaction field function, however, it can be considered as a general dielectric continuum function in terms of bulk dielectric constant (<italic>&#x3B5;</italic>) and/or optical dielectric constant (<italic>n</italic><sup>2</sup>), according to an alternative reaction field model proposed by Kolling formulated in terms of a simplified molecular orbital treatment for the influence of a polar solvent upon the IR absorption for the carbonyl group of  2-butanone, ethyl acetate and tetramethylurea [<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B29-molecules-10-00457">29</xref>]. In this model, different dielectric continuum functions has  been used, such as the Kirkwood-Bauer [<xref ref-type="bibr" rid="B47-molecules-10-00457">47</xref>], Block-Walker [<xref ref-type="bibr" rid="B48-molecules-10-00457">48</xref>], Brady-Carr [<xref ref-type="bibr" rid="B49-molecules-10-00457">49</xref>], McRae [<xref ref-type="bibr" rid="B50-molecules-10-00457">50</xref>], London-Onsager [<xref ref-type="bibr" rid="B44-molecules-10-00457">44</xref>], Marcus [<xref ref-type="bibr" rid="B51-molecules-10-00457">51</xref>], Born [<xref ref-type="bibr" rid="B52-molecules-10-00457">52</xref>] and Bekarek-Kolling [<xref ref-type="bibr" rid="B1-molecules-10-00457">1</xref>,<xref ref-type="bibr" rid="B53-molecules-10-00457">53</xref>] and can be seen in <xref ref-type="table" rid="molecules-10-00457-t001">Table 1</xref>. Then, the total energy with the corresponding energy contribution from the reaction field (<italic>E<sub>p</sub></italic>) is [<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>]: 
+<disp-formula id="molecules-10-00457-i003"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i003.tif"/><label>(3)</label></disp-formula></p>
+       <p>Here, the first term represents the total energy of molecule in ground state without perturbation (<italic>E</italic><sub>0</sub>). In Kolling&#xB4;s model [<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>], the vibrational energy <italic>E<sub>v</sub></italic> shift of carbonyl group from its value in gas phase as a consequence of the solvent perturbation is proposed as &#x394;<italic>E<sub>v</sub></italic> = <italic>C</italic>(<italic>E<sub>p</sub></italic> &#x2212; <italic>E</italic><sub>0</sub>), that in terms of the band shift for the carbonyl: 
+	   <disp-formula id="molecules-10-00457-i004"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i004.tif"/><label>(4)</label></disp-formula>
+	   where, <italic>&#x3BD;<sub>g</sub></italic> is the value for vibrational carbonyl band in the gas phase.</p>
+	    <table-wrap id="molecules-10-00457-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00457-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Defining functions for the MO reaction field of the solvent in dielectric constant (<italic>&#x3B5;</italic>) and/or (<italic>n</italic>) refractive index.</p>
+        </caption>
+          <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin">Year</th>
+              <th align="center" valign="middle" style="border-top:solid thin">Universities</th>
+              <th align="center" valign="middle" style="border-top:solid thin">Colleges</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle"><bold>Born</bold></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i018.tif"/></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i019.tif"/></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>Kirkwood-Bauer</bold></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i020.tif"/></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i021.tif"/></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>Block-Walker</bold></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i022.tif"/></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i023.tif"/></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>Brady-Carr</bold></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i024.tif"/></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i025.tif"/></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>Marcus</bold></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i026.tif"/></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i027.tif"/></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>McRae</bold></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i028.tif"/></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i029.tif"/></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>London&#x2013;Onsager</bold></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i030.tif"/></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i031.tif"/></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>Bekarek&#x2013;Kolling</bold></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i032.tif"/></td>
+              <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i033.tif"/></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin"><bold>Brady&#x2013;Carr&#x2013;Kolling</bold></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i034.tif"/></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i035.tif"/></td>
+            </tr>
+          </tbody>
+        </table>
+		</table-wrap>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The infrared carbonyl band shape of acetylferrocene analyzed in low polarity solvents (cyclohexane, carbon tetrachloride, carbon disulfide, benzene, diethyl ether, tetrahydrofuran, 1,4-dioxane, ethyl acetate) and solvents with low absorbance in the carbonyl region is mainly Lorentzian (some examples are shown in the <xref ref-type="fig" rid="molecules-10-00457-f002">Figure 2</xref>). However, the values obtained for apparent full width at half height (FWHH) and the integrated intensity of carbonyl band of acetylferrocene shown a great variation between 8.7 to 29.6 cm<sup>-1</sup> and 1.84 to 4.82&#xB7;10<sup>6</sup> L mol<sup>-1</sup> cm<sup>-2</sup>, respectively. It is clear from the values of shape parameters and the frequency of the band maximum that the solvents have a pronounced effect on the carbonyl stretching band of acetylferrocene compound.</p>
+      <fig id="molecules-10-00457-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>IR Carbonyl Band Behavior of Acetylferrocene in Some Aprotic Solvents: (&#x25A1;) Cyclohexane, (&#x2022;) Benzene, (&#x2666;) Tetrahydrofuran, and (&#x25CA;) Carbon tetrachloride.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-g002.tif"/>
+      </fig>
+      <table-wrap id="molecules-10-00457-t002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00457-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Carbonyl IR absorption band (in cm<sup>-1</sup>) for acetylferrocene, 2-butanone and ethyl acetate in aprotic solvents at 298 K.</p>
+        </caption>
+        <table>
+  <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Solvent <sup><italic>a, b</italic></sup></th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Ethyl acetate <sup><italic>c</italic></sup></th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2-Butanone <sup><italic>d</italic></sup></th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Acetylferrocene <sup><italic>e</italic></sup></th>
+            </tr>
+  </thead>
+  <tbody>
+            <tr>
+              <td align="center" valign="middle">Acetonitrile (&#x25CF;)</td>
+              <td align="center" valign="middle">1736.5</td>
+              <td align="center" valign="middle">1714.1</td>
+              <td align="center" valign="middle">1668.3</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Bromobenzene (&#x25CF;)</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">1671.2</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Butyl methyl ether (&#x25CF;)</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">1679.4</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Butyronitrile (&#x25CF;)</td>
+              <td align="center" valign="middle">1736.7</td>
+              <td align="center" valign="middle">1714.4</td>
+              <td align="center" valign="middle">1670.2</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Carbon disulfide (&#x25CF;)</td>
+              <td align="center" valign="middle">1741.2</td>
+              <td align="center" valign="middle">1719.8</td>
+              <td align="center" valign="middle">1674.1</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Chlorobenzene (&#x25CF;)</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">1671.7</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Chlorobutane (&#x25CF;)</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">1662.0</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Cyclohexane (&#x25CF;)</td>
+              <td align="center" valign="middle">1749.6</td>
+              <td align="center" valign="middle">1726.1</td>
+              <td align="center" valign="middle">1682.8</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Cyclohexene (&#x25CF;)</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">1681.3</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Diethyl ether (&#x25CF;)</td>
+              <td align="center" valign="middle">1743.5</td>
+              <td align="center" valign="middle">1721.2</td>
+              <td align="center" valign="middle">1679.9</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Diisopropyl ether (&#x25CF;)</td>
+              <td align="center" valign="middle">1744.6</td>
+              <td align="center" valign="middle">1721.6</td>
+              <td align="center" valign="middle">1679.7</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Dimethyl sulfoxide (&#x25CF;)</td>
+              <td align="center" valign="middle">1731.3</td>
+              <td align="center" valign="middle">1710.6</td>
+              <td align="center" valign="middle">1663.5</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">1,4-Dioxane (&#x25CF;)</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">1673.6</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Isooctane (&#x25CF;)</td>
+              <td align="center" valign="middle">1750.1</td>
+              <td align="center" valign="middle">1726.8</td>
+              <td align="center" valign="middle">1683.7</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Tetrahydrofuran (&#x25CF;)</td>
+              <td align="center" valign="middle">1739.0</td>
+              <td align="center" valign="middle">1716.2</td>
+              <td align="center" valign="middle">1675.1</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Benzene (&#x25A1;)</td>
+              <td align="center" valign="middle">1740.2</td>
+              <td align="center" valign="middle">1719.0</td>
+              <td align="center" valign="middle">1672.7</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Ethylbenzene (&#x25A1;)</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">-</td>
+              <td align="center" valign="middle">1676.5</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Nitrobenzene (&#x25A1;)</td>
+              <td align="center" valign="middle">1736.3</td>
+              <td align="center" valign="middle">1714.4</td>
+              <td align="center" valign="middle">1669.9</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Toluene (&#x25A1;)</td>
+              <td align="center" valign="middle">1739.5</td>
+              <td align="center" valign="middle">1717.7</td>
+              <td align="center" valign="middle">1676.0</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Carbon tetrachloride (&#x25BA;)</td>
+              <td align="center" valign="middle">1742.4</td>
+              <td align="center" valign="middle">1721.0</td>
+              <td align="center" valign="middle">1675.5</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Chloroform (&#x25BA;)</td>
+              <td align="center" valign="middle">1731.7</td>
+              <td align="center" valign="middle">1710.3</td>
+              <td align="center" valign="middle">1662.5</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Dichlorometane (&#x25BA;)</td>
+              <td align="center" valign="middle">1733.4</td>
+              <td align="center" valign="middle">1712.7</td>
+              <td align="center" valign="middle">1665.4</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Tetrachloroethylene  (&#x25BA;)</td>
+              <td align="center" valign="middle">1744.1</td>
+              <td align="center" valign="middle">1721.2</td>
+              <td align="center" valign="middle">1667.8</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Pyridine (&#x25CA;)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1736.2</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1714.0</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1662.9</td>
+            </tr>
+  </tbody>
+        </table>
+		<table-wrap-foot>
+          <fn>
+            <p><sup><italic>a</italic></sup> Experimental values of dielectric constant (<italic>&#x3B5;</italic>) and refractive index (<italic>n</italic><sup>2</sup>) were taken from reference 28. <sup><italic>b</italic></sup> Classification proposed in reference 81. Solvent family designations are as follows: aprotic nonpolar, dipolar, and highly dipolar (select solvents) (&#x25CF;); polychloroalkanes (&#x25BA;), aromatics (&#x25A1;) and pyridine (&#x25CA;). <sup><italic>c</italic></sup> Ethyl acetate, reference 3. <sup><italic>d</italic></sup> 2-Butanone, Reference 4. <sup><italic>e</italic></sup> This work.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>In spite of this, in this work we attempted initially to rationalize the carbonyl band shift of this organometallic compound in terms of reaction field models proposed by Kolling which incorporate alternative dielectric continuum and inhomogeneous functions as elements in the formulation of a simplified SCRF-MO perturbation description for the aprotic solvent effect upon carbonyl band frequency maximum of diverse organic solute. In this work, the results were analyzed strictly with the formalism developed by Kolling [<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B29-molecules-10-00457">29</xref>]. The influence of the solvent on the shape parameters &#xA0;of carbonyl band of acetylferrocene in IR and Raman spectroscopy is under development in our group and its interpretation is postponed to future communications.</p>
+      <p>In <xref ref-type="table" rid="molecules-10-00457-t002">Table 2</xref> are presented the results obtained for acetylferrocene (ActF, <bold>1</bold>) in 24 different pure aprotic solvents as well as the solvent parameters (<italic>n</italic><sup>2</sup>, <italic>&#x3B5;</italic>) used for testing the various continuum models (see <xref ref-type="table" rid="molecules-10-00457-t001">Table 1</xref>). Prior to this analysis, an empirical comparative study were made between <inline-formula>
+        <mml:math id="mm8" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula>(<italic>C</italic> = <italic>O</italic>) data reported in the literature [<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>] for 2-butanone (2-But) and ethyl acetate (ActEt) in the same solvents used in this work (see <xref ref-type="table" rid="molecules-10-00457-t002">Table 2</xref>), and after of these values with the corresponding values of acetylferrocene (ActF). As expected, an excellent linear correlation was found between <inline-formula>
+        <mml:math id="mm9" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula>(<italic>C</italic> = <italic>O</italic>) values for ethyl acetate and 2-butanone (<italic>n</italic> = 17, <italic>r</italic> = 0.99). This result is consistent with a similar solvent environmental influence upon the carbonyl stretching vibrational mode in both organic probes. In fact, Kolling has proposed that similar reaction field variables for the influence of solvent polarity are involved in modeling the solvent-induced shift for these molecules. On the other hand, although there is a linear tendency (see equations 5 and 6), the statistical quality of the fit of the <inline-formula>
+        <mml:math id="mm10" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula>(<italic>C</italic> = <italic>O</italic>) of acetylferrocene vs <inline-formula>
+        <mml:math id="mm11" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula>(<italic>C</italic> = <italic>O</italic>) of 2-butanone or ethyl acetate regressions declined  substantially  in comparison with early results (graphs omitted). Similar results were obtained with the values reported [<xref ref-type="bibr" rid="B29-molecules-10-00457">29</xref>] for tetramethylurea. On the basis of the correlation coefficient and standard deviation of slope, it can be anticipated that, a same solvent works different upon the carbonyl group of each solute and different reaction field variables are involved in the solvatochromic behavior between acetylferrocene and these organic carbonyl compounds. However, the interpretation and significance of these results will be discussed later, because it  requires a more detailed analysis of the <inline-formula>
+        <mml:math id="mm12" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula>(<italic>C</italic> = <italic>O</italic>) acetylferrocene as a function of reaction field parameters. values of acetylferrocene as a function of reaction field parameters.</p>
+<disp-formula id="molecules-10-00457-i005"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i005.tif"/><label>(5)</label></disp-formula>
+<disp-formula id="molecules-10-00457-i006"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i006.tif"/><label>(6)</label></disp-formula>
+      <fig id="molecules-10-00457-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>Dependence of the Frequency of the C=O stretching band for acetylferrocene as a solute in aprotic solvents with specific reaction field functions: (a) Kirkwood-Bauer function <italic>K</italic> (<italic>&#x3B5;</italic>) , (b) Block-Walker <italic>&#x3B8;</italic> (<italic>&#x3B5;</italic>) , (c) Bekarek-Kolling <italic>K</italic> (<italic>&#x3B5;</italic>)<italic>L</italic>(<italic>n</italic><sup>2</sup>) and (d) Brady-Carr-Kolling <italic>&#x3B8;</italic> (<italic>&#x3B5;</italic>)<italic>L</italic>(<italic>n</italic><sup>2</sup>). Solvent family designations are as follows (reference 81): aprotic nonpolar, dipolar, and highly dipolar (select solvents) (&#x25CF;); polychloroalkanes (&#x25BA;), aromatics (&#x25A1;) and pyridine (&#x25CA;).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-g003.tif"/>
+      </fig>
+      <p>Kolling found that a two-term MO perturbation statement in both Kirkwood-Bauer function and a cross-product function <italic>K</italic> (<italic>&#x3B5;</italic>) &#xB7; <italic>L</italic>(<italic>n</italic><sup>2</sup>) link well for ethyl acetate, tetramethylurea and 2-butanone, where the first term is the most relevant [<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B29-molecules-10-00457">29</xref>]. However, a poor correlation is obtained when the full data set from <xref ref-type="table" rid="molecules-10-00457-t002">Table 2</xref> is used with the Kirkwood function (see <xref ref-type="fig" rid="molecules-10-00457-f003">Figure 3</xref>a). Furthermore, this result is not improved if the aromatics and polychloroalkanes data are excluded of this analysis (&#x201C;nonselect solvents&#x201D;).</p> 
+	  <p>On the other hand, a plot of the carbonyl frequency <inline-formula>
+        <mml:math id="mm13" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula> for acetylferrocene as a function of the Born reaction field parameter results in a poorly defined nonlinear trend, which is not shown in this work. These results are similar to those reported for 2-butanone and ethyl acetate [<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>]. All reaction field functions shown in <xref ref-type="table" rid="molecules-10-00457-t001">Table 1</xref> have been constructed on the common assumption that the dielectric properties outside the cavity of solute are homogeneous. However, these properties of solvent in the cybotactic region of a solute must be very different from that of bulk solvent and thus the dielectric properties are not uniform [<xref ref-type="bibr" rid="B54-molecules-10-00457">54</xref>]. This non-uniformity of dielectric properties can be induced by strong nonlinear electrostatic interactions between solute and solvent, in consequence, the solvent molecules close to the dipole solute can be fully oriented and saturation of the orientational polarization becomes significant and reduces the local permittivity.</p>
+      <p>An interesting model that modifies the Onsager  equation considering non-uniformity, and that shows satisfactory correlation with experimental results reported in literature, was proposed by Block and Walker [<xref ref-type="bibr" rid="B2-molecules-10-00457">2</xref>,<xref ref-type="bibr" rid="B48-molecules-10-00457">48</xref>,<xref ref-type="bibr" rid="B49-molecules-10-00457">49</xref>,<xref ref-type="bibr" rid="B55-molecules-10-00457">55</xref>]. When the <inline-formula>
+        <mml:math id="mm14" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula>(<italic>C</italic> = <italic>O</italic>) data are treated by Block-Walker function <italic>&#x3B8;</italic> (<italic>&#x3B5;</italic>), an approximated linearity occurs for 13 aprotic solvents out of the total set of 24 liquids (see <xref ref-type="fig" rid="molecules-10-00457-f003">Figure 3</xref>b) and eq. 7 was derived
+<disp-formula id="molecules-10-00457-i007"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i007.tif"/><label>(7)</label></disp-formula></p>
+      <p>The outlying points of this regression include the 1,4-dioxane, pyridine, benzene, monoalkyl and halide aromatic hydrocarbons, CHCl<sub>3</sub>, CH<sub>2</sub>Cl<sub>2</sub> and &#x201C;pseudoaromatics&#x201D; (CCl<sub>4</sub>, CS<sub>2</sub>, tetrachloro-ethylene) [<xref ref-type="bibr" rid="B56-molecules-10-00457">56</xref>]. This deviation from the main sequence for the select group can be due to diverse factors not considered in this model, such as acid-base solvent properties, specific interactions (CHCl<sub>3</sub> and CH<sub>2</sub>Cl<sub>2</sub> are weak proton donors), stereospecific solvation and &#xA0;weak &#xA0;intermolecular &#xA0;complexes having high polarizabilities and quadrupole moments [<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B57-molecules-10-00457">57</xref>,<xref ref-type="bibr" rid="B58-molecules-10-00457">58</xref>,<xref ref-type="bibr" rid="B59-molecules-10-00457">59</xref>]. In fact, in these solvents the carbonyl band is broader than in select solvents, but unexpectedly the mono-substituted aromatic solvent nitrobenzene (highly polarizable solvent) fall within of this correlation.</p>
+      <p>On the other hand, when the inductive polarization (or polarizability) of solvent is considered as dominant parameter, a completely scattered distribution of values without discernible pattern was observed in this work (graph omitted). This behavior coincides with the reported by others authors, and is consistent with a possible coupling between the dipolarity-polarizability influences  in  the reaction field [<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00457">9</xref>,<xref ref-type="bibr" rid="B27-molecules-10-00457">27</xref>,<xref ref-type="bibr" rid="B49-molecules-10-00457">49</xref>,<xref ref-type="bibr" rid="B53-molecules-10-00457">53</xref>,<xref ref-type="bibr" rid="B54-molecules-10-00457">54</xref>,<xref ref-type="bibr" rid="B55-molecules-10-00457">55</xref>,<xref ref-type="bibr" rid="B56-molecules-10-00457">56</xref>,<xref ref-type="bibr" rid="B57-molecules-10-00457">57</xref>,<xref ref-type="bibr" rid="B58-molecules-10-00457">58</xref>,<xref ref-type="bibr" rid="B59-molecules-10-00457">59</xref>]. It is noteworthy that this coupling differs among the specific <italic>f(&#xB5;, n<sup>2</sup>)</italic> statements, for example, Brady-Carr [<xref ref-type="bibr" rid="B9-molecules-10-00457">9</xref>], Marcus [<xref ref-type="bibr" rid="B51-molecules-10-00457">51</xref>] and McRae [<xref ref-type="bibr" rid="B50-molecules-10-00457">50</xref>] models are based on the distortional component acting in opposition to the orientational influence of the solvent and therefore the dipolar reaction field component is formally equivalent to an effective dipolar permittivity, <italic>&#x3B5;</italic> , implicitly defined by eq. 8, as proposed by Kolling [<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>]<disp-formula id="molecules-10-00457-i008"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i008.tif"/><label>(8)</label></disp-formula></p>
+      <p>To confirm these ideas, we tested the correlation  of <inline-formula>
+        <mml:math id="mm15" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula>(<italic>C</italic> = <italic>O</italic>) with these <italic>f(&#xB5;<sub>p</sub>)</italic> parameters. Although, the graphs are not presented herein, the Marcus, McRae and Brady-Carr correlations with the <inline-formula>
+        <mml:math id="mm16" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula>(<italic>C</italic> = <italic>O</italic>) data for acetylferrocene shown a high degree of scattering. Likewise, similar trends were obtained when the <italic>&#x3B5;<sub>p</sub></italic> dipolarity parameter was substituted for <italic>&#x3B5;</italic> in the Block-Walker <italic>&#x3B8;</italic>(<italic>&#x3B5;</italic>) and Kirkwood <italic>K</italic>(<italic>&#x3B5;</italic>) reaction field functions. Another alternative form for the coupling between the contributions from solvent dipolarity and polarizability was proposed empirically by Bekarek [<xref ref-type="bibr" rid="B53-molecules-10-00457">53</xref>] and theoretically by  Kolling [<xref ref-type="bibr" rid="B29-molecules-10-00457">29</xref>]. This reaction field model function <italic>K</italic>(<italic>&#x3B5;</italic>, <italic>n</italic><sup>2</sup>) includes both solute permanent dipole-solvent permanent dipole and solute permanent dipole-solvent polarizability interactions and assumes the form of product function (see <xref ref-type="table" rid="molecules-10-00457-t001">Table 1</xref>). In fact, Bekarek [<xref ref-type="bibr" rid="B53-molecules-10-00457">53</xref>,<xref ref-type="bibr" rid="B60-molecules-10-00457">60</xref>,<xref ref-type="bibr" rid="B61-molecules-10-00457">61</xref>] has added this coupling function <italic>K</italic>(<italic>&#x3B5;</italic>, <italic>n</italic><sup>2</sup>) to the Buckingham equation to interpret a variety of experimental solvent-dependent IR stretching vibrations wavenumbers with excellent results, and therefore polarizability contribution of solvent is the dominant  factor as electrostatic perturbation within the reaction field function. However, such relationship had little success for the characteristic IR peak of <italic>CN</italic> group in benzonitrile and <italic>C</italic> = <italic>O</italic> group in acetone, ethyl acetate and 2-butanone [<xref ref-type="bibr" rid="B1-molecules-10-00457">1</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>].</p>
+      <p>When the experimental data of acetylferrocene was correlated with this term, called here Bekarek-Kolling function <italic>K</italic>(<italic>&#x3B5;</italic>, <italic>n</italic><sup>2</sup>), a successful correlation was found in this case. The resulting equation to the same 13 solvents for <italic>&#x3B8;</italic> (<italic>&#x3B5;</italic>) as for <italic>K</italic> (<italic>&#x3B5;</italic>) is 
+	  <disp-formula id="molecules-10-00457-i009"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i009.tif"/><label>(9)</label></disp-formula>
+	  with a standard deviation of 1.5 cm<sup>-1</sup> in the intercept and a correlation coefficient of 0.95, is clear that the eq. 9 had a better statistical fit than eq. 7. However, as shown in <xref ref-type="fig" rid="molecules-10-00457-f003">Figure 3</xref>c, the polychloroalkanes and aromatic solvents are displaced downward from the main sequence for the select solvent group, and they are statistically outliers and it will be discussed later.</p>
+      <p>Another more sophisticated approach was proposed by Brady and Carr [<xref ref-type="bibr" rid="B49-molecules-10-00457">49</xref>] to estimate the effect of the medium on electronic absorption bands of bathochromic probes. These authors have considered -empirically- the optical dielectric saturation effect on this product function using the Block-Walker <italic>&#xB8;</italic>(<italic>&#x3B5;</italic>) parameter as dipolarity function with successful results [<xref ref-type="bibr" rid="B49-molecules-10-00457">49</xref>]. With these results in mind, the <italic>&#x3B8;</italic> (<italic>&#x3B5;</italic>)<italic>L</italic>(<italic>n</italic><sup>2</sup>) product function was applied to data in <xref ref-type="table" rid="molecules-10-00457-t002">Table 2</xref> and separated linear functions are obtained -as seen in <xref ref-type="fig" rid="molecules-10-00457-f003">Figure 3</xref>d -for select and nonselect solvents (polychloroalkanes and aromatics). In this case the frequency of carbonyl band shows a stronger correlation to the same 13 aprotic select solvents for <italic>K</italic> (<italic>&#x3B5;</italic>), <italic>&#x3B8;</italic> (<italic>&#x3B5;</italic>) and <italic>K</italic> (<italic>&#x3B5;</italic>)<italic>L</italic>(<italic>n</italic><sup>2</sup>). The relationship is 
+	  <disp-formula id="molecules-10-00457-i010"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i010.tif"/><label>(10)</label></disp-formula>
+	  with a standard deviation of 0.79 cm<sup>-1</sup> and correlation coefficient of 0.98. This correlation was better than those obtained with all <italic>f</italic> (<italic>&#x3B5;</italic>) and <italic>f</italic> (<italic>&#x3B5;</italic>, <italic>n</italic><sup>2</sup>) terms contained in <xref ref-type="table" rid="molecules-10-00457-t001">Table 1</xref>, thus demonstrating its predominant influence on solvent-induced IR carbonyl band shift in acetylferrocene. This has important consequences because both polarity and polarizability depend on the intermolecular distances and under dielectric saturation situation these distances are affected. Then, the results allow suggest that the spatial distribution of the solvent dipoles is inhomogeneous in the vicinity of solute (acetylferrocene) and it is induced by a coupled effect of saturation of the orientational and distortional polarization [<xref ref-type="bibr" rid="B54-molecules-10-00457">54</xref>,<xref ref-type="bibr" rid="B61-molecules-10-00457">61</xref>].</p>
+	  <p>Still, as observed in other cases, the polychloroalkanes and aromatics solvents are linearly displaced downward from this sequence and the corresponding regression is (eq. 11)
+	  <disp-formula id="molecules-10-00457-i011"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i011.tif"/><label>(11)</label></disp-formula></p>
+      <p>This behavior for the aromatics, &#x201C;pseudoaromatics&#x201D; and polychloroalkanes with respect to dipolarity-polarizability continuum models has been reported before and are consistent with solute-solvent interactions having higher electronic polarizabilities or quadrupole moments than expected from these dielectric models [<xref ref-type="bibr" rid="B1-molecules-10-00457">1</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B25-molecules-10-00457">25</xref>,<xref ref-type="bibr" rid="B56-molecules-10-00457">56</xref>,<xref ref-type="bibr" rid="B59-molecules-10-00457">59</xref>,<xref ref-type="bibr" rid="B62-molecules-10-00457">62</xref>].</p>
+      <p>However, a reasonably good correlation that include 19 solvents (see eq. 12) is obtained if a polarizability correction term is considered empirically for these solvents within of  the  London-Onsager function <italic>L</italic>(<italic>n</italic><sup>2</sup>) from a constant contribution of the polarizability-hyperpolarizability effect to the distortional component, as was reported for polarizables nonselect solvents [<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00457">9</xref>,<xref ref-type="bibr" rid="B63-molecules-10-00457">63</xref>]. This approximation is very reasonable since the polarizability-hyperpolarizability contribution was as much as 50% correction in polychloroalkanes and 30% for aromatic solvents to the components in the reaction field functions in solvatochromic effects studies [<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00457">9</xref>]. For the 24 solvents in this study, the mean <italic>L</italic>(<italic>n</italic><sup>2</sup>)  of 0.212 was taken as polarizability-hyperpolarizability correction term as proposed by Kolling, and the London-Onsager function becomes <italic>L</italic> *(<italic>n</italic><sup>2</sup>) = <italic>L</italic>(<italic>n</italic><sup>2</sup>) + 0.212 for aromatic, pseudoaromatic and polychloroalkane solvents [<xref ref-type="bibr" rid="B27-molecules-10-00457">27</xref>]. With these alternative values for cross-term function a new trend is obtained [<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>].<disp-formula id="molecules-10-00457-i012"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i012.tif"/><label>(12)</label></disp-formula>
+	  Again the solents nitrobenzene, CHCl<sub>3</sub>, CH<sub>2</sub>Cl<sub>2</sub>, pyridine and C<sub>2</sub>Cl<sub>4</sub> showed anomalous behavior and data points for these solvents are outliers for the regression in equation 12. These deviations can possibly be due at operative additional contributions stabilizing and non-stabilizing from Lewis acid-base properties, mesomeric effect (nitrobenzene) and hydrogen bond donor acidity that can becomes to make an important reaction field effect for these cases. However, expressions for this influence are still unknown considering that in the continuum models the solvent is represented as an isotropic medium with electric permittivity <italic>&#x3B5;</italic>. This magnitude is affected by both long-range effects of dipole-dipole correlations and short-range effects of local molecular ordering which are affected too by factors such as molecular non-sphericity and solvent association [<xref ref-type="bibr" rid="B25-molecules-10-00457">25</xref>]. Although, these continuum models are adequate for carbonyl organic molecules and benzonitrile [<xref ref-type="bibr" rid="B1-molecules-10-00457">1</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B27-molecules-10-00457">27</xref>,<xref ref-type="bibr" rid="B29-molecules-10-00457">29</xref>] and other organic compounds [<xref ref-type="bibr" rid="B64-molecules-10-00457">64</xref>,<xref ref-type="bibr" rid="B65-molecules-10-00457">65</xref>,<xref ref-type="bibr" rid="B66-molecules-10-00457">66</xref>,<xref ref-type="bibr" rid="B67-molecules-10-00457">67</xref>], it is very difficult to accept that only with this parameter can be represented the polarity of solvent in complex molecular systems where short-range specific interactions are operative [<xref ref-type="bibr" rid="B68-molecules-10-00457">68</xref>,<xref ref-type="bibr" rid="B69-molecules-10-00457">69</xref>] and nevertheless, when coupling of dipolarity-polarizability-hyperpolarizability of solvent is operative too under dielectric saturation effect promoted by interaction with the massive distribution of charge of organometallic solute(acetyl ferrocene). In this same direction, our results demonstrate that these homogeneous models  are not appropriate to describe the dipolar interactions of acetylferrocene in select solvents and, in consequence, the solvent-induced shift of the carbonyl band.</p>
+      <fig id="molecules-10-00457-f004" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p>Plot of the frequency of the C=O stretching band for acetylferrocene versus the dipolarity-polarizability parameter of solvents ( <italic>&#x3C0;</italic> *). Solvent family designations are as follows: aprotic nonpolar, dipolar, and highly dipolar (select solvents) (&#x25CF;); polychloroalkanes (&#x25BA;), aromatics (&#x25A1;) and pyridine (&#x25CA;).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-g004.tif"/>
+      </fig>
+      <p>Nevertheless, the idea of different variables for reaction field to describe the influence of solvent upon the frequency of carbonyl band of acetylferrocene, 2-butanone and ethyl acetate was confirmed as follows: equation 4 was proposed for acetylferrocene and 2-butanone [<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>], tetramethylurea [<xref ref-type="bibr" rid="B29-molecules-10-00457">29</xref>] or ethyl acetate [<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>] assuming dependence only on <italic>&#x3B8;</italic> (<italic>&#x3B5;</italic>)<italic>L</italic>(<italic>n</italic><sup>2</sup>) in each case, the  relationships obtained from combination of these equations were probed with the data of <xref ref-type="table" rid="molecules-10-00457-t002">Table 2</xref> and data of reference 29, a completely scattered distribution of points was observed in all case (correlation coefficients lower than 0.89). <disp-formula id="molecules-10-00457-i013"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i013.tif"/><label>(13)</label></disp-formula>
+	  <disp-formula id="molecules-10-00457-i014"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i014.tif"/><label>(14)</label></disp-formula>
+	  <disp-formula id="molecules-10-00457-i015"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i015.tif"/><label>(15)</label></disp-formula>
+	  Clearly, this result demonstrates the significant differences observed between these carbonyl groups in organic molecules and the organometallic system. In consequence, the origin of scattering of data observed in equations 5 and 6 is clear.</p> 
+	  <p>On the other hand, the empirical <italic>&#x3C0;</italic> * scale of dipolarity-polarizability of solvent, which provides a qualitative measure of the non-specific part of van der Waals interactions, and  is  based  on  the treatment of the solvatochromic shifts of select electronic absorption bands of a variety of molecular probes which have been related to dielectric functions of <italic>n</italic>  and <italic>&#x3B5;</italic> [<xref ref-type="bibr" rid="B53-molecules-10-00457">53</xref>]. And now, when this parameter was related to carbonyl band shift of acetylferrocene a quite satisfactory correlation was observed between <inline-formula>
+        <mml:math id="mm17" display="block">
+	<mml:semantics>
+	<mml:msub>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+  <mml:mtext>exp</mml:mtext>
+	</mml:msub>
+ </mml:semantics>
+</mml:math>
+</inline-formula> and <italic>&#x3C0;</italic> * for 17 solvents from <xref ref-type="table" rid="molecules-10-00457-t002">Table 2</xref> (see <xref ref-type="fig" rid="molecules-10-00457-f004">Figure 4</xref> and eq. 16).</p>
+      <fig id="molecules-10-00457-f005" position="float">
+        <label>Figure 5</label>
+        <caption>
+          <p>Trends of the frequency of carbonyl band of acetylferrocene with the density cohesive energy density (<italic>&#x3B4;</italic><sup>2</sup>). Solvent family designations are as follows: aprotic nonpolar, dipolar, and highly dipolar solvents (&#x25CF;); polychloroalkanes (&#x25BA;), aromatics (&#x25A1;), pyridine (&#x25CA;) and alkanes (&#x25A0;).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-g005.tif"/>
+      </fig>
+      <p>This empirical finding has confirmed the prominent influence of dispersion, induction and dipole-dipole components of van der Waals interactions arising from the solvent  upon  the  fundamental carbonyl vibrational band shift of acetylferrocene.</p>
+	  <disp-formula id="molecules-10-00457-i016"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i016.tif"/><label>(16)</label></disp-formula>
+      <p>As proposed by Fowkes [<xref ref-type="bibr" rid="B70-molecules-10-00457">70</xref>,<xref ref-type="bibr" rid="B71-molecules-10-00457">71</xref>] and Kolling [<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>] the magnitude of these forces can be computed empirically from the  surface tension <italic>&#x3B3;</italic> and the cohesive energy density <italic>&#x3B4;</italic><sup>2</sup> parameters of solvent. When graphic comparisons were made between the frequency data of acetylferrocene (<xref ref-type="table" rid="molecules-10-00457-t002">Table 2</xref>) and both parameters <italic>&#x3B3;</italic> and <italic>&#x3B4;</italic><sup>2</sup>, taken from the literature [<xref ref-type="bibr" rid="B72-molecules-10-00457">72</xref>] the trend in <inline-formula>
+        <mml:math id="mm18" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula>(<italic>C</italic> = <italic>O</italic>) vs <italic>&#x3B3;</italic> is vague at best for the total data set (scatter diagram is not included herein). On the other hand, the pattern exhibited by the plot of <inline-formula>
+        <mml:math id="mm19" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula>(<italic>C</italic> = <italic>O</italic>) versus <italic>&#x3B4;</italic><sup>2</sup> given in <xref ref-type="fig" rid="molecules-10-00457-f005">Figure 5</xref> is similar to reported before for ethyl acetate [<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>] and the family trends of solvents become obvious. However, the corresponding wavenumber function based on the acetylferrocene data for main sequence that included 15 solvents is shown by eq. 17. 
+<disp-formula id="molecules-10-00457-i017"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00457-i017.tif"/><label>(17)</label></disp-formula></p>
+      <p>Interestingly in this correlation the intercept <inline-formula>
+        <mml:math id="mm30" display="block">
+	<mml:semantics>
+	<mml:msub>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+  <mml:mtext>exp</mml:mtext>
+	</mml:msub>
+ </mml:semantics>
+</mml:math>
+</inline-formula> and correlation coefficient values coincide with those obtained in the correlation of frequency of band with Brady-Carr-Kolling coupled function (eq. 12). Despite this fact alkanes, chloroalkanes and pyridine solvents are outlying of this regression. This has reinforced the result found early with <italic>&#x3C0;</italic> * parameter dipolarity-polarizability (eq. 16).</p>
+      <p>A new interpretation can be given to these results; in this case the van der Waals forces (London dispersion forces, Keesom dipole-dipole interactions and Debye interactions) have a important contribution on the IR carbonyl band shift in acetylferrocene. This is a consequence of the fact that the acetylferrocene molecule has a highly asymmetric charge distribution due to the strongly multipolar ferrocenyl moiety [<xref ref-type="bibr" rid="B73-molecules-10-00457">73</xref>], whose electrostatic interactions with solvent molecules generate a potential energy that can promote possibly inhomogeneities in the distribution of dipolar molecules of solvent (dielectric saturation) as suggested by results observed in this work for the frequency dependence of carbonyl band of acetylferrocene with the dielectrically saturated Brady-Carr-Kolling cross function <italic>&#x3B8;</italic> (<italic>&#x3B5;</italic>)<italic>L</italic>(<italic>n</italic><sup>2</sup>). Equally, in some polar solvents - nitrobenzene for example - the presence of these interactions were revealed also by hard changes induced in the vibrational bandshape (band asymmetry), therefore studies about this influence on bandshape parameters of the carbonyl band of acetylferrocene in IR and Raman spectroscopy are in progress in our group. It is clear that the continuum models proposed by Kolling, Buckingham or Bekarek are adequate to interpret spectroscopic results of carbonyl organic compounds (ethyl acetate, 2-butanone and tetramethyl urea) in aprotic solvent but, in contrast, for acetylferrocene a non-continuum model, not previously described, is required to interpret the IR data. It should be noted that there are more elaborate models to explain shifts of vibrational bands in terms of dipole-dipole, dipole-quadrupole, and dispersion contributions [<xref ref-type="bibr" rid="B67-molecules-10-00457">67</xref>,<xref ref-type="bibr" rid="B68-molecules-10-00457">68</xref>,<xref ref-type="bibr" rid="B69-molecules-10-00457">69</xref>]. However, using a simple model, but a high predictive power, we have been able to interpret the solvent-induced shifts in this complex organometallic system. It is clear that an implementation of these more elaborate models [<xref ref-type="bibr" rid="B67-molecules-10-00457">67</xref>,<xref ref-type="bibr" rid="B69-molecules-10-00457">69</xref>] should give more detailed information about the effects of these non-specific forces on vibrational properties of large organometallic molecules, but their implementation is currently very complicated. And then, the methodology proposed by Kolling is very attractive, but it is very important to say that this and other models based on a continuum dielectric do not consider changes in dipole moment upon excitation and the molecular geometry of the solute induced by solvent that can to be a very important influence as proposed by Rivail <italic>et al.</italic> [<xref ref-type="bibr" rid="B74-molecules-10-00457">74</xref>,<xref ref-type="bibr" rid="B75-molecules-10-00457">75</xref>] for formaldehyde and other small organic carbonyl compounds. This kind of studies at the <italic>ab initio</italic> level to consider solvent effects for acetylferrocene - a big organometallic molecule - are actually a challenge for computational chemistry due to the high computational demands.</p>
+      <p>Another disadvantage is the consideration of a spherical cavity in asymmetric molecules where the cavity shape is an inexact parameter in solvatochromic models. However, random molecular movements in most cases give a more or less spherical cavity even when the molecules are not spherical. This is possibly the reason why good results have been obtained with spherical models [<xref ref-type="bibr" rid="B76-molecules-10-00457">76</xref>].</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Solvent effects upon the vibrational mode of the carbonyl group in acetylferrocene can be rationalized in terms of the solvent reaction field generalized perturbation model (SCRF-MO) proposed earlier by Kolling. For all the dielectric functions tested as fundamental components in this model, there is evidence that only solvent dipolarity as described by the Block-Walker  dielectric saturation model coupled to solvent polarizability-hyperpolarizability (London-Onsager function) is responsible for the carbonyl band shift, which is consistent with the existence of an inhomogeneous environment closed to the solute cavity. Thus, the results suggest that this inhomogeneity is induced by strong  solute-solvent  interactions  and  then,  the  van  der  Waals  contributions  to  the  IR  shifts  of acetylferrocene are significant. The carbonyl group in acetylferrocene is perturbed of a distinct manner for dielectric nature of solvent that in carbonyl organic compounds ethyl acetate, 2-butanone and tetramethylurea.</p>
+    </sec>
+    <sec>
+      <title>Experimental</title>
+      <p>Acetylferrocene (99.5%) was purchased from Strem and was used without further purification. The solvents acetonitrile, THF, 1,4-dioxane, toluene, benzene, DMSO, cyclohexane and CCl<sub>4</sub> (HPLC grade) were purchased from Aldrich, Fluka and Merck. Other organic solvents were rigorously dried and fractionally distilled by standard methods and stored over molecular sieves prior to use as summarized by Riddick <italic>et al</italic>. [<xref ref-type="bibr" rid="B77-molecules-10-00457">77</xref>]. Purity of the final products was monitored by gas chromatography, and measurements of refractive index and density at 298.15 K [<xref ref-type="bibr" rid="B4-molecules-10-00457">4</xref>,<xref ref-type="bibr" rid="B77-molecules-10-00457">77</xref>,<xref ref-type="bibr" rid="B78-molecules-10-00457">78</xref>]. The water content was generally less than 0.007%. Solutions of acetylferrocene with a concentration  of  1.0&#xB7;10<sup>-2</sup> M were prepared under a dry nitrogen atmosphere, to minimize the effect of solute-solute and solute-solvent interactions [<xref ref-type="bibr" rid="B79-molecules-10-00457">79</xref>]. The solvents used in this work were limited to those classified as &#x201C;select&#x201D; by Abboud <italic>et al.</italic> [<xref ref-type="bibr" rid="B80-molecules-10-00457">80</xref>] and Kolling [<xref ref-type="bibr" rid="B3-molecules-10-00457">3</xref>], although, some polychloroalkanes and aromatics were also considered. In consequence, in this work the more general physicochemical classification proposed by Chastrette <italic>et al.</italic> [<xref ref-type="bibr" rid="B81-molecules-10-00457">81</xref>] has been used (see <xref ref-type="table" rid="molecules-10-00457-t002">Table 2</xref>).</p> 
+	  <p>Five replicate spectra for each solvent solution were measured as recorded on a Shimadzu FTIR-8300 spectrometer, with a high sensitivity pyroelectric detector (DLATGS) at a nominal resolution of 1.0 cm<sup>-1</sup>. Calibration of the frequency reading was made with polystyrene film (Shimadzu Co.) and a precision for peaks frequency data around 0.5 cm<sup>-1</sup> was obtained, such as has been reported in other studies [<xref ref-type="bibr" rid="B10-molecules-10-00457">10</xref>]. All experiments were performed at a constant temperature of 298 K. A triangular apodization function was used in all cases. The absorbance spectra of solutions were measured in KBr cells with fixed path lengths between 15 and 25 &#x3BC;m, as determined by fringe patterns of empty cells by HYPER-IR software (Shimadzu Corporation). The analyzed spectra were obtained by subtracting the spectrum of pure solvent from the solution containing acetylferrocene following the &#xA0;procedure reported in the literature [<xref ref-type="bibr" rid="B10-molecules-10-00457">10</xref>].In this work, the infrared carbonyl band shape of acetylferrocene has been determined as described by Hernanz [<xref ref-type="bibr" rid="B79-molecules-10-00457">79</xref>]. The position of the carbonyl peak of acetylferrocene in each solvent was determined using the Peak Fit module in the HYPER-IR software (Shimadzu Corporation).</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00457">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolling</surname>
+              <given-names>O.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Aprotic solvent effects upon the fundamental vibrational peak of the nitrile group in benzonitrile</article-title>
+          <source>Appl. Spectrosc.</source>
+          <year>2000</year>
+          <volume>54</volume>
+          <fpage>890</fpage>
+          <lpage>893</lpage>
+          <pub-id pub-id-type="doi">10.1366/0003702001950274</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00457">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abboud</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Thaft</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>An interpretation of a general scale of solvent polarities. A simplified reaction field theory modification</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1979</year>
+          <volume>83</volume>
+          <fpage>412</fpage>
+          <lpage>419</lpage>
+          <pub-id pub-id-type="doi">10.1021/j100466a022</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00457">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolling</surname>
+              <given-names>O.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>FTIR study of the solvent influence on the carbonyl absorption peak of ethyl acetate</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1992</year>
+          <volume>96</volume>
+          <fpage>6217</fpage>
+          <lpage>6220</lpage>
+          <pub-id pub-id-type="doi">10.1021/j100194a025</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00457">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolling</surname>
+              <given-names>O.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reaction field model for the solvent influence upon the fundamental carbonyl vibrational peak of 2-butanone in aprotic media</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1996</year>
+          <volume>100</volume>
+          <fpage>16087</fpage>
+          <lpage>16091</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp9617682</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00457">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ben-Amotz</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>List</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent  and  pressure-induced perturbations of the vibrational potential surface of acetonitrile</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>1992</year>
+          <volume>96</volume>
+          <fpage>8781</fpage>
+          <lpage>8792</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.462285</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00457">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meredith</surname>
+              <given-names>G.R.</given-names>
+            </name>
+            <name>
+              <surname>Buchalter</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent dependence of apparent third-order hyperpolarizability in paranitroaniline</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>1983</year>
+          <volume>78</volume>
+          <fpage>1938</fpage>
+          <lpage>1945</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.444940</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00457">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lawrentz</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Grahn</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Lukaszuk</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Klein</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Wortmann</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Feldner</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Scherer</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Donor-acceptor oligoenes with a locked all-trans conformation: Synthesis and linear and nonlinear optical properties</article-title>
+          <source>Chem. Eur. J.</source>
+          <year>2002</year>
+          <volume>8</volume>
+          <fpage>1573</fpage>
+          <lpage>1590</lpage>
+          <pub-id pub-id-type="doi">10.1002/1521-3765(20020402)8:7&lt;1573::AID-CHEM1573&gt;3.0.CO;2-T</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00457">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burnham</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Alms</surname>
+              <given-names>G.R.</given-names>
+            </name>
+            <name>
+              <surname>Flygare</surname>
+              <given-names>W.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>The local electric field. I. The effect on isotropic and anisotropic Rayleigh scattering</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>1975</year>
+          <volume>62</volume>
+          <fpage>3289</fpage>
+          <lpage>3297</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.430883</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00457">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brady</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Carr</surname>
+              <given-names>P.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>An analysis of dielectric models of solvatochromism</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1985</year>
+          <volume>89</volume>
+          <fpage>5759</fpage>
+          <lpage>5766</lpage>
+          <pub-id pub-id-type="doi">10.1021/j100272a037</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00457">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cha</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kloss</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tikanen</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Fawcett</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent-induced frequency shifts in the infrared spectrum of acetone in organic solvents</article-title>
+          <source>Phys. Chem. Chem. Phys.</source>
+          <year>1999</year>
+          <volume>1</volume>
+          <fpage>4785</fpage>
+          <lpage>4790</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00457">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fawcett</surname>
+              <given-names>W.R.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kessler</surname>
+              <given-names>T.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent-induced frequency shifts in the infrared spectrum of acetonitrile in organic solvents</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1993</year>
+          <volume>97</volume>
+          <fpage>9293</fpage>
+          <lpage>9298</lpage>
+          <pub-id pub-id-type="doi">10.1021/j100139a007</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00457">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Capelli</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Tomasi</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent effects on vibrational modes: ab initio calculations, scaling and solvent functions with applications to the carbonyl stretch of dialkyl ketones</article-title>
+          <source>J. Mol. Struct. (THEOCHEM)</source>
+          <year>2001</year>
+          <volume>544</volume>
+          <fpage>2027</fpage>
+          <lpage>2094</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0166-1280(01)00390-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00457">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reichardt</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvatochromic dyes as solvent polarity indicators</article-title>
+          <source>Chem. Rev.</source>
+          <year>1994</year>
+          <volume>94</volume>
+          <fpage>2319</fpage>
+          <lpage>2358</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr00032a005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00457">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reimers</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>The solvation of acetonitrile</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1999</year>
+          <volume>121</volume>
+          <fpage>3730</fpage>
+          <lpage>3744</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja983878n</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00457">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Picquart</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lef&#xE9;vre</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Lacrampe</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvation of lauric acid studied by vibrational spectroscopies</article-title>
+          <source>Appl. Spectrosc.</source>
+          <year>1995</year>
+          <volume>49</volume>
+          <fpage>1268</fpage>
+          <lpage>1274</lpage>
+          <pub-id pub-id-type="doi">10.1366/0003702953965353</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00457">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Luo</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Norman</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Agren</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Onsager reaction field description of optical properties  of octupolar molecules in solution</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1998</year>
+          <volume>120</volume>
+          <fpage>11188</fpage>
+          <lpage>11189</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja981601h</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00457">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Munn</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Mac&#xE1;k</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>&#xC5;gren</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of the cavity field in nonlinear optical response in the condensed phase</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>2000</year>
+          <volume>114</volume>
+          <fpage>3105</fpage>
+          <lpage>3108</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.1343082</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00457">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bruni</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Cariati</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Cariati</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Porta</surname>
+              <given-names>F.A.</given-names>
+            </name>
+            <name>
+              <surname>Quici</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Roberto</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determination  of  the quadratic hyperpolarizability of trans-4-[4-(dimethylamino)styryl]pyridine and 5-dimethylamino-1,10-phenanthroline from solvatochromism of absorption and fluorescence spectra: a comparison with the electric-field-induced second-harmonic  generation technique</article-title>
+          <source>Spectrochim. Acta A</source>
+          <year>2001</year>
+          <volume>57</volume>
+          <fpage>1417</fpage>
+          <lpage>1426</lpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00457">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paley</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Looser</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Baumert</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Bjorklund</surname>
+              <given-names>G.C.</given-names>
+            </name>
+            <name>
+              <surname>Jundt</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Twieg</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>A solvatochromic method for determining second-order  polarizabilities  of  organic  molecules</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1989</year>
+          <volume>54</volume>
+          <fpage>3774</fpage>
+          <lpage>3778</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00277a007</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00457">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bosshard</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kn&#xF6;pfle</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Pr&#xEA;tre</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;nter</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Second-order polarizabilities of nitropyridine derivatives determined with electric-field-induced second-harmonic generation and a solvatochromic method:  A comparative study</article-title>
+          <source>J. Appl. Phys.</source>
+          <year>1992</year>
+          <volume>71</volume>
+          <fpage>1594</fpage>
+          <lpage>1605</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.351237</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00457">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alvarado</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Cubill&#xE1;n</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Labarca</surname>
+              <given-names>P.H.</given-names>
+            </name>
+            <name>
+              <surname>Karam</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Arrieta</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Castellano</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Sosc&#xFA;n</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Static and dynamic dipole polarizabilities of 2-and 3-methylthiophenes in solution: Experimental and theoretical determination</article-title>
+          <source>J. Phys. Org.  Chem.</source>
+          <year>2002</year>
+          <volume>15</volume>
+          <fpage>154</fpage>
+          <lpage>164</lpage>
+          <pub-id pub-id-type="doi">10.1002/poc.457</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00457">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alvarado</surname>
+              <given-names>Y.J.</given-names>
+            </name>
+            <name>
+              <surname>H. Labarca</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Cubill&#xE1;n</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Osorio</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Karam</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent effect  on  the electronic polarizability of benzonitrile</article-title>
+          <source>Z. Naturforsch</source>
+          <year>2003</year>
+          <volume>58a</volume>
+          <fpage>68</fpage>
+          <lpage>74</lpage>
+          <pub-id pub-id-type="doi">10.1515/zna-2003-0111</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00457">
+        <label>23.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suppan</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Ghoneim</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>Solvatochromism</source>
+          <publisher-name>The Royal Society of Chemistry</publisher-name>
+          <publisher-loc>Cambridge, U.K.</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00457">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tomasi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Persico</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular interactions in solution: An overview of methods based on continuous distributions of the solvent</article-title>
+          <source>Chem. Rev.</source>
+          <year>1994</year>
+          <volume>94</volume>
+          <fpage>2027</fpage>
+          <lpage>2094</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr00031a013</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00457">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Milischuk</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Matsyushov</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>On the validity of dielectric continuum models in application to solvation in molecular solvents</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>2003</year>
+          <volume>118</volume>
+          <fpage>1859</fpage>
+          <lpage>1862</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.1531590</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00457">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wortmann</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bishop</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effective polarizabilities and local field  corrections  for  nonlinear optical experiments in condensed media</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>1998</year>
+          <volume>108</volume>
+          <fpage>1001</fpage>
+          <lpage>1007</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.475462</pub-id>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00457">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolling</surname>
+              <given-names>O.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polarizability-hyperpolarizability influences upon solvatochromism in polychloroalkane and polychloroalkene media</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1996</year>
+          <volume>100</volume>
+          <fpage>519</fpage>
+          <lpage>522</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp951899n</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00457">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abboud</surname>
+              <given-names>J.-L.</given-names>
+            </name>
+            <name>
+              <surname>Notario</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Critical compilation of scales of solvent parameters. Part I. Pure, non-hydrogen bond donor solvents</article-title>
+          <source>Pure Appl. Chem.</source>
+          <year>1999</year>
+          <volume>71</volume>
+          <fpage>645</fpage>
+          <lpage>718</lpage>
+          <pub-id pub-id-type="doi">10.1351/pac199971040645</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00457">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolling</surname>
+              <given-names>O.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Re-examination of the effect of aprotic solvents upon the fundamental vibrational peak of the carbonyl group in 1,1,3,3-tetramethylurea</article-title>
+          <source>Appl. Spectrosc.</source>
+          <year>1999</year>
+          <volume>53</volume>
+          <fpage>29</fpage>
+          <lpage>34</lpage>
+          <pub-id pub-id-type="doi">10.1366/0003702991945416</pub-id>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00457">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>T.Y.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y.J.</given-names>
+            </name>
+            <name>
+              <surname>Tai</surname>
+              <given-names>C.C.</given-names>
+            </name>
+            <name>
+              <surname>Kwan</surname>
+              <given-names>K.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent-dependent studies of intervalence transfer of mixed-valence complexes containing ferrocenylpyridine and rutheniumammines</article-title>
+          <source>Inorg. Chem.</source>
+          <year>1999</year>
+          <volume>38</volume>
+          <fpage>674</fpage>
+          <lpage>679</lpage>
+          <pub-id pub-id-type="doi">10.1021/ic9713341</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00457">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abraham</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Benjelloun-Dakhama</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Gola</surname>
+              <given-names>J.M.R.</given-names>
+            </name>
+            <name>
+              <surname>Acree</surname>
+              <given-names>W.E.</given-names>
+            </name>
+            <name>
+              <surname>Cain</surname>
+              <given-names>W.S.</given-names>
+            </name>
+            <name>
+              <surname>Cometto-Mu&#xF1;iz</surname>
+              <given-names>J.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvation descriptors for ferrocene, and the estimation of some physicochemical and biochemical properties</article-title>
+          <source>New J. Chem.</source>
+          <year>2000</year>
+          <volume>24</volume>
+          <fpage>825</fpage>
+          <lpage>829</lpage>
+          <pub-id pub-id-type="doi">10.1039/b004291i</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00457">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fabinskii</surname>
+              <given-names>P.V.</given-names>
+            </name>
+            <name>
+              <surname>Tverdokhlebov</surname>
+              <given-names>V.P.</given-names>
+            </name>
+            <name>
+              <surname>Dmitrenko</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Fedorov</surname>
+              <given-names>V.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvation of ferrocene and dimethylferrocenylcarbinol in mixtures of water</article-title>
+          <source>Russ. J. Phys. Chem.</source>
+          <year>1999</year>
+          <volume>73</volume>
+          <fpage>1413</fpage>
+          <lpage>1416</lpage>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-00457">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kassab</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Marzouk</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>El-hashash</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Substituted ferrocenes: Synthesis and correlation of their electronic spectra with structure (LFER)</article-title>
+          <source>J. Serb. Chem. Soc.</source>
+          <year>2002</year>
+          <volume>67</volume>
+          <fpage>593</fpage>
+          <lpage>603</lpage>
+          <pub-id pub-id-type="doi">10.2298/JSC0209593K</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-00457">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Szpakowska</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Naggy</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Application of the competitive preferential solvation theory to coordinative solute-solvent interactions</article-title>
+          <source>J. Chem. Soc., Faraday Trans. 1,</source>
+          <year>1989</year>
+          <volume>85</volume>
+          <fpage>2891</fpage>
+          <lpage>2899</lpage>
+          <pub-id pub-id-type="doi">10.1039/f19898502891</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35-molecules-10-00457">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hudson</surname>
+              <given-names>R.D.A.</given-names>
+            </name>
+            <name>
+              <surname>Asselberghs</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Clays</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Cuffe</surname>
+              <given-names>L.P.</given-names>
+            </name>
+            <name>
+              <surname>Gallagher</surname>
+              <given-names>J.F.</given-names>
+            </name>
+            <name>
+              <surname>Manning</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Persoons</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wostyn</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>The linear and nonlinear optical  properties  of organometallic chromophores derived from ferrocene,  [Fe<sub>2</sub>(&#x3B7;<sup>5</sup>-C<sub>5</sub>H<sub>5</sub>)(CO)<sub>2</sub>(&#x3BC;-CO)(&#x3BC;-C---CH3)]<sup>+</sup>[BF4]<sup>-</sup> and terthienyl spacers. Crystal structure of 2-[(e)-2-ferrocenylethenyl]-5-(2-thienyl)thiophene</article-title>
+          <source>J. Organomet.  Chem.</source>
+          <year>2002</year>
+          <volume>637&#x2013;639</volume>
+          <fpage>435</fpage>
+          <lpage>444</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0022-328X(01)00947-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36-molecules-10-00457">
+        <label>36.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Streiff</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Daniel Edwards</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>McHale</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Investigation of the solvatochromic electronic transitions of [ru(nh<sub>3</sub>)<sub>4</sub>bipyridine]<sup>2+</sup></article-title>
+          <source>Chem. Phys.  Lett.</source>
+          <year>1999</year>
+          <volume>312</volume>
+          <fpage>369</fpage>
+          <lpage>375</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0009-2614(99)00994-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B37-molecules-10-00457">
+        <label>37.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nair</surname>
+              <given-names>R.B.</given-names>
+            </name>
+            <name>
+              <surname>Yeung</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>C.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and solvent-dependent properties of ru(acac)<sub>2</sub>dppz</article-title>
+          <source>Inorg. Chem.</source>
+          <year>1999</year>
+          <volume>38</volume>
+          <fpage>2536</fpage>
+          <lpage>2538</lpage>
+          <pub-id pub-id-type="doi">10.1021/ic981322v</pub-id>
+        </citation>
+      </ref>
+      <ref id="B38-molecules-10-00457">
+        <label>38.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Birge</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Molecular and biomolecular electronics</source>
+          <publisher-name>American Chemical Society</publisher-name>
+          <publisher-loc>Washington, D.C., USA</publisher-loc>
+          <year>1994</year>
+        </citation>
+      </ref>
+      <ref id="B39-molecules-10-00457">
+        <label>39.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel ferrocene-naphtilimide dyads</article-title>
+          <source>J. Chem. Res. (S)</source>
+          <year>1999</year>
+          <fpage>438</fpage>
+          <lpage>439</lpage>
+          <pub-id pub-id-type="doi">10.1039/a901356c</pub-id>
+        </citation>
+      </ref>
+      <ref id="B40-molecules-10-00457">
+        <label>40.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alain</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Fort</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Barzoukas</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Chin-Ti</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Blanchard-Desce</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Marder</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Perry</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The linear and non-linear optical properties of some conjugated ferrocene compounds with potent heterocyclic acceptors</article-title>
+          <source>Inorg. Chim. Acta</source>
+          <year>1996</year>
+          <volume>242</volume>
+          <fpage>43</fpage>
+          <lpage>49</lpage>
+          <pub-id pub-id-type="doi">10.1016/0020-1693(95)04847-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B41-molecules-10-00457">
+        <label>41.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Long</surname>
+              <given-names>N.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Organometallic compounds for nonlinear optics-the search for en-light-enment!</article-title>
+          <source>Angew. Chem. Int. Edit. Eng.</source>
+          <year>1995</year>
+          <volume>34</volume>
+          <fpage>21</fpage>
+          <lpage>38</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.199500211</pub-id>
+        </citation>
+      </ref>
+      <ref id="B42-molecules-10-00457">
+        <label>42.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baghlaf</surname>
+              <given-names>A.O.</given-names>
+            </name>
+            <name>
+              <surname>Banaser</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hashem</surname>
+              <given-names>H.Y.</given-names>
+            </name>
+            <name>
+              <surname>Albrishry</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ishaq</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and spectroscopic studies of complexes containing  the  schiff  base  1-acetylferrocene(thio)semicarbazone</article-title>
+          <source>Transit. Met. Chem.</source>
+          <year>1996</year>
+          <volume>21</volume>
+          <fpage>16</fpage>
+          <lpage>18</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00166005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43-molecules-10-00457">
+        <label>43.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wong</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Frisch</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Wiberg</surname>
+              <given-names>K.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent effects. 1. The mediation of electrostatic effects by solvents</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1991</year>
+          <volume>113</volume>
+          <fpage>4776</fpage>
+          <lpage>4782</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00013a010</pub-id>
+        </citation>
+      </ref>
+      <ref id="B44-molecules-10-00457">
+        <label>44.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Onsager</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electric moments of molecules in liquids</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1936</year>
+          <volume>58</volume>
+          <fpage>1486</fpage>
+          <lpage>1493</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja01299a050</pub-id>
+        </citation>
+      </ref>
+      <ref id="B45-molecules-10-00457">
+        <label>45.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tapia</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Goscinski</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Self-consistent reaction field theory of solvent effects</article-title>
+          <source>Mol. Phys.</source>
+          <year>1975</year>
+          <volume>29</volume>
+          <fpage>1653</fpage>
+          <lpage>1661</lpage>
+          <pub-id pub-id-type="doi">10.1080/00268977500101461</pub-id>
+        </citation>
+      </ref>
+      <ref id="B46-molecules-10-00457">
+        <label>46.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Di Bella</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Marks</surname>
+              <given-names>T.J.</given-names>
+            </name>
+            <name>
+              <surname>Ratner</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Environmental effects on nonlinear optical chromophore performance. calculation of molecular quadratic hyperpolarizabilities in solvating media</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1994</year>
+          <volume>116</volume>
+          <fpage>4440</fpage>
+          <lpage>4445</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00089a035</pub-id>
+        </citation>
+      </ref>
+      <ref id="B47-molecules-10-00457">
+        <label>47.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kirkwood</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>On the theory of strong electrolyte solutions</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>1934</year>
+          <volume>2</volume>
+          <fpage>767</fpage>
+          <lpage>781</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.1749393</pub-id>
+        </citation>
+      </ref>
+      <ref id="B48-molecules-10-00457">
+        <label>48.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Block</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Walker</surname>
+              <given-names>S.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>A modification of the Onsager theory for a dielectric</article-title>
+          <source>Chem. Phys. Lett.</source>
+          <year>1973</year>
+          <volume>19</volume>
+          <fpage>363</fpage>
+          <lpage>364</lpage>
+          <pub-id pub-id-type="doi">10.1016/0009-2614(73)80380-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B49-molecules-10-00457">
+        <label>49.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brady</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Carr</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of a generalized model for the scale of solvent polarity</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>1982</year>
+          <volume>86</volume>
+          <fpage>3053</fpage>
+          <lpage>3058</lpage>
+          <pub-id pub-id-type="doi">10.1021/j100213a001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B50-molecules-10-00457">
+        <label>50.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McRae</surname>
+              <given-names>E.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Theory of solvent effects on molecular electronic spectra. Frequency shifts</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1957</year>
+          <volume>61</volume>
+          <fpage>562</fpage>
+          <lpage>572</lpage>
+          <pub-id pub-id-type="doi">10.1021/j150551a012</pub-id>
+        </citation>
+      </ref>
+      <ref id="B51-molecules-10-00457">
+        <label>51.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marcus</surname>
+              <given-names>R.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>On the theory of oxidation-reduction reactions involving electron transfer. V. Comparison and properties of electrochemical and chemical rate constants</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1963</year>
+          <volume>67</volume>
+          <fpage>853</fpage>
+          <lpage>857</lpage>
+          <pub-id pub-id-type="doi">10.1021/j100798a033</pub-id>
+        </citation>
+      </ref>
+      <ref id="B52-molecules-10-00457">
+        <label>52.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Conway</surname>
+              <given-names>B.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electrolyte solutions:  Solvation and structural aspects</article-title>
+          <source>Annu. Rev. Phys. Chem.</source>
+          <year>1966</year>
+          <volume>17</volume>
+          <fpage>481</fpage>
+          <lpage>490</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.pc.17.100166.002405</pub-id>
+        </citation>
+      </ref>
+      <ref id="B53-molecules-10-00457">
+        <label>53.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bekarek</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Contribution to the interpretation of a general scale of solvent polarities</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1981</year>
+          <volume>85</volume>
+          <fpage>722</fpage>
+          <lpage>723</lpage>
+          <pub-id pub-id-type="doi">10.1021/j150606a023</pub-id>
+        </citation>
+      </ref>
+      <ref id="B54-molecules-10-00457">
+        <label>54.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kono</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ohtsuki</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Abe</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electrostatic free energy of solvation of an arbitrary charge distribution in the block-walker inhomogeneus dielectric</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1996</year>
+          <volume>100</volume>
+          <fpage>9935</fpage>
+          <lpage>9942</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp951759d</pub-id>
+        </citation>
+      </ref>
+      <ref id="B55-molecules-10-00457">
+        <label>55.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laurence</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Nicolet</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Tawfik Dalati</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Abboud</surname>
+              <given-names>J.-L.</given-names>
+            </name>
+            <name>
+              <surname>Notario</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>The empirical treatment of solvent-solute interactions: 15 years of <italic>&#x3C0;</italic> *</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>1994</year>
+          <volume>98</volume>
+          <fpage>5807</fpage>
+          <lpage>5816</lpage>
+          <pub-id pub-id-type="doi">10.1021/j100074a003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B56-molecules-10-00457">
+        <label>56.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rablen</surname>
+              <given-names>P.R.</given-names>
+            </name>
+            <name>
+              <surname>Pearlman</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>D.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent effects on the barrier to C-N bond rotation in N,N-dimethylaminoacrylonitrile: Modeling by reaction field theory and by Monte Carlo simulations</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1999</year>
+          <volume>121</volume>
+          <fpage>227</fpage>
+          <lpage>237</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja9823058</pub-id>
+        </citation>
+      </ref>
+      <ref id="B57-molecules-10-00457">
+        <label>57.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Le F&#xE8;vre</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Radford</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Ritchie</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Stiles</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>The configurations of some weak complexes of benzene</article-title>
+          <source>J. Chem. Soc. B</source>
+          <year>1968</year>
+          <fpage>148</fpage>
+          <lpage>156</lpage>
+          <pub-id pub-id-type="doi">10.1039/j29680000148</pub-id>
+        </citation>
+      </ref>
+      <ref id="B58-molecules-10-00457">
+        <label>58.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Le F&#xE8;vre</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Murthy</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Stiles</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>The stereospecific solvation of non-polar organic solutes in liquid benzene</article-title>
+          <source>Aust. J. Chem.</source>
+          <year>1969</year>
+          <volume>22</volume>
+          <fpage>1421</fpage>
+          <lpage>1426</lpage>
+        </citation>
+      </ref>
+      <ref id="B59-molecules-10-00457">
+        <label>59.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khajehpour</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kauffman</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Emission peak shifts of a dipolar solute dissolved in nondipolar solvents: A quantitative measure of quadrupole-dipole interactions in supercritical CO<sub>2</sub></article-title>
+          <source>J. Phys. Chem. A</source>
+          <year>2000</year>
+          <volume>104</volume>
+          <fpage>9512</fpage>
+          <lpage>9517</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp002266y</pub-id>
+        </citation>
+      </ref>
+      <ref id="B60-molecules-10-00457">
+        <label>60.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reichardt</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Solvent and solvent effects in organic chemistry</source>
+          <publisher-name>VCH</publisher-name>
+          <publisher-loc>Weinheim, Federal Republic of Germany</publisher-loc>
+          <year>1990</year>
+        </citation>
+      </ref>
+      <ref id="B61-molecules-10-00457">
+        <label>61.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ehrenson</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Continuum radial dielectric functions for ion and dipole solution systems</article-title>
+          <source>J. Comput. Chem.</source>
+          <year>1988</year>
+          <volume>10</volume>
+          <fpage>77</fpage>
+          <lpage>93</lpage>
+          <pub-id pub-id-type="doi">10.1002/jcc.540100108</pub-id>
+        </citation>
+      </ref>
+      <ref id="B62-molecules-10-00457">
+        <label>62.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reynolds</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Gardecki</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Frankland</surname>
+              <given-names>S.J.V.</given-names>
+            </name>
+            <name>
+              <surname>Horng</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Maroncelli</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dipole solvation in nondipolar solvents:  Experimental studies of reorganization energies and solvation dynamics</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1996</year>
+          <volume>100</volume>
+          <fpage>10337</fpage>
+          <lpage>10354</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp953110e</pub-id>
+        </citation>
+      </ref>
+      <ref id="B63-molecules-10-00457">
+        <label>63.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kamlet</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Abboud</surname>
+              <given-names>J.L.M.</given-names>
+            </name>
+            <name>
+              <surname>Abraham</surname>
+              <given-names>M.H.</given-names>
+            </name>
+            <name>
+              <surname>Taft</surname>
+              <given-names>R.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Linear solvation energy relationships. 23. A comprehensive collection of the solvatochromic parameters, &#x3C0;*, &#x3B1; , and &#x3B2; and some methods for simplifying the generalized solvatochromic equation</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1983</year>
+          <volume>48</volume>
+          <fpage>2877</fpage>
+          <lpage>2887</lpage>
+        </citation>
+      </ref>
+      <ref id="B64-molecules-10-00457">
+        <label>64.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bek&#xE1;rek</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Mikuleck&#xE1;</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A note on evaluation of solvent shifts in IR spectroscopy</article-title>
+          <source>Collect. Czech. Chem. Commun.</source>
+          <year>1978</year>
+          <volume>43</volume>
+          <fpage>2879</fpage>
+          <lpage>2884</lpage>
+          <pub-id pub-id-type="doi">10.1135/cccc19782879</pub-id>
+        </citation>
+      </ref>
+      <ref id="B65-molecules-10-00457">
+        <label>65.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hor&#xE1;k</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Pl&#xED;va</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies of solute-solvent interactions I. General considerations</article-title>
+          <source>Spectrochim. Acta</source>
+          <year>1965</year>
+          <volume>21</volume>
+          <fpage>911</fpage>
+          <lpage>917</lpage>
+          <pub-id pub-id-type="doi">10.1016/0371-1951(65)80159-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B66-molecules-10-00457">
+        <label>66.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rao</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Senthilnathan</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spectroscopic studies of solute-solvent interactions</article-title>
+          <source>Chem. Soc. Rev.</source>
+          <year>1976</year>
+          <volume>5</volume>
+          <fpage>297</fpage>
+          <lpage>316</lpage>
+          <pub-id pub-id-type="doi">10.1039/cs9760500297</pub-id>
+        </citation>
+      </ref>
+      <ref id="B67-molecules-10-00457">
+        <label>67.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Buckingham</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent effects in vibrational spectroscopy</article-title>
+          <source>Trans. Faraday Soc.</source>
+          <year>1960</year>
+          <volume>56</volume>
+          <fpage>753</fpage>
+          <lpage>760</lpage>
+          <pub-id pub-id-type="doi">10.1039/tf9605600753</pub-id>
+        </citation>
+      </ref>
+      <ref id="B68-molecules-10-00457">
+        <label>68.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schweizer</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Chandler</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Vibrational dephasing and frequency shifts of polyatomic molecules in solution</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>1982</year>
+          <volume>76</volume>
+          <fpage>2296</fpage>
+          <lpage>2314</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.443302</pub-id>
+        </citation>
+      </ref>
+      <ref id="B69-molecules-10-00457">
+        <label>69.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fukuda</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ikawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kimura</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Vibrational relaxation and frequencies of liquid molecules. II. Comparison of theoretical and experimental results</article-title>
+          <source>Chem. Phys.</source>
+          <year>1989</year>
+          <volume>133</volume>
+          <fpage>151</fpage>
+          <lpage>163</lpage>
+          <pub-id pub-id-type="doi">10.1016/0301-0104(89)80107-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B70-molecules-10-00457">
+        <label>70.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fowkes</surname>
+              <given-names>F.M.</given-names>
+            </name>
+            <name>
+              <surname>Tischler</surname>
+              <given-names>D.O.</given-names>
+            </name>
+            <name>
+              <surname>Wolfe</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Lannigan</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>Ademu-John</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Halliwell</surname>
+              <given-names>M.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Acid-base complexes of polymers</article-title>
+          <source>J. Polym. Sci. Polym. Chem. Ed.</source>
+          <year>1984</year>
+          <volume>22</volume>
+          <fpage>547</fpage>
+          <lpage>566</lpage>
+          <pub-id pub-id-type="doi">10.1002/pol.1984.170220304</pub-id>
+        </citation>
+      </ref>
+      <ref id="B71-molecules-10-00457">
+        <label>71.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Riddle</surname>
+              <given-names>F.L.</given-names>
+            </name>
+            <name>
+              <surname>Fowkes</surname>
+              <given-names>F.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spectral shifts in acid-base chemistry. 1. van der Waals contributions to acceptor numbers</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1990</year>
+          <volume>112</volume>
+          <fpage>3259</fpage>
+          <lpage>3264</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00165a001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B72-molecules-10-00457">
+        <label>72.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barton</surname>
+              <given-names>A.F.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solubility parameters</article-title>
+          <source>Chem. Rev.</source>
+          <year>1975</year>
+          <volume>75</volume>
+          <fpage>731</fpage>
+          <lpage>753</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr60298a003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B73-molecules-10-00457">
+        <label>73.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ritchie</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Cooper</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Calvert</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Dennis</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Phillips</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Urbancich</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular quadrupole moments, magnetic anisotropies, and charge distributions of ferrocene and ruthenocene</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1983</year>
+          <volume>105</volume>
+          <fpage>5215</fpage>
+          <lpage>5219</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00354a006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B74-molecules-10-00457">
+        <label>74.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rivail</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Rivaldi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Dillet</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent effects an infrared spectroscopy: A computational approach</article-title>
+          <source>Mol. Phys.</source>
+          <year>1996</year>
+          <volume>89</volume>
+          <fpage>1521</fpage>
+          <lpage>1529</lpage>
+          <pub-id pub-id-type="doi">10.1080/00268979609482555</pub-id>
+        </citation>
+      </ref>
+      <ref id="B75-molecules-10-00457">
+        <label>75.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rivail</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Rivaldi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Dillet</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mod&#xE8;lisation des syst&#xE8;mes complexes. Effets de solvant sur les modes de vibration d&#xB4;un solut&#xE9; au sein d&#xB4;une solution</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>1998</year>
+          <volume>95</volume>
+          <fpage>1818</fpage>
+          <lpage>1830</lpage>
+        </citation>
+      </ref>
+      <ref id="B76-molecules-10-00457">
+        <label>76.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Proutiere</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Megnassan</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Hucteau</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Refractive index and density variations in pure liquids. A new theoretical relation</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1992</year>
+          <volume>96</volume>
+          <fpage>3485</fpage>
+          <lpage>3489</lpage>
+          <pub-id pub-id-type="doi">10.1021/j100187a058</pub-id>
+        </citation>
+      </ref>
+      <ref id="B77-molecules-10-00457">
+        <label>77.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Riddick</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bunger</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Sakano</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Organic Solvents: Physical Properties and Methods of Purification</source>
+          <publisher-name>Wiley-Interscience</publisher-name>
+          <publisher-loc>New York, USA</publisher-loc>
+          <year>1986</year>
+        </citation>
+      </ref>
+      <ref id="B78-molecules-10-00457">
+        <label>78.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laurence</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Nicolet</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Lucon</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Dalati</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electrolyte solutions: Solvation and structural aspects</article-title>
+          <source>J. Chem. Soc., Perkin Trans. 2</source>
+          <year>1989</year>
+          <fpage>873</fpage>
+          <lpage>880</lpage>
+          <pub-id pub-id-type="doi">10.1039/p29890000873</pub-id>
+        </citation>
+      </ref>
+      <ref id="B79-molecules-10-00457">
+        <label>79.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hernanz</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent influence on the <inline-formula>
+        <mml:math id="mm20" display="block">
+	<mml:semantics>
+  <mml:mover accent='true'>
+   <mml:mi>v</mml:mi>
+   <mml:mo>&#x02DC;</mml:mo>
+  </mml:mover>
+ </mml:semantics>
+</mml:math>
+</inline-formula>(<italic>C</italic> = <italic>O</italic>) band shape of ethyl acetate</article-title>
+          <source>J. Mol. Liq.</source>
+          <year>1989</year>
+          <volume>39</volume>
+          <fpage>111</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="doi">10.1016/0167-7322(88)80055-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B80-molecules-10-00457">
+        <label>80.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abboud</surname>
+              <given-names>J.L.M.</given-names>
+            </name>
+            <name>
+              <surname>Guiheneuf</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Essfar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Taft</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>Kamlet</surname>
+              <given-names>M.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Linear solvation energy relationships. 21. Gas-phase data as tools for the study of medium effects</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1984</year>
+          <volume>88</volume>
+          <fpage>4414</fpage>
+          <lpage>4420</lpage>
+          <pub-id pub-id-type="doi">10.1021/j150663a047</pub-id>
+        </citation>
+      </ref>
+      <ref id="B81-molecules-10-00457">
+        <label>81.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chastrette</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rajzmann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Chanon</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Approach to a general classification of solvents using a multivariate statistical treatment of quantitative solvent parameters</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1985</year>
+          <volume>107</volume>
+          <fpage>1</fpage>
+          <lpage>11</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00287a001</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,1143 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10060640</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00640</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis Crystal Structure of a New Triosmium Alkylidyne Carbonyl Cluster Containing a Chiral Ferrocenylphosphine Ligand</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wong</surname>
+            <given-names>Wai-Yeung</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00640" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00640">Department of Chemistry, Hong Kong Baptist University, Waterloo Road, Kowloon Tong, Hong Kong, P.R. China. Tel. (+84) 852-3411-7074, Fax: (+84) 852-3411-7348</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00640"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>rwywong@hkbu.edu.hk</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <fpage>640</fpage>
+      <lpage>648</lpage>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>07</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>03</day>
+          <month>09</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The synthesis, spectroscopic characterization and X-ray crystal structure of a new chiral triosmium alkylidyne carbonyl cluster, (<italic>R</italic>,<italic>S</italic>)-[Os<sub>3</sub>(&#x3BC;-H)<sub>2</sub>(CO)<sub>9</sub>{&#x3BC;<sub>3</sub>-CPPh<sub>2</sub>(&#x3B7;<sup>5</sup>-C<sub>5</sub>H<sub>4</sub>)Fe(&#x3B7;<sup>5</sup>-C<sub>5</sub>H<sub>3</sub>(PPh<sub>2</sub>)CH(Me)NMe<sub>2</sub>)}] (<bold>1</bold>) are described. Compound <bold>1</bold> crystallizes in the non-centrosymmetric space group <italic>P</italic>2<sub>1</sub> and its absolute configuration has been established. The structure consists of an Os<sub>3</sub>C metal core with one of the PPh<sub>2</sub> moieties of the chiral ferrocenylphosphine bonded to the apical alkylidyne carbon atom to give a zwitterionic cluster complex, reminiscent of the phosphorus ylide.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Alkylidyne</kwd>
+		<kwd>Chirality</kwd>
+		<kwd>Ferrocene</kwd>
+		<kwd>Metal Cluster</kwd>
+		<kwd>Osmium</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>A non-centrosymmetric crystal packing of molecules is a prerequisite for second-order non-linear optical (NLO) activity and much attention has been focused on this aspect of molecular structure [<xref ref-type="bibr" rid="B1-molecules-10-00640">1</xref>]. Introduction of a chiral centre ensures that a molecule lacks a centre of symmetry, and this is usually a favorable condition for non-centric crystal structures. In this regard, the production of chiral transition metal clusters is crucial as part of the development of useful organometallic materials, and optically active phosphines containing chiral substituents seem to be promising candidates to promote crystallization in a non-centrosymmetric fashion. The reactivity of optically active diphosphine ligands such as Ph<sub>2</sub>PCH(Me)CH<sub>2</sub>PPh<sub>2</sub> towards metal complexes was investigated in detail [<xref ref-type="bibr" rid="B2-molecules-10-00640">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00640">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00640">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00640">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00640">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00640">7</xref>]. Amongst other chiral phosphines, the chiral metalloligand (<italic>R</italic>,<italic>S</italic>)-bppfa [(<bold>&#x2013;</bold>)-(<italic>R</italic>)-<italic>N</italic>,<italic>N</italic>-dimethyl-1-[(<italic>S</italic>)-1',2-bis(diphenylphosphino)ferrocenyl]ethylamine] or alike has attracted particular attention in this aspect and its tendency to act as a ligand in polynuclear metal complexes has been extensively explored [<xref ref-type="bibr" rid="B8-molecules-10-00640">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00640">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00640">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00640">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00640">12</xref>]. These optically active ferrocenylphosphines are important in the study of modern organometallic chemistry for at least two reasons: (a) the ferrocene unit imparts excellent electron donation to the electron-withdrawing metal cluster core, thus affording a charge-separated species with a large dipole moment in the ground state; (b) enantiomerically pure ferrocenylphosphines have proved to be excellent chiral ligands for various types of transition metal catalysts and the resulting optically active ferrocene derivatives represent particularly suitable chiral reference systems for asymmetrically induced syntheses such as enantioselective alkylation, hydrogenation, hydrosilylation and cross coupling reactions [<xref ref-type="bibr" rid="B13-molecules-10-00640">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00640">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00640">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00640">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00640">17</xref>].</p>
+      <p>Previous work has shown that the species "[Os<sub>3</sub>(&#xB5;-H)<sub>2</sub>(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-C)]" behaves as a good electron sink and is readily trapped by strong nucleophiles [<xref ref-type="bibr" rid="B18-molecules-10-00640">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00640">19</xref>,<xref ref-type="bibr" rid="B20-molecules-10-00640">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00640">21</xref>]. So, the present strategy is to make use of an optically active phosphine complex containing the ferrocenyl group, which may afford new molecules with highly polarizable donor-acceptor properties. Herein, the preparation of a new charge-separated compound derived from the electron-accepting organometallic fragment "[Os<sub>3</sub>(&#xB5;-H)<sub>2</sub>(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-C)]" with the chiral chromophore (<italic>R</italic>,<italic>S</italic>)-[(&#x3B7;<sup>5</sup>-C<sub>5</sub>H<sub>4</sub>)Fe(&#x3B7;<sup>5</sup>-C<sub>5</sub>H<sub>3</sub>(PPh<sub>2</sub>)CH(Me)NMe<sub>2</sub>)] (<italic>R</italic>,<italic>S</italic>-bppfa) as the co-ordinated ligand is described. This covalently linked donor-acceptor complex was fully characterized by spectroscopic and crystallographic methods.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Treatment of [Os<sub>3</sub>(&#xB5;-H)<sub>3</sub>(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-CCl)] with an excess of (<italic>R</italic>,<italic>S</italic>)-bppfa in the presence of a sterically hindered strong base 1,8-diazabicyclo[5.4.0]undec-7-ene (DBU) at room temperature leads to the air-stable chiral complex (<italic>R</italic>,<italic>S</italic>)-[Os<sub>3</sub>(&#xB5;-H)<sub>2</sub>(CO)<sub>9</sub>{&#xB5;<sub>3</sub>-CPPh<sub>2</sub>(&#x3B7;<sub>5</sub>-C<sub>5</sub>H<sub>4</sub>)Fe(&#x3B7;<sub>5</sub>-C<sub>5</sub>H<sub>3</sub>(PPh<sub>2</sub>)-CH(Me)NMe<sub>2</sub>)}] (<bold>1</bold>) in a moderate yield. DBU was used as a deprotonating agent in this reaction. It is believed that the anionic species generated by deprotonation of [Os<sub>3</sub>(&#xB5;-H)<sub>3</sub>(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-CCl)] may dissociate to give a chloride ion and a highly reactive transient species "[Os<sub>3</sub>(&#xB5;-H)<sub>2</sub>(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-C)]" which is then trapped by the phosphine ligand to furnish complex <bold>1</bold> [<xref ref-type="bibr" rid="B21-molecules-10-00640">21</xref>]. The key steps involved are summarized in <xref ref-type="scheme" rid="molecules-10-00640-f002">Scheme 1</xref>.</p>
+      <p>Complex <bold>1</bold> displays a similar &#x3BD;<sub>CO</sub> absorption pattern in its IR spectrum to other clusters of the formulation [Os<sub>3</sub>(&#xB5;-H)<sub>2</sub>(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-CY)] (Y = Lewis base) [<xref ref-type="bibr" rid="B18-molecules-10-00640">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00640">19</xref>,<xref ref-type="bibr" rid="B20-molecules-10-00640">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00640">21</xref>]. Intense molecular ion peak at <italic>m/z</italic> = 1463 is observed in the positive FAB mass spectrum of <bold>1</bold>. The proton resonances in the 1H NMR spectrum due to the organic moieties in <bold>1</bold> are totally consistent with the solid-state structure. It gives a doublet hydride signal at &#x3B4; &#x2212;19.92 due to <sup>31</sup>P&#x2212;<sup>1</sup>H coupling with <sup>3</sup><italic>J</italic><sub>P&#x2212;H</sub> = 2.8 Hz. Nevertheless, no attempt was made to fully assign the signals in the range &#x3B4; 3.44&#x2212;4.69 due to the cyclopentadienyl rings which shows a rather complicated pattern. The <sup>31</sup>P{<sup>1</sup>H}-NMR spectrum of <bold>1</bold> in CD<sub>2</sub>Cl<sub>2</sub> exhibits two singlet signals at &#x3B4; &#x2212;22.44 and 41.86. The corresponding <sup>31</sup>P resonances arising from the free ligand (<italic>R</italic>,<italic>S</italic>)-bppfa under the same experimental conditions appear at &#x3B4; &#x2212;21.62 and &#x2212;15.74. A significant downfield shift of one of the <sup>31</sup>P signals is observed which is caused by the electron-withdrawing nature of the alkylidyne metal core. This downfield resonance is assigned to the phosphorus atom directly coordinated to the apical carbon atom. This is consistent with the phosphorus atom in phosphonium salt. </p>
+	  <fig id="molecules-10-00640-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00640-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00640-g002.tif"/>
+      </fig>
+      <p>In terms of bonding description, complex <bold>1</bold> can be considered to be zwitterionic in nature which creates an overall asymmetric charge distribution. Both spectroscopic (IR) and structural features suggest that the tertiary phosphine molecule adds at the &#xB5;3-carbon atom to give an zwitterionic complex containing a phosphonium centre and a negative charge on the cluster framework (<xref ref-type="scheme" rid="molecules-10-00640-f003">Scheme 2</xref>) [<xref ref-type="bibr" rid="B19-molecules-10-00640">19</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00640">22</xref>]. To count the cluster valence electrons, complex <bold>1</bold> is a 47 electron system which can provide evidence for the electron-withdrawing nature of the Os<sub>3</sub>C core. Basically, such an zwitterionic formulation of the cluster may be viewed as the organometallic analogue of the phosphorus ylide R<sub>3</sub>P=CH<sub>2</sub>, which is a well-known versatile reagent in synthetic organic chemistry (see <xref ref-type="scheme" rid="molecules-10-00640-f004">Scheme 3</xref>) [<xref ref-type="bibr" rid="B23-molecules-10-00640">23</xref>]. It is believed that this system would provide a fertile area of metal-assisted organic reactions of phosphorus ylides and can hence gain a better understanding of some of the complicated reactions in the metal/phosphine/C<sub>1</sub> system. As reported earlier by Vahrenkamp and co-workers, the formation of [Ru<sub>3</sub>(&#xB5;-H)<sub>2</sub>(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-CPPh<sub>3</sub>)] uses up all four hydrogen atoms of methane in the sequence CH<sub>4</sub> &#x2192; CH<sub>3</sub>I &#x2192; CH<sub>2</sub>=PPh<sub>2</sub> &#x2192; [Ru<sub>3</sub>(&#xB5;-H)<sub>2</sub>(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-CPPh<sub>3</sub>)] [<xref ref-type="bibr" rid="B24-molecules-10-00640">24</xref>]. The resulting cluster unit should then be a useful starting point for subsequent organic reaction. This observation has also indirectly been shown during the syntheses of the cluster compounds [Co<sub>2</sub>Fe(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-CCH<sub>2</sub>PPh<sub>3</sub>)] [<xref ref-type="bibr" rid="B25-molecules-10-00640">25</xref>] and [Co<sub>2</sub>Fe(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-CCH<sub>2</sub>CH<sub>2</sub>PPh<sub>3</sub>)] [<xref ref-type="bibr" rid="B26-molecules-10-00640">26</xref>]. The Os<sub>3</sub>C unit in <bold>1</bold> is isoelectronic to the one in [Ru<sub>3</sub>(&#xB5;-H)<sub>2</sub>(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-CPPh<sub>3</sub>)].</p>
+      <fig id="molecules-10-00640-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00640-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00640-g003.tif"/>
+      </fig>
+      <fig id="molecules-10-00640-f004" position="float">
+        <object-id pub-id-type="pii">molecules-10-00640-scheme3_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00640-g004.tif"/>
+      </fig>
+      <p>In order to establish unequivocally the exact nature of the bonding of the ferrocenylphosphine ligand to the cluster unit and the stereochemical arrangement of the chiral complex <bold>1</bold>, an X-ray structure analysis was carried out on a single crystal obtained by slow evaporation of a <italic>n</italic>-hexane/CH<sub>2</sub>Cl<sub>2</sub> solution of <bold>1</bold> at room temperature for 2 days. <xref ref-type="fig" rid="molecules-10-00640-f001">Figure 1</xref> depicts the molecular structure of <bold>1</bold> which includes the atomic numbering scheme used. Relevant bond distances and angles are given in <xref ref-type="table" rid="molecules-10-00640-t001">Table 1</xref>. Complex <bold>1</bold> consists of a triosmium alkylidyne metal core with the chiral ligand (<italic>R</italic>,<italic>S</italic>)-bppfa coordinated directly through the PPh<sub>2</sub> group on the C<sub>5</sub>H<sub>4</sub> ring to the apical carbon atom. The other PPh<sub>2</sub> moiety on the disubstituted cyclopentadienyl ring remains pendant, probably due to steric reasons. Potential energy calculations [<xref ref-type="bibr" rid="B27-molecules-10-00640">27</xref>] suggest that the two hydrides, which clearly show up in the <sup>1</sup>H NMR spectrum, bridge the edges Os(1)&#x2013;Os(2) [2.896(2) &#xC5;] and Os(1)&#x2013;Os(3) [2.892(2) &#xC5;]. The unbridged Os&#x2212;Os bond is shorter at 2.739(2). The mean Os&#x2013;C(alkylidyne) bond distance is 2.08 &#xC5;. There are three terminal carbonyl ligands on each metal vertex. The dihedral angle between the &#x3B7;<sup>5</sup>-C<sub>5</sub>H<sub>4</sub> and &#x3B7;<sup>5</sup>-C<sub>5</sub>H<sub>3</sub> planes in the ferrocene unit is 1.5&#x2DA;, whilst these two fragments deviate from the eclipsed conformation by 7.4&#x2DA;. From the known absolute configuration of the starting ferrocenyl ligand which contains both central and planar elements of chirality (planar chirality due to 1,2-unsymmetrically disubstituted ferrocene structure), the configuration of <bold>1</bold> is determined to be (<italic>R</italic>) at C(21) and (<italic>S</italic>) for the bis(diphenylphosphino)ferrocenyl moiety by X-ray analysis.</p>
+      <fig id="molecules-10-00640-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>The molecular structure of <bold>1</bold> with atomic labeling and thermal ellipsoids are shown at the 30% probability level.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00640-g001.tif"/>
+      </fig>
+      <table-wrap id="molecules-10-00640-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00640-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Selected bond distances (&#xC5;) and angles (&#xB0;) for <bold>1</bold>.</p>
+        </caption>
+        <table rules="cols" style="border:solid thin">
+          <tbody>
+            <tr>
+              <td align="left" valign="middle">Os(1)&#x2212;Os(2)</td>
+              <td align="left" valign="middle" colspan="2">2.896(2)</td>
+              <td align="left" valign="middle">Os(1)&#x2212;Os(3)</td>
+              <td align="left" valign="middle">2.892(2)</td>
+              <td align="left" valign="middle" colspan="2">Os(2)&#x2212;Os(3)</td>
+              <td align="left" valign="middle">2.739(2)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Os(1)&#x2212;C(10)</td>
+              <td align="left" valign="middle" colspan="2">2.11(3)</td>
+              <td align="left" valign="middle">Os(2)&#x2212;C(10)</td>
+              <td align="left" valign="middle">2.04(3)</td>
+              <td align="left" valign="middle" colspan="2">Os(3)&#x2212;C(10)</td>
+              <td align="left" valign="middle">2.09(2)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">P(1)&#x2212;C(10)</td>
+              <td align="left" valign="middle" colspan="2">1.83(2)</td>
+              <td align="left" valign="middle">P(1)&#x2212;C(11)</td>
+              <td align="left" valign="middle">1.80(3)</td>
+              <td align="left" valign="middle" colspan="2">P(1)&#x2212;C(25)</td>
+              <td align="left" valign="middle">1.84(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">P(1)&#x2212;C(31)</td>
+              <td align="left" valign="middle" colspan="2">1.80(3)</td>
+              <td align="left" valign="middle">P(2)&#x2212;C(19)</td>
+              <td align="left" valign="middle">1.81(3)</td>
+              <td align="left" valign="middle" colspan="2">P(2)&#x2212;C(37)</td>
+              <td align="left" valign="middle">1.84(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">P(2)&#x2212;C(43)</td>
+              <td align="left" valign="middle" colspan="2">1.81(3)</td>
+              <td align="left" valign="middle">Fe&#x2212;ring(C<sub>5</sub>H<sub>4</sub>)</td>
+              <td align="left" valign="middle">1.631</td>
+              <td align="left" valign="middle" colspan="2">Fe&#x2212;ring(C<sub>5</sub>H<sub>5</sub>)</td>
+              <td align="left" valign="middle">1.648</td>
+            </tr>
+            <tr style="border-top: solid thin">
+              <td align="left" valign="middle" colspan="8"> </td>
+            </tr>
+            <tr style="border-top: solid thin">
+              <td align="left" valign="middle" colspan="2">Os(2)&#x2212;Os(1)&#x2212;Os(3)</td>
+              <td align="left" valign="middle" colspan="2">56.49(5)</td>
+              <td align="left" valign="middle" colspan="2">Os(1)&#x2212;Os(2)&#x2212;Os(3)</td>
+              <td align="left" valign="middle" colspan="2">61.69(5)</td>
+            </tr>
+            <tr align="left" valign="middle">
+              <td colspan="2">Os(1)&#x2212;Os(3)&#x2212;Os(2)</td>
+              <td colspan="2">61.82(5)</td>
+              <td colspan="2">Os(1)&#x2212;C(10)&#x2212;P(1)</td>
+              <td colspan="2">127(1)</td>
+            </tr>
+            <tr align="left" valign="middle">
+              <td colspan="2">Os(2)&#x2212;C(10)&#x2212;P(1)</td>
+              <td colspan="2">132(1)</td>
+              <td colspan="2">Os(3)&#x2212;C(10)&#x2212;P(1)</td>
+              <td colspan="2">123(1)</td>
+            </tr>
+            <tr align="left" valign="middle">
+              <td colspan="2">C(10)&#x2212;P(1)&#x2212;C(11)</td>
+              <td colspan="2">114(1)</td>
+              <td colspan="2">C(11)&#x2212;P(1)&#x2212;C(25)</td>
+              <td colspan="2">104(1)</td>
+            </tr>
+            <tr align="left" valign="middle">
+              <td colspan="2">C(11)&#x2212;P(1)&#x2212;C(31)</td>
+              <td colspan="2">109(1)</td>
+              <td colspan="2">C(19)&#x2212;P(2)&#x2212;C(37)</td>
+              <td colspan="2">99(1)</td>
+            </tr>
+            <tr align="left" valign="middle">
+              <td colspan="2">C(19)&#x2212;P(2)&#x2212;C(43)</td>
+              <td colspan="2">104(1)</td>
+              <td colspan="2">N(1)&#x2212;C(21)&#x2212;C(18)</td>
+              <td colspan="2">106(2)</td>
+            </tr>
+            <tr align="left" valign="middle">
+              <td colspan="2">N(1)&#x2212;C(21)&#x2212;C(22)</td>
+              <td colspan="2">120(2)</td>
+              <td colspan="2">C(18)&#x2212;C(21)&#x2212;C(22)</td>
+              <td colspan="2">116(3)</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>A new triosmium alkylidyne carbonyl cluster bearing an Os<sub>3</sub>C core covalently appended to a chiral ferrocenylphosphine was prepared and structurally characterized. The isolation of complex 1 does ensure a non-centrosymmetric crystal packing due to crystallization in the non-centric space group <italic>P</italic>2<sub>1</sub> which renders the material potentially useful for second harmonic generation.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>All reagents and chemicals were obtained from Aldrich Chemical Company (USA) and were used as received unless otherwise noted. The compound [Os<sub>3</sub>(&#xB5;-H)<sub>3</sub>(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-CCl)] was prepared by the literature method [<xref ref-type="bibr" rid="B28-molecules-10-00640">28</xref>]. None of the compounds reported are particularly air-sensitive, however, all reactions, unless otherwise stated, were carried out under an atmosphere of dry dinitrogen using standard Schlenk techniques and monitored by solution IR spectroscopy (CO stretching region). Solvents were dried over appropriate reagents according to literature methods and freshly distilled before use [<xref ref-type="bibr" rid="B29-molecules-10-00640">29</xref>]. Thin layer chromatographic plates were purchased from E. Merck, consisting of 20 &#xD7; 20 cm glass plate coated with Merck Kieselgel 60 GF<sub>254</sub> silica gel of 0.25 mm thick, while thick layer chromatographic plates of the same coating were prepared in our laboratory. Column chromatography were performed in the air using silica gel of size 70&#x2212;230 mesh. Infrared spectra were recorded on a Nicolet Magna 550 Series II FTIR spectrometer using CaF<sub>2</sub> solution cells (path length 0.5 mm). The NMR spectra were recorded on a JEOL EX270 FT-NMR spectrometer using deuteriated solvents as lock and reference. Chemical shifts were reported in ppm relative to SiMe<sub>4</sub> for <sup>1</sup>H and <sup>13</sup>C and 85% H<sub>3</sub>PO<sub>4</sub> for <sup>31</sup>P NMR spectra. Fast atom bombardment mass spectra were recorded on a Finnigan MAT 95 instrument using <italic>m</italic>-nitrobenzyl alcohol as the matrix solvent.  </p>
+      </sec>
+      <sec>
+        <title>Synthesis of (R,S)-[Os<sub>3</sub>(&#x3BC;-H)<sub>2</sub>(CO)<sub>9</sub>{&#x3BC;<sub>3</sub>-CPPh<sub>2</sub>(&#x3B7;<sup>5</sup>-C<sub>5</sub>H<sub>4</sub>)Fe(&#x3B7;<sup>5</sup>-C<sub>5</sub>H<sub>3</sub>(PPh<sub>2</sub>)CH(Me)NMe<sub>2</sub>)}] <italic>(<bold>1</bold>)</italic></title>
+        <p>To a solution of [Os<sub>3</sub>(&#xB5;-H)<sub>3</sub>(CO)<sub>9</sub>(&#xB5;<sub>3</sub>-CCl)] (30 mg, 0.03 mmol) and the chiral ferrocenylphosphine ligand (<italic>R,S</italic>)-bppfa (188 mg, 0.30 mmol) in CH<sub>2</sub>Cl<sub>2</sub> (20 mL) was added DBU (1 equivalent) and the mixture was stirred at room temperature for 30 minutes. Following evaporation of the solvent, the residue was chromatographed by TLC using <italic>n</italic>-hexane/acetone (90:10, v/v) to afford a yellow mixture containing the title complex <bold>1</bold> (<italic>R</italic><sub>f</sub> ~ 0.2), as evidenced by IR spectroscopy. Subsequent repurification by TLC using <italic>n</italic>-hexane/acetone (85:15, v/v) led to the isolation of the pure compound <bold>1 </bold>(<italic>R</italic><sub>f</sub> ~ 0.4) in 30% yield (13 mg). <sup>1</sup>H-NMR (CD<sub>2</sub>Cl<sub>2</sub>) &#x3B4;: &#x2212;19.92 (d, 2H, <sup>3</sup><italic>J</italic><sub>H</sub><sub>&#x2212;</sub><sub>P</sub> = 2.8 , Os&#x2212;H&#x2212;Os), 1.08 (d, 3H, <sup>3</sup><italic>J</italic><sub>H</sub><sub>&#x2212;</sub><sub>H</sub> = 6.84, CHC<italic>H</italic><sub>3</sub>), 1.67 (s, 6H, NMe<sub>2</sub>), 3.44&#x2212;4.69 (m, 8H, C<sub>5</sub>H<sub>4</sub> + C<sub>5</sub>H<sub>3</sub> + C<italic>H</italic>CH<sub>3</sub>), 7.06&#x2212;8.10 (m, 20H, C<sub>6</sub>H<sub>5</sub>); <sup>3</sup><sup>1</sup>P-{<sup>1</sup>H} NMR (CD<sub>2</sub>Cl<sub>2</sub>) &#x3B4;: &#x2212;22.44 (uncoordinated PPh<sub>2</sub>), 41.86 (&#x3BC;<sub>3</sub>-CPPh<sub>2</sub>); IR (CH<sub>2</sub>Cl<sub>2</sub>) cm<sup>&#x2212;1</sup>: 2093s, 2055vs, 2024vs, 2015sh, 2001sh, 1979s, 1951m, 1936m; LRMS (FAB) for C<sub>48</sub>H<sub>39</sub>NFeO<sub>9</sub>Os<sub>3</sub>P<sub>2</sub> (M<sup>+</sup>): Calcd 1463. Found 1463.</p>
+      </sec>
+    <sec>
+      <title>X-Ray Crystallography</title>
+      <p>A yellow single crystal of <bold>1</bold> was mounted on a glass fiber and intensity data were collected at room temperature on an Enraf-Nonius CAD4 diffractometer with graphite-monochromated Mo-K<sub>&#x3B1;</sub> radiation (&#x3BB; = 0.71073 &#xC5;) using the <italic>&#x3C9;</italic>&#x2212;2<italic>&#x3B8;</italic> scan method. Intensity data were corrected for Lorentz and polarization effects and semi-empirical absorption corrections (&#x3C8;-scan method) were also applied [<xref ref-type="bibr" rid="B30-molecules-10-00640">30</xref>]. The structure was solved by a combination of direct methods (SIR88) [<xref ref-type="bibr" rid="B31-molecules-10-00640">31</xref>] and difference Fourier techniques and refined on <italic>F</italic> by full-matrix least-squares analysis. The hydrogen atoms of the bppfa ligand were placed in their idealized positions (C&#x2212;H 0.95 &#xC5;), while all metal hydrides were estimated by potential energy calculations. The absolute configuration of <bold>1</bold> was established by analyzing the trends of <italic>F</italic><sub>o</sub> <italic>vs.</italic> <italic>F</italic><sub>c</sub> for all the observed reflections and its Bijvoet mate. It is consistent with the configuration of the starting phosphine ligand. The crystal data and structure refinement results are listed in <xref ref-type="table" rid="molecules-10-00640-t002">Table 2</xref> [<xref ref-type="bibr" rid="B32-molecules-10-00640">32</xref>]. </p>
+      <table-wrap id="molecules-10-00640-t002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00640-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Crystal data and structure refinement of <bold>1</bold>.</p>
+        </caption>
+        <table rules="cols" style="border:solid thin">
+          <tbody>
+            <tr>
+              <td align="left" valign="middle">Empirical formula</td>
+              <td align="left" valign="middle">C<sub>48</sub>H<sub>39</sub>NFeO<sub>9</sub>Os<sub>3</sub>P<sub>2</sub></td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Molecular weight</td>
+              <td align="left" valign="middle">1462.23</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Crystal size (mm)</td>
+              <td align="left" valign="middle">0.38 &#xD7; 0.20 &#xD7; 0.16</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Crystal system</td>
+              <td align="left" valign="middle">Monoclinic</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Space group</td>
+              <td align="left" valign="middle"><italic>P</italic>2<sub>1</sub></td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>a</italic> (&#xC5;)</td>
+              <td align="left" valign="middle">10.843(1)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>b</italic> (&#xC5;)</td>
+              <td align="left" valign="middle">11.059(1)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>c</italic> (&#xC5;)</td>
+              <td align="left" valign="middle">20.224(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>&#x3B1;</italic> (&#xB0;)</td>
+              <td align="left" valign="middle">90</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>&#x3B2;</italic> (&#xBA;)</td>
+              <td align="left" valign="middle">94.79(2)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>&#x3B3;</italic> (&#xB0;)</td>
+              <td align="left" valign="middle">90</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>U</italic> (&#xC5;<sup>3</sup>)</td>
+              <td align="left" valign="middle">2416.5(8)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>&#x3BC;</italic> (Mo&#x2212;K<sub>&#x3B1;</sub>) (mm<sup>&#x2212;</sup><sup>1</sup>)</td>
+              <td align="left" valign="middle">0.803</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>D<sub>calc</sub></italic> (g cm<sup>&#x2212;</sup><sup>3</sup>)</td>
+              <td align="left" valign="middle">2.009</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>Z</italic></td>
+              <td align="left" valign="middle">2</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>F</italic>(000)</td>
+              <td align="left" valign="middle">1380</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">2<italic>&#x3B8;</italic> Range (&#xB0;)</td>
+              <td align="left" valign="middle">2.0&#x2212;45.0</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Reflections collected</td>
+              <td align="left" valign="middle">3557</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Unique reflections</td>
+              <td align="left" valign="middle">3369</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>R</italic><sub>int</sub></td>
+              <td align="left" valign="middle">0.057</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Observed reflections [<italic>I</italic> &gt; 3<italic>&#x3C3;</italic>(<italic>I</italic>)]</td>
+              <td align="left" valign="middle">2645</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">No. of parameters</td>
+              <td align="left" valign="middle">275</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><italic>R</italic>, <italic>R</italic><sub>w</sub> [<italic>I</italic> &gt; 3<italic>&#x3C3;</italic>(<italic>I</italic>)]</td>
+              <td align="left" valign="middle">0.048, 0.050</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Goodness-of-fit on <italic>F</italic></td>
+              <td align="left" valign="middle">1.82</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Residual extrema in final diff. map (e &#xC5;<sup>&#x2212;3</sup>)</td>
+              <td align="left" valign="middle">1.74 to &#x2013;1.33</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </sec>
+    </body>
+  <back>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00640">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Long</surname>
+              <given-names>N. J.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1995</year>
+          <volume>34</volume>
+          <fpage>21</fpage>
+          <lpage>38</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00640">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colbert</surname>
+              <given-names>M. C. B.</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Long</surname>
+              <given-names>N. J.</given-names>
+            </name>
+            <name>
+              <surname>Page</surname>
+              <given-names>N. A.</given-names>
+            </name>
+            <name>
+              <surname>Parker</surname>
+              <given-names>D. G.</given-names>
+            </name>
+            <name>
+              <surname>Raithby</surname>
+              <given-names>P. R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Soc. Dalton Trans.</source>
+          <year>1994</year>
+          <volume>2589</volume>
+          <fpage>2589</fpage>
+          <lpage>2590</lpage>
+          <pub-id pub-id-type="doi">10.1039/dt9940002589</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00640">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Consiglio</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Morandini</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1987</year>
+          <volume>87</volume>
+          <fpage>761</fpage>
+          <lpage>778</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00640">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morandini</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Pilloni</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Consiglio</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sironi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Moret</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1993</year>
+          <volume>12</volume>
+          <fpage>3495</fpage>
+          <lpage>3503</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00640">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Auburn</surname>
+              <given-names>P. R.</given-names>
+            </name>
+            <name>
+              <surname>Mackenzie</surname>
+              <given-names>P. B.</given-names>
+            </name>
+            <name>
+              <surname>Bosnich</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1985</year>
+          <volume>107</volume>
+          <fpage>2033</fpage>
+          <lpage>2046</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00640">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sinigalia</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Michelin</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Pinna</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Strukui</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1987</year>
+          <volume>6</volume>
+          <fpage>728</fpage>
+          <lpage>734</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00640">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wong</surname>
+              <given-names>W.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>W.-T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Dalton Trans.</source>
+          <year>1995</year>
+          <fpage>2831</fpage>
+          <lpage>2836</lpage>
+          <pub-id pub-id-type="doi">10.1039/dt9950002831</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00640">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kumada</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Higuchi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hirotsu</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>1987</year>
+          <volume>334</volume>
+          <fpage>195</fpage>
+          <lpage>203</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00640">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Landis</surname>
+              <given-names>C. R.</given-names>
+            </name>
+            <name>
+              <surname>Sawyer</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Somsook</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>2000</year>
+          <volume>19</volume>
+          <fpage>994</fpage>
+          <lpage>1002</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00640">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manzano</surname>
+              <given-names>B. R.</given-names>
+            </name>
+            <name>
+              <surname>Jal&#xF3;n</surname>
+              <given-names>F. A.</given-names>
+            </name>
+            <name>
+              <surname>G&#xF3;mez-de la Torre</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>L&#xF3;pez-Agenjo</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Rodr&#xED;guez</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Mereiter</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Weissensteiner</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Sturm</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>2002</year>
+          <volume>21</volume>
+          <fpage>789</fpage>
+          <lpage>802</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00640">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bandoli</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Dolmella</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Coord. Chem. Rev.</source>
+          <year>2000</year>
+          <volume>209</volume>
+          <fpage>161</fpage>
+          <lpage>196</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00640">
+        <label>12.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Togni</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Ferrocenes</source>
+          <publisher-name>VCH</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1995</year>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00640">
+        <label>13.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brunner</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Zettlmeier</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Handbook of Enantioselective Catalysis with Transition Metal Compounds</source>
+          <publisher-name>VCH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>1993</year>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00640">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sawamura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1992</year>
+          <volume>92</volume>
+          <fpage>857</fpage>
+          <lpage>871</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00640">
+        <label>15.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Ojima</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Catalytic Asymmetric Synthesis</source>
+          <publisher-name>VCH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>1993</year>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00640">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kwok</surname>
+              <given-names>W. H.</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>A. S. C.</given-names>
+            </name>
+            <name>
+              <surname>Tu</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hou</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Dai</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron: Asymmetry</source>
+          <year>2003</year>
+          <volume>14</volume>
+          <fpage>2291</fpage>
+          <lpage>2295</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00640">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gotov</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Toma</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Macquarrie</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <source>New J. Chem.</source>
+          <year>2000</year>
+          <volume>24</volume>
+          <fpage>597</fpage>
+          <lpage>602</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00640">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>W.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>W.-T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>1994</year>
+          <volume>474</volume>
+          <fpage>C30</fpage>
+          <lpage>C33</lpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00640">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wong</surname>
+              <given-names>W.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>W.-T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Dalton Trans.</source>
+          <year>1995</year>
+          <fpage>2735</fpage>
+          <lpage>2740</lpage>
+          <pub-id pub-id-type="doi">10.1039/dt9950002735</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00640">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wong</surname>
+              <given-names>W.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>W.-T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>1999</year>
+          <volume>584</volume>
+          <fpage>48</fpage>
+          <lpage>57</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00640">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>B. F. G.</given-names>
+            </name>
+            <name>
+              <surname>Lahoz</surname>
+              <given-names>F. J.</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Prior</surname>
+              <given-names>N. D.</given-names>
+            </name>
+            <name>
+              <surname>Raithby</surname>
+              <given-names>P. R.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>W.-T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Dalton Trans.</source>
+          <year>1992</year>
+          <fpage>1701</fpage>
+          <lpage>1708</lpage>
+          <pub-id pub-id-type="doi">10.1039/dt9920001701</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00640">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henrick</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>McPartlin</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Deeming</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Hasso</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Manning</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Dalton Trans.</source>
+          <year>1982</year>
+          <fpage>899</fpage>
+          <lpage>906</lpage>
+          <pub-id pub-id-type="doi">10.1039/dt9820000899</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00640">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Albright</surname>
+              <given-names>T. A.</given-names>
+            </name>
+            <name>
+              <surname>Freeman</surname>
+              <given-names>W. J.</given-names>
+            </name>
+            <name>
+              <surname>Schweizer</surname>
+              <given-names>E. E.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1975</year>
+          <volume>40</volume>
+          <fpage>3437</fpage>
+          <lpage>3441</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00640">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bohle</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Heineke</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Tiripicchio</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Camellini</surname>
+              <given-names>M. T.</given-names>
+            </name>
+            <name>
+              <surname>Vahrenkamp</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1990</year>
+          <volume>29</volume>
+          <fpage>896</fpage>
+          <lpage>906</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.199008961</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00640">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Albiez</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Vahrenkamp</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1987</year>
+          <volume>26</volume>
+          <fpage>572</fpage>
+          <lpage>573</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.198705721</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00640">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heineke</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Vahrenkamp</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallics</source>
+          <year>1990</year>
+          <volume>9</volume>
+          <fpage>1697</fpage>
+          <lpage>1699</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00640">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Orpen</surname>
+              <given-names>A. G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Dalton Trans.</source>
+          <year>1986</year>
+          <fpage>453</fpage>
+          <lpage>455</lpage>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00640">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keister</surname>
+              <given-names>J. B.</given-names>
+            </name>
+            <name>
+              <surname>Horling</surname>
+              <given-names>T. L.</given-names>
+            </name>
+          </person-group>
+          <source>Inorg. Chem.</source>
+          <year>1980</year>
+          <volume>19</volume>
+          <fpage>2304</fpage>
+          <lpage>2307</lpage>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00640">
+        <label>29.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Armarego</surname>
+              <given-names>W. L. F.</given-names>
+            </name>
+            <name>
+              <surname>Perrin</surname>
+              <given-names>D. D.</given-names>
+            </name>
+          </person-group>
+          <source>Purification of Laboratory Chemicals</source>
+          <edition>4th Ed.</edition>
+          <publisher-name>Butterworth-Heinemann</publisher-name>
+          <publisher-loc>Oxford, U.K.</publisher-loc>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00640">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>North</surname>
+              <given-names>A. C. T.</given-names>
+            </name>
+            <name>
+              <surname>Phillips</surname>
+              <given-names>D. C.</given-names>
+            </name>
+            <name>
+              <surname>Mathews</surname>
+              <given-names>F. S.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Crystallogr. Sect. A.</source>
+          <year>1968</year>
+          <volume>24</volume>
+          <fpage>351</fpage>
+          <lpage>359</lpage>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00640">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burla</surname>
+              <given-names>M. C.</given-names>
+            </name>
+            <name>
+              <surname>Camalli</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cascarano</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Giacovazzo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Polidori</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Spagna</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Viterbo</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>J. Appl. Cryst.</source>
+          <year>1989</year>
+          <volume>22</volume>
+          <fpage>389</fpage>
+          <lpage>393</lpage>
+          <pub-id pub-id-type="doi">10.1107/S0021889889004103</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00640">
+        <label>32.</label>
+		<note>
+		<p>
+		32.	CCDC-244429 contains the supplementary crystallographic data for this paper. These data can be obtained free of charge via the URL <uri>http://www.ccdc.cam.ac.uk/conts/retrieving.html</uri> (or from the CCDC, 12 Union Road, Cambridge CB2 1EZ, UK; fax: (+44) 1223 336033; e-mail: <email>deposit@ccdc.cam.ac.uk</email>)
+		</p>
+		</note>
+      </ref>
+    </ref-list>
+	<fn-group>
+    <fn>
+	<p><italic>Sample Availability:</italic> Available from the authors.</p>
+	</fn>
+    </fn-group>
+  </back>
+</article>

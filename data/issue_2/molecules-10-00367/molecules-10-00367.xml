@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020367</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00367</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of Pyrrolo[2,3-<italic>d</italic>][1,2,3]thiadiazole-6-carboxylates <italic>via</italic> the Hurd-Mori Reaction. Investigating the Effect of the <italic>N</italic>&#x2011;Protecting Group on the Cyclization.</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Stanetty</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00367" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Turner</surname>
+            <given-names>Martin</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mihovilovic</surname>
+            <given-names>Marko D.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00367">Vienna University of Technology, Institute of Applied Synthetic Chemistry, Getreidemarkt 9/163-OC, A-1060 Vienna, Austria </aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00367"><label>*</label> Author to whom correspondence should be addressed; Email: <email>peter.stanetty@tuwien.ac.at</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>367</fpage>
+      <lpage>375</lpage>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A route to methyl pyrrolo[2,3-<italic>d</italic>][1,2,3]thiadiazole-6-carboxylates as potential plant activators and inducers of systemic acquired resistance (SAR) is reported. A synthetic strategy based on cyclization of the thiadiazole ring system utilizing thionyl chloride <italic>via</italic> the Hurd-Mori protocol as key step was developed. Success of the ring closure reaction turned out to be highly dependent on the nature of the <italic>N</italic>-protecting group of the pyrrolidine precursor. While electron donors such as alkyl gave only poor conversion to the required 1,2,3-thiadiazoles, an electron withdrawing substituent such as methyl carbamate gave superior yields.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Hurd-Mori reaction</kwd>
+        <kwd>1,2,3-thiadiazoles</kwd>
+        <kwd>thionyl chloride</kwd>
+        <kwd>plant activators</kwd>
+        <kwd>systemic acquired resistance</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Systemic acquired resistance (SAR) represents a novel concept in plant protection chemistry. This approach takes advantage of the plant's own defense mechanisms. In previous studies it was demonstrated that the local infection of a plant may result in developing a resistance to subsequent challenges by a variety of pathogens throughout the whole organism. While on the molecular level this response is linked to the expression of PR-proteins, the complete mechanism is not fully understood, so far, and intensive scientific research is currently under way to elucidate this intricate effect [<xref ref-type="bibr" rid="B1-molecules-10-00367">1</xref>].</p>
+      <p>In addition to the &#x201C;traditional&#x201D; mode of infection with a pathogen, the stimulation of this effect can also be induced by several non-natural compounds. Such agents became known as plant activators, and heterocyclic molecules like 2,6-dichloroisonicotinic acid <bold>1</bold>, various 1,2,3-benzothiadiazole-7-carboxylic acid derivatives such as <bold>2</bold>, [<xref ref-type="bibr" rid="B2-molecules-10-00367">2</xref>] or thiophene fused thiadiazoles <bold>3</bold> [<xref ref-type="bibr" rid="B3-molecules-10-00367">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00367">4</xref>] are capable to trigger the same biochemical cascade subsequently resulting in an immunization of the plant (<xref ref-type="scheme" rid="molecules-10-00367-f001">Scheme 1</xref>). Previously, Bion<sup>&#xAE;</sup> <bold>2</bold> became the first commercialized product with this novel mode of action.</p>
+      <fig id="molecules-10-00367-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00367-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00367-g001.tif"/>
+      </fig>
+      <p>Recent efforts to find new heterocyclic systems based on the lead structure <bold>2</bold> [<xref ref-type="bibr" rid="B5-molecules-10-00367">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00367">6</xref>] suggested the 1,2,3-thiadiazole system [<xref ref-type="bibr" rid="B7-molecules-10-00367">7</xref>] as an integral motif for biological activity. Consequently, we became interested in modifying the benzo-part of Bion<sup>&#xAE;</sup> <bold>2</bold>, a strategy successfully applied in the development of biologically active thieno compounds <bold>3</bold>. In the present paper we present a synthetic route to pyrrolo-fused analogs <bold>4</bold>. Based on structure activity relationships the position of the ester group adjacent to the annelation site is an important structural feature for the activity as an inducer of systemic acquired resistance, narrowing the number of first choice candidates in the pyrrolo series.</p>
+      <p>In our quest to develop an optimized approach to the corresponding thieno targets <bold>3</bold> [<xref ref-type="bibr" rid="B3-molecules-10-00367">3</xref>] we became interested in the Hurd-Mori cyclization [<xref ref-type="bibr" rid="B8-molecules-10-00367">8</xref>] as a most simple and versatile protocol for the generation of 1,2,3-thiadiazoles. [<xref ref-type="bibr" rid="B9-molecules-10-00367">9</xref>] In the particular case of <bold>3</bold>, the reaction with thionyl chloride gave a fully aromatized product, which was an especially intriguing aspect to us. We have suggested a mechanistic rational for our observations in the thieno series, previously. [<xref ref-type="bibr" rid="B3-molecules-10-00367">3</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00367">10</xref>] For the construction of the analogous pyrrolo products we envisioned a similar approach.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Synthesis of alkyl substituted pyrrolo-thiadiazoles <bold>4a</bold> (R = Bn) and <bold>4b</bold> (R = Me) started from itaconic acid or its dimethylester (<xref ref-type="scheme" rid="molecules-10-00367-f002">Scheme 2</xref>). Cyclization towards the pyrrolidine system <bold>5a/b</bold> was optimized based on a protocol by Feldkamp and coworker [<xref ref-type="bibr" rid="B11-molecules-10-00367">11</xref>].</p>
+      <p>From our previous experiences in the thieno-series we had already expected that efficient conversion to the hydrazone precursor for the Hurd-Mori reaction required formation of a thiocarbonyl species. Consequently, lactams <bold>5a/b</bold> were transformed into the corresponding thiolactams <bold>6a/b</bold> using Lawesson&#x2019;s reagent. [<xref ref-type="bibr" rid="B12-molecules-10-00367">12</xref>] As work-up conditions for reactions involving this reagent are troublesome, sometimes, we found <italic>Kugelrohr</italic> distillation as a most convenient form to purify the products.</p>
+      <p>Thiolactams <bold>6a/b</bold> gave clean conversion to the corresponding hydrazono cyclization precursors <bold>7a/b</bold> by treatment with ethyl carbazate upon refluxing in THF in the presence of Hg(OAc)<sub>2</sub>. In the absence of this reagent, the reaction progress was significantly decreased. In addition, equilibrium concentrations are shifted by precipitation of HgS.</p>
+      <fig id="molecules-10-00367-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00367-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00367-g002.tif"/>
+		<p>i) R&#x2019; = H: BnNH<sub>2</sub>, 130&#xB0;C; then MeOH, H<sub>2</sub>SO<sub>4</sub>, 88% (<bold>5a</bold>); ii) R&#x2019; = Me: MeNH<sub>2</sub>/H<sub>2</sub>O, MeOH, 95% (<bold>5b</bold>); iii) Lawesson&#x2019;s reagent, THF, 98% (<bold>6a</bold>), 87% (<bold>6b</bold>); iv) EtOOCNHNH<sub>2</sub>, Hg(OAc)<sub>2</sub>, THF, 75% (<bold>7a</bold>), 81% (<bold>7b</bold>); v) SOCl<sub>2</sub>, CHCl<sub>3</sub>, 25% (<bold>4a</bold>), 15% (<bold>4b</bold>).</p>
+      </fig>
+      <p>The actual Hurd-Mori cyclization towards the alkyl-thiadiazoles gave fully aromatized products <bold>4a/b</bold> with both precursors. However, it turned out to be disappointing with yields of 25% (<bold>4a</bold>) and 15% (<bold>4b</bold>), respectively, even under optimized reaction conditions. The pyrrolidino-precursors required significantly harsher conditions (chloroform at reflux) to display reasonable conversion rates. However, at such temperatures the stability of the starting material and/or of intermediate products becomes a limiting factor. In all optimization experiments significant decomposition was observed by darkening of the reaction mixtures and/or precipitation of insoluble material.</p>
+      <p>Although we could demonstrate access to <italic>N</italic>-alkyl-pyrrolo-thiadiazole-carboxylates <bold>4a</bold> and <bold>4b</bold> in principal, the chosen strategy did not seem suitable for scale-up in order to provide larger quantities for derivatization studies. We attribute the limited stability to the presence of a relatively electron rich nitrogen species in all cyclization precursors and intermediates. Consequently, another option to overcome the poor cyclization yields could be by changing the protecting group at the pyrrolidine system to an electron withdrawing substituent.</p>
+      <p>In order to confirm this hypothesis, we started a second series from 5-oxopyrrolidin-3-carboxylate methylester (<xref ref-type="scheme" rid="molecules-10-00367-f003">Scheme 3</xref>). [<xref ref-type="bibr" rid="B13-molecules-10-00367">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00367">14</xref>] Conversion to the thiolactam <bold>8</bold> was again accomplished in excellent yields using Lawesson&#x2019;s reagent. Introduction of the carbamate protecting group gave compound <bold>6c</bold> in only moderate yields, as complete conversion could not be achieved. Based on consumed starting material almost quantitative transformation can be accomplished. Reaction with ethyl carbazate did not require presence of a mercury additive and produced compound <bold>7c</bold> in excellent yield.</p>
+      <fig id="molecules-10-00367-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00367-scheme3_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00367-g003.tif"/>
+		<p>i) Lawesson&#x2019;s reagent, THF, 99%; ii) MeOOCCl, TEA, DMAP, CH<sub>2</sub>Cl<sub>2</sub>, 30%; iii) EtOOCNHNH<sub>2</sub>, CH<sub>2</sub>Cl<sub>2</sub>, 98%; iv) SOCl<sub>2</sub>, CH<sub>2</sub>Cl<sub>2</sub>, 94%; v) SiO<sub>2</sub>, MeOH, 99%.</p>
+      </fig>
+      <p>In contrast to the alkyl precursors, Hurd-Mori reaction with <bold>7c</bold> required cooling and progressed smoothly to fully aromatized thiadiazole <bold>4c</bold>. No significant side products were observed and compound <bold>4c</bold> was isolated after simple recrystallization in 94% yield. Final deprotection of the pyrrolo nitrogen was accomplished by treatment of a methanolic solution of <bold>4c</bold> with silica gel to afford <bold>4d</bold> quantitatively.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Basicity of the ring nitrogen atom in precursors for the Hurd-Mori reaction has a major effect on the success of the transformation. Presence of an electron withdrawing protecting group at the nitrogen plays a significant role for a successful cyclization. We have successfully established a synthetic route to pyrrolo[2,3-<italic>d</italic>][1,2,3]thiadiazole-6-carboxylates <italic>via</italic> this versatile cyclization protocol. Best results were observed for electron withdrawing protecting groups at the pyrrolo nitrogen. In all cases, fully aromatized target compounds were obtained. Further optimization efforts for the synthetic steps towards the cyclization precursors are currently underway in our laboratory.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Unless otherwise noted, chemicals were purchased from commercial suppliers and used without further purification. All solvents were distilled prior to use. Flash column chromatography was performed on silica gel 60 from Merck (40-63&#x3BC;m). Melting points were determined using a Kofler-type Leica Galen III micro hot stage microscope and are uncorrected. NMR-spectra were recorded from CDCl<sub>3</sub> or DMSO-d<sub>6</sub> solutions on a Bruker AC 200 (200 MHz) spectrometer and chemical shifts are reported in ppm using TMS as internal standard. Combustion analysis was carried out in the Microanalytic Laboratory, University of Vienna.</p>
+      </sec>
+      <sec>
+        <title>1-Benzyl-5-oxopyrrolidine-3-carboxylic acid methyl ester <italic>(<bold>5a</bold>)</italic>.</title>
+        <p>Itaconic acid (36.11 g, 0.28 mol) and benzylamine (29.74 g, 0.28 mol) were heated in substance to 130&#xB0;C and the water formed was distilled off during 3 hours. Crystals of crude 1-benzyl-5-oxopyrrolidine-3-carboxylic acid (55.13 g, 0.25 mol, 90 %) were collected by filtration after treatment of the reaction mixture with ice/water and dried <italic>in vacuo</italic>. This material was dissolved in methanol (200 mL) and treated with conc. sulfuric acid (28.66 g, 0.27 mol) at reflux for 3 hours. The reaction solution was concentrated to approx. half volume, subsequently neutralized with 10N NaOH, 2N NaOH, and satd. NaHCO<sub>3</sub>-solution, and repeatedly extracted with dichloromethane. The combined organic layers were washed with water, dried over sodium sulfate, and concentrated to give 56.92g (88% overall) of <bold>5a</bold> [<xref ref-type="bibr" rid="B11-molecules-10-00367">11</xref>] as colorless crystals; m.p. 71-73&#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 2.90-3.10 (m, 2H, H-4), 3.18-3.37 (m, 1H, H-3), 3.58 (d, J=8Hz, 2H, H-2), 3.69 (s, 3H, OCH<sub>3</sub>), 4.45-4.50 (m, 2H, PhCH<sub>2</sub>), 7.14-7.38 (m, 5H, arom. H); <sup>13</sup>C-NMR (DMSO-<italic>d<sub>6</sub></italic>): 33.4 (t, C-4), 35.1 (d, C-3), 45.3 (t, PhCH<sub>2</sub>), 48.1 (t, C-2), 52.0 (q, OCH<sub>3</sub>), 127.3 (d, C-4`), 127.6 (d, C-3`+ C-5`), 128.5 (d, C-2`+ C-6`), 136.6 (s, C-1`), 171.7 (s, <underline>C</underline>OOCH<sub>3</sub>), 173.4 (s, C-5).</p>
+      </sec>
+      <sec>
+        <title>1-Methyl-5-oxopyrrolidine-3-carboxylic acid methyl ester <italic>(<bold>5b</bold>)</italic>.</title>
+        <p>Dimethyl itaconate (30g, 0.19mol) was added to aqueous methylamine solution (17.2 mL, 15.53 g, 40% solution, 0.2 mol) at 5-10&#xB0;C and maintained at this temperature for another hour. Afterwards, the mixture was warmed to room temperature and stirred for 16 hours, concentrated and distilled <italic>in vacuo</italic> to give 29.0 g (95%) of <bold>5b</bold> [<xref ref-type="bibr" rid="B11-molecules-10-00367">11</xref>] as a colorless liquid; b.p. 160-161&#xB0;C/24mbar; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 2.60-2.75 (m, 2H, H-4), 2.86 (s, 3H, NCH<sub>3</sub>), 3.16-3.38 (m, 1H, H-3), 3.40 (d, J=8Hz, 2H, H-2), 3.66 (s, 3H, OCH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): 28.0 (q, NCH<sub>3</sub>), 32.5 (t, C-4), 34.4 (d, C-3), 49.8 (t, C-2), 51.0 (q, OCH<sub>3</sub>), 171.0 (s, <underline>C</underline>OOCH<sub>3</sub>), 172.2 (s, C-5).</p>
+      </sec>
+      <sec>
+        <title>1-Benzyl-5-thioxopyrrolidine-3-carboxylic acid methyl ester <italic>(<bold>6a</bold>)</italic>.</title>
+        <p>Lactam <bold>5a</bold> (56.9 g, 0.244 mol) and Lawesson&#x2019;s reagent (49.35 g, 0.15 mol) were stirred at room temperature for 30 min in dry THF (400 mL). The solvent was removed <italic>in vacuo</italic> and the crude material was <italic>Kugelrohr</italic> distilled to give 59.6 g (98%) of <bold>6a</bold> as beige oil; b.p. 155-165&#xB0;C/0.001-0.005mbar; n<sub>D</sub><sup>20</sup>=1.5880; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 3.11-3.40 (m, 3H, H-3, H-4), 3.69 (s, 3H, OCH<sub>3</sub>), 3.61-3.91 (m, 2H, H-2), 4.90-5.00 (m, 2H, PhCH<sub>2</sub>), 7.20-7.40 (m, 5H, arom. H); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): 37.0 (d, C-3), 47.1 (t, C-4), 51.0 (t, PhCH<sub>2</sub>), 52.1 (q, OCH<sub>3</sub>), 55.3 (t, C-2), 127.8 (d, C-4`), 127.9 (d, C-3`+ C-5`), 128.5 (d, C-2`+C-6`), 134.2 (s, C-1`), 172.1 (s, <underline>C</underline>OOCH<sub>3</sub>), 198.7 (s, C-5); Anal. for C<sub>13</sub>H<sub>15</sub>NO<sub>2</sub>S (249.33): calc.: C 62.63%, H 6.06%, N 5.62%; found.: C 62.75%, H 6.30%, N 5.57%.</p>
+      </sec>
+      <sec>
+        <title>1-Methyl-5-thioxopyrrolidine-3-carboxylic acid methyl ester <italic>(<bold>6b</bold>)</italic>.</title>
+        <p>Lactam <bold>5b</bold> (29.0 g, 0.18 mol) and Lawesson&#x2019;s reagent (60.0 g, 0.18 mol) were stirred at room temperature for 30 min in dry THF (400 mL). The solvent was removed <italic>in vacuo</italic> and the crude material was <italic>Kugelrohr</italic> distilled to give 26.0 g (87%) of <bold>6b</bold> as beige oil; b.p. 100&#xB0;C/0.01-0.02mbar; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 3.28 (s, 3H, NCH<sub>3</sub>), 3.20-3.50 (m, 3H, H-3, H-4), 3.76 (s, 3H, OCH<sub>3</sub>), 3.86-4.12 (m, 2H, H-2); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): 33.9 (d, C-3), 35.9 (q, NCH<sub>3</sub>), 46.0 (t, C-4), 51.2 (q, OCH<sub>3</sub>), 57.3 (t, C-2), 171.4 (s, <underline>C</underline>OOCH<sub>3</sub>), 196.8 (s, C-5); Anal. for C<sub>7</sub>H<sub>11</sub>NO<sub>2</sub>S (173.23): calc.: C 48.53%, H 6.40%, N 8.09%; found.: C 48.56%, H 6.32%, N 8.06%.</p>
+      </sec>
+      <sec>
+        <title>5-Thioxopyrrolidine-3-carboxylic acid methyl ester <italic>(<bold>8</bold>)</italic>.</title>
+        <p>Methyl 5-oxopyrrolidine-3-carboxylate (5.0 g, 34.9 mmol) and Lawesson&#x2019;s reagent (14.1 g, 34.9 mmol) were stirred at room temperature for 2 hours in dry THF (50 mL). The solvent was removed <italic>in vacuo</italic> and the residue was purified by flash column chromatography (triethylamine impregnated silica gel, LP/EtOAc = 3:2), followed by recrystallization from toluene to give 5.51g (99%) of <bold>8</bold> as colorless crystals; m.p. 106-109&#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 3.10-3.30 (m, 2H, H-4), 3.40-3.55 (m, 1H, H-3), 3.75 (s, 3H, OMe), 3.83 (dd, J=11.3Hz, 5.5Hz, 1H, H-2), 3.96 (dd, J=11.3Hz, 6.5Hz, 1H, H-2), 8.85 (bs, 1H, NH); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): 40.7 (t, C-4), 45.8 (d, C-3), 51.5 (q, OCH<sub>3</sub>), 52.6 (t, C-2), 172.4 (s, <underline>C</underline>OOCH<sub>3</sub>), 203.0 (s, C-5); Anal. for C<sub>6</sub>H<sub>9</sub>NO<sub>2</sub>S (159.21): calc.: C 45.27%, H 5.70%, N 8.80%; found.: C 45.33%, H 5.71%, N 8.67%.</p>
+      </sec>
+      <sec>
+        <title>5-Thioxopyrrolidine-1,3-dicarboxylic acid dimethyl ester <italic>(<bold>6c</bold>)</italic>.</title>
+        <p>Thiolactam <bold>8</bold> (4.50 g, 28.3 mmol), triethylamine (2.86 g, 28.3 mmol), and DMAP (3.45 g, 28.3 mmol) were dissolved in dry dichloromethane (100 mL) and treated with methyl chloroformate (5.34 g, 56.5 mmol) in dry dichloromethane (20 mL) at -60 to -70&#xB0;C. After complete addition the reaction mixture was warmed to room temperature, stirred for 12 hours, and subsequently concentrated <italic>in vacuo</italic>. Flash column chromatography (silica gel, LP/EtOAc = 1:1) gave 3.13 g of recovered starting material <bold>8</bold> and 1.80 g (30 %, 96% based on consumed <bold>8</bold>) of <bold>6c</bold> as beige crystals; m.p. 89-91&#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 3.20-3.41 (m, 3H, H-3, H-4), 3.76 (s, 3H, C-3-COOCH<sub>3</sub>), 3.89 (s, 3H, N1-COOCH<sub>3</sub>), 4.24-4.44 (m, 2H, H-2); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): 37.4 (d, C-3), 50.4 (t, C-4), 52.5 (q, C3-COO<underline>C</underline>H<sub>3</sub>), 53.6 (q, N1-COO<underline>C</underline>H<sub>3</sub>), 54.8 (t, C-2), 151.6 (s, N1-<underline>C</underline>OOCH<sub>3</sub>), 171.7 (s, C3-<underline>C</underline>OOCH<sub>3</sub>), 204.0 (s, C-5); Anal. for C<sub>8</sub>H<sub>11</sub>NO<sub>4</sub>S (217.24): calc.: C 44.23%, H 5.10%, N 6.45%; found.: C 44.45%, H 4.92%, N 6.35%.</p>
+      </sec>
+      <sec>
+        <title>1-Benzyl-5-(2-ethoxycarbonyl-2-hydrazinyl-1-yliden)-pyrrolidine-3-carboxylic acid methyl ester <italic>(<bold>7a</bold>)</italic>.</title>
+        <p>Thiolactam <bold>6a</bold> (59.6 g, 0.24 mol) and ethyl carbazate (24.9 g, 0.24 mol) were dissolved in dry THF (100 mL) and treated with Hg(OAc)<sub>2</sub> (76.2 g, 0.24 mol). The mixture was stirred at room temperature for 16 hours, then charcoal was added and the suspension was filtered through a pad of Celite<sup>&#xAE;</sup>. The resulting solution was concentrated and the residue was recrystallized from diisopropyl ether to give 57.5 g (75%) of <bold>7a</bold> as colorless crystals; m.p. 103-107&#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 1.29 (t, J=7Hz, 3H, OCH<sub>2</sub>C<underline>H</underline><sub>3</sub>), 2.90-3.25 (m, 3H, H-3, H-4), 3.43 (d, J=8Hz, 2H, H-2), 3.69 (s, 3H, OCH<sub>3</sub>), 4.19 (q, J=7Hz, 2H, OC<underline>H</underline><sub>2</sub>CH<sub>3</sub>), 4.45-4.55 (m, 2H, PhCH<sub>2</sub>), 6.78 (bs, 1H, NH), 7.20-7.40 (m, 5H, arom. H); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): 14.7 (q, OCH<sub>2</sub><underline>C</underline>H<sub>3</sub>), 30.0 (t, C-4), 37.0 (d, C-3), 47.2 (t, PhCH<sub>2</sub>), 50.7 (t, C-2), 52.0 (q, OCH<sub>3</sub>), 59.5 (t, O<underline>C</underline>H<sub>2</sub>CH<sub>3</sub>), 127.0 (d, C-4`), 127.8 (d, C-3`+ C-5`), 128.3 (d, C-2`+ C-6`), 137.2 (s, C-1`), 154.7 (s, <underline>C</underline>OOEt), 162.6 (s, C-5), 173.1 (s, <underline>C</underline>OOMe); Anal. for C<sub>16</sub>H<sub>21</sub>N<sub>3</sub>O<sub>4</sub> (319.36): calc.: C 60.18%, H 6.63%, N 13.16%; found.: C 59.92%, H 6.48%, N 13.03%.</p>
+      </sec>
+      <sec>
+        <title>1-Methyl-5-(2-ethoxycarbonyl-2-hydrazinyl-1-yliden)-pyrrolidine-3-carboxylic acid methyl ester <italic>(<bold>7b</bold>)</italic>.</title>
+        <p>Thiolactam <bold>6b</bold> (11.0 g, 63 mmol) and ethyl carbazate (6.6 g, 63 mmol) were dissolved in dry THF (100 mL) and treated with Hg(OAc)<sub>2</sub> (20.24 g, 63 mmol). The mixture was stirred at room temperature for 16 hours, then charcoal was added and the suspension was filtered through a pad of Celite<sup>&#xAE;</sup>. The resulting solution was concentrated to give 12.35 g (81%) of <bold>7b</bold> as orange, highly viscous oil, which is sufficiently pure for the subsequent cyclization. Additional chromatographic purification (silica gel, LP/EtOAc = 1:1) gives beige crystals of m.p. 95-96&#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 1.25 (t, J=7Hz, 3H, OCH<sub>2</sub>C<underline>H</underline><sub>3</sub>), 2.88 (s, 3H, NCH<sub>3</sub>), 2.90-3.20 (m, 3H, H-3, H-4), 3.55 (d, J=8Hz, 2H, H-2), 3.72 (s, 3H, OCH<sub>3</sub>), 4.16 (q, J=7Hz, 2H, OC<underline>H</underline><sub>2</sub>CH<sub>3</sub>), 6.58 (bs, 1H, NH); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): 14.2 (q, OCH<sub>2</sub><underline>C</underline>H<sub>3</sub>), 29.9 (t, C-4), 31.0 (q, NCH<sub>3</sub>), 37.2 (d, C-3), 51.8 (q, OCH<sub>3</sub>), 52.5 (t, C-2), 60.4 (t, O<underline>C</underline>H<sub>2</sub>CH<sub>3</sub>), 155.4 (s, COOEt), 165.2 (s, C-5), 172.6 (s, COOMe); Anal. for C<sub>10</sub>H<sub>17</sub>N<sub>3</sub>O<sub>4</sub> (243.26): calc.: C 49.38%, H 7.04%, N 17.27%; found.: C 49.63%, H 7.05%, N 17.22%.</p>
+      </sec>
+      <sec>
+        <title>5-(Ethoxycarbonyl-2-hydrazinyl-1-yliden)-pyrrolidine-1,3-dicarboxylic acid dimethyl ester <italic>(<bold>7c</bold>)</italic>.</title>
+        <p>Thiolactam <bold>6c</bold> (1.42 g, 6.54 mmol) and ethyl carbazate (0.68 g, 6.54 mmol) were refluxed in dry dichloromethane (30 mL) for 21 hours. The mixture was concentrated <italic>in vacuo</italic> and the oily residue was dissolved in hot EtOAc. Pure <bold>7c</bold> crystallizes upon storage at -35&#xB0;C for 48 hours, yielding 1.85 g (99%) as colorless crystals; m.p. 90-92&#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 1.30 (t, J=7Hz, 3H, OCH<sub>2</sub>C<underline>H</underline><sub>3</sub>), 2.61 (bs, 1H, NH), 2.95-3.25 (m, 3H, H-3, H-4), 3.74 (s, 3H, C3-COOC<underline>H</underline><sub>3</sub>), 3.83 (s, 3H, N1-COOC<underline>H</underline><sub>3</sub>), 3.95 (dd, J=18.5Hz, J=6.6 Hz, 1H, H-2), 4.03 (dd, J=18.5Hz, J=8.1Hz, 1H, H-2), 4.21 (q, J=7Hz, 2H, OC<underline>H</underline><sub>2</sub>CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): 14.4 (q, OCH<sub>2</sub><underline>C</underline>H<sub>3</sub>), 29.8 (t, C-4), 36.9 (d, C-3), 49.8 (t, C-2), 52.5 (q, C3-COO<underline>C</underline>H<sub>3</sub>), 53.3 (q, N1-COO<underline>C</underline>H<sub>3</sub>), 61.7 (t, O<underline>C</underline>H<sub>2</sub>CH<sub>3</sub>), 151.8 (s, N1-<underline>C</underline>OOCH<sub>3</sub>), 154.6 (s, <underline>C</underline>OOCH<sub>2</sub>CH<sub>3</sub>), 171.9 (s, C3-<underline>C</underline>OOCH<sub>3</sub>).</p>
+      </sec>
+      <sec>
+        <title>4-Benzyl-pyrrolo[2,3-d][1,2,3]thiadiazole-6-carboxylic acid methyl ester <italic>(<bold>4a</bold>)</italic>.</title>
+        <p>Compound <bold>7a</bold> (1.0 g, 3.13 mmol) was dissolved in dry chloroform (10 mL) and added to a refluxing mixture of thionyl chloride (2.6 g, 21.9 mmol) and dry chloroform (10 mL). After complete addition, refluxing was continued for another 16 hours. The mixture was concentrated <italic>in vacuo</italic> and the residue was taken up with dichloromethane. The organic layer was washed with satd. NaHCO<sub>3</sub>-solution and water, dried over sodium sulfate, and concentrated. Pure <bold>4a</bold> (0.21 g, 25%) was obtained after flash column chromatography (silica gel, LP/EtOAc = 10:1) and subsequent recrystallization from diisopropyl ether as colorless crystals; m.p. 150-151&#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 3.89 (s, 3H, OCH<sub>3</sub>), 5.60 (s, 2H, PhCH<sub>2</sub>), 7.30-7.40 (m, 5H, arom. H), 7.85 (s, 1H, H-5); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): 51.8 (q, OCH<sub>3</sub>), 52.3 (t, PhCH<sub>2</sub>), 107.0 (s, C-6), 128.2, 128.8, 129.1 (3 d, C-2&#x2019;, C-6&#x2019;, C-3&#x2019;, C-5&#x2019;, C-4&#x2019;), 130.8 (s, C-6a), 134.7 (s, C-1&#x2019;), 135.8 (d, C-5), 161.0, 163.0 (2 s, CO, C-3a); Anal. for C<sub>13</sub>H<sub>11</sub>N<sub>3</sub>O<sub>2</sub>S (273.31): calc.: C 57.13%, H 4.06%, N 15.37%; found.: C 57.27%, H 4.03%, N 15.42%.</p>
+      </sec>
+      <sec>
+        <title>4-Methyl-pyrrolo[2,3-d][1,2,3]thiadiazole-6-carboxylic acid methyl ester <italic>(<bold>4b</bold>)</italic>.</title>
+        <p>Compound <bold>7b</bold> (0.5 g, 2.06 mmol) was dissolved in dry chloroform (10 mL) and added to a refluxing mixture of thionyl chloride (2.6 g, 21.9 mmol) and dry chloroform (10 mL). After complete addition, refluxing was continued for another 16 hours. The mixture was concentrated <italic>in vacuo</italic> and the residue was taken up with dichloromethane. The organic layer was washed with satd. NaHCO<sub>3</sub>-solution and water, dried over sodium sulfate, and concentrated. Pure <bold>4b</bold> (0.06 g, 15%) was obtained after flash column chromatography (silica gel, LP/EtOAc = 10:1) and subsequent recrystallization from diisopropyl ether as colorless crystals; m.p. 161-165&#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 3.90 (s, 3H, OCH<sub>3</sub>), 4.17 (s, 3H, NCH<sub>3</sub>), 7.82 (s, 1H, H-5); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): 34.9 (q, NCH<sub>3</sub>), 51.9 (q, OCH<sub>3</sub>), 106.6 (s, C-6), 130.7 (s, C-6a), 137.1 (s, C-5), 161.4, 163.1 (2 s, CO, C-3a); Anal. for C<sub>7</sub>H<sub>7</sub>N<sub>3</sub>O<sub>2</sub>S (197.22): calc.: C 42.63%, H 3.58%, N 21.31%; found.: C 41.88%, H 3.44%, N 20.78%.</p>
+      </sec>
+      <sec>
+        <title>Pyrrolo[2,3-d][1,2,3]thiadiazole-4,6-dicarboxylic acid dimethyl ester <italic>(<bold>4c</bold>)</italic>.</title>
+        <p>Compound <bold>7c</bold> (1.7 g, 5.9 mmol) was dissolved in dry dichloromethane (20 mL) and added to a cooled mixture (-10 to -5&#xB0;C) of thionyl chloride (4.9 g, 41.4 mmol) and dry dichloromethane (70 mL) over a period of 60 min. After complete addition, the mixture was warmed to room temperature and stirred overnight. The mixture was concentrated <italic>in vacuo</italic> and the residue was taken up with dichloromethane, treated with an excess of triethylamine and concentrated again. The residue was taken up with dichloromethane and washed with water. The organic layer was dried over sodium sulfate and concentrated. Recrystallization from EtOAc gave 1.34 g (94%) of pure <bold>4c</bold> as colorless crystals; m.p. 152-154&#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 3.95 (s, 3H, C6-COOC<underline>H</underline><sub>3</sub>), 4.24 (s, 3H, N1-COOC<underline>H</underline><sub>3</sub>), 8.38 (s, 1H, H-5); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): 52.4 (q, C6-COO<underline>C</underline>H<sub>3</sub>), 55.6 (q, N1-COO<underline>C</underline>H<sub>3</sub>), 110.8 (s, C-6), 133.8 (d, C-5), 134.2 (s, C-6a), 148.6 (s, N1-CO), 157.9 (s, C-3a), 161.8 (s, COO); Anal. for C<sub>8</sub>H<sub>7</sub>N<sub>3</sub>O<sub>4</sub>S (241.23): calc.: C 39.83%, H 2.92%, N 17.42%; found.: C 39.91%, H 3.01%, N 17.27%.</p>
+      </sec>
+	  <sec>
+      <title>Pyrrolo[2,3-d][1,2,3]thiadiazole-6-carboxylic acid methyl ester <italic>(<bold>4d</bold>)</italic>.</title>
+      <p>A suspension of product <bold>4c</bold> (0.40 g, 1.66 mmol) and silica gel (5 g) in dry methanol (20 mL) was stirred at room temperature for 3 days. The silica gel was removed by filtration and the obtained solution was concentrated <italic>in vacuo.</italic> Pure <bold>4d</bold> (0.30 g, 99%) was obtained without further purification as colorless crystals; m.p. 218-220&#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub> + 10% DMSO-<italic>d<sub>6</sub></italic>): 3.90 (s, 3H, OCH<sub>3</sub>), 7.99 (s, 1H, H-5), 8.78 (bs, 1H, H-4); <sup>13</sup>C-NMR (CDCl<sub>3</sub> + 10% DMSO-<italic>d<sub>6</sub></italic>): 51.2 (q, OCH<sub>3</sub>), 106.5 (s, C-6), 130.2 (s, C-6a), 134.4 (d, C-5), 160.9 (s, C-3a), 163.0 (s, COO); Anal. for C<sub>6</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>S (183.19): calc.: C 39.34%, H 2.75%, N 22.94%; found.: C 39.63%, H 2.65%, N 22.67%.</p>
+    </sec>
+  
+    </sec>
+    </body>
+  <back>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00367">
+        <label>[1]</label>
+		<note>
+		<p>For reviews see:
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuc</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Bioscience</source>
+          <year>1982</year>
+          <volume>32</volume>
+          <fpage>854</fpage>
+        </citation>; 
+        <citation citation-type="book">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuc</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Active Defense Mechanisms in Plants</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Wood</surname>
+              <given-names>R.K.S.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Plenum Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1982</year>
+          <fpage>157</fpage>
+        </citation>; 
+        <citation citation-type="book">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuc</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>The Dynamics of Host Defense</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Bailey</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Everall</surname>
+              <given-names>G.J.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>Sydney</publisher-loc>
+          <year>1983</year>
+          <fpage>191</fpage>
+        </citation>; 
+        <citation citation-type="book">
+		<label>(d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuc</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Innovative Approaches to Plant Disease Control</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Chet</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>J. Wiley</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1987</year>
+          <fpage>255</fpage>
+        </citation>; 
+        <citation citation-type="journal">
+		<label>(e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Metreaux</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Ahl Goy</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Staub</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Speich</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Steinemann</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ryals</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Adv. Mol. Gen. Plant-Microbe Interact.</source>
+          <year>1991</year>
+          <volume>1</volume>
+          <fpage>432</fpage>
+        </citation>; 
+        <citation citation-type="journal">
+		<label>(f)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kessmann</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Staub</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ligon</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Oostendorp</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ryals</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Plant Pathology</source>
+          <year>1994</year>
+          <volume>100</volume>
+          <fpage>359</fpage>
+        </citation>; 
+        <citation citation-type="journal">
+		<label>(g)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kessmann</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Staub</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hofmann</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Maetzke</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Herzog</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Annu. Rev. Phytopathol.</source>
+          <year>1994</year>
+          <volume>32</volume>
+          <fpage>439</fpage>
+        </citation>; 
+        <citation citation-type="book">
+		<label>(h)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sisler</surname>
+              <given-names>H.D.</given-names>
+            </name>
+            <name>
+              <surname>Ragsdale</surname>
+              <given-names>N.N.</given-names>
+            </name>
+          </person-group>
+          <source>Modern Selective Fungicides</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Lyr</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Gustav Fischer Verlag</publisher-name>
+          <publisher-loc>Jena</publisher-loc>
+          <year>1995</year>
+          <fpage>543</fpage>
+        </citation>
+		</p>
+		</note>
+      </ref>
+      <ref id="B2-molecules-10-00367">
+        <label>[2]</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schurter</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. Pat. Appl.</source>
+          <patent>EP 347377 A2</patent>
+          <year>1989</year>
+          <comment>[<italic>Chem. Abstr.</italic>, <bold>1990</bold>, <italic>113</italic>, 172020z]</comment>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00367">
+        <label>[3]</label>
+        <citation citation-type="patent">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kunz</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. Pat. Appl</source>
+          <patent>EP 780394A1</patent>
+          <year>1997</year>
+          <comment>[<italic>Chem. Abstr.</italic>, <bold>1997</bold>, <italic>127</italic>, 121735]</comment>
+        </citation>
+        <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kremslehner</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>V&#xF6;llenkle</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Perkin. Trans. 1</source>
+          <year>1998</year>
+          <fpage>853</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00367">
+        <label>[4]</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Mihovilovic</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <source>Monatsh. Chem.</source>
+          <year>1999</year>
+          <volume>130</volume>
+          <fpage>573</fpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Jaksits</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mihovilovic</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <source>J. Prakt. Chem.</source>
+          <year>1999</year>
+          <volume>341</volume>
+          <fpage>391</fpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>G&#xF6;rner</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Mihovilovic</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <source> J. Heterocycl. Chem.</source>
+          <year>1999</year>
+          <volume>36</volume>
+          <fpage>761</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00367">
+        <label>[5]</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Hattinger</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Mihovilovic</surname>
+              <given-names>M.D.</given-names>
+            </name>
+            <name>
+              <surname>Mereiter</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2000</year>
+          <volume>37</volume>
+          <fpage>955</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00367">
+        <label>[6]</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Dvorak</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mihovilovic</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <source>Arkivoc</source>
+          <year>2001</year>
+          <volume>2</volume>
+          <fpage>1128</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00367">
+        <label>[7]</label>
+		<note>
+		<p>For an excellent review on the chemistry of [1,2,3]thiadiazoles see:
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morzherin</surname>
+              <given-names>Y.Y.</given-names>
+            </name>
+            <name>
+              <surname>Glukhareva</surname>
+              <given-names>T.V.</given-names>
+            </name>
+            <name>
+              <surname>Bakulev</surname>
+              <given-names>V.A.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Het. Comp.</source>
+          <year>2003</year>
+          <volume>39</volume>
+          <fpage>679</fpage>
+        </citation>
+		</p>
+		   </note>
+      </ref>
+      <ref id="B8-molecules-10-00367">
+        <label>[8]</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hurd</surname>
+              <given-names>C.D.</given-names>
+            </name>
+            <name>
+              <surname>Mori</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1955</year>
+          <volume>77</volume>
+          <fpage>5359</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00367">
+        <label>[9]</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Turner</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mihovilovic</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <source>Targets in Heterocyclic Systems</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Attanasi</surname>
+              <given-names>O.A.</given-names>
+            </name>
+            <name>
+              <surname>Spinelli</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Societ&#xE0; Chimica Italiana</publisher-name>
+          <publisher-loc>Rome</publisher-loc>
+          <year>1999</year>
+          <volume>Vol. 3</volume>
+          <fpage>265</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00367">
+        <label>[10]</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kremslehner</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Heterocycles</source>
+          <year>1998</year>
+          <volume>48</volume>
+          <fpage>259</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00367">
+        <label>[11]</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>Y.H.</given-names>
+            </name>
+            <name>
+              <surname>Feldkamp</surname>
+              <given-names>R.F.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1961</year>
+          <volume>26</volume>
+          <fpage>1519</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00367">
+        <label>[12]</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yde</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Yousif</surname>
+              <given-names>N.M.</given-names>
+            </name>
+            <name>
+              <surname>Pedersen</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Thomsen</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Lawesson</surname>
+              <given-names>S.O.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1984</year>
+          <volume>40</volume>
+          <fpage>2047</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00367">
+        <label>[13]</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bartmann</surname>
+              <given-names>W.</given-names>
+            </name>
+			<name>
+              <surname>Beck</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Knolle</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Rupp</surname>
+              <given-names>R.H.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1982</year>
+          <volume>23</volume>
+          <fpage>2947</fpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arvanitis</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Motevalli</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wyatt</surname>
+              <given-names>P. B.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1996</year>
+          <volume>24</volume>
+          <fpage>4277</fpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsuge</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Kanemasa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hatada</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1986</year>
+          <volume>59</volume>
+          <fpage>2537</fpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00367">
+        <label>[14]</label>
+		<note>
+		<p>For an optimized access to this starting material:
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Turner</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mihovilovic</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <comment><italic>in preparation</italic></comment>
+        </citation>
+		</p>
+		</note>
+      </ref>
+    </ref-list>
+	<fn-group>
+ <fn>
+ <p><italic>Sample Availability</italic>: Available from the authors.</p>
+ </fn>
+ </fn-group>
+  </back>
+</article>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10060649</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00649</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis and Asymmetric Mono-cyclopalladation of 1,1&#x2019;-Di(&#x3B1;-dimethylamino)ethylferrocene</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sokolov</surname>
+            <given-names>Viatcheslav I.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00649" ref-type="corresp">*</xref>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Troitskaya</surname>
+            <given-names>Ludmila L.</given-names>
+          </name>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Bondareva-Don</surname>
+            <given-names>Veronica L.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00649"><italic>&#x201C;Nesmeyanov&#x201D;</italic> Institute of Organoelement Compounds, Russian Academy of Sciences, 28, Vavilov Street, 119991 Moscow, Russian Federation. Fax: (+7) 095 1355085.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00649"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>sokol@ineos.ac.ru</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <fpage>649</fpage>
+      <lpage>652</lpage>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Two-step synthesis of 1,1&#x2019;-di(&#x3B1;-dimethylamino)ethylferrocene is described in details. Cyclopalladation of this diamine involving one or two amino groups is reported and the product of asymmetric mono-cyclopalladation is fully characterized.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Aminoalkylferrocene</kwd>
+		<kwd>asymmetric cyclopalladation</kwd>
+		<kwd>optical activity</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Cyclopalladation is one of the most studied organometallic reactions [<xref ref-type="bibr" rid="B1-molecules-10-00649">1</xref>]. In the ferrocene series, it was first carried out with acetate anion as nucleophilic catalyst [<xref ref-type="bibr" rid="B2-molecules-10-00649">2</xref>]. Shortly after that we had developed the efficient asymmetric version using salts of optically active acids as catalysts [<xref ref-type="bibr" rid="B3-molecules-10-00649">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00649">4</xref>].</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The goal of this study was to synthesize 1,1&#x2019;-bis-derivative of ferrocene which is able to give products of the double cyclopalladation and to demonstrate the optical activity of the product of asymmetric mono-cyclopalladation. 1,1&#x2019;-di(&#x3B1;-dimethylamino)ethylferrocene was prepared in two steps starting from 1,1&#x2019;-diacetylferrocene (<xref ref-type="scheme" rid="molecules-10-00649-f001">Scheme 1</xref>). It is well-known that during cyclopalladation of ferrocenes the planar chirality arises [<xref ref-type="bibr" rid="B5-molecules-10-00649">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00649">6</xref>]. Diastereoselectivity during the cyclopalladation of enantiomeric 1-dimethylaminoethylferrocene was previously [<xref ref-type="bibr" rid="B7-molecules-10-00649">7</xref>] found to be about 70%. Therefore one can expect that a very complicated mixture of 16 (2<sup>4</sup>) diastereoisomers would form as a result of double cyclopalladation of <bold>1</bold> because 2 chiral centres and 2 chiral planes will be present in monomeric species and even more in the primarily formed dimer <bold>2</bold>.</p>
+      <fig id="molecules-10-00649-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00649-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00649-g001.tif"/>
+      </fig>
+      <p>For characterization purposes, racemic dimer <bold>2</bold> was converted into the monomeric acetylacetonate  or triphenylphosphine derivatives <bold>3</bold> and <bold>4</bold>. When the reaction was carried out using an asymmetric catalyst (Na salt of N-acetyl-D-valine) the dimeric mono-cyclopalladation product <bold>5</bold> was isolated and converted into acetylacetonate <bold>6</bold>, which appeared to be optical active; the (+) sign suggests the R<sub>p</sub> configuration of chiral plane. All reactions performed are shown in <xref ref-type="scheme" rid="molecules-10-00649-f002">Scheme 2</xref>.</p>
+      <fig id="molecules-10-00649-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00649-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00649-g002.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have presented the synthesis of 1,1&#x2019;-di(&#x3B1;-dimethylamino)ethylferrocene and its cyclo-palladation in non-asymmetric and asymmetric versions.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p><sup>1</sup>H-NMR spectra were obtained using a BRUKER 200 NMR instrument. Optical rotations were measured with a Perkin-Elmer 141 instrument. Reagents were commercial (Aldrich and other companies) and were used as received. All reactions were performed under argon.</p>
+      </sec>
+      <sec>
+        <title>Synthesis of 1,1&#x2019;-di(&#x3B1;-dimethylamino)ethylferrocene <italic>(<bold>1</bold>)</italic></title>
+        <p>LiAlH<sub>4</sub> (1.5 g, 40 mmol) was added in portions to a red solution of 1,1&#x2019;-diacetylferrocene (17.9 g, 66 mmol) in a mixture of benzene (200 mL) and anhydrous ether (150 mL). After 2 hrs of additional stirring the starting ketone had disappeared (TLC). Water (200 mL) and several drops of H<sub>2</sub>SO<sub>4</sub> were added to the yellow solution, the organic layer was separated and the aqueous solution was extracted twice with ether. Usual work-up afforded crude 1,1&#x2019;-di(&#x3B1;-hydroxy)ethylferrocene as a yellow oil (20 g). It was dissolved in CH<sub>2</sub>Cl<sub>2</sub> (100 mL), mixed with NEt<sub>3</sub> under argon, chilled and reacted immediately at  &#x2013;70<sup>o</sup>C with EtSO<sub>2</sub>Cl (31.6 g, 247 mmol) in CH<sub>2</sub>Cl<sub>2</sub> (25 mL) added over 30 min. The reaction mixture was stirred during 2.5 hr, then it was allowed to warm to &#x2013;50<sup>o</sup>C, poured into a solution of dimethylamine (28 g, 620 mmol) in isopropanol (100 mL) kept at the same temperature and left overnight. The reaction mixture was evaporated <italic>in vacuo</italic> at +50<sup>o</sup>C, the residue was treated with 10% H<sub>3</sub>PO<sub>4</sub> (150 mL) and CH<sub>2</sub>Cl<sub>2</sub> (150 mL), then the organic phase was extracted with 2% H<sub>3</sub>PO<sub>4 </sub>(2 x 50 mL). The acidic extract was washed with CH<sub>2</sub>Cl<sub>2</sub> (100 ml) and solid Na<sub>2</sub>CO<sub>3</sub> was added to pH 9-10. Free amine separated was taken into CH<sub>2</sub>Cl<sub>2</sub> and usual work-up afforded 1,1&#x2019;-di(&#x3B1;-dimethylamino)ethylferrocene (<bold>1</bold>) as a dark-orange oil (19.5 g, 89% from 1,1&#x2019;-diacetylferrocene). Found, %: C 64.80;  H 8.53;  N 8.55. Calcd. for C<sub>18</sub>H<sub>28</sub>N<sub>2</sub>Fe, %:  C 65.86;  H 8.60;  N 8.53;  <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4;: 1.44 (d, 6H, J = 7.0, CH<sub>3</sub>-C), 2.09 (s, 12H, CH<sub>3</sub>-N), 3.60 (q, 2H, J = 7.0, CH), 4.09 (m, 8H, Cp). </p>
+      </sec>
+      <sec>
+        <title>Non-asymmetric double cyclopalladation of <italic><bold>1</bold></italic></title>
+        <p>Compound <bold>1</bold> (1.18 g, 3.6 mmol) in MeOH (8 mL) was added over 10 min to a solution of Na<sub>2</sub>PdCl<sub>4</sub> (2.22 g, 7.55 mmol) and NaOAc&#xB7;3H<sub>2</sub>O (0.98 g, 7.2 mmol) in MeOH (14 mL), stirred for 1 hr and filtered. The brown precipitate was washed with MeOH and dried over CaCl<sub>2</sub> to obtain 1.96 g (88%) of crude dimer <bold>2</bold>. To prepare pure acetylacetonate <bold>3</bold>, this amount of <bold>2</bold> in benzene (50 mL) was mixed with solution of Na(acac) (1.56 g, 13 mmol) in MeOH (10 mL) and stirred for 30 min. After evaporation the dark residue was extracted with benzene, the solvent evaporated and the oil was triturated with small volume of pentane to give 1.6 g of orange solid <bold>3</bold>. Found, %: C 44.51; H 5.49; N 3.24;  Pd 31.08. Calcd. for C<sub>28</sub>H<sub>40</sub>N<sub>2</sub>O<sub>4</sub>FePd<sub>2</sub>, %: C  45.50;  H 5.47;  N 3.15;  Pd 29.9. Dimer <bold>2</bold> (1.50 g, 2.45 mmol) and PPh<sub>3</sub> (2.0 g, 7.6 mmol) were refluxed under argon in benzene (25 mL) during 4 hrs. Precipitate was separated and extracted with benzene. Addition of hexane to the united benzene solution afforded 1.03 g of orange triphenylphosphine complex <bold>4</bold>, which was purified by chromatography (SiO<sub>2</sub>, benzene - NEt<sub>3</sub>). Found, %: C 58.92; H 5.20; Cl 6.03; P 5.16. Calcd. for C<sub>54</sub>H<sub>56</sub>N<sub>2</sub>Cl<sub>2</sub>FeP<sub>2</sub>Pd<sub>2</sub>.C<sub>6</sub>H<sub>6</sub>, %:  C 59.43;  H 5.15;  Cl 5.85;  P 5.11.;  <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4;: 1.27 (d, 6H, J = 6.5, CH<sub>3</sub>-C),  2.64 (s, 6H, CH<sub>3</sub>-N), 3.05 (s, 3H, CH<sub>3</sub>-N),  3.07 (s, 3H, CH<sub>3</sub>-N), 4.07 (q, 2H, CH-CH3); 2.10 (d), 3.08 (d), 3.41 (t) &#x2013; J = 2.2, 6H (2Cp); 7.34-7.70 (m, 30H, arenes).</p>
+      </sec>
+      <sec>
+        <title>Asymmetric cyclopalladation of <italic><bold>1</bold></italic></title>
+        <p>Na metal (75 mg, 3.23 mmol) was dissolved in MeOH (7 mL), N-acetyl-D-valine (515 mg, 3.23 mmol) was added, followed by a solution of <bold>1</bold> (1.05 g, 3.20 mmol) in MeOH (6 mL). The reaction mixture was stirred for 2.5 hrs, then water (60 mL) was added and after that the reaction mixture was extracted with CHCl<sub>3</sub>. The chloroform layer was washed with aqueous K<sub>2</sub>CO<sub>3</sub> and usual work-up afforded 1.1 g of red oil. Trituration with methanol gave 430 mg of a brick-red coloured solid (bis-product <bold>2</bold>) while 650 mg of dark-red oil obtained from methanolic solution was the dimeric product of mono-cyclopalladation <bold>5</bold> (yield 43%). It was treated with Na(acac) in MeOH to give after chromatography on SiO<sub>2</sub> analytically pure optically active acetylacetonate <bold>6</bold> as yellow-orange solid in 35% yield. [&#x3B1;]<sub>546</sub> + 17.4<sup>o</sup> (<italic>c</italic> = 0.01, CH<sub>2</sub>Cl<sub>2</sub>). Found, %: C 51.71; H 6.58; N 5.13. Calcd. for C<sub>23</sub>H<sub>34</sub>N<sub>2</sub>O<sub>2</sub>FePd, %:  C 51.80;  H 6.43;  N 5.26;  <sup>1</sup>H- NMR (CDCl<sub>3</sub>) &#x3B4;: 1.16 (d, 3H, J = 7.0, CH<sub>3</sub>-C), [1.44 (d, J = 7.0) 1.55 (d, J = 7.0) &#x2013; 3H together, CH3-C &#x2013; diastereomers], [1.95 (s, CH3(acac)), 1.98 (s, CH3(acac))], [2.08 (s, 6H, CH3-N), 2.52 (s, 3H, CH3-N), 2.80 (s, 3H, CH3-N) &#x2013; diastereomers], 3.68 (q, 2H, J = 7.0, CH-C), 3.87 &#x2013; 4.47 (m, 7H, 2Cp), [5.22 (s, 1H), 5.27 (s, 1H), CH(acac) &#x2013; diastereomers].</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00649">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Omae</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Organometallic Intramolecular-coordination Compounds</source>
+          <publisher-name>Elsevier</publisher-name>
+          <publisher-loc>Amsterdam</publisher-loc>
+          <year>1986</year>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00649">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gaunt</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>B.L.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>1975</year>
+		  <volume>19</volume>
+          <fpage>229</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00649">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sokolov</surname>
+              <given-names>V.I.</given-names>
+            </name>
+            <name>
+              <surname>Troitskaya</surname>
+              <given-names>L.L.</given-names>
+            </name>
+          </person-group>
+          <source>Chimia</source>
+          <year>1978</year>
+          <volume>32</volume>
+          <fpage>122</fpage>
+          <lpage>123</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00649">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sokolov</surname>
+              <given-names>V.I.</given-names>
+            </name>
+            <name>
+              <surname>Troitskaya</surname>
+              <given-names>L.L.</given-names>
+            </name>
+            <name>
+              <surname>Reutov</surname>
+              <given-names>O.A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>1979</year>
+		  <volume>182</volume>
+          <fpage>537</fpage>
+          <lpage>540</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00649">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sokolov</surname>
+              <given-names>V.I.</given-names>
+            </name>
+          </person-group>
+          <source>Chirality and Optical Activity in Organometallics</source>
+          <publisher-name>Gordon &amp; Breach</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1991</year>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00649">
+        <label>6.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Togni</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Ferrocenes</source>
+          <publisher-name>VCH</publisher-name>
+          <publisher-loc>Weinheim</publisher-loc>
+          <year>1995</year>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00649">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sokolov</surname>
+              <given-names>V.I.</given-names>
+            </name>
+            <name>
+              <surname>Troitskaya</surname>
+              <given-names>L.L.</given-names>
+            </name>
+            <name>
+              <surname>Reutov</surname>
+              <given-names>O.A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>1977</year>
+		  <volume>133</volume>
+          <fpage>C28</fpage>
+          <lpage>C30</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+    <fn>
+	<p><italic>Samples availability:</italic> available from authors</p>
+	</fn>
+    </fn-group>
+  </back>
+</article>

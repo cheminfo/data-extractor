@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xml:lang="en" article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10030534</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00534</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Thermal Behaviour, Biological Activity and Conformational Study of a [Methoprene/&#x3B2;-Cyclodextrin] Complex in a Smoke Generating Formulation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Audino</surname>
+            <given-names>Paola Gonz&#xE1;lez</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00534" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Masuh</surname>
+            <given-names>Hector</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zerba</surname>
+            <given-names>Eduardo</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00534">Centro de Investigaciones de Plagas e Insecticidas, (CIPEIN-CITEFA/CONICET) J. B. De Lasalle 4397 (1603) Villa Martelli, Buenos Aires, Argentina</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00534"><label>*</label> To whom correspondence should be addressed; E-mail: <email>pgonzalezaudino@citefa.gov.ar</email><underline>, </underline>Telefax: (+54)-11-47095334</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>05</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>05</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>3</issue>
+      <fpage>534</fpage>
+      <lpage>544</lpage>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>09</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>20</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Methoprene, an insect growth regulator, was complexed with &#x3B2;-cyclodextrin, yielding a stable inclusion complex. TGA, X-ray powder diffraction and conformational analysis have been used to confirm the nature of this inclusion complex. The interaction between methoprene and &#x3B2;-cyclodextrin was investigated by means of Molecular Mechanics. The results account for the formation of a 1:1 inclusion complex stabilised by Van der Waals forces and hydrogen bonds. The [methoprene&#x2013;&#x3B2;-cyclodextrin] complex included in smoke generating formulations and protected from thermal decomposition by the foaming agent azodicarbonamide was shown to be stable enough to release methoprene in fumes with good yields. The improved stabilty of the methoprene complex showed a correlation with increased biological activity against <italic>Musca domestica</italic>.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Methoprene</kwd>
+        <kwd>&#x3B2;-cyclodextrin</kwd>
+        <kwd>molecular modelling</kwd>
+        <kwd>smoke generating formulation</kwd>
+        <kwd>thermal stability</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Methoprene (<bold>1</bold>) belongs to a 3rd generation of insecticides and is considered an insect growth regulator. Unlike more classic insecticides, methoprene is a juvenile hormone mimic, which exhibits morphogenetic rather than direct toxic activity against certain dipteran and other insects [<xref ref-type="bibr" rid="B1-molecules-10-00534">1</xref>]. Laboratory and field testing programs revealed that methoprene is relatively non persistent and is rapidly metabolized in a manner that renders it virtually non toxic to non target organisms [<xref ref-type="bibr" rid="B2-molecules-10-00534">2</xref>].
+	   <disp-formula id='molecules-10-00534-i001'>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00534-i001.tif"/>
+        </disp-formula>
+	  </p>
+      <p>Decomposition of methoprene in the environment occurs quickly by aquatic and soil microoganisms and by sunlight. The insect growth regulating properties of methoprene have inspired the development of formulations for control of specific insects in certain environments.</p>
+      <p>In the search of non professional formulations, our laboratory developed in the past a fumigant canister specially designed to be used in the control of Chagas&#x2019; Disease vectors [<xref ref-type="bibr" rid="B3-molecules-10-00534">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00534">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00534">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00534">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00534">7</xref>]. The attempts to formulate methoprene in a smoke generating mixture failed because of its thermal lability. Cyclodextrins (CDs) are cyclic oligosaccharides and have been used to form inclusion complexes with pesticides, resulting in considerable improvement of their chemical and physical properties [<xref ref-type="bibr" rid="B8-molecules-10-00534">8</xref>]. The seven glucose units in the &#x3B2;-CD (BCD) molecules have the <sup>4</sup><sub>1</sub>C chair conformation. All glucose units are slightly tilted so that they form a hollow truncated cone. CDs are able to bind a large number of guest molecules provided it is small enough to fit into the cavity [<xref ref-type="bibr" rid="B9-molecules-10-00534">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00534">10</xref>].</p>
+      <p>In this study a new insecticide formulation has been developed by the introduction of the [methoprene/ BCD complex] [<xref ref-type="bibr" rid="B11-molecules-10-00534">11</xref>] and the foaming agent azodicarbonamide in a smoke generating mixture. Previous work of our laboratory has demonstrated that azodicarbonamide acts as an excellent thermal protector for pesticides in smoke generating formulations [<xref ref-type="bibr" rid="B7-molecules-10-00534">7</xref>]. The thermal behaviour of methoprene was evaluated and the conformation of BCD and the complex studied by using Hyperchem computer aided molecular modeling based on the MM+ Molecular Mechanics Force Field. Results presented here describe a &#x3B2;-cyclodextrin inclusion complex of methoprene and point out the possibility of using it in a smoke releasing formulation.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Characterisation of the [methoprene / &#xDF;-cyclodextrin] complex</title>
+        <p>Since methoprene itself (the guest molecule) is a liquid substance, and as was stated for organophosphorus insecticides, it produces no diffraction pattern [<xref ref-type="bibr" rid="B16-molecules-10-00534">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00534">17</xref>]. Instead, the diffraction diagrams showed dramatically different patterns for the complex and the parent BCD. <xref ref-type="fig" rid="molecules-10-00534-f001">Figure 1</xref> illustrates the diagrams of BCD and the methoprene BCD complex. Significant changes in the X-ray diffraction patterns indicate the existence of an inclusion complex between host and methoprene. </p>
+        <fig id="molecules-10-00534-f001" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p>Ray powder diagram of BCD and the methoprene (black) / BCD complex (red).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00534-g001.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Thermo- analytical investigations</title>
+        <p>As <xref ref-type="fig" rid="molecules-10-00534-f002">Figure 2</xref> shows, the mechanical mixture of methoprene and BCD gives thermo-analytical curves indicating additive thermal properties of both host and guest molecules. The [methoprene /BCD] complex sample with a methoprene content determined as 7% w/w can be considered as a proper inclusion complex since thermo-analysis shows that after an initial water loss of 10% weight there is no other release until higher temperatures. This shows that all of the methoprene is entrapped into the molecule and indicates its improved heat resistance. </p>
+        <fig id="molecules-10-00534-f002" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p>TGA curves for --- methoprene / BCD mixture and &#x2014; methoprene /BCD complex.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00534-g002.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Conformational analysis</title>
+        <p>We studied the following items to gain insight into the macrocyclic ring conformation of BCD: the glycosidic angle, the distances between the oxygen atoms of the secondary hydroxyl groups of neighbouring glucose units and the position of the glycosidic oxygen.</p>
+        <p>In BCD the glycosidic angle varies between 115.8 and 118.4 <sup>o</sup>C with a mean of 116.4<sup>o</sup>. The distances between the oxygen atoms of the secondary hydroxyl groups of neighbouring glucose units, varies between 2.99 and 4.12 &#xC5; with a mean of 3.13 &#xC5;. Hydrogen bonds are consequently formed. After geometry minimisation, the interaction energies for the six possible conformations are obtained (<xref ref-type="table" rid="molecules-10-00534-t001">Table 1</xref>). </p>
+        <table-wrap id="molecules-10-00534-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00534-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Calculated interaction energies (kcal/mol) of the BCD- methoprene complexes.</p>
+          </caption>
+          <table rules="cols" style="border: solid thin">
+            <thead>
+              <tr>
+                <th align="center" valign="middle">Structure</th>
+                <th align="center" valign="middle">Energy (kcal/mol)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-top: double">
+                <td align="center" valign="top"><bold>1</bold></td>
+                <td align="center" valign="top">-25.94</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>2</bold></td>
+                <td align="center" valign="top">-24.94</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>3</bold></td>
+                <td align="center" valign="top"> -20.31</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>4</bold></td>
+                <td align="center" valign="top">-17.39</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>5</bold></td>
+                <td align="center" valign="top">-29.18</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>6</bold></td>
+                <td align="center" valign="top"><bold>-30.76</bold></td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The most stable structure <bold>6</bold> was submitted to the dynamic simulations and a final structure obtained was re-minimised. Sketches of the equilibrium configuration of the complex are shown in <xref ref-type="fig" rid="molecules-10-00534-f003">Figure 3</xref>. </p>
+        <fig id="molecules-10-00534-f003" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p>Snapshot of the equilibrium configuration for the BCD-methoprene complex.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00534-g003.tif"/>
+        </fig>
+        <p>Analysing partial contributions to total complex interaction energy, it is observed that the main contribution to the interaction between the host and the guest molecules is due to the Van der Waals interactions (<xref ref-type="table" rid="molecules-10-00534-t002">Table 2</xref>). Furthermore, an extra hydrogen bond between the methoprene carbonyl and a cyclodextrin oxygen is formed (O-H distance 2.28 &#xC5;). </p>
+        <table-wrap id="molecules-10-00534-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00534-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Partial energy contributions to total complex interaction energy (kcal/mol).</p>
+          </caption>
+          <table rules="cols" style="border: solid thin">
+            <thead>
+              <tr>
+                <th align="center" valign="middle"><bold>Total interaction Energy (kcal/mol)</bold></th>
+                <th align="center" valign="middle"><bold>-31.7</bold></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-top: double">
+                <td align="center" valign="middle">Bond</td>
+                <td style="border-left: hidden" align="center" valign="middle">-0.38</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">Angle </td>
+                <td style="border-left: hidden" align="center" valign="middle">-0.68</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">Dihedral</td>
+                <td style="border-left: hidden" align="center" valign="middle">-0.68</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">Electrostatic</td>
+                <td style="border-left: hidden" align="center" valign="middle">-1.12</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">Stretch-Bond</td>
+                <td style="border-left: hidden" align="center" valign="middle">-0.17</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">Van der Waals</td>
+                <td style="border-left: hidden" align="center" valign="middle">-28.62 </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>We also studied the positions of glycosidic oxygens to gain insight into the change of the conformation of BDC when methoprene enters its cavity. The positions of glycosidic oxygens in BCD and in its complex were analyzed and as they are not lying in the x-y plane, they were projected to this plane. Thus, the x, y, z co-ordinates of the glycosidic oxygens are translated to x-y plane and plotted (<xref ref-type="fig" rid="molecules-10-00534-f004">Figure 4</xref>). </p>
+        <fig id="molecules-10-00534-f004" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>Projection of BCD and methoprene-BCD complex glycosidic oxygens onto XY plane. &#x25CF; BCD, &#x25A1; complex.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00534-g004.tif"/>
+        </fig>
+        <p>When the methoprene molecule enters the cavity of BCD, BCD will seek to adopt a conformation which fits best around the guest molecule. As can be seen, the glycosidic oxygens are positioned approximately on an ellipse. </p>
+        <p>To confirm that stoichiometry is 1:1 and not 1:2, ten molecular dynamics runs were performed on the systems composed by methoprene and 2 BCD molecules starting from initial conformations obtained by manually docking a second BCD molecule to the complex previously obtained. In all cases, after the MD run only 1:1 complex stoichiometry was retained and the second BDC units was pulled away from the 1:1 adduct (<xref ref-type="fig" rid="molecules-10-00534-f005">Figure 5</xref>).</p>
+        <fig id="molecules-10-00534-f005" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>Equilibrium configuration of the BCD2-methoprene complex after dynamic simulation.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00534-g005.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Methoprene recovery in fumes</title>
+        <p>As can be seen in <xref ref-type="table" rid="molecules-10-00534-t003">Table 3</xref>, the introduction of the gas producing agent azodicarbonamide increases the recovery of free methoprene in fumes. </p>
+        <table-wrap id="molecules-10-00534-t003" position="float">
+          <object-id pub-id-type="pii">molecules-10-00534-t003_Table 3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <p>Methoprene recovery in fumes of different starting fumigant formulations.</p>
+          </caption>
+          <table rules="cols" style="border: solid thin">
+            <thead>
+              <tr>
+                <th align="center" valign="middle">Fumigant matrix composition</th>
+                <th align="center" valign="middle">Methoprene formulation<sup>a</sup></th>
+                <th align="center" valign="middle">% Recovery</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-top: double">
+                <td align="center" valign="middle">KClO<sub>3</sub>, dextrin and kaolin</td>
+                <td align="center" valign="middle">Free</td>
+                <td align="center" valign="middle">b.d.l.<sup>b</sup></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">KClO<sub>3</sub>, dextrin and kaolin</td>
+                <td align="center" valign="middle">complexed in &#xDF;-CD</td>
+                <td align="center" valign="middle">b.d.l.<sup>b</sup></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">plus 40% adc</td>
+                <td align="center" valign="middle">Free</td>
+                <td align="center" valign="middle">25 +/-3</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">plus 40% adc</td>
+                <td align="center" valign="middle">complexed in &#xDF;-CD</td>
+                <td align="center" valign="middle">48+/- 2</td>
+              </tr>
+            </tbody>
+          </table>
+            <table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> Total concentration 1%</p>
+			<p><sup>b</sup> &lt; 5% with respect to the initial content of insecticide.</p>
+            </fn>
+            </table-wrap-foot>
+        </table-wrap>
+        <p>This protective effect is even greater if the insecticide is complexed in &#x3B2;-cyclodextrin. As we had previously observed for pyrethroid mixtures, combustion temperature of the smoke generating mixture significantly decreases in the presence of the foaming agent, with the desired consequence of less insecticide decomposition [<xref ref-type="bibr" rid="B7-molecules-10-00534">7</xref>]. Foaming agent produces a prior gas liberation at lower temperatures allowing the insecticide to be carried out without further decomposition. These results point out that methoprene complexed with BCD and formulated in smoke generating mixtures with ADC could be released in fumes with enough yields to consider its use in smoke generating formulations.</p>
+      </sec>
+      <sec>
+        <title>Biological Assay</title>
+        <p>No biological effect was observed on larvae exposed to fumes without insecticide. A high proportion of larvae exposed to free and complexed methoprene in fumes reached a pupal stage (<xref ref-type="table" rid="molecules-10-00534-t004">Table 4</xref>), although many of them were more elongated than the control ones. </p>
+        <table-wrap id="molecules-10-00534-t004" position="float">
+          <object-id pub-id-type="pii">molecules-10-00534-t004_Table 4</object-id>
+          <label>Table 4</label>
+          <caption>
+            <p>Effect of methoprene included in a smoke releasing formulation on the larvae of <italic>Musca domestica.</italic></p>
+          </caption>
+          <table rules="cols" style="border: solid thin">
+            <thead>
+              <tr>
+                <th align="center" valign="middle">Status of methoprene</th>
+                <th align="center" valign="middle">Concentration (mg/m<sup>3</sup>)</th>
+                <th align="center" valign="middle">Pupation %</th>
+                <th align="center" valign="middle">Emergence %</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-top: solid thin">
+                <td align="center" valign="middle">Free</td>
+                <td align="center" valign="middle">6</td>
+                <td align="center" valign="middle">77.5+/-3.5</td>
+                <td align="center" valign="middle">22+/-3</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"> </td>
+                <td align="center" valign="middle">20</td>
+                <td align="center" valign="middle">42.5+/-7.5</td>
+                <td align="center" valign="middle">18+/-3.5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">In BCD</td>
+                <td align="center" valign="middle">6</td>
+                <td align="center" valign="middle">77.5+/-4</td>
+                <td align="center" valign="middle">0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"> </td>
+                <td align="center" valign="middle">20</td>
+                <td align="center" valign="middle">50+/-12</td>
+                <td align="center" valign="middle">0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">Control</td>
+                <td align="center" valign="middle">0</td>
+                <td align="center" valign="middle">92.5 +/-5</td>
+                <td align="center" valign="middle">90+/-5</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>This effect on housefly pupae morphogenesis produced by methoprene has been previously described [<xref ref-type="bibr" rid="B18-molecules-10-00534">18</xref>]. A significant difference in adult emergence between housefly larvae exposed to free and complexed methoprene fumes was observed (<xref ref-type="table" rid="molecules-10-00534-t004">Table 4</xref>). In fact, the thermal protection produced by the complexation in BCD and the incorporation of azodicarbonamide on the methoprene resulted in diminished adult moulting. Thus, a new smoke generating formulation containing methoprene, a low environmental impact insecticide, could be developed. This new formulation would be of low environmental impact, with good spatial distribution of the fumes and great penetrative capability. </p>
+      </sec>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>Chemicals</title>
+        <p>Methoprene technical grade was from Babolna Bioenvironmental Centre Ltd. (Budapest, Hungary) and provided by Unifarma (Arg) and BCD, purity &gt;99% was purchased from Aldrich (USA). Solvents were analytical grade and water was distilled. KClO<sub>3</sub> technical grade was from Parafarm (Argentine), dextrin was from Aldrich (USA), kaolin (aluminium silicate) technical grade was from Serain Juarez (Argentine) and azodicarbonamide (ADC) 97% was from Aldrich (USA)</p>
+      </sec>
+      <sec>
+        <title>Preparation of [methoprene / BCD] complex</title>
+        <p>The coprecipitation method [<xref ref-type="bibr" rid="B12-molecules-10-00534">12</xref>] was used. As the guest/host molar ratio was not previously known, the powdered complex obtained from methoprene and BCD must be thoroughly washed in order to obtain the stoichiometric inclusion complex. Thus, BCD (3g, 2.6 mmoles) were suspended in water (75 mL) and methoprene (0.6 g, 1.9 mmole) in ethanol (12 mL) was added dropwise under agitation. The mixture was left under agitation for 24 hs at room temperature. The white precipitate was filtered off, washed with CHCl<sub>3</sub> (5 x 5 mL) to remove the uncomplexed methoprene and the complex was dried under vacuum. The methoprene content of the complex (%) was obtained by GLC using a Shimadzu 6A Chromatograph (Japan) equipped with a 2mm i.d. QF-1 glass column and operated at 165/220 &#xB0;C, with N<sub>2</sub> as the carrier gas.</p>
+      </sec>
+      <sec>
+        <title>Thermo-analytical Analysis</title>
+        <p>Thermoanalitycal analysis were carried out on a DuPont 990 Thermal Analyser System (UK) in empty vessel<italic>.</italic> Thermogravimetric analysis (TGA) curves of methoprene and BCD as well as their simple mechanical mixtures and the inclusion complex were taken. The temperature program was 20 <sup>o</sup>C /min in a N<sub>2</sub> atmosphere with a flow rate of 10 mL/min.</p>
+      </sec>
+      <sec>
+        <title>X-Ray powder diffraction</title>
+        <p>The X-ray powder diagrams were registered on a PW 3710 diffractometer (Phillips, The Netherlands) using normal Cu- K&#x3B1; ray in the &#x3B8;/ 2&#x3B8; angle range of 2&#x3B8; = 2 - 40&#xB0;, x step = 0.02&#xB0;, step time = 2 seg. </p>
+      </sec>
+      <sec>
+        <title>Smoke releasing mixtures</title>
+        <p>Smoke releasing mixtures were prepared using KClO<sub>3</sub> (29 %) as the oxidant, kaolin (51 %) as the inert component and BCD (20%) as combustible. For introduction of free methoprene the smoke generating mixture was suspended in a Cl<sub>2</sub>CH<sub>2</sub> solution of methoprene and evaporated under vacuum to obtain smoke generating mixture containing 1% methoprene; in the case of the methoprene/BCD complex it was incorporated as a powder to obtain final methoprene concentration of 1%. To these mixtures ADC [<xref ref-type="bibr" rid="B13-molecules-10-00534">13</xref>] was added (40 %) as a gas-producing agent. </p>
+      </sec>
+      <sec>
+        <title>Conformational analysis</title>
+        <p>Molecules were built using Molecular Modelling software (HYPERCHEM 5.0 software, Autodesk, USA) and the Molecular Mechanics MM+ Force field with the adequate adaptations (e.g. torsional parameters obtained from Allinger [<xref ref-type="bibr" rid="B14-molecules-10-00534">14</xref>]). Starting from a glucose unit in <sup>4</sup><sub>1</sub>C conformation, another six units were merged forming glycosidic &#x3B1;-1,4 bonds. The glycosidic unions and torsion angles were consecutively minimised using the MM+ force field. Finally the structure geometry as a whole was minimised. To explore the Potential Energy surface of the molecule, <italic>in vacuo</italic> dynamic simulations of ten trajectories were generated with heating time 1ps, run time 2 ps, cool time 1 ps, starting temperature 0 K, simulation temperature 700 K, final temperature 0K, time step 0.001 ps, temperature step 1 K. The methoprene molecule was drawn with 3D Model Builder, conjugated double bonds were marked and the structure was minimised using the MM+ force field. Methoprene and cyclodextrin were merged and manually docked according to the topologies showed in <xref ref-type="fig" rid="molecules-10-00534-f006">Figure 6</xref> and the resulting structures were minimised using the MM+ force field. To explore the Potential Energy surface of the host-guest couple, <italic>in vacuo</italic> dynamic simulations of ten trajectories were generated as previously described. No periodic condition was applied, as we were concerned only in studying the docking of the guest molecule to the host. The interaction energies of the guest molecule in the BCD cavity were calculated subtracting from the total energy values of the possible complexes the total energy of the components alone [<xref ref-type="bibr" rid="B15-molecules-10-00534">15</xref>]. Total energies values are composed by stretching, bending, stretch-bend cross term, torsion, van der Waals, and charge-charge dipole interaction. The BCD<sub>2</sub>-metoprene complex was taken into consideration docking the methoprene molecule between two BCD units. </p>
+        <fig id="molecules-10-00534-f006" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p>Sketch of the different topologies for the entry of the guest molecule into the cavity of the BCD host.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00534-g006.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Recovery of methoprene in fumes</title>
+        <p>Tablets of the smoke generating mixtures (1 gr) were obtained using a manual pellet press (Parr Instrumental Co, USA) and were burned in a combustion flask (Thomas Schoeniger flask, USA) with the adequate adaptations. Tablet ignition was performed with an IR lamp (GE Projection Lamp, USA). After combustion the flask was cooled in an ice bath and washed with Cl<sub>2</sub>CH<sub>2</sub> and made up a volume to 10 mL. Quantitative analysis of the recovered methoprene was made by GLC in the conditions described before.</p>
+      </sec>
+      <sec>
+        <title>Biological Material</title>
+        <p>Houseflies, <italic>Musca domestica</italic>, used in the present study were the insecticide susceptible CIPEIN strain reared in our laboratory since 1980 at constant temperature and humidity conditions of 24-26 <sup>o</sup>C and 40-60% HR and photoperiod of 12:12 hours. The larvae used for bioassay were 48 hours old and collected from the young adults box.</p>
+      </sec>
+      <sec>
+        <title>Biological Assay</title>
+        <p>Groups of ten larvae were held in plastic containers half filled with the necessary amount of food to allow their development to adults. These containers were put in a 0.35 m<sup>3</sup> cubic chamber in the cener of which 0.70 g. tablets of smoke generating mixture containing variable concentrations of methoprene were burned. Control insects were exposed to fumes without insecticide. The development of housefly larvae to adults was followed during one week.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This investigation received financial support from the UNDP/ World Bank/ WHO Special Programme for Research and Training in Tropical Diseases and from Chemotecnica (Argentina).</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00534">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Copping</surname>
+              <given-names>L.G.</given-names>
+            </name>
+            <name>
+              <surname>Hewitt</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Chemistry and Mode of Action of Crop Protection Agents</source>
+          <publisher-name>The Royal Society of Chemistry, Redwood Books Ltd.</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1998</year>
+          <fpage>61</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00534">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duhnam</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Analytical methods for Pesticides and Plant Growth Regulators</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Zweig</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sherma</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Academic Press Inc.</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1963</year>
+          <volume>Vol. 10</volume>
+          <fpage>95</fpage>
+          <lpage>109</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00534">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zerba</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Melgar</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Baz&#xE1;n</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Licastro</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Villar</surname>
+              <given-names>M.I.P. de</given-names>
+            </name>
+            <name>
+              <surname>Malkenson</surname>
+              <given-names>N.C.</given-names>
+            </name>
+            <name>
+              <surname>Font&#xE1;n</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Segovia</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nuevas Formulaciones Fum&#xED;genas para el Control de Vectores de la Enfermedad de Chagas</article-title>
+          <source>Chagas.</source>
+          <year>1988</year>
+          <volume>5</volume>
+          <fpage>2</fpage>
+          <lpage>5</lpage>
+          <comment>(in Spanish)</comment>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00534">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zerba</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fumigant Canisters and other Novel Insecticide Formulations</article-title>
+          <source>Public Health (Bayer)</source>
+          <year>1995</year>
+          <volume>12</volume>
+          <fpage>63</fpage>
+          <lpage>68</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00534">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zerba</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of new Insecticides and Synergistic Formulations for the Chagas&#x2019; Disease vector Control</article-title>
+          <source>Rev. Arg. Microbiol.</source>
+          <year>1988</year>
+          <volume>20</volume>
+          <fpage>25</fpage>
+          <lpage>31</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00534">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zerba</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Insecticidal Activity of pyrethroids on insects of medical importance</article-title>
+          <source>Parasitol. Today.</source>
+          <year>1988</year>
+          <volume>4</volume>
+          <fpage>53</fpage>
+          <lpage>57</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00534">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gonz&#xE1;lez Audino</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Licastro</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Zerba</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thermal behaviour and biological activity of pyrethroids in smoke-generating formulations</article-title>
+          <source>Pestic. Sci.</source>
+          <year>1999</year>
+          <volume>55</volume>
+          <fpage>1187</fpage>
+          <lpage>1193</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00534">
+        <label>8.</label>
+        <note><p>Anonymous, Cyclodextrins Kleptose<sup>&#xAE;</sup>, General Information, Pharmaceutical and Cosmetic Department, ROQUETTE.</p></note>
+      </ref>
+      <ref id="B9-molecules-10-00534">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stella</surname>
+              <given-names>V.J.</given-names>
+            </name>
+            <name>
+              <surname>Rajewsky</surname>
+              <given-names>R. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cyclodextrins: Their future in Drug Formulation and Delivery</article-title>
+          <source>Pharmaceut. Res.</source>
+          <year>1997</year>
+          <volume>14</volume>
+          <fpage>556</fpage>
+          <lpage>567</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00534">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kostense</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>van Helden</surname>
+              <given-names>S.P.</given-names>
+            </name>
+            <name>
+              <surname>Janssen</surname>
+              <given-names>L.H.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modelling and Conformation analysis of &#x3B2;-cyclodextrin complexes</article-title>
+          <source>J. Comput. Aid. Mol. Des.</source>
+          <year>1991</year>
+          <volume>5</volume>
+          <fpage>525</fpage>
+          <lpage>543</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00534">
+        <label>11.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carney</surname>
+              <given-names>R.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Processo para preparacao de un complexo de inclusao de ciclodextrina, tal complexo, composicao insecticida, e proceso para o controle de insetos</article-title>
+          <source>Brasil Patent</source>
+          <patent>401448 A</patent>
+          <year>1985</year>
+          <comment>(In Portuguese)</comment>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00534">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gammon</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Casida</surname>
+              <given-names>J.E.</given-names>
+            </name>
+          </person-group>
+          <source>Pestic. Biochem. Physiol.</source>
+          <year>1981</year>
+          <volume>15</volume>
+          <fpage>81</fpage>
+          <lpage>191</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00534">
+        <label>13.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katsuta</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stable insecticidal fumigant containing pyrethroids, antioxidant and organic foaming agent for cockroach control</article-title>
+          <source>Japanese Patent</source>
+          <patent>0209605 A2</patent>
+          <year>1990</year>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00534">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Allinger</surname>
+              <given-names>N. L.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1977</year>
+          <volume>99</volume>
+          <fpage>8127</fpage>
+          <lpage>8234</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00534">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manunza</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Deiana</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pintore</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Delogu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Gessa</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Molecular Modelling Study of interaction between &#x3B2;-cyclodextrin and Synthetic Pyrethroids</article-title>
+          <source>Carbohyd. Res.</source>
+          <year>1997</year>
+          <volume>300</volume>
+          <fpage>89</fpage>
+          <lpage>93</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00534">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Loukas</surname>
+              <given-names>Y.L.</given-names>
+            </name>
+            <name>
+              <surname>Antoniadou-Vyza</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Papadaki-Valirak</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Machera</surname>
+              <given-names>K.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>&#x3B3;-Cyclodextrin inclusion complex of a new organophosphorous insecticide. Determination of stability constant with HPLC</article-title>
+          <source>J. Agric. Food Chem.</source>
+          <year>1994</year>
+          <fpage>44</fpage>
+          <lpage>48</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00534">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Szente</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Magisztrak</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Szejtli</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Formulation of insect controlling agents with &#x3B2;-cyclodextrin</article-title>
+          <source>J. Pestic. Sci.</source>
+          <year>1990</year>
+          <volume>28</volume>
+          <fpage>7</fpage>
+          <lpage>16</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00534">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Qureschi</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Quadri</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Anwarullah</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Navqui</surname>
+              <given-names>S.N.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of neo pesticides (JHA&#x2019;S) on the morphology , emergence and sterility in <italic>Musca domestic</italic>a PCSIR strain and its relation to phosphatases</article-title>
+          <source>Sonderdruck aus Bd.</source>
+          <year>1983</year>
+          <volume>95</volume>
+          <fpage>304</fpage>
+          <lpage>309</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample availability</italic>: Contact the authors</p>
+      </fn>
+    </fn-group>    
+  </back>
+</article>

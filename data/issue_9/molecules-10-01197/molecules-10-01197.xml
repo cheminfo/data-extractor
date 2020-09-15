@@ -1,0 +1,1860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+ <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+   <article-id pub-id-type="doi">10.3390/10091197</article-id>
+   <article-id pub-id-type="publisher-id">molecules-10-01197</article-id>
+   <article-categories>
+    <subj-group>
+     <subject>Article</subject>
+    </subj-group>
+   </article-categories>
+   <title-group>
+    <article-title>Relationship Between Physicochemical Properties and Herbicidal Activity of 1,2,5-Oxadiazole <italic>N</italic>-Oxide Derivatives</article-title>
+   </title-group>
+   <contrib-group>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Fernandez</surname>
+      <given-names>Luciana A.</given-names>
+     </name>
+     <xref rid="af1-molecules-10-01197" ref-type="aff">1</xref>
+    </contrib>
+		<contrib contrib-type="author">
+     <name>
+      <surname>Santo</surname>
+      <given-names>Marisa R.</given-names>
+     </name>
+     <xref rid="af1-molecules-10-01197" ref-type="aff">1</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Reta</surname>
+      <given-names>Mario</given-names>
+     </name>
+     <xref rid="af1-molecules-10-01197" ref-type="aff">1</xref>
+    </contrib>
+   <contrib contrib-type="author">
+     <name>
+      <surname>Giacomelli</surname>
+      <given-names>Liliana</given-names>
+     </name>
+     <xref rid="af1-molecules-10-01197" ref-type="aff">1</xref>
+    </contrib>
+   <contrib contrib-type="author">
+     <name>
+      <surname>Cattana</surname>
+      <given-names>Rosa</given-names>
+     </name>
+     <xref rid="af1-molecules-10-01197" ref-type="aff">1</xref>
+    </contrib>
+		<contrib contrib-type="author">
+     <name>
+      <surname>Silber</surname>
+      <given-names>Juana J.</given-names>
+     </name>
+     <xref rid="af1-molecules-10-01197" ref-type="aff">1</xref>
+     <xref rid="c1-molecules-10-01197" ref-type="corresp">*</xref>
+    </contrib>
+		<contrib contrib-type="author">
+     <name>
+      <surname>Risso</surname>
+      <given-names>Mariela</given-names>
+     </name>
+     <xref rid="af2-molecules-10-01197" ref-type="aff">2</xref>
+    </contrib>
+		<contrib contrib-type="author">
+     <name>
+      <surname>Cerecetto</surname>
+      <given-names>Hugo</given-names>
+     </name>
+     <xref rid="af2-molecules-10-01197" ref-type="aff">2</xref>
+    </contrib>
+		<contrib contrib-type="author">
+     <name>
+      <surname>Gonzalez</surname>
+      <given-names>Mercedes</given-names>
+     </name>
+     <xref rid="af2-molecules-10-01197" ref-type="aff">2</xref>
+    </contrib>
+		<contrib contrib-type="author">
+     <name>
+      <surname>Olea-Azar</surname>
+      <given-names>Claudio</given-names>
+     </name>
+     <xref rid="af3-molecules-10-01197" ref-type="aff">3</xref>
+    </contrib>
+   </contrib-group>
+   <aff id="af1-molecules-10-01197"><label>1</label>Departamento de Qu&#xED;mica. Universidad Nacional de R&#xED;o Cuarto. Agencia Postal Nro 3. 5800. R&#xED;o Cuarto, Argentina.</aff>
+   <aff id="af2-molecules-10-01197"><label>2</label>Departamento de Qu&#xED;mica Org&#xE1;nica. Facultad de Qu&#xED;mica &#x2013; Facultad de Ciencias. Universidad de la Rep&#xFA;blica. CC 1157. 11800. Montevideo, Uruguay.</aff>
+   <aff id="af3-molecules-10-01197"><label>3</label>Departamento de Qu&#xED;mica Inorg&#xE1;nica y Anal&#xED;tica. Facultad de Ciencias Qu&#xED;micas y Farmac&#xE9;uticas. Universidad de Chile, Chile.</aff>
+   <author-notes>
+    <corresp id="c1-molecules-10-01197"><label>*</label>Author to whom correspondence should be addressed; E-mail <email>jsilber@exa.unrc.edu.ar</email></corresp>
+   </author-notes>
+   <pub-date pub-type="epub">
+    <day>30</day>
+    <month>09</month>
+    <year>2005</year>
+   </pub-date>
+   <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+   <fpage>1197</fpage>
+   <lpage>1208</lpage>
+   <history>
+    <date date-type="received">
+     <day>02</day>
+     <month>12</month>
+     <year>2004</year>
+    </date>
+	<date date-type="rev-recd">
+        <day>08</day>
+        <month>07</month>
+          <year>2005</year>
+        </date>
+    <date date-type="accepted">
+     <day>09</day>
+     <month>07</month>
+     <year>2005</year>
+    </date>
+   </history>
+   <permissions>
+  <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+  <copyright-year>2005</copyright-year>
+  <license license-type="open-access">
+   <p>Reproduction is permitted for noncommercial purposes</p>
+  </license>
+  </permissions>
+   <abstract>
+    <p>The relationship between the herbicidal activity of a number of novel 1,2,5-oxadiazole <italic>N</italic>-oxides and some physicochemical properties potentially related with this bioactivity, such as polarity, molecular volume, proton acceptor ability, lipophilicity, and reduction potential were studied. The semiempirical molecular orbital method AM1 was used to calculate theoretical descriptors such as dipolar moment, molecular volume, Mulliken&#xB4;s charge and the octanol/water partition coefficients (log P<sub>o/w</sub>). The values of the reduction potentials (E<sub>r</sub>) were obtained by cyclic voltammetry. In addition, the retention factors (log k&#x2019;<sub>w</sub>) on a reversed-phase high-performance liquid chromatography (RP-HPLC) column in pure aqueous mobile phases were measured for several <italic>N</italic>-oxide derivatives. The log k&#x2019;<sub>w</sub> values show good correlation with the calculated values of log P<sub>o/w</sub>, showing that the chromatographic parameter can be used as lipophilicity descriptor for these compounds. The multiple regression analysis between the descriptors for the <italic>N</italic>-oxide derivatives and the herbicide activity indicate that the variance in the biological activity can be explained by changes in the lipophilicity and in the reduction potential.</p>
+   </abstract>
+   <kwd-group>
+    <kwd>1,2,5-Oxadiazole <italic>N</italic>-oxide derivatives</kwd>
+    <kwd>herbicides</kwd>
+    <kwd>lipophilicity</kwd>
+   </kwd-group>
+  </article-meta>
+ </front>
+ <body>
+  <sec sec-type="intro">
+   <title>Introduction</title>
+   <p>The bio-response of a compound can be the result of several types of interactions between the bioactive compound and the receptor, such as hydrophobic and electrostatic forces, hydrogen bonding and electron donor acceptor complex [<xref ref-type="bibr" rid="B1-molecules-10-01197">1</xref>]. These interactions are closely related to physicochemical and structural properties of its component molecules. Therefore it is possible the prediction or explanation of the biological behaviour of molecules from their physicochemical properties. The basic assumption underlying this field of research called quantitative structure-activity relationships (QSAR) is that the structure of a molecule determines its performance [<xref ref-type="bibr" rid="B2-molecules-10-01197">2</xref>]. This paradigm can be expressed by P = f (S) [<xref ref-type="bibr" rid="B3-molecules-10-01197">3</xref>], where P is any physical, agrochemical, biomedical, toxicological or environmental activity of interest and S may represent either an empirical property of the total molecular structure, a relevant substructure fragment or a theoretical structural descriptor (or a set of descriptors) quantifying some aspects of molecular structure.</p>
+   <p>Drug lipophilicity is a physicochemical property very useful for bioactivity predictions [<xref ref-type="bibr" rid="B4-molecules-10-01197">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-01197">5</xref>]. Transport and distribution processes within biological systems are to a large extent controlled by lipophilicity of the system components. The highly hydrophobic interior of a bilayer membrane enables or facilitates the passage of lipophilic substances and prevents the free diffusion of polar molecules except water in and out of cells [<xref ref-type="bibr" rid="B6-molecules-10-01197">6</xref>].</p>
+   <p>Lipophilicity is usually measured by determining the equilibrium concentration of the compound in two immiscible polar/non polar liquids and expressed as the logarithm of the partition coefficient. The octanol-water partition coefficient (log P<sub>o/w</sub>) is the parameter most widely used to measure hydrophobicity [<xref ref-type="bibr" rid="B7-molecules-10-01197">7</xref>] because it has been shown that this partition system is a good model for many biological processes [<xref ref-type="bibr" rid="B6-molecules-10-01197">6</xref>]. However, experimental log Po/w measurements are time-consuming and are limited to a certain range, e.g. &#x2013;3&lt; log Po/w &lt;3 [<xref ref-type="bibr" rid="B8-molecules-10-01197">8</xref>]. It is possible to obtain log Po/w values from fragmental contributions of the different atoms using computational calculations. [<xref ref-type="bibr" rid="B9-molecules-10-01197">9</xref>]. Chromatographic methods have been also been used successfully to assess lipophilicity of organic compounds [<xref ref-type="bibr" rid="B10-molecules-10-01197">10</xref>, <xref ref-type="bibr" rid="B11-molecules-10-01197">11</xref>]. Thus, the retention factor in RP-HPLC with pure aqueous mobile phases (log k&#x2019;<sub>w</sub>) is commonly used as a lipophilic descriptor [<xref ref-type="bibr" rid="B8-molecules-10-01197">8</xref>, <xref ref-type="bibr" rid="B12-molecules-10-01197">12</xref>]. Several advantages are attributed to log k&#x2019;<sub>w</sub>. A priori, it reflects polar/no polar partitioning in a manner similar to shake-flask measurements and it is dependent on the solute structure and polar functionalities. However, it is difficult to measure directly, because of the prohibitively long retention times of organic solutes in pure water as mobile phase.</p>
+   <p>On the other hand, electrostatic properties play a crucial role in the receptor-bioactive compound recognition process. A great number of electrostatic descriptors have been described. Basically, semi-empirical and <italic>ab initio</italic> methods have to be distinguished in the electrostatic descriptors determinations. The most frequently used descriptor includes the highest occupied and lower unoccupied molecular orbital, frontier orbital electron densities, Mulliken&#xB4;s population charge distribution and dipole moments [<xref ref-type="bibr" rid="B13-molecules-10-01197">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-01197">14</xref>].</p>
+   <p>In this sense, some electrostatic properties i.e. electron affinity, LUMO&#x2019;s and HOMO&#x2019;s energies can be related to experimental properties such as redox potentials. Furthermore, the latter is known to be related to bio-reduction or bio-oxidation processes of bioactive compounds [<xref ref-type="bibr" rid="B15-molecules-10-01197">15</xref>]. The electrochemical response can be experimentally studied, i.e. by polarographic or by cyclic voltammetry techniques [<xref ref-type="bibr" rid="B16-molecules-10-01197">16</xref>].</p>
+   <p>In this work we studied the relationship between the phytotoxic activity of a number of novel 1,2,5-oxadiazole <italic>N</italic>-oxide with a variegated set of substituents (Scheme I) and some physicochemical properties potentially related with such activity, such as lipophilicity descriptors, dipolar moment, molecular volume, hydrogen bond acceptor ability and reduction potential. Previous studies [<xref ref-type="bibr" rid="B17-molecules-10-01197">17</xref>] have shown that these 1,2,5-oxadiazole <italic>N</italic>-oxide derivatives exhibit moderate to good herbicidal activity against <italic>Triticum aestivum</italic>, indicating that the <italic>N-</italic>oxide moiety could be participating in the phytophore, since in absence of it, a sharp loss of activity was observed (derivative <bold>19</bold>, <xref ref-type="scheme" rid="molecules-10-01197-f003">Scheme 1</xref>).</p>
+	 <fig id="molecules-10-01197-f003" position="float">
+     <object-id pub-id-type="pii">molecules-10-01197-f003_Scheme 1</object-id>
+     <label>Scheme 1</label>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01197-g003.tif"/>
+    </fig>
+  </sec>
+  <sec sec-type="results">
+   <title>Results and Discussion</title>
+   <p>The following parameters have used: the chromatographic log k&#x2019;<sub>w</sub> and the calculated log P<sub>o/w</sub> parameters for lipophilicity; the calculated molecular volume, V, as a geometrical (steric) descriptor; charge density, q<sub>o</sub>, on the O atom of the N&#x2192;O group to estimate the hydrogen-bond acceptor ability [<xref ref-type="bibr" rid="B18-molecules-10-01197">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-01197">19</xref>]; reduction potential, E<sub>r</sub>, and the LUMO&#x2019;s energy as accounting for electron acceptor interactions or electronic affinity; and the calculated dipolar moment, &#x3BC; as an electrostatic descriptor. All the measured and calculated parameters for those compounds are reported in <xref ref-type="table" rid="molecules-10-01197-t001">Table 1</xref>. In the following sections the details the methodology used to obtain this descriptors is described.</p>
+   <sec>
+    <title>Lipophilicity determinations using an octadecylsilane (ODS) RP-HPLC column.</title>
+    <p>Thus, log k'<sub>w</sub> is most often estimated by extrapolating a linear plot of log k' vs. volume percent of organic modifier (&#x3A6;) to 100% water [<xref ref-type="bibr" rid="B20-molecules-10-01197">20</xref>], equation (1):
+    <disp-formula>
+		log k'= log k'<sub>w</sub>  -S &#x3A6;
+		<label>(1)</label>
+    </disp-formula></p>
+    <table-wrap id="molecules-10-01197-t001" position="float">
+     <object-id pub-id-type="pii">molecules-10-01197-t001_Table 1</object-id>
+     <label>Table 1</label>
+     <caption>
+      <p>Herbicidal activity indexes for the <italic>N</italic>-oxide derivatives and some of their experimental and calculated descriptors.</p>
+     </caption>
+     <table>
+ <thead>
+ <tr>
+       <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin">Compound<sup>a</sup></th>
+        <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin">Rw<sup>b</sup></th>
+        <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin">Aw<sup>b</sup></th>
+        <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin">Lfl<sup>b</sup></th>
+        <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin">E<sub>r</sub><sup>c</sup></th>
+        <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin">log k&#x2019;<sub>w</sub><sup>d</sup></th>
+        <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin">log P<sub>o/w</sub><sup>e</sup></th>
+        <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin">V<sup>f</sup></th>
+        <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin">&#x3BC;<sup>f</sup></th>
+        <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin">q<sub>o</sub><sup>N&#x2192;O, f</sup></th>
+       </tr>
+ </thead>
+      <tbody>
+       <tr>
+        <td align="center" valign="top"><bold>1</bold></td>
+        <td align="center" valign="top">-19</td>
+        <td align="center" valign="top">18</td>
+        <td align="center" valign="top">-4</td>
+        <td align="center" valign="top">-1.20</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">4.95</td>
+        <td align="center" valign="top">534</td>
+        <td align="center" valign="top">2.06</td>
+        <td align="center" valign="top">0.238</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>2</bold></td>
+        <td align="center" valign="top">-48</td>
+        <td align="center" valign="top">16</td>
+        <td align="center" valign="top">-22</td>
+        <td align="center" valign="top">-1.19</td>
+        <td align="center" valign="top">3.34</td>
+        <td align="center" valign="top">3.76</td>
+        <td align="center" valign="top">742</td>
+        <td align="center" valign="top">4.52</td>
+        <td align="center" valign="top">0.304</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>3</bold></td>
+        <td align="center" valign="top">-57</td>
+        <td align="center" valign="top">8</td>
+        <td align="center" valign="top">-30</td>
+        <td align="center" valign="top">-1.03</td>
+        <td align="center" valign="top">3.24</td>
+        <td align="center" valign="top">3.69</td>
+        <td align="center" valign="top">723</td>
+        <td align="center" valign="top">3.94</td>
+        <td align="center" valign="top">0.304</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>4</bold></td>
+        <td align="center" valign="top">-15</td>
+        <td align="center" valign="top">-7</td>
+        <td align="center" valign="top">-4</td>
+        <td align="center" valign="top">-0.99</td>
+        <td align="center" valign="top">4.24</td>
+        <td align="center" valign="top">4.25</td>
+        <td align="center" valign="top">573</td>
+        <td align="center" valign="top">4.7</td>
+        <td align="center" valign="top">0.292</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>5</bold></td>
+        <td align="center" valign="top">0</td>
+        <td align="center" valign="top">0</td>
+        <td align="center" valign="top">0</td>
+        <td align="center" valign="top">-1.22</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">4.03</td>
+        <td align="center" valign="top">943</td>
+        <td align="center" valign="top">4.07</td>
+        <td align="center" valign="top">0.298</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>6</bold></td>
+        <td align="center" valign="top">-11</td>
+        <td align="center" valign="top">-5</td>
+        <td align="center" valign="top">-5</td>
+        <td align="center" valign="top">-1.62</td>
+        <td align="center" valign="top">0.22</td>
+        <td align="center" valign="top">1.88</td>
+        <td align="center" valign="top">375</td>
+        <td align="center" valign="top">2.17</td>
+        <td align="center" valign="top">0.302</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>7</bold></td>
+        <td align="center" valign="top">97</td>
+        <td align="center" valign="top">-50</td>
+        <td align="center" valign="top">-50</td>
+        <td align="center" valign="top">-2.08</td>
+        <td align="center" valign="top">1.47</td>
+        <td align="center" valign="top">2.33</td>
+        <td align="center" valign="top">575</td>
+        <td align="center" valign="top">5.67</td>
+        <td align="center" valign="top">0.312</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>8</bold></td>
+        <td align="center" valign="top">-75</td>
+        <td align="center" valign="top">-85</td>
+        <td align="center" valign="top">-50</td>
+        <td align="center" valign="top">-1.59</td>
+        <td align="center" valign="top">4.39</td>
+        <td align="center" valign="top">4.01</td>
+        <td align="center" valign="top">859</td>
+        <td align="center" valign="top">7.91</td>
+        <td align="center" valign="top">0.316</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>9</bold></td>
+        <td align="center" valign="top">-86</td>
+        <td align="center" valign="top">-95</td>
+        <td align="center" valign="top">--</td>
+        <td align="center" valign="top">--</td>
+        <td align="center" valign="top">1.18</td>
+        <td align="center" valign="top">2.25</td>
+        <td align="center" valign="top">568</td>
+        <td align="center" valign="top">1.38</td>
+        <td align="center" valign="top">0.309</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+        <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+        <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+        <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+        <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+        <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+        <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+        <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+        <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+        <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>10</bold></td>
+        <td align="center" valign="top">-69</td>
+        <td align="center" valign="top">-58</td>
+        <td align="center" valign="top">-58</td>
+        <td align="center" valign="top">-2.00</td>
+        <td align="center" valign="top">2.18</td>
+        <td align="center" valign="top">3.42</td>
+        <td align="center" valign="top">451</td>
+        <td align="center" valign="top">4.76</td>
+        <td align="center" valign="top">0.274</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>11</bold></td>
+        <td align="center" valign="top">-4</td>
+        <td align="center" valign="top">-5</td>
+        <td align="center" valign="top">-30</td>
+        <td align="center" valign="top">-0.93</td>
+        <td align="center" valign="top">2.40</td>
+        <td align="center" valign="top">4.27</td>
+        <td align="center" valign="top">454</td>
+        <td align="center" valign="top">1.39</td>
+        <td align="center" valign="top">0.274</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>12</bold></td>
+        <td align="center" valign="top">-23</td>
+        <td align="center" valign="top">-9</td>
+        <td align="center" valign="top">-16</td>
+        <td align="center" valign="top">--</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">2.66</td>
+        <td align="center" valign="top">475</td>
+        <td align="center" valign="top">2.02</td>
+        <td align="center" valign="top">0.280</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>13</bold></td>
+        <td align="center" valign="top">-17</td>
+        <td align="center" valign="top">13</td>
+        <td align="center" valign="top">-6</td>
+        <td align="center" valign="top">-1.17</td>
+        <td align="center" valign="top">2.02</td>
+        <td align="center" valign="top">3.08</td>
+        <td align="center" valign="top">660</td>
+        <td align="center" valign="top">5.20</td>
+        <td align="center" valign="top">0.276</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>14</bold></td>
+        <td align="center" valign="top">--</td>
+        <td align="center" valign="top">--</td>
+        <td align="center" valign="top">--</td>
+        <td align="center" valign="top">-1.10</td>
+        <td align="center" valign="top">2.31</td>
+        <td align="center" valign="top">2.60</td>
+        <td align="center" valign="top">809</td>
+        <td align="center" valign="top">8.8</td>
+        <td align="center" valign="top">0.278</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>15</bold></td>
+        <td align="center" valign="top">-11</td>
+        <td align="center" valign="top">-2</td>
+        <td align="center" valign="top">-23</td>
+        <td align="center" valign="top">-1.54</td>
+        <td align="center" valign="top">1.46</td>
+        <td align="center" valign="top">2.20</td>
+        <td align="center" valign="top">685</td>
+        <td align="center" valign="top">3.59</td>
+        <td align="center" valign="top">0.281</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>16</bold></td>
+        <td align="center" valign="top">-57</td>
+        <td align="center" valign="top">-52</td>
+        <td align="center" valign="top">-55</td>
+        <td align="center" valign="top">-2.06</td>
+        <td align="center" valign="top">1.27</td>
+        <td align="center" valign="top">4.89</td>
+        <td align="center" valign="top">675</td>
+        <td align="center" valign="top">2.59</td>
+        <td align="center" valign="top">0.278</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>17</bold></td>
+        <td align="center" valign="top">-51</td>
+        <td align="center" valign="top">-66</td>
+        <td align="center" valign="top">-71</td>
+        <td align="center" valign="top">-1.54</td>
+        <td align="center" valign="top">2.74</td>
+        <td align="center" valign="top">5.75</td>
+        <td align="center" valign="top">706</td>
+        <td align="center" valign="top">4.93</td>
+        <td align="center" valign="top">0.269</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>18</bold></td>
+        <td align="center" valign="top">-91</td>
+        <td align="center" valign="top">-73</td>
+        <td align="center" valign="top">-50</td>
+        <td align="center" valign="top">-1.43</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">6.74</td>
+        <td align="center" valign="top">751</td>
+        <td align="center" valign="top">3.65</td>
+        <td align="center" valign="top">0.265</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-bottom:hidden"><bold>19</bold></td>
+        <td align="center" valign="top" style="border-bottom:hidden">10</td>
+        <td align="center" valign="top" style="border-bottom:hidden">20</td>
+        <td align="center" valign="top" style="border-bottom:hidden">35</td>
+        <td align="center" valign="top" style="border-bottom:hidden">--</td>
+        <td align="center" valign="top" style="border-bottom:hidden">2.21</td>
+        <td align="center" valign="top" style="border-bottom:hidden">1.80</td>
+        <td align="center" valign="top" style="border-bottom:hidden">635</td>
+        <td align="center" valign="top" style="border-bottom:hidden">3.36</td>
+        <td align="center" valign="top" style="border-bottom:hidden">c</td>
+       </tr>
+      </tbody>
+     </table>
+	 <table-wrap-foot>
+      <fn>
+       <p><sup>a</sup> Compounds 1-9 oxadiazole derivatives, 10-19 benzooxadiazole derivatives. <sup>b</sup> Pre-emergent herbicidal activity indexes(change of the corresponding parameters respect to untreated reference, (-) denote decreasing parameters, (+) denote increasing parameters : radicular weight (rw), aerial weight (aw), and length of the leaf (lfl); <sup>c</sup> Reduction Potential (V, vs Calomel saturated electrode); <sup>d</sup> The logarithm of the chromatographic retention factor extrapolated to pure water; <sup>e</sup> Computationally calculated parameters: P<sub>o/w</sub> is the octanol-water partition coefficient, V<sup>f</sup> is the molecular volume, &#x3BC; the dipolar moment and q<sub>o</sub><sup>N&#x2192;O</sup> the atomic charge on the O atom of <italic>N</italic>-oxide moiety respectively;</p>
+      </fn>
+     </table-wrap-foot>
+    </table-wrap>
+    <p>Kaliszan [<xref ref-type="bibr" rid="B21-molecules-10-01197">21</xref>] discussed the shortcomings of using log k&#x2019;<sub>w</sub> as a lipophilic descriptor, that includes the actual dependence of log k&#x2019; with &#x3A6; (linear or quadratic) and, in some instances, with the organic modifier which results in a questionable physical meaning for log k&#x2019;<sub>w</sub>. Neither the log P<sub>o/w</sub> nor any of the chromatographic hydrophobicity scales is unique, pharmacologically distinguished [<xref ref-type="bibr" rid="B22-molecules-10-01197">22</xref>]. In light of this, we believe that the best chromatographic or partitioning system for a particular case under study is that which better mimics the molecular interactions between the drug and the biological system, but up to the present, finding that scale is an empirical process.</p>
+    <p>An alternative method to estimate the log k'<sub>w</sub> values uses the E<sub>T</sub>(30) solvatochromic scale, an empirical measure of solvent polarity (equation 2):
+    <disp-formula>
+		log k'<sub>w</sub> = a -b E<sub>T</sub>(30) 
+		<label>(2)</label>
+    </disp-formula></p>
+    <p>Here log k'<sub>w</sub> is obtained by replacing the E<sub>T</sub>(30) value of pure water in equation 2 and the a and b coefficients are obtained by linear extrapolation of log k'<sub>w</sub> vs E<sub>T</sub>(30) values for the different mobile phases employed [<xref ref-type="bibr" rid="B22-molecules-10-01197">22</xref>]. The logarithm of the solute retention factor, k&#x2019; = [t<sub>r</sub> &#x2013; t<sub>0</sub>]/t<sub>0</sub>, (t<sub>r</sub> and t<sub>o</sub> being the solute retention time and the dead time, respectively) in an ODS column obtained for each mobile phase composition was extrapolated to pure water (by using equation 2) to obtain the lipophilic descriptor log k&#x2019;<sub>w</sub> . We used equation 2 since no linearity was observed with equation 1 for most of the compounds. The relative standard deviations for three replicates of k&#x2019; were, in each instance, fairly low (under 0.5%). The regression equation parameters (equation 2) are reported in <xref ref-type="table" rid="molecules-10-01197-t002">Table 2</xref>.</p>
+    <table-wrap id="molecules-10-01197-t002" position="float">
+     <object-id pub-id-type="pii">molecules-10-01197-t002_Table 2</object-id>
+     <label>Table 2</label>
+     <caption>
+      <p>Retention model parameters from equation 2 for the studied <italic>N</italic>-oxide derivatives.</p>
+     </caption>
+     <table>
+ <thead>
+       <tr>
+        <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">Compound</th>
+        <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">log k&#x2019;<sub>w</sub></th>
+        <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">-a</th>
+        <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">b</th>
+        <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">r<sup>2,a</sup></th>
+       </tr>
+ </thead>
+      <tbody>
+       <tr>
+        <td align="center" valign="top"><bold>1<sup>c</sup></bold></td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>2</bold></td>
+        <td align="center" valign="top">3.34</td>
+        <td align="center" valign="top">25.1</td>
+        <td align="center" valign="top">0.45</td>
+        <td align="center" valign="top">0.9992</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>3</bold></td>
+        <td align="center" valign="top">3.24</td>
+        <td align="center" valign="top">25.2</td>
+        <td align="center" valign="top">0.45</td>
+        <td align="center" valign="top">0.9996</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>4</bold></td>
+        <td align="center" valign="top">4.24</td>
+        <td align="center" valign="top">29.1</td>
+        <td align="center" valign="top">0.53</td>
+        <td align="center" valign="top">0.9932</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>5<sup>c</sup></bold></td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>6</bold></td>
+        <td align="center" valign="top">0.22</td>
+        <td align="center" valign="top">8.5</td>
+        <td align="center" valign="top">0.14</td>
+        <td align="center" valign="top">0.9722</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>7</bold></td>
+        <td align="center" valign="top">1.47</td>
+        <td align="center" valign="top">13.5</td>
+        <td align="center" valign="top">0.24</td>
+        <td align="center" valign="top">0.9956</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>8</bold></td>
+        <td align="center" valign="top">4.39</td>
+        <td align="center" valign="top">31.8</td>
+        <td align="center" valign="top">0.57</td>
+        <td align="center" valign="top">0.9914</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>9</bold></td>
+        <td align="center" valign="top">1.18</td>
+        <td align="center" valign="top">11.9</td>
+        <td align="center" valign="top">0.21</td>
+        <td align="center" valign="top">0.9954</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>10</bold></td>
+        <td align="center" valign="top">2.18</td>
+        <td align="center" valign="top">13.5</td>
+        <td align="center" valign="top">0.25</td>
+        <td align="center" valign="top">0.9920</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>11</bold></td>
+        <td align="center" valign="top">2.40</td>
+        <td align="center" valign="top">19.1</td>
+        <td align="center" valign="top">0.34</td>
+        <td align="center" valign="top">0.9565</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>12<sup>b</sup></bold></td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>13</bold></td>
+        <td align="center" valign="top">2.02</td>
+        <td align="center" valign="top">16.7</td>
+        <td align="center" valign="top">0.29</td>
+        <td align="center" valign="top">0.9980</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>14</bold></td>
+        <td align="center" valign="top">2.31</td>
+        <td align="center" valign="top">21.1</td>
+        <td align="center" valign="top">0.37</td>
+        <td align="center" valign="top">0.9978</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>15</bold></td>
+        <td align="center" valign="top">1.46</td>
+        <td align="center" valign="top">15.6</td>
+        <td align="center" valign="top">0.27</td>
+        <td align="center" valign="top">0.9972</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>16</bold></td>
+        <td align="center" valign="top">1.27</td>
+        <td align="center" valign="top">10.3</td>
+        <td align="center" valign="top">0.18</td>
+        <td align="center" valign="top">0.9851</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top"><bold>17</bold></td>
+        <td align="center" valign="top">2.74</td>
+        <td align="center" valign="top">18.47</td>
+        <td align="center" valign="top">0.34</td>
+        <td align="center" valign="top">0.9958</td>
+       </tr>
+        <tr>
+        <td align="center" valign="top"><bold>18<sup>c</sup></bold></td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+        <td align="center" valign="top">-</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-bottom:solid thin"><bold>19</bold></td>
+        <td align="center" valign="top" style="border-bottom:solid thin">2.21</td>
+        <td align="center" valign="top" style="border-bottom:solid thin">19.2</td>
+        <td align="center" valign="top" style="border-bottom:solid thin">0.34</td>
+        <td align="center" valign="top" style="border-bottom:solid thin">0.9864</td>
+       </tr>
+      </tbody>
+     </table>
+     <table-wrap-foot>
+      <fn>
+       <p><sup>a</sup> Square regression coefficient; <sup>b</sup> Appropriate elution was not possible for the whole range</p>
+      </fn>
+     </table-wrap-foot>
+    </table-wrap>
+    <p>According to structural and polarity distribution analogies between a typical solvated HPLC reverse phase and the octanol-water system, it is expected for the theoretically calculated log P<sub>o/w</sub> parameter to be linearly related to the partition chromatographic parameter, log k'<sub>w</sub> (equation 3) [<xref ref-type="bibr" rid="B23-molecules-10-01197">23</xref>].
+    <disp-formula>
+		log P<sub>o/w</sub> = m log k'<sub>w</sub> + n
+		<label>(3)</label>
+    </disp-formula>
+	  where, m and n are the regression constants.</p>
+    <p>In <xref ref-type="fig" rid="molecules-10-01197-f001">Figure 1</xref> the extrapolated log k&#xB4;<sub>w</sub> for the ODS column are plotted against the calculated log P<sub>o/w</sub> data. A fair correlation (equation 4) is obtained:
+    <disp-formula>
+	log k'<sub>w</sub> = (1.3 &#xB1;0.2) log P<sub>o/w</sub> - (2.0 &#xB1;0.6)
+		<label>(4)</label>
+    </disp-formula>
+	  <disp-formula>
+	  r<sup>2</sup> = 0.8491&#x2003;&#x2003;n = 11
+	  </disp-formula></p>
+    <fig id="molecules-10-01197-f001" position="float">
+     <label>Figure 1</label>
+     <caption>
+      <p>Relationship between log k&#x2019;<sub>w</sub> and log P<sub>o/w</sub> for ODS column.</p>
+     </caption>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01197-g001.tif"/>
+    </fig>
+    <p>Thus, considering the approximations of the calculated log P<sub>o/w</sub> data and assuming that this parameter as mostly reflecting hydrophobic interactions (as in an octanol-water partition system), the obtained linear regression means that the molecular interactions between these <italic>N</italic>-oxide derivatives and the ODS column are mainly of hydrophobic nature. Consequently, both descriptors can be used alternatively to model lipophilic interactions.</p>
+   </sec>
+   <sec>
+    <title>Cyclic Voltammetry and ESR</title>
+    <p><xref ref-type="table" rid="molecules-10-01197-t001">Table 1</xref> lists the values of the first cathodic peaks, the reduction potentials, E<sub>r</sub>, obtained by cyclic voltammetry. These compounds displayed comparable voltammetric behaviour, showing one, two or three well-defined reduction waves both in DMSO and in DMF. The first wave corresponds to a quasi-reversible process that could be assigned to the following process:
+		<disp-formula>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01197-i001.tif"/>
+</disp-formula></p>
+    <p>To confirm the free radical production in the first wave we performed ESR spectroscopy. Thus, the <italic>N</italic>-oxide free radicals were prepared <italic>in situ</italic> by electrochemical reductions in DMSO, applying a potential corresponding to the first wave for the <italic>N</italic>-oxides as obtained from the cyclic voltammetric experiments. The interpretation of the ESR spectra by means of a simulation process led to the determination of the coupling constants for all the magnetic nuclei, confirmed by theoretical calculations. [<xref ref-type="bibr" rid="B26-molecules-10-01197">26</xref>] In <xref ref-type="fig" rid="molecules-10-01197-f002">Figure 2</xref> the ESR spectrum of compound <bold>18</bold> is shown as an example. In this case, two triplets could be assigned to the two nitrogen atoms of the oxadiazole system (a<sub>N1</sub>= 7.10 G; a<sub>N2</sub>= 2.50 G) and one triplet was accounted for two aromatic ring hydrogen atoms (a<sub>H</sub>= 0.70 G).</p>
+    <fig id="molecules-10-01197-f002" position="float">
+     <label>Figure 2</label>
+     <caption>
+      <p>ESR spectra of compound 18 in DMSO.</p>
+     </caption>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01197-g002.tif"/>
+    </fig>
+   </sec>
+   <sec>
+    <title>Calculation of quantum-chemical descriptors</title>
+    <p>The calculation of the quantum-chemical descriptors&#x3BC;, and q<sub>0</sub>, for the different compounds were performed using a semiempirical molecular orbital method (AM1) [<xref ref-type="bibr" rid="B31-molecules-10-01197">31</xref>], starting from standard bond lengths and bond angles. All geometries were fully optimised by minimising the energy with respect to geometrical variables without symmetry constraints, using a 0.01 Kcal/mol gradient and the Polak-Ribierie algorithm as convergence criteria. The log P<sub>o/w</sub> and V values were calculated by using the ChemPlus extension.</p>
+    <p>Complexes of pyridine <italic>N</italic>-oxides with some acids are used in agriculture to regulate plant growth rates. In order to analyse the mechanism of this biological activity in [<xref ref-type="bibr" rid="B18-molecules-10-01197">18</xref>] the structural and electronic characteristic of the hydrogen bonding interaction between pyridine derivatives and phenols by experimental and semiempirical methods (AM1 and PM3) was studied. They concluded that the proton acceptor ability of pyridine <italic>N</italic>-oxide derivatives correlates with the charge (q<sub>o</sub>) on the oxygen atom of the N&#x2192;O group. Changes in the charge of the oxygen atom are reflected in the equilibrium constant of complex formation. In the present work, q<sub>o</sub> was utilized as hydrogen bond acceptor ability index.</p>
+    <p>In the oxadiazole derivatives (compounds 1-9) the different functionalities are included in the same cycle than the N&#x2192;O. Consequently, the changes observed in the Mulliken&#xB4;s charge (q<sub>o</sub>) on the oxygen atom of the N&#x2192;O group for different functionalities, are more significant than in the benzo-oxadiazole derivatives (compounds 10-18, <xref ref-type="table" rid="molecules-10-01197-t001">Table 1</xref>).</p>
+   </sec>
+   <sec>
+    <title>Contributing factors to the biological response</title>
+    <p>The choice of the descriptors utilized in this work is based in previous studies that have shown that electronic effects and lipophilic-hydrophilic balance of the compounds may explain some differences in biological activity [<xref ref-type="bibr" rid="B24-molecules-10-01197">24</xref>]. As multilinearity diagnostic the correlation matrix for the used physicochemical properties descriptors was performed (<xref ref-type="table" rid="molecules-10-01197-t003">Table 3</xref>). The values obtained indicate a small cross-correlation between most of the descriptors, except to logk&#xB4;<sub>w</sub> and V. The analysis of the correlation matrix allowed one to safely use these factors in the multi-parameter regression [<xref ref-type="bibr" rid="B24-molecules-10-01197">24</xref>]. However, calculated log P<sub>o/w</sub> and q<sub>o</sub> show certain correlation when they are analyzed by family of compounds ( r<sup>2</sup> = 0.924 for compounds 1-5 and r<sup>2</sup> = 0.775 for compounds 10-18) such was described by [<xref ref-type="bibr" rid="B19-molecules-10-01197">19</xref>].</p>
+    <table-wrap id="molecules-10-01197-t003" position="float">
+     <object-id pub-id-type="pii">molecules-10-01197-t003_Table 3</object-id>
+     <label>Table 3</label>
+     <caption>
+      <p>Correlation matrix for the used physicochemical descriptors</p>
+     </caption>
+	  <table>
+      <thead>
+       <tr>
+        <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin;border-top:hidden"> </th>
+        <th align="center" valign="top" style="border:solid thin">E<sub>r</sub></th>
+        <th align="center" valign="top" style="border:solid thin">logk&#xB4;<sub>w</sub></th>
+        <th align="center" valign="top" style="border:solid thin">logP<sub>o/w</sub></th>
+        <th align="center" valign="top" style="border:solid thin">V</th>
+        <th align="center" valign="top" style="border:solid thin">&#x3BC;</th>
+        <th align="center" valign="top" style="border:solid thin">q<sub>o</sub></th>
+       </tr>
+      </thead>
+      <tbody>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>E<sub>r</sub></bold></td>
+        <td align="center" valign="top" style="border-right:solid thin">1</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.25</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.03</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.02</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.05</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.01</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>Logk&#xB4;<sub>w</sub></bold></td>
+        <td align="center" valign="top" style="border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-right:solid thin">1</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.92 (4 outliers)</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.78</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.37</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.02</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>logP<sub>o/w</sub></bold></td>
+        <td align="center" valign="top" style="border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-right:solid thin">1</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.13</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.01</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.23</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>V</bold></td>
+        <td align="center" valign="top" style="border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-right:solid thin">1</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.29</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.13</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>&#x3BC;</bold></td>
+        <td align="center" valign="top" style="border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-right:solid thin">1</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.17</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin"><bold>q<sub>o</sub></bold></td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1</td>
+       </tr>
+      </tbody>
+     </table>
+    </table-wrap>
+    <p>Multi-parameter regressions between the different herbicide bioactivity indexes and the calculated and experimental descriptors were performed. The adjust regression coefficient (AdjR-squared) has been utilized as evaluation criteria of the regression sub-models. The regression model quality has been validated in function of the analysis of residuals. The best results are summarized in <xref ref-type="table" rid="molecules-10-01197-t004">Table 4</xref>. No good regressions were obtained with the calculated quantum-chemical parameters V, q<sub>o</sub>, and &#x3BC;.</p>
+    <table-wrap id="molecules-10-01197-t004" position="float">
+     <object-id pub-id-type="pii">molecules-10-01197-t004_Table 4</object-id>
+     <label>Table 4</label>
+     <caption>
+      <p>Multi-parameter regressions between the biological indexes and physico-chemical properties of <italic>N</italic>-oxide derivatives</p>
+     </caption>
+     <table style="border:solid thin">
+      <thead>
+       <tr>
+        <th align="center" valign="top" style="border:solid thin">N&#xB0;</th>
+        <th align="center" valign="top" style="border:solid thin">Multi-parameter regression</th>
+        <th align="center" valign="top" style="border:solid thin">R-squared</th>
+        <th align="center" valign="top" style="border:solid thin">Adj-R-squared</th>
+        <th align="center" valign="top" style="border:solid thin">Prob&gt; F</th>
+        <th align="center" valign="top" style="border:solid thin">n <sup>b</sup></th>
+       </tr>
+      </thead>
+      <tbody>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>I</bold></td>
+        <td align="center" valign="top" style="border-right:solid thin"><italic><bold>aw</bold></italic> = (167 &#xB1; 26) + (95&#xB1;12) E<sub>r</sub> &#x2013; (18&#xB1;3) log k&#x2019;<sub>w</sub></td>
+        <td align="center" valign="top" style="border-right:solid thin">0.8866</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.8542</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.005</td>
+        <td align="center" valign="top" style="border-right:solid thin">10</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>II</bold></td>
+        <td align="center" valign="top" style="border-right:solid thin"><italic><bold>aw</bold></italic>
+         = (132 &#xB1; 24) + (66&#xB1;10)E<sub>r</sub> &#x2013; (15&#xB1;3) log P <sub>o/w</sub></td>
+        <td align="center" valign="top" style="border-right:solid thin">0.7490</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.7074</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.0005</td>
+        <td align="center" valign="top" style="border-right:solid thin">13</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>III</bold></td>
+        <td align="center" valign="top" style="border-right:solid thin"><italic><bold>lfl</bold></italic> = (78 &#xB1; 20) + (56 &#xB1; 9) E<sub>r</sub> &#x2013; (9&#xB1;3) log k&#x2019;<sub>w</sub></td>
+        <td align="center" valign="top" style="border-right:solid thin">0.8270</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.7780</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.002</td>
+        <td align="center" valign="top" style="border-right:solid thin">10</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin"><bold>IV</bold></td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><italic><bold>lfl</bold></italic> = (74 &#xB1; 17) + (48&#xB1;9) E<sub>r</sub> &#x2013; (8&#xB1;2) log P <sub>o/w</sub></td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">0.8445</td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">0.8000</td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">0.0015</td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">10</td>
+       </tr>
+      </tbody>
+     </table>
+     <table-wrap-foot>
+      <fn>
+       <p><sup>a</sup> number of compounds</p>
+      </fn>
+     </table-wrap-foot>
+    </table-wrap>
+    <p>However, acceptable regression was obtained with the experimental descriptors E<sub>r</sub> and log k&#x2019;<sub>w</sub>, and the <bold><italic>aw</italic></bold> biological index. (<xref ref-type="table" rid="molecules-10-01197-t004">Table 4</xref>, I). The use of the calculated lipophilic descriptor logP<sub>o/w</sub> values for correlation (<xref ref-type="table" rid="molecules-10-01197-t004">Table 4</xref>, II) yield comparable results that as in I. That demonstrates than log k&#x2019;<sub>w</sub> and log P<sub>o/w</sub> descriptors can be used alternatively for these compounds to model lipophilic interactions. There are similar correlations between physicochemical descriptors and both <bold><italic>aw</italic></bold> (<xref ref-type="table" rid="molecules-10-01197-t004">Table 4</xref>, I and II) and <bold><italic>lfl</italic></bold> biological indexes (<xref ref-type="table" rid="molecules-10-01197-t004">Table 4</xref>, III and IV). These results are not surprising since <bold><italic>aw</italic></bold> and <bold><italic>lfl</italic></bold> are related parameters as is shown in the correlation matrix given in <xref ref-type="table" rid="molecules-10-01197-t005">Table 5</xref>.</p>
+    <table-wrap id="molecules-10-01197-t005" position="float">
+     <object-id pub-id-type="pii">molecules-10-01197-t005_Table 5</object-id>
+     <label>Table 5</label>
+     <caption>
+      <p>The correlation matrix between herbicidal activity indexes of 1,2,5-oxadiazole <italic>N</italic>-oxide derivatives.</p>
+     </caption>
+	  <table>
+      <thead>
+       <tr>
+        <th align="center" valign="top" style="border-top:hidden"></th>
+        <th align="center" valign="top" style="border:solid thin">rw</th>
+        <th align="center" valign="top" style="border:solid thin">aw</th>
+        <th align="center" valign="top" style="border:solid thin">lfl</th>
+       </tr>
+      </thead>
+      <tbody>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-top:solid thin;border-right:solid thin"><bold>rw </bold></td>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin">1</td>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin">0.19</td>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin">0.13</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>aw</bold></td>
+        <td align="center" valign="top" style="border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-right:solid thin">1</td>
+        <td align="center" valign="top" style="border-right:solid thin">0.67</td>
+       </tr>
+       <tr>
+        <td align="center" valign="top" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin"><bold>lfl</bold></td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">&#x2013;</td>
+        <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1</td>
+       </tr>
+      </tbody>
+     </table>
+    </table-wrap>
+    <p>On the other hand, very poor correlations were obtained with the <bold><italic>rw</italic></bold> index. Other physicochemical descriptors could be related to the oxadiazole&#x2019;s effects over radicular weight, presumably because the mechanism of action at this level is different from that who affects the aerial parts of the plant.</p>
+    <p>Also, a relevant relationship was observed between the variance in the biological activity produced by changes in the different functionalities of the <italic>N</italic>-oxide derivatives and both the reduction potential and lipophilicity (<xref ref-type="table" rid="molecules-10-01197-t004">Table 4</xref>). We propose that the interaction between the drug and the receptor is electronic in nature, where the <italic>N</italic>-oxide moiety participates in the redox process, but also it depends on the hydrophobic balance of the compounds.</p>
+   </sec>
+  </sec>
+  <sec>
+   <title>Conclusions</title>
+   <p>The results obtained show that log k&#x2019;<sub>w</sub> and log P<sub>o/w</sub> descriptors can be used alternatively to model lipophilic interactions for the <italic>N-</italic>oxide series studied. An irrelevant relationship was observed between the variance in the biological activity produced by changes in the different functionalities in the <italic>N</italic>-oxide derivatives and the proton acceptor ability, measured by the M&#xFC;lliken&#xB4;s charge on the oxygen atom of the N-oxide (q<sub>o</sub>), probably due to the small variation observed in this descriptor for the studied compounds. The obtained physicochemical descriptors E<sub>r</sub> and log k&#x2019;<sub>w</sub> allow a qualitative, reasonable explanation for the bioactivity data of these <italic>N</italic>-oxide derivatives with a variegated set of substituents.</p>
+  </sec>
+  <sec>
+   <title>Experimental</title>
+   <sec>
+    <title>General</title>
+    <p>The 1,2,5-oxadiazole <italic>N-</italic>oxide derivatives studied, summarized in <xref ref-type="scheme" rid="molecules-10-01197-f003">Scheme 1</xref>, were prepared as described previously [<xref ref-type="bibr" rid="B17-molecules-10-01197">17</xref>]. Acetonitrile (ACN) was HPLC grade from Sintorgan and used as received except for the chromatographic measurements for which was filtered through a Nylon 66, 0.45 &#x3BC;m membrane. For the spectroscopic studies, the UV cut-off point in 10 mm cell against air was used as purity criteria [<xref ref-type="bibr" rid="B25-molecules-10-01197">25</xref>]. Ultra-pure water was obtained using LABCONCO model 90901-01 equipment and then filtered through a cellulose nitrate 0.45 &#x3BC;m filter (MSF). A Varian Model 5000 liquid chromatograph with manual loop injector connected to a model 2550 UV-visible detector and to a Varian 4270/4290 integrator was used for liquid chromatography. A Micropack MCH-10 column, 150 x 0.46 mm i.d. (ODS) thermostated at 25&#xB0;C was used. The dead time (to) was measured using an aqueous solution of NaNO2 at 210 nm. The UV-visible spectroscopic measurements were made in a Shimadzu UV 2401 PC spectrophotometer thermostated cells. For cyclic voltammetry studies, dimethylsulfoxide (DMSO) and dimethylformamide (DMF) (spectroscopy grade) were obtained from Aldrich. Tetrabutylammonium perchlorate (TBAP) used as supporting electrolyte was obtained from Fluka. Cyclic voltammetry was carried out using a Weenking POS 88 instrument with a Kipp Zonen BD93 recorder, in DMSO or DMF (<italic>ca</italic> 1.0 x 10<sup>-3</sup> mol dm<sup>-3</sup>), under a nitrogen atmosphere, with TBAP (<italic>ca.</italic> 0.1 mol dm<sup>-3</sup>), using three-electrode cells. A mercury-dropping electrode was used as the working electrode, a platinum wire as the auxiliary electrode, and saturated calomel as the reference electrode [<xref ref-type="bibr" rid="B26-molecules-10-01197">26</xref>]. To analyze the products obtained in the cyclic voltammetry first waves (one electro reduction product), electron spin resonance (ESR) spectroscopy was employed [<xref ref-type="bibr" rid="B27-molecules-10-01197">27</xref>,<xref ref-type="bibr" rid="B28-molecules-10-01197">28</xref>]. The <italic>N</italic>-oxide radicals were generated by <italic>in situ</italic> electrolytic reduction at 25&#xB0;C and the ESR spectra were recorded in the X band (9.85 GHz) using a Bruker ECS 106 spectrometer with a rectangular cavity and 50 KHz field modulation. The hyperfine splitting constants were estimated to be accurate within 0.05 G [<xref ref-type="bibr" rid="B29-molecules-10-01197">29</xref>,<xref ref-type="bibr" rid="B30-molecules-10-01197">30</xref>]. The quantum chemical descriptors (dipolar moment, &#x3BC;, and the Mulliken&#xB4;s charge (q<sub>o</sub>) on the oxygen atom of the N&#x2192;O group of the <italic>N</italic>-oxide derivatives) were calculated by semiempirical molecular orbital methods AM1 [<xref ref-type="bibr" rid="B31-molecules-10-01197">31</xref>] using the HyperChem software, version 5.0. The log P<sub>o/w</sub> , and V values were calculated by using the ChemPlus module of HyperChem 5.0. The biological activity, evaluated in pre-emergence herbicide assays, was expressed as the decrease in the following parameters: length of first leaf (lfl), aerial weight (aw), radicular weight (rw), compared with an untreated control. The herbicide evaluation was described in detail in reference [<xref ref-type="bibr" rid="B17-molecules-10-01197">17</xref>].</p>
+   </sec>
+  </sec>
+ </body>
+ <back>
+  <ack>
+   <title>Acknowledgments</title>
+   <p>Financial support from the Consejo Nacional de Investigaciones Cient&#xED;ficas y T&#xE9;cnicas (CONICET-Argentina), Consejo de Investigaciones Cient&#xED;ficas y Tecnol&#xF3;gicas de la Provincia de C&#xF3;rdoba (CONICOR-Argentina), Agencia Nacional de Promoci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (FONCYT-Argentina), Secretar&#xED;a de Ciencia y T&#xE9;cnica de la Universidad Nacional de R&#xED;o Cuarto (SECYT-UNRC). Collaborative work was performed under the auspices of the Iberoamerican Program for Science and Technology (CYTED), SubProgram X, network X-E, RIIDDMED. M. Risso thanks to the RELAQ for the fellowship.</p>
+  </ack>
+  <ref-list>
+   <title>References</title>
+   <ref id="B1-molecules-10-01197">
+    <label>1.</label>
+    <citation citation-type="book">
+     <person-group person-group-type="editor">
+      <name>
+       <surname>Wermuth</surname>
+       <given-names>C.G.</given-names>
+      </name>
+     </person-group>
+     <source>&#x201C;The Practice of Medicinal Chemistry&#x201D;</source>
+     <publisher-name>Academic Press</publisher-name>
+     <publisher-loc>New York</publisher-loc>
+     <year>1996</year>
+    </citation>
+   </ref>
+   <ref id="B2-molecules-10-01197">
+    <label>2.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Basak</surname>
+       <given-names>S.C.</given-names>
+      </name>
+      <name>
+       <surname>Niemi</surname>
+       <given-names>G.J.</given-names>
+      </name>
+      <name>
+       <surname>Veith</surname>
+       <given-names>G.D.</given-names>
+      </name>
+     </person-group>
+     <article-title>Optimal characterization of structure for prediction of properties</article-title>
+     <source>J. Math. Chem.</source>
+     <year>1990</year>
+     <volume>4</volume>
+     <fpage>185</fpage>
+     <lpage>202</lpage>
+     <pub-id pub-id-type="doi">10.1007/BF01170012</pub-id>
+    </citation>
+   </ref>
+   <ref id="B3-molecules-10-01197">
+    <label>3.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Basak</surname>
+       <given-names>S.B.</given-names>
+      </name>
+      <name>
+       <surname>Monsrud</surname>
+       <given-names>L.J.</given-names>
+      </name>
+      <name>
+       <surname>Rosen</surname>
+       <given-names>M.E.</given-names>
+      </name>
+      <name>
+       <surname>Frane</surname>
+       <given-names>C.M.</given-names>
+      </name>
+      <name>
+       <surname>Magnuson</surname>
+       <given-names>V.R.</given-names>
+      </name>
+     </person-group>
+     <article-title>A comparative study lipophlicity and topological indices in biological correlation</article-title>
+     <source>Acta Pharm. Jugosl.</source>
+     <year>1986</year>
+     <volume>36</volume>
+     <fpage>81</fpage>
+     <lpage>95</lpage>
+    </citation>
+   </ref>
+   <ref id="B4-molecules-10-01197">
+    <label>4.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Santo</surname>
+       <given-names>M</given-names>
+      </name>
+      <name>
+       <surname>Giacomelli</surname>
+       <given-names>L.</given-names>
+      </name>
+      <name>
+       <surname>Reta</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Cattana</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Silber</surname>
+       <given-names>J.</given-names>
+      </name>
+      <name>
+       <surname>Chana</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Rodriguez</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Ochoa</surname>
+       <given-names>C.</given-names>
+      </name>
+     </person-group>
+     <article-title>Role of weak molecular interaction in the mechanism of action a serie of antihelmintcs</article-title>
+     <source>Molecules.</source>
+     <year>2000</year>
+     <volume>5</volume>
+     <fpage>317</fpage>
+     <lpage>378</lpage>
+     <pub-id pub-id-type="doi">10.3390/50300317</pub-id>
+    </citation>
+   </ref>
+   <ref id="B5-molecules-10-01197">
+    <label>5.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Aguirre</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Cerecetto</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Di Maio</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Gonzalez</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Porcal</surname>
+       <given-names>W.</given-names>
+      </name>
+      <name>
+       <surname>Seoane</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Ortega</surname>
+       <given-names>M.A.</given-names>
+      </name>
+      <name>
+       <surname>Aldana</surname>
+       <given-names>I.</given-names>
+      </name>
+      <name>
+       <surname>Monge</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Denicola</surname>
+       <given-names>A.</given-names>
+      </name>
+     </person-group>
+     <article-title>Benzo[1,2-c]1,2,5-oxadiazole N-oxide derivatives as potential antitrypanosomal drugs. Structure-activity relationships. Part II</article-title>
+     <source>Arch. Pharm. Med. Chem.</source>
+     <year>2002</year>
+     <volume>335</volume>
+     <fpage>15</fpage>
+     <lpage>21</lpage>
+     <pub-id pub-id-type="doi">10.1002/1521-4184(200201)335:1&lt;15::AID-ARDP15&gt;3.0.CO;2-8</pub-id>
+    </citation>
+   </ref>
+   <ref id="B6-molecules-10-01197">
+    <label>6.</label>
+    <citation citation-type="book">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Manhold</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Kubinyi</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Timmerman</surname>
+       <given-names>H.</given-names>
+      </name>
+     </person-group>
+     <article-title>&#x201C;Lipophilicity in Drug Action and Toxicology&#x201D;</article-title>
+     <source>&#x201C;Methods and Principles in Medicinal Chemistry&#x201D;</source>
+     <person-group person-group-type="editor">
+      <name>
+       <surname>Pilska</surname>
+       <given-names>V.</given-names>
+      </name>
+      <name>
+       <surname>Testa</surname>
+       <given-names>B</given-names>
+      </name>
+      <name>
+       <surname>Van de Waterbeemd</surname>
+       <given-names>H.</given-names>
+      </name>
+     </person-group>
+     <publisher-name>VCH</publisher-name>
+     <publisher-loc>Weinheim, New York</publisher-loc>
+     <year>1996</year>
+     <volume>Vol. 4</volume>
+    </citation>
+   </ref>
+   <ref id="B7-molecules-10-01197">
+    <label>7.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Hadjipavlou-Litina</surname>
+       <given-names>D.</given-names>
+      </name>
+      <name>
+       <surname>Hantzch</surname>
+       <given-names>C.</given-names>
+      </name>
+     </person-group>
+     <article-title>Quantitative Structure-Activity Relationships of the Benzodiazepines. A Review and Reevaluation</article-title>
+     <source>Chem. Rev.</source>
+     <year>1994</year>
+     <volume>91</volume>
+     <fpage>1483</fpage>
+     <lpage>1505</lpage>
+     <pub-id pub-id-type="doi">10.1021/cr00030a002</pub-id>
+    </citation>
+   </ref>
+   <ref id="B8-molecules-10-01197">
+    <label>8.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Hsieh</surname>
+       <given-names>M. M.</given-names>
+      </name>
+      <name>
+       <surname>Dorsey</surname>
+       <given-names>J.G.</given-names>
+      </name>
+     </person-group>
+     <article-title>Accurate determination of log k'w in reversed-phase liquid chromatography. Implications for quantitative structure-retention relationships</article-title>
+     <source>J. Chromatogr.</source>
+     <year>1993</year>
+     <volume>631</volume>
+     <fpage>63</fpage>
+     <lpage>78</lpage>
+     <pub-id pub-id-type="doi">10.1016/0021-9673(93)80507-5</pub-id>
+    </citation>
+   </ref>
+   <ref id="B9-molecules-10-01197">
+    <label>9.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Ghose</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Crippen</surname>
+       <given-names>G.</given-names>
+      </name>
+     </person-group>
+     <article-title>Atomic physicochemical parameters for three-dimensional-structure-directed quantitative structure-activity relationships. 2. Modeling dispersive and hydrophobic interactions</article-title>
+     <source>J. Chem. Inf. Comput. Sci.</source>
+     <year>1987</year>
+     <volume>27</volume>
+     <fpage>21</fpage>
+     <lpage>35</lpage>
+     <pub-id pub-id-type="doi">10.1021/ci00053a005</pub-id>
+     <pub-id pub-id-type="pmid">3558506</pub-id>
+    </citation>
+   </ref>
+   <ref id="B10-molecules-10-01197">
+    <label>10.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Michels</surname>
+       <given-names>J.J.</given-names>
+      </name>
+      <name>
+       <surname>Dorsey</surname>
+       <given-names>J.G.</given-names>
+      </name>
+     </person-group>
+     <article-title>Estimation of the reversed-phase liquid chromatographic lipophilicity parameter log k'w using ET-30 solvatochromism</article-title>
+     <source>J. Chromatogr.</source>
+     <year>1990</year>
+     <volume>499</volume>
+     <fpage>435</fpage>
+     <lpage>451</lpage>
+     <pub-id pub-id-type="doi">10.1016/S0021-9673(00)96990-5</pub-id>
+    </citation>
+   </ref>
+   <ref id="B11-molecules-10-01197">
+    <label>11.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Dorsey</surname>
+       <given-names>J.</given-names>
+      </name>
+      <name>
+       <surname>Khaledi</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <article-title>Hydrophobicity estimations by reversed-phase liquid chromatography</article-title>
+     <source>J. Chromatogr. A</source>
+     <year>1993</year>
+     <volume>656</volume>
+     <fpage>485</fpage>
+     <lpage>499</lpage>
+     <pub-id pub-id-type="doi">10.1016/0021-9673(93)80815-P</pub-id>
+    </citation>
+   </ref>
+   <ref id="B12-molecules-10-01197">
+    <label>12.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Lambert</surname>
+       <given-names>W.J.</given-names>
+      </name>
+     </person-group>
+     <article-title>Modeling oil-water partitioning and membrane permeation using reversed-phase chromatography</article-title>
+     <source>J. Chromatogr. A</source>
+     <year>1993</year>
+     <volume>656</volume>
+     <fpage>469</fpage>
+     <lpage>484</lpage>
+     <pub-id pub-id-type="doi">10.1016/0021-9673(93)80814-O</pub-id>
+    </citation>
+   </ref>
+   <ref id="B13-molecules-10-01197">
+    <label>13.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Gancia</surname>
+       <given-names>E.</given-names>
+      </name>
+      <name>
+       <surname>Montana</surname>
+       <given-names>J.G.</given-names>
+      </name>
+      <name>
+       <surname>Manallack</surname>
+       <given-names>D.T.</given-names>
+      </name>
+     </person-group>
+     <article-title>Theoretical hydrogen bonding parameters for drug design</article-title>
+     <source>J. Mol. Graph. Model.</source>
+     <year>2001</year>
+     <volume>19</volume>
+     <fpage>349</fpage>
+     <lpage>362</lpage>
+     <pub-id pub-id-type="doi">10.1016/S1093-3263(00)00084-X</pub-id>
+    </citation>
+   </ref>
+   <ref id="B14-molecules-10-01197">
+    <label>14.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Katritzky</surname>
+       <given-names>A.R.</given-names>
+      </name>
+      <name>
+       <surname>Lobanov</surname>
+       <given-names>V.S.</given-names>
+      </name>
+      <name>
+       <surname>Karelson</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <article-title>QSPR: Correlation and Quantitative Prediction of Chemical and Physical Properties from Structure</article-title>
+     <source>Chem. Soc. Rev.</source>
+     <year>1995</year>
+     <fpage>279</fpage>
+     <lpage>287</lpage>
+     <pub-id pub-id-type="doi">10.1039/cs9952400279</pub-id>
+    </citation>
+   </ref>
+   <ref id="B15-molecules-10-01197">
+    <label>15.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Monge</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Palop</surname>
+       <given-names>J.A.</given-names>
+      </name>
+      <name>
+       <surname>Lopez de Cerain</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Senador</surname>
+       <given-names>V.</given-names>
+      </name>
+      <name>
+       <surname>J.Martinez-Crespo</surname>
+       <given-names>F.</given-names>
+      </name>
+      <name>
+       <surname>Sainz</surname>
+       <given-names>Y.</given-names>
+      </name>
+      <name>
+       <surname>Narro</surname>
+       <given-names>S.</given-names>
+      </name>
+      <name>
+       <surname>Garcia</surname>
+       <given-names>E.</given-names>
+      </name>
+      <name>
+       <surname>Gonzalez</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Hamilton</surname>
+       <given-names>E.</given-names>
+      </name>
+      <name>
+       <surname>Barker</surname>
+       <given-names>A. J.</given-names>
+      </name>
+      <name>
+       <surname>Clarke</surname>
+       <given-names>E. D.</given-names>
+      </name>
+      <name>
+       <surname>Greenhow</surname>
+       <given-names>D. T.</given-names>
+      </name>
+     </person-group>
+     <article-title>Hypoxia-Selective Agents Derived from Quinoxaline 1,4-Di-N-oxides</article-title>
+     <source>J. Med. Chem.</source>
+     <year>1995</year>
+     <volume>38</volume>
+     <fpage>1786</fpage>
+     <lpage>1792</lpage>
+     <pub-id pub-id-type="doi">10.1021/jm00010a023</pub-id>
+     <pub-id pub-id-type="pmid">7752202</pub-id>
+    </citation>
+   </ref>
+   <ref id="B16-molecules-10-01197">
+    <label>16.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Cerecetto</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Gonzalez</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <article-title>N-Oxides as hypoxia selective cytotoxins</article-title>
+     <source>Mini Rev. Med. Chem.</source>
+     <year>2001</year>
+     <volume>1</volume>
+     <fpage>219</fpage>
+     <lpage>231</lpage>
+     <pub-id pub-id-type="doi">10.2174/1389557013406891</pub-id>
+     <pub-id pub-id-type="pmid">12369969</pub-id>
+    </citation>
+   </ref>
+   <ref id="B17-molecules-10-01197">
+    <label>17.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Cerecetto</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Dias</surname>
+       <given-names>E.</given-names>
+      </name>
+      <name>
+       <surname>Di Maio</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Gonz&#xE1;lez</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Pacce</surname>
+       <given-names>S.</given-names>
+      </name>
+      <name>
+       <surname>Saenz</surname>
+       <given-names>P.</given-names>
+      </name>
+      <name>
+       <surname>Seoane</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Suescun</surname>
+       <given-names>L.</given-names>
+      </name>
+      <name>
+       <surname>Mombr&#xFA;</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Fern&#xE1;ndez</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Lema</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Villalba</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <article-title>Synthesis and Herbicidal Activity of N-Oxide Derivatives</article-title>
+     <source>J. Agric. Food Chem.</source>
+     <year>2000</year>
+     <volume>48</volume>
+     <fpage>2995</fpage>
+     <lpage>3002</lpage>
+     <pub-id pub-id-type="doi">10.1021/jf9904766</pub-id>
+     <pub-id pub-id-type="pmid">10898655</pub-id>
+    </citation>
+   </ref>
+   <ref id="B18-molecules-10-01197">
+    <label>18.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Prezhdo</surname>
+       <given-names>V.V.</given-names>
+      </name>
+      <name>
+       <surname>Vasshchenko</surname>
+       <given-names>E.V.</given-names>
+      </name>
+      <name>
+       <surname>Prezhdo</surname>
+       <given-names>O.V.</given-names>
+      </name>
+      <name>
+       <surname>Pushko</surname>
+       <given-names>A.</given-names>
+      </name>
+     </person-group>
+     <article-title>Structure and properties of hydrogen bonded complexes of pyridine-N-oxide and its derivatives</article-title>
+     <source>J. Mol. Struc.</source>
+     <year>1999</year>
+     <volume>510</volume>
+     <fpage>69</fpage>
+     <lpage>83</lpage>
+     <pub-id pub-id-type="doi">10.1016/S0022-2860(99)00036-8</pub-id>
+    </citation>
+   </ref>
+   <ref id="B19-molecules-10-01197">
+    <label>19.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Caron</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Carrupt</surname>
+       <given-names>P.A.</given-names>
+      </name>
+      <name>
+       <surname>Testa</surname>
+       <given-names>B.</given-names>
+      </name>
+      <name>
+       <surname>Ermondi</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Gasco</surname>
+       <given-names>A.</given-names>
+      </name>
+     </person-group>
+     <article-title>Insight into the lipophilicity of the aromatic N-oxide moiety</article-title>
+     <source>Pharm. Res.</source>
+     <year>1996</year>
+     <volume>13</volume>
+     <fpage>1186</fpage>
+     <lpage>1190</lpage>
+    </citation>
+   </ref>
+   <ref id="B20-molecules-10-01197">
+    <label>20.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Valk&#xF3;</surname>
+       <given-names>K.</given-names>
+      </name>
+      <name>
+       <surname>Snyder</surname>
+       <given-names>L.R.</given-names>
+      </name>
+      <name>
+       <surname>Glajch</surname>
+       <given-names>J.L.</given-names>
+      </name>
+     </person-group>
+     <article-title>Retention in reversed-phase liquid chromatography as a function of mobile-phase composition</article-title>
+     <source>J. Chromatogr.</source>
+     <year>1993</year>
+     <volume>656</volume>
+     <fpage>501</fpage>
+     <lpage>520</lpage>
+     <pub-id pub-id-type="doi">10.1016/0021-9673(93)80816-Q</pub-id>
+    </citation>
+   </ref>
+   <ref id="B21-molecules-10-01197">
+    <label>21.</label>
+    <citation citation-type="book">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Kaliszan</surname>
+       <given-names>R.</given-names>
+      </name>
+     </person-group>
+     <source>&#x201C;Structure and Retention in Chromatography. A Chemometric Approach&#x201D;</source>
+     <publisher-name>Harwood Academic Publishers</publisher-name>
+     <publisher-loc>London</publisher-loc>
+     <year>1997</year>
+     <fpage>155</fpage>
+     <lpage>203</lpage>
+    </citation>
+   </ref>
+   <ref id="B22-molecules-10-01197">
+    <label>22.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Hsieh</surname>
+       <given-names>M.M.</given-names>
+      </name>
+      <name>
+       <surname>Dorsey</surname>
+       <given-names>J.G.</given-names>
+      </name>
+     </person-group>
+     <article-title>Bioavailability estimation by reversed-phase liquid chromatography: high bonding density C-18 phases for modeling biopartitioning processes</article-title>
+     <source>Anal. Chem.</source>
+     <year>1995</year>
+     <volume>67</volume>
+     <fpage>48</fpage>
+     <lpage>57</lpage>
+     <pub-id pub-id-type="doi">10.1021/ac00097a009</pub-id>
+     <pub-id pub-id-type="pmid">7864391</pub-id>
+    </citation>
+   </ref>
+   <ref id="B23-molecules-10-01197">
+    <label>23.</label>
+    <citation citation-type="book">
+     <person-group person-group-type="editor">
+      <name>
+       <surname>Brown</surname>
+       <given-names>P.R.</given-names>
+      </name>
+      <name>
+       <surname>Hartwick</surname>
+       <given-names>R.A.</given-names>
+      </name>
+     </person-group>
+     <source>&#x201C;High Performance Liquid Chromatography&#x201D;</source>
+     <publisher-name>J. Wiley &amp; Sons</publisher-name>
+     <publisher-loc>New York</publisher-loc>
+     <year>1989</year>
+    </citation>
+   </ref>
+   <ref id="B24-molecules-10-01197">
+    <label>24.</label>
+    <citation citation-type="book">
+     <person-group person-group-type="editor">
+      <name>
+       <surname>Myers</surname>
+       <given-names>R. H.</given-names>
+      </name>
+     </person-group>
+     <source>&#x201C;Classical and Modern Regression with Applications&#x201D;</source>
+     <publisher-name>P.W.S. Publishers</publisher-name>
+     <publisher-loc>Boston</publisher-loc>
+     <year>1986</year>
+    </citation>
+   </ref>
+   <ref id="B25-molecules-10-01197">
+    <label>25.</label>
+    <citation citation-type="book">
+     <person-group person-group-type="editor">
+      <name>
+       <surname>Riddick</surname>
+       <given-names>J.A.</given-names>
+      </name>
+      <name>
+       <surname>Bunger</surname>
+       <given-names>W.B.</given-names>
+      </name>
+     </person-group>
+     <source>&#x201C;Techniques of Chemistry&#x201D;</source>
+     <edition>3rd Ed.</edition>
+     <publisher-name>Wiley-Interscience</publisher-name>
+     <publisher-loc>New York</publisher-loc>
+     <year>1970</year>
+    </citation>
+   </ref>
+   <ref id="B26-molecules-10-01197">
+    <label>26.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Olea-Azar</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Rigol</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Mendizabal</surname>
+       <given-names>F.</given-names>
+      </name>
+      <name>
+       <surname>Briones</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Cerecetto</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Di Maio</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Gonzalez</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Porcal</surname>
+       <given-names>W.</given-names>
+      </name>
+      <name>
+       <surname>Risso</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <article-title>Electrochemical and microsomal production of free radicals from 1,2,5-oxadiazole N-oxide as potential antiprotozoal drugs</article-title>
+     <source>Spectrochim. Acta</source>
+     <year>2003</year>
+     <volume>59A</volume>
+     <fpage>69</fpage>
+     <lpage>75</lpage>
+     <pub-id pub-id-type="doi">10.1016/S1386-1425(02)00141-5</pub-id>
+    </citation>
+   </ref>
+   <ref id="B27-molecules-10-01197">
+    <label>27.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Cerecetto</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Di Maio</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Gonzalez</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Risso</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Saenz</surname>
+       <given-names>P.</given-names>
+      </name>
+      <name>
+       <surname>Seoane</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Denicola</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Peluffo</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Quijano</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Olea-Azar</surname>
+       <given-names>C.</given-names>
+      </name>
+     </person-group>
+     <article-title>1,2,5-Oxadiazole N-Oxide Derivatives and Related Compounds as Potential Antitrypanosomal Drugs: Structure-Activity Relationships</article-title>
+     <source>J. Med. Chem.</source>
+     <year>1999</year>
+     <volume>42</volume>
+     <fpage>1941</fpage>
+     <lpage>1950</lpage>
+     <pub-id pub-id-type="doi">10.1021/jm9805790</pub-id>
+     <pub-id pub-id-type="pmid">10354402</pub-id>
+    </citation>
+   </ref>
+   <ref id="B28-molecules-10-01197">
+    <label>28.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Monge</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Lopez de Cerain</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Ezpeleta</surname>
+       <given-names>O.</given-names>
+      </name>
+      <name>
+       <surname>Cerecetto</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Dias</surname>
+       <given-names>E.</given-names>
+      </name>
+      <name>
+       <surname>Di Maio</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Gonzalez</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Onetto</surname>
+       <given-names>S.</given-names>
+      </name>
+      <name>
+       <surname>Risso</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Seoane</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Zinola</surname>
+       <given-names>F</given-names>
+      </name>
+      <name>
+       <surname>Olea-Azar</surname>
+       <given-names>C.</given-names>
+      </name>
+     </person-group>
+     <article-title>1,2,5-Oxadiazole N-Oxide Derivatives as Hypoxia-Selective Cytotoxins. Structure-Activity Relationships</article-title>
+     <source>Die Pharmazie</source>
+     <year>1998</year>
+     <volume>53</volume>
+     <fpage>698</fpage>
+     <lpage>702</lpage>
+    </citation>
+   </ref>
+   <ref id="B29-molecules-10-01197">
+    <label>29.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Olea-Azar</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Atria</surname>
+       <given-names>A. M.</given-names>
+      </name>
+      <name>
+       <surname>Di Maio</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Seaone</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Cerecetto</surname>
+       <given-names>H.</given-names>
+      </name>
+     </person-group>
+     <article-title>Electron Spin Resonance and Cyclic Voltammetry Studies of Nitrofurane and Nitrothiophene Analogues of Nifurtimox</article-title>
+     <source>Spectrosc. Lett.</source>
+     <year>1998</year>
+     <volume>31</volume>
+     <fpage>849</fpage>
+     <lpage>857</lpage>
+     <pub-id pub-id-type="doi">10.1080/00387019808007403</pub-id>
+    </citation>
+   </ref>
+   <ref id="B30-molecules-10-01197">
+    <label>30.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Olea-Azar</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Atria</surname>
+       <given-names>A. M.</given-names>
+      </name>
+      <name>
+       <surname>Mendizabal</surname>
+       <given-names>F.</given-names>
+      </name>
+      <name>
+       <surname>Di Maio</surname>
+       <given-names>R.</given-names>
+      </name>
+      <name>
+       <surname>Seoane</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Cerecetto</surname>
+       <given-names>H.</given-names>
+      </name>
+     </person-group>
+     <article-title>Cyclic Voltammetry and Electron Paramagnetic Resonance Studies of Some Analogues of Nifurtimox</article-title>
+     <source>Spectrosc. Lett.</source>
+     <year>1998</year>
+     <volume>31</volume>
+     <fpage>99</fpage>
+     <lpage>109</lpage>
+     <pub-id pub-id-type="doi">10.1080/00387019808006764</pub-id>
+    </citation>
+   </ref>
+   <ref id="B31-molecules-10-01197">
+    <label>31.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Dewar</surname>
+       <given-names>M.J.S.</given-names>
+      </name>
+      <name>
+       <surname>Zoebisch</surname>
+       <given-names>E.G.</given-names>
+      </name>
+      <name>
+       <surname>Healy</surname>
+       <given-names>A.F.</given-names>
+      </name>
+      <name>
+       <surname>Stewart</surname>
+       <given-names>J.J.P.</given-names>
+      </name>
+     </person-group>
+     <article-title>AM1: A New General Purpose Quantum Mechanical Molecular Model</article-title>
+     <source>J. Amer. Chem. Soc.</source>
+     <year>1985</year>
+     <volume>107</volume>
+     <fpage>3902</fpage>
+     <lpage>3909</lpage>
+     <pub-id pub-id-type="doi">10.1021/ja00299a024</pub-id>
+    </citation>
+   </ref>
+  </ref-list>
+  <fn-group>
+   <fn>
+    <p><italic>Sample availability:</italic> Not Applicable</p>
+   </fn>
+  </fn-group>
+ </back>
+</article>

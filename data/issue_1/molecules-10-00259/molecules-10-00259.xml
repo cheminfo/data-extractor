@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010259</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00259</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of the Key Precursor of Hirsutellide A</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xu</surname>
+            <given-names>Yanjie</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00259" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Duan</surname>
+            <given-names>Xuemin</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00259" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Meiling</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00259" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jiang</surname>
+            <given-names>Liqin</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00259" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhao</surname>
+            <given-names>Guangle</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00259" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meng</surname>
+            <given-names>Yi</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00259" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Ligong</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00259" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00259" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00259"><label>1</label>College of Pharmaceuticals and Biotechnology, Tianjin University, Tianjin, 300072, P.R. China</aff>
+      <aff id="af2-molecules-10-00259"><label>2</label>Shenzhen Graduate School of Peking University, Shenzhen University Town, Shenzhen, 518055, P.R. China</aff>
+	  <author-notes>
+        <corresp id="c1-molecules-10-00259"><label>*</label>Author to whom correspondence should be addressed; Email: <email>lgchen@tju.edu.cn</email>; Telephone: (+86)-22-27891034; Fax: (+86)-22-27406314</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>259</fpage>
+      <lpage>264</lpage>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>02</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Hexadepsipeptide <bold>2,</bold> the precursor of Hirsutellide A (<bold>1</bold>), was synthesized in an overall yield of 45% from N-Boc-Me-Gly via three coupling reactions using dicyclohexylcarbodiimide (DCC), O-(7-azabenzotriazol-1-yl)-N,N,N&#x2019;,N&#x2019;-tetramethyl- uronium hexafluorophosphate (HATU) and bis(2-oxo-3-oxazolidinyl)phosphinic chloride (BOP-Cl), respectively.</p>
+      </abstract>
+      <kwd-group>
+	  <kwd>Hirsutellide A</kwd>
+	  <kwd>linear hexadepsipeptide</kwd>
+	  <kwd>coupled reagent</kwd>
+	  <kwd>diazotization hydrolysis</kwd>
+      <kwd>Boc protection</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Hirsutellide A (<bold>1</bold>) is a new antimycobacterial cyclohexadepsipeptide from the cell extracts of <italic>Hirsutella kobayasii</italic> BCC 1660. It exhibited antimycobacterial activity with a MIC (minimum inhibitory concentration) of 6-12 &#x3BC;g/mL with no cytotoxic effect towards Vero cells at 50 &#x3BC;g/mL. Additionally, compound <bold>1</bold> also possessed weak <italic>in vitro</italic> antimalarial activity, with an IC<sub>50</sub> value of 2.8 &#x3BC;g/mL [<xref ref-type="bibr" rid="B1-molecules-10-00259">1</xref>]. With the rapidly increasing worldwide incidence of tuberculosis, particularly among those associated with HIV infection, studies on new drugs against the emerging drug-resistant strains of turberculosis are urgently needed.</p>
+      <p>Our retrosynthetic analysis of hirsutellide A (<bold>1</bold>) is shown in <xref ref-type="fig" rid="molecules-10-00259-f001">Figure 1</xref>. Recognizing the importance of structure <bold>2</bold>, we divided it into two tridepsipeptides units. A further division led to three subunits, 2-hydroxy-3-phenylpropanoic acid benzyl ester (<bold>4</bold>), (<italic>tert</italic>-butoxycarbonylmethylamino)acetic acid (<bold>5</bold>) and 2-<italic>tert</italic>-butoxycarbonylamino-3-methylpentanoic acid (<bold>6</bold>).</p>
+      <fig id="molecules-10-00259-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Retrosynthetic analysis of Hirsutellide A (<bold>1</bold>)</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00259-g001.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Compound <bold>4</bold> was obtained as a colorless oil from D-phenylalanine through the diazotization, hydrolysis [<xref ref-type="bibr" rid="B2-molecules-10-00259">2</xref>] and esterification by benzyl alcohol [<xref ref-type="bibr" rid="B3-molecules-10-00259">3</xref>] (<xref ref-type="scheme" rid="molecules-10-00259-f002">Scheme 1</xref>).</p>
+      <fig id="molecules-10-00259-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00259-f002_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00259-g002.tif"/>
+      </fig>
+      <p>Subunit <bold>5</bold> was obtained from N-Boc-Gly-OH (<bold>8</bold>) through N-methylation with CH<sub>3</sub>I (<xref ref-type="scheme" rid="molecules-10-00259-f003">Scheme 2</xref>). After adding the first portion of CH<sub>3</sub>I (4.0 equiv.) and NaH (2.5 equiv.) to the reaction mixture, CH<sub>3</sub>I (2.0 equiv.) and NaH (1.0 equiv.) were added again to drive the N-methylation to completion. Unit <bold>6</bold> was N-Boc-Ile.</p>
+      <fig id="molecules-10-00259-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00259-f003_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00259-g003.tif"/>
+      </fig>
+      <p>The synthetic sequence leading to compound <bold>2</bold> is shown in <xref ref-type="scheme" rid="molecules-10-00259-f004">Scheme 3</xref>. Esterification of <bold>5</bold> with <bold>4</bold> using DCC provided the fully protected didepsipeptide <bold>9</bold>. Removal of the Boc protecting group by treatment with TFA afforded compound <bold>10</bold>. Then the TFA amine salt <bold>10</bold> was coupled with unit <bold>6</bold> using HATU-promoted reagent to yield the corresponding protected tridepsipeptide <bold>3</bold> in 81% yield compared with PyBOP-promoted in 60% yield and DCC in lower yield. Cleavage of the benzyl ester and the Boc group gave two deprotected precursors <bold>11</bold> and <bold>12</bold>, respectively. Subsequently, the TFA amine salt <bold>12</bold> and free acid residue <bold>11</bold> were coupled separately with HATU, PyBOP and BOP-Cl promoting to synthesize the linear hexadepsipetide <bold>2</bold>. Only the reaction with BOP-Cl reagent worked in 77% yield to afford the product <bold>2</bold> whose structure was fully characterized by [&#x3B1;]<sub>D</sub>, IR, NMR and MS.</p>
+      <fig id="molecules-10-00259-f004" position="float">
+        <object-id pub-id-type="pii">molecules-10-00259-f004_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00259-g004.tif"/>
+		<p><italic>Reagents:</italic> DCC: Dicyclohexyl carbodiimide; TFA: Trifluoroacetic acid; HATU: O-(7-Azabenzo- triazol-1-yl)-N,N,N&#x2019;,N&#x2019;-tetramethyluronium hexafluorophosphate; PyBOP: Benzotriazole-1-yl- oxy-tris-pyrrolidinophosphonium hexafluorophosphate; BOP-Cl: Bis(2-oxo-3-oxazolidinyl)- phosphinic chloride.</p>
+      </fig>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The hexadepsipeptide <bold>2,</bold> a key hirsutellide A (<bold>1</bold>) precursor, was successfully synthesized in an overall yield of 45% based on N-Boc-Me-Gly using three coupling reactions with DCC, HATU, and BOP-Cl, respectively.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Melting points were determined by the capillary tube method, and are uncorrected. IR spectra (KBr pellets) were recorded on a Bio-Rad FTS 135 spectrophotometer. Optical rotations were measured on a WZZ-3 digital polarimeter with a sodium lamp (&#x3BB;=589nm, D line). <sup>1</sup>H- and <sup>13</sup>C&#x2011;NMR spectra were recorded on a Bruker AV400 instrument. Chemical shifts (&#x3B4;) are reported in ppm relative to TMS used as internal standard. Mass spectra were recorded on a LCQ analytical Advantage MAX spectrometer. Organic solvents were dried by standard methods when necessary. Thin-layer chromatography (TLC) was performed on glass sheets coated with silica gel (type GF254, Qingdao Haiyang). Flash column chromatography was carried out using 200-300 mesh silica gel.</p>
+      </sec>
+      <sec>
+        <title>(R)-2-hydroxy-3-phenylpropanoic acid <italic>(<bold>7</bold>)</italic>.</title>
+        <p>A solution of 40% sodium nitrite (12 mL) was added into a solution of D-phenylalanine (6.60 g, 40 mmol) in H<sub>2</sub>SO<sub>4</sub> (2 mol/L, 45 mL) over 2 h under ice cooling. The mixture was stirred for 6h at 0&#xB0;C, and then at room temperature for 12 h. Additional H<sub>2</sub>SO<sub>4</sub> (2 mol/L, 10 mL) and sodium nitrite (40%, 6 mL) were added as above. The reaction mixture was saturated by NaCl, followed by extraction with ethyl acetate (3&#xD7;60 mL). The combined extracts were washed with brine (200 mL), dried (MgSO<sub>4</sub>), filtered and evaporated to give a white solid which upon recrystallization from diethyl ether, gave the product <bold>7</bold> (6.54g, 98.5%), m.p. 125-127&#xB0;C (lit.[2], 123-124&#xB0;C), <inline-formula>
+		<mml:math display="block" id="mm1">
+          <mml:semantics>
+		  <mml:mrow>
+            <mml:msubsup>
+			<mml:mi mathvariant="normal">[&#x3B1;]</mml:mi>
+			<mml:mi mathvariant="normal">D</mml:mi>
+			<mml:mn>20</mml:mn>
+			</mml:msubsup>
+			</mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </inline-formula>=+38.6&#xB0;(<italic>c</italic> 1.00, DMF) [lit.[2], <inline-formula>
+	  <mml:math display="block" id="mm2">
+          <mml:semantics>
+		  <mml:mrow>
+            <mml:msubsup>
+			<mml:mi mathvariant="normal">[&#x3B1;]</mml:mi>
+			<mml:mi mathvariant="normal">D</mml:mi>
+			<mml:mn>25</mml:mn>
+			</mml:msubsup>
+			</mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </inline-formula>=+26.7&#xB0;(<italic>c</italic> 3.80, acetone)]</p>
+      </sec>
+      <sec>
+        <title>(R)-benzyl-2-hydroxy-3-phenylpropanoate <italic>(<bold>4</bold>)</italic>.</title>
+        <p>Into a 100-mL round-bottom flask equipped with a Stark and Dean distilling receiver were placed compound <bold>7</bold> (1.66 g, 10 mmol), p-toluenesulfonic acid monohydrate (0.02 g, 0.12 mmol), benzyl alcohol (1.6 mL, 15 mmol), and toluene (30 mL). Then the mixture was heated under reflux. When water was no longer distilled off (about 4 h), the reaction mixture was permitted to cool to room temperature. Then ether (30 mL) and saturated aqueous Na<sub>2</sub>CO<sub>3</sub> (50 mL) were added. The two layers were separated, and the water layer was extracted with ether (2&#xD7;30mL). The combined extracts were washed with brine (100 mL), dried (MgSO<sub>4</sub>), filtered and concentrated under reduced pressure. The residue was purified by column chromatography on silica gel (petroleum ether/ethyl acetate, 10:1) to give <bold>4</bold> (1.45g, 56.6%).  <inline-formula>
+		<mml:math display="block" id="mm3">
+          <mml:semantics >
+		  <mml:mrow>
+            <mml:msubsup>
+			<mml:mi mathvariant="normal">[&#x3B1;]</mml:mi>
+			<mml:mi mathvariant="normal">D</mml:mi>
+			<mml:mn>20</mml:mn>
+			</mml:msubsup>
+			</mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </inline-formula>=+54.9&#xB0;(<italic>c</italic> 1.5, CH<sub>2</sub>Cl<sub>2</sub>) [lit.[2], <inline-formula>
+	  <mml:math display="block" id="mm4">
+          <mml:semantics>
+		  <mml:mrow>
+            <mml:msubsup>
+			<mml:mi mathvariant="normal">[&#x3B1;]</mml:mi>
+			<mml:mi mathvariant="normal">D</mml:mi>
+			<mml:mn>25</mml:mn>
+			</mml:msubsup>
+			</mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </inline-formula>=+55.2&#xB0;(<italic>c</italic> 1.88, CH<sub>2</sub>Cl<sub>2</sub>)]; IR (KBr): 3484, 3034, 2928, 1737, 1495, 1450, 1380, 1264, 1189, 1094, 745, 698 cm<sup>-1</sup>; <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4;: 7.18&#xFF5E;7.41 (m, 10H), 5.20 (s, 2H), 4.51 (dd, 1H, <italic>J</italic><sub>1</sub>=4.8 Hz, <italic>J</italic><sub>2</sub>=6.4 Hz), 3.15 (dd, 1H, <italic>J</italic><sub>1</sub>=4.8 Hz, <italic>J</italic><sub>2</sub>=13.6 Hz), 3.01 (dd, 1H, <italic>J</italic><sub>1</sub>=6.4 Hz, <italic>J</italic><sub>2</sub>=13.6 Hz), 2.92 (br, OH); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;: 173.85, 136.09, 134.94, 129.40, 128.50, 128.44, 128.23, 126.67, 71.17, 67.18, 40.34.</p>
+      </sec>
+      <sec>
+        <title>(tert-Butoxycarbonylmethylamino)acetic acid <italic>(<bold>5</bold>)</italic>.</title>
+        <p>To a cooled (0&#xB0;C) solution of Boc-Gly-OH <bold>8</bold> (7.33 g, 41.9 mmol) and MeI (10.6 mL, 170 mmol) in dry THF (200 mL), was added NaH (5.23g, 120 mmol, 55% in mineral oil) cautiously and the mixture was with stirred gently overnight. CH<sub>3</sub>I (5.3 mL) and NaH (1.75 g) were added in again by the above procedure to push the reaction to completion. Ethyl acetate (100 mL) was then added, followed by water (15 mL) added dropwise to destroy the excess NaH. The solution was evaporated to dryness, and the oily residue partitioned between ether (60 mL) and water (100 mL). The ether layer was washed with saturated aqueous NaHCO<sub>3</sub> (50 mL), and the combined aqueous extracts acidified to pH 2 with 1 mol/L HCl under ice cooling. The product was extract into ethyl acetate (2&#xD7;100 mL). Then the extracts were washed with water (100 mL), 5% aqueous sodium thiosulfate (2&#xD7;100 mL, to remove iodine), and brine (100 mL), dried (MgSO4), filtered, and evaporated to give a pale white oil <bold>5</bold> (7.32g, 92.5%).</p>
+      </sec>
+      <sec>
+        <title>2-[2-(tert-Butoxycarbonylmethylamino)acetoxy]-3-phenylpropionic acid benzyl ester <italic>(<bold>9</bold>)</italic>.</title>
+        <p>Compound <bold>4</bold> (1.29 g, 5.0 mmol) was dissolved in dry CH<sub>2</sub>Cl<sub>2</sub> (10 mL) and cooled to 0&#xB0;C. A solution of N-Me-Boc-Gly-OH <bold>5</bold> (0.95 g, 5.0 mmol) in CH<sub>2</sub>Cl<sub>2</sub> (10 mL) was added in one portion followed by HOBt (0.73 g, 5.4 mmol) and DMAP (0.66 g, 5.4 mmol) and the resulting suspension was then stirred for 15 min. A solution of DCC (1.12 g, 5.4 mmol) in dry CH<sub>2</sub>Cl<sub>2</sub> (10 mL) was added to the suspension over 10 min and the mixture was slowly warmed to room temperature and stirred for 24 h. The mixture was evaporated in vacuo to leave a solid and then taken up in ethyl acetate (50 mL), filtered to remove DCU (by product). The filtrate was washed with saturated aqueous NaHCO<sub>3</sub> (2&#xD7;50 mL) and brine (50 mL). The organic layer was dried (MgSO<sub>4</sub>) and evaporated in vacuo to leave a residue and then purified by column chromatography on silica gel (petroleum ether/ethyl acetate, 10:1) to yield title compound <bold>9</bold> (1.56 g, 72.5%). <inline-formula>
+		<mml:math display="block" id="mm5">
+          <mml:semantics>
+		  <mml:mrow>
+            <mml:msubsup>
+			<mml:mi mathvariant="normal">[&#x3B1;]</mml:mi>
+			<mml:mi mathvariant="normal">D</mml:mi>
+			<mml:mn>20</mml:mn>
+			</mml:msubsup>
+			</mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </inline-formula>=+16.3&#xB0;(<italic>c</italic> 1.0, CHCl<sub>3</sub>); IR (KBr): 2970, 2932, 1754, 1703, 1453, 1381, 1243, 1179, 1160, 1070, 746, 703cm<sup>-1</sup>; <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4; (rotamer): 7.14&#xFF5E;7.32 (m, 10H), 5.30&#xFF5E;5.32 (m, 1H), 5.08&#xFF5E;5.15 (m, 2H), 3.91&#xFF5E;4.05 (m, 2H), 3.10&#xFF5E;3.18 (m, 2H), 2.79, 2.78 (s, 3H, rotamer), 1.26&#xFF5E;1.46(m, 9H); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4; (rotamer): 169.05, 168.64, 155.60, 154.95, 135.20, 135.13, 134.84, 129.16, 129.06, 128.31, 128.28, 128.26, 128.19, 128.09, 128.05, 126.81, 79.83, 79.77, 73.09, 73.01, 66.86, 50.39, 49.68, 36.98, 34.93, 28.06, 27.87.</p>
+      </sec>
+      <sec>
+        <title>2-{2-[(2-tert-Butoxycarbonylamino-3-methylpentanoyl)methylamino]acetoxy}-3-phenylpropionic acid benzyl ester <italic>(<bold>3</bold>)</italic>.</title>
+        <p>To a solution of <bold>9</bold> (1.70 g, 4.0 mmol) in dry CH<sub>2</sub>Cl<sub>2</sub> (6 mL) was added TFA (2 mL, 26.0 mmol) dropwise at 0&#xB0;C with stirring. The mixture then was slowly warmed to room temperature and stirred for 5 h. The reaction mixture was concentrated, the residue dried under high vacuum and dissolved in dry CH<sub>2</sub>Cl<sub>2</sub> (10 mL). A solution of N-Boc-Ile-OH <bold>6</bold> (1.01 g, 4.4 mmol) in dry CH<sub>2</sub>Cl<sub>2</sub> (10 mL) was added in one portion followed by HATU (99%) (1.84 g, 4.8 mmol). Triethylamine (5.6 mL, 39.8 mmol) was added to the mixture dropwise under ice cooling. Then the mixture was warmed to room temperature slowly and stirred for 12 h. The reaction was quenched by adding saturated aqueous NH<sub>4</sub>Cl (2mL) dropwise and evaporated in vacuo followed by dissolving in ethyl acetate (150 mL). The mixture was washed with saturated aqueous NaHCO<sub>3</sub> (2&#xD7;100 mL) and brine (100 mL), dried (MgSO<sub>4</sub>), filtered and evaporated <italic>in vacuo</italic> to leave a residue which was purified by column chromatography on silica gel (petroleum ether/ethyl acetate, 5:1) to afford tridepsipeptide <bold>3</bold> (1.74 g, 80.9%). <inline-formula>
+		<mml:math display="block" id="mm6">
+          <mml:semantics>
+		  <mml:mrow>
+            <mml:msubsup>
+			<mml:mi mathvariant="normal">[&#x3B1;]</mml:mi>
+			<mml:mi mathvariant="normal">D</mml:mi>
+			<mml:mn>20</mml:mn>
+			</mml:msubsup>
+			</mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </inline-formula>=+6.3&#xB0; (<italic>c</italic> 1.0 CHCl<sub>3</sub>); IR (KBr): 3409, 3316, 2969, 1753, 1708, 1652, 1497, 1402, 1377, 1246, 1176, 1075, 1031, 745, 703cm<sup>-1</sup>; <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4; (rotamer): 7.10&#xFF5E;7.34 (m, 10H), 5.31 (dd, 1H, <italic>J</italic><sub>1</sub>=5.2 Hz, <italic>J</italic><sub>2</sub>=7.6 Hz), 5.04&#xFF5E;5.17 (m, 3H), 4.51 (br, NH), 4.53 (d, 1H, <italic>J</italic>=17.6 Hz), 3.80 (d, 1H, <italic>J</italic>=17.6 Hz), 3.16(dd, 1H, <italic>J</italic><sub>1</sub>=5.2 Hz, <italic>J</italic><sub>2</sub>=14.4 Hz), 3.10 (dd, 1H, <italic>J</italic><sub>1</sub>=7.6 Hz, <italic>J</italic><sub>2</sub>=14.4 Hz), 3.00 (s, 3H), 1.66&#xFF5E;1.71 (m, 1H), 1.40 (s, 9H), 0.88&#xFF5E;0.96 (m, 8H); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4; (rotamer): 173.12, 168.95, 168.38, 155.83, 135.23, 134.97, 129.33, 128.56, 128.52, 128.49, 128.42, 128.36, 127.13, 79.48, 73.43, 67.23, 54.22, 49.16, 38.03, 37.15, 36.36, 28.32, 23.91, 15.55, 11.29.</p>
+      </sec>
+      <sec>
+        <title>2-(2-{[2-(2-{2-[(2-tert-Butoxycarbonylamino-3-methylpentanoyl)methylamino]acetoxy}-3-phenyl- propionylamino)-3-methylpentanoyl]methylamino}acetoxy)-3-phenylpropionic acid benzyl ester <italic>(<bold>2</bold>)</italic>.</title>
+        <p>A solution of <bold>3</bold> (0.26 g, 0.5 mmol) in ethyl acetate (30 mL) was treated with Pd-C (5%, 0.52 g), and the black suspension was stirred at room temperature under an atmosphere of H<sub>2</sub> for 12 h. The catalyst was removed by filtration, and the filtrate was concentrated in vacuo to give crude <bold>11</bold> (used in the next step without further purification). To a solution of <bold>3</bold> (0.20 g, 0.4 mmol) in dry CH<sub>2</sub>Cl<sub>2</sub> (2 mL) was added TFA (0.5 mL, 6.5 mmol) dropwise at 0&#xB0;C with stirring. The mixture then was slowly warmed to room temperature and stirred for 5 h. The reaction mixture was concentrated, and the residue dried under high vacuum to give crude <bold>12</bold> (used directly in the next step). TFA salt <bold>12</bold> was dissolved in dry CH<sub>2</sub>Cl<sub>2</sub> (5 mL). A solution of <bold>11</bold> in dry CH<sub>2</sub>Cl<sub>2</sub> (5 mL) was added in one portion with stirring and cooled to 0&#xB0;C. BOP-Cl (0.13 g, 0.5 mmol) was added at 0&#xB0;C followed by triethylamine (0.5 mL, 3.7 mmol). The mixture was then warmed to room temperature and stirred for 12 h. The reaction was quenched by adding saturated aqueous NH<sub>4</sub>Cl (2 mL) dropwise and evaporated <italic>in vacuo</italic> followed by dissolving in ethyl acetate (50 mL). The mixture was washed with saturated aqueous NaHCO<sub>3</sub> (2&#xD7;50 mL) and brine (50 mL), dried (MgSO<sub>4</sub>), filtered and evaporated <italic>in vacuo</italic> to leave a residue which was purified by column chromatography on silica gel (petroleum ether/ethyl acetate, 2:1) to give hexadepsipeptide <bold>2</bold> (0.16g, 76.6%). 
+		<inline-formula>
+        <mml:math display="block" id="mm7">
+          <mml:semantics>
+		  <mml:mrow>
+            <mml:msubsup>
+			<mml:mi mathvariant="normal">[&#x3B1;]</mml:mi>
+			<mml:mi mathvariant="normal">D</mml:mi>
+			<mml:mn>20</mml:mn>
+			</mml:msubsup>
+			</mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </inline-formula>
+		=+1.06&#xBA;(<italic>c</italic> 3.16, CHCl<sub>3</sub>); IR (KBr): 3309, 2963, 2931, 1753, 1705, 1645, 1501, 1465, 1406, 1376, 1250, 1176, 1071, 745, 707cm<sup>-1</sup>; <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;: 174.24, 172.53, 168.84, 168.67, 168.19, 167.47, 156.06, 136.29, 135.28, 134.90, 130.83, 129.32, 129.29, 129.25, 128.56, 128.53, 128.48, 128.45, 128.40, 128.39, 128.35, 128.28, 127.07, 126.90, 126.79, 79.19, 74.79, 73.42, 67.21, 65.47, 54.00, 52.38, 49.06, 38.00, 37.27, 36.83, 36.28, 30.51, 29.61, 28.40-28.38 (3C), 24.27, 24.24, 15.37, 15.20, 10.84, 10.57; MS: m/z= 895.5 (M+Na)<sup>+</sup>; Anal. Calcd for C<sub>48</sub>H<sub>64</sub>N<sub>4</sub>O<sub>11</sub>: C, 66.04; H, 7.39; N, 6.42; O, 20.16. Found: C, 66.18; H, 7.36; N, 6.40; O, 20.06.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00259">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vongvanich</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Kittakoop</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Iaska</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Trakulnaleamsai</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Vimuttipong</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Tanticharoen</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Thebtaranonth</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>HirsutellideA, a new Antimycobacterial Cyclohexadepsipeptide from the Entomopathogenic Fungus <italic>Hirsutella kobayasii</italic></article-title>
+          <source>J. Nat. Prod.</source>
+          <year>2002</year>
+          <volume>65</volume>
+          <fpage>1346</fpage>
+          <pub-id pub-id-type="doi">10.1021/np020055+</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00259">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Degerbeck</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Fransson</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Grehn</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Ragnarsson</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of <sup>15</sup>N-labelled Chiral Boc-amino Acids from Triflates: Enantiomers of Leucine and Phenylalanine</article-title>
+          <source>J. Chem. Soc. Perkin Trans. II</source>
+          <year>1993</year>
+          <fpage>11</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00259">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Furuta</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chiral (Acyloxy) Borane Complex-catalyzed Asymmetric Diels-alder Reaction: (1R)-1,3,4-Trimethyl-3-cyclohexene-1-carboxaldehyde</article-title>
+          <source>Org. Synth. Coll.</source>
+          <volume>9</volume>
+          <fpage>772</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+       <p><italic>Sample Availability:</italic> Available from the authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

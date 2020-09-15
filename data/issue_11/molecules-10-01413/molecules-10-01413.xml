@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10111413</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01413</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 1-Methyl-3-oxo-7-oxabicyclo[2.2.1]hept-5-ene-2-carboxylic Acid Methyl Ester</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Arag&#xE3;o</surname>
+            <given-names>Valquiria</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01413" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-01413" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Constantino</surname>
+            <given-names>Mauricio Gomes</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01413" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Beatriz</surname>
+            <given-names>Adilson</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01413" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jos&#xE9; da Silva</surname>
+            <given-names>Gil Valdo</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01413" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01413"><label>1</label>Departamento de Qu&#xED;mica, Faculdade de Filosofia, Ci&#xEA;ncias e Letras de Ribeir&#xE3;o Preto, Universidade de S&#xE3;o Paulo, Avenida dos Bandeirantes, 3900, 14040-901, Ribeir&#xE3;o Preto, SP, Brazil Tel. (+55) 16 3602 3879; Fax (+55) 16 3633 8151.</aff>
+      <aff id="af2-molecules-10-01413"><label>2</label>Departamento de Qu&#xED;mica, Centro de Ci&#xEA;ncias Exatas e Tecnologia, Universidade Federal de Mato Grosso do Sul, Avenida Senador Filinto M&#xFC;ller, 1555, 79070-90, Campo Grande, MS, Brazil.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01413"><label>*</label> Author to whom correspondence should be addressed; E-mail: <email>varagao@usp.br</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>11</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>11</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>11</issue>
+      <fpage>1413</fpage>
+      <lpage>1418</lpage>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>22</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A simple and efficient method for the preparation of 1-methyl-3-oxo-7-oxabicyclo[2.2.1]hept-5-en-2-carboxylic acid methyl ester (<bold>1</bold>) is described. The first step is a highly regioselective Diels-Alder reaction between 2-methylfuran and methyl-3-bromo-propiolate. A remarkably difficult ketal hydrolysis reaction was effected by treatment with HCl, a simple reagent that was shown to be more efficient, in this case, than commonly used more elaborate methods.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>1-Methyl-3-oxo-7-oxabicyclo[2.2.1]hept-5-en-2-carboxylic acid methyl ester</kwd>
+        <kwd>ketal hydrolysis</kwd>
+        <kwd>Diels-Alder reaction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>7-Oxabicyclo[2.2.1]hept-5-ene derivatives are important intermediates and the base-induced opening of the oxygen bridge of these types of compounds has been used in the stereoselective syntheses of a number of shikimic acid derivatives and other natural products [<xref ref-type="bibr" rid="B1-molecules-10-01413">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-01413">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-01413">3</xref>]. These systems have also acquired increasing importance as starting materials (&#x201C;naked sugars&#x201D;) for the synthesis of numerous sugars, C-nucleosides, etc. [<xref ref-type="bibr" rid="B3-molecules-10-01413">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-01413">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-01413">5</xref>].</p>
+      <fig id="molecules-10-01413-f001" position="float">
+        <label>Figure 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01413-g001.tif"/>
+      </fig>
+      <p>In this paper we describe a short and efficient synthesis of methyl 1-methyl-3-oxo-7-oxabicyclo[2.2.1]hept-5-en-2-carboxylic acid methyl ester (<bold>1</bold>, <xref ref-type="fig" rid="molecules-10-01413-f001">Figure 1</xref>), starting with a Diels-Alder reaction between 2-methylfuran (<bold>2</bold>) and methyl 3-bromopropiolate (<bold>3</bold>) (<xref ref-type="scheme" rid="molecules-10-01413-f002">Scheme 1</xref>).</p>
+      <fig id="molecules-10-01413-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-01413-f002_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01413-g002.tif"/>
+      </fig>
+      <p>In spite of its apparent simplicity, each of the three steps of this synthesis has a remarkable aspect due to the special properties of these compounds.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>2-Methylfuran (<bold>2</bold>) is commercially available, whereas the dienophile, methyl-3-bromopropiolate (<bold>3</bold>) had to be prepared by the reaction of methyl propiolate with <italic>N</italic>-bromosuccinimide in acetone with silver nitrate as catalyst (86% yield) [<xref ref-type="bibr" rid="B6-molecules-10-01413">6</xref>]. The methyl propiolate was previously prepared by esterification of propiolic acid with methanol/sulfuric acid (2 days, 65% yield).</p>
+      <p>The Diels-Alder reaction between the diene <bold>2</bold> and dienophile <bold>3</bold> (benzene, 24 h reflux, <xref ref-type="scheme" rid="molecules-10-01413-f003">Scheme 2</xref>) resulted in a 15.7:1 mixture of the regioisomers <bold>4a</bold> and <bold>4b</bold>, respectively, which were separated by column chromatography and analyzed by nuclear magnetic resonance (NMR), with the assignment of all hydrogens, carbons and coupling constant values being accomplished using a combination of <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, gsHMQC and gsHMBC. A remarkable aspect of this reaction is the high regioselectivity observed.</p>
+      <fig id="molecules-10-01413-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-01413-f003_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01413-g003.tif"/>
+      </fig>
+      <p>The treatment of adduct <bold>4a</bold> with sodium methoxide in methanol at room temperature gave ketal <bold>5a</bold>, the <italic>endo</italic> product, as expected for a kinetic protonation process [<xref ref-type="bibr" rid="B7-molecules-10-01413">7</xref>]. Compound <bold>5a</bold> was isolated by column chromatography in 87% yield.</p>
+      <p>The next step was the hydrolysis of ketal <bold>5a</bold>. Leroy, in his paper concerning the synthesis of analogous compounds [<xref ref-type="bibr" rid="B3-molecules-10-01413">3</xref>], emphasized the difficulties of the ketal hydrolysis step. After some attempts he found that the H<sup>+</sup> form of the perfluorosulfonic acid resin Nafion<sup>&#xAE;</sup>-501, (Nafion-H), led to the corresponding ketone in 68-83% yield. However, this reagent is expensive and requires long reaction times (4 days).</p>
+      <p>We investigated several reagents and reaction conditions such as oxalic or sulfuric acid on wet silica gel, lithium tetrafluoroborate in wet acetonitrile, Amberlyst<sup>&#xAE;</sup>-15 in wet acetone, but none led to the desired hydrolysis. The treatment of <bold>5a</bold> with PPTS (pyridinium <italic>p</italic>-toluenesulfonate) gave less than 10% of <bold>1</bold>, and required a large (tenfold) excess of PPTS and 16 hours at reflux [<xref ref-type="bibr" rid="B8-molecules-10-01413">8</xref>]. Finally, we found that in conc. HCl solution in methanol (room temperature, 7 hours), ketal <bold>5a</bold> was converted to ketone <bold>1</bold> in 82% yield. The unusual lack of reactivity of <bold>5a</bold> can be attributed to the retarding inductive effect of the 7-oxa bridge on the formation of cationic intermediates at C-3.</p>
+      <fig id="molecules-10-01413-f004" position="float">
+        <object-id pub-id-type="pii">molecules-10-01413-f004_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01413-g004.tif"/>
+      </fig>
+      <p>However, the double bond of <bold>5a</bold> also seems to play a stabilizing effect on the intermediate carbocation (possibly through conjugation forming a non-classical ion, as shown in <xref ref-type="scheme" rid="molecules-10-01413-f004">Scheme 3</xref>), because after reduction of the double bond (H<sub>2</sub>/Pd), the hydrolysis occurred readily providing a complex mixture from which only 7% of the corresponding ketone could be isolated (<xref ref-type="scheme" rid="molecules-10-01413-f005">Scheme 4</xref>).</p>
+      <fig id="molecules-10-01413-f005" position="float">
+        <object-id pub-id-type="pii">molecules-10-01413-f005_Scheme 4</object-id>
+        <label>Scheme 4</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01413-g005.tif"/>
+      </fig>
+      <p>Further support for a favorable role of the double bond in the hydrolysis was provided by the fact that we found that lactone <bold>10</bold> [<xref ref-type="bibr" rid="B9-molecules-10-01413">9</xref>] (which was prepared from <bold>5a</bold> as shown in <xref ref-type="scheme" rid="molecules-10-01413-f006">Scheme 5</xref> to confirm its stereochemistry) did not undergo any transformation when treated with conc. HCl solution for 4 days.</p>
+      <fig id="molecules-10-01413-f006" position="float">
+        <object-id pub-id-type="pii">molecules-10-01413-f006_Scheme 5</object-id>
+        <label>Scheme 5</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01413-g006.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The desired product title compound <bold>1</bold> was obtained in 38% overall yield in a short and efficient 3-step synthesis. The high regioselectivity of the Diels-Alder reaction gives an important contribution to the efficiency of the process. Also remarkable are the stereoselectivity of the ester <bold>5a</bold> formation, and the hydrolysis of the resistant ketal with a very simple reagent, while more sophisticated methods proved to be inefficient.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Melting points were determined on a Reichert Kofler block melting point apparatus and are uncorrected. <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were measured using a Bruker DPX-400 instrument (at 400 MHz and 100 MHz, respectively); deuteriochloroform was used as solvent and tetramethylsilane as an internal standard. IR spectra were measured with a Perkin-Elmer Spectrum RX IFTIR System. TLC was performed on precoated silica gel 60 F254 plates (0.25 mm thick, Merck), and silica gel 60 (70-230 mesh, Merck) was used for column chromatography.</p>
+      </sec>
+      <sec>
+        <title>(1S*,4R*)-3-Bromo-1-methyl-7-oxabicyclo[2.2.1]hepta-2,5-diene-2-carboxylic acid methyl ester <italic>(<bold>4a</bold>)</italic> and (1R*,4S*)-3-bromo-4-methyl-7-oxabicyclo[2.2.1]hepta-2,5-diene-2-carboxylic acid methyl ester <italic>(<bold>4b</bold>)</italic></title>
+        <p>2-Methylfuran (<bold>2</bold>, 0.986 g, 12.02 mmol), methyl 3-bromopropiolate (<bold>3</bold>, 1.96 g, 12.02 mmol) and dry benzene (4 mL) were mixed and stirred at room temperature for 12 h. Another portion of 2-methyl-furan (<bold>2</bold>, 0.493 g, 6.01 mmol) was added and the resulting mixture was then heated at reflux for 12 h. The solvent was removed under vacuum and the residue was purified by chromatography on a silica gel column, eluting with hexane/ethyl acetate (9:1) to yield 1.46 g (50 %) of <bold>4a</bold> and 0.093 g (3.2 %) of <bold>4b</bold>. Compound <bold>4a</bold>: <sup>1</sup>H-NMR &#x3B4;: 1.82 (s, 3H), 3.72 (s, 3H), 5.14 (d, 1H, <italic>J</italic> = 1.8 Hz), 6.92 (d, 1H, <italic>J</italic> = 5.3 Hz), 7.07 (dd, 1H, <italic>J</italic><sub>1</sub> = 5.3 Hz, <italic>J</italic><sub>2</sub> = 1.8 Hz); <sup>13</sup>C-NMR &#x3B4;: 16.8 (CH<sub>3</sub>), 52.0 (CH<sub>3</sub>), 88.4 (CH), 94.4 (C), 142.5 (CH), 144.8 (C), 147.4 (CH), 150.3 (C), 163.9 (C=O); IR (thin film) cm<sup>-1</sup>: 2933, 1722, 1607, 1442, 1306, 1260, 1099; MS <italic>m</italic>/<italic>z</italic> (relative intensity): 189 [M<sup>+</sup> - 56] (7%), 82 (12%), 59 (24%), 51 (36%), 43 (100%), 15 (84%); Compound <bold>4b:</bold> <sup>1</sup>H-NMR &#x3B4;: 1.74 (s, 3H), 3.79 (s, 3H), 5.62 (d, 1H, <italic>J</italic> = 2.0 Hz), 6.90 (d, 1H, <italic>J</italic> = 5.3 Hz), 7.20 (dd, 1H, <italic>J</italic><sub>1</sub> = 5.3 Hz, <italic>J</italic><sub>2</sub> = 2.0 Hz); <sup>13</sup>C-NMR &#x3B4;: 15.6 (CH<sub>3</sub>), 51.8 (CH<sub>3</sub>), 83.7 (CH), 95.1 (C), 144.1 (C), 144.5 (CH), 145.2 (CH), 153.2 (C), 162.9 (C=O).</p>
+      </sec>
+      <sec>
+        <title>(1S*,2R*,4R*)-3,3-Dimethoxy-1-methyl-7-oxabicyclo[2.2.1]hept-5-ene-2-carboxylic acid methyl ester <italic>(<bold>5a</bold>)</italic></title>
+        <p>A solution of compound <bold>4a</bold> (1.01 g, 4.12 mmol) in methanol (6 mL) was added dropwise to a 1M solution of sodium methoxide in methanol (20 mL), cooled with an ice bath. The reaction mixture was stirred for 2 h and then allowed to warm slowly to room temperature. The mixture was cooled again to 4 &#xB0;C and then treated with 1:1 aqueous hydrochloric acid solution until pH 5. The methanol was removed under vacuum and the products were extracted with ethyl ether. The combined organic extracts were washed with saturated brine and dried over anhydrous MgSO<sub>4</sub>. The solvent was removed under vacuum and the residue was purified by chromatography in a silica gel column, eluting with hexane/ethyl acetate (7:3), yielding 0.818 g (87%) of <bold>5a</bold> as a yellow solid; m.p. 60-62 &#xB0;C; <sup>1</sup>H-NMR &#x3B4;: 1.54 (s, 3H), 2.90 (s, 1H), 3.14 (s, 3H), 3.40 (s, 3H), 3.63 (s, 3H), 4.66 (d, 1H, <italic>J</italic> = 1.8 Hz), 6.36 (dd, 1H, <italic>J</italic><sub>1</sub> = 5.8 Hz, <italic>J</italic><sub>2</sub> = 1.8 Hz), 6.61 (d, 1H, <italic>J</italic> = 5.8 Hz); <sup>13</sup>C-NMR &#x3B4;: 18.2 (CH<sub>3</sub>), 50.7 (CH<sub>3</sub>), 51.0 (CH<sub>3</sub>), 51.7 (CH<sub>3</sub>), 59.0 (CH), 84.0 (CH), 87.6 (C), 113.0 (C), 131.2 (CH), 140.8 (CH), 169.7 (C=O); IR (thin film) cm<sup>-1</sup>: 2953, 2837, 1738; 1436, 1316, 1142, 1060; MS <italic>m</italic>/<italic>z</italic> (relative intensity): 146 [M<sup>+</sup> - 82] (12%), 115 (31%), 82 (8%), 69 (11%), 59 (9%), 28 (100%), 15 (22%).</p>
+      </sec>
+      <sec>
+        <title>(1S*,2R*,4R*)-1-Methyl-3-oxo-7-oxabicyclo[2.2.1]hept-5-ene-2-carboxylic acid methyl ester <italic>(<bold>1</bold>)</italic></title>
+        <p>Conc. hydrochloric acid solution (1.0 mL) was added dropwise at room temperature to a solution of compound <bold>5a</bold> (103.5 mg; 0.454 mmol) in methanol (1.5 mL). The reaction mixture was stirred for 7 h. The resultant mixture was treated with water (1 mL) and extracted with ethyl ether. The organic extracts were washed with saturated NaHCO<sub>3</sub> solution, then dried over anhydrous MgSO<sub>4</sub> and the solvent was removed under vacuum, yielding 67.5 mg (82%) of a colorless oil; <sup>1</sup>H-NMR &#x3B4;: 1.74 (s, 3H), 3.15 (s, 1H), 3.74 (s, 3H), 4.76 (d, 1H, <italic>J</italic> = 2.0 Hz), 6.40 (dd, 1H, <italic>J</italic><sub>1</sub> = 5.6 Hz, <italic>J</italic><sub>2</sub> = 2.0 Hz), 6.75 (d, 1H, <italic>J</italic> = 5.6 Hz); <sup>13</sup>C-NMR &#x3B4;: 18.4 (CH<sub>3</sub>), 52.6 (CH<sub>3</sub>), 55.1 (CH), 83.5 (CH), 87.9 (C), 129.4 (CH), 144.3 (CH), 167.8 (C=O), 199.4 (C=O); IR (thin film) cm<sup>-1</sup>: 2956, 2840, 1732, 1436, 1303, 1205, 1023.</p>
+      </sec>
+      <sec>
+        <title>(1S*,2R*,4R*)-3,3-Dimethoxy-1-methyl-7-oxabicyclo[2.2.1]heptane-2-carboxylic acid methyl ester <italic>(<bold>6</bold>)</italic></title>
+        <p>A solution of compound <bold>5a</bold> (161 mg, 0.707 mmol) in methanol (1 mL) was placed in a 150 mL stainless steel pressure reactor. After addition of 5% Pd/C (25 mg), the resulting mixture was stirred under a hydrogen atmosphere at 6 atm and room temperature for 3 h. The reaction mixture was filtered through silica gel and the residue was washed with ethyl acetate. The organic extracts were dried over anhydrous MgSO<sub>4</sub> and the solvent was removed under vacuum, yielding 126 mg (78%) of a colorless oil; <sup>1</sup>H-NMR &#x3B4;: 1.40 (ddt, 1H, <italic>J</italic><sub>1</sub> = <italic>J</italic><sub>2</sub> = 12.5 Hz, <italic>J</italic><sub>3</sub> = 5.0 Hz, <italic>J</italic><sub>4</sub> = 2.0 Hz), 1.48 (s, 3H), 1.77 (ddt, 1H, <italic>J</italic><sub>1</sub> = <italic>J</italic><sub>2</sub> = 12.5 Hz, <italic>J</italic><sub>3</sub> = 5.8 Hz, <italic>J</italic><sub>4</sub> = 4.5 Hz), 1.92 (ddd, 1H, <italic>J</italic><sub>1</sub> = 12.5 Hz, <italic>J</italic><sub>2</sub> = 9.6 Hz, <italic>J</italic><sub>3</sub> = 5.0 Hz), 2.80 (d, 1H, <italic>J</italic> = 2.0 Hz), 2.80 (ddd, 1H, <italic>J</italic><sub>1</sub> = 12.5 Hz, <italic>J</italic><sub>2</sub> = 9.6 Hz, <italic>J</italic><sub>3</sub> = 4.5 Hz), 3.19 (s, 3H), 3.33 (s, 3H), 3.70 (s, 3H), 4.37 (d, 1H, <italic>J</italic> = 5.8 Hz); <sup>13</sup>C-NMR &#x3B4;: 23.3 (CH<sub>3</sub>), 24.9 (CH<sub>2</sub>), 30.0 (CH<sub>2</sub>), 49.1 (CH<sub>3</sub>), 51.0 (CH<sub>3</sub>), 51.6 (CH<sub>3</sub>), 59.8 (CH), 83.1 (CH), 86.7 (C), 109.7 (C), 169.4 (C=O); IR (thin film) cm<sup>-1</sup>: 2951, 2837, 1734, 1213, 1151, 1071.</p>
+      </sec>
+      <sec>
+        <title>(1S*,2R*,4R*)-3,3-Dimethoxy-1-methyl-7-oxabicyclo[2.2.1]hept-5-ene-2-carboxylic acid <italic>(<bold>9</bold>)</italic></title>
+        <p>Compound <bold>5a</bold> (102.1 mg, 0.448 mmol) was stirred with 5% NaOH solution (2.6 mL) cooled with an ice bath for 4.5 h or until complete dissolution of <bold>5a</bold>. The resultant mixture was diluted with water (8.5 mL) and washed with light petroleum (8.5 mL). The aqueous phase was cooled to 4 &#xB0;C, treated with 1:1 aqueous HCl to pH 2 and then the product was extracted with chloroform. The organic extracts were dried over anhydrous MgSO<sub>4</sub> and the solvent was removed under vacuum, yielding 82.8 mg (87%) of a white solid; m.p. 176-178 &#xB0;C; <sup>1</sup>H-NMR &#x3B4; 1.65 (s, 3H), 2.96 (s, 1H), 3.27 (s, 3H), 3.44 (s, 3H), 4.74 (d, 1H, <italic>J</italic> = 1.8 Hz), 6.45 (dd, 1H, <italic>J</italic><sub>1</sub> = 5.8 Hz, <italic>J</italic><sub>2</sub> = 1.8 Hz), 6.57 (d, 1H, <italic>J</italic> = 5.8 Hz); <sup>13</sup>C-NMR &#x3B4;: 18.4 (CH<sub>3</sub>), 51.0 (CH<sub>3</sub>), 51.3 (CH<sub>3</sub>), 58.4 (CH), 84.0 (CH), 88.2 (C), 112.9 (C), 132.1 (CH), 140.7 (CH), 172.8 (C=O); IR (thin film) cm<sup>-1</sup>: 2937, 2825, 1700, 1559, 1278, 1143, 1054; MS <italic>m</italic>/<italic>z</italic> (relative intensity): 133 [M<sup>+</sup> - 81] (37%), 87 (100%), 82 (75%), 69 (35%), 43 (49%).</p>
+      </sec>
+      <sec>
+      <title>(1S*,2S*,3S*,6R*,7R*)-2-Iodo-9,9-dimethoxy-7-mehyl-4,8-dioxatricyclo[4.2.1.03,7]nonan-5-one <italic>(<bold>10</bold>)</italic></title>
+      <p>0.5 M aqueous NaHCO<sub>3</sub> solution (0.75 mL) and a solution of I<sub>2</sub> (63.5 mg, 0.25 mmol)/KI (124.5 mg, 0.75 mmol) in water (0.5 mL) were added to a solution of compound <bold>9</bold> (26.7 mg; 0.125 mmol) in THF (0.75 mL). The reaction mixture was protected from light and stirred at room temperature for 20 h. The mixture was extracted with ethyl ether, the organic extracts were washed with aqueous Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub> and saturated NaHCO<sub>3</sub> solutions, then dried over anhydrous MgSO<sub>4</sub> and the solvent was removed under vacuum, yielding 20.7 mg (49%) of a white solid; m.p. 199-201 &#xB0;C; <sup>1</sup>H-NMR &#x3B4;: 1.65 (s, 3H), 2.96 (s, 1H), 3.25 (s, 3H), 3.28 (s, 3H), 4.22 (s, 1H), 4.52 (s, 1H), 4.73 (s, 1H); <sup>13</sup>C-NMR &#x3B4;: 17.1 (CH<sub>3</sub>), 21.8 (CH), 49.7 (CH<sub>3</sub>), 51.7 (CH<sub>3</sub>), 53.8 (CH), 87.5 (CH), 91.5 (CH), 91.9 (C), 109.5 (C), 171.0 (C=O); IR (thin film) cm<sup>-1</sup>: 2958, 2835, 1798, 1302, 1248, 1124, 1021.</p>
+      </sec>
+	</sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The autors wish to thank the Funda&#xE7;&#xE3;o de Amparo &#xE0; Pesquisa do Estado de S&#xE3;o Paulo (FAPESP), the Conselho Nacional de Desenvolvimento Cient&#xED;fico e Tecnol&#xF3;gico (CNPq) and the Coordena&#xE7;&#xE3;o de Aperfei&#xE7;oamento de Pessoal de N&#xED;vel Superior (CAPES) for financial support.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-01413">
+        <label>1.</label>
+		<note><p>For a review, see:
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogel</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Cossy</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Plumet</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Arjona</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1999</year>
+          <volume>55</volume>
+          <fpage>13521</fpage>
+          <lpage>13642</lpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B2-molecules-10-01413">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gustafsson</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Sterner</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1994</year>
+          <volume>59</volume>
+          <fpage>3994</fpage>
+          <lpage>3997</lpage>
+          <comment>and references cited therein</comment>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01413">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leroy</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1992</year>
+          <volume>33</volume>
+          <fpage>2969</fpage>
+          <lpage>2972</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01413">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kozikowski</surname>
+              <given-names>A. P.</given-names>
+            </name>
+            <name>
+              <surname>Floyd</surname>
+              <given-names>W. C.</given-names>
+            </name>
+            <name>
+              <surname>Kuniak</surname>
+              <given-names>M. P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commum.</source>
+          <year>1977</year>
+          <fpage>582</fpage>
+          <lpage>583</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01413">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Partain</surname>
+              <given-names>E. M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1983</year>
+          <volume>48</volume>
+          <fpage>1105</fpage>
+          <lpage>1106</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01413">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leroy</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Synthetic Commun.</source>
+          <year>1992</year>
+          <volume>22</volume>
+          <fpage>567</fpage>
+          <lpage>572</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01413">
+        <label>7.</label>
+        <note>
+          <p>We have observed that, if the protonation is effected at room temperature by slow addition of HCl, a considerable amount of the presumed <italic>exo</italic> epimer <bold>5b</bold> is obtained along with <bold>5a</bold>. When performed at 0 &#xB0;C, with rapid addition of HCl, no detectable amount of <bold>5b</bold> is observed.</p>
+		</note>
+      </ref>
+      <ref id="B8-molecules-10-01413">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Monti</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>L&#xE9;andri</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Klos-Ringuet</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Corriol</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Synthetic Commun.</source>
+          <year>1983</year>
+          <volume>13</volume>
+          <fpage>1021</fpage>
+          <lpage>1026</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01413">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petragnani</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1978</year>
+          <volume>6</volume>
+          <fpage>476</fpage>
+          <lpage>478</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	<fn>
+	<p><italic>Sample Availability:</italic> Samples of compounds <bold>1</bold>, <bold>2</bold>, <bold>3</bold>, <bold>5a</bold>, <bold>6</bold>, <bold>9</bold> and <bold>10</bold> are available from MDPI.</p>
+	</fn>
+	</fn-group>
+  </back>
+</article>

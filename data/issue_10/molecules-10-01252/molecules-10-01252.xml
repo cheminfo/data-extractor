@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10101252</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01252</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>An Ethnopharmacological Study of Medicinal Plants in New South Wales</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brouwer</surname>
+            <given-names>Nynke</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01252" ref-type="aff">1</xref>
+          <xref rid="af2-molecules-10-01252" ref-type="aff">2</xref>
+          <xref rid="af3-molecules-10-01252" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Qian</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01252" ref-type="aff">1</xref>
+          <xref rid="af2-molecules-10-01252" ref-type="aff">2</xref>
+          <xref rid="af3-molecules-10-01252" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Harrington</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01252" ref-type="aff">1</xref>
+          <xref rid="af2-molecules-10-01252" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kohen</surname>
+            <given-names>James</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01252" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vemulpad</surname>
+            <given-names>Subramanyam</given-names>
+          </name>
+          <xref rid="af3-molecules-10-01252" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jamie</surname>
+            <given-names>Joanne</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01252" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-01252" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Randall</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref rid="af4-molecules-10-01252" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Randall</surname>
+            <given-names>Deidre</given-names>
+          </name>
+          <xref rid="af4-molecules-10-01252" ref-type="aff">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01252"><label>1</label>Department of Chemistry and Biomolecular Sciences, Macquarie University, Sydney, NSW 2109, Australia. Tel. (+61)-2-9850-8283, Fax (+61)-2-9850-8313, <uri>www.els.mq.edu.au/IBRG/</uri></aff>
+      <aff id="af2-molecules-10-01252"><label>2</label>Department of Biological Sciences, Macquarie University, Sydney, NSW 2109, Australia</aff>
+      <aff id="af3-molecules-10-01252"><label>3</label>Department of Health and Chiropractic, Macquarie University, Sydney, NSW 2109, Australia</aff>
+      <aff id="af4-molecules-10-01252"><label>4</label>Yaegl Land Council, Maclean, NSW 2463, Australia</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01252"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>joanne.jamie@mq.edu.au</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>10</issue>
+      <fpage>1252</fpage>
+      <lpage>1262</lpage>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The Australian Aboriginal people have used plants as medicine and food for thousands of years, however, this traditional knowledge is documented only to a limited extent, and is in danger of being lost. The Indigenous Bioresources Research Group (IBRG) aims to help Australian Aboriginal communities to preserve their customary medicinal knowledge, and to provide information that can be used for their cultural or educational purposes, as well as for scientific advancement. This work is undertaken in close collaboration with Australian Aboriginal communities in New South Wales. The project is multidisciplinary, combining an ethnobotanical and an ethnopharmacological approach, which includes biological and chemical investigations, as well as developing best practices for protecting traditional knowledge.</p>
+		<p>This paper describes the general strategy of the project as well as methods used in the ethnopharmacological study. Ethnobotanical databases are set up for each participating community. Plant material is collected, extracted, and active compounds are isolated using a bioassay-guided fractionation approach. All extracts and compounds are tested for biological activity in antimicrobial assays (disc diffusion, resazurin, fluorescein diacetate), neurological assays or anti-inflammatory assays, depending on their traditional use.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Natural products</kwd>
+		<kwd>Aboriginal medicine</kwd>
+		<kwd>ethnobotany</kwd>
+		<kwd>ethnopharmacology</kwd>
+		<kwd>bioassay-guided fractionation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Australian Aboriginal people have used plants for food and medicinal purposes for thousands of years and have acquired a vast knowledge of Australia's unique flora [<xref ref-type="bibr" rid="B1-molecules-10-01252">1</xref>]. This traditional knowledge, however, is documented only to a limited extent, and is in danger of being lost. This is largely due to social changes within the communities, such as dislocation and westernisation, and the death of the elders with this knowledge [<xref ref-type="bibr" rid="B2-molecules-10-01252">2</xref>]. This trend in loss of traditional knowledge is being seen worldwide in most indigenous societies. The World Health Organization (WHO) acknowledges the value of traditional medicine and the preservation and protection of this knowledge is one of their objectives [<xref ref-type="bibr" rid="B3-molecules-10-01252">3</xref>]. In recent decades, considerable ethnopharmacological research has been done worldwide, especially in North and South America, Asia and Africa [<xref ref-type="bibr" rid="B4-molecules-10-01252">4</xref>]. In Australia some ethnopharmacological work has been done in the Northern Territory and Western Australia [<xref ref-type="bibr" rid="B1-molecules-10-01252">1</xref>,<xref ref-type="bibr" rid="B5-molecules-10-01252">5</xref>]. Only limited ethnopharmacological studies have been undertaken in New South Wales and this has been done predominantly without Aboriginal community involvement [<xref ref-type="bibr" rid="B6-molecules-10-01252">6</xref>]. We have established a research group to preserve and expand this medicinal plant knowledge of Aboriginal communities. The Indigenous Bioresources Research Group (IBRG) is based at Macquarie University, Sydney, Australia and brings together an interdisciplinary team with experience in ethnobotany, natural products, medicinal chemistry, microbiology and law, and most importantly works in collaboration with Aboriginal communities through the Land Councils. The IBRG aims to document first hand traditional and contemporary knowledge; to provide information to the communities that can be used for their cultural or educational purposes; to identify biologically active compounds using bioassay-guided fractionation; and to develop best practices for collaborative research with Aboriginal communities. The IBRG is currently involved in studies in coastal and inland New South Wales and the Kimberley, and will be extending the study to include other areas of Australia.</p>
+      <p>The IBRG project consists of three parts &#x2013; the development of best practices in protecting Aboriginal traditional knowledge; an ethnobotanical study; and an ethnopharmacological study, which includes biological and chemical investigations. This approach conforms to the ethical guidelines proposed by the National Health and Medical Research Council for working with Aboriginal people [<xref ref-type="bibr" rid="B7-molecules-10-01252">7</xref>], and represents best practice in relation to benefit sharing with Indigenous owners of traditional knowledge, as documented in the 1993 International Convention on Biodiversity [<xref ref-type="bibr" rid="B8-molecules-10-01252">8</xref>], to which Australia is a signatory. All stages of the project are done with full cooperation of the Aboriginal communities and have been approved by the Macquarie University Ethics Review Committee (Human Research, approval number HE27FEB2004-R02750) and the Macquarie University Biosafety Committee (approval number 01/01/LAB). This paper describes the strategies and general methodology of the project, with a particular focus on the ethnopharmacological study.</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <sec>
+        <title>Development of best practices</title>
+        <p>The Participatory Action Research methods published by UNESCO [<xref ref-type="bibr" rid="B9-molecules-10-01252">9</xref>] have been adopted for developing cooperative research relationships with Aboriginal communities. The Participatory Action Research strategy consists of the following steps: 1) meet with community members who constitute appropriate authorising persons to discuss the project; 2) obtain authorisation to proceed with the project; 3) meet with community members to design research activities and to identify interested participants; 4) implement the study plan with participants; 5) summarise data with input from participants, both field workers and others; 6) discuss the expansion of the project and seek community advice as to how best to provide in kind support strategies to the community as recompense for their efforts; 7) discuss the most appropriate way of storing and transmitting the information to the greater community; and 8) clarify with community members how ongoing research will proceed, what further field work may be necessary and how they might be involved [<xref ref-type="bibr" rid="B9-molecules-10-01252">9</xref>].</p>
+        <p>The IBRG project abides by the above principles and the following conditions: research will only take place with the consent of the appropriate local Aboriginal authorising body and community representatives; all publications resulting from this research will be jointly prepared and any commercial products will also be jointly developed with the Aboriginal community; the data obtained in the study will be confidential unless desired otherwise by the community. Collaboration with the Centre for Environmental Law and Warawara Indigenous Studies, of Macquarie University, ensures the protection of the indigenous knowledge and adherence to the above conditions, as well as provides further advice on the development of best practices.</p>
+      </sec>
+      <sec>
+        <title>Ethnobotanical study</title>
+        <p>Ethnobotany is the study of plants used by indigenous societies for food, medicine, building materials, economic application or ceremony [<xref ref-type="bibr" rid="B10-molecules-10-01252">10</xref>]. An ethnobotanical study is carried out by gathering data of traditionally used plants by interviewing people with specific knowledge. In the Australian context, this usually includes Aboriginal women, since they often possess the most detailed knowledge [<xref ref-type="bibr" rid="B11-molecules-10-01252">11</xref>]. For this study plants are being collected from the field under guidance of Aboriginal advisers. The plants are then vouchered and identified, and the ethnobotanical information is documented in databases, separately for each participating community. Information stored in the ethnobotanical databases includes the botanical and Aboriginal names of the plants, what parts are used and at which stages of growth, collection data (date, time and place), the use and preparation in published literature (if any), and most importantly, the way of preparation and application of the remedy by the communities. Since these databases reflect the traditional knowledge of the communities, they are password protected with access restricted, based on the communities' wishes.</p>
+      </sec>
+      <sec>
+        <title>Ethnopharmacological study</title>
+        <p>Ethnopharmacology involves the observation, description, and experimental investigation of indigenous medicines and their biological activities as an approach to drug discovery [<xref ref-type="bibr" rid="B12-molecules-10-01252">12</xref>]. In our study, plants used by the Aboriginal communities that show significant medicinal potential are being investigated for their biologically active compounds, using bioassay-guided fractionation. Indigenous societies in general tend to focus on remedies for dermatological ailments, inflammation, gastrointestinal ailments and diseases of the nervous system [<xref ref-type="bibr" rid="B13-molecules-10-01252">13</xref>]. The IBRG places particular attention on plants used traditionally to treat bacterial or fungal infections, conditions derived from neurological disturbances (<italic>e.g.</italic> pain, anxiety, depression, memory or sleep loss), and inflammation. These conditions affect both the Aboriginal communities and the population worldwide, and the development of new treatments has a high research priority. Antimicrobial resistance is a significant global health concern in treating infectious diseases. It seriously reduces the therapeutic value of the available antimicrobial agents and makes the search for agents with novel antimicrobial activity of major importance. Current trends suggest that some diseases caused by resistant strains will have no effective therapy within the next ten years, if no new drugs are developed [<xref ref-type="bibr" rid="B14-molecules-10-01252">14</xref>]. According to the WHO, 25% percent of people worldwide will develop one or more mental or behavioural disorders at some stage in their lives [<xref ref-type="bibr" rid="B14-molecules-10-01252">14</xref>]. Among these disorders are depression, schizophrenia and ageing diseases, such as Alzheimer's disease, which are expected to increase over the next 20 years with the ageing of populations [<xref ref-type="bibr" rid="B15-molecules-10-01252">15</xref>]. Alzheimer's disease is already the most common neurological disease of adulthood [<xref ref-type="bibr" rid="B16-molecules-10-01252">16</xref>]. Inflammation is an essential component of host defence, however, seriously debilitating diseases can occur when this process is inappropriately activated. This includes osteoarthritis and rheumatoid arthritis, which affect 15% of the total population in Australia [<xref ref-type="bibr" rid="B17-molecules-10-01252">17</xref>].</p>
+      </sec>
+      <sec>
+        <title>Extraction and isolation</title>
+        <p>In this study, a bioassay-guided fractionation approach is used to obtain pure, active compounds through a set of purification methods [<xref ref-type="bibr" rid="B18-molecules-10-01252">18</xref>]. Several conditions are used to extract the plant material. One of the most important methods is preparation of the plant material analogous to the method of preparation by the communities, to validate its use. This includes preparation of water-based extractions such as decoctions or infusions. Other extraction procedures include the use of ethanol or a series of solvents of increasing polarity (hexane, dichloromethane, ethyl acetate, butanol and water) against which the plant material is directly partitioned [<xref ref-type="bibr" rid="B18-molecules-10-01252">18</xref>]. The crude water and ethanol extracts are cleaned up by partitioning them against such solvents. Specific compounds are also targeted, such as alkaloids or tannins, since these usually have biological activity [<xref ref-type="bibr" rid="B18-molecules-10-01252">18</xref>]. After the initial extraction, the compounds present in the crude extracts are separated by general chromatography techniques such as reversed-phase and normal-phase liquid chromatography, and preparative TLC. Identification of these compounds is done using spectroscopic methods, including nuclear magnetic resonance spectroscopy and mass spectrometry.</p>
+      </sec>
+      <sec>
+        <title>Antimicrobial assays</title>
+        <p>Three different assays are used to determine the antimicrobial activity of either the extracts, fractions or pure compounds and where possible compared to commercially available antimicrobial agents, such as chloramphenicol, ampicillin, tetracycline and gentamicin. The distinction between microbicidal and microbiostatic activity of the extracts is also made in some of these assays by subculturing onto agar plates, followed by a colony count after incubation [<xref ref-type="bibr" rid="B19-molecules-10-01252">19</xref>].</p>
+        <p>In the disc diffusion assay, small sterile paper discs are impregnated with the extracts or pure compounds. These are then placed on agar plates that have been inoculated with microbes, and the plates are incubated overnight. The extracts or test compounds diffuse into the agar, giving rise to a gradually changing gradient of concentration in the agar around the disc [<xref ref-type="bibr" rid="B20-molecules-10-01252">20</xref>]. If the compound has any activity against the microbes, a clear inhibition zone can be seen around the disc after incubation. The size of this zone, while depending on various factors (hydrophobicity, molecular size, diffusability, <italic>etc</italic>), is in general proportional to its antimicrobial activity and can be measured easily.</p>
+        <p>The resazurin and the fluorescein diacetate (FDA) assays are used in microtitre plate format, and are based on the incubation of microbes in wells with the extracts or test compounds. After an overnight incubation, the reagent (either resazurin or FDA) is added and a colour change is visible after an additional 2-3 hour incubation. In the case of the resazurin assay, the blue dye resazurin <bold>(1)</bold> is reduced to the pink-coloured resorufin <bold>(2)</bold> in the medium by cell activity (growing microbes) [<xref ref-type="bibr" rid="B21-molecules-10-01252">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-01252">22</xref>]. This assay depends on an easily recognised colour change from blue (indicating inhibition of the microbes) to mauve or pink (no inhibition) and can be determined visually or measured spectrophotometrically [<xref ref-type="bibr" rid="B22-molecules-10-01252">22</xref>]. An example of this colour change can be seen in <xref ref-type="fig" rid="molecules-10-01252-f001">Figure 1</xref>A. 
+		<disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01252-i001.tif"/>
+        </disp-formula>
+		</p>
+        <p>The FDA assay is based on the conversion of colourless fluorescein diacetate <bold>(3)</bold> to the yellow- green fluorescent compound fluorescein <bold>(4)</bold> by non-specific esterases present in growing microbes [<xref ref-type="bibr" rid="B23-molecules-10-01252">23</xref>,<xref ref-type="bibr" rid="B24-molecules-10-01252">24</xref>]. A low level of fluorescence indicates the inhibition of microbial growth, and hence the presence of a compound with antimicrobial activity. A high level of fluorescence indicates no inhibition of microbial growth. An example of the assay can be seen in <xref ref-type="fig" rid="molecules-10-01252-f001">Figure 1</xref>B.</p>
+        <fig id="molecules-10-01252-f001" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p>Resazurin (A) and FDA (B) assay examples of the activity of compounds on the growth of microbes</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01252-g001.tif"/>
+        </fig>
+        <p>The three antimicrobial assays are employed because of their complementarity. For example, coloured compounds could interfere with the absorbance and fluorescence assays, and hydrophobic compounds and large molecules are known to give poor results in the disc diffusion assay. In addition, the resazurin assay is not suitable for <italic>P. aeruginosa</italic> [<xref ref-type="bibr" rid="B22-molecules-10-01252">22</xref>], and the FDA assay is not well suited for <italic>E. coli</italic> [<xref ref-type="bibr" rid="B25-molecules-10-01252">25</xref>].</p>
+      </sec>
+      <sec>
+        <title>Neurological assays</title>
+        <p>Plants that have been used to treat pain, anxiety, depression, memory loss or other neurological disturbances will be tested for their neurological activity. This will be done using <italic>Xenopus</italic> oocytes (immature eggs of the South African clawed frog <italic>Xenopus laevis</italic>) that can express functional neurotransmitter receptors such as gamma-aminobutyric acid (GABA) <bold>(5)</bold> or acetyl choline <bold>(6)</bold> on their surface [<xref ref-type="bibr" rid="B26-molecules-10-01252">26</xref>,<xref ref-type="bibr" rid="B27-molecules-10-01252">27</xref>]. These classes of neurotransmitter receptors are ligand-gated ion channels and are easily expressed in the membranes of the frog eggs by injecting mRNA or cDNA of the receptors into the cells. The activity of the extracts or pure compounds can be measured with a two electrode voltage clamp (TEVC) recorder, in which the compounds are added to the frog eggs and the electric current over the cell is determined. The effect of the compounds can either be inhibitory or stimulatory and can be measured in the absence or presence of the neurotransmitter. For this study the assay will be done on an automated system called the Roboocyte [<xref ref-type="bibr" rid="B27-molecules-10-01252">27</xref>]. 
+		<disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01252-i002.tif"/>
+        </disp-formula></p>
+      </sec>
+      <sec>
+        <title>Anti-inflammatory assays</title>
+        <p>Lipoxygenase (LO) and cyclooxygenase (COX) enzyme assays will be used to test extracts of plants that have been employed to treat pain and inflammation. COX is the rate limiting enzyme involved in the synthesis of prostaglandins, which are local hormones responsible for the pathology of inflammation and fever. They are also involved in blood clotting, ovulation, wound healing, kidney function and blood vessel tone [<xref ref-type="bibr" rid="B28-molecules-10-01252">28</xref>,<xref ref-type="bibr" rid="B29-molecules-10-01252">29</xref>]. Three isoforms of COX have been described, COX-1, COX-2 and COX-3 [<xref ref-type="bibr" rid="B30-molecules-10-01252">30</xref>]. All have a cyclooxygenase and a peroxidase function and convert arachidonic acid <bold>(7)</bold> to prostaglandin G<sub>2</sub> <bold>(8)</bold> and further to prostaglandin H<sub>2</sub> <bold>(9)</bold>, as can be seen in <xref ref-type="fig" rid="molecules-10-01252-f002">Figure 2</xref>. LO catalyses the initial step in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Three lipoxygenases exist in mammals, the most biologically important is arachidonate-5-lipoxygenase, which catalyses the formation of the parent leukotriene (leukotriene A<sub>4</sub>) [<xref ref-type="bibr" rid="B31-molecules-10-01252">31</xref>].</p>
+        <p>COX-2 selective inhibitors have been of considerable interest as anti-inflammatory agents because of their lower gastro-duodenal and renal side effects compared to COX-1 inhibitors [<xref ref-type="bibr" rid="B29-molecules-10-01252">29</xref>,<xref ref-type="bibr" rid="B32-molecules-10-01252">32</xref>], however, the safety of COX-2 inhibitors is now being questioned [<xref ref-type="bibr" rid="B33-molecules-10-01252">33</xref>]. Our study therefore involves screening for COX-1, COX-2 and LO inhibition.</p>
+        <fig id="molecules-10-01252-f002" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p>COX enzyme assay – conversion of arachidonic acid to prostaglandin F<sub>2&#x3B1;</sub> (adapted from [<xref ref-type="bibr" rid="B28-molecules-10-01252">28</xref>])</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01252-g002.tif"/>
+        </fig>
+        <p>The COX and LO assays are done as per manufacturers instructions [<xref ref-type="bibr" rid="B34-molecules-10-01252">34</xref>,<xref ref-type="bibr" rid="B35-molecules-10-01252">35</xref>]. For example, for the COX assay, COX-1 and COX-2 are tested separately by incubating arachidonic acid with the enzymes and the extracts, followed by a microtitre plate based enzyme immunoassay (EIA) [<xref ref-type="bibr" rid="B34-molecules-10-01252">34</xref>]. The product of the enzymatic reaction (prostaglandin H<sub>2</sub>) can be converted chemically to the more stable prostaglandin F<sub>2&#x3B1;</sub> <bold>(10)</bold> by adding SnCl<sub>2</sub> (see <xref ref-type="fig" rid="molecules-10-01252-f002">Figure 2</xref>). Prostaglandin F<sub>2&#x3B1;</sub> binds to the wells of the microtitre plate by a broadly specific antibody. This is in competition with the binding of PGE<sub>2</sub> coupled with acetylcholine esterase. Addition of acetylthiocholine leads to the formation of thiocholine by acetylcholine esterase. Thiocholine then reacts with added Ellman's reagent (5,5'-dithio-<italic>bis</italic>[2-nitrobenzoic acid], or DTNB) to form the yellow thionitrobenzoic acid anion (TNB<sup>2-</sup>) [<xref ref-type="bibr" rid="B34-molecules-10-01252">34</xref>]. The absorbance of the solution can be measured and high absorbance values are indicative of an inhibitory effect of the test compounds on COX.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The Indigenous Bioresources Research Group (IBRG) is a unique multidisciplinary collaboration between scientists with expertise in life sciences, law and indigenous studies, and has established research partnerships with Australian Aboriginal communities. Guidelines developed by UNSECO have been adapted to ensure best practice in developing cooperative research relationships. The IBRG has documented traditional and contemporary medicinal plant knowledge of NSW Aboriginal communities and conducted subsequent ethnopharmacological studies. Bioactive compounds are being identified following bioassay-guided fractionation using antimicrobial, neurological and anti- inflammatory assays. Possible spin offs of this project include the discovery of new medicinal agents and a better understanding of Australia's biodiversity.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We would like to thank the Yaegl (Maclean) Land Council for their enthusiastic participation in this study, especially Dale Mercy. We would like to thank Donna Craig and Chris Jones from the Centre for Environmental Law, Thomas Dzeha from the Department of Chemistry and Biomolecular Sciences, and Matthew Flower and John Hunter from the Department of Biological Sciences, all of Macquarie University, for their involvement in the IBRG. We would also like to thank Troy Wanandy for initial assistance in the antimicrobial assays. This study was supported by a grant from the Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) and a Macquarie University Research Development Grant (MURDG). Nynke Brouwer and Qian Liu are recipients of an International Postgraduate Research Scholarship (IPRS).</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01252">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <collab>Aboriginal Communities of the Northern Territory of Australia</collab>
+          </person-group>
+		  <source>Traditional Bush Medicines: An Aboriginal Pharmacopoeia</source>
+          <publisher-name>Greenhouse Publications</publisher-name>
+          <publisher-loc>Richmond</publisher-loc>
+          <year>1988</year>
+		  <fpage>8</fpage>
+          <lpage>10</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01252">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>N.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ethnobotanical Field Notes from the Northern Territory</article-title>
+          <source>J. Adelaide Bot. Gard.</source>
+          <year>1991</year>
+          <volume>14</volume>
+          <fpage>1</fpage>
+          <lpage>65</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01252">
+        <label>3.</label>
+        <citation citation-type="web">
+          <person-group person-group-type="author">
+            <collab>World Health Organisation</collab>
+          </person-group>
+		  <source>Traditional Medicine Strategy 2002-2005</source>
+          <publisher-name>WHO</publisher-name>
+          <publisher-loc>Geneva</publisher-loc>
+          <year>2002</year>
+		  <comment>see <underline><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.who.int/medicines/library/trm/trm_strat_eng.pdf" ext-link-type="uri">http://www.who.int/medicines/library/trm/trm_strat_eng.pdf</ext-link></underline></comment>
+          <access-date>Last accessed 26/11/2004</access-date>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01252">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davis</surname>
+              <given-names>E.W.</given-names>
+            </name>
+          </person-group>
+		  <article-title>Ethnobotany: An Old Practice, A New Discipline</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Schultes</surname>
+              <given-names>R.E.</given-names>
+            </name>
+			<name>
+              <surname>von Reis</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+		  <source>Ethnobotany: Evolution of a Discipline</source>
+          <publisher-name>Chapman &amp; Hall / Dioscorides Press</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1995</year>
+          <fpage>40</fpage>
+          <lpage>49</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01252">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reid</surname>
+              <given-names>E.J.</given-names>
+            </name>
+            <name>
+              <surname>Betts</surname>
+              <given-names>T.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Records of Western Australian Plants Used by Aboriginals as Medicinal Agents</article-title>
+          <source>Planta Med.</source>
+          <year>1979</year>
+          <volume>36</volume>
+          <fpage>164</fpage>
+          <lpage>173</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-0028-1097257</pub-id>
+          <pub-id pub-id-type="pmid">461569</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01252">
+        <label>6.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gott</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>NSWUSE-Database of NSW Plants Utilised by Aborigines</source>
+		  <comment>Lodged at the Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Library</comment>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01252">
+        <label>7.</label>
+        <citation citation-type="gov">
+          <person-group person-group-type="author">
+            <collab>National Health and Medical Research Council</collab>
+          </person-group>
+		  <source>Values and Ethics: Guidelines for Ethical Conduct in Aboriginal and Torres Strait Islander Health Research</source>
+          <publisher-name>Commonwealth of Australia</publisher-name>
+          <publisher-loc>Canberra</publisher-loc>
+          <year>2003</year>
+		  <comment>see: <underline><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.nhmrc.gov.au/publications/pdf/e52.pdf" ext-link-type="uri">http://www.nhmrc.gov.au/publications/pdf/e52.pdf</ext-link></underline></comment>
+          <access-date>Last accessed 13/04/2005</access-date>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01252">
+        <label>8.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <collab>United Nations Environment Program</collab>
+          </person-group>
+		  <source>Traditional Knowledge and the Convention on Biological Diversity</source>
+          <publisher-name>Secretariat to the Convention on Biological Diversity</publisher-name>
+          <publisher-loc>Montreal</publisher-loc>
+          <year>1993</year>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01252">
+        <label>9.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tuxill</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nabhan</surname>
+              <given-names>G.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>People, Plants and Protected Areas: a guide to in situ management</article-title>
+          <publisher-name>UNESCO / Earthscan</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>2001</year>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01252">
+        <label>10.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Farnsworth</surname>
+              <given-names>N.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ethnopharmacology and drug development</article-title>  
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Prance</surname>
+              <given-names>G.T.</given-names>
+            </name>
+			<name>
+              <surname>Chadwick</surname>
+              <given-names>D.J.</given-names>
+            </name>
+			<name>
+              <surname>Marsh</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+		  <source>Ethnobotany and the search for new drugs</source>
+		  <comment>Ciba Foundation Symposium 185</comment>
+          <publisher-name>Wiley</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1994</year>
+          <fpage>42</fpage>
+          <lpage>51</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01252">
+        <label>11.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Latz</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+		  <article-title><italic>quoted in</italic> Lassak, E.V.; McCarthy, T.</article-title>  
+          <source>Australian Medicinal Plants</source>
+          <publisher-name>New Holland Publishers</publisher-name>
+          <publisher-loc>Sydney</publisher-loc>
+          <year>2001</year>
+          <fpage>14</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01252">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fabricant</surname>
+              <given-names>D.S.</given-names>
+            </name>
+            <name>
+              <surname>Farnsworth</surname>
+              <given-names>N.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Value of Plants Used in Traditional Medicine for Drug Discovery</article-title>
+          <source>Environ. Health Persp.</source>
+          <year>2001</year>
+          <volume>109</volume>
+          <supplement>(suppl. 1)</supplement>
+          <fpage>69</fpage>
+          <lpage>75</lpage>
+          <pub-id pub-id-type="doi">10.1289/ehp.01109s169</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01252">
+        <label>13.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Balick</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <source>Plants, People, and Culture: The Science of Ethnobotany</source>
+          <publisher-name>Scientific American Library</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1997</year>
+          <fpage>56</fpage>
+          <lpage>57</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01252">
+        <label>14.</label>
+        <citation citation-type="web">
+          <person-group person-group-type="author">
+            <collab>World Health Organisation</collab>
+          </person-group>
+		  <source>Fact sheet No. 194</source>
+          <publisher-name>WHO</publisher-name>
+          <publisher-loc>Geneva</publisher-loc>
+		  <comment>Revised January 2002</comment>
+		  <comment>see <underline><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.who.int/mediacentre/factsheets/fs194/en/print.html" ext-link-type="uri">http://www.who.int/mediacentre/factsheets/fs194/en/print.html</ext-link></underline></comment>
+          <access-date>Last accessed 26/11/2004</access-date>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01252">
+        <label>15.</label>
+        <citation citation-type="web">
+          <person-group person-group-type="author">
+            <collab>World Health Organisation</collab>
+          </person-group>
+		  <source>Fact sheet No. 265</source>
+          <publisher-name>WHO</publisher-name>
+          <publisher-loc>Geneva</publisher-loc>
+		  <month>December</month>
+          <year>2001</year>
+		  <comment>see <italic><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.who.int/mediacentre/factsheets/fs265/en/print.html" ext-link-type="uri">http://www.who.int/mediacentre/factsheets/fs265/en/print.html</ext-link></italic></comment>
+          <access-date>Last accessed 26/11/2004</access-date>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01252">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Antuono</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Beyer</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Burden of Dementia: A Medical and Research Perspective</article-title>
+          <source>Theor. Med.</source>
+          <year>1999</year>
+          <volume>20</volume>
+          <fpage>3</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1009915605467</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-01252">
+        <label>17.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <collab>Australian Institute of Health and Welfare</collab>
+          </person-group>
+		  <source>Australia's Health 2000</source>
+          <publisher-name>AIHW</publisher-name>
+          <publisher-loc>Canberra</publisher-loc>
+          <year>2000</year>
+          <fpage>97</fpage>
+          <lpage>102</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01252">
+        <label>18.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Houghton</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Raman</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Laboratory Handbook for the Fractionation of Natural Extracts</source>
+          <publisher-name>Chapman &amp; Hall</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1998</year>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01252">
+        <label>19.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Straton</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <name>
+              <surname>Cooksey</surname>
+              <given-names>R.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Susceptibility Tests: Special Tests</article-title>
+		  <person-group person-group-type="editor">
+            <name>
+              <surname>Balows</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+		  <source>Manual of Clinical Microbiology</source>
+          <publisher-name>American Society for Microbiology</publisher-name>
+          <publisher-loc>Washington</publisher-loc>
+          <year>1991</year>
+		  <fpage>1153</fpage>
+          <lpage>1165</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-01252">
+        <label>20.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barry</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>Thorsnberry</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Susceptibility Tests: Diffusion Test Procedures</article-title>
+		  <person-group person-group-type="editor">
+            <name>
+              <surname>Balows</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+		  <source>Manual of Clinical Microbiology</source>
+          <publisher-name>American Society for Microbiology</publisher-name>
+          <publisher-loc>Washington</publisher-loc>
+          <year>1991</year>
+		  <fpage>1117</fpage>
+          <lpage>1125</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-01252">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O'Brien</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Orton</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Pognan</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Investigation of the Alamar Blue (resazurin) fluorescent dye for the assessment of mammalian cell cytotoxicity</article-title>
+          <source>Eur. J. Biochem.</source>
+          <year>2000</year>
+          <volume>267</volume>
+          <fpage>5421</fpage>
+          <lpage>5426</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1432-1327.2000.01606.x</pub-id>
+          <pub-id pub-id-type="pmid">10951200</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-01252">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mann</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Markham</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new method for determining the minimum inhibitory concentration of essential oils</article-title>
+          <source>J. Appl. Microbiol.</source>
+          <year>1998</year>
+          <volume>84</volume>
+          <fpage>538</fpage>
+          <lpage>544</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2672.1998.00379.x</pub-id>
+          <pub-id pub-id-type="pmid">9633651</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-01252">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wanandy</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Brouwer</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Mahon</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Cork</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Karuso</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Vemulpad</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Jamie</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Optimisation of the fluorescein diacetate antibacterial assay</article-title>
+          <source>J. Microbiol. Methods.</source>
+          <year>2005</year>
+          <volume>60</volume>
+          <fpage>21</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.mimet.2004.08.010</pub-id>
+          <pub-id pub-id-type="pmid">15567221</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-01252">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chand</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Lusunzi</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Veal</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>L.R.</given-names>
+            </name>
+            <name>
+              <surname>Karuso</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rapid Screening of the Antimicrobial Activity of Extracts and Natural Products</article-title>
+          <source>J. Antibiot.</source>
+          <year>1994</year>
+          <volume>47</volume>
+          <fpage>1295</fpage>
+          <lpage>1304</lpage>
+          <pub-id pub-id-type="doi">10.7164/antibiotics.47.1295</pub-id>
+          <pub-id pub-id-type="pmid">8002394</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-01252">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brunius</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Technical Aspects of the Use of 3&#x2019;,6&#x2019;-Diacetyl Fluorescein for Vital Fluorescent Staining of Bacteria</article-title>
+          <source>Curr. Microbiol.</source>
+          <year>1980</year>
+          <volume>4</volume>
+          <fpage>321</fpage>
+          <lpage>323</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02605370</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-01252">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chebib</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Johnston</surname>
+              <given-names>G.A.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>GABA-Activated Ligand  Gated  Ion  Channels: Medicinal Chemistry and Molecular Biology</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2000</year>
+          <volume>43</volume>
+          <fpage>1427</fpage>
+          <lpage>1447</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm9904349</pub-id>
+          <pub-id pub-id-type="pmid">10780899</pub-id>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-01252">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schnizler</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>K&#xFC;ster</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Methfessel</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Fejtl</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Roboocyte: Automated cDNA/mRNA Injection and Subsequent TEVC Recording on <italic>Xenopus</italic> Oocytes in 96-Well Microtiter Plates</article-title>
+          <source>Receptor. Channel.</source>
+          <year>2003</year>
+          <volume>9</volume>
+          <fpage>41</fpage>
+          <lpage>48</lpage>
+          <pub-id pub-id-type="doi">10.1080/10606820308253</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-01252">
+        <label>28.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Voet</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Voet</surname>
+              <given-names>J.G.</given-names>
+            </name>
+          </person-group>
+          <source>Biochemistry</source>
+          <publisher-name>Wiley</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1995</year>
+		  <fpage>704</fpage>
+          <lpage>710</lpage>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-01252">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dubois</surname>
+              <given-names>R.N.</given-names>
+            </name>
+            <name>
+              <surname>Abramson</surname>
+              <given-names>S.B.</given-names>
+            </name>
+            <name>
+              <surname>Crofford</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Simon</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>van de Putte</surname>
+              <given-names>L.B.A.</given-names>
+            </name>
+			<name>
+              <surname>Lipsky</surname>
+              <given-names>P.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cyclooygenase in biology and disease</article-title>
+          <source>FASEB J.</source>
+          <year>1998</year>
+          <volume>12</volume>
+          <fpage>1063</fpage>
+          <lpage>1073</lpage>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-01252">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chandrasekharan</surname>
+              <given-names>N.V.</given-names>
+            </name>
+            <name>
+              <surname>Dai</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Roos</surname>
+              <given-names>K.L.T.</given-names>
+            </name>
+            <name>
+              <surname>Evanson</surname>
+              <given-names>N.K.</given-names>
+            </name>
+            <name>
+              <surname>Tomsik</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Elton</surname>
+              <given-names>T.S.</given-names>
+            </name>
+            <name>
+              <surname>Simmons</surname>
+              <given-names>D.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>COX-3, a cyclooxygenase-1 variant inhibited by acetaminophen and other analgesic/antipyretic dugs: Cloning, structure, and expression</article-title>
+          <source>Proc. Natl. Acad. Sci.</source>
+          <year>2002</year>
+          <volume>99</volume>
+          <fpage>13926</fpage>
+          <lpage>13931</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.162468699</pub-id>
+          <pub-id pub-id-type="pmid">12242329</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-01252">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bertolini</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ottani</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sandrini</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Selective COX-2 Inhibitors and Dual Acting Anti- inflammatory Drugs: Critical Remarks</article-title>
+          <source>Curr. Med. Chem.</source>
+          <year>2002</year>
+          <volume>9</volume>
+          <fpage>1033</fpage>
+          <lpage>1043</lpage>
+          <pub-id pub-id-type="doi">10.2174/0929867024606650</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-01252">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>K.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biochemical Pharmacology of Nonsteroidal Anti-Inflammatory Drugs</article-title>
+          <source>Biochem. Pharmacol.</source>
+          <year>1998</year>
+          <volume>55</volume>
+          <fpage>543</fpage>
+          <lpage>547</lpage>
+          <pub-id pub-id-type="pmid">9515564</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-01252">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Topol</surname>
+              <given-names>E.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Arthritis Medicines and Cardiovascular Events &#x2013; &#x201C;House of Coxibs&#x201D;</article-title>
+          <source>J. Am. Med. Assoc.</source>
+          <year>2005</year>
+          <volume>293</volume>
+          <fpage>366</fpage>
+          <lpage>368</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.293.3.366</pub-id>
+          <pub-id pub-id-type="pmid">15623849</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-01252">
+        <label>34.</label>
+        <note>
+          <p>Cayman Chemical, COX Inhibitor Screening Assay, Catalog No. 560131. Ann Arbor, MI 48108, USA.</p>
+        </note>
+      </ref>
+      <ref id="B35-molecules-10-01252">
+        <label>35.</label>
+        <note>
+          <p>Cayman Chemical, Lipoxygenase Inhibitor Screening Assay Kit, Catalog No. 760700. Ann Arbor, MI 48108, USA</p>
+        </note>
+      </ref>
+    </ref-list>
+  </back>
+</article>

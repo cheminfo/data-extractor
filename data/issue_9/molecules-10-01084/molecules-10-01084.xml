@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10091084</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01084</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Studies Towards the Total Synthesis of Di- and Sesterterpenes with Dicyclopenta[a,d]cyclooctane Skeletons. Three-component Approach to the A/B Rings Building Block</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Michalak</surname>
+            <given-names>Karol</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Michalak</surname>
+            <given-names>Micha&#x142;</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wicha</surname>
+            <given-names>Jerzy</given-names>
+          </name>
+          <xref rid="c1-molecules-10-01084" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01084">Institute of Organic Chemistry, Polish Academy of Sciences, ul. Kasprzaka 44, 01-224 Warszawa, Poland;</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01084"><label>*</label>Author to whom correspondence should be addressed; E-mail: <email>jwicha@icho.edu.pl</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+      <fpage>1084</fpage>
+      <lpage>1100</lpage>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Sesqui- and sesterterpenes of ophiobolin and fusicoccin families are important synthetic targets because of complexity of structure and potentially useful physiological activities, including anti-tumor activity. A synthesis of versatile building blocks for these terpenoids is described. Cyclopenta[8]annulene rings system with properly dislocated substituents was constructed using as key steps ring closing metathesis reaction and Wagner - Meerwein rearrangement. Ring closing metathesis reaction leading to cyclopenta[8]annulene was studied in detail.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Terpenes</kwd>
+		<kwd>total synthesis</kwd>
+		<kwd>cyclooctane derivatives</kwd>
+		<kwd>ring closing metathesis</kwd>
+		<kwd>Warner-Meerwein rearrangement</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Ophiobolin A (<xref ref-type="scheme" rid="molecules-10-01084-f002">Scheme 1</xref>) has been identified in the 1960s as a metabolite of the fungus <italic>Helminthsporium oryzeo</italic>, toxic to rice seedlings [<xref ref-type="bibr" rid="B1-molecules-10-01084">1</xref>]. A number of related sesterterpenoids have been isolated since then from terrestrial and marine microorganisms, plants and insect secretions. Selected examples of these compounds are shown in <xref ref-type="scheme" rid="molecules-10-01084-f002">Scheme 1</xref>. The main structural feature of ophiobolins is a dicyclopenta[a,d]cyclooctane ring system with methyl groups, or transformed methyl groups, dislocated at positions 3, 7 and 11. A <italic>cis</italic>-and <italic>trans</italic> -junction of the A/B and B/C rings, respectively, appears typical, however <italic>trans-trans</italic> derivatives have also been isolated from natural sources. With regards to biological activity, ophiobolin A induces apoptic cell death in the L1210 cell line, ophiobolin K, 6-epi-N and some other metabolites are active against certain tumor cells [<xref ref-type="bibr" rid="B2-molecules-10-01084">2</xref>]. Potent inhibitory activity of ophiobolin M (16,17-dihydro-ophiobolin K) against nematode worms has been recorded [<xref ref-type="bibr" rid="B3-molecules-10-01084">3</xref>].</p>
+      <fig id="molecules-10-01084-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f002_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Ophioboins. Selected structures.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g002.tif"/>
+      </fig>
+      <p>Fusicoccins A (<xref ref-type="scheme" rid="molecules-10-01084-f003">Scheme 2</xref>) and related diterpenoids [<xref ref-type="bibr" rid="B4-molecules-10-01084">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-01084">5</xref>] embrace the same dicyclopenta[a,d]- cyclooctane ring system, with the side chain shorter by one isoprene unit. The main representatives of this group have been isolated from the fungus <italic>Fusicoccum amygdali</italic> causing wilting disease of peach and almond trees. Fusicoccins A and related metabolites occur as glycosides. Several compound of this group are presently known, isolated from fungi, plants, algae and from liverworts. Some of fusicoccins are of interest as potential therapeutic agents. For example, serpendione, isolated from the herbaceous plant <italic>Hypoteous serpens</italic> endemic to Madagascar, shows significant blood pressure moderating activity.</p>
+      <fig id="molecules-10-01084-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f003_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Fusicoccines. Selected structures.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g003.tif"/>
+      </fig>
+      <p>The biosynthetic origins of ophiobolins were revealed some time ago [<xref ref-type="bibr" rid="B5-molecules-10-01084">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-01084">6</xref>]. Geranylfarnesyl pyrophosphate undergoes macrocyclisation as illustrated in <xref ref-type="scheme" rid="molecules-10-01084-f004">Scheme 3</xref>. Cyclisation is followed by a 1,5- hydride ion shift and trans-annular carbon-carbon bond formation.</p>
+      <fig id="molecules-10-01084-f004" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f004_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <caption>
+          <p>Biosyntheis of ophiobolins.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g004.tif"/>
+      </fig>
+      <p>The structural complexity and important biological activity of terpenoids with dicyclopenta[a,d]- cyclooctane carbon skeletons attracted a great deal of attention from synthetic chemists [<xref ref-type="bibr" rid="B7-molecules-10-01084">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-01084">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-01084">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-01084">10</xref>]. The majority of work has focused on the methodology for construction of eight-membered ring systems [<xref ref-type="bibr" rid="B11-molecules-10-01084">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-01084">12</xref>]. Synthesis and elucidation of reactivity of cyclooctane derivatives present a long-standing challenge owing to conformational lability of the cyclooctane ring and, in certain cases, astonishing unpredictability of conformation effects.</p>
+      <p>In the present paper, a synthesis of a key building block of the ophiobolates and fusicoccins, embracing rings A and B (5/8) will be presented. Special attention will be given to application of the ring closing metathesis (RCM) reaction to annulation of cyclopentane into cyclooctapentane derivatives.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Our synthetic plan is illustrated in <xref ref-type="scheme" rid="molecules-10-01084-f005">Scheme 4</xref>. It was reasoned that cyclopentaannulene derivative <bold>1</bold> with two protected oxo groups, will serve as a versatile key intermediate for ophiobolates and fusicoccanes, for example, for serpendione. The oxo group in the position 10 (ophiobolate numbering) will be used for attachment of the ring C, via aldol reaction with &#x3B1;,&#x3B2;-unsaturated aldehyde or by another means. The carbonyl group in position 4 will allow for controlling of the double bond position in the ring A; the hydroxymethyl group will be used to adjust the double bond position in the ring B. Unsaturated triol <bold>2</bold> is a synthetic equivalent of the diketene <bold>1</bold>.</p>
+      <fig id="molecules-10-01084-f005" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f005_Scheme 4</object-id>
+        <label>Scheme 4</label>
+        <caption>
+          <p>The synthetic plan.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g005.tif"/>
+      </fig>
+      <p>It was thought that <bold>2</bold> will be available by Wagner-Meerwein &#x2013; type rearrangement of epoxide <bold>3</bold>. The epoxide function in <bold>3</bold> will be established starting from ketone <bold>4</bold> by methodology well documented in steroid chemistry, via the respective hydrazone and vinyl iodide. With respect to the oxygen function in the eight-membered ring, it will be generated from the double bond in <bold>4</bold> in the hydroboration &#x2013; oxidation reaction sequence. The hydroxymethyl group in <bold>3</bold> originates in the ester group of <bold>4</bold>. The key intermediate <bold>4</bold> will be provided by ring closing metathesis reaction of diene <bold>5</bold>. It should be noted that transformation of <bold>5</bold> into <bold>4</bold> would generate considerable strain as a consequence of 1,3- pseudo di-axial arrangement of the angular methyl group and the carbon substituent at C7. The intermediate <bold>5</bold> will be accessible via Mukaiyama-Michael reaction of the appropriate ketene acetal and 2-methylcyclopent-2-en-1-one in tandem with alkylation of the intermediate silyl enol ether.</p>
+      <p>The Mukaiyama-Michael reaction of ketene acetal <bold>6</bold> (prepared from the corresponding thioester) with 2-methylcyclopent-2-en-1-one afforded the adduct <bold>7</bold> (<xref ref-type="scheme" rid="molecules-10-01084-f006">Scheme 5</xref>). The reaction is usually catalyzed with trityl hexachloroantimonate. Alkylation of the silyl enol ether with allyl methyl carbonate according to the Tsuji procedure [<xref ref-type="bibr" rid="B13-molecules-10-01084">13</xref>] affords the product (<bold>8</bold>, R = H) in an excellent yield. However, when methallyl methyl carbonate was used for alkylation, the yield of the tandem reactions was low.</p>
+      <fig id="molecules-10-01084-f006" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f006_Scheme 5</object-id>
+        <label>Scheme 5</label>
+        <caption>
+          <p>Study on the conjugate addition &#x2013; alkylation reaction sequence.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g006.tif"/>
+      </fig>
+      <p>Two factors were altered in optimalization of the procedure: (1) palladium acetate - bis-(diphenyl-phosphine)butane were found to be the catalyst of choice in the alkylation step and (2) TrSbCl<sub>6</sub> was replaced with TMSOTf; the reaction was markedly slower, but the catalyst could be easily removed which was essential for reproducibility of the reaction. The procedure was applied to a number of substrates. As expected, in all cases products of <italic>like</italic>,<italic>like</italic> (<italic>l,l</italic>) relative configuration were obtained.</p>
+      <fig id="molecules-10-01084-f007" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f007_Scheme 6</object-id>
+        <label>Scheme 6</label>
+        <caption>
+          <p>Preparation of starting materials for study of annulation via RCM reactions.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g007.tif"/>
+      </fig>
+      <p>The dienes were transformed straightforwardly into the derivatives that were need for scrutiny of the RCM reaction (<xref ref-type="scheme" rid="molecules-10-01084-f007">Scheme 6</xref>). First, the <italic>tert</italic>-butylthio groups were replaced with the methoxy groups. The best results were obtained by carrying out methanolysis reaction using MeOK in MeOH, prepared from potassium and methanol. Methanolysis was accompanied by epimerisation at the stereogenic center in the &#x3B1;-position, to give a mixture of diastereomeric esters (<italic>l,l</italic> and <italic>u,l</italic>). Differences in steric shielding of <italic>l,l</italic> and <italic>l,u</italic> diasteromers were obvious: whereas hydrolysis of <italic>l,u</italic> benzoate <bold>13a</bold> with KOH in aq. MeOH occurred smoothly, for its <italic>l,l</italic>&#x2013;diastereomer <bold>12a</bold> only MeOK/MeOH at the reflux temperature was effective in a reasonable time.</p>
+      <fig id="molecules-10-01084-f008" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f008_Scheme 7</object-id>
+        <label>Scheme 7</label>
+        <caption>
+          <p>Preparation of starting materials for study of annulation via RCM reactions, 2.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g008.tif"/>
+      </fig>
+      <p>Noteworthly, ester bearing <italic>gem</italic>-methyl groups (<xref ref-type="scheme" rid="molecules-10-01084-f008">Scheme 7</xref>) under methanolysis conditions afforded only one product with retained configuration. Correlation of structure of alcohols obtained from methyl ester <bold>15</bold> and thioester <bold>14</bold> was made. The structure of alcohol <bold>16</bold> was confirmed by single crystal x-ray analysis of the respective 3,5-dinitrobenzoate.</p>
+      <p>Thioester <bold>9b</bold> in metathesis reaction in the presence of the Grubb&#x2019;s second generation catalyst, in benzene, under reflux, afforded a single product in a moderate yield (<xref ref-type="scheme" rid="molecules-10-01084-f009">Scheme 8</xref>). Analysis of <sup>1</sup>H- and <sup>13</sup>C-NMR, and mass-spectra of this product indicated the cycloheptane (azulene) derivative <bold>17</bold> has been formed. Evidently, migration of the double bond had occurred prior to ring closure, and propene was generated as the complementary metathesis product.</p>
+      <fig id="molecules-10-01084-f009" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f009_Scheme 8</object-id>
+        <label>Scheme 8</label>
+        <caption>
+          <p>Initial experiments on the RCM reaction.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g009.tif"/>
+      </fig>
+      <p>Migration of a carbon-carbon double bond in the presence of ruthenium catalysts, is a well documented side reaction accompanying RCM reactions [<xref ref-type="bibr" rid="B14-molecules-10-01084">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-01084">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-01084">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-01084">17</xref>]. However, only minor products were formed by this route. Efficient isomerisation &#x2013; metathesis tandem process has no precedent in the literature, to the best of our knowledge. Our findings on the metathesis reaction will be discussed in the concluding part of the presentation. For the purpose of synthesis, the intermediate with eight membered ring <bold>18</bold> was smoothly obtained by metathesis of methyl ester of <italic>l</italic>,<italic>u</italic> configurtion <bold>11</bold>.</p>
+      <p>This cyclooctapentane derivative <bold>18</bold> was transformed, into ethylene ketal &#x2013; alcohol <bold>19</bold> as shown in <xref ref-type="scheme" rid="molecules-10-01084-f010">Scheme 9</xref>. Consecutive hydroboration and oxidation of <bold>19</bold> afforded diol <bold>21</bold> as the only product. Attack of the reagent occurred on the outer side of the cyclooctane ring, opposite to the angular methyl group. A low-energy three-dimension structure of <bold>21</bold> is shown in <xref ref-type="fig" rid="molecules-10-01084-f001">Figure 1</xref>. Standard manipulations with the protective group afforded oxo-diacetate <bold>20</bold>.</p>
+      <fig id="molecules-10-01084-f010" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f010_Scheme 9</object-id>
+        <label>Scheme 9</label>
+        <caption>
+          <p>Transformations of cyclopenta[8]annulene derivatives.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g010.tif"/>
+      </fig>
+      <fig id="molecules-10-01084-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Projection of three-dimentional structure of intermediate <bold>21</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g001.tif"/>
+      </fig>
+      <p>Unexpectedly, transformation of ketone <bold>20</bold> into hydrazone <bold>22</bold> turned out problematic (<xref ref-type="scheme" rid="molecules-10-01084-f011">Scheme 10</xref>). A side product was formed, presumably the diazinene derivative [<xref ref-type="bibr" rid="B18-molecules-10-01084">18</xref>] <bold>23</bold>. The crude mixture of hydrazine derivatives was subjected to reaction with iodine [<xref ref-type="bibr" rid="B19-molecules-10-01084">19</xref>]. Vinyl iodide <bold>24</bold> was reduced with sodium in ethanol and then the hydroxy groups in the product were benzoylated. Di-benzoate <bold>25</bold> was obtained in a ca. 50% yield from the ketone <bold>20</bold>.</p>
+      <p>Oxidation of the double bond in <bold>25</bold> with m-CPBA afforded epoxide <bold>26</bold>. Analysis of the high-field <sup>1</sup>H NMR spectrum of indicated the presence of ca. 5% of some other product, presumably the isomeric epoxide.</p>
+      <fig id="molecules-10-01084-f011" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f011_Scheme 10</object-id>
+        <label>Scheme 10</label>
+        <caption>
+          <p>Preparation of the key intermediate epoxide.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g011.tif"/>
+      </fig>
+      <p>Rearrangement of the epoxide was an important step in the planned synthesis. Model experiments with easily accessible steroid epoxide were carried out (<xref ref-type="scheme" rid="molecules-10-01084-f012">Scheme 11</xref>). It was found that AlCl<sub>3</sub> in ether [<xref ref-type="bibr" rid="B18-molecules-10-01084">18</xref>] gives the best results. A mixture of two products <bold>27</bold> and <bold>28</bold> was formed in ca. 60% yield. Their structure was elucidated from <sup>1</sup>H-NMR spectra. After oxidation with the Dess-Martin reagent, pure &#x3B2;,&#x3B3;-unsaturated ketone <bold>29</bold> was isolated by chromatography.</p>
+      <fig id="molecules-10-01084-f012" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f012_Scheme 11</object-id>
+        <label>Scheme 11</label>
+        <caption>
+          <p>Experiments on rearrangement of the model steroidal epoxide.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g012.tif"/>
+      </fig>
+      <p>Treatment of epoxide <bold>26</bold> with AlCl<sub>3</sub> in ether afforded a mixture of products. The dominant product was isolated in 60% yield after chromatography. Its NMR spectra clearly showed that the angular methyl group remained unaffected. Instead of rearrangement addition of hydrogen chloride to the epoxide moiety occurred. Surprisingly, the regioselectivity of addition was different to that recorded for the steroidal 16&#x3B1;,17&#x3B1; &#x2013; epoxide. The chlorine atom was attached to C2 to give structure <bold>30</bold> (<xref ref-type="scheme" rid="molecules-10-01084-f013">Scheme 12</xref>). Fortunately, more cooperative reagents for achieving the synthesis targets were on hand. BF<sub>3</sub>&#x387;Et<sub>2</sub>O-catalyzed rearrangement afforded two products that were separated and identified by NMR, mass and IR spectra. The main product (ca. 40% yield) was identified as ketone <bold>31</bold> and the other isolated product (20%) as diene <bold>32</bold>. Stereochemistry of <bold>31</bold> was tentatively assigned from mechanistic considerations: it was assumed that migration of the methyl group and consecutive migration of hydride ion occurred suprafacially, as shown in the scheme.</p>
+      <p>At this stage our goals in developing total synthesis of ophiobolins and/or fusicoccins have been achieved. Intermediate cyclopentaannulene derivatives with proper dislocation of carbon substituents and functional groups were access on a relatively short synthetic route. Each of the cyclopentaannulenes formed may be used for further synthesis. Application of RCM reaction in the synthetic cycle has allowed us to make some novel and, as we think, interesting observations.</p>
+      <fig id="molecules-10-01084-f013" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f013_Scheme 12</object-id>
+        <label>Scheme 12</label>
+        <caption>
+          <p>Migration of the angular methyl group in the cyclopentaannulene system. Experiments on rearrangement of epoxide <bold>26</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g013.tif"/>
+      </fig>
+      <p>Thioesters turned out bad substrates for the metathesis reaction. RCM occurred only with Grubbs II catalyst and reproducibility of the results was poor. Diene <bold>9b</bold> with Grubb&#x2019;s catalyst, 3 mol%, in DCM, cleanly gave a dimeric product <bold>33</bold> that was isolated and purified by chromatography (<xref ref-type="scheme" rid="molecules-10-01084-f014">Scheme 13</xref>). Submission of the dimer to the action of the Grubb&#x2019;s II catalyst (5 mol%) in boiling benzene, afforded the 5/7 ring system, similarly as the &#x201C;direct&#x201D; metathesis reaction.</p>
+      <fig id="molecules-10-01084-f014" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f014_Scheme 13</object-id>
+        <label>Scheme 13</label>
+        <caption>
+          <p>Annulation of the dienes - thioesters via RCM reaction.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g014.tif"/>
+      </fig>
+      <p>The diene with two mono-substituted double bonds <bold>9a</bold> (<xref ref-type="scheme" rid="molecules-10-01084-f015">Scheme 14</xref>) with the Grubb&#x2019;s II catalyst afforded the 5/7 product <bold>34</bold>, isolated in 30-40% yield. Analysis of the crude products using a HPLC &#x2013; MS instrument indicated the presence of the 8/5 product. The diene <bold>35</bold> carrying <italic>gem</italic>-methyl groups under similar conditions afforded the cyclooctane derivative <bold>36</bold> in over 50% yield. The <italic>gem</italic>-methyl groups in <bold>35</bold> block migration of one of the double bonds which facilitate formation of the eight-membered ring. On the other hand, non-bonding interactions are markedly higher.</p>
+      <fig id="molecules-10-01084-f015" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f015_Scheme 14</object-id>
+        <label>Scheme 14</label>
+        <caption>
+          <p>Annulation of the dienes - thioesters via RCM reaction. 2.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g015.tif"/>
+      </fig>
+      <p>As it was already mentioned, metathesis reaction of methyl esters and their derivatives, with <italic>u,l</italic> configuration uniformly gave the products in excellent yields. Some examples involving two mono-substituted double bonds are presented in <xref ref-type="scheme" rid="molecules-10-01084-f016">Scheme 15</xref>. All reactions were carried out using 3 mol% of Grubb&#x2019;s catalyst in boiling DCM.</p>
+      <fig id="molecules-10-01084-f016" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f016_Scheme 15</object-id>
+        <label>Scheme 15</label>
+        <caption>
+          <p>Metathesis of dienes &#x2013; esters of <italic>u,l</italic> configuration.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g016.tif"/>
+      </fig>
+      <p>A more complex picture was observed in metathesis reactions of methyl esters of <italic>l,l</italic> configuration (<xref ref-type="scheme" rid="molecules-10-01084-f017">Scheme 16</xref>). The diene with one disubstituted double bond with Grubb&#x2019;s II catalyst cyclized to give the derivative with seven-membered ring in 60% yield. The same substrate was dimerized with Grubb&#x2019;s catalyst under mild conditions. The dimer was purified by chromatography and then submitted to the action of the Grubb&#x2019;s II catalyst under more forcing conditions. A mixture of products with seven- and eight-membered rings was obtained in high yield. This experiment shows that potential in employing dimers as intermediates in the metathesis reaction. In contrast to the analogous <italic>tert</italic>-butylthio ester, the methyl ester with <italic>gem</italic>-methyl groups did not produce the isolable cyclization product. Instead a mixture of dimers was obtained.</p>
+      <fig id="molecules-10-01084-f017" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f017_Scheme 16</object-id>
+        <label>Scheme 16</label>
+        <caption>
+          <p>Metathesis of dienes &#x2013; esters of <italic>l,l</italic> configuration.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g017.tif"/>
+      </fig>
+      <p>Methyl ester of <italic>l,l</italic> configuration with two monosubstituted double bonds with the Grubb&#x2019;s catalyst in benzene, at the reflux temperature, afforded, again, the product with seven-membered ring (<xref ref-type="scheme" rid="molecules-10-01084-f018">Scheme 17</xref>). The corresponding primary alcohol gave the &#x201C;normal&#x201D; product with eight membered ring. Eight- membered ring was form in the RCM reaction of benzoate; however, the product was isolated in low yields.</p>
+      <fig id="molecules-10-01084-f018" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f018_Scheme 17</object-id>
+        <label>Scheme 17</label>
+        <caption>
+          <p>Metathesis of esters of <italic>l,l</italic> configuration.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g018.tif"/>
+      </fig>
+      <p>An overview of the experiments on the metathetic annulation with methyl esters and substrates derived from methyl esters, is presented in <xref ref-type="scheme" rid="molecules-10-01084-f019">Scheme 18</xref>. For substrates where R = H Grubb&#x2019;s first generation catalyst was used, whereas R = Me required the second generation catalyst.</p>
+      <p>All examined dienes of <italic>u,l</italic> relative configuration uniformly gave eight-membered ring products in high yields. Their diastereomers of <italic>l,l</italic>-configuration generated 5/7- or 5/8- system in moderate or low yields. Thioesters gave derivatives (<italic>l,l</italic> configuration) gave products with 5/7 ring system with one noteworthy exception: the thioester with <italic>gem</italic>-methyl groups in the side chain afforded 5/8 rings system in a relatively high yield.</p>
+      <p>For the dienes with two mono-substituted double bonds some calculations were carried out using HyperChem<sup>&#xAE;</sup> 5.0 program. For the 5/7 ring system the difference in steric energy between diastereomer with <italic>l,l</italic> and <italic>l,u</italic> configuration amounts to 1.85 kcal/mol whereas for the 5/8 system the corresponding difference was 2.65 kcal/mol. The calculation suggest cyclization of the <italic>l,l</italic> substrates to 5/7 ring system involves somewhat lower strain. It should be noted that calculations are concerned with products of reaction; no estimation of energy intermediates could be done.</p>
+      <p>With regard to the functional group effects, cyclization with expulsion of propylene was observed only for esters or thioesters (substrates involving the C=O group), but not for their reduction products (X=CH<sub>2</sub>OR). Finally, in one case a difference between &#x201C;direct&#x201D; RCM reaction and reaction carried out via the respective dimer, was noted.</p>
+      <fig id="molecules-10-01084-f019" position="float">
+        <object-id pub-id-type="pii">molecules-10-01084-f019_Scheme 18</object-id>
+        <label>Scheme 18</label>
+        <caption>
+          <p>Summary of annulation reactions</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01084-g019.tif"/>
+      </fig>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Financial support from State Committee of Scientific Research, grant No. 3 T09A 134 18 is acknowledged. We thank Professors Karol Grela and Jacek W. Morzycki for helpful discussions.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01084">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nozoe</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Morisaki</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tsuda</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Itaka</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Takahashi</surname>
+              <given-names>N.</given-names>
+            </name>
+			<name>
+              <surname>Tamura</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ishibashi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Shirasaka</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Structure of Ophiobolin, C25 Terpenoid Having a Novel Skeleton</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1965</year>
+          <volume>87</volume>
+          <fpage>4968</fpage>
+          <lpage>4970</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00949a061</pub-id>
+          <pub-id pub-id-type="pmid">5844472</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01084">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wei</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Itoh</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kinoshita</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nakai</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kurotaki</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cytotoxic sesterterpenes, 6-epi-ophiobolin G and 6-epi-ophiobolin N, from marine derived fungus <italic>Emercella Variecolor</italic> GF10</article-title>
+          <source>Tetrahedron</source>
+          <year>2004</year>
+          <volume>60</volume>
+          <fpage>6015</fpage>
+          <lpage>6019</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2004.05.021</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01084">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsipouras</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Adefarati</surname>
+              <given-names>A. A.</given-names>
+            </name>
+            <name>
+              <surname>Tkacz</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Frazier</surname>
+              <given-names>E. G.</given-names>
+            </name>
+            <name>
+              <surname>Rohrer</surname>
+              <given-names>S. P.</given-names>
+            </name>
+            <name>
+              <surname>Birzin</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Rosegay</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Zink</surname>
+              <given-names>D. L.</given-names>
+            </name>
+            <name>
+              <surname>Goetz</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>S. B.</given-names>
+            </name>
+            <name>
+              <surname>Schaeffer</surname>
+              <given-names>J. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ophiobolin M and analogues, noncompetitive inhibitors of ivermectin binding with nematocidal activity</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>1996</year>
+          <volume>4</volume>
+          <fpage>531</fpage>
+          <lpage>536</lpage>
+          <pub-id pub-id-type="doi">10.1016/0968-0896(96)00036-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01084">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ballio</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Chain</surname>
+              <given-names>E. B.</given-names>
+            </name>
+            <name>
+              <surname>Leo</surname>
+              <given-names>P. D.</given-names>
+            </name>
+            <name>
+              <surname>Erlanger</surname>
+              <given-names>B. F.</given-names>
+            </name>
+            <name>
+              <surname>Mauri</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tonolo</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fusicoccin: a New Wilting Toxin produced by <italic>Fusicoccum amygdali</italic> Del</article-title>
+          <source>Nature</source>
+          <year>1964</year>
+          <volume>203</volume>
+          <fpage>297</fpage>
+          <pub-id pub-id-type="doi">10.1038/203297a0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01084">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barrow</surname>
+              <given-names>K. D.</given-names>
+            </name>
+            <name>
+              <surname>Barton</surname>
+              <given-names>D. H. R.</given-names>
+            </name>
+            <name>
+              <surname>Chain</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ohnsorge</surname>
+              <given-names>U. F. W.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>R. P.</given-names>
+            </name>
+            <name>
+              <surname>Fusicoccin</surname>
+              <given-names>P.</given-names>
+              <suffix>III</suffix>
+            </name>
+          </person-group>
+          <article-title>The Structure of Fusicoccin H</article-title>
+          <source>J. Chem Soc., Perkin Trans. 1</source>
+          <year>1973</year>
+          <fpage>1590</fpage>
+          <lpage>1599</lpage>
+          <pub-id pub-id-type="doi">10.1039/p19730001590</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01084">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Canonica</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Fiecchi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kienle</surname>
+              <given-names>M. Galli</given-names>
+            </name>
+            <name>
+              <surname>Ranzi</surname>
+              <given-names>B. M.</given-names>
+            </name>
+            <name>
+              <surname>Scala</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Salvatori</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Pella</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Biosynthesis of Ophiobolins</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1967</year>
+          <fpage>3371</fpage>
+          <lpage>3376</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(01)89847-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01084">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruprah</surname>
+              <given-names>P. K.</given-names>
+            </name>
+            <name>
+              <surname>Cros</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Pease</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Whittingham</surname>
+              <given-names>W. G.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>J. M. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies towards the total synthesis of cycloaraneosene and ophiobolin M: A general strategy for the construction of the 5- 8 bicyclic ring system</article-title>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2002</year>
+          <fpage>3145</fpage>
+          <lpage>3152</lpage>
+          <pub-id pub-id-type="doi">10.1002/1099-0690(200209)2002:18&lt;3145::AID-EJOC3145&gt;3.0.CO;2-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01084">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wender</surname>
+              <given-names>P. A.</given-names>
+            </name>
+            <name>
+              <surname>Nuss</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>D. B.</given-names>
+            </name>
+            <name>
+              <surname>SuarezSobrino</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Vagberg</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Decosta</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Bordner</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Transition metal catalyzed cycloadditions: An intramolecular [4+4] cycloaddition strategy for the efficient synthesis of dicyclopenta[a,d]cyclooctene 5-8-5 ring systems</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1997</year>
+          <volume>62</volume>
+          <fpage>4908</fpage>
+          <lpage>4909</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo970841x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01084">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paquette</surname>
+              <given-names>L. A.</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>L. Q.</given-names>
+            </name>
+            <name>
+              <surname>Friedrich</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Savage</surname>
+              <given-names>P. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Total synthesis of (+)-epoxydictymene. Application of alkoxy- directed cyclization to diterpenoid construction</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1997</year>
+          <volume>119</volume>
+          <fpage>8438</fpage>
+          <lpage>8450</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja971526v</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01084">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blake</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Highton</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Majid</surname>
+              <given-names>T. N.</given-names>
+            </name>
+            <name>
+              <surname>Simpkins</surname>
+              <given-names>N. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A very rapid stereocontrolled entry to highly functionalized [5-8-5] ring systems using the Saegusa reaction</article-title>
+          <source>Org. Lett.</source>
+          <year>1999</year>
+          <volume>1</volume>
+          <fpage>1787</fpage>
+          <lpage>1789</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol9902834</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01084">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petasis</surname>
+              <given-names>N. A.</given-names>
+            </name>
+            <name>
+              <surname>Patane</surname>
+              <given-names>M. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Synthesis of Carbocyclic Eight-Membered Rings</article-title>
+          <source>Tetrahedron</source>
+          <year>1992</year>
+          <volume>48</volume>
+          <fpage>5757</fpage>
+          <lpage>5821</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(01)90172-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01084">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mehta</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Progress in the Construction of Cyclooctanoid Systems: New Approaches and Applications to Natural Product Syntheses</article-title>
+          <source>Chem. Rev.</source>
+          <year>1999</year>
+          <volume>99</volume>
+          <fpage>881</fpage>
+          <lpage>930</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr9800356</pub-id>
+          <pub-id pub-id-type="pmid">11749434</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01084">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsuji</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Minami</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Shimizu</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium-catalyzed allylation of ketones and aldehydes with allylic carbonates via silyl enol ethers under neutral conditions</article-title>
+          <source>Chem. Lett.</source>
+          <year>1983</year>
+          <fpage>1325</fpage>
+          <lpage>1326</lpage>
+          <pub-id pub-id-type="doi">10.1246/cl.1983.1325</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01084">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Catalysis at the Interface of Ruthenium Carbene and Ruthenium Hydride Chemistry: Organometallic Aspects and Applications to Organic Syntheis</article-title>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2004</year>
+          <fpage>1865</fpage>
+          <lpage>1880</lpage>
+          <pub-id pub-id-type="doi">10.1002/ejoc.200300714</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01084">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Furstner</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Thiel</surname>
+              <given-names>O. R.</given-names>
+            </name>
+            <name>
+              <surname>Ackermann</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Schanz</surname>
+              <given-names>H. J.</given-names>
+            </name>
+            <name>
+              <surname>Nolan</surname>
+              <given-names>S. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ruthenium carbene complexes with N,N '-bis(mesityl) imidazol-2- ylidene ligands: RCM catalysts of extended scope</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2000</year>
+          <volume>65</volume>
+          <fpage>2204</fpage>
+          <lpage>2207</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo9918504</pub-id>
+          <pub-id pub-id-type="pmid">10774047</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01084">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maynard</surname>
+              <given-names>H. D.</given-names>
+            </name>
+            <name>
+              <surname>Grubbs</surname>
+              <given-names>R. H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Purification technique for the removal of ruthenium from olefin metathesis reaction products</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1999</year>
+          <volume>40</volume>
+          <fpage>4137</fpage>
+          <lpage>4140</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(99)00726-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-01084">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bourgeois</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Pancrazi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Nolan</surname>
+              <given-names>S. P.</given-names>
+            </name>
+            <name>
+              <surname>Prunet</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Cl-2(PCy3)(IMes)Ru(=CHPh) catalyst: olefin metathesis versus olefin isomerization</article-title>
+          <source>J. Organomet. Chem.</source>
+          <year>2002</year>
+          <volume>643</volume>
+          <fpage>247</fpage>
+          <lpage>252</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0022-328X(01)01269-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01084">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Denny</surname>
+              <given-names>W. A.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Meakins</surname>
+              <given-names>G. D.</given-names>
+            </name>
+            <name>
+              <surname>Pragnell</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wicha</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hydroxy-steroids. P. XVIII. Reactions of 17&#x3B2;-Chloro16&#x3B1;,17&#x3B1;-epoxy-5&#x3B1;-cholestane and the Preparation of 17&#x3B2;-iodo-16&#x3B1;,17&#x3B1;- epoxy-5&#x3B1;-androstane</article-title>
+          <source>J. Chem Soc., Perkin Trans. 1</source>
+          <year>1972</year>
+          <fpage>486</fpage>
+          <lpage>492</lpage>
+          <pub-id pub-id-type="doi">10.1039/p19720000486</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01084">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barton</surname>
+              <given-names>D. H. R.</given-names>
+            </name>
+            <name>
+              <surname>Bashiardes</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Fourrey</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on Oxidation of Hydrazones with Iodine and with Phenylselenyl Bromide in the Presence of Strong Organic Bases; an Improved Procedure for the Synthesis of Vinyl Iodides and Phenyl-vinyl Selenides</article-title>
+          <source>Tetrahedron</source>
+          <year>1988</year>
+          <volume>44</volume>
+          <fpage>147</fpage>
+          <lpage>162</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(01)85102-4</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

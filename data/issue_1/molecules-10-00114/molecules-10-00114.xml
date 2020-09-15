@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010114</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00114</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Covalent Polymer-Drug Conjugates</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Elvira</surname>
+            <given-names>Carlos </given-names>
+          </name>
+          <xref rid="af1-molecules-10-00114" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00114" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gallardo</surname>
+            <given-names>Alberto </given-names>
+          </name>
+          <xref rid="af1-molecules-10-00114" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Roman</surname>
+            <given-names>Julio San</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00114" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cifuentes</surname>
+            <given-names>Alejandro </given-names>
+          </name>
+          <xref rid="af2-molecules-10-00114" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00114"><label>1</label>Institute of Polymer Science and Technology (CSIC), Juan de la Cierva 3, 28006 Madrid, Spain</aff>
+      <aff id="af2-molecules-10-00114"><label>2</label>Institute of Industrial Fermentations (CSIC), Juan de la Cierva 3, 28006 Madrid, Spain</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00114"><label>*</label> Author to whom correspondence should be addressed; e-mail: <email>ictep13@ictp.csic.es</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>114</fpage>
+      <lpage>125</lpage>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>04</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>06</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>						
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>		
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>						
+      <abstract>
+        <p>In this work, polymer-drugs conjugates used as drug delivery systems (DDS) are revised attending to their chemical conjugation. Namely, the classification of this type of DDS is based on the conjugation sites of the reactive groups (i.e., via end groups or pendant polymer groups).&#xA0; Advantages and limitations of these types of DDS are discussed through representative examples of polymer-drugs and polymer-proteins conjugates recently developed.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>drug delivery system</kwd>
+		<kwd>DDS</kwd>
+		<kwd>polymer-drug</kwd>
+		<kwd>polymer-protein</kwd>
+		<kwd>conjugates</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>After more than 40 years of research and development of drug delivery systems (DDS), polymer carriers are decisive in the design and preparation of control drug release formulations [<xref ref-type="bibr" rid="B1-molecules-10-00114">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00114">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00114">3</xref>]. DDS should ideally deliver a drug to specific site in a specific time and release pattern. Initially, constant or sustained drug release were the kinetics pursued by most of the DDS in order to avoid problems associated to conventional administration in chronic treatments. This concept has evolved to the trend of developing DDS that fits to the circadian rhythm by using the so-called stimuli responsive polymers or &#x201C;intelligent&#x201D; polymers [<xref ref-type="bibr" rid="B4-molecules-10-00114">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00114">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00114">6</xref>]. In this sense, the main advantages of polymers are their great versatility from the structural point of view, the possibilities to combine hydrophobic and hydrophilic components, as well as the interactions polymer-polymer, polymer-drug, polymer-solvent that offer many possibilities to design and prepare formulations with specific properties and functions. Other aspects that DDS covers are: the slow release of water soluble drugs, the improvement of the bioavailability of low soluble drugs, the deliver of two or more drugs from the same formulation, the possibility of having readily clearable polymer carriers, the control of the release of highly toxic drugs, and the improvement of the targeting to tissues or cells.</p>
+      <p>DDS are classified as a function of the structure and the release mechanism into: (a) membrane based systems, where the drug is dispersed inside of a polymer membrane and the release can be controlled by drug diffusion or by osmotic pressure, (b) matrix based systems, where the drug is dispersed in a polymeric matrix and its release can be controlled by drug diffusion or matrix erosion, (c) hydrophilic matrices where the drug release is controlled either by matrix swelling or by the matrix slow dissolution, (d) stimuli responsive systems where drug release is controlled by changes in stimuli such as temperature or pH, and (e), polymer-drug conjugates where drug release is chemically controlled.</p>
+      <p>Covalent polymer-drug conjugates are a special type of DDS where the drug or bioactive compound (peptides, proteins, growth factors, hormones, enzymes, etc.) is covalently linked to the macromolecular backbone through a physiologically labile bond [<xref ref-type="bibr" rid="B7-molecules-10-00114">7</xref>]. The possibility of linking any bioactive molecule to a macromolecular chain make polymeric conjugated systems very useful for applications not only related to medication, but also in fields as tissue engineering, biosensors, affinity separations, enzymatic processes, cell culture, etc.</p>
+      <p>In this paper the nature of the different types of polymer-drugs conjugates are exposed attending to their chemical conjugation, discussing aspects as advantages and limitations of these types of DDS, and showing the most representative examples polymer-drugs and polymer-proteins conjugates that are being developed for the treatment of different diseases.</p>
+    </sec>
+    <sec>
+      <title>The Ringsdorf model, synthetic polymer-drug conjugates</title>
+      <p>The concept of covalent polymer-drug conjugates was firstly introduced by Helmut Ringsdorf in 1975, who called them synthetic polymeric drugs or pharmacologically active polymers [<xref ref-type="bibr" rid="B8-molecules-10-00114">8</xref>]. His model is based on the covalent link between the drug and a macromolecular backbone through a labile bond. </p>
+      <fig id="molecules-10-00114-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Ringsdorf model of synthetic polymer drugs.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00114-g001.tif"/>
+      </fig>
+      <p><xref ref-type="fig" rid="molecules-10-00114-f001">Figure 1</xref> shows the scheme of the Ringsdorf model where a biostable or biodegradable polymer backbone carries three different units. A hydrophilic area used to make the whole macromolecule soluble and non-toxic, a second region in which the drug is linked to the polymer chain, and a third area that incorporates a transport system whose function is to carry the whole polymer to the target cells or site of pharmacological action. The separation of the different areas along the macromolecular chain may be accomplished by statistical terpolymerization or block copolymerization. In addition, polymer properties can be induced by the polymer specific structural characteristics such as high molecular weight, coil structure, neighbouring groups&#x2019; effects, copolymer composition, variable polyelectrolyte charges, flexibility of polymer chains, and microstructure. In this sense, the advantages of this type of DDS are their diversity in composition, molecular structure and molecular weight, being predominantly used hydrophilic systems with polar or ionic groups, which lead to polymer water solubility and reactivity for conjugation with bioactive molecules. The different ways that can be used to chemically link the bioactive molecules to the polymer chains by hydrolysable or biodegradable bonds are multiple and are shown in <xref ref-type="fig" rid="molecules-10-00114-f002">Figure 2</xref>. As it will be discussed below, the reactive groups can be linked at the end of the polymer chain (end groups), or in the side chain (pendant groups). </p>
+      <fig id="molecules-10-00114-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Biodegradable bonds used to conjugate bioactive molecules to polymer backbones.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00114-g002.tif"/>
+      </fig>
+      <p>Other important aspects that are also some limitations of the synthetic polymers used in this type of applications are: a) non-toxic and non-immunogenic, b) clearable from the body without any accumulations in tissues or organs, c) controlled average molecular weight and molecular weight distribution avoiding undesirable responses of low or high Mw polymer-drug conjugates, d) high purity of polymers, e) possible sterilization of polymers with biodegradable character.</p>
+      <p>These types of DDSs are probably the most attractive devices because they are designed on the molecular basis. However, in despite of the high versatility of this approach, it is difficult to find marketed products mainly because these conjugates are considered as new drug molecules and the path needed to be approved is arduous and expensive.</p>
+      <p>The three areas of the Ringsdorf model exposed in <xref ref-type="fig" rid="molecules-10-00114-f001">Figure 1</xref> provide the different possibilities from the chemical point of view to design and prepare covalent polymer-drug conjugates with specific applications. The most important requirement of the solubilizer area is to provide non-toxic and non-immunogenic character, as well as to give a soluble character to the polymer chain. Water solubilizing units have generally been introduced with co-monomers such as vinyl pyrrolidone (VP) or acrylamides, whereas in the case of lipid-solubilizing units co-monomers bearing alkyl side chains increase the possible absorption at lipid phases and cell membranes. As mentioned above, the polymer molecular weight and molecular weight distribution are significant as soluble polymers can be excreted via the glomerular kidney membrane when are below 50,000 Da.</p>
+      <p>The second area of <xref ref-type="fig" rid="molecules-10-00114-f001">Figure 1</xref> is that of the drug bonded to the polymer chain, where aspects as fixing the drug in mild conditions, the nature of the chemical fixing groups (see <xref ref-type="fig" rid="molecules-10-00114-f002">Figure 2</xref>), and the nature of the drug are of great interest when designing this type of DDS. The drug fixation must be mild enough to allow attachment without any adverse effect on its biological activity. In this sense, polymerizable active esters and amides have been widely used. Connected to this area is the release of the drug and its relationship with the spacer groups between the polymer and the drug. The drug might be required to be released fast or slow and the release rate can be modulated by the type of the spacer group. A permanent spacer separates the drug from the polymer backbone, and interferes to the biological activity of the bound material, being an example the direct fixation of enzymes which leads to loss its enzymatic activity when directly bonded to the polymer, activity which is restored when the enzyme is attached through a long alkyl group. Temporary spacer groups are a type of spacers applied to release the active molecule. A typical example is the presence of peptides groups bounded to the polymer chain and to the drug [<xref ref-type="bibr" rid="B9-molecules-10-00114">9</xref>].</p>
+      <p>The third area of <xref ref-type="fig" rid="molecules-10-00114-f001">Figure 1</xref> is the transport system which function is to induce specific or non-specific resorption at the target cells or local site of pharmacological activity. Specific resorption at the biological target can be achieved by using homing devices, i.e. receptor-active components like immunoglobulin, enzymes, hormones or special drugs, as it has been demonstrated in cancer chemotherapy [<xref ref-type="bibr" rid="B8-molecules-10-00114">8</xref>]. On the other hand, non-specific resorption enhancers can be produced by inducing variations in the normal body distribution of polymers that can be expected in surface, membrane and skin active systems with, for example, sulfoxides or formamide groups which enhance the uptake of certain drugs through the skin. Other special type of transport systems are those based on the fixation via reactive esters that can be obtained by local injections into specific areas (tumours or tissues), or by simply fixation of the reactive ester to the intestinal wall.</p>
+    </sec>
+    <sec>
+      <title>Types of polymer-drug conjugates</title>
+      <p>The classification of this type of DDS is based on the conjugation sites of the mentioned reactive groups. These reactive groups can be used for conjugations via end groups or pendant polymer groups. In the pendant polymer groups the same or different biomolecules can be conjugated to a given polymer chain by controlling the number of the reactive pendant groups, including spacers between them and the bioactive molecule and maintaining the biodegradable character of the links, whereas in the polymer end group model, the conjugation only can be produced in one or two extremes of the chain ends.</p>
+      <sec>
+        <title>End group systems</title>
+        <p>Despite the great versatility in composition, structure and molecular weight of synthetic polymers, one of the simplest polymers, polyethylene glycol, PEG, has been the most widely used in end group synthetic polymer-biomolecule conjugates. This approach has found an important application in the so-called protein pegylation (see <xref ref-type="fig" rid="molecules-10-00114-f003">Figure 3</xref>), based on the conjugation of the PEG to protein drugs to protect them from recognition by the immune body system, and to prolong their circulation time in the body, as described Abuchowski <italic>et al</italic>. in 1977 about the alterations of immunological properties of bovine serum albumin (BSA), covalently attached to PEG [<xref ref-type="bibr" rid="B10-molecules-10-00114">10</xref>]. All the modifications on PEG have been based on the replacement of the hydroxyl end group, also taken into consideration the influence of the molecular weight of the PEG chains and the site of conjugation, that influence the final properties of the conjugates [<xref ref-type="bibr" rid="B11-molecules-10-00114">11</xref>]. In this sense, PEG with average molecular weight of several thousands have generally been used, and the majority of the PEG-protein conjugations have been performed via the lysine amino group of the protein, although other reactive sites of histidine and cysteine can be employed [<xref ref-type="bibr" rid="B12-molecules-10-00114">12</xref>]. Other type of conjugation developed with PEG are some interesting branched, star and comb-like polymers that have been conjugated with proteins [<xref ref-type="bibr" rid="B13-molecules-10-00114">13</xref>] .</p>
+        <fig id="molecules-10-00114-f003" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p>Typical end-group polymer-drug conjugate based on polyethylene glycol (PEG) modifications.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00114-g003.tif"/>
+        </fig>
+        <p>The main advantages of biomolecules conjugated with PEG (pegylation) are based on the following aspects: a) PEG is essentially non-toxic (approved for human use), b) is easily activated for conjugation and inexpensive, c) conjugates have improved solubility and stability, d) posses higher resistance to surface adsorption, e) exhibit prolonged circulation time in the bloodstream, f) have reduced immunogenicity and antigenicity, and g) have controlled permeability through biological barriers. One of the most important limitations is that many different sites of the protein may be conjugated to the polymer molecules, interfering sometimes with the active recognition pocket and reducing the bioactivity of the protein [<xref ref-type="bibr" rid="B14-molecules-10-00114">14</xref>]. Despite this aspect, there are many examples in the literature of increase biological activity of biomolecules after their end group conjugation to polymer macromolecules [<xref ref-type="bibr" rid="B15-molecules-10-00114">15</xref>].</p>
+        <p>Examples of this type of conjugated systems are the PEGylation of bovine adenosine deaminase by an amide bond (PEG M<sub>w</sub> 5000), commercialized by Enzon with the trade name ADAGEN (approved by the FDA in 1990) used in the treatment of severe combined immunodeficiency diseases [<xref ref-type="bibr" rid="B16-molecules-10-00114">16</xref>]. In this case the life-time of the pegilated protein is increased 6.4 times in comparison to the unmodified. The same company also used the PEGylation of the biologically active protein L-asparaginase with the trade name ONCASPAR (approved by FDA in 1994), for the treatment of patients with acute lymphoblastic leukaemia, showing a much lower degree of immunogenicity with respect to the native protein [<xref ref-type="bibr" rid="B17-molecules-10-00114">17</xref>]. In the year 2000 the use of PEG modified &#x3B1;-interferon (&#x3B1;-IFN) with the commercial name PEG-INTRON, was approved for the treatment of hepatitis C [<xref ref-type="bibr" rid="B18-molecules-10-00114">18</xref>]. The resulting product, a mixture of positional isomers, posses a plasma life time about eight times more than the native IFN protein.</p>
+        <p>PEGylation has been also carried out on peptides, a quite recent area of great interest in the drug delivery community. A prolonged life time and enhanced antithrombotic activity, without immunogenicity, was obtained when hirudin, a natural occurring anticoagulant polypeptide, was PEGylated via urethane bonds [<xref ref-type="bibr" rid="B19-molecules-10-00114">19</xref>]. Another example based on the therapeutic potential of salmon calcitonin, a polypeptide hormone, (sCT), has been described &#x2013; its PEGylated derivative showed an enhanced pharmacokinetic and lower renal excretion compared to the unmodified peptide [<xref ref-type="bibr" rid="B20-molecules-10-00114">20</xref>].</p>
+        <p>PEGylation has been also performed on small organic molecules such as anticancer agents, although in this particular case this type of modification decreases the therapeutic index. For example the PEGylation of paclitaxel has been reported as a means of solubilizing and releasing this very potent anticancer drug, and it has been also found that the PEGylated drug is less active than the native drug <italic>in vitro</italic> [<xref ref-type="bibr" rid="B21-molecules-10-00114">21</xref>]. These types of problems are being solved by the incorporation of specific spacers between the drug and the PEG chain, as well as by modifying the chemical nature of the links between drug and spacer [<xref ref-type="bibr" rid="B22-molecules-10-00114">22</xref>].</p>
+        <p>PEG conjugation has been also developed in oligodeoxynucleotides (ODN), whose use as possible drugs is often prevented by their low <italic>in vivo</italic> stability and by their inability to reach effective concentrations at the cellular targets. PEGylation has been found to exhibit uptake and biological properties superior to non conjugated sequences [<xref ref-type="bibr" rid="B23-molecules-10-00114">23</xref>]. </p>
+        <p>Finally, PEG also has been conjugated to antibodies and fragments, where the benefits are the same as mentioned before: greater solubility and longer circulating life <italic>in vivo</italic>. This has been performed on single chain (SCA) and monoclonal (mAb) antibodies. An example is the PEGylation with PEG (40,000) to the antibodies mAb N12 and L26 specific to ErbB2 oncoprotein, which suppress the growth of tumours over-expressing ErbB12 [<xref ref-type="bibr" rid="B24-molecules-10-00114">24</xref>].</p>
+      </sec>
+      <sec>
+        <title>Pendant group systems</title>
+        <p>This type of polymer-drug conjugate is based on the Ringsdorf model. It is a very diverse family of polymers because of its infinite range of compositions that can be designed and prepared by free radical copolymerization reactions. These polymers may present a single reactive pendant group, or can be synthesized with a controlled number of pendant reactive sites along the polymer backbone. The frequency of reactive functional groups can be controlled by the preparation of alternating copolymers regularly repeating the reactive groups along the copolymer chain. In this sense, many different types of bioactive molecules can be linked to the same polymer chain. The most important and commercialized pendant group systems will be described in this section, as well as some of the polymer-drug conjugated systems developed in our research group, and finally a brief introduction to stimuli-responsive polymers for this type of applications will be also exposed.</p>
+        <fig id="molecules-10-00114-f004" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>Chemical structure of SMANCS conjugates.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00114-g004.tif"/>
+        </fig>
+        <p>One of the most important systems is the so-called SMANCS, a therapeutic prototype used in cancer chemotheraphy, which is a conjugate of poly(styrene-co-maleic acid/anhydride) (SMA) and the antitumour protein neocarzinostatin (NCS) covalently bounded by amide groups (see <xref ref-type="fig" rid="molecules-10-00114-f004">Figure 4</xref>). These conjugated systems were originally developed by Maeda <italic>et al</italic>. [<xref ref-type="bibr" rid="B25-molecules-10-00114">25</xref>] and are marketed in Japan for the treatment of hepatocellular carcinoma. The major limitations of NCS are its great toxicity (primarily bone marrow suppression), and a very short half-life in vivo. For this purpose poly(styrene-co-maleic acid/anhydride) was applied to modify NCS by coupling its amino to the anhydride groups of the alternating copolymer SMA (<xref ref-type="fig" rid="molecules-10-00114-f004">Figure 4</xref>), with styrene conferring a hydrophobic potential to the macromolecule [<xref ref-type="bibr" rid="B26-molecules-10-00114">26</xref>]. In addition, SMANCS conjugates offer a higher accumulation in the tumour tissue than in normal tissue, prevent immunological problems and adding a biological response-modifying effect (activation of macrophages, the natural killer cells). The targeting of this conjugate system is based on the mentioned aspects but several improvements have been made by combining SMANCS with lipids to obtain oily formulations. One of the most beneficial is the SMANCS/Lipidol, Lipidol being an ethyl ester of iodinated poppy seed oil which contains about 37% of iodine for lymphographies by X-ray detection [<xref ref-type="bibr" rid="B27-molecules-10-00114">27</xref>]. These formulations can be administrated via tumour&#x2013;feeding arteries, which in fact is the most efficient targeting method for these type of systems. They are also being evaluated for future oral administration due to the drug increased stability against various hydrolytic enzymes [<xref ref-type="bibr" rid="B28-molecules-10-00114">28</xref>].</p>
+        <p>Copolymers of <italic>N</italic>-(2-hydroxypropyl) methacrylamide (HPMA) are probably the most developed pendant group conjugated systems as anti-cancer agents that have already entered early clinical trials [<xref ref-type="bibr" rid="B29-molecules-10-00114">29</xref>,<xref ref-type="bibr" rid="B30-molecules-10-00114">30</xref>]. These are water soluble systems and their molecular weight is chosen to be about 30,000 Da, to ensure that this non-degradable polymer would be amenable to renal elimination. The biodegradable peptide linker between the polymer chain and the drug (normally Gly-Phe-Leu-Gly) is designed to ensure the stability of the conjugate in the circulation and eventual intracellular degradation releasing the drug following cellular uptake by endocytosis. As shown in <xref ref-type="fig" rid="molecules-10-00114-f005">Figure 5</xref>, the chemical structure of HPMA copolymers is based on the copolymerization of the monomer HPMA with a methacrylic monomer drug bonded through a peptide link (X), and in some cases also with ionisable hydrophilic monomers such as N-(3-aminopropyl) methacrylamide which confers sensitivity to pH changes. The hydrolytical drug release is enzymatically activated through the peptide degradable spacer. The tumour targeting is based on enhanced drug permeability and retention effect (EPR) by hyperpermeability on the tumour vasculature, and by the lack of lymphatic drainage in the tumour tissue, or by using specific markers as galactose which has been applied to facilitate liver targeting [<xref ref-type="bibr" rid="B31-molecules-10-00114">31</xref>]. Doxorubicin, a potent anticancer drug, is the most studied drug in these kinds of DDS that have been clinically tested, paclitaxel and camptothecin being other anticancer drugs applied in these DDS [<xref ref-type="bibr" rid="B32-molecules-10-00114">32</xref>].</p>
+        <fig id="molecules-10-00114-f005" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>Chemical structure of HPMA copolymer-drug conjugate. X = peptide link, D = drug.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00114-g005.tif"/>
+        </fig>
+        <p>In our research group we have prepared families of polymer-drug conjugates with pendant groups based on acrylic derivatives of different compounds with pharmacological interest: analgesic drugs such as paracetamol and salicylic acid [<xref ref-type="bibr" rid="B33-molecules-10-00114">33</xref>], antiggregating agents like Triflusal [<xref ref-type="bibr" rid="B34-molecules-10-00114">34</xref>], non steroidal antiinflammatory agents (NSAID) like ketoprofen and ibuprofen [<xref ref-type="bibr" rid="B35-molecules-10-00114">35</xref>] and compounds such as vitamin E [<xref ref-type="bibr" rid="B36-molecules-10-00114">36</xref>]. The common aspects of the prepared DDS are an initial reaction to link the drug to an acrylic group through an ester or amide bond and the later copolymerization of the monomer-drug with other acrylic monomers with hydrophilic character such as acrylic acid, vinyl pyrrolidone, 2-hydroxyethyl methacrylate, or dimethyl acrylamide in order to obtain systems with a controlled hydrophobic/hydrophilic balance. This balance governs the copolymer swelling, the drug hydrolysis (also controlled by the incorporation of spacers between the polymer backbone and the drug) and the drug diffusion through the polymer matrix. The modulation of drug release by the copolymer composition can be observed in <xref ref-type="fig" rid="molecules-10-00114-f006">Figure 6</xref> for copolymers of 2-hydroxyethyl methacrylate, HEMA,  and  a methacrylamide that incorporates ibuprofen: N-{4-[2-(4-isobutylphenyl) propionyloxy] phenyl} methacrylamide, MAI [<xref ref-type="bibr" rid="B37-molecules-10-00114">37</xref>]. Many of the prepared systems are clearable after hydrolysis of the drug as become soluble and can be eliminated through the renal system.</p>
+        <fig id="molecules-10-00114-f006" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p>- Drug release at pH = 7.4 as (mg drug)/(g device) as a function of the time for all the copolymeric systems of 2-hydroxyethyl methacrylate, HEMA, and a methacrylamide that incorporates ibuprofen: N-{4-[2-(4-isobutylphenyl) propionyloxy] phenyl} methacrylamide, MAI. The weight compositions of the systems are 1 (&#x25CB;), 2.5 (&#x25A1;), 5 (&#x0394;), 10 (<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00114-i001.tif"/>), 20 (<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00114-i002.tif"/>) and 30 % (<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00114-i003.tif"/>).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00114-g006.tif"/>
+        </fig>
+        <p>Finally, some of the discussed polymer systems can also exhibit stimuli-responsive character to changes in temperature, pH, application of an electric field, or concentration of specific ions, that cause changes in the polymer conformation and therefore in some of their properties such as the swelling degree [<xref ref-type="bibr" rid="B38-molecules-10-00114">38</xref>]. These changes are also reversible and sometimes lead to phase separation or gelation of the polymer and its conjugate. The most common changes in these DDS are variation in temperature and pH. Stimuli responsive polymer conjugates are also applied in biotechnology where the stimuli are easier to apply in comparison to <italic>in vivo</italic> conditions, using the reversible character of the polymer to separate the conjugate from complex mixtures for recovery and recycle for example of polymer-enzyme conjugates or polymer receptor-ligand conjugates. The possibility of having an on-off control in these systems can make them to participate in different recognition processes, as the mentioned receptor-ligand or protein-ligand [<xref ref-type="bibr" rid="B39-molecules-10-00114">39</xref>,<xref ref-type="bibr" rid="B40-molecules-10-00114">40</xref>].</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The development of new and effective polymeric systems and the preparation and application of specific controlled delivery formulations offer enormous possibilities in the present and in the future of advanced pharmaceutical technology. Drug delivery systems based on the sophisticated &#x201C;polymer-drug&#x201D; conjugates, will give improved treatments with lower toxicity index and specific targeting applications in a wide sector of the pharmacological activity and therapeutics. This multi-disciplinary field offers a new generation of technologies to improve the effectiveness of therapeutic treatments in diseases of great social incidence.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors would like to acknowledge to Programa Ram&#xF3;n y Cajal for financial support.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00114">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mathiowitz</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Encyclopedia of Controlled Drug Delivery</source>
+          <publisher-name>Wiley-Interscience</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1999</year>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00114">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kydonieus</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Treatise on Controlled Drug Delivery</source>
+          <publisher-name>Marcel Dekker</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1992</year>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00114">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baker</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Controlled Release of Biologically Active Agents</source>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1987</year>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00114">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shiino</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Murata</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kataoka</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Koyama</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yokoyama</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Okano </surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Sakurai</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and characterization of a glucose-responsive insulin-releasing polymer device</article-title>
+          <source>Biomaterials</source>
+          <year>1994</year>
+          <volume>15</volume>
+          <fpage>121</fpage>
+          <lpage>128</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00114">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bromberg</surname>
+              <given-names>L.E.</given-names>
+            </name>
+            <name>
+              <surname>Ron</surname>
+              <given-names>E.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Temperature-responsive gels and thermogelling polymer matrices for protein and peptide delivery</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>1998</year>
+          <volume>31</volume>
+          <fpage>197</fpage>
+          <lpage>221</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00114">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Qiu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Environment-sensitive hydrogels for drug delivery</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2001</year>
+          <volume>53</volume>
+          <fpage>321</fpage>
+          <lpage>339</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00114">
+        <label>7.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ringsdorf</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+		  <article-title>Synthetic Polymeric Drugs</article-title>
+          <source>Polymeric Delivery Systems</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Kostelnik</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Gordon and Breach Science Publishers, Inc.</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1978</year>
+          <fpage>197</fpage>
+          <lpage>225</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00114">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ringsdorf</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure and properties of pharmacologically active polymers</article-title>
+          <source>J. Polym. Sci., Symp.</source>
+          <year>1975</year>
+          <volume>51</volume>
+          <fpage>135</fpage>
+          <lpage>153</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00114">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Christie</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Grainger</surname>
+              <given-names>D.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design strategies to improve soluble macromolecular delivery constructs</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2003</year>
+          <volume>55</volume>
+          <fpage>421</fpage>
+          <lpage>437</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00114">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abuchowski</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Van Es</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Palzuk</surname>
+              <given-names>N.C.</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>F.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of covalent attachment of polyethylene glycol on immunogenicity and circulating life of bovine liver catalase</article-title>
+          <source>J. Biol. Chem.</source>
+          <year>1977</year>
+          <volume>2</volume>
+          <fpage>3578</fpage>
+          <lpage>3581</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00114">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hooftman</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Herman</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Schacht</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Review: poly (ethylene glycol)s with reactive endgroups. II. Practical consideration for the preparation of protein-PEG conjugates</article-title>
+          <source>J. Bioact. Compat. Polymers</source>
+          <year>1996</year>
+          <volume>11</volume>
+          <fpage>135</fpage>
+          <lpage>159</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00114">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zalipsky</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemistry of polyethylene glycol conjugates with biologically active molecules</article-title>
+          <source>Adv. Drug Delivery Rev.</source>
+          <year>1995</year>
+          <volume>16</volume>
+          <fpage>157</fpage>
+          <lpage>182</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00114">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fuke</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Toshio</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tabata</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ikada</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of PEG derivatives with different branching and their use for protein modification</article-title>
+          <source>J. Control. Rel.</source>
+          <year>1994</year>
+          <volume>30</volume>
+          <fpage>27</fpage>
+          <lpage>34</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00114">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greenwald</surname>
+              <given-names>R.B.</given-names>
+            </name>
+            <name>
+              <surname>Choe</surname>
+              <given-names>Y.H.</given-names>
+            </name>
+            <name>
+              <surname>McGuire</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Conover</surname>
+              <given-names>C.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effective drug delivery by PEGylated drug conjugates</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2003</year>
+          <volume>55</volume>
+          <fpage>217</fpage>
+          <lpage>250</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00114">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greenwald</surname>
+              <given-names>R.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>PEG drugs: an overview</article-title>
+          <source>J. Control. Rel.</source>
+          <year>2001</year>
+          <volume>74</volume>
+          <fpage>159</fpage>
+          <lpage>171</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00114">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hershfield</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Adenosine deaminase deficiency: clinical expression, molecular basis and therapy</article-title>
+          <source>Semen. Hematol.</source>
+          <year>1998</year>
+          <volume>35</volume>
+          <fpage>291</fpage>
+          <lpage>298</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00114">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ho</surname>
+              <given-names>P.P.K</given-names>
+            </name>
+            <name>
+              <surname>Milkin</surname>
+              <given-names>E.B.</given-names>
+            </name>
+            <name>
+              <surname>Bobbitt</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Grinnan</surname>
+              <given-names>E.L.</given-names>
+            </name>
+            <name>
+              <surname>Burck</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Frank</surname>
+              <given-names>B.H.</given-names>
+            </name>
+            <name>
+              <surname>Boeck</surname>
+              <given-names>L.V.D.</given-names>
+            </name>
+            <name>
+              <surname>Squires</surname>
+              <given-names>R.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Crystalline L-asparaginase from Escherichia coli B</article-title>
+          <source>J. Biol. Chem.</source>
+          <year>1970</year>
+          <volume>245</volume>
+          <fpage>3706</fpage>
+          <lpage>3715</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00114">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grace</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Youngster</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gitlin</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sydor</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Westreich</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Jacobs</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Brassard</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Bausch</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bordens</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural and biological characterization of PEGylated recombinant IFN-&#x3B1;-2b</article-title>
+          <source>J. IFN Cytikine Res.</source>
+          <year>2001</year>
+          <volume>21</volume>
+          <fpage>1103</fpage>
+          <lpage>1115</lpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00114">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Esslinger</surname>
+              <given-names>H.U.</given-names>
+            </name>
+            <name>
+              <surname>Haas</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Maurer</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Lassman</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>D&#xFC;bbers</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>M&#xFC;ller-Peltzer</surname>
+              <given-names>H.</given-names>
+            </name>
+           </person-group>
+          <article-title>Pharmacodynamic and safety results of PEG-Hirudin in healthy volunteers</article-title>
+          <source>Thromb. Haemost.</source>
+          <year>1997</year>
+          <volume>77</volume>
+          <fpage>911</fpage>
+          <lpage>919</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00114">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoo</surname>
+              <given-names>S.D.</given-names>
+            </name>
+            <name>
+              <surname>Jun</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Shin</surname>
+              <given-names>B.S.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>H.S.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>M.O.</given-names>
+            </name>
+			<name>
+              <surname>Peluca</surname>
+              <given-names>P.D.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>K.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pharmacokinetic disposition of polyethylene glycol-modified salmon calcitonins in rats</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2000</year>
+          <volume>48</volume>
+          <fpage>1921</fpage>
+          <lpage>1924</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00114">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greenwald</surname>
+              <given-names>R.B.</given-names>
+            </name>
+            <name>
+              <surname>Pendri</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bolikal</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Highly water soluble taxol derivatives. 7-Polyethylene glycol carbamates and carbonates</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1995</year>
+          <volume>60</volume>
+          <fpage>331</fpage>
+          <lpage>336</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00114">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greenwald</surname>
+              <given-names>R.B.</given-names>
+            </name>
+            <name>
+              <surname>Choe</surname>
+              <given-names>Y.H.</given-names>
+            </name>
+            <name>
+              <surname>McGuire</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Conover</surname>
+              <given-names>C.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effective drug delivery by PEGylated drug conjugates</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2003</year>
+          <volume>55</volume>
+          <fpage>217</fpage>
+          <lpage>250</lpage>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00114">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rapozzi</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Cogoi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Soessotto</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Risso</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bonora</surname>
+              <given-names>G.M.</given-names>
+            </name>
+            <name>
+              <surname>Quadrifoglio</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Xodo</surname>
+              <given-names>L.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antigene effect in K562 cells of a PEG-conjugated triples-forming oligonucleotide targeted to bcrlabl oncogene</article-title>
+          <source>Biochemistry</source>
+          <year>2002</year>
+          <volume>41</volume>
+          <fpage>502</fpage>
+          <lpage>510</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00114">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hurwitz</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Klapper</surname>
+              <given-names>L.N.</given-names>
+            </name>
+            <name>
+              <surname>Wilchek</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Yarden</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sela</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Inhibition of tumour growth by poly(ethylene glycol) derivatives of anti-ErbB2 antibodies</article-title>
+          <source>Cancer Immunol. Immunother.</source>
+          <year>2000</year>
+          <volume>49</volume>
+          <fpage>226</fpage>
+          <lpage>234</lpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00114">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maeda</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>SMANCS and polymer-conjugated macromolecular drugs: advantages in cancer chemotheraphy</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>1991</year>
+          <volume>6</volume>
+          <fpage>181</fpage>
+          <lpage>202</lpage>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00114">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maeda</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>SMANCS and polymer-conjugated macromolecular drugs: advantages in cancer chemotheraphy</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2001</year>
+          <volume>46</volume>
+          <fpage>169</fpage>
+          <lpage>185</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00114">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iwai</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Konno</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Use of oily contrast medium for selective drug targeting to tumour: enhanced therapeutic effect and X-ray image</article-title>
+          <source>Cancer Res.</source>
+          <year>1984</year>
+          <volume>44</volume>
+          <fpage>2114</fpage>
+          <lpage>2121</lpage>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00114">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oka</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Miyamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Matsumura</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Oda</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enhanced intestinal absorption of a hydrophobic polymer-conjugated protein drug, SMANCS, in an oily formulation</article-title>
+          <source>Pharmacol. Res.</source>
+          <year>1990</year>
+          <volume>7</volume>
+          <fpage>852</fpage>
+          <lpage>855</lpage>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00114">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duncan</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Drug-polymer conjugates: potential for improved chemotherapy</article-title>
+          <source>Anti-Cancer Drugs</source>
+          <year>1992</year>
+          <volume>3</volume>
+          <fpage>175</fpage>
+          <lpage>210</lpage>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00114">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Putman</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kopecek</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polymer conjugates with anticancer activity</article-title>
+          <source>Adv. Polym. Sci.</source>
+          <year>1995</year>
+          <volume>112</volume>
+          <fpage>55</fpage>
+          <lpage>123</lpage>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00114">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duncan</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polymer conjugates for tumour targeting and intracytoplasmic delivery. The EPR effect as a common gateway?</article-title>
+          <source>Pharm. Sci. Technol. To.</source>
+          <year>1999</year>
+          <volume>2</volume>
+          <fpage>441</fpage>
+          <lpage>449</lpage>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00114">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vasey</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Kaye</surname>
+              <given-names>S.B.</given-names>
+            </name>
+            <name>
+              <surname>Morrison</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Twelves</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Duncan</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Thomson</surname>
+              <given-names>A.H.</given-names>
+            </name>
+            <name>
+              <surname>Murray</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Hilditch</surname>
+              <given-names>T.E.</given-names>
+            </name>
+            <name>
+              <surname>Murray</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Burtles</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Fraier</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Frigerio</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Cassidy </surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase I Clinical and Pharmacokinetic Study of PK1 [<italic>N</italic>-(2-Hydroxypropyl)methacrylamide Copolymer Doxorubicin]: First Member of a New Class of Chemotherapeutic Agents&#x2014;Drug-Polymer Conjugates</article-title>
+          <source>Clin. Cancer Res.</source>
+          <year>1999</year>
+          <volume>5</volume>
+          <fpage>83</fpage>
+          <lpage>84</lpage>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-00114">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Elvira</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>San Rom&#xE1;n</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Complexation of polymeric drugs based on polyacrylic chains with aminosalicylic acid side group</article-title>
+          <source>J. Mater. Sci.: Mater. Med.</source>
+          <year>1997</year>
+          <volume>8</volume>
+          <fpage>743</fpage>
+          <lpage>746</lpage>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-00114">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rodr&#xED;guez</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Gallardo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>San Rom&#xE1;n</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Rebuelta</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bermejo</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Buj&#xE1;n</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bell&#xF3;n</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Honduvilla</surname>
+              <given-names>N. G.</given-names>
+            </name>
+            <name>
+              <surname>Escudero</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>New resorbable polymeric systems with antithrombogenic activity</article-title>
+          <source>J. Mater. Sci.: Mater. Med.</source>
+          <year>1999</year>
+          <volume>10</volume>
+          <fpage>873</fpage>
+          <lpage>878</lpage>
+        </citation>
+      </ref>
+      <ref id="B35-molecules-10-00114">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gallardo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>San Rom&#xE1;n</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterization of a new poly(methacrylamide) bearing side groups with biomedical interest</article-title>
+          <source>Polymer</source>
+          <year>1993</year>
+          <volume>34</volume>
+          <fpage>394</fpage>
+          <lpage>400</lpage>
+        </citation>
+      </ref>
+      <ref id="B36-molecules-10-00114">
+        <label>36.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ortiz</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>V&#xE1;zquez</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>San Rom&#xE1;n</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, characterization and properties of polyacrylic systems derived from vitamin E</article-title>
+          <source>Polymer</source>
+          <year>1998</year>
+          <volume>39</volume>
+          <fpage>4107</fpage>
+          <lpage>4114</lpage>
+        </citation>
+      </ref>
+      <ref id="B37-molecules-10-00114">
+        <label>37.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gallardo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Parejo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>San Rom&#xE1;n</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>NSAIDs bound to methacrylic carriers: microstructural characterization and in vitro release analysis</article-title>
+          <source>J. Control. Rel.</source>
+          <year>2001</year>
+          <volume>71</volume>
+          <fpage>127</fpage>
+          <lpage>140</lpage>
+        </citation>
+      </ref>
+      <ref id="B38-molecules-10-00114">
+        <label>38.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Okano</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Biorelared polymers and gels</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Okano</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>San Diego, USA</publisher-loc>
+          <year>1998</year>
+        </citation>
+      </ref>
+      <ref id="B39-molecules-10-00114">
+        <label>39.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>G.H.</given-names>
+            </name>
+            <name>
+              <surname>Hoffman</surname>
+              <given-names>A.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new temperature and pH-responsive copolymer for possible use in protein conjugation</article-title>
+          <source>Macromol. Chem. Phys.</source>
+          <year>1995</year>
+          <volume>196</volume>
+          <fpage>1251</fpage>
+          <lpage>1259</lpage>
+        </citation>
+      </ref>
+      <ref id="B40-molecules-10-00114">
+        <label>40.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoffman</surname>
+              <given-names>A.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Intelligent polymers in medicine and biotechnology</article-title>
+          <source>Macromol. Symp.</source>
+          <year>1995</year>
+          <volume>98</volume>
+          <fpage>645</fpage>
+          <lpage>664</lpage>
+          <pub-id pub-id-type="doi">10.1002/masy.19950980156</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

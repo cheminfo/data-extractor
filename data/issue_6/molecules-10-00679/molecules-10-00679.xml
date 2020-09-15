@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10060679</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00679</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Immobilization of Chiral Ferrocenyl Ligands on Silica Gel and their Testing in Pd-catalyzed Allylic Substitution and Rh-catalyzed Hydrogenation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cvengro&#x161;</surname>
+            <given-names>J&#xE1;n</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00679" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00679" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Toma</surname>
+            <given-names>&#x160;tefan</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00679" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00679" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>&#x17D;emb&#xE9;ryov&#xE1;</surname>
+            <given-names>M&#xE1;ria</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00679" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Macquarrie</surname>
+            <given-names>Duncan J.</given-names>
+          </name>
+          <xref rid="af3-molecules-10-00679" ref-type="aff">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00679"><label>1</label>Department of Organic Chemistry, Faculty of Natural Sciences, Comenius University, Mlynsk&#xE1; dolina, Bratislava, 84215, Slovak Republic. Tel. +421-2-60296 208, Fax +421-2-60296 690</aff>
+      <aff id="af2-molecules-10-00679"><label>2</label>Department of Analytical Chemistry, Faculty of Natural Sciences, Comenius University, Mlynsk&#xE1; dolina, Bratislava, 84215, Slovak Republic</aff>
+      <aff id="af3-molecules-10-00679"><label>3</label>Centre for Clean Technology, Department of Green Chemistry, University of York, Heslington, York, Y01 5DD, Great Britain</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00679"><label>*</label> Author to whom correspondence should be addressed; e-mail: <email>toma@fns.uniba.sk</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <fpage>679</fpage>
+      <lpage>692</lpage>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>06</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Five different silica gels containing two chiral ferrocenyl ligands were prepared by various synthetic routes and tested in an enantioselective Pd(0)-catalyzed allylic substitution and Rh-catalyzed hydrogenation. All the prepared anchored ligands were characterized by porosimetry data, DRIFTS spectra, thermal data and AAS. The aim of the work was to compare the influence of the carrier, surface properties and immobilization strategy on the performance of the catalyst.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Heterogeneous catalysis</kwd>
+        <kwd>ferrocenylphosphane ligands</kwd>
+        <kwd>sol-gel-template method</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Heterogenization of the catalytic systems is still a very frequent goal in the development of highly efficient synthesis. Although none of the immobilized catalysts has been so far exploited in large scale production, mostly because of the lower performance when comparing with the homogeneous analogues or high costs, the possibility of the regenerating and recycling of the expensive catalysts is very attractive for the both industrial and academical research [<xref ref-type="bibr" rid="B1-molecules-10-00679">1</xref>].</p>
+      <p>The development of new materials suitable for the anchoring of the homogeneous catalysts and novel synthetic strategies is one of the most efficient ways for improving the properties of the immobilized catalysts. Silica-based materials are still number one in the world of carriers. This is especially true since the discovery of the MCM family by the researchers of Mobil Corporation [<xref ref-type="bibr" rid="B2-molecules-10-00679">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00679">3</xref>]. Excellent sol-gel-template method for the preparation of uniform materials with excellent properties was subsequently modified and developed in many directions. Two of them should be mentioned especially for their exploitation in this work: Tanev&#xB4;s method using neutral template [<xref ref-type="bibr" rid="B4-molecules-10-00679">4</xref>] and Macquarrie&#xB4;s and Mann&#xB4;s copolymerization using two types of silanes [<xref ref-type="bibr" rid="B5-molecules-10-00679">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00679">6</xref>].</p>
+      <p>Although a few papers from Pugin [<xref ref-type="bibr" rid="B7-molecules-10-00679">7</xref>], Toma [<xref ref-type="bibr" rid="B8-molecules-10-00679">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00679">9</xref>] and Johnson [<xref ref-type="bibr" rid="B10-molecules-10-00679">10</xref>] deal with the anchoring of ferrocenyl ligands, the immobilization of such a large molecule (as well as the others) is often problematic because of the limited mass transport and high steric hindrance. Thus the immobilization by the sol-gel-template method would be a very comfortable way for the heterogenization of the ligands.  We have focused on the exploitation of the various silica gels as the carriers and comparing the efficiency and the simplicity of the immobilizing strategies.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Immobilizations of the ferrocenyl ligands</title>
+        <p>Homogeneous ligands <bold>(<italic>R</italic>,p<italic>S</italic>)-2, (<italic>R</italic>,p<italic>S</italic>)-3</bold>, precursors for the immobilization, were readily derived from <bold>(<italic>R</italic>,p<italic>S</italic>)-1</bold> by the following simple and fast reactions (<xref ref-type="scheme" rid="molecules-10-00679-f001">Scheme 1</xref>):</p>
+        <fig id="molecules-10-00679-f001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00679-f001_Scheme 1</object-id>
+          <label>Scheme 1</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00679-g001.tif"/>
+        </fig>
+        <p>Two methods were chosen for the immobilization: grafting and sol-gel-template copolymerization. The grafting was based on reaction of the functional groups on the silica gel surface with the appropriate ferrocenyl derivative. Several strategies were proposed for the heterogenization based on an alkylation-like synthesis. (<xref ref-type="scheme" rid="molecules-10-00679-f002">Scheme 2</xref>).</p>
+        <p>An attempt based on the alkylation of the aminopropylated Keiselgel K100 (pore size diameter 100 &#xC5;) was unsuccesful. The amide preferred to hydrolyze under basic conditions and to decompose under non-basic conditions, higher temperatures and longer reaction times. The absence of the desired reaction is also probably caused by the problems with the mass transport and decreased reactivity of the functional groups on the silica gel.</p>
+        <fig id="molecules-10-00679-f002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00679-f002_Scheme 2</object-id>
+          <label>Scheme 2</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00679-g002.tif"/>
+        </fig>
+        <p>For that reason we have decided to separate the functional group further from the surface by preparing the functionalized ligands <bold>5</bold> (by the modification of the amorphous silica gel with the <italic>N</italic>-[3-(triethoxysilyl)propyl]amide of 5-bromovaleric acid)<bold>, 6</bold> (by the reaction of 5-bromovaleroyl chloride with aminopropylated K100) and <bold>7</bold> (by sol-gel-template method of the <italic>N</italic>-[3-(triethoxysilyl)propyl]-amide of 5-bromovaleric acid and tetraethoxysilane). The anchoring method based on the alkylation of the amino group of the ligand <bold>(<italic>R</italic>,p<italic>S</italic>)-1</bold> with the bromoalkyl group in <bold>5</bold>, <bold>6,</bold> or <bold>7</bold> was not successful even after prolonged reaction times, increasing the temperature or performing the reaction with the assistance of microwaves (<xref ref-type="scheme" rid="molecules-10-00679-f002">Scheme 2</xref>).</p>
+        <p>With these results in mind we have decided to use a more reactive triethoxysilyl moiety for the immobilization, which is very suitable for the recombination with the hydroxyl groups on the surface of the silica gel (<xref ref-type="scheme" rid="molecules-10-00679-f003">Scheme 3</xref>) and thus we have immobilized compound <bold>(<italic>R</italic>,p<italic>S</italic>)-3</bold> on the amorphous silica gel to form modified silica gel <bold>(<italic>R</italic>,p<italic>S</italic>)-11</bold> (route A). Porosimetry showed surface area of 467 m<sup>2</sup>/g, pore volume of 0.76 cm<sup>3</sup>/g and average pore diameter 63 &#xC5; with C = 69,0 (indication of a relatively polar surface). Thermal analysis (20 Kmin<sup>-1</sup>) gave the following weight losses:  up to 150 &#xB0;C (3.1 %, water and solvents), 180 &#x2013; 250 &#xB0;C (0.5 %), 260-630 &#xB0;C (3 %, organic material). AAS determination (Fe) showed loading of 51 &#x3BC;mol/g. DRIFTS spectrum (&#x3BD;, cm<sup>-1</sup>) indicates the presence of isolated silanol groups (3735), aryl C-H (3064), aliphatic C-H (2850, 2913, 2979), urea moiety (1625, 1523), aryl C-H<sub>def</sub> (1536, 1560), aliphatic C-H<sub>def</sub> (1430) and SiO<sub>def</sub> (970).</p>
+        <p>The necessity of the post-protection of the residual silanol groups is still an unanswered question. On one hand they are potential partners for the coordination with the metal, on the other hand their protection (e.g. with trimethylsilyl groups) leads to a change in the hydrophobic properties. In order to examine this problem we took half of the modified silica gel <bold>(<italic>R</italic>,p<italic>S</italic>)-11</bold> and performed the reaction with HMDS to prepare silica gel with blocked silanol groups <bold>(<italic>R</italic>,p<italic>S</italic>)-12</bold> (route B). Analytical data confirmed the successful protection of free silanol groups: decrease of the surface area: (347 m<sup>2</sup>/g), decrease of the pore volume (0.46 cm<sup>3</sup>/g), decrease of the average pore diameter (53 &#xC5;) and decrease of the polarity of the surface (C = 16,2). DRIFTS spectrum was similar as in the previous case, but signal for free silanol groups was missing and signals for &#x2013;CH<sub>3</sub> appeared (2846, 2902, 2960). Thermal analysis showed weight losses at 150 &#xB0;C (0.4 % -water and solvents), 180 &#x2013; 350 &#xB0;C (1.6 %), 350 &#x2013; 750 &#xB0;C (4.4 %, organic material). Loading of the ligand was specified as 50 &#x3BC;mol/g.</p>
+        <p>Having the compound <bold>(<italic>R</italic>,p<italic>S</italic>)-3</bold> in our hands we have immobilized it by an alternative way based on the sol-gel-neutral template method [<xref ref-type="bibr" rid="B11-molecules-10-00679">11</xref>] (route C). A mixture of tetraethoxysilane and the corresponding triethoxysilyl derivative <bold>(<italic>R</italic>,p<italic>S</italic>)-3</bold> in the ratio of 9:1 was stirred in an1:1 ethanol/water mixture in the presence of dodecylamine as structure determining agent to directly give modified silica gel <bold>(<italic>R</italic>,p<italic>S</italic>)-13</bold> with partial mesoporous structure. Surface area is 407 m<sup>2</sup>/g. HMS prepared by this method consists of two different types of pores: framework and textural. Pore volume of the pores formed by the template mechanism (framework pores) is 0.17 cm<sup>3</sup>/g. and average pore diameter is 14 &#xC5;. In addition another significant amount of textural pores with amorphous character was formed. They might be cracks in the structure, spaces between particles or, more likely, an amorphous silica gel formed simultaneously [<xref ref-type="bibr" rid="B12-molecules-10-00679">12</xref>]. Given the size of the organic silane, it is also likely that the ferrocenyl units are present predominantly in this pore system. This pore system has a pore volume of 0.175 cm<sup>3</sup>/g and an average pore diameter of 65 &#x1FA;. Loss of weight was observed at 180 &#xB0;C (4.4 % - water and solvents), 180 &#x2013; 290 &#xB0;C (4.7 %), 290 &#x2013; 750 &#xB0;C (17.3 % - organic material AAS determination (Fe) showed unusual loading of 478 &#x3BC;mol/g, which is significantly higher than with the previous route, but approximately half that expected from the starting gel composition. DRIFT spectrum (&#x3BD;, cm<sup>-1</sup>) indicates the presence of isolated silanol groups (3731, 3644, 3411), aryl C-H (3056, 3066, 3095), aliphatic C-H (2977, 2933, 2908, 2850), urea moiety (1644, 1635, 1519), aryl C-H<sub>def</sub> (1536, 1560), aliphatic C-H<sub>def</sub> (1477, 1434) and SiO<sub>def</sub> (968).  <sup>13</sup>C CPMAS NMR gave the following resonances: 133-145 aryl-P; 78 Cp; 57 N-CH<sub>3</sub>; 51 N-CH<sub>2</sub>; 32 and 36 CH<sub>2</sub><underline>C</underline>H<sub>2</sub>CH2 and <underline>C</underline>H-Cp; 24 <underline>C</underline>H<sub>3</sub>-CH; 17 CH<sub>2</sub>-Si. Additional peaks at 21 and 64 are likely to derive from OEt groups attached to the surface.</p>
+        <p>The presence of two types of pores led us to the decision to modify pure HMS with <bold>3</bold> in order to prepare silica gel with only well-ordered mesoporous architecture <bold>(<italic>R</italic>,p<italic>S</italic>)-14</bold> (route D). This led to a material with a well defined pore structure, typical of a HMS material. The total pore volume was 1.022 cm<sup>3</sup> g<sup>-1</sup> and the surface area 1092 m<sup>2</sup> g<sup>-1</sup>. Average pore diameter was 25.1&#xC5;.  Very little textural porosity was present (ca. 5% of the total). This indicates that the internal pore surface is not well covered with silanes, as this would lead to a drastic reduction in pore volume. This is not surprising, since such large silanes would be expected to bind preferentially to the external surface of such materials. Thermal analysis (&#x2264;150<sup>o</sup>C &#x2013; 2.6% loss of water + solvent; 215-450<sup>o</sup>C, gradual loss followed by more rapid loss between 450<sup>o</sup>C and 650<sup>o</sup>C (6.2% in total; 650-800<sup>o</sup>C, 1.1%) indicates that the loading of organics on the surface is 120 &#x3BC;mol g<sup>-1</sup>. This is significantly higher than most of the samples, with the exception of <bold>(<italic>R</italic>,p<italic>S</italic>)-13</bold>. CPMAS <sup>13</sup>C-NMR spectra were weak, but appeared broadly consistent with the expected structure. DRIFT spectrum run at 150<sup>o</sup>C indicated the following bands ((&#x3BD;, cm<sup>-1</sup>): 3739 (isolated silanol) 3535 (H-bonded silanol) 3106, 3061, aryl C-H<sub>str</sub>; 2984, 2936, 2902, 2854 C-H<sub>str</sub>; 1659, 1636, 1525 (urea), 1558, 1540 (aryl C-H<sub>def</sub>). 1475, 1436 (aliphatic C-H<sub>def</sub>).</p>
+        <fig id="molecules-10-00679-f003" position="float">
+          <object-id pub-id-type="pii">molecules-10-00679-f003_Scheme 3</object-id>
+          <label>Scheme 3</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00679-g003.tif"/>
+        </fig>
+        <p>Another triethoxysilyl derivative <bold>(<italic>R</italic>,p<italic>S</italic>)-17</bold> was prepared with similar intentions by the method described by Gotov [<xref ref-type="bibr" rid="B8-molecules-10-00679">8</xref>] (<xref ref-type="scheme" rid="molecules-10-00679-f004">Scheme 4</xref>).</p>
+        <fig id="molecules-10-00679-f004" position="float">
+          <object-id pub-id-type="pii">molecules-10-00679-f004_Scheme 4</object-id>
+          <label>Scheme 4</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00679-g004.tif"/>
+        </fig>
+        <p>One goal was to have another ferrocenyl ligand immobilized on different surfaces. The second one was to compare the catalytic performance of the bidentate ligand with the catalytic properties of the tridentate ligand (based on BPPFA &#x2013; already published by Toma [<xref ref-type="bibr" rid="B8-molecules-10-00679">8</xref>]). The question was whether there is in the case of tridentate ligand some kind of competition between the coordinating atoms that negatively affects the catalytic properties.</p>
+        <p>The precursor for the immobilisation <bold>(<italic>R</italic>,p<italic>S</italic>)-17</bold> was used as a crude product without further purification. It was anchored to the amorphous silica gel to form <bold>(<italic>R</italic>,p<italic>S</italic>)-18</bold> with TMS-protected residual silanol groups. Porosimetry indicated that the structure of the materials changed little upon functionalisation (surface area 373m<sup>2</sup> g<sup>-1</sup>, pore volume 0.53 cm<sup>3</sup> g<sup>-1</sup>; average pore diameter 55&#xC5;) other than a slight reduction in surface area and pore volume due to pore filling. Atomic absorption spectrometry indicated a loading of 44 &#x3BC;mol g<sup>-1</sup>, Thermal analysis with weight losses at &#x2264;150<sup>o</sup>C of 0.5% (indicating good hydrophobisation) and 200-800<sup>o</sup>C of 5.7% (organics + TMS). Consistent with the successful hydrophobisation of the surface indicated by thermal analysis, the infra-red spectrum did not contain isolated silanols (compare with <bold>(<italic>R</italic>,p<italic>S</italic>)-14</bold> where this is a strong peak). A weak and broad silanol stretch was evident at 3687cm<sup>-1</sup> and 3502 cm<sup>-1</sup> with C-H<sub>str</sub> at 3102 and 3065 cm<sup>-1</sup> (aryl) and 2961, 2902 and 2843 cm<sup>-1</sup> (aliphatic). Amide bands were evident at 1648, 1636 and 1518 cm<sup>-1</sup> with C-H<sub>def</sub> at 1436 and 1410 cm<sup>-1</sup>. Again MAS NMR was too weak to be useful.</p>
+        <p>Finally, triethoxysilyl derivative <bold>(<italic>R</italic>,p<italic>S</italic>)-17</bold> was involved in the SGT method with TEOS to produce <bold>(<italic>R</italic>,p<italic>S</italic>)-19.</bold> AAS showed loading 50 &#x3BC;mol/g. The other analyses were not unfortunately performed.</p>
+      </sec>
+      <sec>
+        <title>Pd(0)-catalyzed allylic substitution</title>
+        <p>Six prepared heterogeneous ligands were examined in an enantioselective Pd(0)-catalyzed allylic substitution (<xref ref-type="scheme" rid="molecules-10-00679-f005">Scheme 5</xref>).</p>
+        <fig id="molecules-10-00679-f005" position="float">
+          <object-id pub-id-type="pii">molecules-10-00679-f005_Scheme 5</object-id>
+          <label>Scheme 5</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00679-g005.tif"/>
+        </fig>
+        <p>Each ligand was tested at two reaction times: 24 and 95 hours. Results are given in <xref ref-type="table" rid="molecules-10-00679-t001">Table 1</xref>.</p>
+        <table-wrap id="molecules-10-00679-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00679-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <table>
+             <thead>
+              <tr>
+                <th style="border-top:hidden" align="center" valign="top">Entry</th>
+                <th style="border-top:hidden" align="center" valign="top">L<sup>*</sup></th>
+                <th style="border-top:hidden" align="center" valign="top">time / h</th>
+                <th style="border-top:hidden" align="center" valign="top">yield / %</th>
+                <th style="border-top:hidden" align="center" valign="top">ee / %</th>
+              </tr>
+             </thead>
+             <tbody>
+              <tr>
+                <td style="border-top:solid thin" align="center" valign="top">1</td>
+                <td style="border-top:solid thin" align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)- 11</td>
+                <td style="border-top:solid thin" align="center" valign="top">24</td>
+                <td style="border-top:solid thin" align="center" valign="top">2</td>
+                <td style="border-top:solid thin" align="center" valign="top">18 (<italic>S</italic>)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">2</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)-12</td>
+                <td align="center" valign="top">24</td>
+                <td align="center" valign="top">10</td>
+                <td align="center" valign="top">20 (<italic>R</italic>)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">3</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)-13</td>
+                <td align="center" valign="top">24</td>
+                <td align="center" valign="top">5</td>
+                <td align="center" valign="top">30 (<italic>S</italic>)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">4</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)- 18</td>
+                <td align="center" valign="top">24</td>
+                <td align="center" valign="top">15</td>
+                <td align="center" valign="top">30 (<italic>R</italic>)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">5</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)- 19</td>
+                <td align="center" valign="top">24</td>
+                <td align="center" valign="top">4</td>
+                <td align="center" valign="top">12 (<italic>R</italic>)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">6</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)- 11</td>
+                <td align="center" valign="top">95</td>
+                <td align="center" valign="top">11</td>
+                <td align="center" valign="top">1 (<italic>S</italic>)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">7</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)- 12</td>
+                <td align="center" valign="top">95</td>
+                <td align="center" valign="top">20</td>
+                <td align="center" valign="top">26 (<italic>R</italic>)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">8</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)- 13</td>
+                <td align="center" valign="top">95</td>
+                <td align="center" valign="top">8</td>
+                <td align="center" valign="top">9 (<italic>S</italic>)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">9</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)- 18</td>
+                <td align="center" valign="top">95</td>
+                <td align="center" valign="top">28</td>
+                <td align="center" valign="top">10 (<italic>R</italic>)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">10</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)- 19</td>
+                <td align="center" valign="top">95</td>
+                <td align="center" valign="top">17</td>
+                <td align="center" valign="top">4 (<italic>R</italic>)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">11</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)- 20</td>
+                <td align="center" valign="top">24</td>
+                <td align="center" valign="top">49</td>
+                <td align="center" valign="top">8 (<italic>R</italic>)</td>
+              </tr>
+             </tbody>
+          </table>
+        </table-wrap>
+        <p>The reaction was performed by the methods described in the literature [<xref ref-type="bibr" rid="B13-molecules-10-00679">13</xref>] with 1 mol. % of Pd at 40&#xB0;C with sodium hydride as the base. The results were compared with the homogeneous ligand <bold>(<italic>R</italic>,p<italic>S</italic>)-20</bold> prepared by the reaction of <bold>3</bold> with phenylisocyanate. The homogeneous analogue gave the product in 49 % yield and 8 % enantiomeric purity. Heterogeneous ligands were better concerning the enantioselectivity but the yields of the product were lower.</p>
+        <p>An improvement was observed after protection of the silanol groups (yield by 8 % and ee by 2 %). It confirms that the free hydroxy groups have a tendency to coordinate the metal. This might be also the explanation for the opposite configuration of the major product obtained with silica gel with trimethylsilylated surface</p>
+        <p>Silica gel formed by the SGT method <bold>(<italic>R</italic>,p<italic>S</italic>)-13</bold> gave lower values of the yield and ee when compared with the ligand immobilized on amorphous silica gel <bold>(<italic>R</italic>,p<italic>S</italic>)-12</bold>.</p>
+        <p>All the results showed that the prolonging the reaction time leads to increased yields but decreased enantioselectivity. This might be caused by the damaging of the reaction centres. According to this the modified silica gels were not regenerated and recycled in another reaction.</p>
+      </sec>
+      <sec>
+        <title>Rh-catalyzed hydrogenation</title>
+        <p>As we were not very satisfied with the results of allylic substitution we have examined the immobilized ligand in another enantioselective reaction: Rh-catalyzed hydrogenation of (<italic>Z</italic>)-&#x3B1;-acetamidocinnamic acid by the procedure described by Hayashi [<xref ref-type="bibr" rid="B14-molecules-10-00679">14</xref>] (<xref ref-type="scheme" rid="molecules-10-00679-f006">Scheme 5</xref>).</p>
+        <fig id="molecules-10-00679-f006" position="float">
+          <object-id pub-id-type="pii">molecules-10-00679-f006_Scheme 6</object-id>
+          <label>Scheme 5</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00679-g006.tif"/>
+        </fig>
+        <p>The reaction was performed in degassed methanol at a pressure of 50 atm with 1 mol% of the catalyst. Results are given in <xref ref-type="table" rid="molecules-10-00679-t002">Table 2</xref>. The homogeneous ligand <bold>(<italic>R</italic>,p<italic>S</italic>)-20</bold> gave the product in 25 % yield. The best result with the immobilized catalytic systems was achieved with the one anchored to the amorphous silica gel with protected silanol groups <bold>(<italic>R</italic>,p<italic>S</italic>)-12</bold>. Unfortunately, the catalyst showed significantly lower activity when recycled. Prolongation of the reaction time to 50 h led to the complete conversion. Enantioselectivity was determined in this case by polarimetric measurement of the product, which was purified by the method described by Kagan [<xref ref-type="bibr" rid="B15-molecules-10-00679">15</xref>], but ee&#x2019;s lower than 5% were observed. Presence of the free silanol groups proved to be deleterious for the activity of the catalyst also in this case. The results obtained with the modified HMS turned out to be disappointing as <bold>(<italic>R</italic>,p<italic>S</italic>)-13</bold> gave the product only in 48 % and <bold>(<italic>R</italic>,p<italic>S</italic>)-14</bold> seemed to be totally inactive. Since both materials should be of the same architecture, unless prepared by different methods, one can assume that ferrocenylphosphane ligands attached to the mesoporous silica are inactive and that the reaction in the case of  <bold>(<italic>R</italic>,p<italic>S</italic>)-13</bold> is catalyzed only by the catalyst attached to the amorphous silica with textural pores, that was formed along with the mesoporous material. Ligands <bold>(<italic>R</italic>,p<italic>S</italic>)-18</bold> and <bold>(<italic>R</italic>,p<italic>S</italic>)-19</bold> showed poor activity, though the performance of the modified amorphous silica was again higher compared to the mesoporous one.</p>
+        <table-wrap id="molecules-10-00679-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00679-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <table>
+            <thead>
+              <tr>
+                <th style="border-top:hidden" align="center" valign="top">Entry</th>
+                <th style="border-top:hidden" align="center" valign="top">Ligand</th>
+                <th style="border-top:hidden" align="center" valign="top">Time / h</th>
+                <th style="border-top:hidden" align="center" valign="top">Yield / %</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="border-top:solid thin" align="center" valign="top">1</td>
+                <td style="border-top:solid thin" align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)-11</td>
+                <td style="border-top:solid thin" align="center" valign="top">20</td>
+                <td style="border-top:solid thin" align="center" valign="top">29</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">2</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)-12</td>
+                <td align="center" valign="top">20</td>
+                <td align="center" valign="top">75</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">3</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)-12 *</td>
+                <td align="center" valign="top">20</td>
+                <td align="center" valign="top">11</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">4</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)-12</td>
+                <td align="center" valign="top">50</td>
+                <td align="center" valign="top">100</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">4</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)-13</td>
+                <td align="center" valign="top">20</td>
+                <td align="center" valign="top">48</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">5</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)-14</td>
+                <td align="center" valign="top">20</td>
+                <td align="center" valign="top">0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">6</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)-18</td>
+                <td align="center" valign="top">20</td>
+                <td align="center" valign="top">38</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">7</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)-19</td>
+                <td align="center" valign="top">20</td>
+                <td align="center" valign="top">14</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">8</td>
+                <td align="center" valign="top">(<italic>R</italic>, p<italic>S</italic>)-20</td>
+                <td align="center" valign="top">20</td>
+                <td align="center" valign="top">25</td>
+              </tr>
+           </tbody>
+         </table>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have successfully immobilized two different ferrocenylphosphane ligands on silica by the functionalization of the carrier with the ligand precursor or by the direct incorporation of the ferrocene unit in the silica-forming process. However, sol-gel-template process suffered from the diverse size of the applied silanes and resulting material consisted of templated silica together with the amorphous one, which was probably the sole active part of the modified carrier. Heterogeneous ligands were tested in an enantioselective Pd(0)-catalyzed allylic substitution and Rh-catalyzed hydrogenation. The obtained results fall in the long queue of the unsuccesful attempts to maintain the activity of the catalytic results after its immobilization on solid surface. Prepared ligands showed a low activity with regard to the yield and enantioselectivity. Increasing of the yield by the prolongation of the reaction time, led to lower enantioselectivities indicating that the active catalytic centres are irreversibly damaged during the reaction. This is also confirmed by the unsuccesful attempt to recycle the catalyst.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p><sup>1</sup>H-NMR (&#x3B4;, ppm) spectra of samples were obtained from CDCl<sub>3</sub> solutions on a Varian Gemini 2000 spectrometer operating at 300 MHz (<sup>1</sup>H) and 75 MHz (<sup>13</sup>C) frequency with tetramethylsilane as internal standard. IR and UV-VIS spectra of soluble samples were measure as CHCl<sub>3</sub> solutions on Perkin Elmer 781 spectrometer resp. Hewlett Packard 781 spectrometer. Optical rotations were measured on Perkin-Elmer 241 polarimeter. Diffuse reflectance FTIR (DRIFTS) spectrum of modified silica gel was measured as a mixture of 5% sample and 95% KBr in an environmental chamber at 150&#xB0;C under vacuum on a Bruker Equinox FTIR. The porosimetry data were measured on Micromeritics ASAP2100 system using nitrogen as adsorbate at 77K. Samples were degassed at 120&#xB0;C until a constant vacuum of 5 microns Hg was obtained. Solvents were purified and dried according to standard published methods. (<italic>R</italic>, p<italic>S</italic>)-PPFNMe was prepared according to described methods [<xref ref-type="bibr" rid="B16-molecules-10-00679">16</xref>].</p>
+      </sec>
+      <sec>
+        <title>Preparation of (R,pS)-N-methyl-N-1-[2-(diphenylphosphanyl)ferrocenyl]ethyl-N&#xB4;-[3-triethoxysilyl)-propyl]urea <italic><bold>(R,pS)- 3:</bold></italic></title>
+        <p>(<italic>R,</italic>p<italic>S</italic>)-PPFNMe (818 mg, 1.91 mmol) stored under nitrogen was dissolved in dry toluene (16 mL) and ICPTES (498 &#x3BC;L, 2 mmol, 1.05 eq.) was added dropwise.  The orange solution was stirred for 2 h at r.t. under nitrogen. The solvent was removed on a rotavapor and the residue was purified by the column chromatography (SiO<sub>2</sub>, 80 g, diethyl ether). The product was obtained as an orange semi-solid material (1.18 g, 93 %), [&#x3B1;]<sub>D</sub><sup>21</sup> = -254, [&#x3B1;]<sub>578</sub> = -274, [&#x3B1;]<sub>546</sub> = -356 (c = 0,37; chloroform). For C<sub>35</sub>H<sub>47</sub>O<sub>4</sub>N<sub>2</sub>PSiFe (674.68) calcd.: 62.31 %C; 7.02 %H; 4.15 %N; found.: 62.17 %C; 6.97  %H; 3.84 %N; TLC: R<sub>F</sub> = 0,51 (SiO<sub>2</sub>, Et<sub>2</sub>O); <sup>1</sup>H-NMR &#x3B4;: 0.55 (t, 2H, -CH<sub>2</sub>Si, <sup>3</sup><italic>J</italic><sub>HH</sub> = 8.52 Hz); 1.23 (t, 9H, -OCH<sub>2</sub>C<underline>H</underline><sub>3</sub>, <sup>3</sup><italic>J</italic><sub>HH</sub> = 7.14 Hz); 1.38 &#x2013; 1.48 (m, 2H, -CH<sub>2</sub>); 1.42 (d, 3H, -CH<sub>3</sub>, <sup>3</sup><italic>J</italic><sub>HH</sub> = 6.87 Hz); 1.66 (bs, 1H, -NH); 1.99 (s, 3H, -NCH<sub>3</sub>); 2.85 (dt, 1H, -NCH<sub>A</sub>, <sup>2</sup><italic>J</italic><sub>HH</sub> = 7.42 Hz, <sup>3</sup><italic>J</italic><sub>HH</sub> = 12.91 Hz); 3.05 (dt, 1H, -NCH<sub>B</sub>, <sup>2</sup><italic>J</italic><sub>HH</sub> = 7.42 Hz, <sup>3</sup><italic>J</italic><sub>HH</sub> = 12.91 Hz); 3.55 (t, 1H, Fc, <sup>3</sup><italic>J</italic><sub>HH</sub> = 5.22 Hz); 3.81 (q, 6H, -OC<underline>H</underline><sub>2</sub>CH<sub>3</sub>, <sup>3</sup><italic>J</italic><sub>HH</sub> = 6.87 Hz); 4.04 (s, 5H, cp); 4.30 (t, 1H, Fc, <sup>3</sup><italic>J</italic><sub>HH</sub> = 2.47 Hz); 4.47 (bs, 1H, Fc); 5.73 (dq, 1H, -CH, <sup>3</sup><italic>J</italic><sub>HH</sub> = 6.56 Hz, <italic>J</italic><sub>HP</sub> = 1.92 Hz); 7.16-7.24 (m, 5H, -PPh<sub>2</sub>); 7.33-7.36 (m, 3H, -PPh<sub>2</sub>); 7.16-7.24 (m, 5H, -PPh<sub>2</sub>); 7.50-7.56 (m, 2H, -PPh<sub>2</sub>); <sup>13</sup>C-NMR &#x3B4;: 7.75 (-CH<sub>2</sub>Si); 16.02 (-CH<sub>3</sub>); 18.33 (-OCH<sub>2</sub><underline>C</underline>H<sub>3</sub>) 23.47 (-CH<sub>2</sub>); 43.40 (-CH<sub>2</sub>N); 49.05 (d, -CH, <sup>3</sup><italic>J</italic><sub>CP</sub> = 7.73 Hz); 58.35 (-OCH<sub>2</sub>); 6870 (-NCH<sub>3</sub>); 69.91 (cp); 70.13 (d, Fc, <sup>2</sup><italic>J</italic><sub>CP</sub> = 4.01 Hz); 72.69 (d, Fc, <sup>2</sup><italic>J</italic><sub>CP</sub> = 4.87 Hz); 76.79 (d, C<sub>Fci</sub>, <sup>3</sup><italic>J</italic><sub>CP</sub> = 10.31 Hz), 94.33 (d, -C<sub>Fci</sub>, <sup>2</sup><italic>J</italic><sub>CP</sub> = 24.91 Hz); 127.82; 127.91; 128.07, 128.16; 128.97; (-PPh<sub>2</sub>(m, p), -Ph), 133.41 (d, -PPh<sub>2</sub>(o), <sup>2</sup><italic>J</italic><sub>CP</sub> = 19.75 Hz); 135.56 (d, -PPh<sub>2</sub>(o), <sup>2</sup><italic>J</italic><sub>CP</sub> = 20.90 Hz); 137.44 (d, -PPh<sub>2</sub>(i), <sup>1</sup><italic>J</italic><sub>CP</sub> = 9.73 Hz); 139.71 (d, -PPh<sub>2</sub>(i), <sup>1</sup><italic>J</italic><sub>CP</sub> = 10.88 Hz); 157.32 (CO); UV VIS: &#x3BB;<sub>max</sub> (nm) 210, 248; IR: &#x3C5; (cm<sup>-1</sup>) 1420 (CC<sub>Fc</sub>); 1620 (CO) (CHCl<sub>3</sub>).</p>
+      </sec>
+      <sec>
+        <title>The immobilization of <bold>(R,<italic>p</italic>S)<italic>-3</italic></bold> to the amorphous silica gel, preparation of <bold>(R,<italic>p</italic>S)<italic>-11</italic></bold></title>
+        <p>Silica gel (5 g) was dried (4 h, 150 &#xB0;C, 1 mm Hg) and stored under argon. Dry toluene was added (15 mL) and it was stirred for 30 min. at r.t. The ligand <bold>(<italic>R</italic>,p<italic>S</italic>)-3</bold> (675 mg; 1 mmol) was dissolved in dry toluene (20 mL) and added to the suspension of the silica gel. The mixture was stirred at 70 &#xB0;C for 4 h and then for 16 h at r.t. under argon. The silica gel was filtered off, washed with diethyl ether, dichloromethane, acetone and ethanol and dried (3 h, r.t., 1 mm Hg). The modified silica gel <bold>(<italic>R</italic>,p<italic>S</italic>)-11</bold> was obtained as an yellow powder (4.9 g). Specific surface: 467 m<sup>2</sup>/g; pore volume: 0.76 cm<sup>3</sup>/g; average pore diameter: 63 &#xC5; (broad size distribution), C = 69.0 (polar surface); DRIFTS spectra: &#x3C5; (cm<sup>&#x2013;1</sup>) 970 (-SiO<sub>def</sub>), 1438 (C-H<sub>def</sub>), 1536, 1560 (aryl), 1625, 1523 (urea, SiOH), 2850, 2913, 2979 (aliph.), 3064 (aryl C-H), 3735 (isolated silanol groups); Thermal analysis: weight loss at 150&#xB0;C (3.1% - water and solvents); at 180 &#x2013; 250&#xB0;C (0.5%); 260 &#x2013; 630&#xB0;C (3%; organic material). AAS analysis (Fe): 51&#x3BC;mol/g.</p>
+      </sec>
+      <sec>
+        <title>The protection of the silanol groups of the modified silica gel <bold>(R,<italic>p</italic>S)<italic>-11</italic></bold>: preparation of <bold>(R,<italic>p</italic>S)<italic>-12</italic></bold></title>
+        <p>Modified silica gel <bold>(<italic>R</italic>,p<italic>S</italic>)-11</bold> (2,5 g) was suspended in dry toluene (20 mL), HMDS was added in one portion (2.5 mL; 12 mmol) and the resulting mixture was refluxed for 1 h under argon. Then it was cooled down, the silica gel was filtered off, washed with diethyl ether, dichloromethane, acetone and ethanol and dried (3 h, r.t., 1 mm Hg). Modified silica gel <bold>(<italic>R</italic>,p<italic>S</italic>)-12</bold> was obtained as a yellow powder (2.5 g). Surface area: 347 m<sup>2</sup>/g; pore volume: 0.46 cm<sup>3</sup>/g; average pore diameter: 53 &#xC5; (broad size distribution), C = 16.2 (decrease of the surface polarity); DRIFTS spectra: &#x3C5; (cm<sup>&#x2013;1</sup>) 970 (-SiO<sub>def</sub>), 1438 (C-H<sub>def</sub>), 1536, 1560 (aryl), 1625, 1523 (urea, SiOH), 2850, 2913, 2979 (aliph.), 2846, 2902, 2960 (CH<sub>3</sub>), 3064, 3100 (aryl C-H); Thermal analysis: weight loss at 150&#xB0;C (0.4% - water and solvents);  180 &#x2013; 350&#xB0;C (1.6%); 350 &#x2013; 750&#xB0;C (4.4%; organic material). AAS analysis (Fe): 50 &#x3BC;mol/g.</p>
+      </sec>
+      <sec>
+        <title>Sol-gel-template immobilization of <bold>(R,<italic>p</italic>S)<italic>-3</italic></bold>: preparation of <bold>(R,<italic>p</italic>S)<italic>-13</italic></bold></title>
+        <p>Dodecylamine (357 mg, 1.94 mmol) was dissolved in the mixture of ethanol (3.3 mL) and distilled water (3.8 mL). The mixture was stirred for 20 min. at r.t. and bubbled through with nitrogen to form a clear colorless solution. It was then added to the <bold>(<italic>R</italic>,p<italic>S</italic>)-3</bold> (487 mg, 0.71 mmol) together with tetraethoxysilane (1.43 mL, 6.37 mmol, 9 eq. with regards to <bold>(<italic>R</italic>,p<italic>S</italic>)-3)</bold>). The mixture was stirred for 20 h under nitrogen. A white-yellow thick mixture was formed. The solid was filtered off and the template was removed by continual extraction in a Soxhlet extractor for 7 h with degassed ethanol (500 mL) under nitrogen. Modified HMS <bold>(<italic>R</italic>,p<italic>S</italic>)-13</bold> was obtained as yellow powder (800 mg). Surface area: 407 m<sup>2</sup>/g; pore volume: 0.17 cm<sup>3</sup>/g (pores formed by the SGT mechanism); 0.175 cm<sup>3</sup>/g (pore not formed by SGT mechanism); average pore diameter: 14 &#xC5;. DRIFTS spectra: &#x3C5; (cm<sup>&#x2013;1</sup>) 968 (-SiO<sub>def</sub>), 1434, 1477 (C-H<sub>def</sub>), 1519, 1635, 1644 (urea, SiOH), 1536, 1560 (aryl), 2850, 2898, 2908, 2933, 2977 (aliph.), 2846, 2902, 2960 (CH<sub>3</sub>), 3056, 3066, 3095 (aryl C-H), 3731, 3644, 3411 (isolated silanol groups); Thermal analysis: weight loss at 180&#xB0;C (4,4% - water and solvents); at 180 &#x2013; 290&#xB0;C (4.7%); 290 &#x2013; 750&#xB0;C (17.3%; organic material).  <sup>13</sup>C-CPMAS (ppm) 133-145 (aryl-P); 78 (Cp); 57 (N-CH<sub>3</sub>); 51 (N-CH<sub>2</sub>); 32 and 36 (CH<sub>2</sub><underline>C</underline>H<sub>2</sub>CH<sub>2</sub> and <underline>C</underline>H-Cp); 24 (<underline>C</underline>H<sub>3</sub>-CH); 17 (CH<sub>2</sub>-Si); AAS analysis (Fe): 478 &#x3BC;mol / g.</p>
+      </sec>
+      <sec>
+        <title>The immobilization of <bold>(R,<italic>p</italic>S)<italic>-3</italic></bold> to the HMS: preparation of <bold>(R,<italic>p</italic>S)<italic>-14</italic></bold></title>
+        <p>HMS (3 g) was dried (4 h, 150 &#xB0;C, 1 mm Hg) and stored under argon. Dry toluene (30 mL) was added and it was stirred for 30 min. at r.t. The ligand <bold>(<italic>R</italic>,p<italic>S</italic>)-3</bold> (256 mg; 0.6 mmol) was dissolved in dry toluene (10 mL) and added to the silica gel suspension. The mixture was stirred at 70 &#xB0;C for 4 h and then for 16 h at r.t. under argon. The silica gel was filtered off, washed with diethyl ether, dichloromethane, acetone and ethanol and dried (3 h, r.t., 1 mm Hg). The modified silica gel <bold>(<italic>R</italic>,p<italic>S</italic>)-14</bold> was obtained as an pale yellow powder (3.1 g); Surface area: 1092 m<sup>2</sup>/g; pore volume: 1.022 cm<sup>3</sup>/g; average pore diameter: 25.1 &#xC5;; DRIFTS spectra: &#x3C5; (cm<sup>&#x2013;1</sup>) 1436, 1475 (aliphatic C-H<sub>def</sub>), 1540, 1558 (aryl C-H<sub>def</sub>), 1525, 1636, 1659 (urea), 2854, 2902, 2936, 2984 (C-H<sub>str</sub>), 3106, 3061 (aryl C-H<sub>str</sub>), 3535 (H-bonded silanol) 3739 (isolated silanol); Thermal analysis: weight loss at 150&#xB0;C (2.6% - water and solvent); at 215 &#x2013; 450&#xB0;C (gradual loss); 450 &#x2013; 645&#xB0;C (6.2 % in total); 650 - 800&#xB0;C (1.1 %); AAS analysis (Fe): 120&#x3BC;mol/g.</p>
+      </sec>
+      <sec>
+        <title>Preparation of (R,pS)-N-phenyl-N&#xB4;-methyl-N&#xB4;-1-[2-(diphenylphosphanyl)ferrocenyl]ethylurea <bold>(R,<italic>p</italic>S)<italic>-20</italic></bold></title>
+        <p>(<italic>R,</italic>p<italic>S</italic>)-PPFNMe (100 mg; 0.23 mmol) was dissolved in dry toluene (3 mL) and ICPTES (28 &#x3BC;L; 0.26 mmol; 1.1 eq.) was added dropwise. The orange solution was stirred for 2 h at r.t. under argon. The solvent was removed and the residue was purified by the column chromatography (SiO<sub>2</sub>, 15 g, diethyl ether). The product was obtained as an orange semi-solid substance (124 mg, 99 %), t.t. = 91 &#x2013; 93&#xB0;C. For C<sub>32</sub>H<sub>31</sub>N<sub>2</sub>OPFe (546.24) calcd.: 70.36 %C; 5.72 %H; 5.13 %N; found.: 69.65 %C; 5.54 %H; 4.88 %N; TLC: R<sub>F</sub> = 0.52 (SiO<sub>2</sub>, Et<sub>2</sub>O); <sup>1</sup>H-NMR &#x3B4;: 1.51 (d, 3H, -CH<sub>3</sub>, <sup>3</sup><italic>J</italic><sub>HH</sub> = 6.96 Hz); 2.14 (s, 3H, -NCH<sub>3</sub>); 2.17 (s, 1H, -NH); 3.86 (t, 1H, Fc, <sup>3</sup><italic>J</italic><sub>HH</sub> = 2.19 Hz);  4.07 (s, 5H, cp); 4.35 (t, 1H, Fc, <sup>3</sup><italic>J</italic><sub>HH</sub> = 2.38 Hz); 4.51 (t, 1H, Fc, <sup>3</sup><italic>J</italic><sub>HH</sub> = 2.56 Hz); 5.77 (q, 1H, -CH, <sup>3</sup><italic>J</italic><sub>HH</sub> = 6.78 Hz); 6.01-7.57 (14H, PPh<sub>2</sub>, -Ph); <sup>13</sup>C-NMR &#x3B4;: 16.39 (-CH<sub>3</sub>); 28.53 (-NCH<sub>3</sub>); 49.95 (d, -CH, <sup>3</sup><italic>J</italic><sub>CP</sub> = 6.50 Hz); 69.09; 70.30; 70.34; 72.45 (d, <sup>2</sup><italic>J</italic><sub>CP</sub> = 4.47 Hz), (-Fc); 70.22 (cp); 93.66 (d, -C<sub>cpi</sub>, <sup>2</sup><italic>J</italic><sub>CP</sub> = 24.78 Hz); 119.29; 122.35; 128.06; 128.18; 128.30; 128.36; 128.41; 128.76; 129.14 (-PPh<sub>2</sub>(m, p), -Ph), 133.42 (d, -PPh<sub>2</sub>(o), <sup>2</sup><italic>J</italic><sub>CP</sub> = 19.19 Hz); 133.97 (d, -PPh<sub>2</sub>(o), <sup>2</sup><italic>J</italic><sub>CP</sub> = 21.13 Hz); 136.89 (d, -PPh<sub>2</sub>(i), <sup>1</sup><italic>J</italic><sub>CP</sub> = 8.53 Hz); 139.11 (d, -PPh<sub>2</sub>(i), <sup>1</sup><italic>J</italic><sub>CP</sub> = 9.75 Hz); 139.68 (-C<sub>i</sub>, -Ph);; 154.49 (CO); UV VIS: &#x3BB;<sub>max</sub> (nm) 208, 244; IR: &#x3C5; (cm<sup>-1</sup>) 1415 (CC<sub>Fc</sub>); 1640 (CO) (CHCl<sub>3</sub>).</p>
+      </sec>
+      <sec>
+        <title>Preparation of methyl (R,pS)-5-{N-methyl-1-[2-diphenylphosphanyl)ferrocenyl]ethylamino}valerate <bold>(R,<italic>p</italic>S)<italic>-15</italic></bold></title>
+        <p><bold>(<italic>R,pS</italic>)-1</bold> (1.12 g; 2.62 mmol), and potassium carbonate (543 mg; 3.93 mmol, 1.5 eq.) were mixed in acetone (5 mL). Methyl 5-bromovalerate (413 &#x3BC;L; 2,88 mmol; 1,2 ekv.) was added and the resulting mixture  was refluxed under nitrogen for  23 h. After cooling down, the solvent was removed on RV, water (80 ml) was added to the residue and it was extracted with dichloromethane (3x30 mL). Combined organic layers were dried over Na<sub>2</sub>SO<sub>4</sub> and the solvent was removed. The product was isolated by the column chromatography on SiO<sub>2</sub> (30 g) hexane-ethyl acetate mixture (1:1) as an eluent. The product <bold>(<italic>R,pS</italic>)-15</bold> was obtained from the first fraction as an orange oil (1.26 g, 89 %); [&#x3B1;]<sub>D</sub><sup>21</sup> = -155, [&#x3B1;]<sub>578</sub> = -167, [&#x3B1;]<sub>546</sub> = -214 (c = 0.29; chloroform).  For C<sub>31</sub>H<sub>36</sub>O<sub>2</sub>NPFe (541.45) calcd.:68.76 %C; 6.70 %H; 2.59 %N; found. 70.69 %C; 8.02 %H; 2.30 %N; <sup>1</sup>H-NMR (CDCl<sub>3</sub>): &#x3B4; (ppm)  0.78-0.89 (m, 2H, -CH<sub>2</sub>); 1.17-1.27 (m, 2H, -CH<sub>2</sub>); 1.25 (d, 3H, -CH<sub>3</sub>, <sup>3</sup><italic>J</italic><sub>HH</sub> = 6.59 Hz); 1.69 (s, 3H, -NCH<sub>3</sub>); 2.05 (m, 2H, -CH<sub>2</sub>CO); 2.11 &#x2013; 2.18 (m, 1H, -CH<sub>A</sub>N); 2.25 &#x2013; 2.34 (m, 1H, -CH<sub>B</sub>N); 3.63 (s, 3H, -OCH<sub>3</sub>); 3.84 (m, w<sub>1/2</sub> = 2.20 Hz; 1H, -Fc); 3.92 (s, 5H, cp); 4.22 &#x2013; 4.26 (m, 2H, -Fc, -CH); 4.38 (dd, 1H, Fc, <sup>3</sup><italic>J</italic><sub>HH</sub> = 2.20 Hz; <sup>3</sup><italic>J</italic><sub>HH</sub> = 3.58 Hz); 7.08 &#x2013; 7.59 (m, 10H, -PPh<sub>2</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): &#x3B4; (ppm) 9.18 (-CH<sub>3</sub>); 22.64; 27.11 (-CH<sub>2</sub>); 29.71 (-NCH<sub>3</sub>); 33.97 (-CH<sub>2</sub>CO); 51.32 (-OCH<sub>3</sub>); 53.68 (-NCH<sub>2</sub>); 57.50 (d, -CH, <sup>3</sup><italic>J</italic><sub>CP</sub> = 5.15 Hz); 68.37; 71.78; 71.90  (Fc); 69.58 (cp); 76.12 (d, -Fc, <sup>3</sup><italic>J</italic><sub>CP</sub> = 9.17 Hz); 97.29 (d, C<sub>Fci</sub>, <sup>2</sup><italic>J</italic><sub>CP</sub> = 22.30 Hz); 128.73; 127.27 (d, <sup>3</sup><italic>J</italic><sub>CP</sub> = 6.30 Hz);  127.79 (d, <sup>3</sup><italic>J</italic><sub>CP</sub> = 7.73 Hz, -PPh<sub>2</sub>); 132.30 (d, -PPh<sub>2</sub>(o),  <sup>2</sup><italic>J</italic><sub>CP</sub> = 18.04 Hz); 135.42 (d, -PPh<sub>2</sub>(o),  <sup>2</sup><italic>J</italic><sub>CP</sub> = 21.47 Hz); 138.91, 141.35 (-PPh<sub>2</sub>(i)); 174.22 (-CO); UV VIS: &#x3BB;<sub>max</sub> (nm) 210, 224; IR: &#x3C5; (cm<sup>-1</sup>) 1420 (CC<sub>Fc</sub>); 1710 (CO) (CHCl<sub>3</sub>).</p>
+      </sec>
+      <sec>
+        <title>Preparation of (R,pS)-5-{N-methyl-1-[2-diphenylphosphanyl)ferrocenyl]ethylamino}valeric acid (<bold>R,pS</bold>)<bold><italic>-16</italic> </bold></title>
+        <p><bold>(<italic>R,pS</italic>)-15</bold> (1.26 g; 2,33 mmol) was dissolved in THF (17 mL) and the solution of sodium hydroxide  (1.86 g; 46.5 mmol; 20 eq.) in distilled water (3 mL) was added. The mixture was stirred at r.t. under nitrogen for 48 h. The solvent was removed and water (15 mL) followed by 20 % HCl (30 mL) was added. Then it was extracted with dichloromethane (3x20 mL). Combined organic layers were dried over Na<sub>2</sub>SO<sub>4</sub> and removed from the solvent.  The yellow powder (hydrochloride) was stirred for 10 min. with 13% aqueous NH<sub>3</sub> (20 mL) and it was extracted with dichloromethane (2x20 mL). The organic layer was dried over Na<sub>2</sub>SO<sub>4</sub> and removed from the solvent. Product was purified by the column chromatography on SiO<sub>2</sub> (5 g) with methanol as an eluent. The product <bold>(<italic>R,pS</italic>)-16</bold> was obtained as an yellow solid  (1.1 g, 90 %); t.t. = 65 &#x2013; 68&#xB0;C; [&#x3B1;]<sub>D</sub><sup>21</sup> = -311, [&#x3B1;]<sub>578</sub> = -341, [&#x3B1;]<sub>546</sub> = -452 (c = 0.45, chloroform). For C<sub>30</sub>H<sub>34</sub>O<sub>2</sub>NPFe (527.41) calcd.: 68.32 %C; 6.49 %H; 2.65 %N; found.: 64.07 %C; 6.63 %H; 2.32 %N; TLC: R<sub>F</sub> = 0.51 (SiO<sub>2</sub>, Et<sub>2</sub>O); <sup>1</sup>H-NMR (CDCl<sub>3</sub>): &#x3B4; 0.94 &#x2013; 1.19 (m, 4H, -CH<sub>2</sub>CH<sub>2</sub>); 1.46 (d, 3H, -CH<sub>3</sub>, <sup>3</sup><italic>J</italic><sub>HH</sub> = 6.59 Hz); 1.85 (s, 3H, -NCH<sub>3</sub>); 1.92-2.01 (m, 2H, -COCH<sub>2</sub>); 2.17&#x2013;2.24 (m, 2H, -CH<sub>2</sub>N); 3.88 (s, 5H, cp); 4.02 (m, w<sub>1/2</sub> = 5.37 Hz, 1H, -Fc); 4.32 &#x2013; 4.40 (m, 2H, -Fc, -CH);  4.45 (m, w<sub>1/2</sub> = 5.86 Hz, 1H, Fc); 7.14-7.61 (m, 10H, -PPh<sub>2</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>): &#x3B4; 18.44 (-CH<sub>3</sub>); 23.27; 26.16 (-CH<sub>2</sub>); 34.44 (-NCH<sub>3</sub>); 36.42 (-CH<sub>2</sub>CO); 53.82 (-NCH<sub>2</sub>); 57.67 (d, -CH, <sup>3</sup><italic>J</italic><sub>CP</sub> = 8.59 Hz); 69.46; 70.08; 72.07 (d, <sup>3</sup><italic>J</italic><sub>CP</sub> = 5.15 Hz); 76.19 (d, <sup>3</sup><italic>J</italic><sub>CP</sub> = 11.17 Hz) (Fc); 69.84 (cp); 94.44 (C<sub>Fci</sub>); 127.56; 127.74 (d, <sup>3</sup><italic>J</italic><sub>CP</sub> = 6.30 Hz);  127.96 (d, <sup>3</sup><italic>J</italic><sub>CP</sub> = 8.01 Hz); 128.98 (-PPh<sub>2</sub>); 132.36 (d, -PPh<sub>2</sub>(o),  <sup>2</sup><italic>J</italic><sub>CP</sub> = 18.32 Hz); 135.11 (d, -PPh<sub>2</sub>(o),  <sup>2</sup><italic>J</italic><sub>CP</sub> = 22.33 Hz); 138.60; 140.25 (d, -PPh<sub>2</sub>(i), <sup>2</sup><italic>J</italic><sub>CP</sub> = 7.73 Hz); 179.89 (-CO); UV VIS: &#x3BB;<sub>max</sub> (nm) 210, 246; IR: &#x3C5; (cm<sup>-1</sup>) 1420 (CC<sub>Fc</sub>); 1700 (CO) (CHCl<sub>3</sub>).</p>
+      </sec>
+      <sec>
+        <title>Condensation of APTES with (R,pS)-5-{N-methyl-1-[2-diphenylphosphanyl)ferrocenyl]ethyl-amino}-valeric acid &#x2013; preparation of <bold>(R,<italic>p</italic>S)<italic>-17</italic></bold></title>
+        <p><bold>(<italic>R,pS</italic>)-16</bold> (800 mg; 1.52 mmol) and  DCC (328 mg; 1.59 mmol) were dissolved in dry dichloromethane (8 ml). APTES (372 &#x3BC;L; 1.59 mmol; 1.05 eq.) was added and the resulting orange mixture was stirred at r.t. for 24 h under argon. Diethyl ether (20 mL) was added and the insoluble <italic>N,N&#xB4;-</italic>dicyclohexylurea was filtered off. Finally the solvent was removed on RV. An orange oil (980 mg) was obtained and used without further purification.</p>
+      </sec>
+      <sec>
+        <title>Immobilization of <bold>(R,<italic>p</italic>S)<italic>-17</italic></bold> to the amorphous silica gel, preparation of <bold>(R,<italic>p</italic>S)<italic>-18</italic></bold></title>
+        <p>Done by the same procedure as in the case of <bold>(<italic>R,pS</italic>)-11.</bold> The yellow powder (1.98 g) was subsequently submitted for the protection of free silanol groups by the procedure described for the <bold>(<italic>R,pS</italic>)-11.</bold> Yellow powder <bold>(<italic>R,pS</italic>)-18</bold> was obtained (1.86 g); Surface area: 373 m<sup>2</sup>/g; pore volume: 0.53 cm<sup>3</sup>/g; average pore diameter: 55 &#xC5;; DRIFTS spectra: &#x3C5; (cm<sup>&#x2013;1</sup>) 1410, 1436 (aliphatic C-H<sub>def</sub>), 1518, 1636, 1648 (amide), 2843, 2902, 2961 (aliphatic C-H<sub>str</sub>), 3065, 3102 (aryl C-H<sub>str</sub>), 3502, 3687 (H-bonded silanol); Thermal analysis: weight loss at 150&#xB0;C (0.5% - water); at 200 - 800&#xB0;C (5.7 % - organics + TMS); AAS analysis (Fe): 44 &#x3BC;mol/g.</p>
+      </sec>
+      <sec>
+        <title>Immobilization of <bold>(R,<italic>p</italic>S)<italic>-17</italic></bold> by SGT method, preparation of <bold>(R,<italic>p</italic>S)<italic>-19</italic></bold></title>
+        <p>Done by the same procedure as in the case of <bold>(<italic>R,pS</italic>)-13.</bold> Modified HMS <bold>(<italic>R,pS</italic>)-19</bold> was obtained as a pale yellow powder (311 mg). AAS analysis (Fe): 50 &#x3BC;mol/g</p>
+      </sec>
+      <sec>
+        <title>Pd(0)-catalyzed allylic substitution of rac-E-1,3-diphenyl-3-acetoxyprop-1-ene</title>
+        <p>Pd<sub>2</sub>(dba)<sub>3</sub>.CHCl<sub>3</sub> (1.29 mg; 1.25 &#x3BC;mol; 1 mol. % Pd), ligand (2.75 &#x3BC;mol; 2 eq. to Pd) and the substrate (63 mg; 0.25 mmol) were suspended in dry THF (2 mL) under argon and were stirred for 20 min. at r.t.. Sodium hydride (7.8 mg; 0.33 mmol; 1.3 eq.) was suspended in another flask in dry THF (2 ml) and dimethylmalonate was slowly added (42.5 &#x3BC;L; 0.37 mmol; 1.5 eq.). The solution was added to the first solution and the reaction mixture was stirred at 40 &#xB0;C. After the reaction, the silica gel was filtered off, water (10 ml) was added to the filtrate and it was extracted with diethyl ether (2x20 mL). Combined organic layers were dried with Na<sub>2</sub>SO<sub>4</sub> and the solvent was removed on RV. The product was isolated by the column chromatography (SiO<sub>2</sub>, 10 g, Hex -EA = 7:1). The product was isolated as  clear colorless oil; TLC: R<sub>F</sub> = 0.54 (SiO<sub>2</sub>, Hex:EA = 3:1); <sup>1</sup>H-NMR (CDCl<sub>3</sub>): &#x3B4; 3.51 (s, 3H, -COOCH<sub>3</sub>), 3.70 (s, 3H, -COOCH<sub>3</sub>), 3.95 (d, 1H, H<sub>1</sub>, <sup>3</sup><italic>J</italic><sub>HH</sub>=10.80 Hz), 4.27 (dd, 1H, H<sub>2</sub>, <sup>3</sup><italic>J</italic><sub>HH</sub>=8.42 Hz; <sup>3</sup><italic>J</italic><sub>HH</sub>=10.98 Hz), 6.32 (dd, 1H, H<sub>3</sub>, <sup>3</sup><italic>J</italic><sub>HH</sub>=8.60 Hz; <sup>3</sup><italic>J</italic><sub>HH</sub>=15.75 Hz); 6.48 (d, 1H, H<sub>4</sub>, <sup>3</sup><italic>J</italic><sub>HH</sub>=15.75 Hz), 7.17 &#x2013; 7.34 (m, 10H, -PPh<sub>2</sub>); the enantiomeric purity was determined by <sup>1</sup>H-NMR with Eu(hfc)<sub>3</sub> (0,3 eqv.) as a chiral shift agent.</p>
+      </sec>
+      <sec>
+        <title>Rh-catalyzed hydrogenation of (Z)-&#x3B1;-acetamidocinnamic acid</title>
+        <p>[RhCl(C<sub>6</sub>H<sub>10</sub>)]<sub>2</sub> (2.8 mg, 6.2 &#x3BC;mol, 1 mol. % Rh), ferrocenyl ligand (6.3 &#x3BC;mol) and the substrate (257 mg, 1.25 mmol) were placed in a Teflon reactor under nitrogen. Degassed methanol (8 mL) was added. The reactor was placed in an autoclave, hydrogen was then introduced after three successive substitutions of nitrogen with hydrogen (50 atm.). Reactions were performed at r.t. for an appropriate time. The catalyst was filtered off, washed with methanol, dried (r.t., 1 mm Hg, 2 h and stored under argon for next run. The filtrate was removed from the solvent. The yield was calculated according to the <sup>1</sup>H-NMR spectrum (d<sub>6</sub>-DMSO) of a crude sample. <sup>1</sup>H-NMR (d<sub>6</sub>-DMSO): &#x3B4; 1.77 (s, 3H, COCH<sub>3</sub>); 2.83 (dd, <sup>2</sup><italic>J</italic><sub>AB</sub> = 13.7 Hz, <sup>3</sup><italic>J</italic><sub>HH</sub> = 9.3 Hz, 1H, CH<sub>A</sub>), 3.04 (dd, <sup>2</sup><italic>J</italic><sub>AB</sub> = 13.7 Hz, <sup>3</sup><italic>J</italic><sub>HH</sub> = 4.4 Hz, 1H, CH<sub>B</sub>); 4.38 (m, 1H, -CH); 7.16-7.30 (m, 5H, Ph); 8.12 (d, <sup>3</sup><italic>J</italic><sub>HH</sub> = 8.2 Hz, NH).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements </title>
+      <p>Our thanks are due to Dr. K. G&#xE1;plovsk&#xE1; and Dr. Sol&#x10D;&#xE1;niov&#xE1; and their staff for microanalysis and <sup>1</sup>H, <sup>13</sup>C NMR spectra.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00679">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>De Vos</surname>
+              <given-names>D. E.</given-names>
+            </name>
+            <name>
+              <surname>Vankelecom</surname>
+              <given-names>I. F. J.</given-names>
+            </name>
+			<name>
+              <surname>Jacobs</surname>
+              <given-names>P. A.</given-names>
+            </name>
+          </person-group>
+		  <source>Chiral Catalyst Immobilization and Recycling</source>
+          <publisher-name>Wiley &#x2013;VCH</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>2000</year>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00679">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kresge</surname>
+              <given-names>C. T.</given-names>
+            </name>
+            <name>
+              <surname>Leonowicz</surname>
+              <given-names>M. E.</given-names>
+            </name>
+            <name>
+              <surname>Roth</surname>
+              <given-names>W. J.</given-names>
+            </name>
+            <name>
+              <surname>Vartuli</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Beck</surname>
+              <given-names>J. S.</given-names>
+            </name>
+          </person-group>
+          <source>Nature</source>
+          <year>1992</year>
+          <volume>359</volume>
+          <fpage>710</fpage>
+          <lpage>712</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00679">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beck</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Vartuli</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Roth</surname>
+              <given-names>W. J.</given-names>
+            </name>
+            <name>
+              <surname>Leonowicz</surname>
+              <given-names>M. E.</given-names>
+            </name>
+            <name>
+              <surname>Kresge</surname>
+              <given-names>C. T.</given-names>
+            </name>
+            <name>
+              <surname>Schmitt</surname>
+              <given-names>K. D.</given-names>
+            </name>
+            <name>
+              <surname>Chu</surname>
+              <given-names>C. T.-W.</given-names>
+            </name>
+			<name>
+              <surname>Olson</surname>
+              <given-names>D. H.</given-names>
+            </name>
+            <name>
+              <surname>Sheppard</surname>
+              <given-names>E. W.</given-names>
+            </name>
+            <name>
+              <surname>McCullen</surname>
+              <given-names>S. B.</given-names>
+            </name>
+            <name>
+              <surname>Higgins</surname>
+              <given-names>J. B.</given-names>
+            </name>
+            <name>
+              <surname>Schlenker</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1992</year>
+          <volume>114</volume>
+          <fpage>10834</fpage>
+          <lpage>10843</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00679">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanev</surname>
+              <given-names>P. T.</given-names>
+            </name>
+            <name>
+              <surname>Pinnavaia</surname>
+              <given-names>T. J.</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <year>1995</year>
+          <volume>267</volume>
+          <fpage>865</fpage>
+          <lpage>867</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00679">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Macquarrie</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1996</year>
+          <fpage>1961</fpage>
+          <lpage>1962</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00679">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fowler</surname>
+              <given-names>CH. E.</given-names>
+            </name>
+            <name>
+              <surname>Burkett</surname>
+              <given-names>S. L.</given-names>
+            </name>
+            <name>
+              <surname>Mann</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1997</year>
+          <fpage>1769</fpage>
+          <lpage>1770</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00679">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pugin</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Landert</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Spindler</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Blaser</surname>
+              <given-names>H. U.</given-names>
+            </name>
+          </person-group>
+          <source>Adv. Synth. Catal.</source>
+          <year>2002</year>
+          <volume>344</volume>
+          <fpage>974</fpage>
+          <lpage>979</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00679">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gotov</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Toma</surname>
+              <given-names>&#x160;.</given-names>
+            </name>
+            <name>
+              <surname>Macquarrie</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <source>New. J. Chem.</source>
+          <year>2000</year>
+          <volume>24</volume>
+          <fpage>597</fpage>
+          <lpage>602</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00679">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toma</surname>
+              <given-names>&#x160;.</given-names>
+            </name>
+            <name>
+              <surname>Gotov</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Cvengro&#x161;</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Macquarrie</surname>
+              <given-names>D.J.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Pap.</source>
+          <year>2001</year>
+          <volume>55</volume>
+          <fpage>294</fpage>
+          <lpage>296</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00679">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>B. F. G.</given-names>
+            </name>
+            <name>
+              <surname>Raynor</surname>
+              <given-names>S. A.</given-names>
+            </name>
+            <name>
+              <surname>Shephard</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Mashmeyer</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Sankar</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Bromley</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Oldroyd</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gladden</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Mantle</surname>
+              <given-names>M. D.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1999</year>
+          <fpage>1167</fpage>
+          <lpage>1168</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00679">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mdoe</surname>
+              <given-names>J. E. G.</given-names>
+            </name>
+            <name>
+              <surname>Clark</surname>
+              <given-names>J. H.</given-names>
+            </name>
+            <name>
+              <surname>Macquarrie</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <source>Synlett</source>
+          <year>1998</year>
+          <fpage>625</fpage>
+          <lpage>626</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00679">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caldararu</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Caragheorgheopol</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Savonea</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Gilbert</surname>
+              <given-names>B. C.</given-names>
+            </name>
+            <name>
+              <surname>Macquarrie</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Phys Chem, B</source>
+          <year>2003</year>
+          <volume>107</volume>
+          <fpage>6032</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00679">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hagihara</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1986</year>
+          <fpage>191</fpage>
+          <lpage>194</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00679">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mise</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mitachi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kumada</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1976</year>
+          <fpage>1133</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00679">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dang</surname>
+              <given-names>T. P.</given-names>
+            </name>
+			<name>
+              <surname>Kagan</surname>
+              <given-names>H. B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1972</year>
+          <volume>94</volume>
+          <fpage>6429</fpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00679">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mise</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Fukushima</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kagotani</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nagashima</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hamada</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Matsumoto</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kawakami</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kanishi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kumada</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1980</year>
+          <volume>53</volume>
+          <fpage>1138</fpage>
+          <lpage>1151</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	<fn>
+	<p><italic>Sample Availability</italic>: Available from the authors.</p>
+	</fn>
+	</fn-group>
+  </back>
+</article>

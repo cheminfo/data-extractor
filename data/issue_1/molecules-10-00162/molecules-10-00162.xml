@@ -1,0 +1,2105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010162</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00162</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Optimization of Protein Therapies by Polymer-Conjugation as an Effective DDS</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shibata</surname>
+            <given-names>Hiroko</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00162" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nakagawa</surname>
+            <given-names>Shinsaku</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00162" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tsutsumi</surname>
+            <given-names>Yasuo</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00162" ref-type="aff">1</xref>
+          <xref rid="af2-molecules-10-00162" ref-type="aff">2</xref>
+          <xref rid="c1-molecules-10-00162" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00162"><label>1</label>Graduate School of Pharmaceutical Sciences, Osaka University. 1-6 Yamadaoka, Suita, Osaka 565-0871, Japan</aff>
+      <aff id="af2-molecules-10-00162"><label>2</label>National Institute of Health Sciences, Osaka Branch Fundamental Research Laboratories for Development of Medicine. 7-6-8 Saito-Asagi, Ibaraki, Osaka 567-0085, Japan</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00162"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>tsutsumi@phs.osaka-u.ac.jp</email>, <email>ytsutsumi@nihs.go.jp</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>162</fpage>
+      <lpage>180</lpage>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>06</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>27</day>
+          <month>09</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Due to recent advances in disease proteomics, many disease-related proteins have been found. It is expected that there will be therapeutically useful proteins among them. However, it is clinically difficult to use most proteins as effective and safe drugs because of their very low stability and pleiotropic actions <italic>in vivo</italic>. To promote disease proteomic based drug development for protein therapies, we have attempted to develop an optimal polymer-conjugation system for improving the therapeutic potency of proteins. In this review, we introduce this innovative protein-drug system.</p>
+      </abstract>
+      <kwd-group>
+	  <kwd>PEGylation</kwd>
+	  <kwd>polyvinyl pyrrolidone</kwd>
+	  <kwd>Tumor necrosis factor-alpha</kwd>
+	  <kwd>Interluekin-6</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>With the success of the human genome project, the focus of life science research has shifted to the functional and structural analyses of proteins, such as disease proteomics. Therapeutic application of bioactive proteins, such as newly identified proteins and cytokines, are also promising [<xref ref-type="bibr" rid="B1-molecules-10-00162">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00162">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00162">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00162">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00162">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00162">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00162">7</xref>]. However, because these proteins are generally quite unstable <italic>in vivo</italic>, their clinical application requires frequent administration at high dosages. This administration markedly destroys homeostasis, resulting in unexpected side effects. In addition, since bioactive proteins exhibit diverse pharmacological actions in various tissues, it is difficult to obtain selectively only the favorable <italic>in vivo</italic> actions. For these reasons, clinical applications of bioactive proteins have been limited [<xref ref-type="bibr" rid="B7-molecules-10-00162">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00162">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00162">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00162">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00162">11</xref>].</p>
+      <fig id="molecules-10-00162-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Characteristics of bioconjugated proteins.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00162-g001.tif"/>
+      </fig>
+      <p>In recent years, to overcome these problems, the conjugation of proteins with water soluble polymeric modifiers has been developed (<xref ref-type="fig" rid="molecules-10-00162-f001">Figure 1</xref>), especially, the conjugation with polyethylene glycol (PEG), often called &#x201C;PEGylation&#x201D;. Bioconjugation of proteins with water-soluble polymeric modifiers increases their molecular size and steric hindrance, both of which are dependent on the polymeric modifiers attached the proteins. These effects improve the plasma half-lives of proteins and their stability against proteolytic cleavage, and also decrease their immunogenicity. This allows the therapeutic dose and frequency to be decreased.</p>
+      <p>In fact, PEGylated interleukin-2, PEGylated interferon and PEGylated adenosine deaminase have demonstrated markedly improved therapeutic efficacy over the native forms, and clinical applications have already been realized [<xref ref-type="bibr" rid="B12-molecules-10-00162">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00162">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00162">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00162">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00162">16</xref>]. However, clinical use of polymer-conjugated proteins has been limited yet. This is due to the conflicting effects of polymer-conjugation of bioactive proteins; conjugation with a polymeric modifier inhibits the transport from blood to tissues and the binding to their receptors. In addition, specific activities of proteins are decreased by the attachment of polymeric modifiers to active sites. Therefore, determination of the relationships among the degree of modification, molecular size, and specific activity is very important to optimize the modification-condition, which enable designing of polymer-conjugated proteins applicable to clinical use.</p>
+      <p>On the other hand, for further enhancement of the therapeutic potency and safety of polymer-conjugated proteins, more precise control of the <italic>in vivo</italic> behavior of each protein is necessary for selective expression of their therapeutic bioactivities. We found that polymer-conjugated proteins can be greatly affected by the properties of the polymeric modifiers attached to the surface of the proteins. Therefore, it is necessary to identify appropriate polymeric modifiers for design of conjugated proteins with desirable <italic>in vivo</italic> behavioral characters. PEG is a low toxicity and low antigenicity polymeric modifier that has been used frequently for conjugation of proteins. From the viewpoint of a drug delivery system, PEG, however, also has some disadvantages as a drug carrier, principally the fact that PEG only has a functional group at the end of the chain, limiting the possibilities of adding new functions to the drugs to control more precisely their pharmacokinetics and tissue distribution. Therefore, alternative water-soluble polymeric modifiers in which new functions, such as targeting and release control of drugs, can be added are required for further development of polymer-conjugated drugs.</p>
+      <p>In this review, we, at first, show the fundamental information enabling us to design the conjugated bioactive proteins applicable to therapeutic use, taking tumor necrosis factor-alpha (TNF-alpha) and interleukin-6 (IL-6) as examples [<xref ref-type="bibr" rid="B17-molecules-10-00162">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00162">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00162">19</xref>], and a novel method using the reversible amino-protective reagent dimethylmaleic anhydride (DMMAn) to prevent the decrease of bioactivity by attachment of polymeric modifiers [<xref ref-type="bibr" rid="B20-molecules-10-00162">20</xref>]. Next, we show the usefulness of PVP in achieving long plasma half-lives and for application to the tissue-targeting polymer [<xref ref-type="bibr" rid="B21-molecules-10-00162">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00162">22</xref>,<xref ref-type="bibr" rid="B23-molecules-10-00162">23</xref>].</p>
+    </sec>
+    <sec>
+      <title>PEGylation of bioactive proteins</title>
+      <sec>
+        <title><bold><italic>a) PEG-TNF-alpha</italic></bold>&#xA0;</title>
+        <p>TNF-alpha is a cytokine that was discovered to specifically injure tumors and was thus highlighted as a novel anti-tumor agent [<xref ref-type="bibr" rid="B24-molecules-10-00162">24</xref>,<xref ref-type="bibr" rid="B25-molecules-10-00162">25</xref>]. However, due to its very low <italic>in vivo</italic> stability, the continuous-infusion or frequent administration at high doses of TNF-alpha was needed [<xref ref-type="bibr" rid="B26-molecules-10-00162">26</xref>,<xref ref-type="bibr" rid="B27-molecules-10-00162">27</xref>]. Intravenous TNF-alpha administration has caused marked side effects such as fever, nausea, vomiting, a decrease in blood pressure, and endotoxin-like shock [<xref ref-type="bibr" rid="B10-molecules-10-00162">10</xref>,<xref ref-type="bibr" rid="B28-molecules-10-00162">28</xref>]. The anti-tumor effects of TNF-alpha result not only from its direct cytotoxic action against various tumor cells, but also from activation of anti-tumor effector immune cells in the blood and specific damage to the tumor vessels. In addition, in the process of bleeding necrosis in the tumor vessels, the vascular permeability of the tumor vessels is selectively increased, promoting transport from blood to the tumor tissue. Therefore, improvement in blood stasis may enhance all anti-tumor action mechanisms of TNF-alpha increasing its bioavailablity. Therefore, we performed conjugation of the lysine amino residues of TNF-alpha using PEG [<xref ref-type="bibr" rid="B18-molecules-10-00162">18</xref>]. In PEGylation of TNF-alpha, the specific activity of PEGylated TNF-alpha decreased with the PEG modification rate. Additionally, when the PEG modification rates (degree of PEG-modification) are the same, the bioactivity of PEGylated TNF-alpha decreased with an increase in the molecular size of the attached PEG [<xref ref-type="bibr" rid="B17-molecules-10-00162">17</xref>]. Our other studies on PEGylated IL-6 and leukemia inhibitory factor (LIF) yielded similar results [<xref ref-type="bibr" rid="B18-molecules-10-00162">18</xref>]. Thus, in bioactive proteins such as TNF-alpha, IL-6 and LIF that require binding to a receptor for the expression of activity, consideration should be given to inhibition of activity derived from inhibition of binding to receptor molecules caused by steric hindrance by the polymeric modifier, in addition to a decrease in the specific activity due to modification of the lysine residues. On the other hand, the <italic>in vivo</italic> anti-tumor effects of PEGylated TNF-alpha was the most marked for MPEG- TNF-alpha (molecular weight; Mn=108,000) obtained by PEGylation using PEG with a molecular weight of 5,000 (PEG5000) (<xref ref-type="fig" rid="molecules-10-00162-f002">Figure 2</xref>a).</p>
+		<fig-group id="molecules-10-00162-f002" position="float">
+        <fig id="molecules-10-00162-f002a" position="float">
+		<label>Figure 2</label>
+          <caption>
+            <p>PEGylation of TNF-&#x3B1; and IL-6 selectively increase their therapeutic effects. a) Tumor necrosis effects of native TNF-&#x3B1; and PEG-TNF-&#x3B1;s on Meth-A solid tumors. Each value represents mean &#xB1; S.E. <sup>&#x2217;</sup>P&lt;0.001, <sup>&#x2217;&#x2217;</sup>P&lt;0.05 significantly different from the group treated with 10,000 JRU of native TNF-&#x3B1;.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00162-g002a.tif"/>
+        </fig>
+        <fig id="molecules-10-00162-f002b" position="float">
+          <caption>
+            <p>b) Effect of PEG5000-IL-6 and Native IL-6 on platelet production (favorable effect) or plasma IgG1 depressions (side effect) were compared. On day 9, blood was taken form tail vein of mice injected of native IL-6 or PEG5000-IL-6 Fr.4 every 2 days for a week.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00162-g002b.tif"/>
+        </fig>
+		</fig-group>
+        <p>Its anti-tumor activity was 100 times higher than that of the unmodified TNF-alpha without increasing the toxic side effects. No marked enhancement of anti-tumor effects were observed for slightly modified LPEG-TNF-alpha (Mn=84,000) with a high specific activity or excessively modified HPEG-TNF-alpha (Mn=122,000) with a high molecular size, though they were also obtained after conjugation of PEG with a molecular weight of 5,000. Conjugation using PEG with a molecular weight of 2,000 or 12,000 did not produce PEGylated TNF-alpha s comparable to MPEG-TNF-alpha.  These results suggest that PEGylation of TNF-alpha does not always produce marked <italic>in vivo</italic> anti-tumor effects, but there is an optimal molecular weight of the polymeric modifier and an optimal modification rate - molecular size - activity correlation of PEGylated TNF-alpha.</p>
+      </sec>
+      <sec>
+        <title><bold><italic>b) PEG-IL-6</italic></bold>&#xA0;</title>
+        <p>When IL-6 is utilized therapeutically to promote the formation of platelets, its targets are the megakaryocytes [<xref ref-type="bibr" rid="B29-molecules-10-00162">29</xref>,<xref ref-type="bibr" rid="B30-molecules-10-00162">30</xref>,<xref ref-type="bibr" rid="B31-molecules-10-00162">31</xref>]. It is known that megakaryocytes express large amounts of high affinity IL-6 receptors (IL-6 receptor-gp130 complex) [<xref ref-type="bibr" rid="B32-molecules-10-00162">32</xref>,<xref ref-type="bibr" rid="B33-molecules-10-00162">33</xref>], and that they are abundant on the pulmonary vascular lumens and on the outer surfaces of marrow veins. Therefore, if IL-6 is modified to remain longer in the blood and thus smaller dose levels are required for therapeutic use, it will be possible to make the <italic>in vivo</italic> distribution and receptor affinity of IL-6 such that a selective and efficient action of IL-6 on megakaryocytes can be achieved. Furthermore, since the transfer of IL-6 into the liver and spleen cause adverse reactions [<xref ref-type="bibr" rid="B34-molecules-10-00162">34</xref>,<xref ref-type="bibr" rid="B35-molecules-10-00162">35</xref>,<xref ref-type="bibr" rid="B36-molecules-10-00162">36</xref>], the improved retention of IL-6 in the blood and the resultant decrease in the transfer and accumulation of IL-6 to these tissues is expected to reduce the side effects of IL-6 therapy. Thus, we attempted the conjugation of IL-6 with PEG, to increase in the activity of IL-6 in the promotion of platelet production and to reduce its side effects. When IL-6 was subjected to PEGylation under optimum conditions, selected by consideration of the relationships between specific activity, degree of PEG-modification, molecular size, etc., the resultant PEG-modified IL-6 (MPEG-IL-6) showed plasma half-life more than 100 times greater than that of native IL-6. MPEG-IL-6 showed more than 500 times the thrombopoietic potency of native IL-6 (<xref ref-type="fig" rid="molecules-10-00162-f002">Figure 2</xref>b). Furthermore, strong adverse reactions such as fever, IgG production and acute protein production observed following administration of native IL-6, were seldom seen after administration of MPEG-IL-6. These results suggested separation of therapeutically favorable targeted actions from side effects by means of PEGylation has been successful. It was found that PEGylation allows exertion of selected favorable actions of cytokines via the following mechanisms: (1) improved <italic>in vivo</italic> stability reduces the dose level and thus the blood level of cytokines, making it possible for a given cytokine to exert its selected actions on the basis of differences in the affinity of the cytokine for various receptors; and (2), regulation of the behavioral characteristics (blood retention and tissue transfer) of a given cytokine enables the cytokine to exert selected actions depending on differences between its distribution in different tissues. We have thus succeeded in making cytokines useful as therapeutic agents by improving their stability <italic>in vivo</italic> and increasing in selected favorable actions (anti-tumor activity in the case of TNF-alpha and the promotion of platelet production in the case of IL-6). These results suggested that polymer-conjugation is a pragmatic approach to successful therapies with various bioactive proteins and peptides.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>A novel polymer-conjugation technique</title>
+      <p>Lysine amino groups of proteins are often used as binding sites of PEG because they are highly reactive and the PEGylation reaction is mild enough to minimize disruption of the protein structure [<xref ref-type="bibr" rid="B37-molecules-10-00162">37</xref>]. This PEGylation, however, is nonspecific and occurs at the N-terminus as well as internal lysine residues, some of which may be in or near protein active sites, resulting in loss of specific bioactivity. Therefore, conjugation methods which avoid modification of amino groups around the receptor binding region of proteins are needed. We attempted to control modification by using the reversible amino-protective reagent dimethylmaleic anhydride (DMMAn) [<xref ref-type="bibr" rid="B20-molecules-10-00162">20</xref>]. PEG-TNF-alpha(+) was prepared according to the reactions presented in <xref ref-type="fig" rid="molecules-10-00162-f003">Figure 3</xref>a.</p>
+	  <fig-group id="molecules-10-00162-f003" position="float">
+      <fig id="molecules-10-00162-f003a" position="float">
+	  <label>Figure 3</label>
+        <caption>
+          <p>A novel polymer-conjugation technique with a reversible amino-protective reagent. a) Schematic protocol of PEGylation of TNF-&#x3B1; using DMMAn: Reaction I, protection of partial amino groups by DMMAn; Reaction II, PEGylation to remaining lysine amino groups; Reaction III, regeneration of amino groups by releasing DMMAn.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00162-g003a.tif"/>
+      </fig>
+      <fig id="molecules-10-00162-f003b" position="float">
+        <caption>
+          <p>b) Tumor necrotic effects of PEG-TNF-&#x3B1;s on Meth-A solid tumor in mice. Meth-A-bearing BALB/c mice were given native TNF-&#x3B1;, PEG-TNF-&#x3B1;(-),or PEG-TNF-&#x3B1;(+) i.v. The control group was given saline. The area of hemorrhagic necrosis was measured 24h after injection. Each value is the mean &#xB1; S.E. of four animals. <sup>&#x2217;</sup><italic>P</italic> &lt; 0.01, statistical significance compared with PEG-TNF-&#x3B1;(-)s.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00162-g003b.tif"/>
+      </fig>
+	  </fig-group>
+      <p>The protection of partial amino groups in TNF-alpha by DMMAn was confirmed by fluorimetric analysis. Then, to examine whether the active core of TNF-alpha can be protected from PEGylation using DMMAn, changes in specific activity were examined in vitro. Specific activities improved for all fractions of PEG-TNF-alpha(+) compared with the similar molecular size fractions of PEG-TNF-alpha(-) tested. This result indicates that the use of DMMAn improves cytokine receptor binding. We found similar results for PEGylation of IL-6 and granulocyte macrophage colony-stimulating factor. To examine the influence of improvements in specific activity <italic>in vivo</italic>, Meth-A fibrosarcoma bearing mice were given native and PEG-TNF-alphas (<xref ref-type="fig" rid="molecules-10-00162-f003">Figure 3</xref>b). The antitumor effects of MPEG-TNF-alpha(+) were 2-fold more potent than those of MPEG-TNF-alpha(-), which was the most potent TNF-alpha not treated with DMMAn, and 30-fold more potent than those of native TNF-alpha. Significantly, improvements in the specific activity of MPEG-TNF-alphas were only about 50%, but improvements in antitumor effects were more than 2-fold <italic>in vivo</italic>. These results suggested that our method is easy and useful for the clinical application of polymer-conjugated cytokines.</p>
+    </sec>
+    <sec>
+      <title>Screening of polymeric drug carriers</title>
+      <p>It is well known that the fate and distribution of the conjugates can be attributed to the physicochemical properties of polymeric modifiers such as molecular weight, electric charge, and hydrophilic-lipophilic balance [<xref ref-type="bibr" rid="B38-molecules-10-00162">38</xref>]. The increase of therapeutic effects of drugs conjugated with polymeric modifiers is attributed to the pharmacokinetics of conjugated drug. Therefore, selecting the polymeric modifier by considering the influence of physicochemical characteristics on the pharmacokinetics of the polymeric modifier is markedly important. As mentioned above, sequential and multiple strategies are needed for optimization of drug therapy based on polymer-conjugation: i) optimum selection of polymeric modifier considering the disposition of drugs and objective such as targeting or controlled release, ii) polymer-conjugation based on estimation of characterization such as molecular size, modification site, degree of modification, and specific activity, and iii), assessment of therapeutic effect and pharmacokinetics of conjugated drug.</p>
+      <p>As mentioned, PEG is a low toxicity and low antigenicity polymeric modifier that has been frequently used for polymer-conjugation. PEG is a polyether diol of general structure HO-(CH<sub>2</sub>CH<sub>2</sub>O)<sub>n</sub>-H, where functionalization of PEG is restricted to the utilization of the terminal primary OH groups [<xref ref-type="bibr" rid="B39-molecules-10-00162">39</xref>]. From this viewpoint, modifiable polymeric modifiers are needed to control the biopharmaceutical characteristics of conjugated drugs. Therefore, we assessed the pharmacokinetic profile of various water-soluble polymers with molecular sizes of about 5,000, and compared their pharmacokinetics to PEG5000 [<xref ref-type="bibr" rid="B40-molecules-10-00162">40</xref>].</p>
+      <p>First, the elimination profile of <sup>125</sup>I-labeled various polymers with the same molecular size after i.v. injection in mice bearing S-180 solid tumors was studied. The polymer formulations used to evaluate these are: PEG, polyvinylpyrrolidone (PVP), polyacrylamide (PAAm), polydimethylacrylamide (PDAAm), polyvinyl alcohol (PVA), and dextran. PVP, PAAm, and PDAAm are functionalized by introduction of various comonomers on radical polymerization. PVA and dextran have many primary OH groups that can be used for conjugation on the side chain.</p>
+      <fig id="molecules-10-00162-f004" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p>Plasma clearance of various water-soluble polymers in mice bearing S-180 solid tumors after i.v. injection. Mice were intravenously injected with 125I-labeled polymer. After administration, blood was collected from the tail vein at indicated times and the radioactivity was measured by a &#x3B3;-counter. Mice were used in groups of five. Each value is mean &#xB1; SD.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00162-g004.tif"/>
+      </fig>
+      <p><xref ref-type="fig" rid="molecules-10-00162-f004">Figure 4</xref> illustrates the plasma clearance of various polymers. All polymers showed biphasic elimination patterns. PEG5000 and dextran, which are used frequently as drug carriers, were eliminated rapidly from the blood circulation. On the other hand, PVA and PVP circulated longer than the other polymers, while these nonionic polymers had the same molecular size of PEG5000. PVP exhibited the longest residence of all the polymers in this study, and 25% of the injected dose remained after 180 min. Pharmacokinetic analysis revealed definite differences among each polymer with respect to plasma clearance and tissue distribution. PVP showed the longest MRT of all polymers examined. The total clearance of PVP was about 10-fold lower than that of PEG5000. The distribution volume of dextran was the highest of all these polymers; its volume was double that of PVP. We next studied the tissue distribution of polymers 3 h after i.v. injection. Although all polymers with the same molecular weight dispercity in this study were nonionic and water-soluble, each polymer showed a characteristic distribution. PEG and PVP did not exhibit specific tissue accumulation, on the other hand, dextran was accumulated in the liver and spleen. PVA and PAAm also had no specific distribution, but PDAAm tended to accumulate in the kidney. As demonstrated clearly, dextran is not appropriate for prolonging the circulation time of drugs.</p>
+      <p>PVP has the longest circulation time and, its tissue distribution was extremely restricted. In addition, it is easy to introduce various comonomers on radical polymerization to PVP. These results suggest that PVP is the most feasible polymeric modifier for localizing the conjugated drug in blood.</p>
+    </sec>
+    <sec>
+      <title>Conjugation with PVP</title>
+      <sec>
+        <title><bold><italic>a) PVP- TNF-alpha</italic></bold>&#xA0;</title>
+        <p>To design conjugated proteins with greater efficacy and safety, i.e. to selectively enhance desirable therapeutic activities of bioactive proteins without increasing their side effects, it is important to closely regulate their <italic>in vivo</italic> behavioral characteristics, taking into account their mechanism of action. Thus, the development of polymeric modifiers with useful DDS (Drug Delivery System)-functions, which can regulate their <italic>in vivo</italic> behavioral characteristics such as targeting capability and controlled release, is required. Therefore, we examined other candidates as polymeric modifiers for introduction of these new functions. As mentioned above, polyvinyl pyrrolidone (PVP), to which useful functional groups can be introduced by radical co-polymerization, was found to be retained in blood better than PEG.. Furthermore, PVP is also highly biocompatible, and is widely used as a plasma expander. With this in mind and to assess the usefulness of PVP as a polymeric modifier for protein conjugation, we evaluated the therapeutic potency of PVP-TNF-&#x3B1; compared with that of PEG conjugate (PEG-TNF-&#x3B1;) [<xref ref-type="bibr" rid="B21-molecules-10-00162">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00162">22</xref>]. The terminal carboxyl-bearing PVP was prepared by radical polymerization of VP. The number-average molecular weight (Mn) of the synthesized PVP was controlled by varying the amount of transfer agent added to the reaction. Previously, we showed that PEG- TNF-alpha and PEG-IL-6, conjugated with PEG (5,000 Mn), possesed marked antitumor activity or thrombopoietic activity, respectively. These conjugates were revealed to have higher therapeutic effects <italic>in vivo</italic> than those prepared with PEG (2,000 Mn) or PEG (12,000 Mn). Therefore, in this study, 6,000 Mn PVP purified by gel filtration was used as a polymeric modifier for the first choice.</p>
+        <p>Natural human TNF-alpha was conjugated with activated PVP (Mn; 6,000, Mw/Mn =1.14) via amide bonds between lysine amino groups of TNF-alpha and N-hydroxyscuccinimide groups of PVP at the end of the main chain. The resulting PVP- TNF-alpha was purified from native TNF-alpha and separated into five fractions of various molecular sizes by GF-HPLC (protein standard). The activities of PVP- TNF-alphas decreased with increasing of molecular weight and degree of PVP-modification (PVP-attachment to TNF-alpha). This result was also observed when TNF-alpha was conjugated with PEG, and this profile of changes in the bioactivity of PVP-TNF-alphas was similar to that observed with modification of TNF-alpha with PEG (Mn; 5,000, Mw/Mn =1.32).</p>
+        <p>The anti-tumor effects of PVP-TNF-alphas on S-180 solid tumors were compared with those of native TNF-alpha and MPEG-TNF-alpha by single i.v. injection. The antitumor effects were evaluated by a score of hemorrhagic necrosis 24 hr after sample administration. The antitumor effect of PVP-TNF-alpha fraction 3 (Mn; 101,000), in which 40% of the total lysine amino groups of TNF-alpha were coupled with PVP, was markedly higher than that of native TNF-alpha at a dose of 10,000 JRU/mouse and induced complete regression in two of seven mice(data not shown).</p>
+        <fig id="molecules-10-00162-f005" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>Antitumor effect of PVP-TNF-&#x3B1; by scheduled administration on survival days after Meth-A tumor inoculation. Meth-A-bearing BALB/c mice were given samples on days 7, 10, 14 and 17 after tumor inoculation. Complete regression was defined when tumor was not regrown for &gt;100 days. Statistical significance compared with saline control: <sup>&#x2217;</sup><italic>P</italic>&lt; 0.01.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00162-g005.tif"/>
+        </fig>
+        <p>To investigate the usefulness of PVP as a polymeric modifier and PVP-TNF-alpha fraction 3 as a systemic antitumor agent, we compared the antitumor potency of PVP-TNF-alpha fraction 3 to those of native TNF-alpha and MPEG-TNF-alpha with scheduled i.v. injections on Meth-A solid tumors. As shown in <xref ref-type="fig" rid="molecules-10-00162-f005">Figure 5</xref>, PVP-TNF-alpha fraction 3 and MPEG-TNF-alpha at a dose of 200 JRU showed the maximal antitumor effects without any toxic side effects (such as sudden death and others) and had antitumor effects superior to that of native TNF-alpha at a dose of 10,000 JRU. On the other hand, only 50 JRU of PVP-TNF-alpha fraction 3 was needed to exhibit a marked antitumor potency, and tumor growth was completely inhibited for the observation period, as in 10,000 JRU native TNF-alpha and 100 JRU MPEG-TNF-alpha. These results indicated that PVP-TNF-alpha fraction 3 was approximately 200- and 2-fold more potent an antitumor agent than native TNF-alpha and MPEG-TNF-alpha, respectively. The plasma half-life of PVP-TNF-alpha fraction 3 (360 min) was about 80- and 3-fold longer than those of native TNF-alpha (4.6 min) and MPEG-TNF-alpha (122 min), respectively. As described above, anti-tumor effects of TNF-alpha are due not only to direct cytotoxicity against tumor cells, but also to specific injury of the tumor vascular and effective activation of anti-tumor immune cells. TNF-alpha selectively enhances the vascular permeability of tumor vessels. The enhancement of TNF-alpha half-time may lead to a decrease in its distribution to the liver and spleen, which are the major sites of side effects, and would selectively increase its anti-tumor effects. Therefore, we are confident that the increased anti-tumor potency of PVP-TNF-alpha Fr.3 relative to native TNF-alpha and MPEG- TNF-alpha may be attributed to increased half-life. These results suggest that PVP is a useful polymeric modifier for conjugation of TNF-alpha to increase its antitumor potency, and multifunctionally conjugated TNF-alpha may be a potenciated antitumor agent for clinical use.</p>
+      </sec>
+      <sec>
+        <title><bold><italic>b) PVP-IL-6</italic></bold>&#xA0;</title>
+        <p>Next, we applied PVP for polymer conjugated-IL-6 and assesed its usefulness as a novel protein modifier [<xref ref-type="bibr" rid="B41-molecules-10-00162">41</xref>]. PVP-IL-6 was synthesized and separated into three fractions with different molecular size to assess the appropriate degree of modification for the highest <italic>in vivo</italic> thrombopoietic potency. To investigate the effects of PVP-modification on therapeutic activity (thrombopoietic activity) of IL-6 <italic>in vivo</italic>, we administered PVP-IL-6s of various molecular sizes subcutaneously to mice every 2 days for 8 days. Administration of native IL-6 at 50ug/day caused a 30% increase in platelet number with respect to the most potent enhancer of thrombopoieses among the three fractions of PVP-IL-6s examined. No severe side effects such as body weight loss were observed in PVP-IL-6-treated mice. All mice treated with native IL-6 had acute phase reactions and increase in plasma IgG1 level. This result suggested that PVP is efficient polymer for many cytokines.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>PVP-derivates</title>
+      <p>In the DDS area, development of targeting polymers for specific tissues is very important. In order to deliver a conjugated drug to a targeted tissue, the conjugate must display desirable pharmacokinetic characteristics such as plasma clearance and tissue distribution. Therefore, to control the <italic>in vivo</italic> behavior of conjugated drugs with polymeric modifiers, the pharmacokinetic characteristics of the polymeric modifiers themselves must be assessed. Based on our studies mentioned above, selection of the optimal polymeric modifiers for manifestation of specific characteristics of drugs and for the purpose of drug therapeutic regimens will be obtained.</p>
+      <p>Polyvinyl pyrrolidone (PVP) can be easily mixed with various co-monomers by radical polymerization, in order to control its physicochemical properties and to add functions such as targeting or sustained release. Additionally PVP is the most suitable polymeric modifier for prolonging the circulation lifetime of a drug and localizing the conjugated drug in blood, as described above. Previously, we found that nonionic polymers did not interact with endothelial cells, but the increase of interaction between polymers and endothelial cells is parallel to the amount of charge or hydrophobic groups. To evaluate the relationship between pharmacokinetics and their anionic functional groups, copolymers of carboxylated PVP [poly(vinylpyrrolidone-co-acrylic acid)] and sulfonated PVP [poly(vinylpyrrolidone-co-vinylsulfonic acid)] were synthesized by radical polymerization [<xref ref-type="bibr" rid="B23-molecules-10-00162">23</xref>]. The plasma clearance of PVP and anionized PVPs were compared in mice bearing S-180 solid tumors. The anionized PVP derivatives in the circulation decreased as the number of anionic groups in the PVP increased. Anionized PVPs were cleared more quickly from the blood than PVP, and the clearance of carboxylated PVP from blood was similar to that of sulfonated PVP with the same content of anionic groups. Endothelial cells and the glomerular capillary wall of the kidney are known to be coated with highly polyanionic sialoprotein [<xref ref-type="bibr" rid="B42-molecules-10-00162">42</xref>]. Therefore, anionic charged polymers, such as anionized dextran, are generally considered to be cleared more slowly from the circulation than nonionic and cationic polymers despite having the same molecular weight [<xref ref-type="bibr" rid="B43-molecules-10-00162">43</xref>]. The reason for this discrepancy is not clear, but it may be partially due to the differences in the structures of anionized polymers. Polysaccharides, such as dextran, have often been used to characterize the pharmacokinetics of polymeric modifiers with various characteristics [<xref ref-type="bibr" rid="B44-molecules-10-00162">44</xref>]. Nonionic and cationic polysaccharides are rapidly captured by the cells of the reticuloendothelial system (RES) mainly in the liver after their i.v. injection, but anionized polysaccharides are barely taken up by the RES due to the electrostatic repulsion between the negative charge of the polymer and the vascular wall [<xref ref-type="bibr" rid="B13-molecules-10-00162">13</xref>]. Consequently, the plasma half-lives of anionized polysaccharides are longer than those of nonionic and cationic polysaccharides, even if anionized polysaccharides are distributed in the kidney. By contrast, PVP did not show any specific tissue distribution and mainly remained in blood. Thus, the anionized PVPs are suitable for assessing the effects of anionic groups on pharmacokinetic characteristics.</p>
+      <p>The tissue distribution of PVP and anionized PVPs of the same molecular size were measured 3 h after i.v. injection (<xref ref-type="fig" rid="molecules-10-00162-f006">Figure 6</xref>). Anionized PVPs accumulated more in the kidney than in other tissues, although PVP showed little tissue-specific localization. In particular, carboxylated PVPs showed higher renal accumulation than sulfonated PVPs, and about 30% of the administered dose of 20%-carboxylated PVP was observed in the kidney. In contrast, PAA (100%-carboxylated) and PVP (0%-carboxylated) showed little accumulation in the kidney. These results suggest that carboxylated PVP that contains the optimal number of carboxyl groups might exhibit the highest accumulation in the kidney. The blood levels of all polymers decreased rapidly 24 h after i.v. injection. PVP did not accumulate in the kidneys, while anionized PVPs accumulated in the kidneys over the period studied. The maximal renal levels occurred 3h after treatment and slowly declined thereafter. In particular, the level of renal 20%-carboxylated PVP was thirty-two times higher than that of PVP 24 h after i.v. injection. These results suggest that carboxylated PVP was rapidly distributed to the kidney and was gradually excreted into the urine, whereas sulfonated PVPs were quickly excreted in urine. In contrast, PVP was effectively retained in the blood and gradually excreted into the urine without concentrating in the kidneys.</p>
+      <fig id="molecules-10-00162-f006" position="float">
+        <label>Figure 6</label>
+        <caption>
+          <p>Tissue distribution of PVP and anionized PVP derivatives at 3h after i.v. injection in mice. Mice were intravenously injected with 125I-labeled polymers. After i.v. injection, mice were killed and the organs were collected. The radioactivity was measured by &#x3B3;-counter. Mice were used in groups of five. Each value is the mean &#xB1;S.D.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00162-g006.tif"/>
+      </fig>
+      <p>Few studies have examined the effects of carboxyl and sulfonic groups attached to a polymer on the pharmacokinetic characteristics of drug conjugates. We assessed the accumulation sites of anionized PVPs in the kidney by tissue-section analysis, and found that carboxylated PVPs were effectively localized and retained in the renal proximal tubular epithelium cells (data not shown). The mechanism of uptake of carboxylated PVPs in the proximal tubular epithelium cells in vivo is currently under investigation.</p>
+      <p>Our approach for designing polymeric modifiers involved only a few steps. In the present study, the effects of anionic charge and other physicochemical properties of the polymeric modifier were investigated. The relationship between several biological factors and physicochemical disposition is necessary to determine the biopharmaceutical characteristics of polymeric modifiers. This approach may facilitate the optimum molecular design of polymeric modifiers for drug delivery systems.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>One of the most efficient ways of improving therapeutic potency of proteins has been to modify them with polymeric modifiers, as typified by PEG. PEGylated IFN-alpha, that has clinically been shown to have marked antiviral activity against hepatitis C. Until recently, we have also shown the usefulness of conjugation. However, clinical application of most PEGylated proteins has not yet been successful. In most cases, PEGylation occurs randomly at multiple lysine residues in the proteins, some of which may be located in or near the protein active site. The resultant PEGylated proteins are therefore heterogeneous and composed of various positional isomers with distinct specific activities. Additionally, their bioactivity is markedly lower than of the unmodified proteins. To overcome these drawbacks, we attempted to develop a strategy for site-specific PEGylation [<xref ref-type="bibr" rid="B45-molecules-10-00162">45</xref>]. The PEGylation system in which the N terminus of the protein is specifically PEGylated after creation of lysine-deficient mutants with full bioactivity through the use of phage libraries have been successfully established. This N-terminal mono-PEGylated mutant TNF-alpha had comparable bioactivity to unmodified TNF-alpha <italic>in vitro</italic>, and other properties including plasma half-life, antitumor activity, and toxicity were greatly improved. This technology will open a new window in the area of polymer-conjugation and increase the possibility for clinical application of conjugated proteins, by adopting polymeric modifiers with useful DDS-functions as described in this review.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This study was supported in part by a Grant-in-Aid for Scientific Research (No. 15680014 and No. 16023242) from the Ministry of Education, Culture, Sports, Science and Technology of Japan, in part by a Health and Labor Sciences Research Grants from the Ministry of Health, Labor and Welfare of Japan, in part by Health Sciences Research Grants for Research on Health Sciences focusing on Drug Innovation from the Japan Health Sciences Foundation, in part by Takeda Science Foundation, and in part by Senri Life Science Foundation.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00162">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Glue</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Rouzier-Panis</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Raffanel</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Sabo</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>S. K.</given-names>
+            </name>
+            <name>
+              <surname>Salfi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Jacobs</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Clement</surname>
+              <given-names>R. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>A dose-ranging study of pegylated interferon alfa-2b and ribavirin in chronic hepatitis C. The Hepatitis C Intervention Therapy Group</article-title>
+          <source>Hepatology</source>
+          <year>2000</year>
+          <volume>32</volume>
+          <fpage>647</fpage>
+          <lpage>53</lpage>
+          <pub-id pub-id-type="pmid">10960463</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00162">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Furman</surname>
+              <given-names>W. L.</given-names>
+            </name>
+            <name>
+              <surname>Strother</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>McClain</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Bell</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Leventhal</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Pratt</surname>
+              <given-names>C. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase I clinical trial of recombinant human tumor necrosis factor in children with refractory solid tumors: a Pediatric Oncology Group study</article-title>
+          <source>J. Clin. Oncol.</source>
+          <year>1993</year>
+          <volume>11</volume>
+          <fpage>2205</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="pmid">8229135</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00162">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barnard</surname>
+              <given-names>D. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pegasys (Hoffmann-La Roche)</article-title>
+          <source>Curr. Opin. Investig. Drugs</source>
+          <year>2001</year>
+          <volume>2</volume>
+          <fpage>1530</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">11763153</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00162">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Borden</surname>
+              <given-names>E. C.</given-names>
+            </name>
+            <name>
+              <surname>Sondel</surname>
+              <given-names>P. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lymphokines and cytokines as cancer treatment. Immunotherapy realized</article-title>
+          <source>Cancer</source>
+          <year>1990</year>
+          <volume>65</volume>
+          <fpage>800</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="pmid">2406003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00162">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Waters</surname>
+              <given-names>C. A.</given-names>
+            </name>
+            <name>
+              <surname>Schimke</surname>
+              <given-names>P. A.</given-names>
+            </name>
+            <name>
+              <surname>Snider</surname>
+              <given-names>C. E.</given-names>
+            </name>
+            <name>
+              <surname>Itoh</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>K. A.</given-names>
+            </name>
+            <name>
+              <surname>Nichols</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Strom</surname>
+              <given-names>T. B.</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>J. R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Interleukin 2 receptor-targeted cytotoxicity. Receptor binding requirements for entry of a diphtheria toxin-related interleukin 2 fusion protein into cells</article-title>
+          <source>Eur. J. Immunol.</source>
+          <year>1990</year>
+          <volume>20</volume>
+          <fpage>785</fpage>
+          <lpage>91</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00162">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohler</surname>
+              <given-names>K. M.</given-names>
+            </name>
+            <name>
+              <surname>Torrance</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>C. A.</given-names>
+            </name>
+            <name>
+              <surname>Goodwin</surname>
+              <given-names>R. G.</given-names>
+            </name>
+            <name>
+              <surname>Stremler</surname>
+              <given-names>K. E.</given-names>
+            </name>
+            <name>
+              <surname>Fung</surname>
+              <given-names>V. P.</given-names>
+            </name>
+            <name>
+              <surname>Madani</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Widmer</surname>
+              <given-names>M. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Soluble tumor necrosis factor (TNF) receptors are effective therapeutic agents in lethal endotoxemia and function simultaneously as both TNF carriers and TNF antagonists</article-title>
+          <source>J. Immunol.</source>
+          <year>1993</year>
+          <volume>151</volume>
+          <fpage>1548</fpage>
+          <lpage>61</lpage>
+          <pub-id pub-id-type="pmid">8393046</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00162">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosenberg</surname>
+              <given-names>S. A.</given-names>
+            </name>
+            <name>
+              <surname>Lotze</surname>
+              <given-names>M. T.</given-names>
+            </name>
+            <name>
+              <surname>Muul</surname>
+              <given-names>L. M.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>A. E.</given-names>
+            </name>
+            <name>
+              <surname>Avis</surname>
+              <given-names>F. P.</given-names>
+            </name>
+            <name>
+              <surname>Leitman</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Linehan</surname>
+              <given-names>W. M.</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>C. N.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>R. E.</given-names>
+            </name>
+            <name>
+              <surname>Rubin</surname>
+              <given-names>J. T.</given-names>
+            </name>
+          </person-group>
+          <article-title>A progress report on the treatment of 157 patients with advanced cancer using lymphokine-activated killer cells and interleukin-2 or high-dose interleukin-2 alone</article-title>
+          <source>N. Engl. J. Med.</source>
+          <year>1987</year>
+          <volume>316</volume>
+          <fpage>889</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="pmid">3493432</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00162">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gordon</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>Nemunaitis</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Hoffman</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Paquette</surname>
+              <given-names>R. L.</given-names>
+            </name>
+            <name>
+              <surname>Rosenfeld</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Manfreda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Isaacs</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Nimer</surname>
+              <given-names>S. D.</given-names>
+            </name>
+          </person-group>
+          <article-title>A phase I trial of recombinant human interleukin-6 in patients with myelodysplastic syndromes and thrombocytopenia</article-title>
+          <source>Blood</source>
+          <year>1995</year>
+          <volume>85</volume>
+          <fpage>3066</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="pmid">7538815</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00162">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kreitman</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>W. H.</given-names>
+            </name>
+            <name>
+              <surname>Bergeron</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Raggio</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Stetler-Stevenson</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>FitzGerald</surname>
+              <given-names>D. J.</given-names>
+            </name>
+            <name>
+              <surname>Pastan</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficacy of the anti-CD22 recombinant immunotoxin BL22 in chemotherapy-resistant hairy-cell leukemia</article-title>
+          <source>N. Engl. J. Med.</source>
+          <year>2001</year>
+          <volume>345</volume>
+          <fpage>241</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJM200107263450402</pub-id>
+          <pub-id pub-id-type="pmid">11474661</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00162">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kimura</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Taguchi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Urushizaki</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Ohno</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Abe</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Furue</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hattori</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ichihashi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Inoguchi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Majima</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase I study of recombinant human tumor necrosis factor</article-title>
+          <source>Cancer Chemother. Pharmacol.</source>
+          <year>1987</year>
+          <volume>20</volume>
+          <fpage>223</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">3315281</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00162">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nagata</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Steering anti-cancer drugs away from the TRAIL</article-title>
+          <source>Nat. Med.</source>
+          <year>2000</year>
+          <volume>6</volume>
+          <fpage>502</fpage>
+          <lpage>3</lpage>
+          <pub-id pub-id-type="pmid">10802698</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00162">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Talpaz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>O'Brien</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Rose</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Shan</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Cortes</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Giles</surname>
+              <given-names>F. J.</given-names>
+            </name>
+            <name>
+              <surname>Faderl</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kantarjian</surname>
+              <given-names>H. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase 1 study of polyethylene glycol formulation of interferon alpha-2B (Schering 54031) in Philadelphia chromosome-positive chronic myelogenous leukemia</article-title>
+          <source>Blood</source>
+          <year>2001</year>
+          <volume>98</volume>
+          <fpage>1708</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="pmid">11535501</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00162">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hershfield</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>Buckley</surname>
+              <given-names>R. H.</given-names>
+            </name>
+            <name>
+              <surname>Greenberg</surname>
+              <given-names>M. L.</given-names>
+            </name>
+            <name>
+              <surname>Melton</surname>
+              <given-names>A. L.</given-names>
+            </name>
+            <name>
+              <surname>Schiff</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Hatem</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kurtzberg</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Markert</surname>
+              <given-names>M. L.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>R. H.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>A. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Treatment of adenosine deaminase deficiency with polyethylene glycol-modified adenosine deaminase</article-title>
+          <source>N. Engl. J. Med.</source>
+          <year>1987</year>
+          <volume>316</volume>
+          <fpage>589</fpage>
+          <lpage>96</lpage>
+          <pub-id pub-id-type="pmid">3807953</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00162">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maeda</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>SMANCS and polymer-conjugated macromolecular drugs: advantages in cancer chemotherapy</article-title>
+          <source>Adv. Drug. Deliv. Rev.</source>
+          <year>2001</year>
+          <volume>46</volume>
+          <fpage>169</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-409X(00)00134-4</pub-id>
+          <pub-id pub-id-type="pmid">11259839</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00162">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goodson</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name>
+              <surname>Katre</surname>
+              <given-names>N. V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Site-directed pegylation of recombinant interleukin-2 at its glycosylation site</article-title>
+          <source>Biotechnology (N Y)</source>
+          <year>1990</year>
+          <volume>8</volume>
+          <fpage>343</fpage>
+          <lpage>6</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00162">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chapes</surname>
+              <given-names>S. K.</given-names>
+            </name>
+            <name>
+              <surname>Simske</surname>
+              <given-names>S. J.</given-names>
+            </name>
+            <name>
+              <surname>Sonnenfeld</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>E. S.</given-names>
+            </name>
+            <name>
+              <surname>Zimmerman</surname>
+              <given-names>R. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of spaceflight and PEG-IL-2 on rat physiological and immunological responses</article-title>
+          <source>J. Appl. Physiol.</source>
+          <year>1999</year>
+          <volume>86</volume>
+          <fpage>2065</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="pmid">10368375</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00162">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsutsumi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Tsunoda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kamada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kihira</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Nakagawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kaneda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kanamori</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mayumi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular design of hybrid tumour necrosis factor-alpha. II: The molecular size of polyethylene glycol-modified tumour necrosis factor-alpha affects its anti-tumour potency</article-title>
+          <source>Br. J. Cancer</source>
+          <year>1996</year>
+          <volume>74</volume>
+          <fpage>1090</fpage>
+          <lpage>5</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00162">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsutsumi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kihira</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Tsunoda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kanamori</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Nakagawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mayumi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular design of hybrid tumour necrosis factor alpha with polyethylene glycol increases its anti-tumour potency</article-title>
+          <source>Br. J. Cancer</source>
+          <year>1995</year>
+          <volume>71</volume>
+          <fpage>963</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">7734321</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00162">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaneda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kamada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tsunoda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Tsutsumi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hirano</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mayumi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antitumor activity of tumor necrosis factor alpha conjugated with divinyl ether and maleic anhydride copolymer on solid tumors in mice</article-title>
+          <source>Cancer Res.</source>
+          <year>1998</year>
+          <volume>58</volume>
+          <fpage>290</fpage>
+          <lpage>5</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00162">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsunoda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ishikawa</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kamada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Koizumi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Matsui</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Tsutsumi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hirano</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mayumi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enhanced antitumor potency of polyethylene glycolylated tumor necrosis factor-alpha: a novel polymer-conjugation technique with a reversible amino-protective reagent</article-title>
+          <source>J. Pharmacol. Exp. Ther.</source>
+          <year>1999</year>
+          <volume>290</volume>
+          <fpage>368</fpage>
+          <lpage>72</lpage>
+          <pub-id pub-id-type="pmid">10381801</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00162">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kamada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tsutsumi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Tsunoda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kihira</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kaneda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nakagawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Horisawa</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Mayumi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular design of conjugated tumor necrosis factor-alpha: synthesis and characteristics of polyvinyl pyrrolidone modified tumor necrosis factor-alpha</article-title>
+          <source>Biochem. Biophys. Res. Commun.</source>
+          <year>1999</year>
+          <volume>257</volume>
+          <fpage>448</fpage>
+          <lpage>53</lpage>
+          <pub-id pub-id-type="pmid">10198233</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00162">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kamada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tsutsumi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kihira</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kaneda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Mu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kodaira</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tsunoda</surname>
+              <given-names>S. I.</given-names>
+            </name>
+            <name>
+              <surname>Nakagawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mayumi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antitumor activity of tumor necrosis factor-alpha conjugated with polyvinylpyrrolidone on solid tumors in mice</article-title>
+          <source>Cancer Res.</source>
+          <year>2000</year>
+          <volume>60</volume>
+          <fpage>6416</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="pmid">11103807</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00162">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kodaira</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tsutsumi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kamada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kaneda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Tsunoda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Okamoto</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mukai</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Shibata</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nakagawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mayumi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>The targeting of anionized polyvinylpyrrolidone to the renal system</article-title>
+          <source>Biomaterials</source>
+          <year>2004</year>
+          <volume>25</volume>
+          <fpage>4309</fpage>
+          <lpage>15</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biomaterials.2003.10.097</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00162">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Debs</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name>
+              <surname>Fuchs</surname>
+              <given-names>H. J.</given-names>
+            </name>
+            <name>
+              <surname>Philip</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Brunette</surname>
+              <given-names>E. N.</given-names>
+            </name>
+            <name>
+              <surname>Duzgunes</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Shellito</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Liggitt</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Patton</surname>
+              <given-names>J. R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Immunomodulatory and toxic effects of free and liposome-encapsulated tumor necrosis factor alpha in rats</article-title>
+          <source>Cancer Res.</source>
+          <year>1990</year>
+          <volume>50</volume>
+          <fpage>375</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="pmid">2295077</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00162">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nobuhara</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kanamori</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ashida</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ogino</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Horisawa</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nakayama</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Asami</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Iketani</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Noda</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Andoh</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>The inhibition of neoplastic cell proliferation with human natural tumor necrosis factor</article-title>
+          <source>Jpn. J. Cancer Res.</source>
+          <year>1987</year>
+          <volume>78</volume>
+          <fpage>193</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="pmid">3030986</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00162">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moritz</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Niederle</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Baumann</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>May</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kurschel</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Osieka</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kempeni</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Schlick</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>C. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase I study of recombinant human tumor necrosis factor alpha in advanced malignant disease</article-title>
+          <source>Cancer Immunol. Immunother.</source>
+          <year>1989</year>
+          <volume>29</volume>
+          <fpage>144</fpage>
+          <lpage>50</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00162">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noguchi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Inagawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tsuji</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Morikawa</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mizuno</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Soma</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antitumor activity of a novel chimera tumor necrosis factor (TNF-STH) constructed by connecting rTNF-S with thymosin beta 4 against murine syngeneic tumors</article-title>
+          <source>J. Immunother.</source>
+          <year>1991</year>
+          <volume>10</volume>
+          <fpage>105</fpage>
+          <lpage>11</lpage>
+          <pub-id pub-id-type="pmid">2043590</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00162">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blick</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sherwin</surname>
+              <given-names>S. A.</given-names>
+            </name>
+            <name>
+              <surname>Rosenblum</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gutterman</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase I study of recombinant tumor necrosis factor in cancer patients</article-title>
+          <source>Cancer Res.</source>
+          <year>1987</year>
+          <volume>47</volume>
+          <fpage>2986</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">3567916</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00162">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hill</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name>
+              <surname>Warren</surname>
+              <given-names>M. K.</given-names>
+            </name>
+            <name>
+              <surname>Stenberg</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Levin</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Corash</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Drummond</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Baker</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Levin</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mok</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stimulation of megakaryocytopoiesis in mice by human recombinant interleukin-6</article-title>
+          <source>Blood</source>
+          <year>1991</year>
+          <volume>77</volume>
+          <fpage>42</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">1984802</pub-id>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00162">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ishibashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kimura</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Shikama</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Uchida</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kariyone</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hirano</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kishimoto</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Takatsuki</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>Akiyama</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Interleukin-6 is a potent thrombopoietic factor in vivo in mice</article-title>
+          <source>Blood.</source>
+          <year>1989</year>
+          <volume>74</volume>
+          <fpage>1241</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="pmid">2788464</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00162">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zeidler</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kanz</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Hurkuck</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Rittmann</surname>
+              <given-names>K. L.</given-names>
+            </name>
+            <name>
+              <surname>Wildfang</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Kadoya</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mikayama</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Souza</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Welte</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>In vivo effects of interleukin-6 on thrombopoiesis in healthy and irradiated primates</article-title>
+          <source>Blood</source>
+          <year>1992</year>
+          <volume>80</volume>
+          <fpage>2740</fpage>
+          <lpage>5</lpage>
+          <pub-id pub-id-type="pmid">1280477</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00162">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Navarro</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Debili</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Le Couedic</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Klein</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Breton-Gorius</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Doly</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Vainchenker</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Interleukin-6 and its receptor are expressed by human megakaryocytes: in vitro effects on proliferation and endoreplication</article-title>
+          <source>Blood</source>
+          <year>1991</year>
+          <volume>77</volume>
+          <fpage>461</fpage>
+          <lpage>71</lpage>
+          <pub-id pub-id-type="pmid">1991163</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-00162">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taga</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kishimoto</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of a two-chain IL-6 receptor system in immune and hematopoietic cell regulation</article-title>
+          <source>Crit. Rev. Immunol.</source>
+          <year>1992</year>
+          <volume>11</volume>
+          <fpage>265</fpage>
+          <lpage>80</lpage>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-00162">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castell</surname>
+              <given-names>J. V.</given-names>
+            </name>
+            <name>
+              <surname>Geiger</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Gross</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Andus</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Walter</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Hirano</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kishimoto</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Heinrich</surname>
+              <given-names>P. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Plasma clearance, organ distribution and target cells of interleukin-6/hepatocyte-stimulating factor in the rat</article-title>
+          <source>Eur. J. Biochem.</source>
+          <year>1988</year>
+          <volume>177</volume>
+          <fpage>357</fpage>
+          <lpage>61</lpage>
+          <pub-id pub-id-type="pmid">3263918</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35-molecules-10-00162">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suematsu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Aozasa</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Akira</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nakano</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Ohno</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Miyazaki</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Yamamura</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hirano</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kishimoto</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>IgG1 plasmacytosis in interleukin 6 transgenic mice</article-title>
+          <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+          <year>1989</year>
+          <volume>86</volume>
+          <fpage>7547</fpage>
+          <lpage>51</lpage>
+          <pub-id pub-id-type="pmid">2798426</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36-molecules-10-00162">
+        <label>36.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weber</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Topalian</surname>
+              <given-names>S. L.</given-names>
+            </name>
+            <name>
+              <surname>Parkinson</surname>
+              <given-names>D. R.</given-names>
+            </name>
+            <name>
+              <surname>Schwartzentruber</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Ettinghausen</surname>
+              <given-names>S. E.</given-names>
+            </name>
+            <name>
+              <surname>Gunn</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Mixon</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Cole</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase I trial of subcutaneous interleukin-6 in patients with advanced malignancies</article-title>
+          <source>J. Clin. Oncol.</source>
+          <year>1993</year>
+          <volume>11</volume>
+          <fpage>499</fpage>
+          <lpage>506</lpage>
+          <pub-id pub-id-type="pmid">7680375</pub-id>
+        </citation>
+      </ref>
+      <ref id="B37-molecules-10-00162">
+        <label>37.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Delgado</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Francis</surname>
+              <given-names>G. E.</given-names>
+            </name>
+            <name>
+              <surname>Fisher</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>The uses and properties of PEG-linked proteins</article-title>
+          <source>Crit. Rev. Ther. Drug. Carrier. Syst.</source>
+          <year>1992</year>
+          <volume>9</volume>
+          <fpage>249</fpage>
+          <lpage>304</lpage>
+        </citation>
+      </ref>
+      <ref id="B38-molecules-10-00162">
+        <label>38.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Inoue</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ebashi</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Watanabe</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Morino</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of a superoxide dismutase derivative that circulates bound to albumin and accumulates in tissues whose pH is decreased</article-title>
+          <source>Biochemistry.</source>
+          <year>1989</year>
+          <volume>28</volume>
+          <fpage>6619</fpage>
+          <lpage>24</lpage>
+          <pub-id pub-id-type="pmid">2790016</pub-id>
+        </citation>
+      </ref>
+      <ref id="B39-molecules-10-00162">
+        <label>39.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nagasaki</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Iijima</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kato</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kataoka</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Primary amino-terminal heterobifunctional poly(ethylene oxide). Facile synthesis of poly(ethylene oxide) with a primary amino group at one end and a hydroxyl group at the other end</article-title>
+          <source>Bioconjug. Chem.</source>
+          <year>1995</year>
+          <volume>6</volume>
+          <fpage>702</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="pmid">8608183</pub-id>
+        </citation>
+      </ref>
+      <ref id="B40-molecules-10-00162">
+        <label>40.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaneda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Tsutsumi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kamada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kodaira</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tsunoda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Okamoto</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mukai</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Shibata</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nakagawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mayumi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>The use of PVP as a polymeric carrier to improve the plasma half-life of drugs</article-title>
+          <source>Biomaterials</source>
+          <year>2004</year>
+          <volume>25</volume>
+          <fpage>3259</fpage>
+          <lpage>66</lpage>
+          <pub-id pub-id-type="pmid">14980420</pub-id>
+        </citation>
+      </ref>
+      <ref id="B41-molecules-10-00162">
+        <label>41.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsunoda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kamada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ishikawa</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Matsui</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Koizumi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kaneda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Tsutsumi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ohsugi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hirano</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mayumi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular design of polyvinyl- pyrrolidone-conjugated interleukin-6 for enhancement of in vivo thrombopoietic activity in mice</article-title>
+          <source>J. Control. Release</source>
+          <year>2000</year>
+          <volume>68</volume>
+          <fpage>335</fpage>
+          <lpage>41</lpage>
+          <pub-id pub-id-type="pmid">10974387</pub-id>
+        </citation>
+      </ref>
+      <ref id="B42-molecules-10-00162">
+        <label>42.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Simionescu</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cellular aspects of transcapillary exchange</article-title>
+          <source>Physiol. Rev.</source>
+          <year>1983</year>
+          <volume>63</volume>
+          <fpage>1536</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="pmid">6318239</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43-molecules-10-00162">
+        <label>43.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chang</surname>
+              <given-names>R. L.</given-names>
+            </name>
+            <name>
+              <surname>Deen</surname>
+              <given-names>W. M.</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>C. R.</given-names>
+            </name>
+            <name>
+              <surname>Brenner</surname>
+              <given-names>B. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Permselectivity of the glomerular capillary wall: III. Restricted transport of polyanions</article-title>
+          <source>Kidney Int.</source>
+          <year>1975</year>
+          <volume>8</volume>
+          <fpage>212</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">1202253</pub-id>
+        </citation>
+      </ref>
+      <ref id="B44-molecules-10-00162">
+        <label>44.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Takakura</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Fujita</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hashida</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sezaki</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Disposition characteristics of macromolecules in tumor-bearing mice</article-title>
+          <source>Pharm. Res.</source>
+          <year>1990</year>
+          <volume>7</volume>
+          <fpage>339</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="pmid">1694582</pub-id>
+        </citation>
+      </ref>
+      <ref id="B45-molecules-10-00162">
+        <label>45.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Tsutsumi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nishibata</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Okamoto</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mukai</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Shimizu</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Nakagawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nagata</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mayumi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Site-specific PEGylation of a lysine-deficient TNF-alpha with full bioactivity</article-title>
+          <source>Nat. Biotechnol.</source>
+          <year>2003</year>
+          <volume>21</volume>
+          <fpage>546</fpage>
+          <lpage>52</lpage>
+          <pub-id pub-id-type="pmid">12665803</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

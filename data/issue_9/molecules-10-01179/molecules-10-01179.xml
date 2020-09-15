@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10091179</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01179</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>HPLC Analysis of Aliphatic Sulfonate Surfactants using Ion- Pair Detection</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zahrobsky</surname>
+            <given-names>Marek</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Camporese</surname>
+            <given-names>Davide</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rist</surname>
+            <given-names>&#xD8;ystein</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Carlsen</surname>
+            <given-names>Per H.J.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-01179" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+	  <aff id="af1-molecules-10-01179">Department of Chemistry, Norwegian University of Science and Technology, N-7491 Trondheim, Norway. Tel. 47 73 59 3968, Fax 47 73 593985.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01179"><label>*</label>Author to whom correspondence should be addressed. E-mail: <email>per.carlsen@chem.ntnu.no</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+      <fpage>1179</fpage>
+      <lpage>1189</lpage>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>29</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A method was developed for the analysis of a number of surfactants which contained no UV-chromophores, using RP-HPLC with Indirect Photometric Detection, IPD. Pyridinium salts such as <italic>N</italic>-methylpyridinium iodide, <italic>N</italic>-methyl-2,2'-dipyridinium iodide and <italic>N,N'</italic>-dimethyl-2,2'-dipyridinium diiodide, were used as the visualization reagents, forming ion-pair complexes with the sulfonate surfactants. This allowed ordinary UV-detection. <italic>N</italic>-methylpyridinium iodide proved to be a suitable reagent, both with respect to ease of preparation and response. The eluents consisted of mixtures of acetonitrile and water, being 0.1 - 0.25 mM with respect to pyridinium salt. The method was sensitive and exhibited good signal to noise ratios, as well as linear responses over a wide concentration range. All of the analyzed surfactants were separated, including the diastereomeric forms of some of the surfactants.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Surfactant</kwd>
+		<kwd>Analysis</kwd>
+		<kwd>Ion-pair detection</kwd>
+		<kwd>HPLC</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Many modern surfactants are combinations of alkyl chains and a variety of polyether segments, such as ethyleneoxy units (EO-units). In studies related to Enhanced Oil Recovery, <italic>EOR</italic>, and the analysis of the composition of surfactants used for that purpose, our group has been involved with the synthesis of a variety of such surfactants. We have conducted selective synthesis of a number of hydroxysulfonate- and new bis sulfonate surfactants [<xref ref-type="bibr" rid="B1-molecules-10-01179">1</xref>].The selectivity was an important aspect with respect to Structure Activity Relationship studies. For that reason, the polar sulfonate groups were introduced late in the preparations, allowing easy analysis of the intermediates by, <italic>e.g</italic>., GC analysis. We needed, however, also chromatographic methods to analyze the final sulfonate products for purity. We were preferably seeking direct methods that need no derivatization, to avoid the possibility of side reactions or discrimination. The surfactants we have studied were of the general types 1 and 2, shown in <xref ref-type="fig" rid="molecules-10-01179-f001">Figure 1</xref>.</p>
+      <fig id="molecules-10-01179-f001" position="float">
+        <label>Figure 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01179-g001.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The sulfonate salts have for all practical purposes, no vapor pressure, and must therefore be derivatized prior to GC analysis. The use of several different sulfonate derivatives  have  been reported, <italic>e.g.,</italic> as the corresponding sulfonyl chlorides [<xref ref-type="bibr" rid="B2-molecules-10-01179">2</xref>] by reactions with SOCl<sub>2</sub> [<xref ref-type="bibr" rid="B3-molecules-10-01179">3</xref>] or PCl<sub>5</sub> [<xref ref-type="bibr" rid="B4-molecules-10-01179">4</xref>, <xref ref-type="bibr" rid="B5-molecules-10-01179">5</xref>]. Silyl ester formation has also been investigated [<xref ref-type="bibr" rid="B6-molecules-10-01179">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-01179">7</xref>]. On-line GC-esterification of sulfonates by co- injection of a tetrabutylammonium salt has also been described [<xref ref-type="bibr" rid="B8-molecules-10-01179">8</xref>]. When thionyl chloride was used in combination with DMF, enhanced performance was observed due to formation of Vilsmeier-type salts, and formation of the alkyl chlorides [<xref ref-type="bibr" rid="B9-molecules-10-01179">9</xref>, <xref ref-type="bibr" rid="B2-molecules-10-01179">2</xref>]. We have investigated the use of these methods on the surfactants studied in this work. The results, however, were not satisfactory as incomplete conversion was often observed together with various side reactions.</p>
+      <sec>
+        <title>HPLC analysis</title>
+        <p>Ionic surfactants are generally analyzed by reverse-phase high performance liquid chromatography, RP-HPLC, which utilizes a non-polar stationary phase and a polar mobile phase. The stationary phase is derivatized with alkyl groups, usually C<sub>8</sub>- or C<sub>18</sub>-groups. Such systems were also applied for the surfactants in our study. HPLC analysis may, however, have limitations in detecting compounds which are transparent to the detection method used. For HPLC work UV-detection is often the method of choice [<xref ref-type="bibr" rid="B10-molecules-10-01179">10</xref>]. The challenge in this case, however, was the detection of the compounds of interest since these surfactants contained no chromophores.</p>
+        <p>Bulk-property detectors, which measure differences in physical properties of the mobile phase with or without the solute, such as the refractive index (RI) detectors and conductivity detectors [<xref ref-type="bibr" rid="B11-molecules-10-01179">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-01179">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-01179">13</xref>], are universal. They usually respond to all compounds, but generally suffer from poor sensitivity and limited dynamic ranges (10 ng -1 &#x3BC;g), and are affected by changes in the mobile phase composition and temperature. The detector responses are not always linear with respect to concentration and not compatible with solvent gradient HPLC methods. The application of refractive index and conductivity detection was investigated, but exhibited unacceptable noise levels and poor sensitivity and the results were not reproducible. For these reasons derivatization, conductivity- and RI detection was ruled out.</p>
+        <p>Solute property detectors on the other hand respond to a physical or chemical property of the solute, and are ideally independent of the mobile phase. Examples are spectrophotometry, fluorescence and electrochemical detectors. Even though mobile phase independence is not always fulfilled in practice, high sensitivity with a wide linear response range (10 pg - 1 ng) can usually be achieved. A disadvantage with HPLC methods is that all impurities will not necessarily be detected and they should therefore be used in combination with other methods, <italic>e.g</italic>., GC and spectroscopic methods.</p>
+      </sec>
+      <sec>
+        <title>Surfactants</title>
+        <p>In this study we were using the surfactants shown in <xref ref-type="fig" rid="molecules-10-01179-f002">Figure 2</xref> as a test set. They were either single chain hydroxy-sulfonates, <bold>1a</bold>&#x2013;<bold>e</bold> or bisdisulfonate surfactants, <bold>2a</bold>&#x2013;<bold>b</bold>.</p>
+        <fig id="molecules-10-01179-f002" position="float">
+        <label>Figure 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01179-g002.tif"/>
+      </fig>
+      </sec>
+      <sec>
+        <title>Indirect Photometric Detection, IPD</title>
+        <p>For the detection of surfactants <bold>1a</bold>&#x2013;<bold>e</bold> and <bold>2a</bold>&#x2013;<bold>b</bold> methods other than direct detection must be used. An alternative UV-detection method is indirect photometric detection, IPD. When a solute gives an insufficient detector response, adding an auxiliary to the mobile phase can enhance sensitivity. The auxiliary can be a UV-absorbing salt, and may work by two different mechanisms; either formation of ion-pairs  with the ionic surfactants,  resulting in  positive  signals, or  negative signals  due  to local depletion of the amount of the UV-active salts required for maintaining electroneutrality. This method has all the advantages of UV-detection and avoids derivatization. Common visualization reagents described in the literature are methylene blue [<xref ref-type="bibr" rid="B14-molecules-10-01179">14</xref>], naphthalene  sulfonate  or  disulfonates  [<xref ref-type="bibr" rid="B15-molecules-10-01179">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-01179">16</xref>], copper, cerium or silver salts [<xref ref-type="bibr" rid="B17-molecules-10-01179">17</xref>] and <italic>N</italic>-alkyl pyridinium salts [<xref ref-type="bibr" rid="B18-molecules-10-01179">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-01179">19</xref>]. The pyridinium salts reported in the literature were <italic>N</italic>-methylpyridinium chloride, <italic>N</italic>-butylpyridinium bromide, <italic>N</italic>-octylpyridinium bromide, <italic>N</italic>-dodecylpyridinium bromide, and <italic>N</italic>-cetylpyridinium bromide. One of the studies concluded that the alkyl moiety should preferably consist of a methyl group [<xref ref-type="bibr" rid="B18-molecules-10-01179">18</xref>] as use of longer alkyl groups resulted in variations of the retention time of a system peak as a function of eluent composition. Although IPD-based RP-HPLC methods are reported to be efficient, they have some limitations, e.g., neutral impurities in most cases remain undetected.</p>
+        <p>A pyridinium salt frequently used for this application is <italic>N</italic>-methylpyridinium chloride. In the development of a HPLC method, detection of <bold>1a</bold>&#x2013;<bold>e</bold> and <bold>2a&#x2013;b</bold> was studied using a variety of pyridinium iodides, <bold>3</bold>&#x2013; <bold>5</bold>, <xref ref-type="fig" rid="molecules-10-01179-f003">Figure 3</xref>. They were readily obtained by the reaction of the corresponding pyridines with methyl iodide in dichloromethane.</p>
+        <fig id="molecules-10-01179-f003" position="float">
+        <label>Figure 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01179-g003.tif"/>
+      </fig>
+        <p>In this study C -18 reverse phase columns were preferably used. Mixtures of water and acetonitrile were used as eluents. The concentration of the visualization reagent was in the range 0.10-0.25 mM. The salts shown in <xref ref-type="fig" rid="molecules-10-01179-f003">Figure 3</xref> were tested as visualization agents. The injected sample volume was 10.0 &#xB5;L of samples that consisted of surfactants dissolved in the eluent in the concentration range 0.05 - 1.0 mg/mL. Wavelengths between 258 and 300 nm was used for UV-detection depending on the ion- pair reagent used.</p>
+        <p>It should be noted that HPLC using the ion-pair IPD-method of detection exhibits a characteristic behavior. Thus, in reverse phase HPLC-experiments early in the run, a positive peak will be observed, with the same retention time as the ion-pair reagent (here ca. 2 min) which may be induced by equilibration of the local eluent composition upon injecting the sample [<xref ref-type="bibr" rid="B20-molecules-10-01179">20</xref>]. Later in the chromatogram a large, broad, negative peak is observed, referred to as the <italic>system peak</italic>. The area of the system peak is basically equal to the collected area of the peaks of the sample, and is caused by depletion of the UV-active reagent from the mobile phase, when the sample is injected. These two peaks will always appear in the IPD chromatograms.</p>
+      </sec>
+      <sec>
+        <title>N-Methylpyridinium iodide (MPI, <bold>3</bold>).</title>
+        <p>Use of MPI, <bold>3</bold>, as the ion-pair reagent (0.25 mM) and a 30:70 water-acetonitrile eluent solution, gave good separation and peak intensity. The capacity was investigated and the capacity factor, <italic>k'</italic>, was calculated for surfactants <bold>1a</bold>, <bold>1c</bold>, <bold>2a</bold>, and <bold>2b [<xref ref-type="bibr" rid="B21-molecules-10-01179">21</xref>]</bold>. The <italic>k'</italic>- value indicates to what extend a solute is retained on the column, and is a function of the composition of the eluent. The capacity factor as a function of eluent composition is illustrated in <xref ref-type="fig" rid="molecules-10-01179-f004">Figure 4</xref>.</p>
+        <fig id="molecules-10-01179-f004" position="float">
+        <label>Figure 4</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01179-g004.tif"/>
+      </fig>
+        <p>Increasing the amount of acetonitrile in the eluent (from 25 to 40 %) resulted in shorter retention times for all the surfactants. However, for the bis surfactants, <bold>2a</bold>&#x2013;<bold>2b</bold>, the retention time decreased more readily, and therefore also the <italic>k'</italic> values. When the acetonitrile concentration approached 25 %, the retention times exceeded 1 hour, resulting in peak broadening. This effect can be rationalized by the higher lipophilicity of bis surfactant ion-pair complexes. Thus, the two tails influenced the hydrophile- lipophile balance, HLB, more than the presence of the two ionic head groups. Mixtures of surfactants <bold>1a</bold>&#x2013;<bold>e</bold> and <bold>2a</bold>&#x2013;<bold>b</bold> were readily separated into the corresponding components, <xref ref-type="fig" rid="molecules-10-01179-f005">Figure 5</xref>.</p>
+        <fig id="molecules-10-01179-f005" position="float">
+        <label>Figure 5</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01179-g005.tif"/>
+      </fig>
+        <p>Changing concentrations of MPI, <bold>3</bold>, in the range 0.10 - 0.30 mM appeared to have no significant influence on the retention times. The start of the system peak is observed in the chromatogram in <xref ref-type="fig" rid="molecules-10-01179-f005">Figure 5</xref>, starting at approximately 24 min. <xref ref-type="table" rid="molecules-10-01179-t001">Table 1</xref> shows the results and the assignment of the peaks, which was also confirmed by analysis of the authentic compounds. We note that compounds <bold>1b</bold>, <bold>1d</bold>, <bold>1e</bold> and <bold>2a</bold> each gave rise to two peaks. These compounds all contain two stereogenic carbon atoms, giving rise to two sets of diastereomers, each of which gave separated peaks in the chromatogram.</p>
+        <table-wrap id="molecules-10-01179-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-01179-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Retention times for surfactants <bold>1a</bold>&#x2013;<bold>e</bold> and <bold>2a</bold>&#x2013;<bold>b</bold>, using a 30:70 water-acetonitrile mixture as eluent and MPI, <bold>3</bold>, as the ion-pair auxiliary. Detection at &#x3BB; = 258 nm.</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin;border-left:solid thin;border-right:solid thin">Surfactant</th>
+                <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin">Retention times [minutes]</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>1a</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">5.2</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>1b</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">6.4</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>1c</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">7.1</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>1d</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">7.3  /  8.7 *</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>1e</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">10.8  /  12.0 *</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>2a</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">18.9  /  21.3 *</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-left:solid thin;border-right:solid thin"><bold>2b</bold></td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">16.7</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>* Two signals appeared due to the presence of diastereomers.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Increased lipophilicity of a compound with a reversed-phase stationary phase usually increased the retention time. Results from the <bold>1a</bold>&#x2013;<bold>e</bold> series of surfactants showed that introduction of a PO-unit influenced the retention time more than the introduction of an EO-unit. Contributing to this, is the fact that branching of the tail usually give a more lipophilic compound compared to the unbranched compound with the same number of carbon atoms. The semi-polar side-chain in addition contained an extra methyl group. Important for quantitative measurements, the detector response was found to be linear with respect to the amount of compound injected, over a range covering approximately one order of magnitude. This is illustrated in <xref ref-type="fig" rid="molecules-10-01179-f006">Figure 6</xref> for surfactants <bold>1a</bold>, <bold>1c</bold>, <bold>2a</bold>, <bold>2b</bold>.</p>
+        <fig id="molecules-10-01179-f006" position="float">
+        <label>Figure 6</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01179-g006.tif"/>
+      </fig>
+        <p>The eluent consisted  here of a 35:65 mixture of acetonitrile-water.  Quantitative analysis using vanillin as an internal standard (retention times 4.52 minutes) with different molar ratios of the surfactants and vanillin keeping a constant concentration of vanillin also gave a linear relationship between the responses and the molar ratio. This confirms the methods application for quantitative analysis.</p>
+      </sec>
+      <sec>
+        <title>N-Methyl-2,2'-bipyridinium iodide (MDPI, <bold>4</bold>).</title>
+        <p>Similar studies were done with MDPI, <bold>4</bold>, using a 30:70 water-acetonitrile solvent system. Retention times were slightly longer, but the system peak came earlier (after 20 min). The variations were ascribed to differences in the structures of the ion-pairs and equilibrium constants. For this system, the system peak coincided with the signals for surfactants, <bold>2a</bold> and <bold>2b</bold>.</p>
+        <table-wrap id="molecules-10-01179-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-01179-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Retention times of the different surfactants using MDPI, <bold>4</bold>.</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin;border-left:solid thin;border-right:solid thin">Surfactant</th>
+                <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin">Retention times [min]</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>1a</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">7.1</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>1b</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">8.9</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>1c</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">10.2</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>1d</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">11.2  /  12.7 *</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>1e</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">15.6  /  17.1 *</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>2a</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">**</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-left:solid thin;border-right:solid thin"><bold>2b</bold></td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">**</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>* Two signals due to the presence of diastereomers.</p>
+              <p>** No signals were detected due to concealment by the system peak.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>This illustrates one of the characteristic problems often encountered when using the IPD-method. For this reason, with this IPM-system, we could not analyze for compounds <bold>2</bold>. However, at the same time it illustrates that changing the properties of the visualization reagents represented an additional parameter in creating methods suitable for specific purposes. <xref ref-type="table" rid="molecules-10-01179-t002">Table 2</xref> shows the observed data for this system. The MDPI system also exhibited strict linearity of detector response versus the amounts of surfactant injected on the column.</p>
+        <p>The response curves, <italic>e.g.</italic>, as in <xref ref-type="fig" rid="molecules-10-01179-f006">Figure 6</xref>, exhibited different slopes for the different surfactants. For the same surfactant, but with different ion-pair salts, slopes were also different. Thus, surfactant <bold>2b</bold> with MPI showed a larger response than did <bold>2a</bold>, while the opposite was the case when using MDPI as the ion-pair salt. These effects can be ascribed to the differences in stability of the surfactant- pyridinium complexes:
+		<disp-formula>
+        [Surfactant <sup>-</sup>]<sub>aq</sub> +  [MP<sup>+</sup>]<sub>aq</sub> &#x2003;&#x21C4; &#x2003; [Surfactant <sup>-</sup> MP<sup>+</sup>]<sub>aq</sub>
+		</disp-formula>
+        <italic>i.e.</italic>, the equilibrium for the complex formation is sensitive to structural factors. Thus, it appears that the equilibrium lies further to the right for <bold>2b</bold> than for <bold>2a</bold> with MPI as the ion-pair salt, while the opposite is the case using MDPI.</p>
+      </sec>
+      <sec id="sec2-molecules-10-01179">
+        <title>N,N'-Dimethyl-2,2-bipyridinium diiodide (DMDPI, <bold>5</bold>).</title>
+        <p>Similar experiments were carried out with the surfactants but using DMDPI, <bold>5</bold>. This reagent exhibited higher background absorption. This was compensated for, by changing the detector wavelength from 258 nm to 290 nm, and the concentration of the visualization reagent was reduced to 0.15 mM. The ion-pair complexes appeared to be rather lipophilic. Without changing the mobile phase, retention-times therefore became very long, resulting in broader peaks. Increasing the amount of acetonitrile to a 50:50 acetonitrile-water solution compensated for this. Otherwise, the detection and response of the surfactants was as for the previous examples. However, since DMDPI, <bold>5</bold>, did not display any significant advantages over the MPI-system, further work on this system will not be described.</p>
+      </sec>
+      <sec>
+        <title>Structure of the surfactant-ion pair complexes.</title>
+        <p>Because different types of ion-pair complexes appeared to have different HPLC-characteristics, and therefore depended on the pyridinium salt employed, we studied the effect of the charge ratios in the ion-pair complexes. The mono-sulfonate surfactants <bold>1</bold> with a mono-cationic salt, for example MPI, <bold>3</bold>, presumably formed what was basically a 1:1 ion-pair complex. The disulfonates <bold>2</bold>, on the other hand, may form either a 1:1 complex with one negative charge, or a 1:2 complex with MPI, <bold>3</bold>,. The latter may not be so readily formed, due to kinetic, entropy or steric effects. If the visualization reagent was doubly positive charges, for example DMDPI, <bold>5</bold>, neutral 1:1 complexes with <bold>2</bold> can be envisioned.</p>
+        <p>The nature of the ion-pair complexes was studied in parallel experiments with the single-chain surfactant, <bold>1a</bold>, and the bis surfactant, <bold>2b</bold>. Thus, equal amounts (10.0 &#x3BC;L of solutions being 0.0232 mM in <bold>1a</bold> and <bold>2b</bold>) were injected on the column, both in separate experiments and as mixtures. As mobile phase was used a 40:60 acetonitrile-water solution being 0.15 mM in MPI, <bold>3</bold>, and the detector set at 258 nm. Virtually equal responses were obtained for the two surfactants, <xref ref-type="table" rid="molecules-10-01179-t003">Table 3</xref>. Assuming that the single-chained surfactant <bold>1a</bold> with MPI formed a 1:1 ion-pair, the bis surfactant <bold>2b</bold>, must similarly form a 1:1 ion-pair.</p>
+        <p>For the subsequent experiments with DMDPI, <bold>5</bold>, the detector wavelengths were adjusted so that, at the concentrations chosen for the pyridinium salts <bold>3</bold> and <bold>5</bold> (0.15 mM), similar absorbance values were obtained for the two mobile phases (it happened to be A = 1.40). Thus, the detector wavelength was chosen as 258 and 280 nm, respectively. The signals of similar molar ion-pair composition for the MPI and DMDPI systems, respectively, should result in equal detector responses. Thus, with the molar concentrations of the surfactants being the same (for both was applied 10.0 &#x3BC;L of 0.0232 mM stock solutions), any 1:1-complex should always give the same integrated peak area, independent on the actual identity components in the complexes. <italic>E.g.</italic>, the peak area measured for a 1:1 <bold>1a</bold>-MPI complex should be equal to that of a 1:1 ratio in the <bold>2b</bold>-DMDPI complex.</p>
+        <table-wrap id="molecules-10-01179-t003" position="float">
+          <object-id pub-id-type="pii">molecules-10-01179-t003_Table 3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <p>Comparison of peak areas of single- and double-chain surfactants.</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin;border-left:solid thin;border-right:solid thin">Surfactant</th>
+                <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin">Measured Relative Peak Area Values</th>
+              </tr>
+              <tr>
+                <th align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">MPI-system, 3.<break/>(258 nm)</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">DMDPI-system, 5.<break/>(280 nm)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">Single-chain, <bold>1a</bold><break/> Double-chain, <bold>2b</bold></td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">10.20<break/> 10.00</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">5.58<break/> 5.50</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The results for DMDPI, <bold>5</bold>, showed that the peak areas were similar for the single- and double-chain surfactants, indicating similar compositions of the ion-pairs. However, with the DMDPI salt, the peak area of both surfactant <bold>1a</bold> and <bold>2b</bold> was essentially half of that observed in the corresponding MPI experiments, even though all concentrations were equal, <xref ref-type="table" rid="molecules-10-01179-t003">Table 3</xref>. This indicates a 2:1 relationship, with two surfactant molecules associated with one molecule of DMDPI, <bold>5</bold>. These results indicate the ion- pair compositions illustrated in <xref ref-type="fig" rid="molecules-10-01179-f007">Figure 7</xref>.</p>
+        <fig id="molecules-10-01179-f007" position="float">
+        <label>Figure 7</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01179-g007.tif"/>
+      </fig>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>A method was developed for the analysis of a number of surfactants using RP-HPLC with Indirect Photometric Detection (IPD), using pyridinium salts as the visualization reagents. These formed ion- pair complexes with the sulfonate surfactants, allowing detection by an ordinary UV-detector. <italic>N</italic>-methylpyridinium iodide, MPI, proved to be the reagent of choice, both with respect to its ease of preparation and its excellent response factor. The eluents consisted of mixtures of acetonitrile and water, 0.1 - 0.25 mM in MPI. The method was highly sensitive with good signal to noise ratios, as well as linear responses over a wide concentration range. All of the analyzed surfactants could be separated, including the diastereomeric forms of some of the surfactants.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors wish to express their gratitude to STATOIL and the Norwegian Research Council for financial support.</p>
+    </ack>
+     <notes>
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>NMR spectra were recorded on a JEOL JNM-EX 400 FT NMR System instrument. HPLC analysis was performed on a Perkin-Elmer instrument consisting of a LC 250 binary pump, LC-600 autosampler equipped with a 10 &#xB5;L sample loop, LC 30 refractive index detector and a LC 290 BIO UV variable wavelength absorbance detector (190 - 360 nm). A conductivity detector (Conductivity Monitor, Pharmacia) was also used. As integrator a PE-Nelson Model 1020 instrument was used. The columns used were ChromSphere C18 or C8, 4.6 x 250 mm, from Chrompack. All solvents were of HPLC-grade.</p>
+        <p><italic>N-methylpyridinium iodide</italic> (<bold>3</bold>) was prepared by the reaction of pyridine with methyl iodide at room temperature in dichloromethane. After recrystallization from ethanol the product was obtained in 71 % yield; <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 8.8 (m, 2H), 8.5 (m, 1H), 8.0 (m, 2H), 4.4(s, 3H) ppm; UV (H<sub>2</sub>O): &#x3BB; 226 (&#x3B5; 11700), 257 (&#x3B5; 4180) nm.</p>
+        <p><italic>N-methyl-2,2'-bipyridinium iodide</italic> (<bold>4</bold>) was prepared in 77% yield from 2,2'-dipyridine (8 g) and methyl iodide (10 g) in dichloromethane (30 mL) at room temperature, followed by recrystallization from ethanol; <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 8.9 (m, 1H), 8.7 (m, 1H), 8,6 (m, 1H), 8.1 (m, 3H), 7.8 (m, 1H), 7.7 (m, 1H), 4.2 (s, 3H) ppm; UV (H<sub>2</sub>O):  &#x3BB; 225 (&#x3B5; 17500), 272 (&#x3B5; 9900) nm.</p>
+        <p><italic>N,N'-dimethyl-2,2&#x2019;-dipyridyl diiodide</italic> (<bold>5</bold>) was prepared in 69% yield from 2,2'-dipyridine (8 g) and methyl iodide (25 g) in refluxing dichloromethane (40 mL) and  subsequent  recrystallization  from ethanol; <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 8.9 (m, 2H), 8.7 (m, 2H), 8.6 (m, 2H), 4.3(s, 6H) ppm; UV (H<sub>2</sub>O): &#x3BB; 225 (&#x3B5; 29000), 265 (&#x3B5; 11100) nm.</p>
+      </sec>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-01179">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rist</surname>
+              <given-names>&#xD8;.</given-names>
+            </name>
+            <name>
+              <surname>Carlsen</surname>
+              <given-names>P. H. J.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2005</year>
+          <volume>10</volume>
+          <fpage>1169</fpage>
+          <pub-id pub-id-type="pmid">18007383</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01179">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kirkland</surname>
+              <given-names>J. J.</given-names>
+            </name>
+          </person-group>
+          <source>Anal. Chem.</source>
+          <year>1960</year>
+          <volume>32</volume>
+          <fpage>1388</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01179">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noller</surname>
+              <given-names>C. R.</given-names>
+            </name>
+            <name>
+              <surname>Hearst</surname>
+              <given-names>P. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1948</year>
+          <volume>70</volume>
+          <fpage>3955</fpage>
+          <pub-id pub-id-type="pmid">18103003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01179">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hein</surname>
+              <given-names>D. W.</given-names>
+            </name>
+            <name>
+              <surname>Pierce</surname>
+              <given-names>E. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1954</year>
+          <volume>76</volume>
+          <fpage>2725</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01179">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barber</surname>
+              <given-names>H. J.</given-names>
+            </name>
+            <name>
+              <surname>Smiles</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc.</source>
+          <year>1928</year>
+          <fpage>1141</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01179">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ng</surname>
+              <given-names>L.-K.</given-names>
+            </name>
+            <name>
+              <surname>Hupe'</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chromatogr.</source>
+          <year>1990</year>
+          <volume>51</volume>
+          <fpage>361</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01179">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stokke</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Helland</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chromatogr.</source>
+          <year>1978</year>
+          <volume>146</volume>
+          <fpage>132</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01179">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Field</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Field</surname>
+              <given-names>T. M.</given-names>
+            </name>
+            <name>
+              <surname>Hawthorne</surname>
+              <given-names>S. B.</given-names>
+            </name>
+            <name>
+              <surname>Giger</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Anal. Chem.</source>
+          <year>1992</year>
+          <volume>64</volume>
+          <fpage>3161</fpage>
+          <pub-id pub-id-type="pmid">1337242</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01179">
+        <label>9.</label>
+		<note>
+		<p>a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bosshard</surname>
+              <given-names>H. H.</given-names>
+            </name>
+            <name>
+              <surname>Mory</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Schmid</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zollinger</surname>
+              <given-names>H.</given-names>
+             </name>
+          </person-group>
+          <source>Helv. Chem. Acta.</source>
+          <year>1959</year>
+          <volume>42</volume>
+          <fpage>1653</fpage>
+        </citation>; b) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carlsen</surname>
+              <given-names>P.H.J.</given-names>
+           </name>
+            <name>
+              <surname>Rist</surname>
+              <given-names>&#xD8;</given-names>
+            </name>
+            <name>
+              <surname>Lund</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Helland</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Chem. Scand.</source>
+          <year>1995</year>
+          <volume>49</volume>
+          <fpage>701</fpage>
+        </citation>.</p>
+		</note>
+      </ref>
+      <ref id="B10-molecules-10-01179">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marquez</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Ant&#xF3;n</surname>
+              <given-names>R. E.</given-names>
+            </name>
+            <name>
+              <surname>Usubillaga</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Salager</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <source>Sep. Sci. Tech.</source>
+          <year>1993</year>
+          <volume>28</volume>
+          <fpage>2387</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01179">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>R. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chromatogr. Sci.</source>
+          <year>1982</year>
+          <volume>20</volume>
+          <fpage>560</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01179">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhou</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Pietrzyk</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <source>Anal. Chem.</source>
+          <year>1992</year>
+          <volume>64</volume>
+          <fpage>1003</fpage>
+          <pub-id pub-id-type="pmid">1590583</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01179">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chiu</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Anal. Chem.</source>
+          <year>1980</year>
+          <volume>53</volume>
+          <fpage>1157</fpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01179">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lienado</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Neubecker</surname>
+              <given-names>T. A.</given-names>
+            </name>
+          </person-group>
+          <source>Anal. Chem.</source>
+          <year>1983</year>
+          <volume>55</volume>
+          <fpage>933</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01179">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Denkert</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hackzell</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Schill</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sj&#xF6;gren</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chromatogr.</source>
+          <year>1981</year>
+          <volume>218</volume>
+          <fpage>31</fpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01179">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shamsi</surname>
+              <given-names>S. A.</given-names>
+            </name>
+            <name>
+              <surname>Danielson</surname>
+              <given-names>N. D.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chromatogr. Sci.</source>
+          <year>1995</year>
+          <volume>33</volume>
+          <fpage>505</fpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-01179">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eppert</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Liebscher</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chromatogr. Sci.</source>
+          <year>1991</year>
+          <volume>29</volume>
+          <fpage>21</fpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01179">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eppert</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Liebscher</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chromatogr.</source>
+          <year>1986</year>
+          <volume>356</volume>
+          <fpage>372</fpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01179">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liebscher</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Eppert</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Oberender</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Berthold</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hauthal</surname>
+              <given-names>H. G.</given-names>
+            </name>
+          </person-group>
+          <source>Tenside Surf. Det.</source>
+          <year>1989</year>
+          <volume>26</volume>
+          <fpage>195</fpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-01179">
+        <label>20.</label>
+		<note>
+		<p>a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shamsi</surname>
+              <given-names>S. A.</given-names>
+            </name>
+            <name>
+              <surname>Danielson</surname>
+              <given-names>N. D.</given-names>
+            </name>
+          </person-group>
+		  <source>J. Chromatogr. Sci.</source>
+          <year>1995</year>
+          <volume>33</volume>
+          <fpage>505</fpage>
+          </citation>; b) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maki</surname>
+              <given-names>A. S.</given-names>
+            </name>
+            <name>
+              <surname>Wangsa</surname>
+              <given-names>J.</given-names>
+            </name>
+			<name>
+              <surname>Danielson</surname>
+              <given-names>N. D.</given-names>
+            </name>
+          </person-group>
+		  <source>Anal. Chem.</source>
+          <year>1992</year>
+          <volume>64</volume>
+          <fpage>582</fpage>
+          </citation>; c) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sachok</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Deming</surname>
+              <given-names>S. N.</given-names>
+            </name>
+			<name>
+              <surname>Bidlingmeyer</surname>
+              <given-names>B. A.</given-names>
+            </name>
+          </person-group>
+		  <source>J. Liq. Chromatogr.</source>
+          <year>1982</year>
+          <volume>5</volume>
+          <fpage>389</fpage>
+          </citation>.</p>
+		</note>
+      </ref>
+	  <ref id="B21-molecules-10-01179">
+        <label>21.</label>
+		<note>
+		<p><inline-formula>
+          <mml:math id="mm1" display="block">
+            <mml:semantics>
+			<mml:mrow>
+			<mml:mi>k</mml:mi>
+			<mml:mo>'</mml:mo>
+			<mml:mo>=</mml:mo>
+			<mml:mfrac>
+                  <mml:mrow>
+				  <mml:msubsup>
+                      <mml:mi>t</mml:mi>
+                      <mml:mi>R</mml:mi>
+					  <mml:mo>'</mml:mo>
+                    </mml:msubsup>
+					</mml:mrow>
+                  <mml:mrow>
+				  <mml:msub>
+                      <mml:mi>t</mml:mi>
+                      <mml:mi>m</mml:mi>
+                    </mml:msub>
+                  </mml:mrow>
+                </mml:mfrac>
+                <mml:mo>=</mml:mo>
+                <mml:mfrac>
+                  <mml:mrow>
+				  <mml:msub>
+                      <mml:mi>t</mml:mi>
+                      <mml:mi>R</mml:mi>
+					  </mml:msub>
+					  <mml:mo>&#x2212;</mml:mo>
+					   <mml:msub>
+                      <mml:mi>t</mml:mi>
+                      <mml:mi>m</mml:mi>
+                    </mml:msub>
+					 </mml:mrow>
+					  <mml:mrow>
+					<mml:msub>
+                      <mml:mi>t</mml:mi>
+                      <mml:mi>m</mml:mi>
+                    </mml:msub>
+                  </mml:mrow>
+                </mml:mfrac>
+			 </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula></p>
+		<p><italic>k'</italic> = capacity factor; <italic>t<sub>R</sub></italic>' = adjusted retention time;</p>
+		<p><italic>t<sub>m</sub></italic> = column dead time; <italic>t<sub>R</sub></italic> = solute retention time</p>
+		</note>
+		</ref>
+    </ref-list>
+	  <fn-group>
+      <fn>
+        <p><italic>Sample availability:</italic> Samples may be obtained by contacting the corresponding author: <email>per.carlsen@chem.ntnu.no</email></p>
+      </fn>
+    </fn-group>    
+  </back>
+</article>

@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10080893</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00893</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The 5-<italic>Endo</italic>-trig Cyclization of <sc>d</sc>-Glucose Derived &#x3B3;-Alkenylamines with Mercury (II) Salts: Synthesis of 1-Deoxy-castanospermine and its 8a-<italic>epi</italic>-Analogue<xref rid="fn1-molecules-10-00893" ref-type="fn">&#x2020;</xref></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dhavale</surname>
+            <given-names>Dilip D.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00893" ref-type="corresp">*</xref>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Jachak</surname>
+            <given-names>Santosh M.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+	  <aff id="af1-molecules-10-00893">Department of Chemistry, Garware Research Centre, University of Pune, Pune- 411 007, India. Fax (+91) 20-25691728.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00893"><label>*</label>Author to whom correspondence should be addressed; e-mail <underline><email>ddd@chem.unipune.ernet.in</email></underline>.</corresp>
+		<fn id="fn1-molecules-10-00893">
+		 <label>&#x2020;</label>
+		 <p>Dedicated to Prof. K.K. Balasubramanian on the occasion of his 65<sup>th</sup> birthday.</p>
+		 </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>8</issue>
+      <fpage>893</fpage>
+      <lpage>900</lpage>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>10</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>04</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for non commercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The intramolecular aminomercuration of &#x3B3;-alkenylamines <bold>1a</bold>, <bold>1b</bold> and <bold>4</bold> was shown to afford the 5-<italic>endo</italic>-trig cyclized product exclusively in good yield. The utility of pyrrolidine derivatives thus obtained from D-glucose derived &#x3B3;-alkenylamines <bold>1a</bold> and <bold>1b</bold> was demonstrated in the synthesis of 1-deoxycastanospermine (<bold>3a</bold>) and 1-deoxy-8a-epi-castanospermine (<bold>3b</bold>).</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Aminosugars</kwd>
+		<kwd>aminomercuration</kwd>
+		<kwd>alkaloids</kwd>
+		<kwd>enzyme inhibitors</kwd>
+		<kwd>nitrones</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The pyrrolidine ring skeleton constitutes an important molecular backbone for a number of heterocyclic compounds. Among the strategies available for the synthesis of pyrrolidine ring skeletons one of the most attractive is the stereoselective intramolecular amido- and/or  amino-mercuration reaction of &#x3B4;&#x2212;alkenylamines [<xref ref-type="bibr" rid="B1-molecules-10-00893">1</xref>]. The reaction affords 2-substituted pyrrolidine rings through preferred 5-<italic>exo</italic>-trig cyclization, in addition to the 6-<italic>endo</italic>-trig cyclized piperidine ring skeleton in minor amounts [<xref ref-type="bibr" rid="B2-molecules-10-00893">2</xref>]. In case of &#x3B3;-alkenylamines, however, only a single report is known on the mercury (II) mediated 5-<italic>endo</italic>-trig cyclization, leading to the formation of pyrrolidine ring, while the 4-<italic>exo</italic>-trig product is not obtained due to the ring strain involved in the four membered ring system [<xref ref-type="bibr" rid="B1-molecules-10-00893">1</xref>d, <xref ref-type="bibr" rid="B3-molecules-10-00893">3</xref>]. Recently, we have reported the utility of D-glucose derived &#x3B3;-alkenylamine <bold>1</bold> for the synthesis of the polyhydroxylated quinolizidine homocastanospermine alkaloids [<xref ref-type="bibr" rid="B4-molecules-10-00893">4</xref>].</p>
+      <fig id="molecules-10-00893-f001" position="float">
+          <label>Figure 1</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00893-g001.tif"/>
+        </fig>
+      <p>This class of compounds, in particular the polyhydroxylated indolizidine alkaloid castanospermine (<bold>2</bold>), has attracted considerable attention because of their promising glycosidase inhibitory activity. In the pursuit of structure-activity relationships a number of natural and unnatural derivatives of castanospermine [<xref ref-type="bibr" rid="B5-molecules-10-00893">5</xref>] have been synthesized and evaluated for glycosidase inhibition in the treatment of various diseases such as diabetes [<xref ref-type="bibr" rid="B6-molecules-10-00893">6</xref>], cancer [<xref ref-type="bibr" rid="B7-molecules-10-00893">7</xref>], and viral infections, including AIDS [<xref ref-type="bibr" rid="B8-molecules-10-00893">8</xref>]. As a part of our continuing interest in the synthesis of azasugars [<xref ref-type="bibr" rid="B9-molecules-10-00893">9</xref>], we thought of utilizing the intramolecular aminomercuration strategy, in a 5-<italic>endo</italic>-trig fashion, with the D-glucose derived &#x3B3;-alkenylamine <bold>1</bold> for the construction of a pyrrolidine ring skeleton that could be elaborated to 1-deoxy castanospermine (<bold>3a</bold>) and its 8a-<italic>epi</italic> analogue <bold>3b</bold> (<xref ref-type="fig" rid="molecules-10-00893-f001">Figure 1</xref>) [<xref ref-type="bibr" rid="B10-molecules-10-00893">10</xref>]. Our results with the successful mercury (II) mediated 5-<italic>endo</italic>-trig cyclization of &#x3B3;-alkenylamines towards the pyrrolidine ring skeleton are discussed.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>In order to know whether the differentially substituted &#x3B3;-alkenylamines obey the usual Baldwin&#x2019;s ring closure rule or not [<xref ref-type="bibr" rid="B10-molecules-10-00893">10</xref>], we have investigated the model reaction with &#x3B1;-phenyl-substituted-&#x3B3;-alkenylamine <bold>4</bold>. The required compound <bold>4</bold> was obtained by 1,3-addition of allylmagnesium bromide to the benzaldehyde-derived nitrone <bold>5</bold> [<xref ref-type="bibr" rid="B11-molecules-10-00893">11</xref>], followed by reductive cleavage of the <italic>N</italic>&#x2212;<italic>O</italic> bond with zinc-acetic acid (<xref ref-type="scheme" rid="molecules-10-00893-f002">Scheme 1</xref>) [<xref ref-type="bibr" rid="B4-molecules-10-00893">4</xref>]. The reaction of &#x3B3;-alkenylamine <bold>4</bold> with mercury (II) acetate in (1:1) THF-water at 25 &#xB0;C for 18 h, followed by reductive demercuration with sodium borohydride afforded the 5-<italic>endo</italic>-trig product <bold>6</bold> exclusively in 81% yield.</p>
+      <fig id="molecules-10-00893-f002" position="float">
+          <label>Scheme 1</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00893-g002.tif"/>
+        </fig>
+      <p>With the success in 5-<italic>endo</italic>-trig aminomercuration of &#x3B3;-alkenylamine <bold>4</bold> in hand, we have exploited the same strategy with the D-glucose derived &#x3B3;-alkenylamine <bold>1</bold>. As reported earlier, the reaction of D-glucose nitrone <bold>7</bold> with allylmagnesium bromide in the presence of TMSOTf (1 equiv) at &#x2013;78 &#xB0;C in dry THF, afforded a diastereomeric mixture of D-<italic>gluco</italic>- and L-<italic>ido</italic>- configurated <italic>N</italic>-benzylhydroxylamines <bold>8a</bold> and <bold>8b</bold> in the ratio of 86:14 (<xref ref-type="scheme" rid="molecules-10-00893-f003">Scheme 2</xref>). The treatment of <bold>8a</bold> and <bold>8b</bold>, individually, with zinc-acetic acid afforded the D-<italic>gluco</italic>-&#x3B3;-alkenylamine <bold>1a</bold> and L-<italic>ido</italic>-&#x3B3;-alkenylamine <bold>1b</bold> in good yield [<xref ref-type="bibr" rid="B4-molecules-10-00893">4</xref>]. In the next step, the aminomercuration of <bold>1a</bold> with mercury (II) acetate in THF-water (1:1) at room temperature for 18 h, followed by reductive demercuration with sodium borohydride afforded exclusively the 5-<italic>endo</italic>-trig cyclized product <bold>9a</bold> in 78% yield. Similarly, the aminomercuration of <bold>1b</bold> afforded the pyrrolidine derivative <bold>9b</bold> in 76% yield. The spectroscopic and analytical data obtained for <bold>9a</bold> and <bold>9b</bold> were in agreement with the assigned structures.</p>
+      <fig id="molecules-10-00893-f003" position="float">
+          <label>Scheme 2</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00893-g003.tif"/>
+        </fig>
+      <p>In the subsequent step, removal of <italic>N</italic>&#x2212; and <italic>O</italic>&#x2212;benzyl groups in <bold>9a</bold> by hydrogenation using 10% Pd-C, followed by selective <italic>N</italic>&#x2212;protection with benzyl chloroformate afforded <bold>10a</bold> in 74% yield [<xref ref-type="bibr" rid="B12-molecules-10-00893">12</xref>]. Deprotection of the 1,2-acetonide group in <bold>10a</bold> with TFA-water, followed by hydrogenation afforded 1-deoxy-castanospermine (<bold>3a</bold>). The reaction sequence was repeated for L-<italic>ido</italic>-configurated-pyrrolidine derivative <bold>9b</bold> and the corresponding C5-epimeric compound <bold>10b</bold> was obtained in good yield. Deprotection of the 1,2-acetonide group of <bold>10b</bold> with TFA-water, followed by hydrogenation afforded 1-deoxy-8a-<italic>epi</italic>-castanospermine (<bold>3b</bold>). The physical and the analytical data as well as  the  optical rotation for <bold>3a</bold> and <bold>3b</bold> were found to be consistent with those reported in the literature [<xref ref-type="bibr" rid="B9-molecules-10-00893">9</xref>f].</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have demonstrated that the intramolecular aminomercuration of &#x3B3;-alkenylamines, derived from aromatic as well as from sugar substrates, results in exclusive 5-<italic>endo</italic>-trig cyclisation leading to pyrrolidine ring skeletons. The utility of 5-<italic>endo</italic>-trig cyclized pyrrolidine derivatives <bold>9a</bold> and <bold>9b</bold> was demonstrated in the synthesis of 1-deoxy-castanospermine analogues <bold>3a</bold> and <bold>3b</bold>, respectively.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Melting points were recorded with a Thomas-Hoover melting point apparatus and are uncorrected. IR spectra were recorded with a FTIR-8400, Shimadzu spectrophotometer as a thin film or in nujol mulls and are expressed in cm<sup>&#x2212;1</sup>. <sup>1</sup>H-NMR (300 MHz) and <sup>13</sup>C-NMR (75 MHz) Mercury YH 300, Varian, spectra were recorded in CDCl<sub>3</sub> as a solvent unless otherwise noted. NMR Chemical shifts are reported in &#x3B4; ppm) downfield from TMS. Elemental analyses were carried out with Hosli elemental analyzer. Optical rotations were measured with JASCO DIP 181 polarimeter using sodium light (D line 589.3 nm) at 25 &#xB0;C. TLC was performed on pre-coated plates (0.25 mm, silica gel 60 F<sub>254</sub>). Column chromatography was carried out with 100-200-mesh silica gel. The reactions were carried out in oven-dried glassware under dry N<sub>2</sub>. Allylmagnesium bromide was prepared prior to use from Mg and allyl bromide in dry ether. <italic>N</italic>-Benzylhydroxylamine hydrochloride, Cbz-Cl, and mercury acetate was purchased from Aldrich and/or Fluka. Methanol (MeOH), diethyl ether (Et<sub>2</sub>O), dichloromethane (CH<sub>2</sub>Cl<sub>2</sub>) and THF were purified and dried before use. Petroleum ether (PE) refers to a distillation fraction collected between 40-60 &#xB0;C. After work up, organic layers were washed with water and brine, dried over anhydrous sodium sulfate and evaporated under reduced pressure.</p>
+      </sec>
+      <sec id="sec1-molecules-10-00893">
+        <title>Preparation of N-benzyl-N-(1-phenylbut-3-enyl)amine (<bold>4</bold>).</title>
+        <p>Allylmagnesium bromide (1M in Et<sub>2</sub>O, 1.4 mL, 6.52 mmol) was added  dropwise  to  a  stirred solution of nitrone <bold>5</bold> (0.725 g, 3.43 mmol) in THF at 0 &#xB0;C. The mixture was stirred at 0 &#xB0;C for 2h, then quenched with a saturated solution of NH<sub>4</sub>Cl (5 mL) and filtered. The filtrate was concentrated and the residue was dissolved in Et<sub>2</sub>O (30 mL). The ethereal layer was washed with brine, dried with sodium sulphate and evaporated to give oil, which was used directly in the next step. Zinc dust (0.257 g, 4.50 mmol) was added to a solution of copper (II) acetate (0.015 g) in glacial acetic acid (1 mL) under nitrogen and the mixture was stirred at room temperature for 15 min until the color disappeared. The crude oil (0.30 g, 0.75 mmol) in glacial acetic acid (0.7 mL) and water (0.3 mL) was added, the reaction mixture was heated at 70 &#xB0;C for 1h and then cooled to room temperature. The sodium salt of EDTA (0.1 g) was added and the mixture was stirred for 10 min and then made alkaline to pH 10 by addition of 3N NaOH. The resulting solution was extracted with CHCl<sub>3</sub> (10 mL x 3) the combined organic layer was washed with brine dried over Na<sub>2</sub>SO<sub>4</sub>  and evaporated to give oil. Purification by column chromatography gave <bold>4</bold> (0.21 g, 70%) as a thick liquid; <italic>R</italic><italic>f</italic> = 0.51 (EtOAc/hexane = 3:7); IR &#x3BD;<sub>max</sub> (neat) = 3475, 1634 cm<sup>&#x2212;1</sup>; <sup>1</sup>H-NMR: &#x3B4; 1.66-1.82 (1H, bs, exchanges with D<sub>2</sub>O), 2.32-2.51 (2H, m, H-8), 3.53 (1H, d, <italic>J</italic> = 13.2 Hz, N-CH<sub>2</sub>Ph), 3.62-3.76 (2H, m, H-7, N-CH<sub>2</sub>Ph), 4.98-5.12 (2H, m, H-9), 5.62-5.79 (1H, m, H-10), 7.18-7.42 (10H, m, Ar-H); <sup>13</sup>C-NMR: &#x3B4; 42.6, 51.1,61.5, 117.7, 126.9, 127.2, 127.3, 128.3, 128.4, 134.9; Anal. Calcd. for C<sub>17</sub>H<sub>19</sub>N: C, 86.03; H, 8.07; Found C, 86.23; H, 8.19.</p>
+      </sec>
+      <sec id="sec2-molecules-10-00893">
+        <title>Preparation of N-benzyl-2-phenyl pyrrolidine (<bold>6</bold>).</title>
+        <p>Compound <bold>4</bold> (0.200 g, 0.84 mmol) in THF (5 mL) was added to a stirred solution of mercury acetate (0.538 g, 1.68 mmol) in THF-water (1:1, 15 mL). The reaction mixture was stirred at rt for 18 h, quenched by sodium borohydride (0.124 g, 3.36 mmol) and then extracted into CHCl<sub>3</sub> (10 mL x 3). The CHCl<sub>3</sub> layer was dried and evaporated to afford a thick liquid that was purified by column chromatography  to  afford  <bold>6</bold> (0.164  g,  81%)  as  a  thick  liquid; <italic>R</italic><italic>f</italic> =  0.55  (EtOAc/Hexane  =  3:7); <sup>1</sup>H-NMR: &#x3B4; 1.70-1.98 (3H, m, H-8, H-9), 2.16-2.30 (2H, m, H-9, H-10), 3.06 (1H, d, <italic>J</italic> = 12.9 Hz, N-CH<sub>2</sub>Ph), 3.08-3.18 (1H, m, H-10), 3.97 (1H, t, <italic>J</italic> = 8.1 Hz, H-7), 3.88 (1H, d, <italic>J</italic> = 12.9 Hz, N-CH<sub>2</sub>Ph), 7.19-7.59 (10H, m, Ar-H); <sup>13</sup>C-NMR: &#x3B4; 22.4, 35.3, 53.3, 58.1, 69.6, 126.6, 126.7, 126.8, 127.1, 127.4, 127.6, 127.9, 128.1, 128.3, 128.5, 139.5, 143.6; Anal. Calcd. for C<sub>17</sub>H<sub>19</sub>N: C, 86.03; H, 8.07; Found C, 86.31; H, 8.29.</p>
+      </sec>
+      <sec>
+        <title>Preparation of 5,6,7,8-tetradeoxy-5,8-(N-benzylimino)-1,2-O-isopropylidene-&#x3B1;-D&#x2013;gluco-oct-1,4- furanose (<bold>9a</bold>).</title>
+        <p>To a stirred solution of mercury acetate (0.827 g, 2.59 mmol) in THF-water (1:1, 10 mL) was added compound <bold>1a</bold> (0.530 g, 1.29 mmol) in THF (5 mL). The reaction mixture was stirred at rt for 18 h, quenched by sodium borohydride (0.196 g, 5.18 mmol) and then extracted into CHCl<sub>3</sub> (10mL x 3). The CHCl<sub>3</sub> layer was dried and evaporated to afford a thick liquid that was purified by column chromatography to afford <bold>9a</bold> (0.278 g, 78%) as a thick liquid; <italic>R</italic><italic>f</italic> = 0.43 (EtOAc/hexane = 3:7); [&#x3B1;]<sub>D</sub> = &#x2212;72.8 (1.0 c, CHCl<sub>3</sub>); IR &#x3BD;<sub>max</sub> (neat) = 2927, 1604 cm<sup>&#x2212;1</sup>; <sup>1</sup>H-NMR: &#x3B4; 1.32 (3H, s, &#x2212;CH<sub>3</sub>), 1.51 (3H, s, -CH<sub>3</sub>), 1.68-1.79 (2H, m), 1.90-2.01 (2H, m), 2.20-2.319 (1H, m), 2.85-2.89 (1H, m), 3.24 (1H, dt, <italic>J</italic> = 8.1, 4.2 Hz), 3.44 (1H, d, <italic>J</italic> = 13.2 Hz), 3.99-4.10 (3H, m), 4.40 (1H, d, <italic>J</italic> = 12.0 Hz), 4.62 (1H, d, <italic>J</italic> = 12.0 Hz), 4.63 (1H, d, <italic>J</italic> = 3.9 Hz), 5.89 (1H, d, <italic>J</italic> = 3.9 Hz), 7.18-7.38 (10H, m); <sup>13</sup>C-NMR: &#x3B4; 24.1, 26.3, 26.5, 28.6, 54.5, 60.1, 61.1, 71.2, 81.6, 82.1, 83.1, 104.5, 111.2, 126.5, 127.3, 127.6, 128.0, 128.2, 128.3, 137.2; Anal. Calcd. for C<sub>25</sub>H<sub>31</sub>NO<sub>4</sub>: C, 73.32; H, 7.63 Found C, 73.11; H, 7.45.</p>
+      </sec>
+      <sec>
+        <title>Preparation  of  5,6,7,8-tetradeoxy-5,8-(N-benzylimino)-1,2-O-isopropylidene-&#x3B2;-L-ido-oct-1,4  furanose (<bold>9b</bold>).</title>
+        <p>The reaction of <bold>1b</bold> (0.255 g, 0.62 mmol) with mercury acetate (0.397 g, 1.24 mmol) and sodium borohydride (0.092 g, 2.49 mmol) under the same reaction conditions reported for <bold>9a</bold>, gave <bold>9b</bold> (0.168 g, 72%) as a thick liquid; <italic>R</italic><italic>f </italic> = 0.40 (EtOAc/hexane = 3:7); [&#x3B1;]<sub>D</sub> = &#x2212;61.3 (<italic>c</italic> 0.7, CHCl<sub>3</sub>); IR &#x3BD;<sub>max</sub> (neat) = 2927, 1604 cm<sup>&#x2212;1</sup>; <sup>1</sup>H-NMR: &#x3B4; 1.36 (3H, s), 1.54 (3H, s), 1.59-1.79 (3H, m), 1.80-1.93 (1H, m), 2.18- 2.27 (1H, m), 2.88-3.02 (2H, m), 3.32 (1H, d, <italic>J</italic> = 13 Hz), 3.88 (1H, d, <italic>J</italic> = 2.5 Hz), 4.23 (1H, bd, <italic>J</italic> = 7.0 Hz), 4.46 (1H, d, <italic>J</italic> = 11.5 Hz), 4.54 (2H, m), 4.68 (1H, d, <italic>J</italic> = 11.5 Hz), 6.01 (1H, d, <italic>J</italic> = 4.0 Hz), 7.20-7.39 (10H, m).</p>
+      </sec>
+      <sec>
+        <title>Preparation of 5,6,7,8-tetradeoxy-5,8-(N-benzoxycarbonylimino)-1,2-O-isopropylidene-&#x3B1;-D-gluco-oct-1,4-furanose (<bold>10a</bold>).</title>
+        <p>10% Pd-C (0.100 g) was added to a solution of compound <bold>9a</bold> (0.278 g, 0.67 mmol) in MeOH (5 mL) and the solution was hydrogenated at 80 psi for 16 h. The catalyst was filtered and washed with methanol and the filtrate concentrated to give a sticky solid that was dissolved in EtOH/H<sub>2</sub>O (2 mL, 1:1) and sodium bicarbonate (0.17 g, 1.97 mmol) and then benzyloxycarbonyl chloride (0.10 g, 0.59 mmol) was added at 0 &#xB0;C. The mixture was stirred at 25 &#xB0;C for 2 h. Usual workup followed by extraction with CHCl<sub>3</sub> (5 mL x 3) afford a thick liquid that was purified by column chromatography (PE/EtOAc = 92:8) to give <bold>10a</bold> (0.13 g, 74%) as a thick liquid; <italic>R</italic><italic>f</italic> = 5.5 (hexane/EtOAc = 6:4); [&#x3B1;]<sub>D</sub> = +29.00 (<italic>c</italic> 0.56, CHCl<sub>3</sub>) [reported +28.30 (c, 1.1, CHCl<sub>3</sub>)]; IR &#x3BD;<sub>max</sub> (neat) = 3366, 1675 cm<sup>&#x2212;1</sup>; <sup>1</sup>H-NMR: &#x3B4; 1.31 (3H, s, CH<sub>3</sub>), 1.49 (3H, s, CH<sub>3</sub>), 1.84-2.05 (3H, m), 2.09-2.15 (1H, m), 3.38-3.45 (2H, m), 3.80 (1H, dd, <italic>J</italic> = 10.2, 1.8 Hz), 4.02 (1H, d, <italic>J</italic> = 1.8 Hz), 4.14 (1H, dd, <italic>J</italic> = 10.2, 6.2 Hz), 5.26 (1H, bs, exchanges with D<sub>2</sub>O), 4.59 (1H, d, <italic>J</italic> = 3.7 Hz), 5.14 (2H, ABq, <italic>J</italic> = 12.5 Hz), 5.90 (1H, d, <italic>J</italic> = 3.7Hz), 7.26-7.38 (5H, m); <sup>13</sup>C-NMR: &#x3B4; 23.0, 26.1, 27.1, 28.2, 48.8, 59.9, 68.1, 73.9, 81.0, 85.0, 105.2, 112.3, 128.0, 128.4, 129.1, 136.0, 157.1; Anal. Calcd. for C<sub>19</sub>H<sub>25</sub>NO<sub>6</sub>: C, 62.79; H, 6.93. Found: C, 62.68; H, 6.81.</p>
+      </sec>
+      <sec>
+        <title>Preparation of 5,6,7,8-Tetradeoxy-5,8-(N-benzoxycarbonylimino)-1,2-O-isopropylidene-&#x3B2;-L-ido-oct-1,4-furanose (<bold>10b</bold>).</title>
+        <p>The reaction of <bold>9b</bold> (0.20 g, 0.82 mmol) with 10% Pd-C (0.06 g, 4.1 mmol) in methanol followed by reaction with benzyloxycarbonyl chloride (0.16 g, 0.94  mmol) under the  same reaction conditions reported for <bold>10a</bold> gave <bold>10b</bold> (0.22 g, 74%) as a thick liquid; <italic>R</italic><italic>f </italic> = 0.42 (hexane/EtOAc = 6:4); [&#x3B1;]<sub>D</sub>  = &#x2212;72.27 (<italic>c</italic> 0.44, CHCl<sub>3</sub>); IR &#x3BD;<sub>max</sub> (neat) = 3390, 1693 cm<sup>&#x2212;1</sup>; <sup>1</sup>H-NMR: &#x3B4; 1.30 (3H, s), 1.48 (3H, s), 1.82-1.94 (2H, m), 1.96-2.20 (2H, m), 3.42-3.58 (2H, m), 4.0 (1H, t, <italic>J</italic> = 3.0 Hz), 4.13 (1H, d, <italic>J</italic> = 2.9 Hz), 4.26-4.34 (1H, m), 4.48 (1H, d, <italic>J</italic> = 3.6 Hz), 5.13 (2H, ABq, <italic>J</italic> = 12.3 Hz), 5.87 (1H, d, <italic>J</italic> = 3.6 Hz), 7.24-7.42 (5H, m); <sup>13</sup>C-NMR: &#x3B4; 23.6, 26.1, 26.7, 29.7, 47.2, 55.5, 67.5, 75.7, 84.0, 85.0, 104.5, 111.2, 127.8, 128.0, 128.4, 136.3, 158.7; Anal. Calcd. for C<sub>19</sub>H<sub>25</sub>NO<sub>6</sub>: C, 62.79; H, 6.93. Found: C, 62.80; H, 6.79.</p>
+      </sec>
+      <sec>
+        <title>Preparation of (6S,7R,8R,8aR)-6,7,8-Trihydroxy-indolizidine (<bold>3a</bold>).</title>
+        <p>A solution of <bold>10a</bold> (0.10 g, 0.28 mmol) in 3:2 TFA/H<sub>2</sub>O (2 mL) was stirred at 25 &#xB0;C for 2 h. The TFA was co-evaporated with benzene to furnish a thick liquid, which was directly used in the next reaction. To a solution of the product in MeOH (5 mL) was added 10% Pd/C (0.01 g), and the solution was hydrogenated at 80 psi for 16 h. The catalyst was filtered and washed with methanol and the filtrate concentrated to give a sticky solid which was purified by  column  chromatography (CHCl<sub>3</sub>/MeOH = 9:1) to give <bold>3a</bold> (0.04 g, 90%) as a white solid; mp 176-178 &#xB0;C (reported [<xref ref-type="bibr" rid="B3-molecules-10-00893">3</xref>f] 178-181 &#xB0;C); <italic>R</italic><italic>f</italic> = 0.45 (CHCl<sub>3</sub>/MeOH = 9/1); [&#x3B1;]<sub>D</sub> = +50.10 (<italic>c</italic> 0.7, MeOH) [reported +50.6 (<italic>c</italic> 0.2, MeOH)]; IR (KBr pellet) = 3380, 3270 cm<sup>&#x2212;1</sup> (broad band); <sup>1</sup>H-NMR (pyridine-d<sub>5</sub> + D<sub>2</sub>O) &#x3B4; 1.39-1.58 (1H, m), 1.64-1.82 (2H, m), 1.93-2.06 (1H, m), 2.10-2.24 (2H, m), 2.30 (1H, t, <italic>J</italic> = 10.5 Hz), 2.94 (1H, dt, <italic>J</italic> = 8.6, 2.0 Hz), 3.43 (1H, dd, <italic>J</italic> = 5.2, 10.5 Hz), 3.86 (1H, t, <italic>J</italic> = 8.6 Hz), 3.91 (1H, t, <italic>J</italic> = 8.6 Hz), 4.33 (1H, ddd, <italic>J</italic> = 10.5, 8.6, 5.2 Hz); <sup>13</sup>C-NMR (pyridine-d<sub>5</sub>) &#x3B4; 21.9, 28.6, 53.2, 56.9, 68.3, 71.5, 75.9, 80.9; Anal. Calcd. for C<sub>8</sub>H<sub>15</sub>NO<sub>3</sub>: C, 55.47; H, 8.73. Found: C, 55.77; H, 8.98.</p>
+      </sec>
+      <sec>
+        <title>Preparation of (6S,7R,8R,8aS)-6,7,8-Trihydroxy-indolizidine (<bold>3b</bold>).</title>
+        <p>The reaction of <bold>10b</bold> (0.16 g, 0.44 mmol) with TFA/H<sub>2</sub>O (2 mL, 3:2) under the same conditions reported for <bold>3a</bold> gave the corresponding hemiacetal as a thick liquid, which on hydrogenation with 10% Pd/C (0.02 g) in methanol gave <bold>3b</bold> as a semisolid. Column chromatography using 8:2 CHCl<sub>3</sub>/MeOH as an eluent gave (0.065 g, 87%) as a semisolid; <italic>R</italic><italic>f</italic> = 0.2 (CHCl<sub>3</sub>/MeOH = 1/1); [&#x3B1;]<sub>D</sub> = +23.0 (<italic>c</italic> 0.72, MeOH) [reported [<xref ref-type="bibr" rid="B3-molecules-10-00893">3</xref>f] +22.5 (<italic>c</italic> 1.13, MeOH)]; IR (KBr pellet) = 3360-3250 (broad band) cm<sup>&#x2212;1</sup>; <sup>1</sup>H-NMR (pyridine-d<sub>5</sub> + D<sub>2</sub>O) &#x3B4; 1.72-2.00 (3H, m), 2.22-2.40 (1H, m), 2.84-3.00 (1H, m), 3.44 (1H, bd, <italic>J</italic> = 12.3 Hz), 3.49-3.67 (2H, m), 3.69 (1H, bd, <italic>J</italic> = 12.3 Hz), 4.42 (2H, bs), 4.55 (1H, bs); <sup>13</sup>C-NMR (pyridine-d<sub>5</sub>) &#x3B4; 21.1, 24.5, 54.7, 55.5, 64.6, 70.5, 70.7, 70.9; Anal. Calcd for C<sub>8</sub>H<sub>15</sub>NO<sub>3</sub>: C, 55.47; H, 8.73. Found: C, 55.80; H, 9.02.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We are thankful to CSIR, New Delhi for the SRF to SMJ. We are grateful to UGC, New Delhi for the financial support to procure the high field NMR (300 MHz) facility.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00893">
+        <label>1.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gasc</surname>
+              <given-names>M. B.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2002</year>
+          <volume>58</volume>
+          <fpage>705</fpage>
+		  <lpage>711</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cardillo</surname>
+              <given-names>G.</given-names>
+            </name>
+			<name>
+              <surname>Orena</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2002</year>
+          <volume>58</volume>
+          <fpage>3386</fpage>
+		  <lpage>3395</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gasc</surname>
+              <given-names>M. B.</given-names>
+            </name>
+			<name>
+              <surname>Lattes</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Perie</surname>
+              <given-names>J. J.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1983</year>
+          <volume>39</volume>
+          <fpage>703</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perrie</surname>
+              <given-names>J. J.</given-names>
+            </name>
+			<name>
+              <surname>Laval</surname>
+              <given-names>J. P.</given-names>
+            </name>
+			<name>
+              <surname>Roussel</surname>
+              <given-names>J.</given-names>
+            </name>
+			<name>
+              <surname>Lattes</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1971</year>
+          <volume>28</volume>
+          <fpage>675</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00893">
+        <label>2.</label>
+		<citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tokuda</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Yasufumi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Suginome</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Lett.</source>
+          <year>1988</year>
+          <fpage>1280</fpage>
+		  <lpage>1290</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fraga</surname>
+              <given-names>A. M.</given-names>
+            </name>
+			<name>
+              <surname>Pencnha</surname>
+              <given-names>E. P.</given-names>
+            </name>
+			<name>
+              <surname>Verli</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2002</year>
+          <volume>43</volume>
+          <fpage>1607</fpage>
+		  <lpage>1611</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schumacher-W</surname>
+              <given-names>M. H. G.</given-names>
+            </name>
+			<name>
+              <surname>Peterson</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Peter</surname>
+              <given-names>M. G.</given-names>
+            </name>
+          </person-group>
+          <source>Liebigs Ann. Chem.</source>
+          <year>1994</year>
+          <fpage>555</fpage>
+		  <lpage>561</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Le Moigne</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>Tordo</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1994</year>
+          <volume>59</volume>
+          <fpage>3365</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arnone</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Bravo</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>Donadelli</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Resnati</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1993</year>
+          <fpage>984</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(f)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stipa</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>Finet</surname>
+              <given-names>J. P.</given-names>
+            </name>
+			<name>
+              <surname>Le Moigne</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>Tordo</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1993</year>
+          <volume>58</volume>
+          <fpage>4465</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(g)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chikkanna</surname>
+              <given-names>D.</given-names>
+            </name>
+			<name>
+              <surname>Han</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Synlett</source>
+          <year>2004</year>
+          <fpage>2311</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(h)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weis</surname>
+              <given-names>C. D.</given-names>
+            </name>
+			<name>
+              <surname>Newkome</surname>
+              <given-names>G. R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1990</year>
+          <volume>55</volume>
+          <fpage>5801</fpage>
+		  <lpage>5802</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00893">
+        <label>3.</label>
+        <note><p>The 5-<italic>endo</italic>-trig radical- and/or iodo-cyclization of &#x3B3;-alkenylamines are known to give pyrrolidine ring skeletons. See: <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chatgilialoglu</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Ferreri</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Guerra</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Timokhin</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Froudakis</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Gimisis</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2002</year>
+          <volume>124</volume>
+          <fpage>10765</fpage>
+          <pub-id pub-id-type="doi">10.1021/ja0261731</pub-id>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Knight</surname>
+              <given-names>D. W.</given-names>
+            </name>
+            <name>
+              <surname>Redfern</surname>
+              <given-names>A. L.</given-names>
+            </name>
+            <name>
+              <surname>Gilmore</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Perkin Trans. 1.</source>
+          <year>2001</year>
+          <fpage>2874</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>W. S.</given-names>
+            </name>
+            <name>
+              <surname>Jang</surname>
+              <given-names>K. C.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J. H.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>K. H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1999</year>
+          <fpage>251</fpage>
+        </citation>
+		</p>
+		</note>
+      </ref>
+      <ref id="B4-molecules-10-00893">
+        <label>4.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jachak</surname>
+              <given-names>S. M.</given-names>
+            </name>
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D. D.</given-names>
+            </name>
+            <name>
+              <surname>Karche</surname>
+              <given-names>N. P.</given-names>
+            </name>
+            <name>
+              <surname>Trombini</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2004</year>
+          <volume>60</volume>
+          <fpage>3009</fpage>
+		  </citation>
+		  <citation citation-type="journal">
+		  <label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jachak</surname>
+              <given-names>S. M.</given-names>
+            </name>
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D. D.</given-names>
+            </name>
+            <name>
+              <surname>Karche</surname>
+              <given-names>N. P.</given-names>
+            </name>
+            <name>
+              <surname>Trombini</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Synlett</source>
+          <year>2004</year>
+          <fpage>1549</fpage>
+		  </citation>
+      </ref>
+      <ref id="B5-molecules-10-00893">
+        <label>5.</label>
+        <citation citation-type="journal">
+		<label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burgess</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Henderson</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1992</year>
+          <volume>48</volume>
+          <fpage>4045</fpage>
+		  </citation>
+		  <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Izquierdo</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Plaza</surname>
+              <given-names>M. T.</given-names>
+            </name>
+            <name>
+              <surname>Robles</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Mota</surname>
+              <given-names>A. J.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron: Asymmetry</source>
+          <year>1998</year>
+          <volume>9</volume>
+          <fpage>1015</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jirousek</surname>
+              <given-names>M. R.</given-names>
+            </name>
+            <name>
+              <surname>Cheung</surname>
+              <given-names>A. W-H.</given-names>
+            </name>
+			<name>
+              <surname>Babine</surname>
+              <given-names>R. E.</given-names>
+            </name>
+			<name>
+              <surname>Sass</surname>
+              <given-names>P. M.</given-names>
+            </name>
+			<name>
+              <surname>Schow</surname>
+              <given-names>S. R.</given-names>
+            </name>
+			<name>
+              <surname>Wick</surname>
+              <given-names>M. M.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1993</year>
+          <volume>34</volume>
+          <fpage>3671</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marek</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Wadouachi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Uzan</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Beaupere</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nowogrocki</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Laplace</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1996</year>
+          <volume>37</volume>
+          <fpage>49</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Mootoo</surname>
+              <given-names>D. R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1996</year>
+          <volume>61</volume>
+          <fpage>6762</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(f)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maggini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Prato</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ranelli</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Scorrano</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1992</year>
+          <volume>33</volume>
+          <fpage>6537</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(g)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kang</surname>
+              <given-names>S. H.</given-names>
+            </name>
+			<name>
+              <surname>Kim</surname>
+              <given-names>J. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1998</year>
+          <fpage>1353</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(h)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kefalas</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Grierson</surname>
+              <given-names>D. S.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1993</year>
+          <volume>34</volume>
+          <fpage>3555</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(i)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ina</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kibayashi</surname>
+              <given-names>C. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1993</year>
+          <volume>58</volume>
+          <fpage>52</fpage>
+          <pub-id pub-id-type="doi">10.1021/jo00053a015</pub-id>
+        </citation>
+		<citation citation-type="journal">
+		<label>(j)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Furneaux</surname>
+              <given-names>R. H.</given-names>
+            </name>
+            <name>
+              <surname>Mason</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Tyler</surname>
+              <given-names>P. C.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett. </source>
+          <year>1994</year>
+          <volume>35</volume>
+          <fpage>3143</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(k)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Overkleeft</surname>
+              <given-names>H. S.</given-names>
+            </name>
+            <name>
+              <surname>Pandit</surname>
+              <given-names>U. K.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1996</year>
+          <volume>37</volume>
+          <fpage>547</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(l)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mulzer</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Dehmlow</surname>
+              <given-names>H. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1992</year>
+          <volume>57</volume>
+          <fpage>3194</fpage>
+          <pub-id pub-id-type="doi">10.1021/jo00037a043</pub-id>
+        </citation>
+		<citation citation-type="journal">
+		<label>(m)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burgess</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Chaplin</surname>
+              <given-names>D. A.</given-names>
+            </name>
+            <name>
+              <surname>Henderson</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>Y. T.</given-names>
+            </name>
+            <name>
+              <surname>Elbein</surname>
+              <given-names>A. D.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1992</year>
+          <volume>57</volume>
+          <fpage>1103</fpage>
+          <pub-id pub-id-type="doi">10.1021/jo00030a014</pub-id>
+        </citation>
+		<citation citation-type="journal">
+		<label>(n)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>N.-S.</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>J.-R.</given-names>
+            </name>
+            <name>
+              <surname>Cha</surname>
+              <given-names>J. K.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1993</year>
+          <volume>58</volume>
+          <fpage>7096</fpage>
+          <pub-id pub-id-type="doi">10.1021/jo00077a034</pub-id>
+        </citation>
+		<citation citation-type="journal">
+		<label>(o)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Furneaux</surname>
+              <given-names>R. H.</given-names>
+            </name>
+            <name>
+              <surname>Masson</surname>
+              <given-names>J. M.</given-names>
+            </name>
+			<name>
+              <surname>Tyler</surname>
+              <given-names>P. C.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1995</year>
+          <volume>36</volume>
+          <fpage>3055</fpage>
+          <pub-id pub-id-type="doi">10.1016/0040-4039(95)00425-C</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00893">
+        <label>6.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Truscheit</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Frommer</surname>
+              <given-names>W.</given-names>
+            </name>
+			<name>
+              <surname>Junge</surname>
+              <given-names>B.</given-names>
+            </name>
+			<name>
+              <surname>Muller</surname>
+              <given-names>L.</given-names>
+            </name>
+			<name>
+              <surname>Schmidt</surname>
+              <given-names>D. D.</given-names>
+            </name>
+			<name>
+              <surname>Wingender</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem., Int. Ed. Engl.</source>
+          <year>1981</year>
+          <volume>20</volume>
+          <fpage>744</fpage>
+          <pub-id pub-id-type="doi">10.1016/0040-4039(95)00425-C</pub-id>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Furneaux</surname>
+              <given-names>R. H.</given-names>
+            </name>
+            <name>
+              <surname>Gainsford</surname>
+              <given-names>G. J.</given-names>
+            </name>
+			<name>
+              <surname>Mason</surname>
+              <given-names>J. M.</given-names>
+            </name>
+			<name>
+              <surname>Tyler</surname>
+              <given-names>P. C.</given-names>
+            </name>
+			<name>
+              <surname>Hartley</surname>
+              <given-names>O.</given-names>
+            </name>
+			<name>
+              <surname>Winchester</surname>
+              <given-names>B. G.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1997</year>
+          <volume>57</volume>
+          <fpage>245</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00893">
+        <label>7.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Humphries</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name>
+              <surname>Matsumoto</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>S. L.</given-names>
+            </name>
+          </person-group>
+          <source>Cancer Res.</source>
+          <year>1986</year>
+          <volume>46</volume>
+          <fpage>5215</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Humphries</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name>
+              <surname>Matsumoto</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>S. L.</given-names>
+            </name>
+            <name>
+              <surname>Olden</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Cancer Res.</source>
+          <year>1986</year>
+          <volume>46</volume>
+          <fpage>5215</fpage>
+        </citation>
+		</ref>
+      <ref id="B8-molecules-10-00893">
+        <label>8.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karples</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Fleet</surname>
+              <given-names>G. W. J.</given-names>
+            </name>
+            <name>
+              <surname>Dwek</surname>
+              <given-names>R. A.</given-names>
+            </name>
+			<name>
+              <surname>Petursson</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Namgoong</surname>
+              <given-names>S. K.</given-names>
+            </name>
+			<name>
+              <surname>Ramsden</surname>
+              <given-names>N. G.</given-names>
+            </name>
+			<name>
+              <surname>Jacob</surname>
+              <given-names>G. S.</given-names>
+            </name>
+			<name>
+              <surname>Rademacher</surname>
+              <given-names>T. W.</given-names>
+            </name>
+          </person-group>
+          <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+		  <year>1998</year>
+          <volume>85</volume>
+          <fpage>9229</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Walker</surname>
+              <given-names>B. D.</given-names>
+            </name>
+            <name>
+              <surname>Kowalski</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Goh</surname>
+              <given-names>W. C.</given-names>
+            </name>
+			<name>
+              <surname>Kozarsky</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Krieger</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Rosen</surname>
+              <given-names>C.</given-names>
+            </name>
+			<name>
+              <surname>Rohrschneider</surname>
+              <given-names>L.</given-names>
+            </name>
+			<name>
+              <surname>Haseltine</surname>
+              <given-names>W. A.</given-names>
+            </name>
+			<name>
+              <surname>Sodroski</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Proc. Natl. Acad. Sci.</source>
+          <year>1987</year>
+          <volume>84</volume>
+          <fpage>8120</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sunkara</surname>
+              <given-names>P. S.</given-names>
+            </name>
+            <name>
+              <surname>Bowling</surname>
+              <given-names>T. L.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>P. S.</given-names>
+            </name>
+			<name>
+              <surname>Sjoerdsma</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Biochem. Biophys. Res. Commun.</source>
+          <year>1987</year>
+          <volume>148</volume>
+          <fpage>206</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00893">
+        <label>9.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Sindkhedkar</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Mali</surname>
+              <given-names>R.</given-names>
+            </name>
+			<name>
+              <surname>Castellari</surname>
+              <given-names>C.</given-names>
+            </name>
+			<name>
+              <surname>Trombini</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron: Asymm.</source>
+          <year>1997</year>
+          <fpage>1475</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Saha</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1997</year>
+          <volume>62</volume>
+          <fpage>7482</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Saha</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1999</year>
+          <volume>64</volume>
+          <fpage>1715</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Saha</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1999</year>
+          <fpage>1719</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saha</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2001</year>
+          <volume>57</volume>
+          <fpage>39</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(f)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D. D.</given-names>
+            </name>
+            <name>
+              <surname>Patil</surname>
+              <given-names>N. T.</given-names>
+            </name>
+            <name>
+              <surname>Tilekar</surname>
+              <given-names>J. N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>2001</year>
+          <volume>66</volume>
+          <fpage>1065</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(g)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D. D.</given-names>
+            </name>
+            <name>
+              <surname>Patil</surname>
+              <given-names>N. T.</given-names>
+            </name>
+            <name>
+              <surname>Tilekar</surname>
+              <given-names>J. N.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2001</year>
+          <volume>42</volume>
+          <fpage>747</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(h)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Patil</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>John</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sabharwal</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2002</year>
+          <volume>10</volume>
+          <fpage>2155</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(i)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Saha</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>V.</given-names>
+            </name>
+			<name>
+              <surname>Tilekar</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Arkivoc</source>
+          <year>2002</year>
+          <volume>(VII)</volume>
+          <fpage>91</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(j)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patil</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Tilekar</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jadhav</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Dhavale</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2003</year>
+          <volume>59</volume>
+          <fpage>1873</fpage>
+        </citation>
+		</ref>
+      <ref id="B10-molecules-10-00893">
+        <label>10.</label>
+         <note><p>In general, the intramolecular <italic>exo</italic>-trig nucleophilic addition reaction to a double bond, for rings smaller than five membered, is favored over the <italic>endo</italic>-trig one. See: <citation citation-type="journal">
+		 <label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>C. D.</given-names>
+            </name>
+          </person-group>
+          <source>Acc. Chem. Res.</source>
+          <year>1993</year>
+          <fpage>476</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baldwin</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>R. C.</given-names>
+            </name>
+            <name>
+              <surname>Lawrence</surname>
+              <given-names>I. K.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1997</year>
+          <volume>42</volume>
+          <fpage>3846</fpage>
+        </citation>
+		</p>
+		</note>
+      </ref>
+      <ref id="B11-molecules-10-00893">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Franco</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Junquera</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Merchan</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mercino</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Tejero</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Syn. Commun.</source>
+          <year>1994</year>
+          <fpage>2537</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00893">
+        <label>12.</label>
+        <note><p>The observed rotation value of <bold>10a</bold> was consistent with the reported value. The <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were also found to be in good agreement with the structure [<xref ref-type="bibr" rid="B9-molecules-10-00893">9</xref>f].</p></note>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample availability:</italic> Contact the authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

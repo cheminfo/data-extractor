@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010081</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00081</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Fragrance Release from the Surface of Branched Poly(amide)s </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Aulenta</surname>
+            <given-names>Francesca</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00081" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Drew</surname>
+            <given-names>Michael G.B.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00081" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Foster</surname>
+            <given-names>Alison</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00081" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hayes</surname>
+            <given-names>Wayne</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00081" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00081" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rannard</surname>
+            <given-names>Steven</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00081" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Thornthwaite</surname>
+            <given-names>David W.</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00081" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Youngs</surname>
+            <given-names>Tristan G.A.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00081" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00081"><label>1</label>School of Chemistry, The University of Reading, Whiteknights, Reading, RG6 6AD, UK</aff>
+      <aff id="af2-molecules-10-00081"><label>2</label>Unilever Research and Development, Port Sunlight Laboratory, Quarry Road East, Bebington, Wirral, CH63 3JW, UK</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00081"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>w.c.hayes@reading.ac.uk</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>81</fpage>
+      <lpage>97</lpage>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>29</day>
+          <month>06</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Enzymes are powerful tools in organic synthesis that are able to catalyse a wide variety of selective chemical transformations under mild and environmentally friendly conditions. Enzymes such as the lipases have also found applications in the synthesis and degradation of polymeric materials. However, the use of these natural catalysts in the synthesis and the post-synthetic modification of dendrimers and hyperbranched molecules is an application of chemistry yet to be explored extensively. In this study the use of two hydrolytic enzymes, a lipase from <italic>Candida cylindracea</italic> and a cutinase from <italic>Fusarium solani pisii,</italic> were investigated in the selective cleavage of ester groups situated on the peripheral layer of two families of branched polyamides. These branched polyamides were conjugated to simple fragrances citronellol and <sc>l</sc>-menthol via ester linkages. Hydrolysis of the ester linkage between the fragrances and the branched polyamide support was carried out in aqueous buffered systems at slightly basic pH values under the optimum operative conditions for the enzymes used. These preliminary qualitative investigations revealed that partial cleavage of the ester functionalities from the branched polyamide support had occurred. However, the ability of the enzymes to interact with the substrates decreased considerably as the branching density, the rigidity of the structure and the bulkiness of the polyamide-fragrance conjugates increased.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Poly(amide)s</kwd>
+		<kwd>Fragrance</kwd>
+		<kwd>Hydrolysis</kwd>
+		<kwd>HPLC</kwd>
+		<kwd>MALDI-TOF Mass Spectrometry</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The majority of the enzymes operate at physiological temperatures, in neutral aqueous media, and in the absence of substrate functional group protection [<xref ref-type="bibr" rid="B1-molecules-10-00081">1</xref>]. Furthermore, in many cases enzymes display chemo-, regio- and enantioselectivity, and possess high turnover values, thereby rendering these natural catalysts very appealing, especially in the pharmaceutical and agrochemical industries [<xref ref-type="bibr" rid="B2-molecules-10-00081">2</xref>]. The use of enzymes as catalysts has also been exploited in areas such as asymmetric synthesis [<xref ref-type="bibr" rid="B3-molecules-10-00081">3</xref>]. Esterases, lipases and proteases &#x2013; all hydrolytic biocatalysts, have been employed extensively in the preparation of enantiopure compounds from racemic mixtures, prochiral and <italic>meso</italic> compounds [<xref ref-type="bibr" rid="B4-molecules-10-00081">4</xref>]. However, enzymes are also used frequently in the protection/deprotection of sugars and peptides, where selective masking of &#x3B1;-amino groups, carboxy groups and various side chains represent the most important problems in peptide chemistry [<xref ref-type="bibr" rid="B5-molecules-10-00081">5</xref>]. Lipases are a class of enzymes employed frequently in organic synthesis and catalyse the hydrolysis of esters in aqueous medium and the esterification of carboxylic acids in organic solvents [<xref ref-type="bibr" rid="B6-molecules-10-00081">6</xref>]. Numerous lipases have also been used frequently in the synthesis, transformation and biodegradation studies of polymeric materials [<xref ref-type="bibr" rid="B7-molecules-10-00081">7</xref>].</p>
+      <p>A notable example of enzyme-catalysed polymeric degradation has been described by Hayashi and co-workers. The lipase from <italic>Pseudomonas fluorescence</italic> was used in the <italic>in vitro</italic> degradation of poly(hexano-6-lactone) (PLC) fibres [<xref ref-type="bibr" rid="B8-molecules-10-00081">8</xref>]. Seebach and co-workers reported subsequently the enzyme-promoted degradation of ester moieties from a dendritic surface [<xref ref-type="bibr" rid="B9-molecules-10-00081">9</xref>] and this approach has great potential in material science and drug delivery. Indeed, the use of enzymes for the selective post-synthetic modification of hyperbranched molecules is still a branch of chemistry yet to be exploited fully.</p>
+      <p>The enzyme mediated selective hydrolysis of ester functionalities on the external layers of simple linear and branched polyamides architectures (see <bold>1</bold>-<bold>8</bold> in <xref ref-type="fig" rid="molecules-10-00081-f001">Figure 1</xref>) is described in this paper. Two different ester types were conjugated onto the surfaces of the polyamides &#x2013; either esters derived from a primary alcohol, citronellol or from a secondary alcohol, <sc>l</sc>-menthol. It was hoped that the use of different esters would lead to different hydrolytic profiles and thus provide information upon the enzyme selectivity and specificity. In order to modify selectively the outer layer of the hyperbranched molecules, it was decided to employ branched block-<italic>co</italic>polymers featuring polyamide functionalities in the interior and ester linkages on the periphery. It was then envisaged to use hydrolytic enzymes that are selective towards ester-type bonds, such as lipases and cutinases. The hydrolytic cleavage of the ester bonds was performed under the optimum operative conditions for the enzymes &#x2013; generally aqueous buffered systems at almost neutral pH and the alcohol release profiles were monitored by reverse phase high performance liquid chromatography (RP-HPLC), gas chromatography (GC) and MALDI-TOF mass spectrometry. Mass spectrometry was employed in order to identify possible degradation products and to investigate the hydrolytic processes. The nomenclature used in this report to describe the dendrons and dendrimers was first proposed by Fr&#xE9;chet [<xref ref-type="bibr" rid="B10-molecules-10-00081">10</xref>], whereby the nature and the number of peripheral functional groups are followed by the generation number (generally reported in squared brackets) and finally by the nature of functional group at the focal point or at the core. The perfume molecules resident on the outer shell of the dendrons/dendrimers are described using the abbreviations C and M for citronellol and <sc>l</sc>-menthol, respectively.</p>
+      <fig id="molecules-10-00081-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Linear and Branched Polyamides <bold>1</bold>-<bold>8</bold> Bearing Ester Functionalities on the External Surface.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00081-g001.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Synthesis</title>
+        <p>The linear and branched polyamides <bold>1</bold>-<bold>8</bold> bearing the ester functionalities on the external surfaces were synthesised in a convergent [<xref ref-type="bibr" rid="B11-molecules-10-00081">11</xref>] fashion starting from the corresponding primary or secondary alcohols, respectively [<xref ref-type="bibr" rid="B12-molecules-10-00081">12</xref>]. Succinic anhydride was ring opened under basic conditions [<xref ref-type="bibr" rid="B13-molecules-10-00081">13</xref>] using citronellol and <sc>l</sc>-menthol, leading to the production of the carboxyester derivatives <bold>9</bold> as a white solid (in 95% yield) and <bold>10</bold> as a transparent oil (in 90% yield), respectively. The ester-carboxylic acid derivatives <bold>9</bold> and <bold>10</bold> were then coupled to the &#x2018;core&#x2019; amine units such as 1,7-diaminoheptane or <italic>tris</italic>-(2-ethylamino)amine to afford the desired polyamides <bold>1</bold>-<bold>4</bold> featuring an increasing number of ester moieties (<xref ref-type="scheme" rid="molecules-10-00081-f006">Scheme 1</xref>).</p>
+        <fig id="molecules-10-00081-f006" position="float">
+          <object-id pub-id-type="pii">molecules-10-00081-scheme1_Scheme 1</object-id>
+          <label>Scheme 1</label>
+          <caption>
+            <p>Synthesis of simple and branched polyamides (<bold>1</bold>-<bold>4</bold>)</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00081-g006.tif"/>
+        </fig>
+        <p>In order to increase the number of ester groups on the core units described above, the cinnamic acid derivative 3,5-diaminocinnamic acid <bold>11</bold> [<xref ref-type="bibr" rid="B12-molecules-10-00081">12</xref>] was used as a branching moiety in the construction of the branched polyamides. The selection of the convergent approach [<xref ref-type="bibr" rid="B11-molecules-10-00081">11</xref>] to the desired branched polyamides via selective coupling between the orthogonal amino moieties of 3,5-diaminocinnamic acid <bold>11</bold> and the carboxylic acid functionalities of the <sc>l</sc>-menthol and citronellol esters <bold>9</bold> and <bold>10</bold> necessitated the use of protecting group chemistries. Therefore, the allyl derivative of 3,5-diamino-cinnamic acid <bold>12</bold> was synthesised in four steps from the commercially available 3,5-dinitrobenzoic acid <bold>13</bold> (<xref ref-type="scheme" rid="molecules-10-00081-f007">Scheme 2</xref>) in good yield.</p>
+        <fig id="molecules-10-00081-f007" position="float">
+          <object-id pub-id-type="pii">molecules-10-00081-scheme2_Scheme 2</object-id>
+          <label>Scheme 2</label>
+          <caption>
+            <p>Synthesis of 3,5-diaminocinnamic acid allyl ester (<bold>12</bold>)</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00081-g007.tif"/>
+        </fig>
+        <p>The first generation polyamide dendrons C<sub>2</sub>-[G-1]-CO<sub>2</sub>allyl (<bold>14</bold>) and M<sub>2</sub>-[G-1]-CO<sub>2</sub>allyl (<bold>15</bold>) were constructed in excellent yields (90-98%) using either 1-ethyl-3-(3&#x2019;-dimethylaminopropyl)carbodiimide hydrochloride (EDCI) and 1&#x2013;hydroxy-7-azabenzotriazole (HOAt) or benzotriazole-1-yl-oxy-tris-(dimethylamino)-phosphonium hexafluorophosphate (BOP) coupling reagents (<xref ref-type="scheme" rid="molecules-10-00081-f008">Scheme 3</xref>) [<xref ref-type="bibr" rid="B14-molecules-10-00081">14</xref>]. Cleavage of the allyl ester at the dendrons&#x2019; focal point required very mild deprotection conditions (either Pd(OAc)<sub>2</sub>, Pd(dba)<sub>2</sub>, Pd(PPh<sub>3</sub>)<sub>4</sub> in conjunction with ammonium formate) in order to prevent detrimental decomposition of the terpene ester linkages and to afford acceptable yields (64-74%) of the desired carboxylic acid derivatives <bold>16</bold> and <bold>17</bold>.</p>
+        <fig id="molecules-10-00081-f008" position="float">
+          <object-id pub-id-type="pii">molecules-10-00081-scheme3_Scheme 3</object-id>
+          <label>Scheme 3</label>
+          <caption>
+            <p>Synthesis of the first generation polyamide dendrons featuring either citronellol or <sc>l</sc>-menthol at the peripheral surface.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00081-g008.tif"/>
+        </fig>
+        <p>The dendrimers were constructed from [G-0] to [G-2] by coupling each dendron to either bifunctional or trifunctional central core units. Synthesis of the first generation dendrimers was carried out initially using EDCI/HOAt as the coupling reagent system, but the yields were very poor. Use of BOP afforded M<sub>4</sub>-[G-1]<sub>2</sub>-C (<bold>6</bold>) as a white solid in excellent yield (96%) and M<sub>6</sub>-[G-1]<sub>3</sub>-N (<bold>8</bold>) as pale yellow solids in moderate yield (48%) over a prolonged reaction time (48 hours). The BOP reagent was also used in the synthesis of C<sub>4</sub>-[G-1]<sub>2</sub>-C (<bold>5</bold>) and C<sub>6</sub>-[G-1]<sub>3</sub>-N (<bold>7</bold>). These dendrimers were obtained after purification by column chromatography as pale yellow solids in acceptable yields (98% and 28%, respectively), in agreement with the results obtained for the series of <sc>l</sc>-menthol first generation dendrimers (<xref ref-type="scheme" rid="molecules-10-00081-f009">Scheme 4</xref>).</p>
+        <fig id="molecules-10-00081-f009" position="float">
+          <object-id pub-id-type="pii">molecules-10-00081-scheme4_Scheme 4</object-id>
+          <label>Scheme 4</label>
+          <caption>
+            <p>Synthesis of the branched polyamides <bold>5</bold>-<bold>8</bold>.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00081-g009.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Hydrolysis Studies</title>
+        <p>Preliminary studies of alcohol release under enzymatic hydrolysis were conducted on the ester groups situated on the peripheral layer of the linear and branched polyamides <bold>1</bold>-<bold>8</bold> with lipase from <italic>Candida cylindracea</italic> in an aqueous solution buffered to pH 7.2 [<xref ref-type="bibr" rid="B15-molecules-10-00081">15</xref>]. The sampling was carried out over variable times (between 40 and 96 hours) and the alcohol released from the peripheral surface of the polyamides was extracted from the aqueous phases with an organic solvent (CHCl<sub>3</sub>) and its concentration monitored by RP-HPLC or GC analyses. The extracts were also analysed by MALDI-TOF mass spectrometry, from which it was possible to identify several of the major hydrolytic products. For example, when C<sub>2</sub>-[G-0]<sub>2</sub>-C (<bold>1</bold>) was subjected to the hydrolysis in the presence of the lipase an increase in the concentration of citronellol (~15%) was exhibited. However, a similar trend was also observed during the hydrolysis of <bold>1</bold> carried out without the lipase. This result may suggest that a slow hydrolytic process occurred as a consequence of the slightly basic conditions of the solution, and the enzyme did not participate in the catalysis of the process. However, the MALDI-TOF mass spectra of the samples extracted from the reaction mixtures did not reveal the presence of species that could be attributable to products of the hydrolysis. Therefore, it was not possible to confirm the occurrence of the hydrolytic process in this case.</p>
+        <p>In contrast, unambiguous results were obtained from the hydrolysis of M<sub>2</sub>-[G-0]<sub>2</sub>-C (<bold>2</bold>), where cleavage of the ester linkages was not observed. This result was not unexpected since compound <bold>2</bold> features esters that are derived from a secondary alcohol, and hence more difficult to cleave either under basic conditions or by enzymatic hydrolysis.</p>
+        <p>More interesting results were obtained from the hydrolysis studies of C<sub>3</sub>-[G-0]<sub>3</sub>-N (<bold>3</bold>). This compound was characterised by the presence of three citronellol moieties bound to the aliphatic polyamide structure <italic>via</italic> a succinate spacer. Furthermore, a tertiary amine functionality was present in the core unit of the molecule. When <bold>3</bold> was subjected to the hydrolytic conditions in the presence of lipase from <italic>Candida cylindracea</italic> progressive increase in the concentration of citronellol (~50%) was revealed by the RP-HPLC analysis. Although a certain degree of ester cleavage was also observed in the absence of enzyme (<italic>ca.</italic> 25 %), in this case a significant difference between the enzymatic hydrolysis and that performed without the enzyme was evident. MALDI-TOF mass spectrometric analysis of the samples during the hydrolysis study revealed important information about the hydrolytic process. In both reactions (the hydrolysis in the presence and absence of the enzyme) the appearance of two peaks corresponding to the loss of one molecule of citronellol (MH<sup>+</sup>=704 Da) and of two citronellol units (MH<sup>+</sup>=548 Da, or as the MK<sup>+</sup>=589 Da), was observed, which suggested formation of cyclic imides (<xref ref-type="fig" rid="molecules-10-00081-f002">Figure 2</xref>). The peak at 704 Da increased throughout the reaction, while the peak corresponding to the loss of two molecules of citronellol (592 Da) appeared at the initial stage of the hydrolytic process, but its relative intensity did not increase considerably as the hydrolysis proceeded. However, from the mass spectrometric analysis, it was not possible to obtain any correlation between peak intensities and concentration of the species present, therefore, it was only possible to suggest that the main hydrolytic pathway involved the release of a single molecule of citronellol per molecule of starting material C<sub>3</sub>-[G-0]<sub>3</sub>-N (<bold>3</bold>), and formation of a cyclic succinimide followed by subsequent release from the monoimide species. The other peaks detected in the spectra were attributed to the matrix used (4-hydroxy-&#x3B1;-cyanocinnamic acid), its aggregates and fragments, as confirmed by the spectrum obtained by the analysis of the matrix on its own recorded under identical analytical conditions. Formation of succinimides from succinates under neutral and basic conditions are well-documented in the literature [<xref ref-type="bibr" rid="B16-molecules-10-00081">16</xref>]. For example, Matsumoto <italic>et</italic> <italic>al</italic>. [<xref ref-type="bibr" rid="B17-molecules-10-00081">17</xref>] have reported recently the use of succinyl ester derivatives as an easily hydrolysable spacer for the conjugation of a new class of prodrug form of an HIV protease inhibitor. The esters of succinamic acids are known to undergo rapid hydrolysis <italic>via</italic> succinimide formation under mild alkaline conditions [<xref ref-type="bibr" rid="B18-molecules-10-00081">18</xref>].</p>
+        <fig id="molecules-10-00081-f002" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p>MALDI-TOF Mass Spectra of the hydrolysis of C<sub>3</sub>-[G-0]<sub>3</sub>-N (<bold>3</bold>) recorded at (<bold>a</bold>) time = 0 and (<bold>b</bold>) after 65 Hours.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00081-g002.tif"/>
+        </fig>
+        <p>Recently, the use of lipase from <italic>Candida cylindracea</italic> to generate amide bonds in organic solvents from the corresponding esters has been reported by Gotor and co-workers [<xref ref-type="bibr" rid="B19-molecules-10-00081">19</xref>]. Furthermore, the lipase from <italic>Pseudomonas cepacia</italic> has been employed in the enzymatic hydrazinolysis of diesters and the synthesis of <italic>N</italic>-aminosuccinimide derivatives in organic solvents [<xref ref-type="bibr" rid="B20-molecules-10-00081">20</xref>]. The principle of ring closure with consequent elimination of an alcohol as a leaving group has also been embraced for the development of controlled release of fragrance alcohols from poly(propyleneimine) dendrimers [<xref ref-type="bibr" rid="B21-molecules-10-00081">21</xref>]. In this case, fragrance release was based upon proton abstraction from a carbamoyl moiety by a basic buffer system. The intermediate nucleophile generated then underwent an intramolecular ring closure on the neighbouring ester moiety to release the desired fragrance and generate a cyclic imide by-product. The cyclisation occurred rapidly in slightly alkaline conditions and represented the driving force for the efficient release of even tertiary alcohols. In the last example, the efficiency of the cyclisation was promoted by the presence of a rigid benzene ring that held the two reactive components in close proximity with the conformation most appropriate to afford efficient imide ring closure.</p>
+        <p>In the current study, the linker used to conjugate the alcohol unit to the dendritic surface was a flexible succinate chain. Therefore, it is possible to assume that the pH-promoted cyclisation was not favoured as in the study reported by Hermann and co-workers [<xref ref-type="bibr" rid="B21-molecules-10-00081">21</xref>], and occurred at a slower rate. This explanation does not contradict the different hydrolytic profiles exhibited by C<sub>3</sub>-[G-0]<sub>3</sub>-N (<bold>3</bold>) in the presence and absence of the lipase. It is proposed that in this case (hydrolysis of <bold>3</bold> in the buffered system) the enzyme simply accelerated a process that was already occurring. It is also proposed that the presence of the tertiary amine at the core unit of the molecule participated in the de-protonation of the amide, hence promoting the cyclisation even in the absence of the enzyme. It was noticeable that the ring closing process did not occur in the case of C<sub>2</sub>-[G-0]<sub>2</sub>-C (<bold>1</bold>), which was characterised by the same succinyl ester moieties, no central tertiary amine and a longer alkyl chain as the core unit.</p>
+        <p>When the hydrolysis of M<sub>3</sub>-[G-0]<sub>3</sub>-N (<bold>4</bold>) was investigated, release of the secondary alcohol was not observed either in the presence or absence of the enzyme. This result revealed: &#x2013; i) the lack of interactions between the enzyme and the substrate, which may be a consequence of the rigidity of the structure of the alcohol moieties, and the presence of esters of a secondary alcohol and ii) the low tendency of these esters to undergo ring closing under neutral conditions, as a consequence of the poor ability of secondary alcohols to behave as leaving group under mildly basic conditions.</p>
+        <p>In order to examine the hydrolysis characteristics of molecules C<sub>3</sub>-[G-0]<sub>3</sub>-N (<bold>3</bold>) and M<sub>3</sub>-[G-0]<sub>3</sub>-N (<bold>4</bold>) further, preliminary computer modelling studies were performed on single &#x2018;arms&#x2019; of the polyamides, (<bold>3a</bold> and <bold>4a</bold>, respectively &#x2013; see <xref ref-type="fig" rid="molecules-10-00081-f003">Figure 3</xref>). Structures were built within the Cerius2 software [<xref ref-type="bibr" rid="B22-molecules-10-00081">22</xref>] and geometry optimised at the HF/6-31G(d) level using Gaussian98 [<xref ref-type="bibr" rid="B23-molecules-10-00081">23</xref>]. For each system two geometries were studied with different values of the O=C&#x2013;O&#x2013;R torsion angle &#x3C6;. The lowest-energy conformation was found with &#x3C6; = 0&#xB0; (denoted <italic>cis</italic>) while the high-energy conformer has &#x3C6; = 180&#xB0; (denoted <italic>trans</italic>). Firstly, it was noted that the energy differences between the <italic>cis</italic> and <italic>trans</italic> conformers for <bold>3a</bold> and <bold>4a</bold> were identical (8.52 kcal mol<sup>&#x2013;1</sup>). In contrast, the corresponding hydrolysis product in which either the citronellol or <sc>l</sc>-menthol components have been removed to afford the corresponding carboxylic acid, the energy difference between conformers was 6.24 kcal mol<sup>&#x2013;1</sup>. The rotational energy profile of &#x3C6; is similar for all three structures &#x2013; the alcohol leaving group does not significantly affect the energy of the different conformers of a given molecule, thus steric repulsions between the alcohols and the remainder of the molecule are small. Plots of the electron density for the <italic>cis</italic> conformers of <bold>3a</bold> and <bold>4a</bold> (<xref ref-type="fig" rid="molecules-10-00081-f003">Figure 3</xref>) reveal that there is minimal difference in the local density around the carboxy group. While the isopropyl substituent of the cyclohexane ring in <bold>4a</bold>-<italic>cis</italic> would appear to occlude the reactive carbonyl centre, the approach angle onto the C=O group will be perpendicular to the C=O vector and thus not close to the bulky ester group. Based upon this preliminary evidence, it appears that the observed lack of hydrolysis of <bold>4</bold> cannot not attributed to a predominant steric effect, and is most likely related to the poor leaving ability of the alcohol functionality. Indeed, one calculated difference between <bold>3a</bold> and <bold>4a</bold> are the partial atomic charges of the carbon atom of the COOR group, with values of &#x2013;0.38 and &#x2013;0.34 e, respectively. While this difference is only a small distinction, it is likely that the cause is the increased positive inductive effect offered by the leaving group in <bold>4a</bold> <italic>cf.</italic> that of <bold>3a</bold>, which promotes an increased negative (more positive) charge on the adjacent atoms.</p>
+         <fig id="molecules-10-00081-f003" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p>Plots of the total electron density of the <italic>cis</italic> conformers of <bold>3a</bold> and <bold>4a</bold>, drawn using the Molekel [<xref ref-type="bibr" rid="B24-molecules-10-00081">24</xref>] software.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00081-g003.tif"/>
+        </fig>
+        <p>A study of the ester cleavage from the first generation polyamide dendrimers <bold>5</bold>-<bold>8</bold> was conducted by GC analysis. Although sample preparation was carried out under similar conditions used for the branched molecules <bold>1</bold>-<bold>4</bold>, the chloroform solution resultant from the extraction of the aqueous mother liquor was injected directly into the GC column. This procedure eliminated one step in the sample preparation and decreased any potential error associated with this process. Furthermore, the analyses employed an internal standard to minimise the errors related with the sampling and injection processes. However, under the same hydrolytic conditions used in the other cases examined, release of the citronellol from C<sub>6</sub>-[G-1]<sub>3</sub>-N (<bold>7</bold>) was not observed. This result was rationalised as a consequence of two major factors: increased bulkiness of the dendritic structure which may have inhibited the access of the molecule into the enzyme active site, and also increased rigidity of the system introduced by the presence of the cinnamate moieties. Furthermore, it was speculated that the increased rigidity might also render the deprotonation process of the amide unit more difficult to achieve and consequently reduce the ability of intramolecular nucleophilic addition/elimination that was observed in the case of C<sub>3</sub>-[G-0]<sub>3</sub>-N (<bold>3</bold>) under mild basic conditions. Since the lipase from <italic>Candida cylindracia</italic> was found to catalyse the cleavage of the ester moieties only from C<sub>3</sub>-[G-0]<sub>3</sub>-N <bold>3</bold>, it was decided to investigate another enzyme which belonged to the class of hydrolytic enzymes referred to as cutinases. The enzyme used was a solid-supported cutinase from <italic>Fusarium solani pisii</italic>, used commonly in detergent products. The release profiles for the series of citronellol-based dendrimers obtained under the optimum conditions for this enzyme, were very surprising. For example, C<sub>2</sub>-[G-0]<sub>2</sub>-C <bold>1</bold> underwent cleavage of the ester moieties (~80%) within the first 40 hours of hydrolysis. However, a decrease in concentration of citronellol was observed after this period of time, thereby indicating the occurrence of possible side reactions involving the alcohol (<xref ref-type="fig" rid="molecules-10-00081-f004">Figure 4</xref>).</p>
+        <fig id="molecules-10-00081-f004" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>HPLC Traces of the Hydrolysis of <bold>1</bold> in the presence of a Cutinase, recorded at Different Times During the Reactions.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00081-g004.tif"/>
+        </fig>
+        <p>In contrast, when the hydrolysis was carried out in the absence of the enzyme, significant release of alcohol was not detected. MALDI-TOF mass spectrometry did not reveal significant information regarding the hydrolytic pathway, although a decrease in intensity of the peaks corresponding to the starting material was observed with the proceeding of the reaction. Unfortunately, citronellol was not detectable under the conditions used in the mass spectrometric analysis, and also was not observed in the spectra of standard samples. Furthermore, analysis of negative ions <italic>via</italic> MALDI-TOF MS was not conducted, therefore, possible negatively charged species resulted from the hydrolysis were not observed. From the results obtained for the hydrolysis of <bold>1,</bold> it was concluded that the hydrolysis of the ester moieties was enzyme-catalysed although it occurred without formation of the cyclic imide. The presence of the enzyme also appeared to influence much more significantly the hydrolytic process in comparison to the other enzyme tested (lipase) thus indicating more favourable interactions between the substrate and the enzyme active site. Similar behaviour was also observed in the case of the citronellol derived first generation polyamide dendrimers <bold>5</bold> and <bold>7</bold>.</p>
+        <fig id="molecules-10-00081-f005" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>GC Chromatograms of the Hydrolysis of C<sub>4</sub>-[G-1]<sub>2</sub>-C (<bold>5</bold>) in the Presence of Cutinase, Recorded after 0, 30, 44 and 72 Hours.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00081-g005.tif"/>
+        </fig>
+        <p>The analysis of the hydrolytic products was carried out using GC, in which each sample was spiked with <sc>l</sc>-menthol as the internal standard. When the hydrolysis was performed in the presence of a lipase, cleavage of the ester groups was not detected. However, improved results were obtained in the presence of the cutinase, whereas a small percentage of citronellol was released from the dendritic structures (~15-25%). The dendrimer C<sub>4</sub>-[G-1]<sub>2</sub>-C (<bold>5</bold>) exhibited release of citronellol over a period of 40 hours after which decrease in the concentration of citronellol was observed in a similar fashion as described above (<xref ref-type="fig" rid="molecules-10-00081-f005">Figure 5</xref>). Furthermore, the hydrolysis carried out in the absence of enzyme did not exhibit relevant release of citronellol, thus indicating that the ester cleavage was promoted by the enzyme rather than dictated by the reaction conditions. MALDI-TOF mass spectrometric analysis in this case also did not prove to be informative: &#x2013; the almost complete absence of the peak corresponding to the dendritic starting material was observed from the beginning of the hydrolysis. This result was attributed to the experimental procedure required for the preparation of the analytical samples. Since the enzyme was solid supported, each sample was subjected to filtration and extraction with an organic solvent prior to analysis. However, the lack of the signal corresponding to the dendritic species in the MALDI-TOF mass spectrometric analysis led to the hypothesis that the dendrimers were absorbed onto the solid support and not eluted in the organic solvent used in the extraction step. </p>
+        <p>The polyamide dendrimer C<sub>6</sub>-[G-1]<sub>3</sub>-N (<bold>7</bold>) also exhibited similar behaviour in the presence of the cutinase, although the increase in concentration of citronellol was very moderate (~15%). This moderate hydrolytic process &#x2013; as in the case of the hydrolysis carried out in the presence of a lipase &#x2013; may be attributable to the increased rigidity of the structure C<sub>6</sub>-[G-1]<sub>3</sub>-N (<bold>7</bold>) when compared with C<sub>4</sub>-[G-1]<sub>2</sub>-C (<bold>5</bold>). The dendrimer C<sub>6</sub>-[G-1]<sub>3</sub>-N (<bold>7</bold>) was characterised by a tetrafunctional core with three arms possessing only two carbon chains. In contrast, C<sub>4</sub>-[G-1]<sub>2</sub>-C (<bold>5</bold>) possessed a bifunctional core with longer alkyl chains (seven methylenic residues), which imparted a higher degree of flexibility to the structure. Furthermore, <bold>7</bold> was characterised by the presence of three rigid polyamide dendrons around the core unit, with considerable increase of the bulkiness of the molecules.</p>
+        <p>The series of dendrimers bearing <sc>l</sc>-menthol esters at the periphery were also subjected to the hydrolytic conditions in the presence of the cutinase. However, as in the case of the hydrolysis in the presence of lipase, these molecules did not exhibit any evidence of alcohol release, confirming the selectivity of these classes of hydrolases towards esters of primary alcohols.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Following the pioneering work of Seebach and co-workers [<xref ref-type="bibr" rid="B9-molecules-10-00081">9</xref>], the post-synthetic modification of dendritic surfaces was investigated by mean of two hydrolytic enzymes, a lipase and a cutinase. From the investigations carried out with the aid of analytical techniques such as RP-HPLC, GC and MALDI-TOF mass spectroscopy emerged the ability of cutinase to efficiently interact with the linear polyamides <bold>1</bold> and hence catalyse the alcohol release (up to 80% release). However, increasing the degree of branching and reducing the flexibility of the polyamides resulted in a significant reduction in the catalytic activity, probably dictated by the steric hindrance of these large branched molecules.</p>
+      <p>The lipase proved to be a less efficient catalyst for these branched substrates, since cleavage of the ester was only observed in the case of the polyamide C<sub>3</sub>-[G-0]<sub>3</sub>-N (<bold>3</bold>). However, this polyamide exhibited ester cleavage in a smaller extent also in the absence of the enzyme, <italic>via</italic> a neighbouring group participation effect, whereby the alcohol was released as a consequence of an intramolecular nucleophilic addition/elimination reaction. This process has been described in the literature [<xref ref-type="bibr" rid="B18-molecules-10-00081">18</xref>], and occurs even under mild basic conditions. In this specific case, it was suggested that the tertiary amine in the core unit of the molecule acted as a base catalysing the deprotonation of the amide and hence the formation of the cyclic imide. The enzymatic ester cleavage of <sc>l</sc>-menthol esters was unsuccessful in all of the cases examined, thus indicating the selectivity of these hydrolytic enzymes towards esters derived from primary alcohols under these conditions.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Reagents were purchased from the Aldrich Chemical Company, Acros Organics and Lancaster and were used as received without purification. Solvents were used as supplied, with the exception of the following: &#x2013; tetrahydrofuran (THF) was distilled under nitrogen from sodium and benzophenone, dichloromethane (CH<sub>2</sub>Cl<sub>2</sub>) was distilled under nitrogen from calcium hydride. Solvents of analytical and HPLC-grade were purchased from Fisher Scientific and used as received without purification. Lipase from <italic>Candida cylindracea</italic> (943 unitmg<sup>-1</sup>) was purchased from Aldrich and used without purification, while cutinase (1% active enzyme protein) from <italic>Fusarium solani pisii</italic> was supplied by Unilever Research and Development, Port Sunlight, UK. Succinic acid mono-(5-isopropyl-2-methyl-cyclohexyl) ester (<bold>9</bold>) was prepared according to the method reported by Jabloner and Dunbar [<xref ref-type="bibr" rid="B13-molecules-10-00081">13</xref>b]. The synthesis of the polyamide compounds described in this paper has been reported elsewhere [<xref ref-type="bibr" rid="B12-molecules-10-00081">12</xref>]. MALDI-TOF mass spectra were obtained on a SAI LT3 LaserTof MALDI-TOF mass spectrometer using &#x3B1;-cyano-4-hydroxycinnamic acid as the matrix. A typical sample preparation is described as follows: 3 &#x3BC;L of a solution of the analyte in THF (1-10 mgmL<sup>-1</sup>) was combined with 10-20 &#x3BC;L of the freshly prepared matrix (0.1 or 0.2 M in THF) in a mini-vial, and from the mixture was taken a 2 &#x3BC;L aliquot which was transferred carefully onto a sample plate and left to air dry prior to analysis. Reverse-phase high performance liquid chromatographic analyses (RP-HPLC) were carried out using a Perkin-Elmer Series 410 LC pump in conjunction with a refractive index detector Polymer Laboratories P<sc>l</sc>-RI 800 and interfaced with PL Caliber&#xAE; LC/GC version 4 software (Polymer Laboratories, Ltd). Each sample (20 &#x3BC;L) was dissolved in CH<sub>3</sub>CN and injected (20 &#x3BC;L) onto a Phenonomex Luna C18 (2), 100 &#xD7; 4.6 mm column (3 &#x3BC;m beads) equipped with a pre-column Hichrom C18 (5 &#x3BC;m), and temperature controlled at 40 &#xB0;C. The flow rate of the mobile phase (CH<sub>3</sub>CN) was 1 mLmin<sup>-1</sup>. Gas chromatographic (GC) analyses were carried out using a Perkin-Elmer Autosystem XL gas chromatograph in conjunction with a flame ionisation detector (FID) and interfaced with TotalChrom&#x2122; workstation chromatography software (Perkin-Elmer Instruments). Each sample (dissolved in CHCl<sub>3</sub>) was injected (10 &#x3BC;L) onto a Supelcowax 10 column, 30 &#xD7; 0.25 mm ID, 0.25 &#x3BC;m film, using helium as gas carrier at a pressure of 16 PSI. The temperature of the column was held at 50 &#xB0;C for the first two minutes, then was increased to 180 &#xB0;C with a ramp of 2.5 &#xB0;Cmin<sup>-1</sup> and finally held at 180 &#xB0;C for 5 minutes.</p>
+      </sec>
+      <sec>
+        <title>Phosphate Buffer Preparation</title>
+        <p>0.01 M Phosphate buffer, pH 7.2 (100.00 mL) was prepared by combining 0.20 M sodium phosphate monobasic solution (8.40 mL) &#x2013; (stock solution A), &#x2013; 0.20 M sodium phosphate dibasic solution (21.60 mL) &#x2013; (stock solution B) &#x2013; and distilled water (60.00 mL). Stock solution A was obtained by dissolving Na<sub>2</sub>HPO<sub>4</sub> (13.90 g, 0.10 mol) in distilled water (500.00 mL). The stock solution B was obtained dissolving NaH<sub>2</sub>PO<sub>4</sub>&#xB7;12H<sub>2</sub>O (71.63 g, 0.20 mol) in distilled water (1000.00 mL). 0.10 M Phosphate buffer, pH 7.8 (200.00 mL) was prepared by combining 0.2 M sodium phosphate monobasic solution (8.50 mL) &#x2013; (stock solution A), &#x2013; 0.2 M sodium phosphate dibasic solution (91.50 mL) &#x2013; (stock solution B) &#x2013; and distilled water (100.00 mL). Stock solution A was obtained dissolving Na<sub>2</sub>HPO<sub>4</sub> (2.40 g, 0.02 mol) in distilled water (100.00 mL). The stock solution B was obtained dissolving NaH<sub>2</sub>PO<sub>4</sub>&#xB7;12H<sub>2</sub>O (7.16 g, 0.02 mol) in distilled water (100.00 mL).</p>
+      </sec>
+      <sec>
+        <title>Citronellol standards for RP-HPLC analyses:</title>
+        <p>Known aliquots of citronellol were weighed and transferred into clean, dry volumetric flasks (25 mL). CH<sub>3</sub>CN was added to volume in order to obtain final concentrations of 0.1, 0.5, 1.0, 2.0, 5.0 and 10.0 mgmL<sup>-1</sup>. The peak areas obtained from the RP-HPLC analyses were then plotted against the concentration in order to obtain a linear correlation between the two variables. The optimum correlation was obtained by using Equation 1:
+		<disp-formula>
+		<bold>Equation 1.</bold> Linear Correlation Between Peak Areas and Concentrations. <break/>
+		y = 0.0498X (R<sup>2</sup> = 0.9207),
+		</disp-formula>
+        where
+		 <list list-type="simple">
+      <list-item><p>&#xD7; is the peak area</p></list-item>
+      <list-item><p>y is the concentration.</p></list-item>
+	  <list-item><p>Using this equation the unknown concentration of samples of citronellol were determined.</p></list-item>
+      </list>
+        </p>
+      </sec>
+      <sec>
+        <title>Citronellol standards for GC analyses:</title>
+        <p>Known aliquots of citronellol were weighed and transferred into clean, dry volumetric flasks (25 mL). A solution of <sc>l</sc>-menthol in CHCl<sub>3</sub> (10.0 mgmL<sup>-1</sup>) was added to obtain a final concentration of 1.0 mgmL<sup>-1</sup>. CHCl<sub>3</sub> was then added to the volumetric flask up to the required volume in order to obtain final concentrations of 0.01, 0.05, 0.10, 0.50, 1.00 and 2.00 mgmL<sup>-1</sup>. The peak areas obtained from the GC traces were then plotted against the concentration and the correlation between the two variables was calculated according to the method of the <italic>internal normalisation</italic>, where the detector response factor (DRF value)<sup>25</sup> is given by Equation 2:
+		<disp-formula>
+		<bold>Equation 2.</bold> The Detector Response Factor.
+		</disp-formula>
+		
+		<disp-formula>
+          <mml:math display="block" id="mm1">
+            <mml:semantics>
+              <mml:mrow>
+			  <mml:mtext>DRF</mml:mtext>
+			  <mml:mo>=</mml:mo>
+                <mml:mrow>
+                  <mml:mo>(</mml:mo>
+                  <mml:mrow>
+                    <mml:mfrac>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>A</mml:mtext>
+                          <mml:mtext>C</mml:mtext>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>A</mml:mtext>
+                          <mml:mtext>M</mml:mtext>
+                        </mml:msub>
+                      </mml:mrow>
+                    </mml:mfrac>
+                  </mml:mrow>
+                  <mml:mo>)</mml:mo>
+                </mml:mrow>
+                <mml:mrow>
+                  <mml:mo>(</mml:mo>
+                  <mml:mrow>
+                    <mml:mfrac>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>C</mml:mtext>
+                          <mml:mtext>M</mml:mtext>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>C</mml:mtext>
+                          <mml:mtext>C</mml:mtext>
+                        </mml:msub>
+                      </mml:mrow>
+                    </mml:mfrac>
+                  </mml:mrow>
+                  <mml:mo>)</mml:mo>
+                </mml:mrow>
+                <mml:mo>=</mml:mo>
+                <mml:mn>1.1373</mml:mn>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+		</disp-formula>
+        where:
+		<list list-type="simple">
+      <list-item><p>A<sub>C</sub> is the peak area of the citronellol;</p></list-item>
+      <list-item><p>A<sub>M</sub> is the peak area of the internal standard, L-menthol;</p></list-item>
+	  <list-item><p>C<sub>M</sub> is the concentration of the internal standard, L-menthol and</p></list-item>
+	  <list-item><p>C<sub>C</sub> is the concentration of citronellol.</p></list-item>
+	  <list-item><p>Using this equation the unknown concentration of samples of citronellol were determined.</p></list-item>
+      </list>
+		</p>
+      </sec>
+      <sec>
+        <title>General Procedure for the Hydrolysis Studies in 0.01 mM Phosphate Buffer, pH= 7.2 at 37 &#xB0;C in the Presence of Lipase from Candida Cylindracea: C<sub>2</sub>-[G-0]<sub>2</sub>-C <italic>(<bold>1</bold>)</italic>.</title>
+        <p>The hydrolysis was conducted in a carousel reactor holding 12 sealed vials equipped with a temperature-controlling probe set at 37 &#xB0;C. Into each vial was placed a solution of the enzyme (4.90 mL). The enzyme solution was prepared as follows: 24.0 mg of lipase from <italic>Candida cylindracea</italic> were transferred carefully into a 100 mL volumetric flask and the phosphate buffer was added up to the desired volume. The resultant suspension was subjected to ultrasound for 10 minutes prior to use. The enzyme suspension was left equilibrating at 37 &#xB0;C for 2 hours prior the addition of a solution of C<sub>2</sub>-[G-0]<sub>2</sub>-C (<bold>1</bold>) in CH<sub>3</sub>CN (0.10 mL), obtained by dissolving 0.13 g of <bold>1</bold> in CH<sub>3</sub>CN (1.30 mL). After set periods of time the content of each vial was extracted with CHCl<sub>3</sub> (2 &#xD7; 5.00 mL). The solvent was then removed under reduced pressure, the residue dissolved in CH<sub>3</sub>CN (0.50 mL) and the solution analysed by RP-HPLC chromatography and MALDI-TOF mass spectrometry.</p>
+      </sec>
+      <sec>
+        <title>Hydrolysis studies in 0. 1 mM phosphate buffer, pH= 7.8 at 37 &#xB0;C in the presence of Cutinase from Fusarium Solani pisii &#x2013; typical procedure: C<sub>2</sub>-[G-0]<sub>2</sub>-C <italic>(<bold>1</bold>)</italic>.</title>
+        <p>Into each vial were placed: the enzyme (1% active enzyme protein) (0.10 g) and the phosphate buffer (2.45 mL). The vials were then kept at 37 &#xB0;C for a period of 2 hours prior to addition of a solution of C<sub>2</sub>-[G-0]<sub>2</sub>-C (<bold>1</bold>) in CH<sub>3</sub>CN (50 &#x3BC;L), obtained by dissolving <bold>1</bold> (0.10 g) in CH<sub>3</sub>CN (1.00 mL). After set intervals of time the content of each vial was filtered on a sintered funnel, washed with CHCl<sub>3</sub> (6.00 mL) and then with distilled water (3.00 mL). The organic phase was separated (2.50 mL) and the solvent removed under reduced pressure. The residue was dissolved in CH<sub>3</sub>CN (0.30 mL) and analysed by RP-HPLC chromatography, GC chromatography and MALDI-TOF mass spectrometry.</p>
+        <p><bold>Note:</bold> The hydrolysis studies of compounds M<sub>2</sub>-[G-0]<sub>2</sub>-C (<bold>2</bold>), C<sub>4</sub>-[G-1]<sub>2</sub>-C (<bold>5</bold>), M<sub>4</sub>-[G-1]<sub>2</sub>-C (<bold>6</bold>) and C<sub>6</sub>-[G-1]<sub>3</sub>-N (<bold>7</bold>) were carried according to the procedures described above. &#x2018;Blank&#x2019; hydrolysis assays were carried out in exactly the same manner but in these cases the phosphate buffer added to each vial did not contain the enzyme.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>F.A. would like to thank Unilever Research and Development for a postgraduate studentship. The authors would like to acknowledge EPSRC (GR/M91884) and SAI Ltd for the funding provided for the MALDI-TOF MS facilities at the University of Reading. W.H. would like to thank EPSRC (GR/M42824) for providing funds for the HPLC equipment used in this study.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00081">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koeller</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>C.-H.</given-names>
+            </name>
+          </person-group>
+          <source>Nature</source>
+          <year>2001</year>
+          <volume>409</volume>
+          <fpage>232</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00081">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carrea</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Riva</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem., Int. Ed. Engl.</source>
+          <year>2000</year>
+          <volume>39</volume>
+          <fpage>2226</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00081">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Klibanov</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <source>Nature</source>
+          <year>2001</year>
+          <volume>409</volume>
+          <fpage>241</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00081">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roberts</surname>
+              <given-names>S.M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Perkin. Trans. 1</source>
+          <year>1999</year>
+          <fpage>1</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00081">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kadereit</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Waldmann</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>2001</year>
+          <volume>101</volume>
+          <fpage>3367</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00081">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reetz</surname>
+              <given-names>M.T.</given-names>
+            </name>
+          </person-group>
+          <source>Curr. Op. Chem. Biol.</source>
+          <year>2002</year>
+          <volume>6</volume>
+          <fpage>145</fpage>
+          <pub-id pub-id-type="doi">10.1016/S1367-5931(02)00297-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00081">
+        <label>7.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gross</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kalra</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>2001</year>
+          <volume>101</volume>
+          <fpage>2097</fpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Uyama</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kimura</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>2001</year>
+          <volume>101</volume>
+          <fpage>3793</fpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kline</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Beckman</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1998</year>
+          <volume>120</volume>
+          <fpage>9475</fpage>
+          <pub-id pub-id-type="doi">10.1021/ja9808907</pub-id>
+        </citation>
+        <citation citation-type="journal">
+		<label>(d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Al-Azemi</surname>
+              <given-names>T.F.</given-names>
+            </name>
+            <name>
+              <surname>Bisht</surname>
+              <given-names>K.S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Polym. Sci. Part A: Polym. Chem.</source>
+          <year>2002</year>
+          <volume>40</volume>
+          <fpage>1267</fpage>
+          <pub-id pub-id-type="doi">10.1002/pola.10212</pub-id>
+        </citation>
+        <citation citation-type="journal">
+		<label>(e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bisht</surname>
+              <given-names>K.S.</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Gross</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Kaplan</surname>
+              <given-names>D.L.</given-names>
+            </name>
+            <name>
+              <surname>Swift</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1998</year>
+          <volume>120</volume>
+          <fpage>1363</fpage>
+          <pub-id pub-id-type="doi">10.1021/ja972391w</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00081">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Nakayama</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Mochizuki</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Masuda</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Pure Appl. Chem.</source>
+          <year>2002</year>
+          <volume>74</volume>
+          <fpage>869</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00081">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seebach</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Herrmann</surname>
+              <given-names>G.F.</given-names>
+            </name>
+            <name>
+              <surname>Lengweiler</surname>
+              <given-names>U.D.</given-names>
+            </name>
+            <name>
+              <surname>Bachmann</surname>
+              <given-names>B.M.</given-names>
+            </name>
+            <name>
+              <surname>Amrein</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem., Int. Ed. Engl.</source>
+          <year>1996</year>
+          <volume>35</volume>
+          <fpage>2795</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00081">
+        <label>10.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fr&#xE9;chet</surname>
+              <given-names>J.M.J.</given-names>
+            </name>
+            <name>
+              <surname>Hawker</surname>
+              <given-names>C.J.</given-names>
+            </name>
+          </person-group>
+          <source>Comprehensive Polymer Science 2<sup>nd</sup> suppl.</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Aggarval</surname>
+              <given-names>S.L.</given-names>
+            </name>
+            <name>
+              <surname>Russo</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Pergamon Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1996</year>
+          <fpage>160</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00081">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hawker</surname>
+              <given-names>C. J.</given-names>
+            </name>
+            <name>
+              <surname>Fr&#xE9;chet</surname>
+              <given-names>J. M. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Commun., Chem. Commun.</source>
+          <year>1990</year>
+          <fpage>1010</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00081">
+        <label>12.</label>
+        <citation citation-type="other">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aulenta</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Foster</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Rannard</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Thornthwaite</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Hayes</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <comment><italic>submitted</italic></comment>
+        </citation>
+        <citation citation-type="thesis">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aulenta</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>PhD Thesis</source>
+		  <publisher-name>The University of Reading</publisher-name>
+		  <publisher-loc>Reading, U.K.</publisher-loc>
+          <year>2003</year>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00081">
+        <label>13.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cotterill</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Milanovic</surname>
+              <given-names>N.M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Perkin Trans. 1</source>
+          <year>1995</year>
+          <fpage>1215</fpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jabloner</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Dunbar</surname>
+              <given-names>B.I.</given-names>
+            </name>
+          </person-group>
+          <source>J. Polym Sci.: Polym. Chem. Ed.</source>
+          <year>1980</year>
+          <volume>18</volume>
+          <fpage>2933</fpage>
+          <pub-id pub-id-type="doi">10.1002/pol.1980.170181003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00081">
+        <label>14.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bodanszky</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bodanszky</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>The Practice of Peptide Synthesis</source>
+		  <edition>2nd Ed.</edition>
+          <publisher-name>Springer Verlag</publisher-name>
+          <publisher-loc>Berlin</publisher-loc>
+          <year>1994</year>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00081">
+        <label>15.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chowdhury</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Tripathi</surname>
+              <given-names>M.K.</given-names>
+            </name>
+            <name>
+              <surname>Jinwal</surname>
+              <given-names>U.K.</given-names>
+            </name>
+            <name>
+              <surname>Roy</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>U.V.</given-names>
+            </name>
+            <name>
+              <surname>Bhaduri</surname>
+              <given-names>A.P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Res.</source>
+          <year>1999</year>
+          <volume>(S)</volume>
+          <fpage>266</fpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Graffner-Nordberg</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sj&#xF6;din</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tunek</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hallberg</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Pharm. Bull.</source>
+          <year>1998</year>
+          <volume>46</volume>
+          <fpage>591</fpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.46.591</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00081">
+        <label>16.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Werbin</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Spoerri</surname>
+              <given-names>P.E.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1947</year>
+          <volume>69</volume>
+          <fpage>1681</fpage>
+          <pub-id pub-id-type="doi">10.1021/ja01199a034</pub-id>
+        </citation>
+        <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Feuer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Harmetz</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1958</year>
+          <volume>80</volume>
+          <fpage>5877</fpage>
+          <pub-id pub-id-type="doi">10.1021/ja01554a075</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00081">
+        <label>17.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsumoto</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hamawaki</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ota</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kimura</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Goto</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Sano</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kiso</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2000</year>
+          <volume>10</volume>
+          <fpage>1227</fpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsumoto</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kimura</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hamawaki</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kumagai</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Goto</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Sano</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kiso</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2001</year>
+          <volume>9</volume>
+          <fpage>1589</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0968-0896(01)00045-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00081">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bodanszky</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kwei</surname>
+              <given-names>J.Z.</given-names>
+            </name>
+          </person-group>
+          <source>Int. J. Peptide Protein Res.</source>
+          <year>1978</year>
+          <volume>12</volume>
+          <fpage>69</fpage>
+          <pub-id pub-id-type="doi">10.1111/j.1399-3011.1978.tb02869.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00081">
+        <label>19.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gotor</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Brieva</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Rebolledo</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1988</year>
+          <volume>29</volume>
+          <fpage>6973</fpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brieva</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Rebolledo</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Gotor</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Commun.</source>
+          <year>1990</year>
+          <fpage>1386</fpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00081">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Astorga</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Rebolledo</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Gotor</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1993</year>
+          <fpage>287</fpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00081">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fr&#xE9;rot</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Herbal</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hermann</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2003</year>
+          <fpage>967</fpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00081">
+        <label>22.</label>
+        <citation citation-type="book">
+          <source>CERIUS2,version 3.0</source>
+          <publisher-name>Accelerys Inc.</publisher-name>
+          <publisher-loc>San Diego, California, USA</publisher-loc>
+          <year>2001</year>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00081">
+        <label>23.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frisch</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Trucks</surname>
+              <given-names>G.W.</given-names>
+            </name>
+            <name>
+              <surname>Schlegel</surname>
+              <given-names>H.B.</given-names>
+            </name>
+            <name>
+              <surname>Scuseria</surname>
+              <given-names>G.E.</given-names>
+            </name>
+            <name>
+              <surname>Robb</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Cheeseman</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>Zakrzewski</surname>
+              <given-names>V.G.</given-names>
+            </name>
+            <name>
+              <surname>Montgomery</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Stratmann</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Burant</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Dapprich</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Millam</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Daniels</surname>
+              <given-names>A.D.</given-names>
+            </name>
+            <name>
+              <surname>Kudin</surname>
+              <given-names>K.N.</given-names>
+            </name>
+            <name>
+              <surname>Strain</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Farkas</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Tomasi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Barone</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Cossi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cammi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Mennucci</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Pomelli</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Adamo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Clifford</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ochterski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Petersson</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Ayala</surname>
+              <given-names>P.Y.</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>K.M.Q.</given-names>
+            </name>
+            <name>
+              <surname>Malick</surname>
+              <given-names>D.K.</given-names>
+            </name>
+            <name>
+              <surname>Rabuck</surname>
+              <given-names>A.D.</given-names>
+            </name>
+            <name>
+              <surname>Raghavachari</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Foresman</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Cioslowski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ortiz</surname>
+              <given-names>J.V.</given-names>
+            </name>
+            <name>
+              <surname>Stefanov</surname>
+              <given-names>B.B.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Liashenko</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Piskorz</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Komaromi</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Gomperts</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>R.L.</given-names>
+            </name>
+            <name>
+              <surname>Fox</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Keith</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Al-Laham</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Nanayakkara</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Gonzalez</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Challacombe</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>P.M.W.</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>B.G.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Andres</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Head-Gordon</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Replogle</surname>
+              <given-names>E.S.</given-names>
+            </name>
+            <name>
+              <surname>Pople</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <source>Gaussian 98, Revision A.9</source>
+          <publisher-name>Gaussian, Inc.</publisher-name>
+          <publisher-loc>Pittsburg, PA</publisher-loc>
+          <year>1998</year>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00081">
+        <label>24.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fl&#xFC;kiger</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>L&#xFC;thi</surname>
+              <given-names>H.P.</given-names>
+            </name>
+            <name>
+              <surname>Portmann</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Weber</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Molekel v4.3</source>
+          <publisher-name>Swiss Centre for Scientific Computing</publisher-name>
+          <publisher-loc>Manno, Switzerland</publisher-loc>
+          <year>2000</year>
+        </citation>
+      </ref>
+      <ref id="B35-molecules-10-00081">
+        <label>35.</label>
+        <citation citation-type="book">
+		<person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>R.A.</given-names>
+            </name>
+          </person-group>
+          <source>An Introduction to Gas-Liquid Chromatography</source>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>London and New York</publisher-loc>
+          <year>1970</year>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

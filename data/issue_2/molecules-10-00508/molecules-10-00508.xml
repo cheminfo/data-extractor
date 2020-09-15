@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020508</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00508</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Microwave-Assisted Amination of a Chloropurine Derivative in the Synthesis of Acyclic Nucleoside Analogues</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lanver</surname>
+            <given-names>Andreas</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Schmalz</surname>
+            <given-names>Hans-G&#xFC;nther</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00508" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+	  <aff id="af1-molecules-10-01169">Institut f&#xFC;r Organische Chemie, Universit&#xE4;t zu K&#xF6;ln, Greinstrasse 4, 50939 K&#xF6;ln, Germany Fax: (49)221-470-3064.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00508"><label>*</label>Author to whom correspondence should be addressed; e-mail <email>schmalz@uni-koeln.de</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>508</fpage>
+      <lpage>515</lpage>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>09</day>
+          <month>02</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>02</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>An efficient protocol for the amination of 6-chloropurine derivatives through nucleophilic aromatic substitution under microwave irradiation was developed and applied to the synthesis in two steps of a series of new acyclic nucleosides (acyclovir analogues) starting from commercially available compounds.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Microwave</kwd>
+		<kwd>nucleophilic aromatic substitution</kwd>
+		<kwd>nucleosides</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Nucleoside analogues play an important role in pharmacology, mainly as antitumoral or antiviral drugs [<xref ref-type="bibr" rid="B1-molecules-10-00508">1</xref>]. Due to their outstanding biological activity various synthetic strategies towards such compounds were developed and have been highlighted in review articles [<xref ref-type="bibr" rid="B2-molecules-10-00508">2</xref>]. Prominent examples of synthetic nucleoside analogues are acyclovir (<bold>1</bold>) [<xref ref-type="bibr" rid="B3-molecules-10-00508">3</xref>], a highly active drug against the Herpes Simplex virus, and carbovir (<bold>2</bold>) [<xref ref-type="bibr" rid="B4-molecules-10-00508">4</xref>], an anti-HIV compound. We recently reported on an efficient transition-metal mediated synthesis of carbocyclic nucleosides such as <bold>3</bold> (<xref ref-type="scheme" rid="molecules-10-00508-f001">Scheme 1</xref>), which exhibit significant apoptosis-inducing activities and may therefore be considered as lead structures for the development of new anti-tumoral agents [<xref ref-type="bibr" rid="B5-molecules-10-00508">5</xref>]. In any case, the development of efficient protocols for the synthesis of nucleoside analogues (or other privileged classes of molecules) is still an important goal. In an ideal case, only very few steps and short reaction times are necessary to give access to a broad variety of compounds in a rapid and flexible (diversity-oriented) manner. In the past few years, the use of microwave irradiation in organic synthesis has received considerable attention. This technique is of particular value for shortening reaction times and often leads to improved yields [<xref ref-type="bibr" rid="B6-molecules-10-00508">6</xref>].</p>
+      <fig id="molecules-10-00508-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00508-f001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Selected bioactive nucleosides: Acyclovir (<bold>1</bold>), Carbovir (<bold>2</bold>), and the apoptosis-inducing nucleoside analog <bold>3</bold> (TDS = thexyldimethylsilyl) [<xref ref-type="bibr" rid="B5-molecules-10-00508">5</xref>].</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-g001.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Intending to exploit these advantages in nucleoside synthesis, we envisioned a two-step reaction sequence towards acyclic nucleoside analogues of type <bold>6</bold>, applying a microwave-assisted nucleophilic substitution [<xref ref-type="bibr" rid="B7-molecules-10-00508">7</xref>] as a key step (<xref ref-type="scheme" rid="molecules-10-00508-f002">Scheme 2</xref>). Following the protocol of Barrio <italic>et al</italic>. [<xref ref-type="bibr" rid="B8-molecules-10-00508">8</xref>], 1.3-dioxolane was first reacted with iodotrimethylsilane in dry cyclohexene at -78 &#xB0;C to afford iodomethyl trimethylsilyloxyethyl ether as an intermediate, which was directly trapped by adding the mixture to a solution of deprotonated chloropurine <bold>4</bold> in THF at -50 &#xB0;C. This way, the acyclic nucleoside analogue <bold>5</bold> was obtained in a one-pot procedure.</p>
+      <fig id="molecules-10-00508-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00508-f002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Two-step synthesis of acyclic nucleoside analogues of type <bold>6</bold>. Conditions: a) 1,3-dioxolane, TMSI, cyclohexene, -78 &#xB0;C, 30 min; then, addition to NaH and <bold>4</bold> in DMF, -50 &#xB0;C to RT, 2 h; then, KF (aq), 54%.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-g002.tif"/>
+      </fig>
+      <p>With the acyclovir analogue <bold>5</bold> as a substrate, we carried out a variety of nucleophilic aromatic substitutions using different amines <bold>7</bold>-<bold>11</bold> as nucleophiles. Yields and  reaction  times  under conventional conditions and under microwave irradiation were compared (<xref ref-type="table" rid="molecules-10-00508-t001">Table 1</xref>). Our standard protocol for microwave-assisted reactions (CEM single mode MW reactor, 120 &#xB0;C, 150 W) involved 1.1 eq of the corresponding amine, 1.1 eq of diisopropylethylamine (DIPEA) and ethanol as the solvent (conditions A). Alternatively, the reactions were carried out under conventional heating in an oil bath applying established conditions (conditions B and C) for nucleophilic aminations [<xref ref-type="bibr" rid="B9-molecules-10-00508">9</xref>]. The microwave assisted reactions proceeded in all cases with higher yields (72% - 83%), and  nearly complete conversions were already observed after short reaction times (10 min). In contrast, much longer reaction times (16 h) were needed to achieve satisfying conversions under the common conditions (conventional heating), which also led to generally lower yields (58% - 75%).</p>
+	   <table-wrap id="molecules-10-00508-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00508-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Amination of <bold>5</bold> through nucleophilic substitution.</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" style="border-top:hidden;border-bottom:solid thin">Entry</th>
+                <th align="center" valign="middle" style="border-top:hidden;border-bottom:solid thin">Amine</th>
+				<th align="center" valign="middle" style="border-top:hidden;border-bottom:solid thin">Product (type <bold>6</bold>)</th>
+				<th align="center" valign="middle" style="border-top:hidden;border-bottom:solid thin">Conditions</th>
+				<th align="center" valign="middle" style="border-top:hidden;border-bottom:solid thin">Yield</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle">1</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-i001.tif"/></td>
+                <td rowspan="3" align="center" valign="middle" style="border-bottom:dashed thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-i002.tif"/></td>
+				 <td align="center" valign="middle">A</td>
+				 <td align="center" valign="middle">82%</td>
+              </tr>
+			  <tr>
+                <td align="center" valign="middle">2</td>
+                <td align="center" valign="middle"> </td>
+				<td align="center" valign="middle">B</td>
+				 <td align="center" valign="middle">69%</td>
+              </tr>
+			  <tr>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">3</td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin"> </td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">C</td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">72%</td>
+			  </tr>
+			  <tr>
+                <td align="center" valign="middle">4</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-i003.tif"/></td>
+                <td rowspan="3" align="center" valign="middle" style="border-bottom:dashed thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-i004.tif"/></td>
+				 <td align="center" valign="middle">A</td>
+				 <td align="center" valign="middle">77%</td>
+              </tr>
+			  <tr>
+                <td align="center" valign="middle">5</td>
+                <td align="center" valign="middle"> </td>
+				<td align="center" valign="middle">B</td>
+				 <td align="center" valign="middle">70%</td>
+              </tr>
+			  <tr>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">6</td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin"> </td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">C</td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">71%</td>
+			  </tr>
+			  <tr>
+                <td align="center" valign="middle">7</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-i005.tif"/></td>
+                <td rowspan="3" align="center" valign="middle" style="border-bottom:dashed thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-i006.tif"/></td>
+				 <td align="center" valign="middle">A</td>
+				 <td align="center" valign="middle">83%</td>
+              </tr>
+			  <tr>
+                <td align="center" valign="middle">8</td>
+                <td align="center" valign="middle"> </td>
+				<td align="center" valign="middle">B</td>
+				 <td align="center" valign="middle">75%</td>
+              </tr>
+			  <tr>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">9</td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin"> </td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">C</td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">66%</td>
+			  </tr>
+			  <tr>
+                <td align="center" valign="middle">10</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-i007.tif"/></td>
+                <td rowspan="3" align="center" valign="middle" style="border-bottom:dashed thin"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-i008.tif"/></td>
+				 <td align="center" valign="middle">A</td>
+				 <td align="center" valign="middle">80%</td>
+              </tr>
+			  <tr>
+                <td align="center" valign="middle">11</td>
+                <td align="center" valign="middle"> </td>
+				<td align="center" valign="middle">B</td>
+				 <td align="center" valign="middle">58%</td>
+              </tr>
+			  <tr>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">12</td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin"> </td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">C</td>
+			   <td align="center" valign="middle" style="border-bottom:dashed thin">65%</td>
+			  </tr>
+			  <tr>
+			   <td align="center" valign="middle" style="border-bottom:hidden">13</td>
+                <td align="center" valign="middle" style="border-bottom:hidden"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-i009.tif"/></td>
+                <td align="center" valign="middle" style="border-bottom:hidden"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-i010.tif"/></td>
+                <td align="center" valign="middle" style="border-bottom:hidden">A</td>
+                <td align="center" valign="middle" style="border-bottom:hidden">72%</td>
+              </tr>
+			  </tbody>
+          </table>
+		  <table-wrap-foot>
+		<fn>
+		<p>Conditions A: 1.1 eq amine, 1.1 eq DIPEA, EtOH, microwave (120 &#xB0;C, 150 W), 10 min; Conditions B: 1.1 eq amine, 1.1 eq DIPEA, BuOH, 75 &#xB0;C, 16 h; Conditions C: 5 eq amine, EtOH, 75 &#xB0;C, 16 h.</p>
+		</fn>
+		</table-wrap-foot>
+        </table-wrap>
+      <p>In our previous work on apoptosis-inducing nucleosides, we observed a positive influence of bulky lipophilic protecting groups (at the 5&#x2019;-OH group) on the biological activity (e.g. compounds <bold>3</bold>) [<xref ref-type="bibr" rid="B5-molecules-10-00508">5</xref>]. We therefore converted the key intermediate <bold>5</bold> into protected derivatives in order to study the biological activity of the protected compounds.</p>
+      <fig id="molecules-10-00508-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00508-f003_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <caption>
+          <p>Synthesis of protected derivatives of <bold>5</bold>. Conditions: a) Ac<sub>2</sub>O, Et<sub>3</sub>N, DMAP, DCM, RT, 1 h, 76% of <bold>17</bold>; b) TDSCl, py, RT, 16 h, 85% of <bold>18</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00508-g003.tif"/>
+      </fig>
+      <p>Formation of <bold>17</bold> [<xref ref-type="bibr" rid="B11-molecules-10-00508">11</xref>] was accomplished easily under standard acylation conditions (Ac<sub>2</sub>O, Et<sub>3</sub>N, DMAP) in DCM. Silylation of <bold>5</bold> also proceeded smoothly with TDSCl (thexyldimethylsilylchloride) in pyridine to give ether <bold>18</bold>.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>In summary, we have established a microwave-based protocol for the rapid and direct amination of chloropurines in high yield. The value of this method was demonstrated in a synthesis of a series of acyclic nucleoside analogs of type <bold>6</bold>. The biological activity (apoptosis induction) of a compound library prepared by the method described is currently under investigation. Furthermore, amination of the protected compounds <bold>17</bold> and <bold>18</bold> will be studied.</p>
+    </sec>
+    <sec>
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Reagents (generally &#x2265; 99%) were used as purchased. Microwave assisted synthesis was carried out on a CEM focused microwave reactor (model Discover). Reactions were monitored by analytical thin-layer chromatography (TLC) using Merck silica gel 60 F 254 aluminum plates. Chromatograms were visualized either with UV-light, by staining with iodine or with a &#x201C;cerium reagent&#x201D; (prepared by dissolving 2 g of phosphomolybdic acid and 1 g of Ce(SO<sub>4</sub>)<sub>2</sub> in 100 mL of 10% aqueous H<sub>2</sub>SO<sub>4</sub>) and subsequent heating. Flash chromatography [<xref ref-type="bibr" rid="B12-molecules-10-00508">12</xref>]: silica gel 60 (230-400 mesh) from Merck. Gas chromatography (GLC): HP-6890, with H<sub>2</sub> as a carrier gas, FID (flame ionisation detector). NMR: Bruker DPX 300, DRX 500 and AC 250 instruments. Chemical shifts (<italic>&#x3B4;</italic>) are given in ppm relative to the solvent reference. Unless noted otherwise DMSO-D<sub>6</sub> was the solvent used. <sup>13</sup>C-NMR spectra were measured under proton decoupling and the number of bound protons (multiplicities) determined by DEPT. IR spectroscopy: Perkin Elmer FT-IR Paragon 1000 using the ATR-technique. MS: Finnigan MAT Incos 50 Galaxy System (DIP-MS) or a Finnigan MAT 900 spectrometer; HRMS were recorded on a Finnigan HSQ-30 (HR-EI-MS) or on a Finnigan MAT 900 (HR-ESI-MS). The method of ionization is given in parentheses. Melting points (m.p.) were measured on a B&#xFC;chi B-545 apparatus and are uncorrected.</p>
+        <p><italic>2-(6-Chloro-purin-9-ylmethoxy)-ethanol</italic> (<bold>5</bold>) [<xref ref-type="bibr" rid="B8-molecules-10-00508">8</xref>]: In a first flask, NaH (55%, 311 mg, 7.12 mmol) was added to a stirred solution of 6-chloropurine (1.00 g, 6.47 mmol) in DMF (5 mL) at RT and stirring was continued for 2 h. In a second flask, a solution of 1,3-dioxolane (542 &#xB5;L, 7.76 mmol) in cyclohexene (2 mL) was cooled to -78 &#xB0;C and TMSI (1.02 mL, 7.12 mmol) was added slowly. After 30 min, the first flask was cooled to -50 &#xB0;C (Note: a precipitate was observed at ca. -60 &#xB0;C) and the contents of the second flask was added. After 2 hours the mixture was allowed to warm to RT and 10% aqueous solutions of KF (10 mL) and NaHCO<sub>3</sub> (10 mL) were added. After 1 h, the mixture was diluted with H<sub>2</sub>O (50 mL) and extracted with EtOAc (5 x 50 mL). The combined organic phases were washed with brine (50 mL), dried (MgSO<sub>4</sub>) and the solvent was removed under reduced pressure. After flash chromatography (EtOAc/MeOH 10:1) the product <bold>5</bold> was obtained as a light yellow solid (798 mg, 54%). (Note: Scale up of the reaction proved to be difficult. In each case a variety of byproducts were obtained, including regioisomers during the amination reactions. The product could still be purified by flash chromatography, but the yields were generally lower). M.p. 147 &#xB0;C (lit. [8c]: 149-150 &#xB0;C); TLC: R<italic><sub>f</sub></italic>= 0.24 (EtOAc/MeOH 10:1); <sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>): &#x3B4; = 8.77 (s, 1H, H-2), 8.27 (s, 1H, H-8), 5.75 (s, 2H, NCH<sub>2</sub>O), 3.77-3.66 (m, 4H, HOCH<sub>2</sub>CH<sub>2</sub>O), 1.94 (bs, 1H, OH); <sup>13</sup>C-NMR (63  MHz, CDCl<sub>3</sub>): &#x3B4; = 152.0 and 149.1 (C4 and C6), 151.9 (C2), 147.6 (C8), 130,7 (C5), 73.1 (N<italic>C</italic>H<sub>2</sub>O), 71.1 (HOCH<sub>2</sub><italic>C</italic>H<sub>2</sub>O), 59.8 (HO<italic>C</italic>H<sub>2</sub>CH<sub>2</sub>O); IR (ATR, cm<sup>-1</sup>): 3378 (m), 1593 (m), 1560 (s), 1335 (m), 1208 (m), 1116 (s), 1073 (m), 940 (m), 753 (m), 635 (m); MS (EI, 70 eV): m/z (%) = 229 (13) [M(<sup>35</sup>Cl) + 1<sup>+</sup>], 198 (23), 183 (36), 168 (80), 154 (64), 119 (47), 104 (22); HRMS (EI, 70 eV) calcd. for [M(<sup>35</sup>Cl) &#x2013; CH<sub>2</sub>O]<sup>+</sup> C<sub>7</sub>H<sub>7</sub><sup>35</sup>ClN<sub>4</sub>O: 198.0308, found: 198.030.</p>
+        <p><italic>General protocols for the amination of <bold>5</bold> (compare <xref ref-type="table" rid="molecules-10-00508-t001">Table 1</xref>): Conditions A:</italic> In a sealed microwave tube <bold>5</bold> (57.2 mg, 0.25 mmol) was reacted with the amine (1.1 eq, 0.275 mmol) and <sup>i</sup>Pr<sub>2</sub>NEt (1.1 eq, 0.275 mmol) in EtOH (3 mL) as solvent. The reaction mixture was stirred for 10 min under microwave irradiation (120 &#xB0;C, 150 W). The solvent was removed under reduced pressure and the crude mixture was directly subjected to flash chromatography (EtOAc/MeOH 10:1). <italic>Conditions B: </italic> In a Schlenk flask, <bold>5</bold> (57.2 mg, 0.25 mmol) was reacted with the amine (1.1 eq, 0.275 mmol) and <sup>i</sup>Pr<sub>2</sub>NEt (1.1 eq, 0.275 mmol) in BuOH (3 mL) as solvent. The reaction mixture was stirred for 16 h at 75 &#xB0;C. The solvent was removed under reduced pressure and the crude mixture was directly subjected to flash chromatography (EtOAc/MeOH 10:1). <italic>Conditions C:</italic> In a Schlenk flask, <bold>5</bold> (57.2 mg, 0.25 mmol) was reacted with the amine (5 eq, 1.25 mmol) in EtOH (3 mL) as solvent. The reaction mixture was stirred for 16 h at 75 &#xB0;C. The solvent was removed under reduced pressure and the crude mixture was directly subjected to flash chromatography (EtOAc/MeOH 10:1).</p>
+        <p><italic>2-(6&#x2019;-Cyclohexylamino-purin-9&#x2019;-ylmethoxy)-ethanol</italic> (<bold>12</bold>): The  acyclic nucleoside analog <bold>12</bold> was prepared according to the general protocols for the amination of <bold>5</bold> using conditions A, B or C (for yields see <xref ref-type="table" rid="molecules-10-00508-t001">Table 1</xref>). M.p. 102 &#xB0;C; TLC: R<italic><sub>f</sub></italic> = 0.21 (EtOAc/MeOH 10:1); <sup>1</sup>H-NMR (250 MHz): &#x3B4; = 8.26 and 8.22 (2s, 2H, H-2&#x2019; and H-8&#x2019;), 7.53 (d, J = 8.4 Hz, 1H, N<italic>H</italic>), 5.56 (s, 2H, NCH<sub>2</sub>O), 4.67 (t, J = 5.2 Hz, 1H, OH), 3.53-3.45 (m, 4H, HOC<italic>H</italic><sub>2</sub>C<italic>H</italic><sub>2</sub>O) 1.90-1.10 (m, 11H, CyHex); <sup>13</sup>C-NMR (63 MHz): &#x3B4; = 152.8 (C2&#x2019;), 153.7  and  149.0 (C4&#x2019;  and  C6&#x2019;), 140.7 (C8&#x2019;), 118.5 (C5&#x2019;), 72.1 (N<italic>C</italic>H<sub>2</sub>O), 70.7 (HOCH<sub>2</sub><italic>C</italic>H<sub>2</sub>O), 59.8 (HO<italic>C</italic>H<sub>2</sub>CH<sub>2</sub>O), 48.6 (NCH), 32.3, 25.1, 24.9 (CyH);  IR (ATR, cm<sup>-1</sup>): 3323 (m), 2927 (m), 1615 (s), 1478 (m), 1343 (m), 1293 (m), 1217 (m), 1114 (m), 754 (m); MS (EI, 70 eV): m/z (%) = 291 (8) [M<sup>+</sup>], 216 (19), 209 (50), 174 (24), 160 (26), 148 (26), 135 (100)55 (17); HRMS (EI, 70 EV) calcd. for [M<sup>+</sup>] C<sub>14</sub>H<sub>21</sub>N<sub>5</sub>O<sub>2</sub>: 291.1695, found: 291.169.</p>
+        <p><italic>2-(6&#x2019;-Phenylamino-purin-9&#x2019;-ylmethoxy)-ethanol</italic> (<bold>13</bold>): The acyclic nucleoside analog <bold>13</bold> was prepared according to the general protocols for the amination of <bold>5</bold> using conditions A, B or C (for yields see <xref ref-type="table" rid="molecules-10-00508-t001">Table 1</xref>). M.p. 169 &#xB0;C; TLC: R<italic><sub>f</sub></italic> = 0.27 (EtOAc/MeOH 10:1); <sup>1</sup>H-NMR (250 MHz): &#x3B4; = 9.90 (s, 1H, N<italic>H</italic>), 8.46 and 8.44 (2s, 2H, H-2&#x2019; and H-8&#x2019;), 7.95 (d, J = 7.8 Hz, 2H, H<sub>ar</sub>), 7.33 (t, J = 7.7 Hz, 2H, H<sub>ar</sub>), 7.04 (t, J = 7.3 Hz, 1H, H<sub>ar</sub>), 5.64 (s, 2H, NCH<sub>2</sub>O), 4.69 (t, J = 5.3 Hz, 1H, OH), 3.58-3.46 (m, 4H, HOC<italic>H</italic><sub>2</sub>C<italic>H</italic><sub>2</sub>O); <sup>13</sup>C-NMR (63 MHz): &#x3B4; = 152.3 (C2&#x2019;), 152.0 and 149.8 (C4&#x2019; and C6&#x2019;), 142.0 (C8&#x2019;), 139.5 (s, C<sub>ar</sub>), 128.3, 122.5, 120.7 (d, C<sub>ar</sub>), 119.5 (C5&#x2019;), 72.3 (N<italic>C</italic>H<sub>2</sub>O), 70.8 (HOCH<sub>2</sub><italic>C</italic>H<sub>2</sub>O), 59.8 (HO<italic>C</italic>H<sub>2</sub>CH<sub>2</sub>O); IR (ATR, cm<sup>-1</sup>): 3322 (m), 1621 (s), 1580 (s), 1496 (m), 1477 (m), 1115 (m), 753 (m); MS (EI, 70 eV): m/z (%) = 285 (21) [M<sup>+</sup>], 240 (8), 224 (30), 211 (41), 210 (100), 77 (23); HRMS (EI, 70 eV) calcd. for [M<sup>+</sup>] C<sub>14</sub>H<sub>15</sub>N<sub>5</sub>O<sub>2</sub>: 285.1226, found: 285.122.</p>
+        <p><italic>2-(6&#x2019;-Benzylamino-purin-9&#x2019;-ylmethoxy)-ethanol</italic> (<bold>14</bold>) [<xref ref-type="bibr" rid="B10-molecules-10-00508">10</xref>]: The acyclic nucleoside analog <bold>14</bold> was prepared according to the general protocols for the amination of <bold>5</bold> using conditions A, B or C (for yields  see  <xref ref-type="table" rid="molecules-10-00508-t001">Table 1</xref>).  M.p.  111  &#xB0;C (lit.  [<xref ref-type="bibr" rid="B10-molecules-10-00508">10</xref>]: 113-114 &#xB0;C); TLC: R<italic><sub>f</sub></italic> =  0.22 (EtOAc/MeOH  10:1); <sup>1</sup>H- NMR (250 MHz): &#x3B4; = 8.38 (s, 1H, N<italic>H</italic>), 8.30 and 8.24 (2s, 2H, H-2&#x2019; and H-8&#x2019;), 7.36-7.18 (m, 5H, H<sub>ar</sub>), 5.58 (s, 2H, NCH<sub>2</sub>O), 4.72 (s, 2H, NCH<sub>2</sub>C<sub>ar</sub>), 4.67 (t, J = 5.2 Hz, 1H, OH), 3.54-3.46 (m, 4H, HOC<italic>H</italic><sub>2</sub>C<italic>H</italic><sub>2</sub>O); <sup>13</sup>C-NMR (63 MHz): &#x3B4; = 154.3 and 152.7 (C4&#x2019; and C6&#x2019;), 154.3 (C2&#x2019;), 141.0 (C8&#x2019;), 139.9 (s, C<sub>ar</sub>), 128.1, 127.0, 126.5 (d, C<sub>ar</sub>), 118.8 (C5&#x2019;), 72.2 (N<italic>C</italic>H<sub>2</sub>O), 70.7 (HOCH<sub>2</sub><italic>C</italic>H<sub>2</sub>O), 59.8 (HO<italic>C</italic>H<sub>2</sub>CH<sub>2</sub>O), 42.8 (N<italic>C</italic>H<sub>2</sub>C<sub>ar</sub>); IR (ATR, cm<sup>-1</sup>): 3283 (m), 2926 (m), 1616 (s), 1482 (m), 1343 (m), 1217 (m), 1114 (m), 1073 (m), 761 (m), 645 (m); MS (EI, 70 eV): m/z (%) = 299 (39) [M<sup>+</sup>], 254 (8), 238 (16), 225 (66), 224 (91), 120 (26), 106 (95), 91 (100), 79 (16), 65 (25); HRMS (EI, 70 eV) calcd. for [M<sup>+</sup>] C<sub>15</sub>H<sub>17</sub>N<sub>5</sub>O<sub>2</sub>: 299.1382, found: 299.138.</p>
+        <p><italic>2-[6&#x2019;-(p-Morpholinyl-phenylamino)-purin-9&#x2019;-ylmethoxy]-ethanol</italic> (<bold>15</bold>):  The  acyclic  nucleoside  analog <bold>15</bold> was prepared according to the general protocols for the amination of <bold>5</bold> using conditions A, B or C (for yields see <xref ref-type="table" rid="molecules-10-00508-t001">Table 1</xref>). M.p. 186 &#xB0;C; TLC: R<italic><sub>f</sub></italic> = 0.16 (EtOAc/MeOH 10:1); <sup>1</sup>H-NMR (250 MHz): &#x3B4; = 9.69 (s, 1H, N<italic>H</italic>), 8.41 and 8.36 (2s, 2H, H-2&#x2019; and H-8&#x2019;), 7.74 (d, J = 9.0 Hz, 2H, H<sub>ar</sub>), 6.92 (d, J = 9.0 Hz, 2H, H<sub>ar</sub>), 5.62 (s, 2H, NCH<sub>2</sub>O), 4.68 (t, J = 5.3 Hz, 1H, OH), 3.74 (t, J = 4.8 Hz, 4H, NCH<sub>2</sub>C<italic>H</italic><sub>2</sub>O), 3.56-3.45 (m, 4H, HOC<italic>H</italic><sub>2</sub>C<italic>H</italic><sub>2</sub>O), 3.06 (t, J = 4.8 Hz, 4H, NC<italic>H</italic><sub>2</sub>CH<sub>2</sub>O); <sup>13</sup>C-NMR (63 MHz): &#x3B4; = 152.4 (C2&#x2019;), 152.1 and 149.5 (C4&#x2019; and C6&#x2019;), 147.0 (s, C<sub>ar</sub>), 141.6 (C8&#x2019;), 131.6 (s, C<sub>ar</sub>), 122.2 (d, C<sub>ar</sub>), 119.2 (C5&#x2019;), 115.2 (d, C<sub>ar</sub>), 72.3 (N<italic>C</italic>H<sub>2</sub>O), 70.8 (HOCH<sub>2</sub><italic>C</italic>H<sub>2</sub>O), 66.0 (NCH<sub>2</sub><italic>C</italic>H<sub>2</sub>O), 59.8 (HO<italic>C</italic>H<sub>2</sub>CH<sub>2</sub>O), 49.0 (N<italic>C</italic>H<sub>2</sub>CH<sub>2</sub>O); IR (ATR, cm<sup>-1</sup>): 3323 (m), 2922 (m), 1618 (s), 1583 (m), 1511 (s), 1477 (m), 1230 (m), 1117 (m), 926 (m), 758 (m); MS (EI, 70 eV): m/z (%) = 270 (100) [M<sup>+</sup>], 309 (10), 296 (67), 238 (57), 209 (12), 155 (7), 125 (19), 77 (10); HRMS (EI, 70 eV) calcd. for [M<sup>+</sup>] C<sub>18</sub>H<sub>22</sub>N<sub>6</sub>O<sub>3</sub>: 370.1753, found: 370.175.</p>
+        <p><italic>2-{6&#x2019;-[2-(1&#x2019;&#x2019;H-Indol-2&#x2019;&#x2019;-yl)-ethylamino]-purin-9&#x2019;-ylmethoxy}-ethanol</italic> (<bold>16</bold>): The acyclic nucleoside analog <bold>16</bold> was prepared according to the general protocols for the amination of <bold>5</bold> using conditions A, B or C (for yields see <xref ref-type="table" rid="molecules-10-00508-t001">Table 1</xref>). M.p. 147 &#xB0;C; TLC: R<italic><sub>f</sub></italic> = 0.17 (EtOAc/MeOH 10:1); <sup>1</sup>H-NMR (250 MHz): &#x3B4; = 10.80 (s, 1H, H-1&#x2019;&#x2019;), 8.31 and 8.28 (2s, 2H, H-2&#x2019; and H-8&#x2019;), 7.87 (s, 1H, CH<sub>2</sub>N<italic>H</italic>), 7.65 (d, J = 7.5 Hz, 1H, H-7&#x2019;&#x2019;), 7.35 (d, J = 7.8 Hz, 1H, H-4&#x2019;&#x2019;), 7.21 (s, 1H, H-2&#x2019;&#x2019;), 7.10-6.96 (m, 2H, H-5&#x2019;&#x2019; and H- 6&#x2019;&#x2019;), 5.58 (s, 2H, NCH<sub>2</sub>O), 4.68 (bs, 1H, OH), 3.56-3.47 (m, 6H, HOC<italic>H</italic><sub>2</sub>C<italic>H</italic><sub>2</sub>O and NC<italic>H</italic>2CH<sub>2</sub>), 3.04 (t, J = 8.0 Hz, 2H, NCH<sub>2</sub>C<italic>H</italic>2); <sup>13</sup>C-NMR (63 MHz): &#x3B4; =  154.4 and 148.9 (C4&#x2019; and C6&#x2019;), 152.8 (C2&#x2019;), 140.9 (C8&#x2019;), 136.2 (C3a&#x2019;&#x2019;), 127.2 (C7a&#x2019;&#x2019;), 122.5 (C2&#x2019;&#x2019;), 120.8 (C5&#x2019;&#x2019;), 118.8 (C5), 118.4 and 118.1 (C4&#x2019;&#x2019; and C6&#x2019;&#x2019;), 111.8 (C3&#x2019;&#x2019;), 111.2 (C7&#x2019;&#x2019;), 72.2 (N<italic>C</italic>H<sub>2</sub>O), 70.7 (HOCH<sub>2</sub><italic>C</italic>H<sub>2</sub>O), 59.8 (HO<italic>C</italic>H<sub>2</sub>CH<sub>2</sub>O), 48.5 (N<italic>C</italic>H<sub>2</sub>CH<sub>2</sub>C<sub>ar</sub>), 25.1 (NCH<sub>2</sub><italic>C</italic>H<sub>2</sub>C<sub>ar</sub>); IR (ATR, cm<sup>-1</sup>): 3284 (m), 2924 (m), 1619 (s), 1454 (m), 1337 (m), 1223 (m), 1112 (m), 1072 (m), 742 (m); MS (ESI): m/z (%) = 727 (9) [2M +Na<sup>+</sup>], 449 (10), 375 (100) [M + Na<sup>+</sup>], 353 (50) [M + H<sup>+</sup>], 279 (12); HRMS (ESI) calcd. for [M + H<sup>+</sup>] C<sub>18</sub>H<sub>21</sub>N<sub>6</sub>O<sub>2</sub>: 353.1725, found: 353.172.</p>
+        <p><italic>2-(6-chloro-purin-9-ylmethoxy)-ethyl acetate</italic> (<bold>17</bold>) [<xref ref-type="bibr" rid="B11-molecules-10-00508">11</xref>]: Ac<sub>2</sub>O (275 &#xB5;L, 2.88 mmol) was added at RT to a stirred solution of <bold>5</bold> (300 mg, 1.31 mmol), Et<sub>3</sub>N (235 &#xB5;L, 1.57 mmol) and DMAP (20 mg, 0.16 mmol) in CH<sub>2</sub>Cl<sub>2</sub> (8 mL). The resulting mixture was stirred for 1 h at RT and was then quenched by addition of sat. aq. NaHCO<sub>3</sub> (10 mL). The water phase was extracted with CH<sub>2</sub>Cl<sub>2</sub> (3 x 10 mL) and the combined organic layers were washed with sat. aq. NaHCO<sub>3</sub> (2 x 10 mL) and brine (10 mL), dried (MgSO<sub>4</sub>) and concentrated under reduced pressure. The residue was purified by flash chromatography (EtOAc) to give the product <bold>17</bold> as a white solid (270 mg, 76%). M.p. 96 &#xB0;C (lit. [11b]: 96-97 &#xB0;C); TLC: R<italic><sub>f</sub></italic> = 0.44 (EtOAc); <sup>1</sup>H-NMR (250 MHz): &#x3B4; = 8.85 (s, 1H, H-2), 8.82 (s, 1H, H-8), 5.73 (s, 2H, NCH<sub>2</sub>O), 4.08-4.05 and 3.77-3.74 (m, 4H, HOCH<sub>2</sub>CH<sub>2</sub>O), 1.90 (s, 3H, CH<sub>3</sub>); <sup>13</sup>C-NMR (63 MHz): &#x3B4; = 170.0 (C=O), 152.0 and 149.1 (C4 and C6), 151.9 (C2), 147.6 (C8), 130.8 (C5), 72.8 (N<italic>C</italic>H<sub>2</sub>O), 67.2 (HOCH<sub>2</sub><italic>C</italic>H<sub>2</sub>O), 62.6 (HO<italic>C</italic>H<sub>2</sub>CH<sub>2</sub>O), 20.4 (CH<sub>3</sub>); IR (ATR, cm<sup>-1</sup>): 2950 (s), 1735 (s), 1592 (m), 1560 (s), 1335 (m), 1234 (s), 1141 (m), 1102 (m), 1049 (m), 938 (m), 752 (m), 636 (m); MS (EI, 70 eV): m/z (%) = 270 (5) [M]<sup>+</sup>, 259 (19), 210 (9), 183 (31), 197 (92), 154 (12), 104 (13), 87 (100); HRMS (EI, 70 eV) calcd. for [M]<sup>+</sup> C<sub>10</sub>H<sub>11</sub>ClN<sub>4</sub>O<sub>3</sub>: 270.0520, found: 270.052.</p>
+        <p><italic>6-Chloro-9-{2-[dimethyl-(1,1,2-trimethyl-propyl)-silanyloxy]-ethoxymethyl}-9H-purine</italic> (<bold>18</bold>): Chloro-purine <bold>5</bold> (300 mg, 1.31 mmol) was added to dry pyridine (2.5 mL) at RT and the mixture was stirred for 5 min. ThxMe<sub>2</sub>SiCl (409 &#xB5;L, 1.97 mmol) was added and after stirring was continued for 16 h, the reaction was quenched by addition of sat. aq. NaHCO<sub>3</sub> (10 mL). The resulting mixture was stirred at RT for 30 min, then the water phase was extracted with EtOAc (4 x 10 mL). The combined organic layers were washed with water (10 mL) and brine (10 mL), dried (MgSO<sub>4</sub>) and concentrated under reduced pressure. The residue was then purified by flash chromatography (<italic>c</italic>-Hex/EtOAc 2:1), giving <bold>18</bold> as a white solid (412 mg, 85%). M.p. 58 &#xB0;C; TLC: R<italic><sub>f</sub></italic> = 0.18 (<italic>c</italic>-Hex/EtOAc 2:1); <sup>1</sup>H-NMR (250 MHz): &#x3B4; = 8.84 and 8.82 (2s, 2H, H-2 and H-8), 5.72 (s, 2H, NCH<sub>2</sub>O), 3.62 (s, 4H, OCH<sub>2</sub>CH<sub>2</sub>O), 1.45 (septet, <italic>J</italic> = 6.8 Hz, 1H, Me2C<italic>H</italic>), 0.73 (d, <italic>J</italic> = 6.8 Hz, 6H, (C<italic>H</italic>3)<sub>2</sub>CH), 0.69 (s, 6H, C(C<italic>H</italic>3)<sub>2</sub>), -0.03 (s, 6H, (C<italic>H</italic><sub>3</sub>)<sub>2</sub>Si); <sup>13</sup>C-NMR (63 MHz): &#x3B4; = 152.0 and 149.1 (C4 and C6), 151.8 (C2), 147.5 (C8), 130.8 (C5), 73.1 (N<italic>C</italic>H<sub>2</sub>O), 70.9 (HOCH<sub>2</sub><italic>C</italic>H<sub>2</sub>O), 61.4 (HO<italic>C</italic>H<sub>2</sub>CH<sub>2</sub>O), 33.5 (Me<sub>2</sub><italic>C</italic>H), 24.4 (Me<sub>2</sub><italic>C</italic>Si), 20.0 ((<italic>C</italic>H<sub>3</sub>)<sub>2</sub>CH), 18.1 ((<italic>C</italic>H<sub>3</sub>)<sub>2</sub>CSi), -3.6 ((<italic>C</italic>H<sub>3</sub>)<sub>2</sub>Si); IR (ATR, cm<sup>-1</sup>): 2955 (m), 2866 (m), 1592 (m), 1560 (s), 1251 (m), 1208 (m), 1141 (m), 1096 (s), 937 (m), 830 (s), 777 (m); MS (EI, 70 eV): m/z (%) = 285 (8) [M &#x2013; C<sub>6</sub>H<sub>13</sub><sup>+</sup>], 169 (33), 167 (100), 117 (5), 104 (6), 73 (12); HRMS (ESI) calcd. for [M &#x2013; C<sub>6</sub>H<sub>13</sub><sup>+</sup>] C<sub>10</sub>H<sub>14</sub>ClN<sub>4</sub>O<sub>2</sub>Si: 285.0574, found: 285.057.</p>
+       </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This work was supported by the &#x201C;Fond der Chemischen Industrie" (Fonds Stipendium to A.L.). We also thank Dr. H. Schmickler, Dr. N. Schl&#xF6;rer and Dr. M. Sch&#xE4;fer for their support in the application of advanced NMR and MS techniques. Furthermore, we would like to thank Dr. Dr. A. Prokop, Charit&#xE9; Berlin, for the fruitful cooperation concerning the biological evaluation of synthetic nucleosides.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00508">
+        <label>1.</label>
+        <note>
+		<p>a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El Kouni</surname>
+              <given-names>M. H.</given-names>
+            </name>
+          </person-group>
+          <source>Curr. Pharm. Des.</source>
+          <year>2002</year>
+          <volume>8</volume>
+          <fpage>581</fpage>
+          <lpage>593</lpage>
+          <pub-id pub-id-type="pmid">11945160</pub-id>
+        </citation>; b) <citation citation-type="journal">
+          <person-group person-group-type="author">
+		   <name>
+              <surname>Richman</surname>
+              <given-names>D. D.</given-names>
+            </name>
+          </person-group>
+          <source>Nature</source>
+          <year>2001</year>
+          <volume>410</volume>
+         <fpage>995</fpage>
+          <lpage>1001</lpage>
+        </citation>; c) <citation citation-type="journal">
+          <person-group person-group-type="author">
+		  <name>
+              <surname>Larder</surname>
+              <given-names>B. A.</given-names>
+            </name>
+			<name>
+              <surname>Stammers</surname>
+              <given-names>D. K.</given-names>
+            </name>
+			</person-group>
+          <source>Nat. Struct. Biol.</source>
+          <year>1999</year>
+          <volume>6</volume>
+         <fpage>103</fpage>
+          <lpage>106</lpage>
+        </citation>; d) <citation citation-type="journal">
+          <person-group person-group-type="author">
+		  <name>
+              <surname>De Clerq</surname>
+              <given-names>E.</given-names>
+            </name>
+			</person-group>
+          <source>Nucleos. Nucleot. Nucl. Acids</source>
+          <year>1994</year>
+          <volume>12</volume>
+         <fpage>1271</fpage>
+        </citation>; e) <citation citation-type="journal">
+          <person-group person-group-type="author">
+		  <name>
+              <surname>Sandstrom</surname>
+              <given-names>E.</given-names>
+            </name>
+			<name>
+              <surname>Oberg</surname>
+              <given-names>B.</given-names>
+            </name>
+			</person-group>
+          <source>Drugs</source>
+          <year>1993</year>
+          <volume>45</volume>
+         <fpage>637</fpage>
+          <lpage>653</lpage>
+        </citation>; see also: f) <citation citation-type="journal">
+          <person-group person-group-type="author">
+		  <name>
+              <surname>Beausejour</surname>
+              <given-names>C. M.</given-names>
+            </name>
+			<name>
+              <surname>Gagnon</surname>
+              <given-names>J.</given-names>
+            </name>
+			<name>
+              <surname>Primeau</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Momparler</surname>
+              <given-names>R. L.</given-names>
+            </name>
+			</person-group>
+          <source>Biochem. Biophys. Res. Commun.</source>
+          <year>2002</year>
+          <volume>293</volume>
+         <fpage>1478</fpage>
+          <lpage>1484</lpage>
+        </citation>; g) <citation citation-type="journal">
+          <person-group person-group-type="author">
+		  <name>
+              <surname>Tjarsk</surname>
+              <given-names>W.</given-names>
+            </name>
+			</person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>2000</year>
+          <volume>614&#x2013;615</volume>
+         <fpage>37</fpage>
+          <lpage>74</lpage>
+        </citation>.</p>
+		</note>
+      </ref>
+      <ref id="B2-molecules-10-00508">
+        <label>2.</label>
+		<note>
+		<p>a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>X.-F.</given-names>
+            </name>
+          </person-group>
+          <source>Nucleos. Nucleot. Nucl. Acids</source>
+          <year>2000</year>
+          <volume>19</volume>
+          <fpage>651</fpage>
+          <lpage>690</lpage>
+        </citation>: For a recent review on Pd-assisted routes to nucleosides, see: b) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Agrofoglio</surname>
+              <given-names>L. A.</given-names>
+            </name>
+          <name>
+              <surname>Gillaizeau</surname>
+              <given-names>I.</given-names>
+            </name>
+          <name>
+              <surname>Saito</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>2003</year>
+          <volume>103</volume>
+          <fpage>1875</fpage>
+          <lpage>1916</lpage>
+        </citation>.</p>
+		</note>
+      </ref>
+      <ref id="B3-molecules-10-00508">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gao</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Mitra</surname>
+              <given-names>A. K.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>2000</year>
+          <fpage>329</fpage>
+          <lpage>351</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00508">
+        <label>4.</label>
+        <note>
+		<p>a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vince</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Hua</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1990</year>
+          <volume>33</volume>
+          <fpage>17</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="pmid">2296018</pub-id>
+        </citation>; b) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parker</surname>
+              <given-names>W. B.</given-names>
+            </name>
+            <name>
+              <surname>Shaddix</surname>
+              <given-names>S. C.</given-names>
+            </name>
+			<name>
+              <surname>Bowdon</surname>
+              <given-names>B. J.</given-names>
+            </name>
+			<name>
+              <surname>Rose</surname>
+              <given-names>L. M.</given-names>
+            </name>
+			<name>
+              <surname>Vince</surname>
+              <given-names>R.</given-names>
+            </name>
+			<name>
+              <surname>Shannon</surname>
+              <given-names>W. N.</given-names>
+            </name>
+			<name>
+              <surname>Bennett</surname>
+              <given-names>L. L.</given-names>
+            </name>
+          </person-group>
+          <source>Antimicrob. Agents Chemother.</source>
+          <year>1993</year>
+          <volume>37</volume>
+          <fpage>1004</fpage>
+          <lpage>1009</lpage>
+		  </citation>.</p>
+		</note>
+      </ref>
+      <ref id="B5-molecules-10-00508">
+        <label>5.</label>
+        <note>
+		<p>a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Velcicky</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lex</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Schmalz</surname>
+              <given-names>H.-G.</given-names>
+            </name>
+          </person-group>
+          <source>Org. Lett.</source>
+          <year>2002</year>
+          <volume>4</volume>
+          <fpage>565</fpage>
+          <lpage>568</lpage>
+          <pub-id pub-id-type="pmid">11843592</pub-id>
+        </citation>; b) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Velcicky</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lanver</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Lex</surname>
+              <given-names>J.</given-names>
+            </name>
+			<name>
+              <surname>Prokop</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Wieder</surname>
+              <given-names>Th.</given-names>
+            </name>
+			<name>
+              <surname>Schmalz</surname>
+              <given-names>H.-G.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Eur. J.</source>
+          <year>2004</year>
+          <volume>10</volume>
+          <fpage>5087</fpage>
+          <lpage>5110</lpage>
+		  </citation>.</p>
+		</note>
+      </ref>
+      <ref id="B6-molecules-10-00508">
+        <label>6.</label>
+        <note>
+		<p>For an excellent recent review on microwave-assisted organic synthesis, see: <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kappe</surname>
+              <given-names>C. O.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem.</source>
+          <year>2004</year>
+          <volume>116</volume>
+          <fpage>6408</fpage>
+          <lpage>6443</lpage>
+        </citation>; <citation citation-type="journal">
+		<source>Angew. Chem. Int. Ed.</source>
+          <year>2004</year>
+          <volume>43</volume>
+          <fpage>6250</fpage>
+          <lpage>6284</lpage>
+        </citation>.</p>
+		</note>
+      </ref>
+      <ref id="B7-molecules-10-00508">
+        <label>7.</label>
+        <note>
+		<p>For recent examples on microwave-assisted aminations, see: a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.-G.</given-names>
+            </name>
+          </person-group>
+          <source>Org. Lett.</source>
+          <year>2004</year>
+          <volume>6</volume>
+          <fpage>985</fpage>
+          <lpage>987</lpage>
+          <pub-id pub-id-type="pmid">15012081</pub-id>
+        </citation>; b) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Narayan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Seelhammer</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Gawley</surname>
+              <given-names>R. E.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2004</year>
+          <volume>45</volume>
+          <fpage>757</fpage>
+          <lpage>759</lpage>
+		  </citation>; c) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Spinks</surname>
+              <given-names>D.</given-names>
+            </name>
+			<name>
+              <surname>Harrity</surname>
+              <given-names>J. P. A.</given-names>
+            </name>
+			</person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2004</year>
+          <volume>45</volume>
+          <fpage>3189</fpage>
+          <lpage>3191</lpage>
+		  </citation>; d) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meciarova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Podlesna</surname>
+              <given-names>J.</given-names>
+            </name>
+			<name>
+              <surname>Toma</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Monatsh. Chem.</source>
+          <year>2004</year>
+          <volume>135</volume>
+          <fpage>419</fpage>
+          <lpage>423</lpage>
+		  </citation>; e) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>T. Y. H.</given-names>
+            </name>
+            <name>
+              <surname>Schultz</surname>
+              <given-names>P. G.</given-names>
+            </name>
+			<name>
+              <surname>Ding</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Org. Lett.</source>
+          <year>2003</year>
+          <volume>5</volume>
+          <fpage>3587</fpage>
+          <lpage>3590</lpage>
+		  </citation>; f) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shi</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Fan</surname>
+              <given-names>C.-A.</given-names>
+            </name>
+			<name>
+              <surname>Zhang</surname>
+              <given-names>F.M.</given-names>
+            </name>
+			<name>
+              <surname>Tu</surname>
+              <given-names>Y.-Q.</given-names>
+            </name>
+          </person-group>
+          <source>Org. Lett.</source>
+          <year>2003</year>
+          <volume>5</volume>
+          <fpage>3515</fpage>
+          <lpage>3517</lpage>
+		  </citation>; g) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Luo</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>L.</given-names>
+            </name>
+			<name>
+              <surname>Poindexter</surname>
+              <given-names>G.S.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2002</year>
+          <volume>43</volume>
+          <fpage>5739</fpage>
+          <lpage>5742</lpage>
+		  </citation>; h) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>B.</given-names>
+            </name>
+		</person-group>
+          <source>Chem. Commun.</source>
+          <year>2001</year>
+          <fpage>2268</fpage>
+          <lpage>2269</lpage>
+		  </citation>.</p>
+		</note>
+      </ref>
+      <ref id="B8-molecules-10-00508">
+        <label>8.</label>
+        <note>
+		<p>a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keyser</surname>
+              <given-names>G. E.</given-names>
+            </name>
+            <name>
+              <surname>Bryant</surname>
+              <given-names>J. D.</given-names>
+            </name>
+            <name>
+              <surname>Barrio</surname>
+              <given-names>J. R.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1979</year>
+          <volume>35</volume>
+          <fpage>3263</fpage>
+          <lpage>3264</lpage>
+        </citation>; b) <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anton</surname>
+              <given-names>D.L.</given-names>
+            </name>
+            <name>
+              <surname>Korant</surname>
+              <given-names>B. D.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>C. L. J.</given-names>
+            </name>
+          </person-group>
+          <source>US Pat.</source>
+		  <patent>4803272</patent>
+          <year>1989</year>
+          <comment>[Chem. Abstr. <bold>1989</bold>, <italic>111</italic>, 97692]</comment>
+        </citation>; c) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barrio</surname>
+              <given-names>J. R.</given-names>
+            </name>
+            <name>
+              <surname>Bryant</surname>
+              <given-names>J. D.</given-names>
+            </name>
+           <name>
+              <surname>Keyser</surname>
+              <given-names>G. E.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1980</year>
+          <volume>23</volume>
+          <fpage>572</fpage>
+          <lpage>574</lpage>
+        </citation>.</p>
+		</note>
+      </ref>
+      <ref id="B9-molecules-10-00508">
+        <label>9.</label>
+        <note>
+		<p>a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gray</surname>
+              <given-names>N. S.</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Schultz</surname>
+              <given-names>P. G.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1997</year>
+          <volume>38</volume>
+          <fpage>1161</fpage>
+          <lpage>1164</lpage>
+        </citation>; b) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mutai</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Gruber</surname>
+              <given-names>B. A.</given-names>
+            </name>
+            <name>
+              <surname>Leonar</surname>
+              <given-names>N. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1975</year>
+          <volume>97</volume>
+          <fpage>4095</fpage>
+          <lpage>4104</lpage>
+        </citation>; c) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lettre</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ballweg</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Liebigs Ann. Chem.</source>
+          <year>1960</year>
+          <fpage>171</fpage>
+          <lpage>184</lpage>
+        </citation>.</p>
+		</note>
+      </ref>
+      <ref id="B10-molecules-10-00508">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taha</surname>
+              <given-names>M. L.</given-names>
+            </name>
+            <name>
+              <surname>Lazrek</surname>
+              <given-names>H. B.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Soc. Chim. Belg.</source>
+          <year>1995</year>
+          <volume>104</volume>
+          <fpage>591</fpage>
+          <lpage>594</lpage>
+          <pub-id pub-id-type="doi">10.1002/bscb.19951041004</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00508">
+        <label>11.</label>
+        <note>
+		<p>a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Robins</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name>
+              <surname>Hatfield</surname>
+              <given-names>P. W.</given-names>
+            </name>
+            <name>
+              <surname>Balzarini</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>De Clercq</surname>
+              <given-names>E. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1984</year>
+          <volume>27</volume>
+          <fpage>1486</fpage>
+          <lpage>1492</lpage>
+          <pub-id pub-id-type="pmid">6092636</pub-id>
+        </citation>; b) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Robins</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name>
+              <surname>Hatfield</surname>
+              <given-names>P. W.</given-names>
+            </name>
+          </person-group>
+          <source>Can. J. Chem.</source>
+          <year>1982</year>
+          <volume>60</volume>
+          <fpage>547</fpage>
+          <lpage>553</lpage>
+          <pub-id pub-id-type="pmid">6092636</pub-id>
+        </citation>.</p>
+		</note>
+      </ref>
+      <ref id="B12-molecules-10-00508">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Still</surname>
+              <given-names>W. C.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mitra</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1978</year>
+          <volume>43</volume>
+          <fpage>2923</fpage>
+          <lpage>2925</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+        <p><italic>SampleS Availability:</italic> Available from the authors.</p>
+      </fn>
+    </fn-group>  
+  </back>
+</article>

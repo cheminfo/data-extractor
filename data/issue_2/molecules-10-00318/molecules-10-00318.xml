@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xml:lang="en" article-type="editorial" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020318</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00318</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Guest Editorial</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Special Issue: Sulfur-Nitrogen Heterocycles</article-title>
+      </title-group>
+	  <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Garc&#xED;a-Valverde</surname>
+            <given-names>Maria</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Torroba</surname>
+            <given-names>Tom&#xE1;s</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00318" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00318">Department of Chemistry, University of Burgos, 09001 Burgos, Spain, Tel. (+34)-947-258088, Fax (+34)-947-258087.</aff>
+     <author-notes>
+        <corresp id="c1-molecules-10-00318"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>ttorroba@ubu.es</email> </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>318</fpage>
+      <lpage>320</lpage>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <p>For more than a century, heterocycles have constituted one the largest areas of research in organic chemistry. They have contributed to the development of society from a biological and industrial point of view as well as to the understanding of life processes and to the efforts to improve the quality of life. Heterocycles play an important role in biochemical processes because the side groups of the most typical and essential constituents of living cells, DNA and RNA, are based on aromatic heterocycles [<xref ref-type="bibr" rid="B1-molecules-10-00318">1</xref>]. Among the approximately 20 million chemical compounds identified by the end of the second millennium, more than two-thirds are fully or partially aromatic, and approximately half are heterocyclic. The presence of heterocycles in all kinds of organic compounds of interest in biology, pharmacology, optics, electronics, material sciences, and so on is very well known. Between them, sulfur and nitrogen-containing heterocyclic compounds have maintained the interest of researchers through decades of historical development of organic synthesis. The grounds of this interest were their biological activities and unique structures that led to several applications in different areas of pharmaceutical and agrochemical research or, more recently, in material sciences [<xref ref-type="bibr" rid="B2-molecules-10-00318">2</xref>]. </p>
+    <p>The family of sulfur&#x2013;nitrogen heterocycles includes highly stable aromatic compounds that display physicochemical properties with relevance in the design of new materials, especially those relating to molecular conductors and magnets. During the past few decades, interest has been rapidly growing in gaining insight into the properties and transformations of these heterocycles The interesting characteristics found in many of them have led to the development of modern synthetic methods that are the subject of this special issue. Nitrogen and sulfur organic aromatic heterocycles are formally derived from aromatic carbon cycles with a heteroatom taking the place of a ring carbon atom or a complete CH=CH group. The presence of heteroatoms results in significant changes in the cyclic molecular structure due to the availability of unshared pairs of electrons and the difference in electronegativity between heteroatoms and carbon. Therefore, nitrogen and sulfur heterocyclic compounds display physicochemical characteristics and reactivity quite different from the parent aromatic hydrocarbons. On the other hand, the presence of many nitrogen and sulfur atoms in a ring is normally associated with instability and difficulties in the synthesis but, in fact, surprisingly stable heterocycles with unusual properties can be frequently obtained from simple organic substrates and the appropriate inorganic reagent. Carbon atoms confer high stability to such rings, according to the aromaticity and antiaromaticity rules, and the nitrogen-sulfur core gives unusual properties to the compounds, in accordance with their electron rich p-excessive nature. The physicochemical properties of this family of compounds have relevance in the design of new materials, specially concerning organic conductors. </p>
+    <p>In contrast with the number and variety of such heterocycles, the number of synthetic methods to afford them is, in practice, restricted to the availability of the appropriate sulfur or nitrogen reagent. Sometimes, the preparation of new heterocyclic systems by conventional ways is a hard work that implies many synthetic steps and expensive starting materials. Moreover, many heterocyclic systems, predicted to be stable, are impossible to prepare because the required synthetic approach simply does not exist. For this reason, new approaches to obtaining complex heterocyclic systems by using simple organic starting materials and reagents which generate reactive intermediates, that can be trapped by selected nucleophiles in tandem or sequential processes, have been developed. A good combination of reagents and reaction sequences permits the preparation of heterocycles that imply several reaction steps by rational design. An example of this chemistry is the reaction of <italic>N</italic>-alkyldiisopropylamines with disulfur dichloride, which is able to give several different heterocyclic structures, depending on the reaction conditions [<xref ref-type="bibr" rid="B3-molecules-10-00318">3</xref>]. Multi-component reactions constitute another important synthetic tool that is now growing fast in its development of new heterocyclic processes. As an example, multi-component condensations of isocyanides are extremely powerful synthetic tools for the preparation of structurally diverse complex molecules, which can be further modified by post-condensation transformations [<xref ref-type="bibr" rid="B4-molecules-10-00318">4</xref>]. Among the post-condensation transformations, those leading to the formation of heterocyclic cores are very important since permit the preparation, often in a very simple manner, of heterocyclic compounds with substitution patterns that are not easily obtainable by other synthetic routes. Furthermore, these transformations permit a facile access to constrained peptides and peptide mimetics, which are of great interest in drug discovery programs. These and other areas are now currently under intense research, especially those relating to pharmaceutical and new materials chemistry. The interesting characteristics found in many of these heterocycles, the development of rapid synthetic methods from easily available materials, and the very wide range of products obtainable by modern methods offer wide scope for the synthesis of new sulfur-nitrogen heterocycles. The articles in this Special Issue reflect the new strategies that are now being developed for the synthesis of these heterocycles. I want to thank to all the authors in this issue for their outstanding cooperation and support, and for their achievements in the study of sulfur and nitrogen heterocycles.</p>
+	<sig-block>
+    <sig>Maria Garc&#xED;a-Valverde and Tom&#xE1;s Torroba<break/>Universidad de Burgos</sig>
+	</sig-block>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00318">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Balaban</surname>
+              <given-names>A. T.</given-names>
+            </name>
+            <name>
+              <surname>Oniciu</surname>
+              <given-names>D. C.</given-names>
+            </name>
+            <name>
+              <surname>Katritzky</surname>
+              <given-names>A. R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Aromaticity as a cornerstone of heterocyclic chemistry</article-title>
+          <source>Chem. Rev.</source>
+          <year>2004</year>
+          <volume>104</volume>
+          <fpage>2777</fpage>
+          <lpage>2812</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00318">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torroba</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Poly-sulfur-nitrogen heterocycles via sulfur chlorides and nitrogen reagents</article-title>
+          <source>J. Prakt. Chem.</source>
+          <year>1999</year>
+          <volume>341</volume>
+          <fpage>99</fpage>
+          <lpage>113</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00318">
+        <label>3.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marcos</surname>
+              <given-names>C. F.</given-names>
+            </name>
+            <name>
+              <surname>Polo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Rakitin</surname>
+              <given-names>O. A.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C. W.</given-names>
+            </name>
+            <name>
+              <surname>Torroba</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>From H&#xFC;nig's base to bis[1,2]dithiolo[1,4]thiazines in one pot: the fast route to highly sulfurated heterocycles</article-title>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1997</year>
+          <volume>36</volume>
+          <fpage>281</fpage>
+          <lpage>283</lpage>
+		  </citation>
+		  <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marcos</surname>
+              <given-names>C. F.</given-names>
+            </name>
+            <name>
+              <surname>Polo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Rakitin</surname>
+              <given-names>O. A.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C. W.</given-names>
+            </name>
+            <name>
+              <surname>Torroba</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>One pot synthesis and chemistry of bis[1,2]dithiolopyrroles</article-title>
+          <source>Chem. Commun.</source>
+          <year>1997</year>
+           <fpage>879</fpage>
+          <lpage>880</lpage>
+		  </citation>
+          <citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marcos</surname>
+              <given-names>C. F.</given-names>
+            </name>
+            <name>
+              <surname>Rakitin</surname>
+              <given-names>O. A.</given-names>
+            </name>
+			 <name>
+              <surname>Rees</surname>
+              <given-names>C. W.</given-names>
+            </name>
+			<name>
+              <surname>Souvorova</surname>
+              <given-names>L. I.</given-names>
+            </name>
+            <name>
+              <surname>Torroba</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>White</surname>
+              <given-names>A. J. P.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tertiary amine-S<sub>2</sub>Cl<sub>2</sub> chemistry: interception of reaction intermediates</article-title>
+          <source>Chem. Commun.</source>
+          <year>1997</year>
+           <fpage>453</fpage>
+          <lpage>454</lpage>
+		  </citation>
+		  <citation citation-type="journal">
+		<label>(d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marcos</surname>
+              <given-names>C. F.</given-names>
+            </name>
+            <name>
+              <surname>Rakitin</surname>
+              <given-names>O. A.</given-names>
+            </name>
+			 <name>
+              <surname>Rees</surname>
+              <given-names>C. W.</given-names>
+            </name>
+			 <name>
+              <surname>Torroba</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>White</surname>
+              <given-names>A. J. P.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bis[1,2]dithiolo[3,4-b][4',3'-e][1,4]thiazine-3,5-dione, a planar 1,4-thiazine</article-title>
+          <source>Chem. Commun.</source>
+          <year>1999</year>
+           <fpage>29</fpage>
+          <lpage>30</lpage>
+		  </citation>
+		  <citation citation-type="journal">
+		<label>(e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garc&#xED;a-Valverde</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Pascual</surname>
+              <given-names>R.</given-names>
+            </name>
+			 <name>
+              <surname>Torroba</surname>
+              <given-names>T.</given-names>
+            </name>
+			 </person-group>
+          <article-title>1,3-Dithiole polyamides from isopropyl amines via atropisomeric 4-dialkylamino-5-chloro-1,2-dithioles</article-title>
+          <source>Org. Lett.</source>
+          <year>2003</year>
+		  <volume>5</volume>
+           <fpage>929</fpage>
+          <lpage>932</lpage>
+		  </citation>
+		  </ref>
+      <ref id="B4-molecules-10-00318">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marcaccini</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Torroba</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Post-condensation modifications of the Passerini and Ugi reactions</article-title>
+		  <source>Multicomponent Reactions</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bienaym&#xE9;</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Wiley-VCH Verlag GmbH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>2005</year>
+		  <comment>Chapt. 2</comment>
+		  <fpage>33</fpage>
+          <lpage>75</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

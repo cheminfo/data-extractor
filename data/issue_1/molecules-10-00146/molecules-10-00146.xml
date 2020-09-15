@@ -1,0 +1,3118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010146</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00146</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Biodegradable Polymers for Microencapsulation of Drugs</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Park</surname>
+            <given-names>Jae Hyung</given-names>
+          </name>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Ye</surname>
+            <given-names>Mingli</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Park</surname>
+            <given-names>Kinam</given-names>
+          </name>
+		  <xref rid="c1-molecules-10-00146" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00146">Department of Pharmaceutics and Biomedical Engineering, Purdue University, 575 Stadium Mall Drive, West Lafayette, IN 47907, U.S.A.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00146"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>kpark@purdue.edu</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>146</fpage>
+      <lpage>161</lpage>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>06</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+          <month>07</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Drug delivery has become increasingly important mainly due to the awareness of the difficulties associated with a variety of old and new drugs. Of the many polymeric drug delivery systems, biodegradable polymers have been used widely as drug delivery systems because of their biocompatibility and biodegradability. The majority of biodegradable polymers have been used in the form of microparticles, from which the incorporated drug is released to the environment in a controlled manner. The factors responsible for controlling the drug release rate are physicochemical properties of drugs, degradation rate of polymers, and the morphology and size of microparticles. This review discusses the conventional and recent technologies for microencapsulation of the drugs using biodegradable polymers. In addition, this review presents characteristics and degradation behaviors of biodegradable polymers which are currently used in drug delivery.</p>
+      </abstract>
+      <kwd-group>
+	  <kwd>Microencapsulation technology</kwd>
+	  <kwd>biodegradable polymer</kwd>
+	  <kwd>drug delivery system</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>For the past few decades, biodegradable polymers have been applied as carriers for controlled delivery of low molecular weight drugs as well as bioactive proteins [<xref ref-type="bibr" rid="B1-molecules-10-00146">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00146">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00146">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00146">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00146">5</xref>]. Biodegradable polymers, either synthetic or natural, are capable of being cleaved into biocompatible byproducts through chemical or enzyme-catalyzed hydrolysis. This biodegradable property makes it possible to implant them into the body without the need of subsequent removal by the surgical operation. Drugs formulated with these polymers can be released in a controlled manner, by which the drug concentration in the target site is maintained within the therapeutic window. The release rates of the drugs from biodegradable polymers can be controlled by a number of factors, such as biodegradation kinetics of the polymers [<xref ref-type="bibr" rid="B6-molecules-10-00146">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00146">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00146">8</xref>], physicochemical properties of the polymers and drugs [<xref ref-type="bibr" rid="B9-molecules-10-00146">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00146">10</xref>], thermodynamic compatibility between the polymers and drugs [<xref ref-type="bibr" rid="B11-molecules-10-00146">11</xref>], and the shape of the devices [<xref ref-type="bibr" rid="B12-molecules-10-00146">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00146">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00146">14</xref>].</p>
+      <p>Biodegradable polymer particles (e.g., microspheres, microcapsules, and nanoparticles) are highly useful because they can be administered to a variety of locations <italic>in vivo</italic> through a syringe needle [<xref ref-type="bibr" rid="B15-molecules-10-00146">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00146">16</xref>].  A variety of drugs, regardless of their molecular weights and water solubility, can be loaded into the biodegradable microparticles using different manufacturing techniques [<xref ref-type="bibr" rid="B17-molecules-10-00146">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00146">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00146">19</xref>,<xref ref-type="bibr" rid="B20-molecules-10-00146">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00146">21</xref>]. A few examples of biodegradable polymers used in microparticle preparation include polyesters [<xref ref-type="bibr" rid="B15-molecules-10-00146">15</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00146">22</xref>], polyanhydrides [<xref ref-type="bibr" rid="B23-molecules-10-00146">23</xref>,<xref ref-type="bibr" rid="B24-molecules-10-00146">24</xref>], poly(ortho esters) [<xref ref-type="bibr" rid="B25-molecules-10-00146">25</xref>,<xref ref-type="bibr" rid="B26-molecules-10-00146">26</xref>,<xref ref-type="bibr" rid="B27-molecules-10-00146">27</xref>], polyphosphazenes [<xref ref-type="bibr" rid="B28-molecules-10-00146">28</xref>,<xref ref-type="bibr" rid="B29-molecules-10-00146">29</xref>] and polysaccharides [<xref ref-type="bibr" rid="B19-molecules-10-00146">19</xref>,<xref ref-type="bibr" rid="B30-molecules-10-00146">30</xref>,<xref ref-type="bibr" rid="B31-molecules-10-00146">31</xref>]. <xref ref-type="fig" rid="molecules-10-00146-f001">Figure 1</xref> shows the chemical structures of several  biodegradable polymers.</p>
+      <fig id="molecules-10-00146-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Chemical structures of several biodegradable polymers.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00146-g001.tif"/>
+      </fig>
+    </sec>
+    <sec>
+      <title>Techniques of Microparticle Preparation</title>
+      <p>For preparation of microparticles using biodegradable polymers, it is important to choose an appropriate encapsulation process which meets the following requirements.  First, the chemical stability and biological activity of the incorporated drugs should be maintained during the encapsulation process. For example, since most proteins are readily denatured upon contact with hydrophobic organic solvents or acidic/basic aqueous solutions, the process should avoid such harsh environments.  Second, the encapsulation efficiency and the yield of the microparticles should be high enough for mass production.  Third, the microparticles produced should have the reasonable size range (&lt; 250 &#x3BC;m) that can be administrated using the syringe needle via the parenteral pathway. Fourth, the release profile of the drug should be reproducible without the significant initial burst. Fifth, the process employed should produce free-flowing microparticles, thus making it easy to prepare uniform suspension of the microparticles.</p>
+      <p>There are a number of techniques available for microencapsulation of drugs such as the emulsion-solvent evaporation/extraction method, spray drying, phase separation-coacervation, interfacial deposition, and <italic>in situ</italic> polymerization. Each method has its own advantages and disadvantages. The choice of a particular technique depends on the attributes of the polymer and the drug, the site of the drug action, and the duration of the therapy [<xref ref-type="bibr" rid="B15-molecules-10-00146">15</xref>,<xref ref-type="bibr" rid="B32-molecules-10-00146">32</xref>,<xref ref-type="bibr" rid="B33-molecules-10-00146">33</xref>]. This review deals with representative techniques, currently being recognized as effective in microencapsulation of drugs.</p>
+      <sec>
+        <title>Emulsion-solvent evaporation/extraction methods</title>
+      </sec>
+      <sec>
+        <title>Single emulsion method</title>
+        <p>This method has been primarily used to encapsulate hydrophobic drugs through oil-in-water (o/w) emulsification process. The polymer is dissolved in a water-immiscible, volatile organic solvent such as dichloromethane, and the drug is dissolved or suspended into the polymer solution. The resulting mixture is emulsified in a large volume of water in the presence of an emulsifier [<xref ref-type="bibr" rid="B15-molecules-10-00146">15</xref>,<xref ref-type="bibr" rid="B34-molecules-10-00146">34</xref>,<xref ref-type="bibr" rid="B35-molecules-10-00146">35</xref>]. The solvent in the emulsion is removed by either evaporation at elevated temperatures or extraction in a large amount of water, resulting in formation of compact microparticles. The rate of solvent removal is reported to affect the final morphology of microparticles. The solvent removal rate is determined by the temperature of the medium, the solubility characteristics of the polymer, and the solvent used [<xref ref-type="bibr" rid="B34-molecules-10-00146">34</xref>,<xref ref-type="bibr" rid="B35-molecules-10-00146">35</xref>,<xref ref-type="bibr" rid="B36-molecules-10-00146">36</xref>]. This method, however, is only available for the hydrophobic drugs because the hydrophilic drugs may diffuse out or partition from the dispersed oil phase into the aqueous phase, leading to poor encapsulation efficiencies [<xref ref-type="bibr" rid="B34-molecules-10-00146">34</xref>,<xref ref-type="bibr" rid="B36-molecules-10-00146">36</xref>].</p>
+        <p>In an attempt to encapsulate hydrophilic drugs (e.g., peptides and proteins), an oil-in-oil (o/o) emulsification method has recently received considerable attention [<xref ref-type="bibr" rid="B37-molecules-10-00146">37</xref>,<xref ref-type="bibr" rid="B38-molecules-10-00146">38</xref>,<xref ref-type="bibr" rid="B39-molecules-10-00146">39</xref>]. In this method, the water-miscible organic solvents are employed to dissolve the drug and polymer, whereas hydrophobic oils are used as a continuous phase of the o/o emulsion. The microparticles are obtained by removing the organic solvents through evaporation or extraction process.</p>
+      </sec>
+      <sec>
+        <title>Double emulsion method</title>
+        <p>Most water-soluble drugs have been encapsulated by water-in-oil-in-water (w/o/w) methods [<xref ref-type="bibr" rid="B19-molecules-10-00146">19</xref>,<xref ref-type="bibr" rid="B40-molecules-10-00146">40</xref>,<xref ref-type="bibr" rid="B41-molecules-10-00146">41</xref>]. The aqueous solution of the water-soluble drug is emulsified with polymer-dissolved organic solution to form the water-in-oil (w/o) emulsion. The emulsification is carried out using either high speed homogenizers or sonicators. This primary emulsion is then transferred into an excess amount of water containing an emulsifier under vigorous stirring, thus forming a w/o/w emulsion. In the subsequent procedure, the solvent is removed by either evaporation or extraction process.</p>
+        <p>One advantage of this method is encapsulation of hydrophilic drugs in an aqueous phase with the high encapsulation efficiency. For this reason, the w/o/w emulsion system has been used widely for the development of protein delivery systems [<xref ref-type="bibr" rid="B19-molecules-10-00146">19</xref>,<xref ref-type="bibr" rid="B40-molecules-10-00146">40</xref>,<xref ref-type="bibr" rid="B41-molecules-10-00146">41</xref>]. The characteristics of the microspheres prepared by the double emulsion method are dependent on the properties of the polymer (such as composition and molecular weight), the ratio of polymer to drug, the concentration and nature of the emulsifier, temperature, and the stirring/agitation speed during the emulsification process.</p>
+      </sec>
+      <sec>
+        <title>Phase separation</title>
+        <p>This method involves phase separation of a polymer solution by adding an organic nonsolvent [<xref ref-type="bibr" rid="B37-molecules-10-00146">37</xref>,<xref ref-type="bibr" rid="B42-molecules-10-00146">42</xref>,<xref ref-type="bibr" rid="B43-molecules-10-00146">43</xref>]. Drugs are first dispersed or dissolved in a polymer solution. To this mixture solution is added an organic nonsolvent (e.g., silicon oil) under continuous stirring, by which the polymer solvent is gradually extracted and soft coacervate droplets containing the drug are generated. The rate of adding nonsolvent affects the extraction rate of the solvent, the size of microparticles and encapsulation efficiency of the drug. The commonly used nonsolvents include silicone oil, vegetable oil, light liquid paraffin, and low-molecular-weight polybutadiene. The coacervate phase is then hardened by exposing it into an excess amount of another nonsolvent such as hexane, heptane, and diethyl ether. The characteristics of the final microspheres are determined by the molecular weight of the polymer, viscosity of the nonsolvent, and polymer concentration [<xref ref-type="bibr" rid="B44-molecules-10-00146">44</xref>,<xref ref-type="bibr" rid="B45-molecules-10-00146">45</xref>]. The main disadvantage of this method is a high possibility of forming large aggregates. Extremely sticky coacervate droplets frequently adhere to each other before complete phase separation.</p>
+        <fig id="molecules-10-00146-f002" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p>Formation of mononuclear reservoir-type microcapsules by interfacial phase separation. Two different liquid droplets produced from ink-jet nozzles collide each other in the air. The solvent exchange occurs at the interface between two liquids to form a polymer layer on the aqueous core. The formed micro-capsules are collected in the water bath.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00146-g002.tif"/>
+        </fig>
+        <p>Recently, a novel method of preparing reservoir-type microcapsules, based on interfacial phase separation, was developed [<xref ref-type="bibr" rid="B46-molecules-10-00146">46</xref>,<xref ref-type="bibr" rid="B47-molecules-10-00146">47</xref>]. Two different types of liquid droplets (i.e., a polymer solution and a drug solution) were separately produced using a dual microdispenser system consisting of two ink-jet nozzles, and the produced droplets were allowed to collide each other in the air (<xref ref-type="fig" rid="molecules-10-00146-f002">Figure 2</xref>). Upon collision, the drug-containing aqueous core remains spherical due to its high surface tension while the polymer-containing droplet spreads over the aqueous core. As a result, a reservoir-type microcapsule is generated due to the interfacial phase separation by the mutual mass transfer of two solvents (i.e., solvent exchange). Successful formation of microcapsules depends on the polymer concentration and the properties of the solvents, such as surface tension, interfacial tension, and the solvent exchange rate.</p>
+        <p>This technique is promising for preparation of protein-loaded microcapsules. For example, conventional methods of preparing microparticles involve extensive exposure of proteins to the interface between aqueous and organic phases, to hydrophobic polymer matrix, and to acidic/basic microenviroments resulting from degradation of the polymer. These unfavorable interactions are reported to induce conformational changes of proteins [<xref ref-type="bibr" rid="B48-molecules-10-00146">48</xref>,<xref ref-type="bibr" rid="B49-molecules-10-00146">49</xref>]. On the contrary, the interfacial phase separation technique is shown to minimize these sources of protein inactivation [<xref ref-type="bibr" rid="B46-molecules-10-00146">46</xref>,<xref ref-type="bibr" rid="B47-molecules-10-00146">47</xref>].</p>
+      </sec>
+      <sec>
+        <title>Spray drying</title>
+        <p>Compared to other conventional methods, spray drying offers several advantages [<xref ref-type="bibr" rid="B19-molecules-10-00146">19</xref>,<xref ref-type="bibr" rid="B50-molecules-10-00146">50</xref>,<xref ref-type="bibr" rid="B51-molecules-10-00146">51</xref>,<xref ref-type="bibr" rid="B52-molecules-10-00146">52</xref>]. It shows good reproducibility, involves relatively mild conditions, allows controlling the particle size, and is less dependent on the solubility of the drug and the polymer. The drug is dissolved or dispersed in the polymer solution, in which volatile solvents (e.g., dichloromethane and acetone) are preferred. The resulting solution or suspension is sprayed in a stream of heated air to produce microparticles. The size of the microparticles is determined depending on the atomizing conditions. The main disadvantage of this technique is a loss of a significant amount of product, primarily due to adhesion of the microparticles to the inner wall of the spray-drier. In addition, large aggregates are frequently obtained because the microparticles are very sticky before the complete removal of the solvent.</p>
+        <p>In an attempt to minimize aggregation of the microparticles, a double-nozzle spray-drying technique was developed [<xref ref-type="bibr" rid="B53-molecules-10-00146">53</xref>]. While the polymer/drug solution is sprayed from one nozzle, aqueous mannitol solution is simultaneously sprayed, which enables the surface of the microparticles to be coated with mannitol. The results indicated that the coating of the microsphere with mannitol reduces the extent of aggregation and augments the yield of the product. A cryogenic, non-aqueous process was used to prepare protein-loaded microparticles [<xref ref-type="bibr" rid="B54-molecules-10-00146">54</xref>,<xref ref-type="bibr" rid="B55-molecules-10-00146">55</xref>]. In this technique, the liquid droplets of the polymer/drug solution are produced through the spraying nozzle, collected in liquid nitrogen containing frozen ethanol, and hardened by placing them at -80 <sup>o</sup>C where the solvent extraction occurs. This method is known to encapsulate proteins into microparticles without significant loss of their biological activity [<xref ref-type="bibr" rid="B55-molecules-10-00146">55</xref>].</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Biodegradable Polymers for Microparticles</title>
+      <sec>
+        <title>Polyesters</title>
+        <p>Aliphatic polyesters have attracted significant interest as drug carriers due to their biocompatibility and biodegradability [<xref ref-type="bibr" rid="B7-molecules-10-00146">7</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00146">9</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00146">15</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00146">22</xref>,<xref ref-type="bibr" rid="B56-molecules-10-00146">56</xref>,<xref ref-type="bibr" rid="B57-molecules-10-00146">57</xref>]. This class of polymers degrade via the hydrolytic cleavage of the ester bonds in their backbone, whereas the role of enzymatic involvement in biodegradation is unclear. Chemical structures of the representative polyesters are shown in <xref ref-type="fig" rid="molecules-10-00146-f003">Figure 3</xref>. Poly(lactic-co-glycolic acid) (PLGA) copolymers have been most widely used because their degradation rate and mechanical properties can be precisely controlled by varying the lactic acid/glycolic acid ratio and by altering the molecular weight of the polymers.</p>
+        <fig id="molecules-10-00146-f003" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p>Chemical structures of polyesters.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00146-g003.tif"/>
+        </fig>
+        <p>PLGA polymers are cleaved into monomeric acids (i.e., lactic and glycolic acids) which are consequently eliminated from the body as carbon dioxide and water. The degradation rate of PLGA is critical for determining the release rate of the encapsulated drug and depends on the crystallinity, hydrophobicity, and molecular weight of the polymer [<xref ref-type="bibr" rid="B58-molecules-10-00146">58</xref>,<xref ref-type="bibr" rid="B59-molecules-10-00146">59</xref>]. In general, glycolic acid-rich PLGA copolymers (up to 70%) are amorphous in nature and degrade more rapidly. As the molecular weight of the polymer decreases, the degradation becomes faster because of the higher content of carboxylic groups at the end of polymer chain which accelerate the acid-catalyzed degradation. The PLGA-based microparticles undergo bulk degradation.  The PLGA matrix undergoes random chain scission while preserving the original shape and mass until significant degradation (~ 90%) has occurred. In spite of these promising characteristics of biodegradation, recent studies have demonstrated that PLGA copolymers significantly affect the stability and biological activity of the drugs (e.g., peptide and proteins), primarily due to the hydrophobicity of the polymers and the presence of acidic degradation products</p>
+        <p>Poly(&#x3B5;-caprolactone) (PCL) is a biodegradable, semicrystalline polymer having a low glass transition temperature (~60 <sup>o</sup>C). A number of drugs have been encapsulated using PCL. Due to its crystallinity and hydrophobicity, degradation of PCL is very slow, rendering it suitable for long-term delivery over a period of more than one year [<xref ref-type="bibr" rid="B62-molecules-10-00146">62</xref>,<xref ref-type="bibr" rid="B63-molecules-10-00146">63</xref>]. It has the ability to form compatible blends with other polymers, which provides opportunities to manipulate the drug release rate from microparticles [<xref ref-type="bibr" rid="B63-molecules-10-00146">63</xref>]. The PCL-based devices maintain their shape and weight during the initial phase of biodegradation, where the molecular weight decreases by up to 5000 through bulk hydrolysis of the ester bonds. The second phase of PCL degradation is characterized by the onset of weight loss because the continuous chain cleavage produces a fragment small enough to diffuse out of the polymer matrix. On the other hand, the hydrolysis rate is known to decrease at the second phase, due to the increased crystallinity.</p>
+        <p>Poly(phosphoesters) (PPEs) have been used recently for delivery of low molecular weight drugs as well as high molecular weight proteins and DNA [<xref ref-type="bibr" rid="B5-molecules-10-00146">5</xref>,<xref ref-type="bibr" rid="B64-molecules-10-00146">64</xref>,<xref ref-type="bibr" rid="B65-molecules-10-00146">65</xref>]. This type of polymer degrades under the physiological conditions via hydrolysis or enzymatic cleavage of the phosphate bonds in the backbone. Since their chemical structure can be tailored by varying R and R&#x2019; in <xref ref-type="fig" rid="molecules-10-00146-f003">Figure 3</xref> during synthesis, it is possible to obtain PPEs with a wide range of physicochemical properties. In particular, by choosing biocompatible building blocks of the polymer, degradation products of PPEs can have minimal toxic effects and good biocompatibility. The degradation rate of PPEs is controllable by the percentage of the phosphate content in the backbone: The degradation rate increases with increasing the phosphate content of the polymer. In contrast to other polyesters, PPEs are known to degrade by a combined mechanism of surface erosion and bulk degradation [<xref ref-type="bibr" rid="B66-molecules-10-00146">66</xref>]. Recent studies have demonstrated that PPE-based microparticles are promising for protein delivery because they don&#x2019;t generate acidic environments [<xref ref-type="bibr" rid="B5-molecules-10-00146">5</xref>,<xref ref-type="bibr" rid="B65-molecules-10-00146">65</xref>,<xref ref-type="bibr" rid="B67-molecules-10-00146">67</xref>].</p>
+      </sec>
+      <sec>
+        <title>Poly(ortho esters)</title>
+        <p>Since the 1970s, poly(ortho esters) (POEs) have evolved through four families as biodegradable polymers [<xref ref-type="bibr" rid="B68-molecules-10-00146">68</xref>,<xref ref-type="bibr" rid="B69-molecules-10-00146">69</xref>,<xref ref-type="bibr" rid="B70-molecules-10-00146">70</xref>]: POE I, POE II, POE III, and POE IV. The general chemical structure of each family is shown in <xref ref-type="fig" rid="molecules-10-00146-f004">Figure 4</xref>. In contrast to polyesters which degrade homogeneously throughout the polymer matrix, POEs undergo surface erosion because of high hydrophobicity and water impermeability. Therefore, depending on the surface erosion rate of the POEs, the drug-loaded device may release the drug at a constant rate without significant burst release [<xref ref-type="bibr" rid="B25-molecules-10-00146">25</xref>,<xref ref-type="bibr" rid="B60-molecules-10-00146">60</xref>,<xref ref-type="bibr" rid="B69-molecules-10-00146">69</xref>].</p>
+        <fig id="molecules-10-00146-f004" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>Chemical structures of poly(ortho esters).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00146-g004.tif"/>
+        </fig>
+        <p>POE I, developed at Alza Coporation, is hydrolyzed under aqueous environment, thus producing &#x3B3;&#x2011;butyrolactone that is rapidly converted to &#x3B3;-hydroxybutyric acid. Because the ortho ester linkage of this polymer is highly susceptible to the acids, it should be stabilized with a base such as Na<sub>2</sub>CO<sub>3</sub> to prevent an uncontrolled, autocatalytic hydrolysis reaction. Such disadvantages of POE I have limited applications in biomedical applications.</p>
+        <p>POE II, developed at the Stanford Research Institute, has several advantages, compared with POE I [<xref ref-type="bibr" rid="B70-molecules-10-00146">70</xref>]. Polymer synthesis is simple and highly reproducible. The molecular weight of the polymer can be readily controlled by adjusting the stoichiometry. The initial product of the polymer hydrolysis is neutral, and thus it is not necessarily to use a basic excipient. However, the polymers belonging to this family are extremely hydrophobic, which limits the access of water to the hydrolytically labile ortho ester linkage. Hence, in order to achieve the increase in the surface erosion rate, it is necessary to incorporate acidic excipients into the polymer matrix. This limitation of POE II makes it difficult to design surface eroding devices because the presence of acidic excipients often accelerates the autocatalytic reaction.</p>
+        <p>POE III, developed at the Stanford Research Institute, is a semisolid material at room temperature. This semisolid material enables to prepare the injectable drug delivery system by a simple mixing with the therapeutic agents without the need of using organic solvents or elevated temperatures. In addition, no autocatalysis occurs during degradation, since the initial hydrolysis generates one or more isomeric monoesters. The ortho ester bonds of the polymer are only sensitive to the acidic products. Despite these advantages of POE III, its biomedical applications have been limited due to difficulties in the synthesis and poor reproducibility of the synthesized polymers [<xref ref-type="bibr" rid="B70-molecules-10-00146">70</xref>].</p>
+        <fig id="molecules-10-00146-f005" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>Hydrolysis pathway of POE IV under aqueous environments.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00146-g005.tif"/>
+        </fig>
+        <p>POE IV, recently developed by Heller <italic>et al</italic>. [<xref ref-type="bibr" rid="B71-molecules-10-00146">71</xref>], is a modified POE II that can be used without acidic excipients. To surmount the disadvantages of POE II, such as extreme hydrophobicity and stability, a short segment based on lactic acid or glycolic acid is incorporated into the backbone of POE IV. Such segments are included as latent acids which catalyze hydrolysis of the ortho ester linkages in the polymer backbone. The erosion rate of the polymer can be precisely controlled by adjusting the content of such segments. When POE IV is exposed to an aqueous environment, hydrolysis proceeds in three consecutive steps, as shown in <xref ref-type="fig" rid="molecules-10-00146-f005">Figure 5</xref>. First, carboxylic acid-terminated polymer fragments are produced by hydrolysis of the lactic acid or glycolic acid segment in the polymer backbone. Second, free &#x3B1;-hydroxy acids are generated and they catalyze hydrolysis of the ortho ester linkages. Third, the ortho esters are cleaved into the diol and pentaerythritol dipropionate, followed by ester hydrolysis to produce pentaerythritol and propionic acid.</p>
+        <p>The erosion process of POE IV-based devices is primarily confined to the surface layers, and this property provides a number of advantages [<xref ref-type="bibr" rid="B68-molecules-10-00146">68</xref>,<xref ref-type="bibr" rid="B69-molecules-10-00146">69</xref>,<xref ref-type="bibr" rid="B70-molecules-10-00146">70</xref>,<xref ref-type="bibr" rid="B71-molecules-10-00146">71</xref>]. For example, it is possible to control the release behavior of the drug by manipulating the surface erosion rate of the polymer. When the drug release is completed, the device is also removed because the drug release and the surface erosion of the polymer take place simultaneously. In addition, the acidic degradation products are readily diffused out of the device, due to principal hydrolysis on the surface layer; this prevents the generation of acidic environments in the bulk of the microparticles.</p>
+      </sec>
+      <sec>
+        <title>Polyanhydrides</title>
+        <p>Over the past two decades, polyanhydrides have been investigated for short-term controlled delivery of the bioactive agents because they exhibit rapid degradation <italic>in vivo</italic> and have limited mechanical properties [<xref ref-type="bibr" rid="B23-molecules-10-00146">23</xref>,<xref ref-type="bibr" rid="B24-molecules-10-00146">24</xref>,<xref ref-type="bibr" rid="B72-molecules-10-00146">72</xref>].  Polyanhydrides are the hydrophobic polymers with hydrolytically labile anhydride linkages, in which the degradation rate can be manipulated by varying polymer composition; numerous diacids are available for the design of the polymer with desired physicochemical properties. In general, this class of polymers show minimal inflammatory reaction <italic>in vivo</italic> and degrade into monomeric acids as non-mutagenic and non-cytotoxic products [<xref ref-type="bibr" rid="B73-molecules-10-00146">73</xref>,<xref ref-type="bibr" rid="B74-molecules-10-00146">74</xref>,<xref ref-type="bibr" rid="B75-molecules-10-00146">75</xref>]. Polyanhydrides are known to undergo surface erosion, a desired property to attain near zero-order drug release profile [<xref ref-type="bibr" rid="B76-molecules-10-00146">76</xref>]. Degradation of polyanhydrides depends on the rate of the water uptake, determined by hydrophilicity and crystallinity of the polymer.  Recently, due to their biocompatibility and biodegradability, the Food and Drug Administraion has approved the use of the polyanhydride derived from sebacic acid and 1,3-bis(<italic>p</italic>-carboxyphenoxy) propane as the carrier of antitumor agents for the treatment of brain cancer (see <xref ref-type="fig" rid="molecules-10-00146-f006">Figure 6</xref> for its chemical structure) [<xref ref-type="bibr" rid="B77-molecules-10-00146">77</xref>]. One drawback of polyanhydrides is that most of them have to be stored at frozen state under the anhydrous condition because of the hydrolytic instability of the anhydride bond.</p>
+        <fig id="molecules-10-00146-f006" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p>Chemical structure of poly[bis(<italic>p</italic>-carboxyphenoxy) propane-co-sebacic acid]</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00146-g006.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Polyphosphazenes</title>
+        <p>Polyphosphazenes are one of the most versatile and rapidly developing class of biomedical polymers [<xref ref-type="bibr" rid="B29-molecules-10-00146">29</xref>,<xref ref-type="bibr" rid="B60-molecules-10-00146">60</xref>]. They are typically synthesized as linear polymers, composed of an inorganic backbone with nitrogen and phosphorous atoms. Since the synthetic method of the linear polydichlorophosphazene (PDPP) was found in 1965 [<xref ref-type="bibr" rid="B78-molecules-10-00146">78</xref>], a number of biodegradable poly-phosphazenes have been developed by reacting the highly reactive phosphorus-chlorine bonds of PDPP with alkoxide, primary (or secondary) amines, and organometallic reagents [<xref ref-type="bibr" rid="B29-molecules-10-00146">29</xref>]. Because there are numerous substituents capable of being introduced into the backbone, a broad spectrum of polyphosphazenes can be synthesized by choosing the type and ratios of appropriate side groups. When exposed to an aqueous solution, these polymers are cleaved into nontoxic, low molecular weight products such as phosphates, ammonia and the corresponding side groups. They can degrade by both surface and bulk erosion, depending on the lability of the bond and hydrophobicity of the polymer [<xref ref-type="bibr" rid="B29-molecules-10-00146">29</xref>]. A few examples, synthesized for biomedical applications, are polyposphazene-bearing amino acid ester [<xref ref-type="bibr" rid="B28-molecules-10-00146">28</xref>,<xref ref-type="bibr" rid="B79-molecules-10-00146">79</xref>], imidazole [<xref ref-type="bibr" rid="B28-molecules-10-00146">28</xref>,<xref ref-type="bibr" rid="B80-molecules-10-00146">80</xref>],  glucosyl amino [<xref ref-type="bibr" rid="B81-molecules-10-00146">81</xref>], glycolic acid ester [<xref ref-type="bibr" rid="B82-molecules-10-00146">82</xref>], and lactic acid ester side groups [<xref ref-type="bibr" rid="B82-molecules-10-00146">82</xref>].</p>
+      </sec>
+      <sec>
+        <title>Natural polymers</title>
+        <p>Although a number of synthetic biodegradable polymers have been developed for biomedical applications, the use of natural biodegradable polymers remains attractive because of their abundance in nature, good biocompatibility, and ability to be readily modified by the simple chemistry. A majority of drug delivery systems using natural polymers have been based on proteins (e.g., collagen, gelatin, and albumin) and polysaccharides (e.g., starch, dextran, hyaluronic acid, and chitosan).  Applications of proteins to delivery of protein drugs have been limited due to their poor mechanical properties, low elasticity, possible occurrence of an antigenic response, and the high cost [<xref ref-type="bibr" rid="B19-molecules-10-00146">19</xref>]. On the other hand, polysaccharides have attracted increasing interest as the drug carriers because they are commercially available at low cost, are readily modified by simple chemical reactions for specific applications, and they exhibit a broad range of physicochemical properties. For example, chitosan, primarily composed of 2-amino-2-deoxy-<italic>&#x3B2;</italic>-D-glucopyranose (D-glucosamine), is obtained from chitin, the second most abundant natural polysaccharide. Chitosan and its derivatives have showed excellent biocompatibility, biodegradability, low immunogenicity, and biological activities [<xref ref-type="bibr" rid="B83-molecules-10-00146">83</xref>,<xref ref-type="bibr" rid="B84-molecules-10-00146">84</xref>]. In particular, their biodegradability can be precisely controlled by modifying the structures with acetic anhydride [<xref ref-type="bibr" rid="B84-molecules-10-00146">84</xref>,<xref ref-type="bibr" rid="B85-molecules-10-00146">85</xref>,<xref ref-type="bibr" rid="B86-molecules-10-00146">86</xref>]. Since they contain primary amino groups in the main backbone that make their surfaces positive in the biological fluid, biodegradable microparticles can be readily prepared by treating them with a variety of biocompatible polyanionic substances such as sulfate, citrate, and tripolyphosphate [<xref ref-type="bibr" rid="B87-molecules-10-00146">87</xref>,<xref ref-type="bibr" rid="B88-molecules-10-00146">88</xref>]. These unique features of chitosan have stimulated development of delivery systems for a wide range of biological agents [<xref ref-type="bibr" rid="B87-molecules-10-00146">87</xref>,<xref ref-type="bibr" rid="B88-molecules-10-00146">88</xref>,<xref ref-type="bibr" rid="B89-molecules-10-00146">89</xref>,<xref ref-type="bibr" rid="B90-molecules-10-00146">90</xref>,<xref ref-type="bibr" rid="B91-molecules-10-00146">91</xref>,<xref ref-type="bibr" rid="B92-molecules-10-00146">92</xref>,<xref ref-type="bibr" rid="B93-molecules-10-00146">93</xref>].</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Biodegradable microparticles allow the drug release to be accurately tuned for the treatment of the specific disease through the appropriate choice and formulation of specific drugs and polymers. Based on various microencapsultion techniques, microparticles can be designed for optimum delivery of a selected bioactive agent. The resulting microparticles may offer the ability to improve the stability of therapeutic agents against hydrolytic or enzymatic degradation, to augment the therapeutic effect by releasing the drug into the specific site, and to sustain the therapeutic effect in the target site.  Many synthetic and natural biodegradable polymers present exciting opportunities in tailor-making the microparticle formulations for long-term drug release with specific release rates.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This study was supported in part by National Institute of Health through GM 67044 and EB003584.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00146">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pekarek</surname>
+              <given-names>K. J.</given-names>
+            </name>
+            <name>
+              <surname>Jacob</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Mathiowitz</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Double-walled polymer microspheres for controlled drug release</article-title>
+          <source>Nature</source>
+          <year>1994</year>
+          <volume>367</volume>
+          <fpage>258</fpage>
+          <lpage>260</lpage>
+          <pub-id pub-id-type="pmid">8121490</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00146">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jeong</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bae</surname>
+              <given-names>Y. H.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>S. W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biodegradable block copolymers as injectable drug-delivery systems</article-title>
+          <source>Nature</source>
+          <year>1997</year>
+          <volume>388</volume>
+          <fpage>860</fpage>
+          <lpage>862</lpage>
+          <pub-id pub-id-type="pmid">9278046</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00146">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ulbrich</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Pechar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Strohalm</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Subr</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Rihova</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of biodegradable polymers for controlled drug release</article-title>
+          <source>Ann. N. Y. Acad. Sci.</source>
+          <year>1997</year>
+          <volume>831</volume>
+          <fpage>47</fpage>
+          <lpage>56</lpage>
+          <pub-id pub-id-type="pmid">9616701</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00146">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hejazi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Amiji</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitosan-based gastrointestinal delivery systems</article-title>
+          <source>J. Control. Release</source>
+          <year>2003</year>
+          <volume>89</volume>
+          <fpage>151</fpage>
+          <lpage>165</lpage>
+          <pub-id pub-id-type="pmid">12711440</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00146">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Mao</surname>
+              <given-names>H. Q.</given-names>
+            </name>
+            <name>
+              <surname>Leong</surname>
+              <given-names>K. W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polyphosphoesters in drug and gene delivery</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2003</year>
+          <volume>55</volume>
+          <fpage>483</fpage>
+          <lpage>499</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-409X(03)00040-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00146">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cicek</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tuncel</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tuncel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Piskin</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Degradation and drug release characteristics of monosize polyethylcyanoacrylate microspheres</article-title>
+          <source>J. Biomater. Sci. Polym. Ed.</source>
+          <year>1995</year>
+          <volume>6</volume>
+          <fpage>845</fpage>
+          <lpage>856</lpage>
+          <pub-id pub-id-type="doi">10.1163/156856295X00238</pub-id>
+          <pub-id pub-id-type="pmid">7772571</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00146">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mi</surname>
+              <given-names>F. L.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>Y. M.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>Y. B.</given-names>
+            </name>
+            <name>
+              <surname>Shyu</surname>
+              <given-names>S. S.</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>Y. H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitin/PLGA blend microspheres as a biodegradable drug-delivery system: phase-separation, degradation and release behavior</article-title>
+          <source>Biomaterials</source>
+          <year>2002</year>
+          <volume>23</volume>
+          <fpage>3257</fpage>
+          <lpage>3267</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0142-9612(02)00084-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00146">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Chu</surname>
+              <given-names>C. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>In vitro release behavior of insulin from biodegradable hybrid hydrogel networks of polysaccharide and synthetic biodegradable polyester</article-title>
+          <source>J. Biomater. Appl.</source>
+          <year>2002</year>
+          <volume>16</volume>
+          <fpage>305</fpage>
+          <lpage>325</lpage>
+          <pub-id pub-id-type="pmid">12099510</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00146">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abraham</surname>
+              <given-names>G. A.</given-names>
+            </name>
+            <name>
+              <surname>Gallardo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>San Roman</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Fernandez-Mayoralas</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Zurita</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Vaquero</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polymeric matrices based on graft copolymers of PCL onto acrylic backbones for releasing antitumoral drugs</article-title>
+          <source>J. Biomed. Mater. Res.</source>
+          <year>2003</year>
+          <volume>64A</volume>
+          <fpage>638</fpage>
+          <lpage>647</lpage>
+          <pub-id pub-id-type="doi">10.1002/jbm.a.10297</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00146">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Calandrelli</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>De Rosa</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Errico</surname>
+              <given-names>M. E.</given-names>
+            </name>
+            <name>
+              <surname>La Rotonda</surname>
+              <given-names>M. I.</given-names>
+            </name>
+            <name>
+              <surname>Laurienzo</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Malinconico</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Oliva</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Quaglia</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel graft PLLA-based copolymers: potential of their application to particle technology</article-title>
+          <source>J Biomed Mater Res</source>
+          <year>2002</year>
+          <volume>62</volume>
+          <fpage>244</fpage>
+          <lpage>253</lpage>
+          <pub-id pub-id-type="pmid">12209945</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00146">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Xiao</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Allen</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polymer-drug compatibility: a guide to the development of delivery systems for the anticancer agent, ellipticine</article-title>
+          <source>J. Pharm. Sci.</source>
+          <year>2004</year>
+          <volume>93</volume>
+          <fpage>132</fpage>
+          <lpage>143</lpage>
+          <pub-id pub-id-type="pmid">14648643</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00146">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>B. H.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Slow release of drug through deformed coating film: effects of morphology and drug diffusivity in the coating film</article-title>
+          <source>J. Pharm. Sci.</source>
+          <year>2001</year>
+          <volume>90</volume>
+          <fpage>1478</fpage>
+          <lpage>1496</lpage>
+          <pub-id pub-id-type="pmid">11745707</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00146">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tunon</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Grasjo</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Alderborn</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of intragranular porosity on compression behaviour of and drug release from reservoir pellets</article-title>
+          <source>Eur. J. Pharm. Sci.</source>
+          <year>2003</year>
+          <volume>19</volume>
+          <fpage>333</fpage>
+          <lpage>344</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0928-0987(03)00106-4</pub-id>
+          <pub-id pub-id-type="pmid">12907284</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00146">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fulzele</surname>
+              <given-names>S. V.</given-names>
+            </name>
+            <name>
+              <surname>Satturwar</surname>
+              <given-names>P. M.</given-names>
+            </name>
+            <name>
+              <surname>Kasliwal</surname>
+              <given-names>R. H.</given-names>
+            </name>
+            <name>
+              <surname>Dorle</surname>
+              <given-names>A. K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and evaluation of microcapsules using polymerized rosin as a novel wall forming material</article-title>
+          <source>J. Microencapsul.</source>
+          <year>2004</year>
+          <volume>21</volume>
+          <fpage>83</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="pmid">14718188</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00146">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jain</surname>
+              <given-names>R. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The manufacturing techniques of various drug loaded biodegradable poly(lactide-co-glycolide) (PLGA) devices</article-title>
+          <source>Biomaterials</source>
+          <year>2000</year>
+          <volume>21</volume>
+          <fpage>2475</fpage>
+          <lpage>2490</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0142-9612(00)00115-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00146">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berkland</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>King</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Pack</surname>
+              <given-names>D. W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Precise control of PLG microsphere size provides enhanced control of drug release rate</article-title>
+          <source>J. Control. Release</source>
+          <year>2002</year>
+          <volume>82</volume>
+          <fpage>137</fpage>
+          <lpage>147</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0168-3659(02)00136-0</pub-id>
+          <pub-id pub-id-type="pmid">12106984</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00146">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Felder Ch</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Blanco-Prieto</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name>
+              <surname>Heizmann</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Merkle</surname>
+              <given-names>H. P.</given-names>
+            </name>
+            <name>
+              <surname>Gander</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ultrasonic atomization and subsequent polymer desolvation for peptide and protein microencapsulation into biodegradable polyesters</article-title>
+          <source>J. Microencapsul.</source>
+          <year>2003</year>
+          <volume>20</volume>
+          <fpage>553</fpage>
+          <lpage>567</lpage>
+          <pub-id pub-id-type="doi">10.3109/02652040309178346</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00146">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiyoyama</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Shiomori</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kawano</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hatate</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of microcapsules and control of their morphology</article-title>
+          <source>J. Microencapsul.</source>
+          <year>2003</year>
+          <volume>20</volume>
+          <fpage>497</fpage>
+          <lpage>508</lpage>
+          <pub-id pub-id-type="pmid">12851050</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00146">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sinha</surname>
+              <given-names>V. R.</given-names>
+            </name>
+            <name>
+              <surname>Trehan</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biodegradable microspheres for protein delivery</article-title>
+          <source>J. Control. Release</source>
+          <year>2003</year>
+          <volume>90</volume>
+          <fpage>261</fpage>
+          <lpage>280</lpage>
+          <pub-id pub-id-type="pmid">12880694</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00146">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sinha</surname>
+              <given-names>V. R.</given-names>
+            </name>
+            <name>
+              <surname>Goyal</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Bhinge</surname>
+              <given-names>J. R.</given-names>
+            </name>
+            <name>
+              <surname>Mittal</surname>
+              <given-names>B. R.</given-names>
+            </name>
+            <name>
+              <surname>Trehan</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diagnostic microspheres: an overview</article-title>
+          <source>Crit Rev Ther Drug Carrier Syst</source>
+          <year>2003</year>
+          <volume>20</volume>
+          <fpage>431</fpage>
+          <lpage>460</lpage>
+          <pub-id pub-id-type="pmid">14979867</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00146">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Chua</surname>
+              <given-names>K. M.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>C. H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stabilization and encapsulation of human immunoglobulin G into biodegradable microspheres</article-title>
+          <source>J. Colloid Interface Sci.</source>
+          <year>2004</year>
+          <volume>271</volume>
+          <fpage>92</fpage>
+          <lpage>101</lpage>
+          <pub-id pub-id-type="pmid">14757081</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00146">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kissel</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Unger</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>ABA-triblock copolymers from biodegradable polyester A-blocks and hydrophilic poly(ethylene oxide) B-blocks as a candidate for in situ forming hydrogel delivery systems for proteins</article-title>
+          <source>Adv. Drug. Deliv. Rev.</source>
+          <year>2002</year>
+          <volume>54</volume>
+          <fpage>99</fpage>
+          <lpage>134</lpage>
+          <pub-id pub-id-type="pmid">11755708</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00146">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tabata</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Gutta</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Langer</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Controlled delivery systems for proteins using polyanhydride microspheres</article-title>
+          <source>Pharm. Res.</source>
+          <year>1993</year>
+          <volume>10</volume>
+          <fpage>487</fpage>
+          <lpage>496</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1018929531410</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00146">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kipper</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Determan</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Narasimhan</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design of an injectable system based on bioerodible polyanhydride microspheres for sustained drug delivery</article-title>
+          <source>Biomaterials</source>
+          <year>2002</year>
+          <volume>23</volume>
+          <fpage>4405</fpage>
+          <lpage>4412</lpage>
+          <pub-id pub-id-type="pmid">12219831</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00146">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>Y. H.</given-names>
+            </name>
+            <name>
+              <surname>Vasavada</surname>
+              <given-names>R. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on microencapsulation of 5-fluorouracil with poly(ortho ester) polymers</article-title>
+          <source>J. Microencapsul.</source>
+          <year>2000</year>
+          <volume>17</volume>
+          <fpage>1</fpage>
+          <lpage>11</lpage>
+          <pub-id pub-id-type="pmid">10670936</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00146">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deng</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ginsburg</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Widman</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Myers</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>In vitro characterization of polyorthoester microparticles containing bupivacaine</article-title>
+          <source>Pharm. Dev. Technol.</source>
+          <year>2003</year>
+          <volume>8</volume>
+          <fpage>31</fpage>
+          <lpage>38</lpage>
+          <pub-id pub-id-type="pmid">12665195</pub-id>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00146">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Ge</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Ting</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>H. R.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Eisen</surname>
+              <given-names>H. N.</given-names>
+            </name>
+            <name>
+              <surname>Heller</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Langer</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Putnam</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecularly engineered poly(ortho ester) microspheres for enhanced delivery of DNA vaccines</article-title>
+          <source>Nat. Mater.</source>
+          <year>2004</year>
+          <volume>3</volume>
+          <fpage>190</fpage>
+          <lpage>196</lpage>
+          <pub-id pub-id-type="pmid">14991022</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00146">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Veronese</surname>
+              <given-names>F. M.</given-names>
+            </name>
+            <name>
+              <surname>Marsilio</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Lora</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Caliceti</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Passi</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Orsolini</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polyphosphazene membranes and microspheres in periodontal diseases and implant surgery</article-title>
+          <source>Biomaterials</source>
+          <year>1999</year>
+          <volume>20</volume>
+          <fpage>91</fpage>
+          <lpage>98</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0142-9612(97)00104-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00146">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lakshmi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Katti</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Laurencin</surname>
+              <given-names>C. T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biodegradable polyphosphazenes for drug delivery applications</article-title>
+          <source>Adv. Drug. Deliv. Rev.</source>
+          <year>2003</year>
+          <volume>55</volume>
+          <fpage>467</fpage>
+          <lpage>482</lpage>
+          <pub-id pub-id-type="pmid">12706046</pub-id>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00146">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kas</surname>
+              <given-names>H. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitosan: properties, preparations and application to microparticulate systems</article-title>
+          <source>J. Microencapsul.</source>
+          <year>1997</year>
+          <volume>14</volume>
+          <fpage>689</fpage>
+          <lpage>711</lpage>
+          <pub-id pub-id-type="pmid">9394251</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00146">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Felt</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Buri</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Gurny</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitosan: a unique polysaccharide for drug delivery</article-title>
+          <source>Drug. Dev. Ind. Pharm.</source>
+          <year>1998</year>
+          <volume>24</volume>
+          <fpage>979</fpage>
+          <lpage>993</lpage>
+          <pub-id pub-id-type="doi">10.3109/03639049809089942</pub-id>
+          <pub-id pub-id-type="pmid">9876553</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00146">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fukushima</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kishimoto</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Takeuchi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Fukushima</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and evaluation of o/w type emulsions containing antitumor prostaglandin</article-title>
+          <source>Adv. Drug. Deliv. Rev.</source>
+          <year>2000</year>
+          <volume>45</volume>
+          <fpage>65</fpage>
+          <lpage>75</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-409X(00)00101-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-00146">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Okada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Toguchi</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biodegradable microspheres in drug delivery</article-title>
+          <source>Crit. Rev. Ther. Drug Carrier Syst.</source>
+          <year>1995</year>
+          <volume>12</volume>
+          <fpage>1</fpage>
+          <lpage>99</lpage>
+          <pub-id pub-id-type="pmid">8521523</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-00146">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hombreiro Perez</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zinutti</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Lamprecht</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ubrich</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Astier</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hoffman</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bodmeier</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Maincent</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>The preparation and evaluation of poly(epsilon-caprolactone) microparticles containing both a lipophilic and a hydrophilic drug</article-title>
+          <source>J. Control. Release.</source>
+          <year>2000</year>
+          <volume>65</volume>
+          <fpage>429</fpage>
+          <lpage>438</lpage>
+          <pub-id pub-id-type="pmid">10699300</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35-molecules-10-00146">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Passerini</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Craig</surname>
+              <given-names>D. Q.</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterization of ciclosporin A loaded poly (D,L lactide-co-glycolide) microspheres using modulated temperature differential scanning calorimetry</article-title>
+          <source>J. Pharm. Pharmacol.</source>
+          <year>2002</year>
+          <volume>54</volume>
+          <fpage>913</fpage>
+          <lpage>919</lpage>
+          <pub-id pub-id-type="doi">10.1211/002235702760089027</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36-molecules-10-00146">
+        <label>36.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arshady</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of biodegradable microspheres and microcapsules: 2. Polylactides and related polyesters</article-title>
+          <source>J. Control. Release</source>
+          <year>1991</year>
+          <volume>17</volume>
+          <fpage>1</fpage>
+          <lpage>22</lpage>
+        </citation>
+      </ref>
+      <ref id="B37-molecules-10-00146">
+        <label>37.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carrasquillo</surname>
+              <given-names>K. G.</given-names>
+            </name>
+            <name>
+              <surname>Stanley</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Aponte-Carro</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>De Jesus</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Costantino</surname>
+              <given-names>H. R.</given-names>
+            </name>
+            <name>
+              <surname>Bosques</surname>
+              <given-names>C. J.</given-names>
+            </name>
+            <name>
+              <surname>Griebenow</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Non-aqueous encapsulation of excipient-stabilized spray-freeze dried BSA into poly(lactide-co-glycolide) microspheres results in release of native protein</article-title>
+          <source>J. Control. Release</source>
+          <year>2001</year>
+          <volume>76</volume>
+          <fpage>199</fpage>
+          <lpage>208</lpage>
+          <pub-id pub-id-type="pmid">11578736</pub-id>
+        </citation>
+      </ref>
+      <ref id="B38-molecules-10-00146">
+        <label>38.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jiang</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Schwendeman</surname>
+              <given-names>S. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stabilization of a model formalinized protein antigen encapsulated in poly(lactide-co-glycolide)-based microspheres</article-title>
+          <source>J Pharm Sci</source>
+          <year>2001</year>
+          <volume>90</volume>
+          <fpage>1558</fpage>
+          <lpage>1569</lpage>
+          <pub-id pub-id-type="pmid">11745714</pub-id>
+        </citation>
+      </ref>
+      <ref id="B39-molecules-10-00146">
+        <label>39.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jiang</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Schwendeman</surname>
+              <given-names>S. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stabilization and controlled release of bovine serum albumin encapsulated in poly(D, L-lactide) and poly(ethylene glycol) microsphere blends</article-title>
+          <source>Pharm Res</source>
+          <year>2001</year>
+          <volume>18</volume>
+          <fpage>878</fpage>
+          <lpage>885</lpage>
+          <pub-id pub-id-type="pmid">11474795</pub-id>
+        </citation>
+      </ref>
+      <ref id="B40-molecules-10-00146">
+        <label>40.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crotts</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>T. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein delivery from poly(lactic-co-glycolic acid) biodegradable microspheres: release kinetics and stability issues</article-title>
+          <source>J. Microencapsul.</source>
+          <year>1998</year>
+          <volume>15</volume>
+          <fpage>699</fpage>
+          <lpage>713</lpage>
+          <pub-id pub-id-type="pmid">9818948</pub-id>
+        </citation>
+      </ref>
+      <ref id="B41-molecules-10-00146">
+        <label>41.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Okochi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nakano</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and evaluation of w/o/w type emulsions containing vancomycin</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2000</year>
+          <volume>45</volume>
+          <fpage>5</fpage>
+          <lpage>26</lpage>
+          <pub-id pub-id-type="pmid">11104894</pub-id>
+        </citation>
+      </ref>
+      <ref id="B42-molecules-10-00146">
+        <label>42.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mallarde</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Boutignon</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Moine</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Barre</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>David</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Touchet</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ferruti</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Deghenghi</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>PLGA-PEG microspheres of teverelix: influence of polymer type on microsphere characteristics and on teverelix in vitro release</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>2003</year>
+          <volume>261</volume>
+          <fpage>69</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="pmid">12878396</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43-molecules-10-00146">
+        <label>43.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johansen</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Moon</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Tamber</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Merkle</surname>
+              <given-names>H. P.</given-names>
+            </name>
+            <name>
+              <surname>Gander</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Sesardic</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Immunogenicity of single-dose diphtheria vaccines based on PLA/PLGA microspheres in guinea pigs</article-title>
+          <source>Vaccine</source>
+          <year>1999</year>
+          <volume>18</volume>
+          <fpage>209</fpage>
+          <lpage>215</lpage>
+          <pub-id pub-id-type="pmid">10506644</pub-id>
+        </citation>
+      </ref>
+      <ref id="B44-molecules-10-00146">
+        <label>44.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruiz</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Tissier</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Benoit</surname>
+              <given-names>J. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microencapsulation of peptide: a study of the phase separation of poly(D,L-lactic acid-co-glycolic acid) copolymers 50/50 by silicone oil</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>1989</year>
+          <volume>49</volume>
+          <fpage>69</fpage>
+          <lpage>77</lpage>
+        </citation>
+      </ref>
+      <ref id="B45-molecules-10-00146">
+        <label>45.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruiz</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Busnel</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Benoit</surname>
+              <given-names>J. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Influence of average molecular weights of poly(DL-lactic acid-co-glycolic acid) copolymers 50/50 on phase separation and in vitro drug release from microspheres</article-title>
+          <source>Pharm. Res.</source>
+          <year>1990</year>
+          <volume>7</volume>
+          <fpage>928</fpage>
+          <lpage>934</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1015945806917</pub-id>
+        </citation>
+      </ref>
+      <ref id="B46-molecules-10-00146">
+        <label>46.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yeo</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Basaran</surname>
+              <given-names>O. A.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new process for making reservoir-type microcapsules using ink-jet technology and interfacial phase separation</article-title>
+          <source>J. Control. Release</source>
+          <year>2003</year>
+          <volume>93</volume>
+          <fpage>161</fpage>
+          <lpage>173</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jconrel.2003.08.021</pub-id>
+        </citation>
+      </ref>
+      <ref id="B47-molecules-10-00146">
+        <label>47.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yeo</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>A. U.</given-names>
+            </name>
+            <name>
+              <surname>Basaran</surname>
+              <given-names>O. A.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent exchange method: a novel microencapsulation technique using dual microdispensers</article-title>
+          <source>Pharm. Res.</source>
+          <year>2004</year>
+		  <comment>(In press)</comment>
+        </citation>
+      </ref>
+      <ref id="B48-molecules-10-00146">
+        <label>48.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sah</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein behavior at the water/methylene chloride interface</article-title>
+          <source>J. Pharm. Sci.</source>
+          <year>1999</year>
+          <volume>88</volume>
+          <fpage>1320</fpage>
+          <lpage>1325</lpage>
+          <pub-id pub-id-type="pmid">10585229</pub-id>
+        </citation>
+      </ref>
+      <ref id="B49-molecules-10-00146">
+        <label>49.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>H. K.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>T. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microencapsulation of human growth hormone within biodegradable polyester microspheres: protein aggregation stability and incomplete release mechanism</article-title>
+          <source>Biotechnol. Bioeng.</source>
+          <year>1999</year>
+          <volume>65</volume>
+          <fpage>659</fpage>
+          <lpage>667</lpage>
+          <pub-id pub-id-type="pmid">10550772</pub-id>
+        </citation>
+      </ref>
+      <ref id="B50-molecules-10-00146">
+        <label>50.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murillo</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gamazo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Goni</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Irache</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Blanco-Prieto</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of microparticles prepared by spray-drying as a vaccine delivery system against brucellosis</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>2002</year>
+          <volume>242</volume>
+          <fpage>341</fpage>
+          <lpage>344</lpage>
+          <pub-id pub-id-type="pmid">12176275</pub-id>
+        </citation>
+      </ref>
+      <ref id="B51-molecules-10-00146">
+        <label>51.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blanco-Prieto</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name>
+              <surname>Campanero</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>Besseghir</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Heimgatner</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Gander</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Importance of single or blended polymer types for controlled in vitro release and plasma levels of a somatostatin analogue entrapped in PLA/PLGA microspheres</article-title>
+          <source>J. Control. Release</source>
+          <year>2004</year>
+          <volume>96</volume>
+          <fpage>437</fpage>
+          <lpage>448</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jconrel.2004.02.015</pub-id>
+        </citation>
+      </ref>
+      <ref id="B52-molecules-10-00146">
+        <label>52.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burke</surname>
+              <given-names>P. A.</given-names>
+            </name>
+            <name>
+              <surname>Klumb</surname>
+              <given-names>L. A.</given-names>
+            </name>
+            <name>
+              <surname>Herberger</surname>
+              <given-names>J. D.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>X. C.</given-names>
+            </name>
+            <name>
+              <surname>Harrell</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Zordich</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Poly(lactide-co-glycolide) microsphere formulations of darbepoetin alfa: spray drying is an alternative to encapsulation by spray-freeze drying</article-title>
+          <source>Pharm. Res.</source>
+          <year>2004</year>
+          <volume>21</volume>
+          <fpage>500</fpage>
+          <lpage>506</lpage>
+          <pub-id pub-id-type="doi">10.1023/B:PHAM.0000019305.79599.a5</pub-id>
+          <pub-id pub-id-type="pmid">15070102</pub-id>
+        </citation>
+      </ref>
+      <ref id="B53-molecules-10-00146">
+        <label>53.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Takada</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Uda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Toguchi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ogawa</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Application of a spray drying technique in the production of TRH-containing injectable sustained-release microparticles of biodegradable polymers</article-title>
+          <source>PDA J. Pharm. Sci. Technol.</source>
+          <year>1995</year>
+          <volume>49</volume>
+          <fpage>180</fpage>
+          <lpage>184</lpage>
+          <pub-id pub-id-type="pmid">7552237</pub-id>
+        </citation>
+      </ref>
+      <ref id="B54-molecules-10-00146">
+        <label>54.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>O. L.</given-names>
+            </name>
+            <name>
+              <surname>Jaworowicz</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Cleland</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Charnis</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Duenas</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Shepard</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Magil</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Last</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Putney</surname>
+              <given-names>S. D.</given-names>
+            </name>
+          </person-group>
+          <article-title>The stabilization and encapsulation of human growth hormone into biodegradable microspheres</article-title>
+          <source>Pharm. Res.</source>
+          <year>1997</year>
+          <volume>14</volume>
+          <fpage>730</fpage>
+          <lpage>735</lpage>
+          <pub-id pub-id-type="pmid">9210189</pub-id>
+        </citation>
+      </ref>
+      <ref id="B55-molecules-10-00146">
+        <label>55.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>O. L.</given-names>
+            </name>
+            <name>
+              <surname>Cleland</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>H. J.</given-names>
+            </name>
+            <name>
+              <surname>Charnis</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Duenas</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Jaworowicz</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Shepard</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Shahzamani</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Putney</surname>
+              <given-names>S. D.</given-names>
+            </name>
+          </person-group>
+          <article-title>A month-long effect from a single injection of microencapsulated human growth hormone</article-title>
+          <source>Nat. Med.</source>
+          <year>1996</year>
+          <volume>2</volume>
+          <fpage>795</fpage>
+          <lpage>799</lpage>
+          <pub-id pub-id-type="pmid">8673926</pub-id>
+        </citation>
+      </ref>
+      <ref id="B56-molecules-10-00146">
+        <label>56.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bittner</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Morlock</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Koll</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Winter</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kissel</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recombinant human erythropoietin (rhEPO) loaded poly(lactide-co-glycolide) microspheres: influence of the encapsulation technique and polymer purity on microsphere characteristics</article-title>
+          <source>Eur. J. Pharm. Biopharm.</source>
+          <year>1998</year>
+          <volume>45</volume>
+          <fpage>295</fpage>
+          <lpage>305</lpage>
+          <pub-id pub-id-type="pmid">9653634</pub-id>
+        </citation>
+      </ref>
+      <ref id="B57-molecules-10-00146">
+        <label>57.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morlock</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kissel</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y. X.</given-names>
+            </name>
+            <name>
+              <surname>Koll</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Winter</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Erythropoietin loaded microspheres prepared from biodegradable LPLG-PEO-LPLG triblock copolymers: protein stabilization and in-vitro release properties</article-title>
+          <source>J. Control. Release.</source>
+          <year>1998</year>
+          <volume>56</volume>
+          <fpage>105</fpage>
+          <lpage>115</lpage>
+          <pub-id pub-id-type="pmid">9801434</pub-id>
+        </citation>
+      </ref>
+      <ref id="B58-molecules-10-00146">
+        <label>58.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Witschi</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Doelker</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Influence of the microencapsulation method and peptide loading on poly(lactic acid) and poly(lactic-co-glycolic acid) degradation during in vitro testing</article-title>
+          <source>J. Control. Release</source>
+          <year>1998</year>
+          <volume>51</volume>
+          <fpage>327</fpage>
+          <lpage>341</lpage>
+          <pub-id pub-id-type="pmid">9685930</pub-id>
+        </citation>
+      </ref>
+      <ref id="B59-molecules-10-00146">
+        <label>59.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jalil</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Nixon</surname>
+              <given-names>J. R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biodegradable poly(lactic acid) and poly(lactide-co-glycolide) microcapsules: problems associated with preparative techniques and release properties</article-title>
+          <source>J. Microencapsul.</source>
+          <year>1990</year>
+          <volume>7</volume>
+          <fpage>297</fpage>
+          <lpage>325</lpage>
+          <pub-id pub-id-type="pmid">2200861</pub-id>
+        </citation>
+      </ref>
+      <ref id="B60-molecules-10-00146">
+        <label>60.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andrianov</surname>
+              <given-names>A. K.</given-names>
+            </name>
+            <name>
+              <surname>Payne</surname>
+              <given-names>L. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polymeric carriers for oral uptake of microparticulates</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>1998</year>
+          <volume>34</volume>
+          <fpage>155</fpage>
+          <lpage>170</lpage>
+          <pub-id pub-id-type="pmid">10837676</pub-id>
+        </citation>
+      </ref>
+      <ref id="B61-molecules-10-00146">
+        <label>61.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sluzky</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Tamada</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Klibanov</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Langer</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Kinetics of insulin aggregation in aqueous solutions upon agitation in the presence of hydrophobic surfaces</article-title>
+          <source>Proc. Natl. Acad. Sci. U S A</source>
+          <year>1991</year>
+          <volume>88</volume>
+          <fpage>9377</fpage>
+          <lpage>9381</lpage>
+          <pub-id pub-id-type="pmid">1946348</pub-id>
+        </citation>
+      </ref>
+      <ref id="B62-molecules-10-00146">
+        <label>62.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Youan</surname>
+              <given-names>B. B.</given-names>
+            </name>
+            <name>
+              <surname>Benoit</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>Baras</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Gillard</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein-loaded poly(epsilon-caprolactone) microparticles. I. Optimization of the preparation by (water-in-oil)-in water emulsion solvent evaporation</article-title>
+          <source>J. Microencapsul.</source>
+          <year>1999</year>
+          <volume>16</volume>
+          <fpage>587</fpage>
+          <lpage>599</lpage>
+          <pub-id pub-id-type="pmid">10499839</pub-id>
+        </citation>
+      </ref>
+      <ref id="B63-molecules-10-00146">
+        <label>63.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sinha</surname>
+              <given-names>V. R.</given-names>
+            </name>
+            <name>
+              <surname>Bansal</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kaushik</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kumria</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Trehan</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Poly-epsilon-caprolactone microspheres and nanospheres: an overview</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>2004</year>
+          <volume>278</volume>
+          <fpage>1</fpage>
+          <lpage>23</lpage>
+          <pub-id pub-id-type="pmid">15158945</pub-id>
+        </citation>
+      </ref>
+      <ref id="B64-molecules-10-00146">
+        <label>64.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Mao</surname>
+              <given-names>H. Q.</given-names>
+            </name>
+            <name>
+              <surname>Leong</surname>
+              <given-names>K. W.</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel biodegradable gene carrier based on polyphosphoester</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2001</year>
+          <volume>123</volume>
+          <fpage>9480</fpage>
+          <lpage>9481</lpage>
+          <pub-id pub-id-type="pmid">11562246</pub-id>
+        </citation>
+      </ref>
+      <ref id="B65-molecules-10-00146">
+        <label>65.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>H. Q.</given-names>
+            </name>
+            <name>
+              <surname>Leong</surname>
+              <given-names>K. W.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polyphosphoester microspheres for sustained release of biologically active nerve growth factor</article-title>
+          <source>Biomaterials</source>
+          <year>2002</year>
+          <volume>23</volume>
+          <fpage>3765</fpage>
+          <lpage>3772</lpage>
+          <pub-id pub-id-type="pmid">12109702</pub-id>
+        </citation>
+      </ref>
+      <ref id="B66-molecules-10-00146">
+        <label>66.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wan</surname>
+              <given-names>A. C.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mao</surname>
+              <given-names>H. Q.</given-names>
+            </name>
+            <name>
+              <surname>Leong</surname>
+              <given-names>K. W.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new nerve guide conduit material composed of a biodegradable poly(phosphoester)</article-title>
+          <source>Biomaterials</source>
+          <year>2001</year>
+          <volume>22</volume>
+          <fpage>1157</fpage>
+          <lpage>1169</lpage>
+          <pub-id pub-id-type="pmid">11352095</pub-id>
+        </citation>
+      </ref>
+      <ref id="B67-molecules-10-00146">
+        <label>67.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Yee</surname>
+              <given-names>W. C.</given-names>
+            </name>
+            <name>
+              <surname>Hwang</surname>
+              <given-names>P. Y.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Wan</surname>
+              <given-names>A. C.</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Boon</surname>
+              <given-names>K. L.</given-names>
+            </name>
+            <name>
+              <surname>Mao</surname>
+              <given-names>H. Q.</given-names>
+            </name>
+            <name>
+              <surname>Leong</surname>
+              <given-names>K. W.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Peripheral nerve regeneration with sustained release of poly(phosphoester) microencapsulated nerve growth factor within nerve guide conduits</article-title>
+          <source>Biomaterials</source>
+          <year>2003</year>
+          <volume>24</volume>
+          <fpage>2405</fpage>
+          <lpage>2412</lpage>
+          <pub-id pub-id-type="pmid">12699678</pub-id>
+        </citation>
+      </ref>
+      <ref id="B68-molecules-10-00146">
+        <label>68.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heller</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Poly(ortho esters)</article-title>
+          <source>Adv. Polym. Sci.</source>
+          <year>1993</year>
+          <volume>107</volume>
+          <fpage>41</fpage>
+          <lpage>92</lpage>
+        </citation>
+      </ref>
+      <ref id="B69-molecules-10-00146">
+        <label>69.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heller</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Barr</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ng</surname>
+              <given-names>S. Y.</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>H. R.</given-names>
+            </name>
+            <name>
+              <surname>Schwach-Abdellaoui</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Einmahl</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Rothen-Weinhold</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Gurny</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Emmahl</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Poly(ortho esters) - their development and some recent applications</article-title>
+          <source>Eur. J. Pharm. Biopharm.</source>
+          <year>2000</year>
+          <volume>50</volume>
+          <fpage>121</fpage>
+          <lpage>128</lpage>
+          <pub-id pub-id-type="pmid">10840196</pub-id>
+        </citation>
+      </ref>
+      <ref id="B70-molecules-10-00146">
+        <label>70.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heller</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Barr</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ng</surname>
+              <given-names>S. Y.</given-names>
+            </name>
+            <name>
+              <surname>Abdellauoi</surname>
+              <given-names>K. S.</given-names>
+            </name>
+            <name>
+              <surname>Gurny</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Poly(ortho esters): synthesis, characterization, properties and uses</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2002</year>
+          <volume>54</volume>
+          <fpage>1015</fpage>
+          <lpage>1039</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-409X(02)00055-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B71-molecules-10-00146">
+        <label>71.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ng</surname>
+              <given-names>S. Y.</given-names>
+            </name>
+            <name>
+              <surname>Heller</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and erosion studies of self-catalyzed poly(orthoester)s</article-title>
+          <source>Macromolecules</source>
+          <year>1997</year>
+          <volume>30</volume>
+          <fpage>770</fpage>
+          <lpage>772</lpage>
+        </citation>
+      </ref>
+      <ref id="B72-molecules-10-00146">
+        <label>72.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uhrich</surname>
+              <given-names>K. E.</given-names>
+            </name>
+            <name>
+              <surname>Cannizzaro</surname>
+              <given-names>S. M.</given-names>
+            </name>
+            <name>
+              <surname>Langer</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Shakesheff</surname>
+              <given-names>K. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polymeric systems for controlled drug release</article-title>
+          <source>Chem. Rev.</source>
+          <year>1999</year>
+          <volume>99</volume>
+          <fpage>3181</fpage>
+          <lpage>3198</lpage>
+          <pub-id pub-id-type="pmid">11749514</pub-id>
+        </citation>
+      </ref>
+      <ref id="B73-molecules-10-00146">
+        <label>73.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leong</surname>
+              <given-names>K. W.</given-names>
+            </name>
+            <name>
+              <surname>Kost</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Mathiowitz</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Langer</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polyanhydrides for controlled release of bioactive agents</article-title>
+          <source>Biomaterials</source>
+          <year>1986</year>
+          <volume>7</volume>
+          <fpage>364</fpage>
+          <lpage>371</lpage>
+          <pub-id pub-id-type="pmid">3778996</pub-id>
+        </citation>
+      </ref>
+      <ref id="B74-molecules-10-00146">
+        <label>74.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leong</surname>
+              <given-names>K. W.</given-names>
+            </name>
+            <name>
+              <surname>D'Amore</surname>
+              <given-names>P. D.</given-names>
+            </name>
+            <name>
+              <surname>Marletta</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Langer</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bioerodible polyanhydrides as drug-carrier matrices. II. Biocompatibility and chemical reactivity</article-title>
+          <source>J Biomed Mater Res</source>
+          <year>1986</year>
+          <volume>20</volume>
+          <fpage>51</fpage>
+          <lpage>64</lpage>
+          <pub-id pub-id-type="doi">10.1002/jbm.820200106</pub-id>
+        </citation>
+      </ref>
+      <ref id="B75-molecules-10-00146">
+        <label>75.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Langer</surname>
+              <given-names>R. S.</given-names>
+            </name>
+            <name>
+              <surname>Domb</surname>
+              <given-names>A. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polyanhydrides: an overview</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2002</year>
+          <volume>54</volume>
+          <fpage>889</fpage>
+          <lpage>910</lpage>
+          <pub-id pub-id-type="pmid">12384314</pub-id>
+        </citation>
+      </ref>
+      <ref id="B76-molecules-10-00146">
+        <label>76.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katti</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Lakshmi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Langer</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Laurencin</surname>
+              <given-names>C. T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Toxicity, biodegradation and elimination of polyanhydrides</article-title>
+          <source>Adv. Drug. Deliv. Rev.</source>
+          <year>2002</year>
+          <volume>54</volume>
+          <fpage>933</fpage>
+          <lpage>961</lpage>
+          <pub-id pub-id-type="pmid">12384316</pub-id>
+        </citation>
+      </ref>
+      <ref id="B77-molecules-10-00146">
+        <label>77.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dang</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Daviau</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Brem</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Morphological characterization of polyanhydride biodegradable implant gliadel during in vitro and in vivo erosion using scanning electron microscopy</article-title>
+          <source>Pharm. Res.</source>
+          <year>1996</year>
+          <volume>13</volume>
+          <fpage>683</fpage>
+          <lpage>691</lpage>
+          <pub-id pub-id-type="pmid">8860422</pub-id>
+        </citation>
+      </ref>
+      <ref id="B78-molecules-10-00146">
+        <label>78.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Allcock</surname>
+              <given-names>H. R.</given-names>
+            </name>
+            <name>
+              <surname>Kugel</surname>
+              <given-names>R. L.</given-names>
+            </name>
+            <name>
+              <surname>Valan</surname>
+              <given-names>K. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of high polymeric alkoxy and aryloxy phosphonitriles</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1965</year>
+          <volume>87</volume>
+          <fpage>4216</fpage>
+          <lpage>4217</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja01096a056</pub-id>
+        </citation>
+      </ref>
+      <ref id="B79-molecules-10-00146">
+        <label>79.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crommen</surname>
+              <given-names>J. H.</given-names>
+            </name>
+            <name>
+              <surname>Schacht</surname>
+              <given-names>E. H.</given-names>
+            </name>
+            <name>
+              <surname>Mense</surname>
+              <given-names>E. H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biodegradable polymers. I. Synthesis of hydrolysis-sensitive poly[(organo)phosphazenes]</article-title>
+          <source>Biomaterials</source>
+          <year>1992</year>
+          <volume>13</volume>
+          <fpage>511</fpage>
+          <lpage>520</lpage>
+          <pub-id pub-id-type="pmid">1633224</pub-id>
+        </citation>
+      </ref>
+      <ref id="B80-molecules-10-00146">
+        <label>80.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laurencin</surname>
+              <given-names>C. T.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>H. J.</given-names>
+            </name>
+            <name>
+              <surname>Neenan</surname>
+              <given-names>T. X.</given-names>
+            </name>
+            <name>
+              <surname>Allcock</surname>
+              <given-names>H. R.</given-names>
+            </name>
+            <name>
+              <surname>Langer</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Controlled release using a new bioerodible polyphosphazene matrix system</article-title>
+          <source>J. Biomed. Mater. Res.</source>
+          <year>1987</year>
+          <volume>21</volume>
+          <fpage>1231</fpage>
+          <lpage>1246</lpage>
+          <pub-id pub-id-type="pmid">3693386</pub-id>
+        </citation>
+      </ref>
+      <ref id="B81-molecules-10-00146">
+        <label>81.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Allcock</surname>
+              <given-names>H. R.</given-names>
+            </name>
+            <name>
+              <surname>Pucher</surname>
+              <given-names>A. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polyphosphazenes with glucosyl and methyl amino, trifluoroethoxy, phenoxy, or (methoxyethoxy)ethoxy side groups</article-title>
+          <source>Macromolecules</source>
+          <year>1991</year>
+          <volume>24</volume>
+          <fpage>23</fpage>
+          <lpage>34</lpage>
+        </citation>
+      </ref>
+      <ref id="B82-molecules-10-00146">
+        <label>82.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Allcock</surname>
+              <given-names>H. R.</given-names>
+            </name>
+            <name>
+              <surname>Pucher</surname>
+              <given-names>A. G.</given-names>
+            </name>
+            <name>
+              <surname>Scopelianos</surname>
+              <given-names>A. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of poly(organophosphazenes) with glycolic acid ester and lactic acid ester side groups: prototypes for new bioerodible polymers</article-title>
+          <source>Macromolecules</source>
+          <year>1994</year>
+          <volume>27</volume>
+          <fpage>1</fpage>
+          <lpage>4</lpage>
+        </citation>
+      </ref>
+      <ref id="B83-molecules-10-00146">
+        <label>83.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hirano</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitin and chitosan as novel biotechnological materials</article-title>
+          <source>Polym. Int.</source>
+          <year>1999</year>
+          <volume>48</volume>
+          <fpage>732</fpage>
+          <lpage>734</lpage>
+        </citation>
+      </ref>
+      <ref id="B84-molecules-10-00146">
+        <label>84.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Park</surname>
+              <given-names>J. H.</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>Y. W.</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>I. C.</given-names>
+            </name>
+            <name>
+              <surname>Jeong</surname>
+              <given-names>S. Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterization of sugar-bearing chitosan derivatives: aqueous solubility and biodegradability</article-title>
+          <source>Biomacromolecules</source>
+          <year>2003</year>
+          <volume>4</volume>
+          <fpage>1087</fpage>
+          <lpage>1091</lpage>
+          <pub-id pub-id-type="pmid">12857096</pub-id>
+        </citation>
+      </ref>
+      <ref id="B85-molecules-10-00146">
+        <label>85.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sashiwa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Saimoto</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Shigemasa</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ogawa</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Tokura</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lysozyme susceptibility of partially deacetylated chitin</article-title>
+          <source>Int. J. Biol. Macromol.</source>
+          <year>1990</year>
+          <volume>12</volume>
+          <fpage>295</fpage>
+          <lpage>296</lpage>
+          <pub-id pub-id-type="doi">10.1016/0141-8130(90)90016-4</pub-id>
+          <pub-id pub-id-type="pmid">2085495</pub-id>
+        </citation>
+      </ref>
+      <ref id="B86-molecules-10-00146">
+        <label>86.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hirano</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Tsuchida</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nagao</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>N-acetylation in chitosan and the rate of its enzymic hydrolysis</article-title>
+          <source>Biomaterials</source>
+          <year>1989</year>
+          <volume>10</volume>
+          <fpage>574</fpage>
+          <lpage>576</lpage>
+          <pub-id pub-id-type="doi">10.1016/0142-9612(89)90066-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B87-molecules-10-00146">
+        <label>87.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>S. E.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>J. H.</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>Y. W.</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Jeong</surname>
+              <given-names>S. Y.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>E. B.</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>I. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Porous chitosan scaffold containing microspheres loaded with transforming growth factor-beta1: implications for cartilage tissue engineering</article-title>
+          <source>J. Control. Release</source>
+          <year>2003</year>
+          <volume>91</volume>
+          <fpage>365</fpage>
+          <lpage>374</lpage>
+          <pub-id pub-id-type="pmid">12932714</pub-id>
+        </citation>
+      </ref>
+      <ref id="B88-molecules-10-00146">
+        <label>88.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sinha</surname>
+              <given-names>V. R.</given-names>
+            </name>
+            <name>
+              <surname>Singla</surname>
+              <given-names>A. K.</given-names>
+            </name>
+            <name>
+              <surname>Wadhawan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kaushik</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kumria</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bansal</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Dhawan</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitosan microspheres as a potential carrier for drugs</article-title>
+          <source>Int. J. Pharm.</source>
+          <year>2004</year>
+          <volume>274</volume>
+          <fpage>1</fpage>
+          <lpage>33</lpage>
+          <pub-id pub-id-type="pmid">15072779</pub-id>
+        </citation>
+      </ref>
+      <ref id="B89-molecules-10-00146">
+        <label>89.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jameela</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <name>
+              <surname>Kumary</surname>
+              <given-names>T. V.</given-names>
+            </name>
+            <name>
+              <surname>Lal</surname>
+              <given-names>A. V.</given-names>
+            </name>
+            <name>
+              <surname>Jayakrishnan</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Progesterone-loaded chitosan microspheres: a long acting biodegradable controlled delivery system</article-title>
+          <source>J. Control. Release</source>
+          <year>1998</year>
+          <volume>52</volume>
+          <fpage>17</fpage>
+          <lpage>24</lpage>
+          <pub-id pub-id-type="pmid">9685932</pub-id>
+        </citation>
+      </ref>
+      <ref id="B90-molecules-10-00146">
+        <label>90.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chandy</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>G. H.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>R. F.</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>G. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of poly(Lactic acid)/chitosan co-matrix microspheres: controlled release of taxol-heparin for preventing restenosis</article-title>
+          <source>Drug. Deliv.</source>
+          <year>2001</year>
+          <volume>8</volume>
+          <fpage>77</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="doi">10.1080/107175401750177025</pub-id>
+          <pub-id pub-id-type="pmid">11400866</pub-id>
+        </citation>
+      </ref>
+      <ref id="B91-molecules-10-00146">
+        <label>91.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>K. E.</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>I. C.</given-names>
+            </name>
+            <name>
+              <surname>Ahn</surname>
+              <given-names>H. J.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S. H.</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>H. J.</given-names>
+            </name>
+            <name>
+              <surname>Seong</surname>
+              <given-names>S. C.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>M. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of the controlled-released TGF-beta 1 from chitosan microspheres on chondrocytes cultured in a collagen/chitosan/glycosaminoglycan scaffold</article-title>
+          <source>Biomaterials</source>
+          <year>2004</year>
+          <volume>25</volume>
+          <fpage>4163</fpage>
+          <lpage>4173</lpage>
+          <pub-id pub-id-type="pmid">15046906</pub-id>
+        </citation>
+      </ref>
+      <ref id="B92-molecules-10-00146">
+        <label>92.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cho</surname>
+              <given-names>B. C.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J. Y.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J. H.</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>H. Y.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>J. W.</given-names>
+            </name>
+            <name>
+              <surname>Roh</surname>
+              <given-names>K. H.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>G. U.</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>I. C.</given-names>
+            </name>
+            <name>
+              <surname>Jang</surname>
+              <given-names>K. H.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>N. W.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>I. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>The bone regenerative effect of chitosan microsphere-encapsulated growth hormone on bony consolidation in mandibular distraction osteogenesis in a dog model</article-title>
+          <source>J. Craniofac. Surg.</source>
+          <year>2004</year>
+          <volume>15</volume>
+          <fpage>299</fpage>
+          <lpage>311</lpage>
+		  <comment>discussion 312-293</comment>
+        </citation>
+      </ref>
+      <ref id="B93-molecules-10-00146">
+        <label>93.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Park</surname>
+              <given-names>J. H.</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nam</surname>
+              <given-names>J. O.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>R. W.</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Seo</surname>
+              <given-names>S. B.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>I. S.</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>I. C.</given-names>
+            </name>
+            <name>
+              <surname>Jeong</surname>
+              <given-names>S. Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Self-assembled nanoparticles based on glycol chitosan bearing 5-beta-cholanic acid for RGD peptide delivery</article-title>
+          <source>J. Control. Release.</source>
+          <year>2004</year>
+          <volume>95</volume>
+          <fpage>579</fpage>
+          <lpage>588</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jconrel.2003.12.020</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

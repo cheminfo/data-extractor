@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010302</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00302</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Syntheses, Characterization and Study of the Use of Cobalt (II) Schiff&#x2013;Base Complexes as Catalysts for the Oxidation of Styrene by Molecular Oxygen</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khandar</surname>
+            <given-names>Ali Akbar</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00302" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nejati</surname>
+            <given-names>Kamellia</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00302" ref-type="aff">2</xref>
+          <xref rid="c1-molecules-10-00302" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rezvani</surname>
+            <given-names>Zolfaghar</given-names>
+          </name>
+          <xref rid="af3-molecules-10-00302" ref-type="aff">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00302"><label>1</label>Department of Inorganic Chemistry, Faculty of Chemistry, Tabriz University, Tabriz, Iran</aff>
+      <aff id="af2-molecules-10-00302"><label>2</label>Payam Noor University -Tabriz Center, Emamieh, Hakimnezami Street, Tabriz, Iran</aff>
+      <aff id="af3-molecules-10-00302"><label>3</label>Department of Chemistry, Faculty of Science, Azarbaijan University of Tarbiat Moallem, Tabriz, Iran</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00302"><label>*</label>Author to whom correspondence should be addressed; Fax: (+98) 411 5412108; Tel: (+98) 411 5412117; e-mail: <email>nejati_k@yahoo.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>302</fpage>
+      <lpage>311</lpage>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>08</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>09</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Schiff-Base complexes of bis-5-phenylazosalicylaldehyde ethylenediimine and bis-5-phenylazosalicylaldehyde-O-phenylenediimine ligands with Co(II) (<bold>I</bold> and <bold>II)</bold> have been synthesized and characterized by their IR spectra and elemental analyses. These complexes catalyze the oxidation of styrene in the presence of dioxygen and excess pyridine. The effect of the reaction conditions on the oxidation of styrene was studied by varying solvent, nature and amount of the catalyst and substrate. The catalytic behavior of the studied complexes was shown to be dependent on the conditions applied. In all reactions, acetophenone and 1- phenylethanol were the only observed products.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Cobalt</kwd>
+        <kwd>Schiff base complexes</kwd>
+        <kwd>Salicylidene</kwd>
+        <kwd>Styrene</kwd>
+        <kwd>Oxidation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The ability of certain cobalt (II) complexes to reversibly bind dioxygen was discovered many decades ago [<xref ref-type="bibr" rid="B1-molecules-10-00302">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00302">2</xref>]. Since then, many cobalt(II) dioxygen carriers have been discovered [<xref ref-type="bibr" rid="B3-molecules-10-00302">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00302">4</xref>]. Some of them have properties which make them good candidates for industrial and/or medicinal applications. Oxidations of organic molecules with dioxygen transition metal complexes have been extensively studied  in view of the potential for exploitation of new synthetic methodologies and as an aid to the understanding of biological oxidation mechanisms [<xref ref-type="bibr" rid="B5-molecules-10-00302">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00302">6</xref>]. On the other hand, controlled oxidation of organic compounds with molecular oxygen is a hotly pursued approach for the development of environmentally benign and ecologically sustainable chemical processes. These processes are significant in the preparation of organic reagents [<xref ref-type="bibr" rid="B7-molecules-10-00302">7</xref>], bleaching of paper pulp [<xref ref-type="bibr" rid="B8-molecules-10-00302">8</xref>] or textiles [<xref ref-type="bibr" rid="B9-molecules-10-00302">9</xref>], chemicals raw materials industries [<xref ref-type="bibr" rid="B10-molecules-10-00302">10</xref>] and environmental catalysis. We describe here the synthesis and characterization of some complexes of cobalt (II)  with tetracoordinate Schiff&#x2013;base ligands (<bold>I</bold> and <bold>II</bold>, <xref ref-type="fig" rid="molecules-10-00302-f001">Figure 1</xref>).  We also report the oxidation of styrene by molecular oxygen in the presence of excess aromatic base to the corresponding 2&#x2013;ketone and 2&#x2013;alcohol using the complexes <bold>I</bold> and <bold>II</bold> as catalysts.</p>
+	  <fig id="molecules-10-00302-f001" position="float">
+          <label>Figure 1</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g001.tif"/>
+        </fig>
+	 </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Synthesis</title>
+        <p>All ligands and complexes were obtained in good yield and purity. Cobalt complexes were characterized by elemental analysis and IR spectroscopy. All characterization data for the complexes is given in <xref ref-type="table" rid="molecules-10-00302-t001">Table 1</xref>.</p>
+        <table-wrap id="molecules-10-00302-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00302-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Characterization data for complexes <bold>I</bold> and <bold>II</bold></p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th align="center" valign="top">Complex</th>
+                <th align="center" valign="top">I</th>
+                <th align="center" valign="top">II</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="top"><bold>Yield (%)</bold></td>
+                <td align="center" valign="top">90</td>
+                <td align="center" valign="top">89</td>
+              </tr>
+              <tr>
+                <td colspan="3" align="center" valign="top"><bold>IR data(cm<sup>-1</sup>)</bold></td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>&#x3C5;<sub>C-H(aromatic)</sub></bold></td>
+                <td align="center" valign="top">3040</td>
+                <td align="center" valign="top">3050</td>
+              </tr>
+              <tr style="border-top: hidden">
+                <td align="center" valign="top"><bold>&#x3C5;<sub>C-H(aliphatic)</sub></bold></td>
+                <td align="center" valign="top">2920</td>
+                <td align="center" valign="top">-</td>
+              </tr>
+              <tr style="border-top: hidden">
+                <td align="center" valign="top"><bold>&#x3C5;<sub>C=N</sub></bold></td>
+                <td align="center" valign="top">1600</td>
+                <td align="center" valign="top">1600</td>
+              </tr>
+              <tr style="border-top: hidden">
+                <td align="center" valign="top"><bold>&#x3C5;<sub>C=C</sub></bold></td>
+                <td align="center" valign="top">1590</td>
+                <td align="center" valign="top">1585</td>
+              </tr>
+              <tr style="border-top: hidden">
+                <td align="center" valign="top"><bold>&#x3C5;<sub>N=N</sub></bold></td>
+                <td align="center" valign="top">1525</td>
+                <td align="center" valign="top">1520</td>
+              </tr>
+              <tr>
+                <td colspan="3" align="center" valign="top"><bold>Analyses, found (calc.)</bold></td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>C</bold></td>
+                <td align="center" valign="top">62.81(63.04)</td>
+                <td align="center" valign="top">65.73(66.09)</td>
+              </tr>
+              <tr style="border-top: hidden">
+                <td align="center" valign="top"><bold>H</bold></td>
+                <td align="center" valign="top">3.75(4.10)</td>
+                <td align="center" valign="top">3.59(3.78)</td>
+              </tr>
+              <tr style="border-top: hidden">
+                <td align="center" valign="top"><bold>N</bold></td>
+                <td align="center" valign="top">15.48(15.75)</td>
+                <td align="center" valign="top">14.30(14.45)</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>In the IR spectra of the complexes &#x3C5;<sub>C=N</sub> was shifted to a lower wavenumber by ca. 10-40 cm<sup>&#x2013;1</sup> upon coordination. In addition, the disappearance of the OH band of the free ligands in the cobalt (II) complexes indicates that the OH group has become deprotonated and bonded to the metal ion as &#x2013;O<sup>-</sup>. On the basis of these results it can be concluded that in the complexes <bold>I</bold> and <bold>II</bold>, the Schiff&#x2013;bases are coordinated to the cobalt atom as tetradentate ONNO ligands. The coordination spheres of our complexes are similar to those of cobalt salen&#x2013;type complexes that have been reported to be square&#x2013;planar [<xref ref-type="bibr" rid="B11-molecules-10-00302">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00302">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00302">13</xref>], therefore we suggest that the title complexes <bold>I</bold> and <bold>II</bold> also possess similar square&#x2013;planar structures.</p>
+      </sec>
+      <sec>
+        <title>Catalytic Properties</title>
+        <p>The catalytic properties of complexes <bold>I</bold> and <bold>II</bold> were investigated in the oxidation reaction of styrene in the presence of pyridine as axial base under different experimental conditions. The only products formed were acetophenone and 1-phenylethanol. The salen&#x2013;type complexes of cobalt(II) have been known for a long time as dioxygen activators [<xref ref-type="bibr" rid="B10-molecules-10-00302">10</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00302">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00302">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00302">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00302">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00302">18</xref>].</p>
+        <p>Four&#x2013;coordinate square&#x2013;planar cobalt salen&#x2013;type complexes need an added base, which binds to the axial position of the coordination sphere of the central metal [<xref ref-type="bibr" rid="B10-molecules-10-00302">10</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00302">19</xref>,<xref ref-type="bibr" rid="B20-molecules-10-00302">20</xref>]. The <italic>trans</italic> axial ligand enhances the oxygen binding capability of the square&#x2013;planar complexes and stabilizes the formed dioxygen adducts [<xref ref-type="bibr" rid="B19-molecules-10-00302">19</xref>]. The most commonly utilized axial base in cobalt salen&#x2013;type catalytic oxidation  systems is pyridine [<xref ref-type="bibr" rid="B10-molecules-10-00302">10</xref>,<xref ref-type="bibr" rid="B20-molecules-10-00302">20</xref>]. Co(salen) and similar compounds react reversibly with oxygen to give an equilibrium mixture of a superoxo complex (Co:O<sub>2</sub> ratio 1:1 ) and a dimeric peroxo complex (Co:O<sub>2</sub> ratio 2:1) [<xref ref-type="bibr" rid="B10-molecules-10-00302">10</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00302">14</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00302">21</xref>]. The formation of these species (superoxo or &#x3BC;-peroxo) depends on the reaction conditions [<xref ref-type="bibr" rid="B17-molecules-10-00302">17</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00302">22</xref>].</p>
+        <p>Many of the observed effects of reaction conditions can be explained by the altered equilibrium of these two species. The formation of superoxo complex is favored in the most polar solvents [<xref ref-type="bibr" rid="B19-molecules-10-00302">19</xref>]. On the other hand, high temperatures favor the peroxo&#x2013; bridged species, while low temperatures [for example (-70)&#x2DA;C-25&#x2DA;C] favor 1:1 dioxygen adduct formation, which can be explained by the different thermal parameters for 1:1 and 2:1 adduct formation [<xref ref-type="bibr" rid="B23-molecules-10-00302">23</xref>,<xref ref-type="bibr" rid="B24-molecules-10-00302">24</xref>,<xref ref-type="bibr" rid="B25-molecules-10-00302">25</xref>,<xref ref-type="bibr" rid="B26-molecules-10-00302">26</xref>]. Therefore it can be suggested that our complexes also, with respect to the temperature (70&#xB0;C), act as &#x3BC;-peroxo dimers.</p>
+        <p>Several reaction conditions were varied to study their effect on the oxidation activity of the catalytic system. These variables included the added solvent, axial base, nature and concentration of catalyst and substrate. The different experimental conditions used, % yields of the products and styrene conversions to these products, turnover numbers of the reactions and the [acetophenone]/[1-phenylethanol] ratios (which are representative of reaction selectivity) after 8 hours are summarized in <xref ref-type="table" rid="molecules-10-00302-t002">Table 2</xref>.</p>
+        <table-wrap id="molecules-10-00302-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00302-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>The % of the products and styrene conversion to the products, turnover number of reactions and [acetophenone]/[1- phenylethanol] ratio after 8h under different experimental conditions.</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Experiment No.</th>
+                <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Catalyst</th>
+                <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Substrate (ml)</th>
+                <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Solvent</th>
+                <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Products(%)</th>
+                <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Styrene conversion (%)</th>
+                <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Turnover number</th>
+                <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">[ketone] / [alcohol]</th>
+              </tr>
+              <tr style="border-top: solid thin">
+                <th align="center" valign="middle" style="border-bottom:solid thin">Ketone</th>
+                <th align="center" valign="middle" style="border-bottom:solid thin">Alcohol</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="top">1</td>
+                <td align="center" valign="top">II(0.25g)</td>
+                <td align="center" valign="top">3</td>
+                <td align="left" valign="top">EtOH</td>
+                <td align="center" valign="top">81.78</td>
+                <td align="center" valign="top">18.22</td>
+                <td align="center" valign="top">19.75</td>
+                <td align="center" valign="top">11.94</td>
+                <td align="center" valign="top">4.49</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">2</td>
+                <td align="center" valign="top">II(0.25g)</td>
+                <td align="center" valign="top">3</td>
+                <td align="left" valign="top">1-PrOH</td>
+                <td align="center" valign="top">93.72</td>
+                <td align="center" valign="top">6.28</td>
+                <td align="center" valign="top">13.54</td>
+                <td align="center" valign="top">8.19</td>
+                <td align="center" valign="top">14.93</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">3</td>
+                <td align="center" valign="top">II(0.25g)</td>
+                <td align="center" valign="top">3</td>
+                <td align="left" valign="top">2-PrOH</td>
+                <td align="center" valign="top">61.40</td>
+                <td align="center" valign="top">35.90</td>
+                <td align="center" valign="top">2.53</td>
+                <td align="center" valign="top">1.53</td>
+                <td align="center" valign="top">1.78</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">4</td>
+                <td align="center" valign="top">II(0.25g)</td>
+                <td align="center" valign="top">6</td>
+                <td align="left" valign="top">1-PrOH</td>
+                <td align="center" valign="top">84.90</td>
+                <td align="center" valign="top">15.10</td>
+                <td align="center" valign="top">5.73</td>
+                <td align="center" valign="top">5.12</td>
+                <td align="center" valign="top">5.63</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">5</td>
+                <td align="center" valign="top">II(0.5g)</td>
+                <td align="center" valign="top">3</td>
+                <td align="left" valign="top">1-PrOH</td>
+                <td align="center" valign="top">100.00</td>
+                <td align="center" valign="top">__</td>
+                <td align="center" valign="top">5.80</td>
+                <td align="center" valign="top">1.75</td>
+                <td align="center" valign="top">&#x221E;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">6</td>
+                <td align="center" valign="top">II(0.25g)</td>
+                <td align="center" valign="top">6</td>
+                <td align="left" valign="top">EtOH</td>
+                <td align="center" valign="top">54.12</td>
+                <td align="center" valign="top">45.88</td>
+                <td align="center" valign="top">4.18</td>
+                <td align="center" valign="top">5.06</td>
+                <td align="center" valign="top">1.18</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">7</td>
+                <td align="center" valign="top">II(0. 5g)</td>
+                <td align="center" valign="top">3</td>
+                <td align="left" valign="top">EtOH</td>
+                <td align="center" valign="top">100.00</td>
+                <td align="center" valign="top">__</td>
+                <td align="center" valign="top">2.69</td>
+                <td align="center" valign="top">0.81</td>
+                <td align="center" valign="top">&#x221E;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">8</td>
+                <td align="center" valign="top">I(0.25g)</td>
+                <td align="center" valign="top">3</td>
+                <td align="left" valign="top">EtOH</td>
+                <td align="center" valign="top">84.13</td>
+                <td align="center" valign="top">15.87</td>
+                <td align="center" valign="top">10.42</td>
+                <td align="center" valign="top">5.78</td>
+                <td align="center" valign="top">5.30</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">9</td>
+                <td align="center" valign="top">I(0.25g)</td>
+                <td align="center" valign="top">3</td>
+                <td align="left" valign="top">1-PrOH</td>
+                <td align="center" valign="top">83.10</td>
+                <td align="center" valign="top">16.90</td>
+                <td align="center" valign="top">2.66</td>
+                <td align="center" valign="top">1.47</td>
+                <td align="center" valign="top">5.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">10</td>
+                <td align="center" valign="top">I(0.25g)</td>
+                <td align="center" valign="top">3</td>
+                <td align="left" valign="top">2-PrOH</td>
+                <td align="center" valign="top">86.82</td>
+                <td align="center" valign="top">13.18</td>
+                <td align="center" valign="top">12.14</td>
+                <td align="center" valign="top">6.73</td>
+                <td align="center" valign="top">6.59</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">11</td>
+                <td align="center" valign="top">I(0.25g)</td>
+                <td align="center" valign="top">6</td>
+                <td align="left" valign="top">2-PrOH</td>
+                <td align="center" valign="top">80.79</td>
+                <td align="center" valign="top">19.21</td>
+                <td align="center" valign="top">1.07</td>
+                <td align="center" valign="top">1.19</td>
+                <td align="center" valign="top">4.58</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-bottom:solid thin">12</td>
+                <td align="center" valign="top" style="border-bottom:solid thin">I(0.5g)</td>
+                <td align="center" valign="top" style="border-bottom:solid thin">3</td>
+                <td align="left" valign="top" style="border-bottom:solid thin">2-PrOH</td>
+                <td align="center" valign="top" style="border-bottom:solid thin">82.00</td>
+                <td align="center" valign="top" style="border-bottom:solid thin">18.00</td>
+                <td align="center" valign="top" style="border-bottom:solid thin">2.92</td>
+                <td align="center" valign="top" style="border-bottom:solid thin">0.81</td>
+                <td align="center" valign="top" style="border-bottom:solid thin">4.55</td>
+              </tr>
+            </tbody>
+          </table>
+		    <table-wrap-foot>
+              <fn>
+              <p>P=1atm, T=70&#xB0;C, substrate=styrene, internal standard=2-octanone, alcohol = 1-phenylethanol, ketone = acetophenone, turnover numbers of reactions are calculated as the number of moles of substrate oxidized by 1 mol of the catalyst. The axial base is pyridine.</p>
+              </fn>
+            </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>The effect of the solvent</title>
+        <p>In <xref ref-type="fig" rid="molecules-10-00302-f002">Figure 1</xref> and <xref ref-type="fig" rid="molecules-10-00302-f003">Figure 2</xref> functional changes of the [acetophenone]/[1- phenylethanol] ratios in terms of the time for experiments 1, 2, 3 and 8, 9, 10 are shown for complexes <bold>II</bold> and <bold>I</bold>, respectively.</p>
+        <fig id="molecules-10-00302-f002" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p>Variation of the [acetophenone]/[1-phenylethanol] ratio vs. time for experiments 1, 2 and 3</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g002.tif"/>
+        </fig>
+        <fig id="molecules-10-00302-f003" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p>Variation of the [acetophenone]/[1-phenylethanol] ratio vs. time for experiments 8, 9 and 10</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g003.tif"/>
+        </fig>
+        <p>When the [acetophenone] /[1-phenylethanol] ratio is &#x221E; this means that we have only one product (acetophenone) and the reaction is completely selective. The functional changes of the 1-phenylethanol and acetophenone concentration in terms of the time for experiments 1, 2, 3 and 8, 9, 10 are shown in <xref ref-type="fig" rid="molecules-10-00302-f004">Figure 3</xref>, <xref ref-type="fig" rid="molecules-10-00302-f005">Figure 4</xref>, <xref ref-type="fig" rid="molecules-10-00302-f006">Figure 5</xref> and <xref ref-type="fig" rid="molecules-10-00302-f007">Figure 6</xref> respectively. From <xref ref-type="fig" rid="molecules-10-00302-f002">Figure 1</xref> and <xref ref-type="fig" rid="molecules-10-00302-f003">Figure 2</xref> it can be concluded that complex <bold>II</bold> in 1-propanol has more selectivity than in the other two solvents. But in the case of complex <bold>I</bold>, in 1-propanol the reaction is completely selective for the first 4 hours. The yields of 1-phenylethanol and acetophenone production in the presence of complex <bold>II</bold> as catalyst in ethanol are greater than the yields of the reaction in the other solvents (<xref ref-type="fig" rid="molecules-10-00302-f004">Figure 3</xref> and <xref ref-type="fig" rid="molecules-10-00302-f005">Figure 4</xref>) and for complex <bold>I</bold>, in 1-propanol the yields are less than in the other two solvents (<xref ref-type="fig" rid="molecules-10-00302-f006">Figure 5</xref> and <xref ref-type="fig" rid="molecules-10-00302-f007">Figure 6</xref>) after 8 hours.</p>
+        <fig id="molecules-10-00302-f004" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p>Variation of the 1-phenylethanol concentration vs. time for experiments 1, 2 and 3. The concentration unit in axial axis is M&#xD7;10<sup>4</sup>.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g004.tif"/>
+        </fig>
+        <fig id="molecules-10-00302-f005" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>Variation of [acetophenone] vs. time for experiments 1, 2 and 3.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g005.tif"/>
+        </fig>
+        <fig id="molecules-10-00302-f006" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>Variation of [1-phenylethanol] vs. time for experiments 8, 9 and 10.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g006.tif"/>
+        </fig>
+        <fig id="molecules-10-00302-f007" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p>Variation of [acetophenone] vs. time for experiments 8, 9 and 10</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g007.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>The effect of the catalyst</title>
+        <p>In experiments 1 and 8, 2 and 9 and 3 and 10 the selectivity of the reactions varies as the complex is changed. In <xref ref-type="fig" rid="molecules-10-00302-f008">Figure 7</xref>, <xref ref-type="fig" rid="molecules-10-00302-f009">Figure 8</xref> and <xref ref-type="fig" rid="molecules-10-00302-f010">Figure 9</xref> the changes of selectivity of the reactions in terms of the time for these experiments are shown.</p>
+        <fig id="molecules-10-00302-f008" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <p>Variation of the [acetophenone]/[1-phenylethanol] ratio vs. time for experiments 1 and 8.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g008.tif"/>
+        </fig>
+        <p>From <xref ref-type="fig" rid="molecules-10-00302-f008">Figure 7</xref>, <xref ref-type="fig" rid="molecules-10-00302-f009">Figure 8</xref> and <xref ref-type="fig" rid="molecules-10-00302-f010">Figure 9</xref> it can be concluded that complex <bold>I</bold> has more selectivity than complex <bold>II</bold> in ethanol and 2-propanol but in 1-propanol complex <bold>I</bold> reacts with completely selectivity up to 4 hours and then its selectivity decreases and eventually becomes less than that seen with complex <bold>II</bold>.</p>
+        <fig id="molecules-10-00302-f009" position="float">
+          <label>Figure 8</label>
+          <caption>
+            <p>Variation of the [acetophenone]/[1- phenylethanol] ratio vs. time for experiments 2 and 9.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g009.tif"/>
+        </fig>
+        <fig id="molecules-10-00302-f010" position="float">
+          <label>Figure 9</label>
+          <caption>
+            <p>Variation of the [acetophenone] / [1- phenylethanol ] ratio vs. time for experiments 3 and 10</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g010.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>The effect of catalyst concentration</title>
+        <p>For complex <bold>II</bold>, the changes of selectivity of the reactions in terms of the time in experiments 1 and 7 and 2 and 5 are shown in <xref ref-type="fig" rid="molecules-10-00302-f011">Figure 10</xref> and <xref ref-type="fig" rid="molecules-10-00302-f012">Figure 11</xref>, respectively. These figures show that the selectivity of complex <bold>II</bold> increases with an increase in the catalyst concentration in ethanol and 1-propanol, whereas the selectivity of complex <bold>I</bold> in 2-propanol (experiments 10 and 12) decreases when the catalyst concentration is increased (<xref ref-type="fig" rid="molecules-10-00302-f013">Figure 12</xref>).</p>
+        <fig id="molecules-10-00302-f011" position="float">
+          <label>Figure 10</label>
+          <caption>
+            <p>Variation of the [acetophenone]/[1-phenylethanol] ratio vs. time in experiments 1 and 7</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g011.tif"/>
+        </fig>
+        <fig id="molecules-10-00302-f012" position="float">
+          <label>Figure 11</label>
+          <caption>
+            <p>Variation of the [acetophenone]/[1-phenylethanol] ratio vs. time in experiments 2 and 5.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g012.tif"/>
+        </fig>
+        <fig id="molecules-10-00302-f013" position="float">
+          <label>Figure 12</label>
+          <caption>
+            <p>Variation of the [acetophenone]/[1-phenylethanol] ratio vs. time in experiments 10 and 12</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00302-g013.tif"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The Co(II) complexes <bold>I</bold> and <bold>II</bold> catalyze the oxidation of styrene in the presence of O<sub>2</sub> and excess pyridine. In all reactions, acetophenone and 1- phenylethanol were the only observed products. The catalytic activities were shown to depend on the conditions used, as complex <bold>II</bold> was more selective in 1-propanol than in other solvents, whereas in the case of complex <bold>I</bold>, the reaction was 100% selective in 1-propanol for the first 4 hours. With complex <bold>II</bold> the reaction becomes 100% selective upon increasing the catalyst concentration in ethanol and 1-propanol. On the other hand, in the case of complex <bold>I</bold>, the selectivity of the reaction in 2-propanol decreases when the catalyst concentration increases.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank Professor M.T. Zaaferani, Professor J. Manzouri and Dr A. Shahrisa for their useful suggestions and Azarbaijan University of Tarbiat Moalem, for GC spectra.</p>
+    </ack>
+	<sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>All reagents and solvents were used as supplied by Merck. Absolute ethanol, anhydrous 1&#x2013;propanol and 2&#x2013;propanol were stored over 3 &#xC5; and 4 &#xC5; molecular sieves and used without further purification. Styrene and pyridine were distilled and stored over 4&#xC5; molecular sieves. 5&#x2013;Phenylazo salicylaldehyde and the ligands were obtained as described elsewhere [<xref ref-type="bibr" rid="B27-molecules-10-00302">27</xref>]. Elemental (C, H and N) analyses were done on a Perkin &#x2013; Elmer model 240B automatic instrument. Infrared spectra were recorded on IR 408 Shimadzu 568 instrument. GC spectra were recorded on a Philips model P44410 gas chromatograph equipped with a flame ionization detector, using a stainless steel column packed with OPEG 20 M % diethylene glycol adipate on Chromosorb P.</p>
+      </sec>
+      <sec>
+        <title>Complexes</title>
+        <p>The complexes were prepared in similar manner. The ligand (0.004 mol) was mixed with Co(acac)<sub>2</sub>.4H<sub>2</sub>O (0.004 mol) and refluxed in ethanol (100 mL) for 1h. The mixture was then cooled, filtered and resulting complex was washed with ethanol and ether and dried under vacuum at 100&#x2DA;C.</p>
+      </sec>
+      <sec>
+        <title>Oxidation Reactions</title>
+        <p>The oxidation reactions were carried out in 250 mL flask containing a magnetic stir bar, fitted with a pressure gauge and placed in a temperature controlled oil bath inside a steel explosion shield. For a typical oxidation, solvent (25 mL), substrate (3 mL), pyridine (5 mL), 2-octanone (0.28 mL, internal GC standard) and a plastic cap containing the catalyst (0.25 g) were added to the flask, which was attached to the pressure head and placed in the oil bath at 70&#xB0;C (the complexes are insoluble below this temperature). The system was then purged several times with oxygen. Stirring was begun to capsize the catalyst-containing cap and initiate the oxidation. The progress of the reactions was monitored by injecting an aliquot of sample (0.4 &#x2013; 0.5 &#xB5;L) into the GC for analysis. The amounts of products present were calculated from calibration curves based on the 2- octanone standard.</p>
+      </sec>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00302">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Werner</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mylius</surname>
+              <given-names>A.Z.</given-names>
+            </name>
+          </person-group>
+          <source>Anorg. Allg. Chem.</source>
+          <year>1898</year>
+          <volume>16</volume>
+          <fpage>245</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00302">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsumaki</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1938</year>
+          <volume>13</volume>
+          <fpage>252</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00302">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Busch</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <name>
+              <surname>Alcock</surname>
+              <given-names>N.W.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1994</year>
+          <volume>94</volume>
+          <fpage>585</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00302">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Niederhoffer</surname>
+              <given-names>E.C.</given-names>
+            </name>
+            <name>
+              <surname>Timmons</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Martell</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1984</year>
+          <volume>84</volume>
+          <fpage>137</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00302">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>R.D.</given-names>
+            </name>
+            <name>
+              <surname>Summerville</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Basolo</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1979</year>
+          <volume>79</volume>
+          <fpage>139</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00302">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mimoun</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Cat.</source>
+          <year>1980</year>
+          <volume>7</volume>
+          <fpage>1</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00302">
+        <label>7.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Ebner</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Riley</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Foote</surname>
+              <given-names>C.S.</given-names>
+            </name>
+            <name>
+              <surname>Valentine</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Greenberg</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Liebman</surname>
+              <given-names>J.F.</given-names>
+            </name>
+          </person-group>
+		  <source>Active Oxygen in Chemistry, SEARCH Series, Vol. 2</source>
+          <publisher-name>Blackie Academic and Professional Publishers</publisher-name>
+          <publisher-loc>Glasgow, U.K</publisher-loc>
+          <year>1995</year>
+          <comment>Chap. 6</comment>
+          <fpage>205</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00302">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cui</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Patt</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gratzl</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Catal. A</source>
+          <year>1999</year>
+          <volume>144</volume>
+          <fpage>411</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00302">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hage</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Iburg</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Koek</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Martens</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kerschner</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lempers</surname>
+              <given-names>E.L.M.</given-names>
+            </name>
+            <name>
+              <surname>Martens</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Racheria</surname>
+              <given-names>U.S.</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>S.W.</given-names>
+            </name>
+            <name>
+              <surname>Swaryhoff</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>van Vliet</surname>
+              <given-names>M.R.P.</given-names>
+            </name>
+            <name>
+              <surname>Warnaar</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>van der Wolf</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Krijnen</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Nature</source>
+          <year>1994</year>
+          <volume>369</volume>
+          <fpage>637</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00302">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bozell</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Hames</surname>
+              <given-names>B.R.</given-names>
+            </name>
+            <name>
+              <surname>Dimmel</surname>
+              <given-names>D.R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1995</year>
+          <volume>60</volume>
+          <fpage>2398</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00302">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nishinaga</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tsutsui</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Moriyama</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Wazaki</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mashino</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Fujii</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Catal.</source>
+          <year>1993</year>
+          <volume>83</volume>
+          <fpage>117</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00302">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogt Jr</surname>
+              <given-names>L.H.</given-names>
+            </name>
+            <name>
+              <surname>Faigenbaum</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Wiberley</surname>
+              <given-names>S.E.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1963</year>
+          <volume>63</volume>
+          <fpage>269</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00302">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kervinen</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Lahtinen</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Repo</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Svahn</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Leskela</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Catal. Today</source>
+          <year>2002</year>
+          <volume>75</volume>
+          <fpage>183</fpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00302">
+        <label>14.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldon</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Kochi</surname>
+              <given-names>J.K.</given-names>
+            </name>
+          </person-group>
+          <source>Metal-Catalyzed Oxidation of Organic Compounds</source>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1981</year>
+          <fpage>97</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00302">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Drago</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Corden</surname>
+              <given-names>B.B.</given-names>
+            </name>
+          </person-group>
+          <source>Acc. Chem. Res.</source>
+          <year>1980</year>
+          <volume>13</volume>
+          <fpage>353</fpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00302">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corden</surname>
+              <given-names>B.B.</given-names>
+            </name>
+            <name>
+              <surname>Drago</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Perito</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1985</year>
+          <volume>107</volume>
+          <fpage>2903</fpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00302">
+        <label>17.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martell</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <source>Oxygen Complexes and Oxygen Activation by Transition Metals</source>
+          <publisher-name>Plenum Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1987</year>
+          <fpage>87</fpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00302">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McLendon</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Martell</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <source>Coord. Chem. Rev.</source>
+          <year>1976</year>
+          <volume>19</volume>
+          <fpage>1</fpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00302">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sasaki</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Pujol</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Gaudemer</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>New J. Chem.</source>
+          <year>1989</year>
+          <volume>13</volume>
+          <fpage>843</fpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00302">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jager</surname>
+              <given-names>E.G.</given-names>
+            </name>
+            <name>
+              <surname>Knaudt</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Rudolph</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rost</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Ber.</source>
+          <year>1996</year>
+          <volume>129</volume>
+          <fpage>1041</fpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00302">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lippard</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Feig</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1994</year>
+          <volume>94</volume>
+          <fpage>759</fpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00302">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henson</surname>
+              <given-names>N.J.</given-names>
+            </name>
+            <name>
+              <surname>Hay</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Redondo</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Inorg. Chem.</source>
+          <year>1999</year>
+          <volume>38</volume>
+          <fpage>1618</fpage>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00302">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Martell</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <source>Inorg. Chem.</source>
+          <year>1987</year>
+          <volume>26</volume>
+          <fpage>1026</fpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00302">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Martell</surname>
+              <given-names>A.E.</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>Inorg. Chem.</source>
+          <year>1989</year>
+          <volume>28</volume>
+          <fpage>2647</fpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00302">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nakamoto</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Nonaka</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ishiguro</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Urban</surname>
+              <given-names>W.M.</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kozuka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nishida</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kida</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1982</year>
+          <volume>104</volume>
+          <fpage>3386</fpage>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00302">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stynes</surname>
+              <given-names>D.V.</given-names>
+            </name>
+            <name>
+              <surname>Stynes</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Ibers</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>James</surname>
+              <given-names>B.R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1973</year>
+          <volume>95</volume>
+          <fpage>1142</fpage>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00302">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khandar</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Nejati</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Polyhedron</source>
+          <year>2000</year>
+          <volume>19</volume>
+          <fpage>607</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+      <p><italic>Sample availability:</italic> Available from the authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

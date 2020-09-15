@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10101279</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01279</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Modulation of macrophage immune responses by Echinacea</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Stevenson</surname>
+            <given-names>Lesley M.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01279" ref-type="aff">1</xref>
+          <xref rid="af4-molecules-10-01279" ref-type="aff">4</xref>
+          <xref rid="c1-molecules-10-01279" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Matthias</surname>
+            <given-names>Anita</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01279" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Banbury</surname>
+            <given-names>Linda</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01279" ref-type="aff">1</xref>
+          <xref rid="af4-molecules-10-01279" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Penman</surname>
+            <given-names>Kerry G.</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01279" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bone</surname>
+            <given-names>Kerry M.</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01279" ref-type="aff">2</xref>
+          <xref rid="af3-molecules-10-01279" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Leach</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01279" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lehmann</surname>
+            <given-names>Reg P.</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01279" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01279"><label>1</label>Centre for Phytochemistry and Pharmacology, Southern Cross University, Lismore, NSW 2480, Australia</aff>
+      <aff id="af2-molecules-10-01279"><label>2</label>MediHerb Research Laboratories, University of Queensland, Brisbane, 4072, Australia</aff>
+      <aff id="af3-molecules-10-01279"><label>3</label>School of Health, University of New England, Armidale, NSW 2351, Australia</aff>
+      <aff id="af4-molecules-10-01279"><label>4</label>. The Australian Centre for Complementary Medicine Education and Research, Southern Cross University, Lismore, NSW, 2480, Australia</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01279"><label>*</label> Author to whom correspondence should be addressed; e-mail: <email>lstevens@scu.edu.au</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>10</issue>
+      <fpage>1279</fpage>
+      <lpage>1285</lpage>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>05</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Echinacea preparations are widely used herbal medicines for the prevention and treatment of colds and minor infections. There is little evidence for the individual components in Echinacea that contribute to immune regulatory activity. Activity of an ethanolic Echinacea extract and several constituents, including cichoric acid, have been examined using three <italic>in vitro </italic>measures of macrophage immune function &#x2013; NF-&#x3BA;B, TNF- &#x3B1; and nitric oxide (NO). In cultured macrophages, all components except the monoene alkylamide &#xA0;(AA1) &#xA0;decreased &#xA0;lipopolysaccharide &#xA0;(LPS) &#xA0;stimulated &#xA0;NF-&#x3BA;B &#xA0;levels. &#xA0;0.2 &#xB5;g/ml cichoric acid and 2.0&#xB5;g/mL Echinacea Premium Liquid (EPL) and EPL alkylamide fraction (EPL AA) were found to significantly decrease TNF-&#x3B1; production under LPS stimulated conditions in macrophages. In macrophages, only the alkylamide mixture isolated from the ethanolic Echinacea extract decreased LPS stimulated NO production. In this study, the mixture of alkylamides in the Echinacea ethanolic liquid extract did not respond in the same manner in the assays as the individual alkylamides investigated. While cichoric acid has been shown to affect NF-&#x3BA;B, TNF-&#x3B1; and NO levels, it is unlikely to be relevant in the Echinacea alterations of the immune response <italic>in vivo </italic>due to its non- bioavailability &#x2013; i.e. no demonstrated absorption across the intestinal barrier and no detectable levels in plasma. These results demonstrate that Echinacea is an effective modulator of macrophage immune responses <italic>in vitro</italic>.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Echinacea</kwd>
+		<kwd>macrophages</kwd>
+		<kwd>nitric oxide</kwd>
+		<kwd>TNF-&#x3B1;</kwd>
+		<kwd>NF-&#x3BA;B</kwd>
+		<kwd>alkylamides</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Echinacea has been used for many years for the prevention and treatment of colds and minor infections. There is some evidence to indicate that Echinacea preparations might  work  through immune mechanisms [<xref ref-type="bibr" rid="B1-molecules-10-01279">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-01279">2</xref>], however, the immune response is complex and multifaceted, with macrophages playing a key role in the orchestration of the response. Macrophages are widely distributed in different tissues and play an essential role in the development of the specific and non- specific immune response. These cells are activated by a variety of stimuli such as bacterial components, cytokines and chemicals. Once activated, macrophages produce and release numerous secretory products which have biological activity [<xref ref-type="bibr" rid="B3-molecules-10-01279">3</xref>]. These include several cytokines such as TNF-&#x3B1;, and reactive nitrogen intermediates. Activated macrophages generally produce large quantities of nitric oxide (NO) which is biologically active at nanomolar concentrations,  playing  an  important physiological role as a defence molecule in the immune system [<xref ref-type="bibr" rid="B4-molecules-10-01279">4</xref>]. NO is synthesised by nitric oxide synthases (NOS) of which three isoforms have been identified. One of these isoforms, iNOS, is not constitutively expressed but it can be rapidly induced by inflammatory stimuli including lipopolysaccharide (LPS) and cytokines. [<xref ref-type="bibr" rid="B5-molecules-10-01279">5</xref>]. LPS is known to induce iNOS gene expression via a nuclear factor &#x3BA;B (NF-&#x3BA;B) mediated pathway [<xref ref-type="bibr" rid="B6-molecules-10-01279">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-01279">7</xref>]. The cytokine, TNF-&#x3B1; also activates NF-&#x3BA;B and induction leads to the transcription of a host of proinflammatory cytokines and other molecules which play a key role in the inflammatory process. In this study we looked at the effects of ethanolic extracts of Echinacea, the most usual oral dosing form, on NF-&#x3BA;B, TNF-&#x3B1; and NO. These extracts contain two major groups of compounds &#x2013; caffeic acid conjugates and alkylamides. Standardisation of many Echinacea extracts to cichoric acid implies that it is responsible for therapeutic activity and not the alkylamides which are also present. A recent <italic>in vitro </italic>study [<xref ref-type="bibr" rid="B8-molecules-10-01279">8</xref>] has shown that cichoric acid and caffeic acid conjugates in general have poor bioavailability and therefore are unlikely to contribute to the immune activity of an oral Echinacea product. We have investigated the activity of an ethanolic Echinacea extract containing both caffeic acid conjugates and alkylamides and compared it to that of the alkylamide fraction alone, cichoric acid and two synthetic isolated alkylamides in an attempt to separate their contributions <italic>in vitro </italic>and as such to predict their actions <italic>in vivo </italic>after an oral dose.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The structures of the individual Echinacea components investigated in this  study  are  given  in <xref ref-type="fig" rid="molecules-10-01279-f001">Figure 1</xref>. Each of these components is present in the ethanolic echinacea extract (Echinacea Premium Liquid &#x2013; EPL) together with many other alkylamide and caffeic acid derivatives. The EPL alkylamide (EPL AA) fraction does not contain the caffeic acid derivatives, only the alkylamides of which alkylamide 1 (AA 1) is the major 2-ene alkylamide and alkylamide 2 (AA 2) is the major 2,4-diene alkylamide. The effect of LPS in the presence and absence of the Echinacea components on NF-&#x3BA;B is shown in <xref ref-type="fig" rid="molecules-10-01279-f002">Figure 2</xref>. LPS significantly increased NF-&#x3BA;B concentrations from basal levels, with expression increasing from 501 &#xB1; 46 to 1500 &#xB1; 127 units. Although all Echinacea fractions lowered LPS-induced NF-&#x3BA;B, only 2.0 &#xB5;g/mL cichoric acid, both concentrations of EPL, 2.0 &#xB5;g/mL EPL AA and 2.0  &#xB5;g/mL AA  2  significantly decreased NF-&#x3BA;B concentrations.  <xref ref-type="fig" rid="molecules-10-01279-f003">Figure 3</xref> shows  the effect of Echinacea and its components on the LPS-stimulated changes in TNF-&#x3B1; concentrations. LPS increased TNF-&#x3B1; levels from basal levels however this increase was inhibited in the presence of 0.2 &#xB5;g/mL cichoric acid, 2.0 &#xB5;g/mL EPL and 2.0 &#xB5;g/mL EPL AA. In contrast to this inhibition, 2.0 &#xB5;g/mL AA 1 significantly increased TNF-&#x3B1; levels over compared with those found with LPS alone. Although LPS markedly stimulated nitric oxide (NO) production (<xref ref-type="fig" rid="molecules-10-01279-f004">Figure 4</xref>) only 2.0 &#xB5;g/mL EPL AA was able to cause minor but significant inhibition.</p>
+      <fig id="molecules-10-01279-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Structures of alkylamides and cichoric acid. (<bold>AA 1</bold>) (2E)-N-isobutylundeca- 2-ene-8,10-diynamide; (<bold>AA 2</bold>) (2E,4E,8Z,10Z)-N-isobutyldodeca-2,4,8,10- tetraenamide; cichoric acid.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01279-g001.tif"/>
+      </fig>
+      <fig id="molecules-10-01279-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Effects of chinacea and its components on LPS-induced NF-kB expression levels in macrophages. Data are expressed as mean &#xB1; SEM for n = 3; * significantly different from LPS only stimulated cells where p&lt; 0.05.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01279-g002.tif"/>
+      </fig>
+      <fig id="molecules-10-01279-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>Effects of Echinacea and its components on LPS-induced TNF-&#x3B1; expression in macrophages. Data are expressed as mean &#xB1; SEM for n = 3. * significantly different from LPS only stimulated cells, where p&lt; 0.05.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01279-g003.tif"/>
+      </fig>
+      <fig id="molecules-10-01279-f004" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p>Effects of Echinacea and its components on LPS-induced nitric oxide production in macrophages. Data are expressed as mean &#xB1; SEM for n = 6. * significantly different from LPS only stimulated cells, where p&lt; 0.05.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01279-g004.tif"/>
+      </fig>
+      <p>Macrophages undergo a process of cellular &#x201C;activation&#x201D; which is associated with morphological, functional, and biochemical changes in the cells in response to inflammatory signals or antigens. One prominent characteristic of activated macrophages is their increased capacity to release pro- inflammatory and cytotoxic mediators, which help aid in the resolution of infection or inflammation. As a prelude to macrophage activation LPS must bind to a receptor on the macrophage cell surface. Several LPS receptors have been identified in different macrophages with the most thoroughly studied receptor being the CD14 receptor. The mouse peritoneal macrophage cell line, RAW 264.7 used in this study possesses the CD14 receptor [<xref ref-type="bibr" rid="B9-molecules-10-01279">9</xref>].</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The present data show that all components tested except the monoene alkylamide (AA 1) significantly decreased lipopolysaccharide (LPS) stimulated NF-&#x3BA;B levels. Only cichoric, EPL and the alkylamide mixture (EPL AA) significantly decreased TNF-&#x3B1; production under LPS stimulated conditions in macrophages. Only the EPL AA decreased LPS stimulated NO production. Studies on the immunomodulatory activity of alkylamides are limited but interestingly, Goel <italic>et al</italic>., [<xref ref-type="bibr" rid="B10-molecules-10-01279">10</xref>] have shown that the alkylamide fraction of an Echinacea plant extract produced significantly more TNF-&#x3B1; and NO from rat alveolar macrophages stimulated <italic>ex vivo </italic>with LPS<italic>.</italic> In this study, the  mixture of alkylamides in the Echinacea ethanolic liquid extract did not respond in the same manner in the assays as the individual alkylamides investigated. While cichoric acid has been shown to affect NF-&#x3BA;B, TNF- &#x3B1; and NO levels [<xref ref-type="bibr" rid="B1-molecules-10-01279">1</xref>,<xref ref-type="bibr" rid="B12-molecules-10-01279">12</xref>], it is unlikely to be relevant in the Echinacea alterations  of the immune response <italic>in vivo </italic>due to its non-bioavailability &#x2013; i.e. no demonstrated absorption across the intestinal barrier and no detectable levels in plasma [<xref ref-type="bibr" rid="B8-molecules-10-01279">8</xref>]. These results demonstrate that Echinacea is an effective modulator of macrophage immune responses <italic>in vitro </italic>and that further clinical study would be merited to investigate the immunomodulatory properties of alkylamides.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This work was funded by AUSINDUSTRY through a Biotechnology Innovation Fund Grant (No BIF02651) and MediHerb Pty Ltd. The pNF&#x3BA;B-Luc and pSV-&#x3B2;-galactosidase vectors were kindly provided by Dr Alaina Ammit, University of Sydney.</p>
+    </ack>
+	<app-group>
+   <app>
+      <title>Experimental</title>
+   <sec>
+        <title>Sample preparation</title>
+        <p>Alkylamides AA 1 and AA 2 (<xref ref-type="fig" rid="molecules-10-01279-f001">Figure 1</xref>) were synthesised according to the method described by Matthias <italic>et al </italic> [<xref ref-type="bibr" rid="B8-molecules-10-01279">8</xref>]. An ethanolic extract (Echinacea Premium Liquid; EPL), of <italic>Echinacea purpurea </italic>(300 mg/mL) and <italic>Echinacea angustifolia </italic>roots (200 mg/mL) was obtained from MediHerb Pty Ltd, Warwick, Australia. The EPL alkylamide fraction (EPL AA) was separated from  the  caffeic  acid fraction by diluting 1:100 with water and loading onto a SPE cartridge (Strata C18-E; 55 mm, 70 &#xC5;; 500 mg/6 mL; Phenomonex, USA) conditioned with 70% ethanol (10 mL), then water (5 mL). The caffeic acids were eluted from the column with water and 7% ethanol and then discarded. The alkylamide fraction was eluted with 70% ethanol and diluted back to a concentration equivalent to that found initially in the ethanolic extract.  Cichoric acid was purchased from ChromaDex, CA, USA.</p>
+      </sec>
+      <sec>
+        <title>Cell Culture</title>
+        <p>All reagents, unless otherwise stated, were obtained from Sigma-Aldrich. Mouse macrophage cell line RAW 264 from the European Collection of Cell Cultures was routinely cultured in 75 cm<sup>2</sup> flasks DMEM supplemented with 10% FBS, 2 mM glutamine, 1 mM sodium pyruvate, 100 U/mL penicillin and  100  &#x3BC;g/mL  streptomycin  at  37&#xB0;C  and  5%  CO<sub>2</sub>.  Cell  culture  media  and  supplements  and Lipofectamine reagent were obtained from Gibco/ Invitrogen, CA USA.</p>
+      </sec>
+      <sec>
+        <title>NF-&#x3BA;B activity assay</title>
+        <p>For the assay, RAW 264 mouse macrophage cells (passage no. 8) were plated out at 5  x 105 cells/mL, 500 &#x3BC;L/well in 24-well cell culture plates (Nunc) containing the same media as described above but without antibiotics. The cells were allowed to grow overnight at 37&#xB0;C and 5% CO<sub>2</sub>. Transfection of the cells with pNF&#x3BA;B-Luc and pSV-&#x3B2;-galactosidase control vector was carried out according to Aktan <italic>et al</italic>. [<xref ref-type="bibr" rid="B12-molecules-10-01279">12</xref>]. Cells were incubated for 48 h before addition of samples. The cells were preincubated for 1 hour with the test compounds or vehicle before addition of 0.1 &#x3BC;g/mL lipopolysaccharide (LPS) and incubation for a further 3 hours. Unstimulated cells were used as the negative control. Following this, the media was aspirated, wells washed twice with PBS, and Glo Lysis buffer (100 &#x3BC;L/well) was added. After incubation  (room temperature for 5 min) cell lysates were assayed for luciferase and &#x3B2;-galactosidase activities according to the Promega protocols. Results were expressed as luciferase activity (luciferase luminescence counts per sec  normalised  with  &#x3B2;- galactosidase absorbance).</p>
+      </sec>
+      <sec>
+        <title>TNF-&#x3B1; assay</title>
+        <p>For the assay, RAW 264 mouse macrophage cells (passage no. 6) were plated out in 96 well plates at 106 cells/mL, 100 &#x3BC;L/well in the same media as described above but without phenol red, and were allowed to attach overnight. The cells were preincubated for 1 hour with the test compounds or vehicle before addition of 0.1 &#x3BC;g/mL lipopolysaccharide (LPS) and incubation for a further 20 hours. Cell supernatants were collected and assayed for TNF&#x3B1; using the Cytimmune Mouse TNF&#x3B1; kit (AMS Biotechnology, Abingdon, Oxon, UK), according to the kit protocol. Results were expressed as pg/mL TNF-&#x3B1;.</p>
+      </sec>
+      <sec>
+        <title>Nitrite assay</title>
+        <p>The same supernatants obtained for the TNF-&#x3B1; assay were also assayed for NO, using the Griess reaction. Equal volumes of supernatant and Griess reagent (0.1% N-(1-naphthyl) ethylenediamide dihydrochloride, 1% sulfanilamide in 5% phosphoric acid) were mixed and absorbances at 550 nm were compared to a sodium nitrite standard curve. Results were expressed as &#x3BC;M nitrite.</p>
+      </sec>
+      <sec>
+        <title>Statistical Analysis</title>
+        <p>Statistical difference between the groups was determined by Student t test.</p>
+      </sec>
+	  </app>
+ </app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01279">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goel</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Slama</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Barton</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bauer</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gahler</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Basu</surname>
+              <given-names>T.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Echinacea stimulates macrophage function in the lung and spleen of normal rats</article-title>
+          <source>J. Nutr. Biochem.</source>
+          <year>2002</year>
+          <volume>13</volume>
+          <fpage>487</fpage>
+          <lpage>492</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0955-2863(02)00190-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01279">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Randolph</surname>
+              <given-names>R.K.</given-names>
+            </name>
+            <name>
+              <surname>Gellenbeck</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Stonebrook</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Brovelli</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Qian</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Bankaitis-Davis</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Cheronis</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of human immune gene expression as influenced by a commercial blended Echinacea product: preliminary studies</article-title>
+          <source>Exp. Biol. Med.</source>
+          <year>2003</year>
+          <volume>228</volume>
+          <fpage>1051</fpage>
+          <lpage>1056</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01279">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Forman</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Torres</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Redox signalling in macrophages</article-title>
+          <source>Mol. Aspects Med.</source>
+          <year>2001</year>
+          <volume>22</volume>
+          <fpage>189</fpage>
+          <lpage>216</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0098-2997(01)00010-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01279">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hobbs</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Higgs</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Moncada</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Inhibition of nitric oxide synthase as a potential therapeutic agent</article-title>
+          <source>Annu. Rev. Pharmacol. Toxicol.</source>
+          <year>1999</year>
+          <volume>39</volume>
+          <fpage>191</fpage>
+          <lpage>220</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.pharmtox.39.1.191</pub-id>
+          <pub-id pub-id-type="pmid">10331082</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01279">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Marsden</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitric oxide synthases: gene structure and regulation</article-title>
+          <source>Adv. Pharmacol.</source>
+          <year>1995</year>
+          <volume>34</volume>
+          <fpage>71</fpage>
+          <lpage>90</lpage>
+          <pub-id pub-id-type="pmid">8562454</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01279">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xie</surname>
+              <given-names>Q.W.</given-names>
+            </name>
+            <name>
+              <surname>Kashiwabara</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nathan</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of NF&lt;B/Rel in induction of nitric oxide synthase</article-title>
+          <source>J. Biol. Chem.</source>
+          <year>1994</year>
+          <volume>269</volume>
+          <fpage>4705</fpage>
+          <lpage>4708</lpage>
+          <pub-id pub-id-type="pmid">7508926</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01279">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Forstermann</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Kleinert</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitric oxide synthase: expression and expressional control of the three isoforms</article-title>
+          <source>Naunyn Schmidebergs Arch. Pharmacol.</source>
+          <year>1995</year>
+          <volume>352</volume>
+          <fpage>351</fpage>
+          <lpage>364</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01279">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matthias</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Blanchfield</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Penman</surname>
+              <given-names>K.G.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Lang</surname>
+              <given-names>C-S.</given-names>
+            </name>
+            <name>
+              <surname>De Voss</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Lehmann</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Permeability studies of alkylamides and caffeic acid conjugates from echinacea using a Caco-2 cell monolayer model</article-title>
+          <source>J. Clin. Pharm. Therap</source>
+          <year>2004</year>
+          <volume>29</volume>
+          <fpage>7</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2710.2003.00530.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01279">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kitchens</surname>
+              <given-names>R.L.</given-names>
+            </name>
+            <name>
+              <surname>Munford</surname>
+              <given-names>R.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enzymatically deacylated lipopolysaccharide (LPS) can antagonize LPS at multiple sites in the LPS recognition pathway</article-title>
+          <source>J. Biol. Chem.</source>
+          <year>1995</year>
+          <volume>270</volume>
+          <fpage>9904</fpage>
+          <lpage>9910</lpage>
+          <pub-id pub-id-type="pmid">7537270</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01279">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goel</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Slama</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Barton</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bauer</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gahler</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Basu</surname>
+              <given-names>T.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Alkylamides of <italic>Echinacea purpurea </italic>stimulate alveolar macrophage function in normal rats</article-title>
+          <source>Int. J. Immuno- pharmacol.</source>
+          <year>2002</year>
+          <volume>2</volume>
+          <fpage>381</fpage>
+          <lpage>387</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1567-5769(01)00163-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01279">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gertsch</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Schoop</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kuenzle</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Suter</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Echinacea alkylamides  modulate TNF-&#x3B1; gene expression via cannaboid receptor CB2 and multiple signal transduction pathways</article-title>
+          <source>FEBS Letters</source>
+          <year>2004</year>
+          <volume>577</volume>
+          <fpage>563</fpage>
+          <lpage>569</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.febslet.2004.10.064</pub-id>
+          <pub-id pub-id-type="pmid">15556647</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01279">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aktan</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Henness</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Roufogalis</surname>
+              <given-names>B.D.</given-names>
+            </name>
+            <name>
+              <surname>Ammit</surname>
+              <given-names>A.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Gypenosides derived from <italic>Gynostemma pentaphyllum </italic>suppress NO synthesis in murine macrophages by inhibiting iNOS enzymatic activity and attenuating NF- &#x3BA;B-mediated iNOS protein expression</article-title>
+          <source>Nitric Oxide</source>
+          <year>2003</year>
+          <volume>8</volume>
+          <fpage>235</fpage>
+          <lpage>242</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1089-8603(03)00032-6</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Not available</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

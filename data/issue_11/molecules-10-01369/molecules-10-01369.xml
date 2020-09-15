@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10111369</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01369</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis and Bioactivity of New Phosphorylated R,R&#x2019;&#x2011;substituted Sulfoximines</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Reinhard</surname>
+            <given-names>Monica Bellozas</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01369" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>de Licastro</surname>
+            <given-names>Susana Arnstein</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01369" ref-type="aff">2</xref>
+          <xref rid="c1-molecules-10-01369" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01369"><label>1</label>Departamento de Qu&#xED;mica &#x2013; FCEyN &#x2013; Univ. Nac. La Pampa - Santa Rosa &#x2013; Pcia.&#xA0; La Pampa &#x2013; Argentina &#x2013</aff>
+      <aff id="af2-molecules-10-01369"><label>2</label>Centro de Investigaciones de Plagas e Insecticidas (CITEFA-CONICET) &#x2013; J.B.La Salle 4397 &#x2013; V. Martelli &#x2013; 1603 &#x2013; Buenos Aires &#x2013; Argentina</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01369"><label>*</label>Author to whom correspondence should be addressed; E-mail: <email>slicastro@citefa.gov.ar</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>11</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>11</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>11</issue>
+      <fpage>1369</fpage>
+      <lpage>1376</lpage>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>24</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>03</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>R,R&#x2019;-disubstituted sulfoximines were phosphorylated with O,O&#x2013;diethylchloro phosphate and phosphorothionate to obtain new organophosphorus compounds. After purification they were characterized by GC-MS and <sup>1</sup>H-NMR. The toxicity of the synthesized O,O-diethyl N-(R,R&#x2019;-disubstituted sulfoximine) phosphoro-amidothionates was assayed on <italic>Musca</italic> <italic>domestica.</italic> It was found that the methyl phenyl derivative was the most toxic compound, followed by the dipropyl and dibutyl derivatives. The dihexyl compound was the less toxic of all the assayed compounds, being one hundred times less toxic than a paraoxon standard The anticholinesterasic activity of the corresponding phosphoramidates was assayed on homogenates of house flies&#x2019; heads, giving values similar to paraoxon for the methyl phenyl derivative.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Disubstituted sulfoximines</kwd>
+        <kwd>phosphoroamidates</kwd>
+        <kwd>phosphoroamidothionates, inscticidal activity, toxicity</kwd>
+        <kwd><italic>Musca domestica</italic>, house fly acetylcholinesterase</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Phosphoramidates and amidothionates, insecticidal compounds with P-N bonds, are very interesting compounds from a toxicological point of view [<xref ref-type="bibr" rid="B1-molecules-10-01369">1</xref>,2]. On the other hand, sulfoximines were discovered by Bentley in 1950 [<xref ref-type="bibr" rid="B3-molecules-10-01369">3</xref>] and are considered as the nitrogen analogues of sulfones. They share some of their properties such as the acidic &#x3B1;-hydrogen but the nitrogen atom provides an additional place for structural modifications by nucleophilic reactions [<xref ref-type="bibr" rid="B4-molecules-10-01369">4</xref>].</p>
+      <p>In the literature some patents can be found for new substituted sulfoximines for use as herbicides, detergents, additives, bacterial and antifungal compounds, but there is very little information on phosphorylated sulfoximines to be used as insecticides. </p>
+      <p>Organophosphorus insecticides are neurotoxicants acting by inhibition of acetylcholinesterase, phosphorylating the ester site of the enzyme. It is known that this process depends largely on the structure of the organophosphorus compound, namely its steric or electronic configuration and its hydrophobic properties to reach the target site [<xref ref-type="bibr" rid="B5-molecules-10-01369">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-01369">6</xref>]</p>
+      <p>In our search for new insecticides, a series of O,O-diethyl N-(R,R&#x2019;-disubstituted sulfoximine) phosphoroamidates and phosphoro amidothionates (R,R&#x2019; = dipropyl, dibutyl, dihexyl and methyl-phenyl, <xref ref-type="fig" rid="molecules-10-01369-f001">Figure 1</xref>) were synthesized by phosphorylation on the nitrogen atom of R,R&#x2019;disubstituted sulfoximines and their anticholinesterase activity studied on house fly head acetylcholinesterase. Toxicity of the synthesized compounds was evaluated by topical application on <italic>Musca domestica (L.).</italic> Thus, the present study was aimed at synthesis, structural elucidation and reactivity of the novel compounds depicted in <xref ref-type="fig" rid="molecules-10-01369-f001">Figure 1</xref>. </p>
+      <fig id="molecules-10-01369-f001" position="float">
+	  <label>Figure 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01369-g001.tif"/>
+	 </fig>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Chemistry</title>
+        <p>R,R&#x2019;-substituted sulfoxides were chosen as the starting material for these studies. In order to obtain the substituted sulfoximines the corresponding sulfoxides were treated in an ice bath with sodium azide in the presence of sulfuric acid, according to Bentley <italic>et al.</italic> [<xref ref-type="bibr" rid="B7-molecules-10-01369">7</xref>]. Dipropyl, dibutyl, dihexyl and methylphenyl sulfoximines were thus synthesized according to <xref ref-type="scheme" rid="molecules-10-01369-f002">Scheme 1</xref>.</p>
+        <fig id="molecules-10-01369-f002" position="float">
+          <object-id pub-id-type="pii">molecules-10-01369-scheme1_Scheme 1</object-id>
+          <label>Scheme 1</label>
+          <caption>
+            <p>Synthesis of R,R&#x2019; disubstituted sulfoximines</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01369-g002.tif"/>
+        </fig>
+        <p>The oily products thus obtained were purified by column chromatography with 7:3 (v/v) hexane -acetone as the elution solvent. The products were pure by TLC. The structures of all synthesized compounds were confirmed by spectral data: <sup>1</sup>H-NMR (complete data to be published elsewhere [<xref ref-type="bibr" rid="B8-molecules-10-01369">8</xref>]) and GC-MS spectroscopy.</p>
+        <p>Results of the fragmentation analysis indicate that the parent peaks of all sulfoximines studied are observed clearly at the corresponding expected <italic>m/e</italic> values The fragments obtained for aliphatic sulfoximines depend on the length of the chain and are markedly different from the ones obtained for aryl methyl sulfoximine, which is in accordance with the fragmentation observed by Oae <italic>et al</italic>. [<xref ref-type="bibr" rid="B9-molecules-10-01369">9</xref>].</p>
+        <p>By <sup>1</sup>H-NMR the chemical shifts measured showed the different -CH<sub>3</sub> and -CH<sub>2</sub> protons clearly identified. The protons adjacent to the sulfoximine group appeared to shift towards a lower magnetic field compared to a sulfone group [<xref ref-type="bibr" rid="B9-molecules-10-01369">9</xref>]  The imino proton moves towards higher fields as the length of the chain increases. For the methyl phenyl sulfoximine the imino proton is found at lower field probably due to the strong influence of the aromatic ring.</p>
+        <p>The synthesized sulfoximines were converted into the corresponding phosphoramidates or phosphoroamidothionates by reaction with O,O-diethylchlorophosphate or O,O-diethylchlorothio-phosphate according to Wieczorkowski&#x2019;s method [<xref ref-type="bibr" rid="B10-molecules-10-01369">10</xref>], as seen in <xref ref-type="scheme" rid="molecules-10-01369-f003">Scheme 2</xref>. </p>
+        <fig id="molecules-10-01369-f003" position="float">
+          <object-id pub-id-type="pii">molecules-10-01369-scheme2_Scheme 2</object-id>
+          <label>Scheme 2</label>
+          <caption>
+            <p>Phosphorylation reaction</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01369-g003.tif"/>
+        </fig>
+        <p>They were obtained by a nucleophilic substitution of the O,O-diethylchlorophosphate or O,O&#x2011;diethylchlorophosphorothionate on the nitrogen atom of the R,R&#x2019;-substituted sulfoximines. Triethylamine was used as a catalyst. The reaction was performed in chloroform solution and in an ice bath, since it is exothermic. The side products increase and the yield decreases if the temperature increases.  The obtained oily products were purified by column chromatography. The structures of all synthesized compounds were confirmed by spectral data: <sup>1</sup>H-NMR [<xref ref-type="bibr" rid="B8-molecules-10-01369">8</xref>]  and GC-MS.</p>
+        <p><sup>1</sup>H-NMR for the phosphorylated compounds synthesized gave chemical shifts similar to those of the corresponding sulfoximines. The peak corresponding to the proton attached to the nitrogen atom disappeared, while the peaks corresponding to phosphoramidates and phosphoroamidothionates appeared at similar values.</p>
+        <p>Mass spectral fragmentation showed the parent peaks of all compounds studied at the corresponding expected <italic>m/e</italic>. A difference between phosphoramidates and amidothionates can be observed in the M<sup>+</sup> peak. The fragmentation involving P-N bond depends strongly on the substrate&#x2019;s structure, particularly on the nature of the substituents of the sulfoximine moiety. Obtained spectra showed no P&#x2011;N bond cleavage in the primary fragmentation reactions, in agreement with the results found by Wieczorkowski&#x2019;s group for thionylamidates [<xref ref-type="bibr" rid="B11-molecules-10-01369">11</xref>]. The bond P-N in the P(O)-N=S=O system is unusually strong, despite the electron-withdrawing effect of the N-thionyl group. Mastrantonio [<xref ref-type="bibr" rid="B12-molecules-10-01369">12</xref>],  when performing molecular modeling of the synthesized compounds, found also that the P-N bond has a considerable rotation restriction, with &#x3C0; electrons delocalized to the P=O (S) bond.</p>
+      </sec>
+      <sec>
+        <title>Toxicity and anticholinesterasic assays</title>
+        <p>Toxicity of the synthesized O,O-diethyl-N-(R,R&#x2019;disubstituted sulfoximine)  phosphoroamido-thionates was assayed by topical application on <italic>Musca domestica.</italic>  LD<sub>50</sub> values were calculated using a Micro Probit program (<xref ref-type="table" rid="molecules-10-01369-t001">Table 1</xref>). The most toxic compound was the methylphenyl derivative with LD<sub>50</sub> = 0.5 (0.3 -0.7) &#xB5;g/insect, followed by the dipropyl and dibutyl ones with similar LD<sub>50</sub> values of 1.4 (1.3 &#x2013; 1.5) &#xB5;g/insect,  while the dihexyl derivative was the less toxic compound (LD<sub>50</sub> = 4.9 (4.5-5.4) &#xB5;g/insect. It appears that the length of the chain or the spatial distribution of the substituents could modulate the toxicity of the compounds. It is known that acetylcholinesterase is the target for organophosphorus compounds [<xref ref-type="bibr" rid="B5-molecules-10-01369">5</xref>], thus steric efects could affect the formation of the enzyme-inhibitor complex. The high toxicity of the methyl-phenyl derivative suggests that some other factor could be involved, perhaps a better accomodation of the compound in the active site of the acetylcholiesterase.</p>
+        <table-wrap id="molecules-10-01369-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-01369-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Toxicity of O,O-diethyl N-(R,R&#x2019;-disubstituted sulfoximine)phosphoroamido-thionates</p>
+          </caption>
+          <table rules="cols" style="border:solid thin">
+            <thead>
+              <tr>
+                <th align="center" valign="middle">COMPOUND</th>
+                <th align="center" valign="middle">LD<sub>50</sub><break/>&#xB5;g/ insect</th>
+                <th align="center" valign="middle">Confidence interval<break/>95%</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-top:solid thin">
+                <td align="center" valign="middle"><bold>Dipropyl</bold></td>
+                <td align="center" valign="middle">1.4</td>
+                <td align="center" valign="middle">1.3-1.5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Dibutyl</bold></td>
+                <td align="center" valign="middle">1.4</td>
+                <td align="center" valign="middle">1.2-1.5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Dihexyl</bold></td>
+                <td align="center" valign="middle">4.9</td>
+                <td align="center" valign="middle">4.5-5.4</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Methyl phenyl</bold></td>
+                <td align="center" valign="middle">0.5</td>
+                <td align="center" valign="middle">0.3-0.7</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p><italic>In vitro</italic>, the inhibition constants (ki) on house fly acetylholinesterase (HFAChE) were measured with the corresponding O,O diethyl-N-(R,R&#x2019;substituted sulfoximine) phosphoramidates. Crude fly head homogenates were used as the enzyme source. Ellman&#x2019;s kinetic method [<xref ref-type="bibr" rid="B13-molecules-10-01369">13</xref>] was used to measure inhibition  constants (ki) using acetylthiocholine (ATC) as the enzyme substrate and 5,5&#x2019;-dithiobis 2-nitrobenzoic acid (DTNB) as an indicator since its anion has a strong absortion at 412 nm. In <xref ref-type="table" rid="molecules-10-01369-t002">Table 2</xref>,  ki values were given for the four compounds synthesized. Paraoxon was used a reference compound. It can be seen that phosphoroamidates of R,R&#x2019;-substituted sulfoximines are as potent inhibitors as paraoxon with values ranging from 1.3 x 10<sup>4</sup> to 7.4 x 10<sup>6</sup> mol<sup>-1</sup>min<sup>-1</sup>. Again, the methylphenyl derivative was the most potent inhibitor for HFAChE with a value similar to paraoxon, a known strong inhibitor [<xref ref-type="bibr" rid="B14-molecules-10-01369">14</xref>], followed by the dipropyl and dibutyl derivatives. For the dihexyl derivative, the less active compound, a difference of two orders of magnitude was observed. </p>
+        <table-wrap id="molecules-10-01369-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-01369-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Anticholinesterase activity of O,O-diethyl N -(R R&#x2019;-disubstituted sulfoximine) phosphoroamidates</p>
+          </caption>
+          <table rules="cols" style="border:solid thin">
+            <thead>
+              <tr>
+                <th align="center" valign="middle">COMPOUND</th>
+                <th align="center" valign="middle">Ki<break/>mol<sup>-1</sup>min<sup>-1</sup></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-top:solid thin">
+                <td align="center" valign="middle"><bold>Dipropyl</bold></td>
+                <td align="center" valign="middle">2.9 x 10<sup>6</sup></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Dibutyl</bold></td>
+                <td align="center" valign="middle">1.4 x 10<sup>6</sup></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Dihexyl</bold></td>
+                <td align="center" valign="middle">1.3 x 10<sup>4</sup></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Methyl phenyl</bold></td>
+                <td align="center" valign="middle">7.4 x 10<sup>6</sup></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Paraoxon</bold></td>
+                <td align="center" valign="middle">1.17 x 10<sup>6</sup></td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>Structure-activity studies (QSAR) are being conducted in order to determine the physicochemical parameters required to explain the relationship between the chemical structure of the compounds and its anticholiesterasic activity or toxicity.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Biological biassays of O,O-diethyl N- (R,R&#x2019; disubstituted sulfoximine) phosphoroamidothionates performed on <italic>Musca domestica</italic> revealed a high toxicity of the synthesized compounds, with the methylphenyl derivative being the most active compound. These results are in agreement with the results obtained for the anticholiesterasic activity of the corresponding phosphoramidates. The limited series presented in this work indicate that relatively small substituents such as methylphenyl or dipropyl are more effective than substituents bearing a long chain such as dihexyl, probably due to a steric effect of the substituent on the AchE of house flies.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Some of the sulfoxides used (methylphenyl and dibutyl) were purchased from Aldrich Chemical Co. (USA) as well as NNa<sub>3</sub>, O,O-diethyl chlorophosphate and O,O-diethyl chlorophosphorothionate. In other cases (dipropyl and dihexyl) sulfoxides were synthesised from the corresponding sulfides by oxidation with sodium periodate [<xref ref-type="bibr" rid="B15-molecules-10-01369">15</xref>]. Solvents were analytical grade. GC-MS spectrometry was performed on a Shimadzu GCMS-QP5050A on which the inlet system was heated to 250&#xBA;C, temperature programmed to 15&#xBA;C/min up to 270&#xBA;C or 230&#xBA;C, column stationary phase was either a HP-1, 100% dimethylpolysiloxane (50m long x 0.32mm i.d. and film thickness 0.52&#xB5;m) or a CP-Wax 52 CB, 5% diphenyl and 95% dimethylpolysiloxane (30m long x 0.25mm i.d. and 0.25&#xB5;m film thickness). The ionization source was electron impact with the detector voltage maintained at 1.25 kV. <sup>1</sup>H-NMR was performed at the Chemistry Department (CEQUINOR), La Plata University [<xref ref-type="bibr" rid="B8-molecules-10-01369">8</xref>] with a Bruker AC250-E spectrometer, solvent CCl<sub>3</sub>D (Aldrich, USA) and TMS 0.03% v/v. Temperature 21&#xBA;C.  A Shimadzu UV-visible spectrophotometer model UV-160 was used for the anticholinesterase activity determinations.</p>
+      </sec>
+      <sec>
+        <title>Synthesis of R,R&#x2019;-substituted sulfoximines <bold>2a-d:</bold> </title>
+        <p>Using Whitehead and Bentley&#x2019;s method [<xref ref-type="bibr" rid="B16-molecules-10-01369">16</xref>], Na<sub>3</sub>N (30 mmol) in CHCl<sub>3</sub> (60 ml) was added to dipropyl, dibutyl, dihexyl or methylphenyl sulfoxide (<bold>1a-d</bold>, 75 mmol), followed finally by addition with shaking of H<sub>2</sub>SO<sub>4</sub> (15 mL). Shaking was continued during 5 hrs, keeping the reaction in an ice bath. The temperature was allowed to rise to 45&#xBA;C and stored until the next day. The reaction mixture was cooled with ice water, neutralized with NaOH and extracted with Cl<sub>3</sub>CH. The organic layer was dried over anhydrous Na<sub>2</sub>SO<sub>4</sub> and solvent evaporated under vacuum to obtain compounds <bold>2a-d</bold>. The products were characterized by <sup>1</sup>H-NMR [<xref ref-type="bibr" rid="B8-molecules-10-01369">8</xref>] and GC-MS</p>
+        <p><italic>Dipropyl sulfoximine</italic> <bold>(2a)</bold>: <sup>1</sup>H-NMR: 1.08 (t, 3H, -CH<sub>3</sub> ), 1.87-1.90 (m, 2H, -CH<sub>2</sub> ), 2.95-2.99 (m, 2H, -CH<sub>2</sub>-S), 2.41 (s, 1H, -NH);  MS:  150 (M+), 134, 107, 91, 65, 64.</p>
+        <p><italic>Dibutyl sulfoximine</italic> <bold>(2b)</bold>:  <sup>1</sup>H-NMR: 0.98 (t, 3H, -CH<sub>3</sub> ), 1.46-1.54 (m, 2H, -CH<sub>2</sub> ), 1.72-1.90 (m, 2H, -CH<sub>2</sub> ), 2.65-2.69 (m, 2H, -CH<sub>2</sub>-S), 2.53 (s, 1H, -NH);  MS: 178 (M+), 148, 120, 104, 65, 64.</p>
+        <p><italic>Dihexyl sulfoximine</italic> <bold>(2c)</bold>:  <sup>1</sup>H-NMR: 0.89 (t, 3H, -CH<sub>3</sub> ), 1.2-1.5 (m, 6H, -(CH<sub>2</sub> )<sub>3</sub>), 1.70-1.90 (m, 2H, -CH<sub>2</sub> ), 3.01-3.20 (m, 2H, -CH<sub>2</sub>-S), 3.72 (s, 1H, -NH);  MS: 233 (M+), 176, 150, 132, 65.</p>
+        <p><italic>Methyl phenyl sulfoximine</italic> <bold>(2d)</bold>:  <sup>1</sup>H-NMR: 3.15 (s, 3H, -CH<sub>3</sub> S), 7.99-8.04 (m, 2H, Ph-H<sub>o</sub>), 7.56-7.64 (m, 3H, Ph-H<sub>m,p</sub>); MS: 155 (M+), 140, 92, 78, 77, 65   </p>
+      </sec>
+      <sec>
+        <title>Synthesis of O,O-diethyl-N-(R,R&#x2019;-disubstituted sulfoximine) phosphoroamidates <bold>4a-d</bold> or amido-thionates <bold>5a-d</bold>: </title>
+        <p>To the appropriate R,R&#x2019;-substituted sulfoximine  <bold>2a-d</bold> (0.01 mol) and triethylamine (0.01 mol) in  CHCl<sub>3</sub> (6 mL), O,O-diethylchlorphosphate or O,O-diethylchlorthiophosphate (<bold>3</bold>, 0.01 mol ) in CHCl<sub>3</sub> (6 mL) was added dropwise with shaking, maintaining the temperature at 0&#xBA;C. After finishing the addition, the temperature was raised to 64&#xBA;C during 15 min, and then left at 40&#xBA;C during 20 hs. The solution was washed with Na<sub>2</sub>CO<sub>3</sub> (5% w/v) and then with water to pH=6-7. The chloroform solution was dried over Na<sub>2</sub>SO<sub>4</sub> and solvent evaporated under vacuum. The remaining oily product was purified on a column (50cm x 2 cm) of Silica gel 200 mesh (Merck, Germany) and eluted with acetone-hexane (7:3, v/v). 10mL fractions were separated, checked by TLC and only the pure fractions taken for characterization. They were mixed and the solvent evaporated under vacuum. Product  characterization was performed using <sup>1</sup>H-NMR [<xref ref-type="bibr" rid="B8-molecules-10-01369">8</xref>] and GC-MS. </p>
+        <p><italic>O,O-diethyl-N-(dipropylsulfoximine) phosphoramidate</italic> <bold>(4a)</bold>: <sup>1</sup>H-NMR: 1.09 (t, 3H, -CH<sub>3</sub> sulfoximine),  1.34 (t, 3H, -CH<sub>3</sub> ethyl), 3.11-3.22 (m,  2H, -CH<sub>2</sub> ethyl), 1.83-1.98 (m, 2H, -CH<sub>2</sub> sulfoximine), 4.0-4.06 (m, 2H, S-CH<sub>2</sub>);  MS: 286 (M+), 258, 242, 230, 214, 200, 150, 144.</p>
+        <p><italic>O,O-diethyl-N-(dibutylsulfoximine) phosphoramidate</italic> <bold>(4b)</bold>: <sup>1</sup>H-NMR: 0.99 (t, 3H, -CH<sub>3</sub> sulfoximine),  1.30 (t, 3H, -CH<sub>3</sub> ethyl), 3.17-3.30 (m,  2H, -CH<sub>2</sub> ethyl), 1.44-1.57 (m, 2H, -CH<sub>2</sub>-), 1.78-1.90 (m, 2H, -CH<sub>2</sub>-), 3.98-4.12 (m, 2H, S-CH<sub>2</sub>); MS: 312 (M+), 284, 268, 258, 256, 229, 200,  172, 144.</p>
+        <p><italic>O,O-diethyl-N-(dihexylsulfoximine) phosphoramidate</italic> <bold>(4c)</bold>: <sup>1</sup>H-NMR: 0.89 (t, 3H, -CH<sub>3</sub> sulfoximine),  1.32 (t, 3H, -CH<sub>3</sub> ethyl), 3.1-3.3 (m,  2H, -CH<sub>2</sub> ethyl), 1.35-1.47 (m, 6H, -CH<sub>2</sub>-)<sub>3</sub>, 1.78-1.91 (m, 2H, -CH<sub>2</sub>), 4.01-4.12 (m, 2H, S-CH<sub>2</sub>); MS: 369 (M+), 340, 324, 312, 295, 284, 200, 144.</p>
+        <p><italic>O,O-diethyl-N-(methyl phenylsulfoximine) phosphoramidate</italic> <bold>(4d)</bold>: <sup>1</sup>H NMR: 3.35 (s, 3H, S-CH<sub>3</sub>), 1.3 (t, 3H, -CH<sub>3</sub> ethyl), 3.9- 4.4 (m, 2H, -CH<sub>2</sub> ethyl), 7.5-7.7 (m, 3H, PhH<sub>m,p</sub>), 7.9-8.15 (m, 2H, PhH<sub>o</sub> );  MS: 292 (M+), 276, 248, 220, 155, 144.</p>
+        <p><italic>O,O-diethyl-N-(dipropylsulfoximine) phosphoramidothionate</italic>  <bold>(5a)</bold>: <sup>1</sup>H-NMR: 1.10 (t, 3H, -CH<sub>3</sub> sulfoximine),  1.32 (t, 3H, -CH<sub>3</sub> ethyl), 3.20-3.40 (m,  2H, -CH<sub>2</sub> ethyl), 1.86-1.96 (m, 2H, -CH<sub>2</sub> sulfoximine), 4.09-4.13 (m, 2H, S-CH<sub>2</sub>); MS: 302 (M+), 257, 216, 188.</p>
+        <p><italic>O,O-diethyl-N-(dibutylsulfoximine) phosphoramidothionate</italic> <bold>(5b)</bold>: <sup>1</sup>H-NMR: 0.97 (t, 3H, -CH<sub>3</sub> sulfoximine),  1.35 (t, 3H, -CH<sub>3</sub> ethyl), 3.17-3.25 (m,  2H, -CH<sub>2</sub> ethyl), 1.44-1.53 (m, 2H, -CH<sub>2</sub>-), 1.80-1.88 (m, 2H, -CH<sub>2</sub>-), 3.9-4.07 (m, 2H, S-CH<sub>2</sub>); MS: 327 (M+), 284, 216, 188.</p>
+        <p><italic>O,O-diethyl-N-(dihexylsulfoximine) phosphoramidothionate</italic> <bold>(5c)</bold>: <sup>1</sup>H-NMR: 0.87 (t, 3H, -CH<sub>3</sub> sulfoximine),  1.34 (t, 3H, -CH<sub>3</sub> ethyl), 3.2-3.4 (m,  2H, -CH<sub>2</sub> ethyl), 1.35-1.47 (m, 6H, -CH<sub>2</sub>-)<sub>3</sub>, 1.76-1.88 (m, 2H, -CH<sub>2</sub>), 3.9-4.1 (m, 2H, S-CH<sub>2</sub>); MS: 386 (M+), 340, 216, 188, 160.</p>
+        <p><italic>O,O-diethyl-N-(methyl phenylsulfoximine) phosphoramidothionate</italic> <bold>(5d)</bold>: <sup>1</sup>H-NMR: 3.4 (s, 3H, S-CH<sub>3</sub>), 1.4 (t, 3H, -CH<sub>3</sub> ethyl), 4.05- 4.08 (m, 2H, -CH<sub>2</sub> ethyl), 7.5-7.8 (m, 3H, PhH<sub>m,p</sub>), 7.9-8.1 (m, 2H, PhH<sub>o</sub>); MS: 309 (M+), 294, 264, 236 </p>
+      </sec>
+      <sec>
+        <title>Insecticidal activity (LD<sub>50</sub>)</title>
+        <p><italic>Musca domestica:</italic> a susceptible RAC strain, reared at CIPEIN laboratory since 1980 and maintained  at constant temperature and humidity of 24-26&#xBA;C, 50-60% RH and photoperiod 12:12 hs was used. Solutions in acetone (0.5 &#xB5;L) of the synthesized compounds were topically applied to the ventral abdomen of 10 immobilized flies (3 days old females) according to Picollo <italic>et al.</italic> [<xref ref-type="bibr" rid="B17-molecules-10-01369">17</xref>]  Three replicates were done for each dose and four different doses were applied. Control assay was performed by appling only acetone to female flies. Mortalities were assessed after 24 h and data analyzed using a probit analysis programme (Micro Probit 3.0) based on Lichfield and Wilcoxon probit method [<xref ref-type="bibr" rid="B18-molecules-10-01369">18</xref>] for calculating LD<sub>50</sub> values for each compound. </p>
+      </sec>
+      <sec>
+        <title>Anticholinesterase activity </title>
+        <p>Homogenates containing HFAChE were prepared from the heads of 3-5 day old houseflies (<italic>Musca domestica</italic> RAC susceptible strain) in 0.1M buffer phosphate pH=7.2 (50 heads&#xB7;mL<sup>-1</sup>) using a homogenized Sorvall Omni Mixer (USA) in an ice bath. The crude homogenate was filtered through glass wool and used without further purification. Bimolecular rate constants ki, for the inhibition of HFAChE were determined at 412 nm by Ellman&#x2019;s kinetic UV method [<xref ref-type="bibr" rid="B13-molecules-10-01369">13</xref>] as previously described [<xref ref-type="bibr" rid="B19-molecules-10-01369">19</xref>]. </p>
+     </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank the Chemical Department of the National University of La Pampa (Argentine) and the Centro de Investigaciones de Plagas e Insecticidas (CIPEIN) for the financial support of technical work.  Also we want to thank Dra. P. Gonzalez Audino (CIPEIN) for the support on the realization of GC-MS spectra  </p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01369">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eto</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Organophosphorus Pesticides: Organic and Biological Chemistry</source>
+          <publisher-name>CRC Press</publisher-name>
+          <publisher-loc>Cleveland, Ohio, USA </publisher-loc>
+          <year>1974</year>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01369">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quistad</surname>
+              <given-names>G.B.</given-names>
+            </name>
+            <name>
+              <surname>Fukuto</surname>
+              <given-names>T.R.</given-names>
+            </name>
+            <name>
+              <surname>Metcalf</surname>
+              <given-names>R.L.</given-names>
+            </name>
+          </person-group>
+          <source>J. Agr. Food Chem.</source>
+          <year>1970</year>
+          <volume>18</volume>
+          <fpage>189</fpage>
+          <lpage>193</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01369">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bentley</surname>
+              <given-names>H.R.</given-names>
+            </name>
+            <name>
+              <surname>Mc Dermott</surname>
+              <given-names>E.E.</given-names>
+            </name>
+            <name>
+              <surname>Moran</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Pace</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Whitehead</surname>
+              <given-names>J.K.</given-names>
+            </name>
+          </person-group>
+           <source>Proc. Roy. Soc.</source>
+          <year>1950</year>
+          <volume>B137</volume>
+          <fpage>402</fpage>
+          <lpage>417</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01369">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>C.R.</given-names>
+            </name>
+          </person-group>
+		  <article-title>&#x201C;Sulphoximides&#x201D;</article-title>
+          <source>Comprehensive Organic Chemistry: Synthesis and Reactions of Organic Compounds</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Barton</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Ollis</surname>
+              <given-names>W.D.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Pergamon Press</publisher-name>
+          <publisher-loc>Oxford-New York</publisher-loc>
+          <year>1979</year>
+          <volume>Vol 3</volume>
+		  <comment>chapter 11.11</comment>
+          <fpage>223</fpage>
+          <lpage>232</lpage>
+		  <comment>(Edited by Jones N., Univ of Sheffield)</comment>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01369">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O`Brien</surname>
+              <given-names>R.D.</given-names>
+            </name>
+          </person-group>
+          <source>Drug Design</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Ariens</surname>
+              <given-names>E.J.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1971</year>
+		  <volume>Vol II</volume>
+		  <comment>chap. 3</comment>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01369">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hollingworth</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Fukuto</surname>
+              <given-names>T.R.</given-names>
+            </name>
+            <name>
+              <surname>Metcalf</surname>
+              <given-names>R.L.</given-names>
+            </name>
+          </person-group>
+           <source>J. Agric. Food Chem.</source>
+          <year>1967</year>
+		  <volume>15</volume>
+          <fpage>235</fpage>
+          <lpage>241</lpage>
+          <pub-id pub-id-type="doi">10.1021/jf60150a018</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01369">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bentley</surname>
+              <given-names>H.R.</given-names>
+            </name>
+            <name>
+              <surname>Mc Dermott</surname>
+              <given-names>E.E.</given-names>
+            </name>
+            <name>
+              <surname>Whitehead</surname>
+              <given-names>J.K.</given-names>
+            </name>
+          </person-group>
+          <source>Proc. Roy. Soc.</source>
+          <year>1951</year>
+          <volume>B 138</volume>
+          <fpage>265</fpage>
+          <lpage>272</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01369">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bellozas Reinhard</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mastrantonio</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Jios</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Della Vedova</surname>
+              <given-names>C.O.</given-names>
+            </name>
+          </person-group>
+          <comment>&#x2013; to be published &#x2013;</comment>
+          <year>2005</year>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01369">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oae</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Harada</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tsujihara</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Furukawa</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Sulfur Chem.</source>
+          <year>1972 A</year>
+          <fpage>49</fpage>
+          <lpage>61</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01369">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wieczorkowski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jakobsen</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Treppendahl</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Chem. Scand.</source>
+          <year>1983</year>
+          <volume>B 37</volume>
+          <fpage>27</fpage>
+          <lpage>30</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01369">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Modro</surname>
+              <given-names>T.A.</given-names>
+            </name>
+            <name>
+              <surname>Wieczorkowski</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+           <source>Org. Mass Spectrom.</source>
+          <year>1989</year>
+		  <volume>24</volume>
+          <fpage>839</fpage>
+          <lpage>840</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01369">
+        <label>12.</label>
+        <citation citation-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mastantonio Garrido</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Estudio Conformacional de Compuestos Organofosforados y sus Mecanismos de Acci&#xF3;n T&#xF3;xica</article-title>
+          <source>Ph.D. Thesis</source>
+          <publisher-name>La Plata Nacional University</publisher-name>
+          <publisher-loc>Argentina</publisher-loc>
+          <year>2003</year>
+          <comment>(in Spanish)</comment>
+		  <comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="www.sedici.edu.ar/search/request.php?id_document=ARG-UNLP-TPG-0000000038" ext-link-type="uri">www.sedici.edu.ar/search/request.php?id_document=ARG-UNLP-TPG-0000000038</ext-link></comment>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01369">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ellman</surname>
+              <given-names>G.L.</given-names>
+            </name>
+            <name>
+              <surname>Courtney</surname>
+              <given-names>K.D.</given-names>
+            </name>
+            <name>
+              <surname>Andres</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Featherstone</surname>
+              <given-names>R.H.</given-names>
+            </name>
+          </person-group>
+           <source>Biochem. Pharmacol.</source>
+          <year>1961</year>
+		  <volume>7</volume>
+          <fpage>88</fpage>
+          <lpage>95</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01369">
+        <label>14.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O`Brien</surname>
+              <given-names>R. D.</given-names>
+            </name>
+          </person-group>
+          <source>Insecticides,Action and Metabolism</source>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1967</year>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01369">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leonard</surname>
+              <given-names>N.J.</given-names>
+            </name>
+            <name>
+              <surname>Johnnson</surname>
+              <given-names>C.R.</given-names>
+            </name>
+          </person-group>
+          <source>J.Org.Chem.</source>
+          <year>1961</year>
+          <volume>27</volume>
+          <fpage>282</fpage>
+          <lpage>284</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01369">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whitehead</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Bentley</surname>
+              <given-names>H.R.</given-names>
+            </name>
+          </person-group>
+         <source>J. Chem. Soc.</source>
+          <year>1952</year>
+          <fpage>1572</fpage>
+          <lpage>74</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-01369">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Picollo</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Word</surname>
+              <given-names>E.J.</given-names>
+            </name>
+            <name>
+              <surname>Zerba</surname>
+              <given-names>E.N.</given-names>
+            </name>
+            <name>
+              <surname>Licastro</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Ruveda</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Bioquim. Clin. Latinoam.</source>
+          <year>1976</year>
+		  <volume>10</volume>
+          <fpage>67</fpage>
+          <lpage>70</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01369">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lichfield</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Wilcoxon</surname>
+              <given-names>F.J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Exp. Therap.</source>
+          <year>1949</year>
+		  <volume>96</volume>
+          <fpage>99</fpage>
+          <lpage>100</lpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01369">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fukuto</surname>
+              <given-names>T.R.</given-names>
+            </name>
+            <name>
+              <surname>Mercalf</surname>
+              <given-names>R. L.</given-names>
+            </name>
+          </person-group>
+           <source>J. Agric. Food. Chem.</source>
+          <year>1956</year>
+		   <volume>4</volume>
+          <fpage>930</fpage>
+          <lpage>935</lpage>
+          <pub-id pub-id-type="doi">10.1021/jf60069a001</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group><fn><p><italic>Sample Availability:</italic> Contact the authors.</p></fn></fn-group>
+  </back>
+</article>

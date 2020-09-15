@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10091145</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01145</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Oxidative Stress, Lipid Profile and Liver Functions in Average Egyptian Long Term Depo Medroxy Progesterone Acetate (DMPA) Users</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Faddah</surname>
+            <given-names>L. M.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01145" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Al-Rehany</surname>
+            <given-names>M.A.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01145" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Abdel-Hamid</surname>
+            <given-names>N. M.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01145" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-01145" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bakeet</surname>
+            <given-names>A. A.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01145" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01145">Biochemistry Departments, <sup>1</sup> Faculty of Pharmacy and <sup>2</sup> Faculty of Medicine, El-Minia University, El-Minia, Egypt.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01145"><label>*</label> Author to whom correspondence should be addressed; e-mail: <underline><email>nabilmohie@yahoo.com</email></underline>; Tel. (Lab): (+20) 506913997; Fax: (+20) 862369075</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+      <fpage>1145</fpage>
+      <lpage>1152</lpage>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+		<date date-type="accepted">
+          <day>30</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Depo-medroxy progesterone acetate (DMPA, Depo-Provera<sup>&#xAE;</sup>) is used in more than 80 countries as a long-acting contraceptive administered as a single intramuscular (i.m) injection of 150 mg/3 months. The present study was set up to investigate the effects of DMPA on 80 average Egyptian women classified into four groups comprising those using the drug for one, two, three and four years, respectively, compared to a control group (N = 20) of married non-hormonally &#x2013; treated women of similar ages. The drug showed a transient significant elevation of alanine aminotransferase activity (ALT) without an apparent effect on other liver indices, namely total bilirubin (T.Bil) level, aspartate aminotransferase (AST) and alkaline phosphatase (ALP) activities. Only the low density/high density lipoproteins cholesterol ratio (LDLC/HDLC) was gradually and non-significantly (ns) increased in comparison to control group, however, neither total cholesterol (TC) nor triglycerides (TG) were affected by the drug. The lipid peroxide product malondialdehyde (MDA) was significantly elevated in an gradual manner with a corresponding decrease in reduced glutathione (GSH), without any change in blood nitric oxide (NO) levels. It can be concluded that DMPA may be considered as a safe contraceptive medication for the studied group of women, but that special care should be exercised for cardiovascular, hepatic and other patients more sensitive to the harmful effects of free radicals. Alternatively, supportive medications are advisable for each exposed case to secure against the possible irreversible adverse effects of the drug by continuous use. In addition, annual re-evaluation is much more advisable despite the proven safety of the drug.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>DMPA</kwd>
+		<kwd>liver functions</kwd>
+		<kwd>lipid profile</kwd>
+		<kwd>lipid peroxidation</kwd>
+		<kwd>glutathione and nitric oxide</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Injectable hormonal contraceptives are convenient and highly effective methods for fertility regulation, being simple to administer and long acting [<xref ref-type="bibr" rid="B1-molecules-10-01145">1</xref>]. Some studies on the effects of progestins on lipid metabolism showed that the drug only decreased HDLC, but did not affect other lipid metabolites [<xref ref-type="bibr" rid="B2-molecules-10-01145">2</xref>]. In 1981 Mukherjea <italic>et al.</italic> [<xref ref-type="bibr" rid="B3-molecules-10-01145">3</xref>] recorded that DMPA users didn't show any change of ALT, AST and ALP activities after long&#x2013;term administration. Moreover, there is evidence that patients with primary biliary disease and chronic active hepatitis showed substantial improvement with DMPA administration [<xref ref-type="bibr" rid="B4-molecules-10-01145">4</xref>]. An appropriate pro-oxidant/oxidant balance is present in normal cells. The shifting of this balance towards the pro-oxidant side results in a state called oxidative stress which  is manifested by elevated levels of free radicals responsible for cell damage. Free radicals are chemical species possessing one or more unpaired electrons in their outer orbitals [<xref ref-type="bibr" rid="B5-molecules-10-01145">5</xref>]. This makes them very unstable, quite reactive and they have a tendency to react with other molecules to pair these electrons. Hence, they can attack all classes of biomolecules like unsaturated lipids [<xref ref-type="bibr" rid="B6-molecules-10-01145">6</xref>]. GSH (gamma - glutamyl cysteinyl glycine) is the most abundant non-protein tripeptide thiol in the cytoplasm. There is normally an appreciable flow from the liver into the plasma, then it is rapidly uptaken from plasma into extrahepatic tissues. It plays a key role as a hydrophilic antioxidant by preventing the toxic accumulation of hydroperoxides and by its radical scavenging capacity [<xref ref-type="bibr" rid="B7-molecules-10-01145">7</xref>]. Nitric oxide was defined as the endothelium derived relaxation factor (EDRF) having a powerfull vasodilator action through its effect on blood vessels's smooth muscles leading to modulation of blood flow [<xref ref-type="bibr" rid="B8-molecules-10-01145">8</xref>]. NO, being soluble in both water and lipids can travel freely through cell membranes and act on the neighboring target cells. It is a potent free radical scavenger under normal physiological conditions [<xref ref-type="bibr" rid="B9-molecules-10-01145">9</xref>]. Blood levels of thiobarbituric acid reactive substances (TBARS) were significantly higher in  subcutaneous implantation contraceptive users [<xref ref-type="bibr" rid="B10-molecules-10-01145">10</xref>].</p>
+    </sec>
+    <sec sec-type="subjects">
+      <title>Subjects and Methods</title>
+      <sec sec-type="subjects">
+        <title>Subjects</title>
+        <p>Eighty married women (25 &#x2013; 30 years old) were selected from those attending the Susan Mubarak Centre for Family Planning, El &#x2013; Minia Governorate, Egypt. All were healthy, less than 80 kg body weight (70 &#x2013; 80 kg), not suffering from any disease, not lactating nor being given any other medication. A similar control group (Group 1, N = 20), also  not  receiving  any  medication,  was selected from among the members of the staff of the Faculty of Pharmacy, El &#x2013; Minia University. The treated groups were taking DMPA, 150 mg (i.m) injection every three months regularly and were classified according to the period of administration into four equal groups. Thus, the second group had used the drug for one year, the third for two years, the fourth for three years and the fifth had been given the drug for four years. Blood samples (10 mL) were taken from all subjects after 10 - 12 hours fasting, hemolysed or lipaemic samples were excluded. Blood samples were divided into two parts, one was anticoagulated with EDTA and the other left to coagulate, sera were kept at &#x2013; 70 &#xBA;C till analysis. The plasma and saline &#x2013; washed erythrocytes were kept at &#x2013; 20 &#xBA;C till analysis.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>Methods</title>
+        <p>Serum ALT and AST activities were determined according to the method of Reitman and Frankel [<xref ref-type="bibr" rid="B11-molecules-10-01145">11</xref>], ALP activity, according to Belfield and Goldberg [<xref ref-type="bibr" rid="B12-molecules-10-01145">12</xref>] and total bilirubin level according to [<xref ref-type="bibr" rid="B13-molecules-10-01145">13</xref>]. Serum TC was determined according to the method of Roeschlau <italic>et al.</italic> [<xref ref-type="bibr" rid="B14-molecules-10-01145">14</xref>], TG following [<xref ref-type="bibr" rid="B15-molecules-10-01145">15</xref>] and then both serum LDLC and HDLC levels were determined according to Lopes-Virella <italic>et al.</italic> [<xref ref-type="bibr" rid="B16-molecules-10-01145">16</xref>]. These investigations were carried out using Randox kits (Randox Laboratories, Ltd., UK). Serum MDA levels was determined according to Okuma <italic>et al.</italic> [<xref ref-type="bibr" rid="B17-molecules-10-01145">17</xref>], plasma NO level was estimated as total nitrite (NO<sub>2</sub><sup>-</sup>) using Pomera kits (USA) according to the method of Bredt and Snyder [<xref ref-type="bibr" rid="B18-molecules-10-01145">18</xref>]. GSH was determined in haemolyzed erythrocytes according to the method of Beutler <italic>et al.</italic> [<xref ref-type="bibr" rid="B19-molecules-10-01145">19</xref>] utilizing the colour reaction theory of Illman [<xref ref-type="bibr" rid="B20-molecules-10-01145">20</xref>]. The Student's "t" test was used to compare the means of the two groups. All the tests were two-tailed and the results were considered nonsignificant when p &gt; 0.05 [<xref ref-type="bibr" rid="B21-molecules-10-01145">21</xref>].</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Effect of DMPA on liver functions</title>
+        <p>ALT activity was only significantly elevated after one year  of  administration,  but  returned  to normal in longer &#x2013; period users. Other liver functions (AST, ALP and T.Bil) were not affected by the drug (<xref ref-type="table" rid="molecules-10-01145-t001">Table 1</xref>).</p>
+        <table-wrap id="molecules-10-01145-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-01145-t001_Table 1</object-id>
+          <label>Table 1</label>
+		<caption>
+            <p>Serum liver functions in DMPA users after 1 &#x2013; 4 years of administration, compared to control. Values are represented as M &#xB1; SE, (n=12)</p>
+          </caption>
+          <table>
+           <thead>
+              <tr>
+                <th align="left" valign="middle" style="border:solid thin">Groups</th>
+                <th align="center" valign="middle" style="border:solid thin">ALT (U/L)</th>
+                <th align="center" valign="middle" style="border:solid thin">AST(U/L)</th>
+                <th align="center" valign="middle" style="border:solid thin">ALP (U/L)</th>
+                <th align="center" valign="middle" style="border:solid thin">T .Bilirubin (mg/dL)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>Normal control</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">15.9&#xB1;0.32</td>
+                <td align="center" valign="middle" style="border-right:solid thin">19.1&#xB1;0.41</td>
+                <td align="center" valign="middle" style="border-right:solid thin">65.33 &#xB1; 1.1</td>
+                <td align="center" valign="middle" style="border-right:solid thin">0.51 &#xB1; 0.01</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>One year</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">19.9&#xB1;0.42*</td>
+                <td align="center" valign="middle" style="border-right:solid thin">18.8&#xB1;0.37</td>
+                <td align="center" valign="middle" style="border-right:solid thin">63.6 &#xB1;1.0</td>
+                <td align="center" valign="middle" style="border-right:solid thin">0.55&#xB1; 0.01</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>Two years</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">16.6&#xB1;0.35</td>
+                <td align="center" valign="middle" style="border-right:solid thin">20.1&#xB1;0.36</td>
+                <td align="center" valign="middle" style="border-right:solid thin">70.8&#xB1;1.5</td>
+                <td align="center" valign="middle" style="border-right:solid thin">0.53&#xB1;0.01</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>Three years</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">15.2&#xB1;0.29</td>
+                <td align="center" valign="middle" style="border-right:solid thin">19.5&#xB1;0.39</td>
+                <td align="center" valign="middle" style="border-right:solid thin">67&#xB1;1.57</td>
+                <td align="center" valign="middle" style="border-right:solid thin">0.49&#xB1;0.006</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin;border-left:solid thin"><bold>Four years</bold></td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">14.9&#xB1;0.33</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">17.8&#xB1;0.39</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">64.1 &#xB1; 0.78</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">0.54 &#xB1;0.01</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>* Significantly different from control at p &lt; 0.05.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Effect of DMPA on lipid profile</title>
+        <p>Neither TC nor TG were affected in any of the groups. LDLC was significantly increased with a significant decrease in HDLC after the last three years of administration (<xref ref-type="table" rid="molecules-10-01145-t002">Table 2</xref>).</p>
+        <table-wrap id="molecules-10-01145-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-01145-t002_Table 2</object-id>
+          <label>Table 2</label>
+		  <caption>
+            <p>Serum lipid profile in DMPA users after 1&#x2013;4 years of administration, compared to control. Values are represented as M &#xB1; SE (n=12)</p>
+          </caption>
+          <table>
+           <thead>
+              <tr>
+                <th align="center" valign="middle" style="border:solid thin">Groups</th>
+                <th align="center" valign="middle" style="border:solid thin">TG<break/>(mg/dL)</th>
+                <th align="center" valign="middle" style="border:solid thin">TC<break/>(mg/dL)</th>
+                <th align="center" valign="middle" style="border:solid thin">HDLC<break/>(mg/dL)</th>
+                <th align="center" valign="middle" style="border:solid thin">LDLC<break/>(mg/dL)</th>
+                <th align="center" valign="middle" style="border:solid thin">LDLC/HDL<break/>ratio</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>Control</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">107.8&#xB1;2.1</td>
+                <td align="center" valign="middle" style="border-right:solid thin">143.3&#xB1;2.5</td>
+                <td align="center" valign="middle" style="border-right:solid thin">61.06&#xB1;1.1</td>
+                <td align="center" valign="middle" style="border-right:solid thin">60.43 &#xB1; 1.29</td>
+                <td align="center" valign="middle" style="border-right:solid thin">0.987</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>One year</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">114.4&#xB1;1.8</td>
+                <td align="center" valign="middle" style="border-right:solid thin">146.4&#xB1;2.9</td>
+                <td align="center" valign="middle" style="border-right:solid thin">58.4 &#xB1;1.2</td>
+                <td align="center" valign="middle" style="border-right:solid thin">62.1&#xB1; 1.2</td>
+                <td align="center" valign="middle" style="border-right:solid thin">1.06</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>Two years</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">109.3&#xB1;2.1</td>
+                <td align="center" valign="middle" style="border-right:solid thin">140.1&#xB1;2.1</td>
+                <td align="center" valign="middle" style="border-right:solid thin">55.7&#xB1;1.1*</td>
+                <td align="center" valign="middle" style="border-right:solid thin">63.5&#xB1;1.2</td>
+                <td align="center" valign="middle" style="border-right:solid thin">1.14</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>Three years</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">112.8&#xB1;2.0</td>
+                <td align="center" valign="middle" style="border-right:solid thin">137.2&#xB1;2.5</td>
+                <td align="center" valign="middle" style="border-right:solid thin">54.4&#xB1;1.0**</td>
+                <td align="center" valign="middle" style="border-right:solid thin">65.2&#xB1;1.3*</td>
+                <td align="center" valign="middle" style="border-right:solid thin">1.19</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin;border-left:solid thin"><bold>Four years</bold></td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">110.6&#xB1;2</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">148.6&#xB1;2.3</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">52.7&#xB1;1.1***</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">66.6 &#xB1;1.47*</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.26</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>* Significantly different from control at p &lt; 0.05.</p>
+			  <p>** Significantly different from control at p &lt; 0.01.</p>
+              <p>*** Significantly different from control at p &lt; 0.001.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Effect of DMPA on serum MDA, erythrocytic GSH content and plasma nitrite (NO) levels</title>
+        <p>Lipid peroxide product (MDA) showed a gradual significant increase which was higher in the fourth year (p &lt; 0.001). In combination, erythrocytic GSH showed a marked significant decrease in the third and fourth years (p &lt; 0.001), however, plasma nitrite level wasn't affected by DMPA administration over the four years (<xref ref-type="table" rid="molecules-10-01145-t003">Table 3</xref>).</p>
+         <table-wrap id="molecules-10-01145-t003" position="float">
+          <object-id pub-id-type="pii">molecules-10-01145-t003_Table 3</object-id>
+          <label>Table 3</label>
+		  <caption>
+            <p>Serum lipid peroxide (MDA) erythrocytic GSH and plasma nitrite levels (NO) in DMPA users after 1&#x2013; 4 years of administration, compared to control. Values are represented as M &#xB1; SE (n=12)</p>
+          </caption>
+          <table>
+           <thead>
+              <tr>
+                <th align="center" valign="middle" style="border:solid thin">Group</th>
+                <th align="center" valign="middle" style="border:solid thin">MDA( nmol/mL)</th>
+                <th align="center" valign="middle" style="border:solid thin">GSH (&#xB5;g / mL)</th>
+                <th align="center" valign="middle" style="border:solid thin">NO (&#xB5;mol/ mL)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>Control</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">2.3&#xB1;0.03</td>
+                <td align="center" valign="middle" style="border-right:solid thin">496.7 &#xB1; 9.1</td>
+                <td align="center" valign="middle" style="border-right:solid thin">21.57 &#xB1; 0.42</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>One year</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">3.2&#xB1;0.07**</td>
+                <td align="center" valign="middle" style="border-right:solid thin">464.6&#xB1;9.2**</td>
+                <td align="center" valign="middle" style="border-right:solid thin">22.6 &#xB1; 0.46</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>Two years</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">4.1&#xB1;10.06**</td>
+                <td align="center" valign="middle" style="border-right:solid thin">454.9&#xB1;10.06**</td>
+                <td align="center" valign="middle" style="border-right:solid thin">20.7 &#xB1; 0.49</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-left:solid thin;border-right:solid thin"><bold>Three years</bold></td>
+                <td align="center" valign="middle" style="border-right:solid thin">4.2&#xB1;0.17***</td>
+                <td align="center" valign="middle" style="border-right:solid thin">437.3&#xB1;8.68***</td>
+                <td align="center" valign="middle" style="border-right:solid thin">20.3 &#xB1; 0.44</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin;border-left:solid thin"><bold>Four years</bold></td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">4.7&#xB1;0.19***</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">428.79&#xB1;4.3***</td>
+                <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin">23.5 &#xB1; 0.47</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>* Significantly different from control at p &lt; 0.05.</p>
+			  <p>** Significantly different from control at p &lt; 0.01.</p>
+              <p>*** Significantly different from control at p &lt; 0.001.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>DMPA, a microcrystalline progestogen suspension, is widely used since its Food and Drug Administration (FDA) approval more than 20 years ago [<xref ref-type="bibr" rid="B22-molecules-10-01145">22</xref>]. Based on the previous data, our study aimed to investigate the effect of DMPA on some biochemical markers related to the liver and cardiovascular systems and oxidative stress.</p>
+      <p>In the present study, ALT activity was significantly elevated in the first year of administration, but returned to normal after continuous use. These data coincide with those published by Mukherjea <italic>et al</italic>. [<xref ref-type="bibr" rid="B3-molecules-10-01145">3</xref>], who reported that although ALT activity showed a non &#x2013; significant increase after about 9 months of treatment, it didn't increase further on long &#x2013; term use. Other liver functions were not affected by DMPA administration. This was explained on the basis that the drug did not show hepatotoxicity even in users suffering from viral hepatitis [<xref ref-type="bibr" rid="B23-molecules-10-01145">23</xref>].</p>
+      <p>LDLC and HDLC blood levels are strong predictors of cardiovascular diseases. High levels of HDLC may reduce vascular endothelial uptake of LDLC through competitive inhibition of LDLC &#x2013; receptor binding. In addition, LDLC aggregates are taken up by macrophages; since HDLC prevents LDLC aggregation, it reduces the influx of cholesterol and foam cell formation. This protects against atherosclerosis [<xref ref-type="bibr" rid="B24-molecules-10-01145">24</xref>]. In our study, there were no significant changes in either TC or TG by DMPA &#x2013; use. These results support the data reported by Fraser [<xref ref-type="bibr" rid="B25-molecules-10-01145">25</xref>], who noted that DMPA didn't show any influence on TG levels. After three and four years of DMPA administration, LDLC was significantly increased with a parallel significant decrease in HDLC levels. It was previously reported that DMPA increased the risk of coronary artery diseases (CAD) through its decreasing action on HDLC levels and the increasing action on LDLC [<xref ref-type="bibr" rid="B22-molecules-10-01145">22</xref>]. Our results support these reports. We have now added to the previous results with our study of the effect of the drug after longer periods.  Other  studies  also concluded that long &#x2013; term DMPA use induced moderate changes in lipid metabolism that are unfavourable in terms of atherosclerosis. These observations were also based on the fact that the drug induced significant effects on LDLC / HDLC ratios on the side favouring atherogenecity [<xref ref-type="bibr" rid="B26-molecules-10-01145">26</xref>].</p>
+      <p>Lipid peroxidation is a process by which polyunsaturated fatty acids present in cell membranes are broken down to  various  products  such  as  hydrocabon  gases, cytotoxic aldehydes  and free  oxygen radicals [<xref ref-type="bibr" rid="B27-molecules-10-01145">27</xref>]. Our study revealed that there is a significant elevation  in  serum  lipid  peroxidation products (MDA level), starting from the first year and increasing with the duration of administration. Our results agreed with those of Kose <italic>et al.</italic> [<xref ref-type="bibr" rid="B28-molecules-10-01145">28</xref>], concerning erythrocytic membrane lipid peroxidation showing that DMPA administration was associated with a plasma redox imbalance towards  the oxidative side, lowering total plasma antioxidants and raising lipid peroxidation. GSH is an important substrate for glutathione peroxidase and glutathione S&#x2013;transferase enzymes, which clear toxic intermediates formed in the cell [<xref ref-type="bibr" rid="B29-molecules-10-01145">29</xref>]. Being involved in the metabolism of free oxygen radicals and other toxic metabolites; GSH depletion  was considered  as an idex of oxidative stress [<xref ref-type="bibr" rid="B30-molecules-10-01145">30</xref>]. In the present work, GSH showed a significant gradual decrease after DMPA administration. These observations are in agreement with those of Yu [<xref ref-type="bibr" rid="B31-molecules-10-01145">31</xref>], who reported that DMPA administration shifted the oxidative stress towards the oxidative side and decreased the antioxidants including sulfhydryl groups. NO is a chemical messenger synthesized from L-arginine  in  vascular  endothelial  cells;  it causes relaxation in the surrounding vascular smooth muscles. Thus, it was considered as endothelium &#x2013; derived relaxation factor (EDRF) [<xref ref-type="bibr" rid="B32-molecules-10-01145">32</xref>]. Under physiological conditions, it is considered as a potent free radical scavenger [<xref ref-type="bibr" rid="B9-molecules-10-01145">9</xref>]. However, pathological NO elevations reverse its role and thus it can act as highly reactive free radical that may initiate inflammatory injury to vascular cells [<xref ref-type="bibr" rid="B33-molecules-10-01145">33</xref>]. In the present work, DMPA did not induce significant changes in plasma NO levels of any user. Moreover, DMPA may adversely affect cardiovascular health on the long run. Thus, endothelial  dependent  arterial function was shown to be impaired in response to long &#x2013; term drug use and the subsequent hypoestrogenism [<xref ref-type="bibr" rid="B34-molecules-10-01145">34</xref>].</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions and Recommendations</title>
+      <p>The objective of this study was to identify some of the possible major complications arising from the use of DMPA for periods ranging from one to four years in a selected population of Egyptian women. We concluded that the drug only affected ALT activity in the first year, but this action was temporary and ceased after continuous use. Other liver functions (AST, ALP and T.Bil) were not affected by the drug. Both TC and TG were not affected by the drug, however, LDLC/HDLC ratios showed a gradual increase till they reached a maximum after four years of administration. This may reflect a possible impact on vascular funtions and may induce atherogenicity in susceptible women. The drug also showed a marked elevation in the oxidative stress with a shift towards lipid peroxidation and decreasing the antioxidant defense represented by decreased GSH levels. DMPA also induced nonsignificant change in NO levels. This decreased its significance towards vascular endothelial morbidity. Thus, after this pilot study, we offer the following conclusions and recommendations:
+	  <list list-type="order">
+      <list-item><label>1 -</label><p>DMPA is generally a safe contraceptive for healthy and young women.</p></list-item>
+      <list-item><label>2 -</label><p>Although it showed very faint effect on a single liver function, a long  term  followup  is advisable for users having possible liver problems.</p></list-item>
+      <list-item><label>3 -</label><p>Cardiovascular patients generally should be observed during the term of DMPA intake and a complete lipid profile is always advisable.</p></list-item>
+      <list-item><label>4 -</label><p>Monitoring is very advisable for each individual case with a regular record of body weights, life style, exercise and diet control as necessary guidelines for patient followup.</p></list-item>
+      <list-item><label>5 -</label><p>Oxidative stress is also a considerable effect which appears as a factor related to most possible inflammatory, aging and haematologic diseases. Thus, DMPA may be much safer when antioxidants, specially those from natural sources, are prescribed  concomitantly  during  the period of drug use.</p></list-item></list></p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01145">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sang</surname>
+              <given-names>G.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pharmacodynamic effects of once &#x2013; a month combined injectable contraceptives</article-title>
+          <source>Contraception</source>
+          <year>1994</year>
+          <volume>49</volume>
+          <fpage>361</fpage>
+          <lpage>385</lpage>
+          <pub-id pub-id-type="doi">10.1016/0010-7824(94)90033-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01145">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silverstolpe</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Samsioe</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Svanborg</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Gustafson</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lipid metabolic studies in oophorectomized women: effects of synthetic progestogens on individual serum phospholipids and serum lecithin fatty acid composition</article-title>
+          <source>Gynecol. Obestet. Invest.</source>
+          <year>1982</year>
+          <volume>13</volume>
+          <fpage>117</fpage>
+          <lpage>126</lpage>
+          <pub-id pub-id-type="doi">10.1159/000299492</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01145">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mukherjea</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mukherjee</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Biswas</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Chakraborty</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Kushari</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of medroxyprogesterone acetate  contraception on human serum enzymes</article-title>
+          <source>Int. J. Fertil.</source>
+          <year>1981</year>
+          <volume>26</volume>
+          <fpage>35</fpage>
+          <lpage>39</lpage>
+          <pub-id pub-id-type="pmid">6113206</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01145">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fraser</surname>
+              <given-names>I.S.</given-names>
+            </name>
+			<name>
+              <surname>Weisberg</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>A comprehensive review of injectable contraceptive with special emphasis on DMPA</article-title>
+          <source>Med. J. Austral.</source>
+          <year>1981</year>
+          <volume>24</volume>
+          <fpage>3</fpage>
+          <lpage>19</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01145">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheeseman</surname>
+              <given-names>K. H.</given-names>
+            </name>
+            <name>
+              <surname>Slater</surname>
+              <given-names>T. F.</given-names>
+            </name>
+          </person-group>
+          <article-title>An introduction to free radical biochemistry</article-title>
+          <source>Brit. Med. Bull.</source>
+          <year>1993</year>
+          <volume>49</volume>
+          <fpage>481</fpage>
+          <lpage>493</lpage>
+          <pub-id pub-id-type="pmid">8221017</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01145">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reilly</surname>
+              <given-names>P. M.</given-names>
+            </name>
+            <name>
+              <surname>Schiller</surname>
+              <given-names>H. J.</given-names>
+            </name>
+            <name>
+              <surname>Buckley</surname>
+              <given-names>G. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pharmacological approach to tissue injury and other reactive oxygen metabolites</article-title>
+          <source>Am. J. Surg.</source>
+          <year>1991</year>
+          <volume>161</volume>
+          <fpage>488</fpage>
+          <lpage>503</lpage>
+		  <comment>(Review)</comment>
+          <pub-id pub-id-type="doi">10.1016/0002-9610(91)91120-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01145">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wojtczak</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Slyshenkov</surname>
+              <given-names>V.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Protection by pantothenic acid against apoptosis and cell damage by oxygen free radicals, the role of glutathione</article-title>
+          <source>Biofactors</source>
+          <year>2003</year>
+          <volume>17</volume>
+          <fpage>61</fpage>
+          <lpage>73</lpage>
+          <pub-id pub-id-type="doi">10.1002/biof.5520170107</pub-id>
+          <pub-id pub-id-type="pmid">12897429</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01145">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ito</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ren</surname>
+              <given-names>Y. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evidence for the role of nitric oxide in macula densa control of glomerular hemodynamics</article-title>
+          <source>J. Clin. Invest</source>
+          <year>1993</year>
+          <volume>92</volume>
+          <fpage>1093</fpage>
+          <lpage>1098</lpage>
+          <pub-id pub-id-type="doi">10.1172/JCI116615</pub-id>
+          <pub-id pub-id-type="pmid">8349792</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01145">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kanwar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wallace</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Befus</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kubes</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitric oxide synthesis inhibition increases epithelial permeability via mast cells</article-title>
+          <source>Am. J. Physiol.</source>
+          <year>1994</year>
+          <volume>266</volume>
+          <fpage>G 222</fpage>
+          <lpage>229</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01145">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Subakir</surname>
+              <given-names>S. B.</given-names>
+            </name>
+            <name>
+              <surname>Stiadi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Affandi</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Pringgoutomo</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Freisleben</surname>
+              <given-names>H. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Benefits of vitamin E supplementation to Norplant users in vivo and in vitro studies</article-title>
+          <source>Toxicol.</source>
+          <year>2000</year>
+          <volume>148</volume>
+          <fpage>173</fpage>
+          <lpage>178</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0300-483X(00)00208-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01145">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reitman</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Frankel</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A colorimetric method for determination of serum glutamic oxaloacetic and glutamic pyruvic transaminases</article-title>
+          <source>Am. J. Clin. Pathol.</source>
+          <year>1957</year>
+          <volume>28</volume>
+          <fpage>56</fpage>
+          <lpage>63</lpage>
+          <pub-id pub-id-type="pmid">13458125</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01145">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Belfield</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Goldberg</surname>
+              <given-names>D.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Revised assay for serum phenyl phosphatase activity using 4-aminoantipyrine</article-title>
+          <source>Enzyme</source>
+          <year>1971</year>
+          <volume>12</volume>
+          <fpage>561</fpage>
+          <lpage>573</lpage>
+          <pub-id pub-id-type="pmid">5169852</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01145">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rand</surname>
+              <given-names>R. N.</given-names>
+            </name>
+            <name>
+              <surname>Di Pasqua</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new diazo method for determination of bilirubin</article-title>
+          <source>Clin. Chem.</source>
+          <year>1962</year>
+          <volume>8</volume>
+          <fpage>570</fpage>
+          <lpage>578</lpage>
+          <pub-id pub-id-type="pmid">13990737</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01145">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roeschlau</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Bernt</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Gruber</surname>
+              <given-names>W. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enzymatic determination of total cholesterol in serum</article-title>
+          <source>Z. Klin. Chem. Klin. Biochem.</source>
+          <year>1974</year>
+          <volume>12</volume>
+          <fpage>403</fpage>
+          <lpage>407</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01145">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bucolo</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>David</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantitative determination of serum triglycerides by the use of enzymes</article-title>
+          <source>Clin. Chem.</source>
+          <year>1973</year>
+          <volume>19</volume>
+          <fpage>476</fpage>
+          <lpage>482</lpage>
+          <pub-id pub-id-type="pmid">4703655</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01145">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lopes-Virella</surname>
+              <given-names>M.F.</given-names>
+            </name>
+            <name>
+              <surname>Stone</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Ellis</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Colwell</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cholesterol determination in high density lipoprotein separated by three different methods</article-title>
+          <source>Clin. Chem</source>
+          <year>1977</year>
+          <volume>23</volume>
+          <fpage>882</fpage>
+          <lpage>884</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-01145">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Okuma</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Steiner</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baldini</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on lipid peroxides in the platelets. I: Method of assay and effect of storage</article-title>
+          <source>J. Clin. Med.</source>
+          <year>1970</year>
+          <volume>75</volume>
+          <fpage>283</fpage>
+          <lpage>296</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01145">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bredt</surname>
+              <given-names>D.S.</given-names>
+            </name>
+            <name>
+              <surname>Snyder</surname>
+              <given-names>S.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitric oxide: a physiologic messenger molecule</article-title>
+          <source>Ann. Rev. Biochem.</source>
+          <year>1994</year>
+          <volume>63</volume>
+          <fpage>175</fpage>
+          <lpage>195</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.bi.63.070194.001135</pub-id>
+          <pub-id pub-id-type="pmid">7526779</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01145">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beutler</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Duron</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>B. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Improved method for determination of blood glutathione</article-title>
+          <source>J. Lab. Clin. Med.</source>
+          <year>1963</year>
+          <volume>61</volume>
+          <fpage>882</fpage>
+          <lpage>888</lpage>
+          <pub-id pub-id-type="pmid">13967893</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-01145">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Illman</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tissue sulfhydryl groups</article-title>
+          <source>Arch. Biochem. Biophys.</source>
+          <year>1963</year>
+          <volume>74</volume>
+          <fpage>214</fpage>
+          <lpage>226</lpage>
+          <pub-id pub-id-type="doi">10.1016/0003-9861(59)90090-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-01145">
+        <label>21.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mould</surname>
+              <given-names>R. F.</given-names>
+            </name>
+          </person-group>
+          <source>Introductory medical statistics, 2<sup>nd</sup> Edn.</source>
+		  <publisher-name>Adam Hilger</publisher-name>
+		  <publisher-loc>Bristol and Philadelphia</publisher-loc>
+          <year>1989</year>
+		  <fpage>108</fpage>
+		  <lpage>173</lpage>
+		  <page-range>108, 126, 173</page-range>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-01145">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaunitz</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Long acting injectable contraception with depot medroxyprogesterone acetate</article-title>
+          <source>Am. J. Obest. Gynecol.</source>
+          <year>1994</year>
+          <volume>170</volume>
+          <fpage>1543</fpage>
+          <lpage>1549</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0002-9378(12)91813-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-01145">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mark</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Medroxyprogesterone acetate as a contraceptive for female drug addicts</article-title>
+          <source>Scand. J. Soc. Med.</source>
+          <year>1983</year>
+          <volume>11</volume>
+          <fpage>75</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="pmid">6230717</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-01145">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Badimon</surname>
+              <given-names>J. J.</given-names>
+            </name>
+            <name>
+              <surname>Fuster</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Badimon</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of high density lipoprotein in the regression of atherosclerosis</article-title>
+          <source>Circulation</source>
+          <year>1992</year>
+          <volume>86</volume>
+          <supplement>(Suppl. 6) III</supplement>
+          <fpage>86</fpage>
+          <lpage>94</lpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-01145">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fraser</surname>
+              <given-names>I. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Plasma lipid changes and depot medroxy progesterone acetate</article-title>
+          <source>Contracept. Deliv. Syst.</source>
+          <year>1983</year>
+          <volume>4</volume>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">12264711</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-01145">
+        <label>26.</label>
+        <citation citation-type="journal">
+		  <person-group person-group-type="author">
+            <collab>World Health Organization (WHO)</collab>
+          </person-group>
+          <article-title>Task force on long acting systemic agents for fertility regulation. Special program of research, development training in human reproduction: A multicenter comparative study of serum lipids and apolipoproteins in long term use of DMPA and a control group of IUD users</article-title>
+          <source>Contraception</source>
+          <year>1993</year>
+		   <volume>47</volume>
+          <fpage>177</fpage>
+          <lpage>191</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-01145">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gutteridge</surname>
+              <given-names>J. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Halliwell</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>The measurement and mechanism of lipid peroxidation in biological system</article-title>
+          <source>Trend. Biochem. Sci.</source>
+          <year>1990</year>
+          <volume>15</volume>
+          <fpage>129</fpage>
+          <lpage>135</lpage>
+          <pub-id pub-id-type="doi">10.1016/0968-0004(90)90206-Q</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-01145">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kose</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Dogan</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Ozesmi</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Contraceptive steroids increase erythrocyte lipid peroxidation in female rats</article-title>
+          <source>Contraception</source>
+          <year>1993</year>
+          <volume>47</volume>
+          <fpage>421</fpage>
+          <lpage>425</lpage>
+          <pub-id pub-id-type="doi">10.1016/0010-7824(93)90039-A</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-01145">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Menon</surname>
+              <given-names>V.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Per-oxidative changes in experimental diabetes mellitus</article-title>
+          <source>Ind. J. Med. Res.</source>
+          <year>1992</year>
+          <volume>96</volume>
+          <fpage>176</fpage>
+          <lpage>181</lpage>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-01145">
+        <label>30.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marks</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Marks</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Oxygen metabolism and O<sub>2</sub> toxicity in basic medical biochemistry. A clinical approach</source>
+          <publisher-name>Williams &amp; Wilkins Publ.</publisher-name>
+          <publisher-loc>Baltimore, USA</publisher-loc>
+          <year>1992</year>
+		  <fpage>327</fpage>
+          <lpage>340</lpage>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-01145">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>B. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cellular defenses against damage from reactive species</article-title>
+          <source>Physiol. Rev.</source>
+          <year>1994</year>
+          <volume>74</volume>
+          <fpage>139</fpage>
+          <lpage>162</lpage>
+          <pub-id pub-id-type="pmid">8295932</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-01145">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Palmer</surname>
+              <given-names>R. M. J.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>D. D.</given-names>
+            </name>
+            <name>
+              <surname>Ashton</surname>
+              <given-names>D.S.</given-names>
+            </name>
+            <name>
+              <surname>Moncada</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>L&#x2013;arginine is the physiological precursor for the formation of nitric oxide in endothelium-dependent relaxation</article-title>
+          <source>Biochem. Biophys. Res. Comm.</source>
+          <year>1988</year>
+          <volume>153</volume>
+          <fpage>1251</fpage>
+          <lpage>1256</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0006-291X(88)81362-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-01145">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ignarro</surname>
+              <given-names>L. T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitric oxide: A novel signal transduction mechanism for transcellular communication</article-title>
+          <source>Hypertension</source>
+          <year>1990</year>
+          <volume>16</volume>
+          <fpage>477</fpage>
+          <lpage>483</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.HYP.16.5.477</pub-id>
+          <pub-id pub-id-type="pmid">1977698</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-01145">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wakatsuki</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Okatani</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ikenoue</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Fukaya</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of medroxyprogesterone acetate on endothelium dependent vasodilatation in post-menopausal women receiving estrogen</article-title>
+          <source>Circulation</source>
+          <year>2001</year>
+		  <volume>104</volume>
+          <fpage>1773</fpage>
+          <lpage>1778</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

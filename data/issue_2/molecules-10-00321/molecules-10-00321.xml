@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020321</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00321</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1,3-Dipolar Cycloaddition Reactions of 1-(4-Phenylphenacyl)-1,10-phenanthrolinium <italic>N</italic>-Ylide with Activated Alkynes and Alkenes</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dumitrascu</surname>
+            <given-names>Alkenes F.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00321" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00321" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Caira</surname>
+            <given-names>M. R.</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00321" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Draghici</surname>
+            <given-names>C.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00321" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Caproiu</surname>
+            <given-names>M. T.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00321" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Badoiu</surname>
+            <given-names>A.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00321" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00321"><label>1</label>Centre of Organic Chemistry "C. D. Nenitzescu", Romanian Academy, Spl. Independentei 202B, Bucharest 060023, Romania</aff>
+      <aff id="af2-molecules-10-00321"><label>2</label>Department of Chemistry, University of Cape Town, Rondebosch 7701, South Africa</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00321">
+          <label>*</label>Author to whom correspondence should be addressed; <email>fdumitra@cco.ro</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>321</fpage>
+      <lpage>326</lpage>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>10</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>04</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The 3+2 cycloaddition reaction of 1-(4-phenylphenacyl)-1,10-phenanthrolinium ylide <bold>4</bold> with activated alkynes gave pyrrolo[1,2-a][1,10]phenanthrolines <bold>6a-d</bold>. The "one pot" synthesis of <bold>6a,b,d</bold> from <bold>4</bold>, activated alkenes, Et<sub>3</sub>N and tetrakis-pyridine cobalt (II) dichromate (TPCD) is described. The helical chirality of pyrrolophenanthrolines <bold>6b-d</bold> was put in evidence by NMR spectroscopy.</p>
+      </abstract>
+      <kwd-group>
+        <kwd><italic>N</italic>-ylides</kwd>
+		<kwd>1,3-dipolar cycloaddition</kwd>
+		<kwd>pyrrolophenanthrolines</kwd>
+		<kwd>helical chirality</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The synthesis of pyrrolo[1,2-a][1,10]phenanthroline by 1,3-dipolar cycloaddition of 1,10-phenanthrolinium <italic>N</italic>-ylides and acetylenic dipolarophiles was recently described. [<xref ref-type="bibr" rid="B1-molecules-10-00321">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00321">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00321">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00321">4</xref>] Owing to the angular condensation, it was expected that the skeleton of this heterocyclic system might deviate from planarity, conferring helicity on the molecule. Here we describe the reaction of 1-(4-phenylphenacyl)-1,10-phenanthrolinium <italic>N</italic>-ylide (<bold>4</bold>) with activated alkynes and alkenes giving new pyrrolo[1,2-a][1,10]phenanthrolines <bold>6a-d</bold>. The 1,3-dipolar cycloaddition of 1,10-phenanthrolinium <italic>N</italic>-ylides to activated alkenes is described in detail for the first time. </p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>1-(4-Phenylphenacyl)-1,10-phenanthrolinium bromide (<bold>3</bold>) was obtained by refluxing 1,10-phenanthroline monohydrate (<bold>1</bold>) and 2-bromo-4&#x2019;-phenylacetophenone (<bold>2</bold>) in acetone. The structure of the cycloimmonium bromide was assigned by elemental analysis and NMR spectroscopy. In the <sup>1</sup>H-NMR spectrum of salt <bold>3</bold>, recorded in DMSO-d<sub>6</sub>, the methylenic hydrogens appeared as a broad singlet. This is due to non-planarity of the phenanthroline, as we reported recently [<xref ref-type="bibr" rid="B5-molecules-10-00321">5</xref>].</p>
+      <p>The 1,10-phenanthrolinium <italic>N</italic>-ylide <bold>4</bold>, being unstable, was generated <italic>in situ</italic> by deprotonation of the cycloimmonium salt <bold>3</bold> with triethylamine. The ylide <bold>4 </bold>can react as 1,3-dipole with acetylenic dipolarophiles. Treatment of the ylide <bold>4</bold> with dimethyl, diethyl or diisopropyl acetylenedicarboxylates in dichloromethane at room temperature gave a mixture of <italic>cis</italic>-3,3a-dihydro pyrrolophenanthrolines <bold>5a&#x2011;c</bold>, along with variable amounts of pyrrolophenanthrolines <bold>6a-c</bold>.[<xref ref-type="bibr" rid="B1-molecules-10-00321">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00321">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00321">3</xref>] Refluxing the above mixture in ethanol leads to the pyrrolophenanthrolines <bold>6a-c</bold> in yields of over 60% (<xref ref-type="scheme" rid="molecules-10-00321-f001">Scheme 1</xref>).</p>
+      <fig id="molecules-10-00321-f001" position="float">
+	  <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00321-g001.tif"/>
+		<p>R: 4-C<sub>6</sub>H<sub>5</sub>C<sub>6</sub>H<sub>4</sub>; E: <bold>a</bold>: CO<sub>2</sub>CH<sub>3</sub>, <bold>b</bold>: CO<sub>2</sub>C<sub>2</sub>H<sub>5</sub>, <bold>c</bold>: CO<sub>2</sub>CH(CH<sub>3</sub>)<sub>2</sub></p>
+      </fig>
+      <p>The structure of the dihydroderivatives <bold>5</bold> was assigned by <sup>1</sup>H- and <sup>13</sup>C-NMR spectroscopy. The H-3 atom (&#x3B4; = 4.59 ppm) appeared as a doublet with coupling constant <italic>J</italic> = 13.8 Hz, whereas H-3a (&#x3B4; = 5.41 ppm) gave a double triplet with coupling constants of 13.8, 2.6 and 2.1 Hz, the last two values corresponding to the coupling with H-4 and H-5 hydrogens. In turn, the H-4 and H-5 atoms gave two double doublets at &#x3B4; = 6.41 ppm, <italic>J</italic> = 2.6 and 9.7 Hz and at &#x3B4; = 5.94 ppm, <italic>J</italic> = 2.1 and 9.7 Hz, respectively. The large value of the vicinal coupling constant between H-3 and H-3a (<italic>J</italic> = 13.8 Hz) indicated <italic>cis</italic> configuration, in agreement with similar values in pyrrolinic moieties [<xref ref-type="bibr" rid="B6-molecules-10-00321">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00321">7</xref>].</p>
+      <p>The 1,3-dipolar cycloaddition between ylide <bold>4</bold> and unsymmetrical alkyne ethyl propiolate is regiospecific and the pyrrolophenanthroline derivative <bold>6d</bold> is obtained (<xref ref-type="scheme" rid="molecules-10-00321-f002">Scheme 2</xref>).</p>
+      <fig id="molecules-10-00321-f002" position="float">
+	  <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00321-g002.tif"/>
+		<p>R: 4-C<sub>6</sub>H<sub>5</sub>C<sub>6</sub>H<sub>4</sub></p>
+      </fig>
+      <p>The pyrrolophenanthrolines <bold>6a,b</bold> were also obtained by synthesis from salt <bold>3</bold>, methyl or ethyl maleate, triethylamine and tetrakis-pyridine cobalt (II) dichromate [Py<sub>4</sub>Co(HCrO<sub>4</sub>)<sub>2</sub>, TPCD] in DMF, at 80-90&#xB0;C (<xref ref-type="scheme" rid="molecules-10-00321-f003">Scheme 3</xref>). Similarly, the compound <bold>6d</bold> was obtained from bromide <bold>3</bold>, triethylamine, ethyl acrylate and TPCD. This method was described previously in the case of other heteroaromatic <italic>N</italic>-ylides [<xref ref-type="bibr" rid="B8-molecules-10-00321">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00321">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00321">10</xref>].</p>
+      <fig id="molecules-10-00321-f003" position="float">
+	  <label>Scheme 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00321-g003.tif"/>
+		<p>R: 4-C<sub>6</sub>H<sub>5</sub>C<sub>6</sub>H<sub>4</sub>; E: <bold>a</bold>: CO<sub>2</sub>CH<sub>3</sub>, <bold>b</bold>: CO<sub>2</sub>C<sub>2</sub>H<sub>5</sub></p>
+      </fig>
+     <p>The structures of the pyrrolophenanthrolines <bold>6a-d</bold> were assigned by elemental analysis and NMR spectroscopy. In the <sup>1</sup>H-NMR spectrum of compound <bold>6b</bold>, recorded in CDCl<sub>3</sub>, the methylenic hydrogens of the ester group appeared as two ABX<sub>3</sub> patterns multiplets. A similar observation was made for compound <bold>6d</bold>. At room temperature, the same ABX<sub>3</sub> pattern multiplets for the methylenic hydrogens was observed [<xref ref-type="bibr" rid="B11-molecules-10-00321">11</xref>].  In the case of the compund <bold>6c</bold>, the methyl groups in each isopropyl radical were found to be non-equivalent in the <sup>1</sup>H-NMR spectrum as well as in the <sup>13</sup>C-NMR spectrum. </p>
+      <p>The behaviour can be explained by non-coplanarity between pyrrolic and pyridinic moieties, which imparts helical chirality to the molecules of <bold>6b-d</bold>, at room temperature.[<xref ref-type="bibr" rid="B12-molecules-10-00321">12</xref>] This behaviour renders the molecular framework chiral, explaining thereby the non-equivalence of the diastereotopic methylene and methyl (in the isopropyl group) hydrogens in the <sup>1</sup>H-NMR spectra. This hypothesis was confirmed by X-ray analysis of the compound <bold>6d [<xref ref-type="bibr" rid="B11-molecules-10-00321">11</xref>]</bold>.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The new pyrrolo [1,2-a][1,10]phenanthrolines <bold>6a-d</bold> were obtained by 1,3-dipolar cycloaddition between <italic>N</italic>-ylide <bold>4</bold> and activated alkynes. A new approach to 1,3-dipolar cycloaddition to 1,10-phenanthrolinium <italic>N</italic>-ylides is described, namely the "one pot" reaction with activated alkenes, in the presence of a versatile mild oxidant (TPCD). </p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Melting points were determined on a Bo&#xEB;tius hot plate and are uncorrected. The NMR spectra were recorded on a Varian Gemini 300 BB instrument, operating at 300 MHz for <sup>1</sup>H and 75 MHz for <sup>13</sup>C. </p>
+      </sec>
+      <sec>
+        <title>1-(4-Phenylphenacyl)-1,10-phenanthrolinium bromide (<bold>3</bold>)</title>
+        <p>1,10-Phenanthroline hydrate (4 g, 20 mmol) and 2&#x2019;-bromo-4-phenylacetophenone (5.5 g, 20 mmol) were refluxed in acetone (80 mL) for 24 hrs. The precipitate formed was filtered by suction and washed with acetone (50 mL). Yield 75%, m.p. 227-230 &#xBA;C (from ethanol); Anal. Calcd. For C<sub>26</sub>H<sub>19</sub>BrN<sub>2</sub>O: C 68.58; H 4.21; Br 17.55; N 6.15. Found C 68.91, H 4.53, Br 17.93; N 6.42; <sup>1</sup>H-NMR (DMSO-d<sub>6</sub>, &#x3B4;, ppm, <italic>J</italic>, Hz): 7.36 (bs, 2H, CH<sub>2</sub>); 7.48-7.51 (m, 1H, H-4&#x201D;); 7.54-7.59 (m, 2H, H-3&#x201D;, H-5&#x201D;); 7.85-7.88 (m, 2H, H-2&#x201D;, H-6&#x201D;); 7.91 (dd, 1H, 8.2, 4.3, H-8); 8.04 (d, 2H, 8.5, H-3&#x2019;, H-5&#x2019;); 8.28 (d, 2H, 8.5, H-2&#x2019;, H-6&#x2019;); 8.48 and 8.51 (2d, 2H, 8.9, H-5, H-6); 8.53 (dd, 1H, 4.3, 1.8, H-9); 8.64 (dd, 1H, 8.2, 5.9, H-3); 8.78 (dd, 1H, 8.2, 1.8, H-7); 9.62 (dd, 1H, 8.2, 1.4, H-4); 9.71 (dd, 1H, 5.9, 1.4, H-2); <sup>13</sup>C-NMR (DMSO-d<sub>6</sub>, &#x3B4;, ppm): 69.6 (CH<sub>2</sub>); 124.8 (C-3); 125.5 (C-8); 127.0 (C-6); 127.1 (C-2&#x201D;, C-6&#x201D;); 127.4 (C-3&#x2019;, C-5&#x2019;); 128.7 (C-4&#x201D;); 128.9 (C-2&#x2019;, C-6&#x2019;); 129.2 (C-3&#x201D;, C-5&#x201D;); 130.7 (C-5); 131.5 (C-4a); 132.0 (C-6a); 133.1 (C-1&#x2019;); 136.3 (C-10b); 138.0 (C-7); 138.4 (C-10a); 138.6 (C-1&#x201D;); 145.3 (C-4&#x2019;); 148.1 (C-4); 148.9 (C-9); 152.1 (C-2); 190.2 (COAr).</p>
+      </sec>
+      <sec>
+        <title>Diesters of 1-(4-phenylbenzoyl)-pyrrolo[1,2-a][1,10]phenanthroline-2,3-dicarboxylate (<bold>6a-c</bold>): General procedure:</title>
+        <p>Phenanthrolinium salt <bold>3</bold> (2.3 g, 5 mmol) was suspended in dichloromethane (25 mL) and then dimethyl (diethyl or diisopropyl) acetylenedicarboxylate (5.5 mmol) was added. Under vigorous stirring, triethylamine (0.7 mL, 5 mmol, dissolved in 5 mL of methylene chloride) was added dropwise. After 20 min the reaction mixture was washed twice with water (50 mL) and the solvent evaporated. The residue was refluxed in ethanol for an hour and the precipitate was isolated by filtration.</p>
+        <p><italic>Dimethyl 1-(4-phenylbenzoyl)-pyrrolo[1,2-a][1,10]phenanthroline-2,3-dicarboxylate</italic> (<bold>6a</bold>). Yellow crystals (from DMF). Yield 60%, m.p. 286-7&#xB0;C; Anal. Calcd. for C<sub>32</sub>H<sub>22</sub>N<sub>2</sub>O<sub>5</sub>: C 74.70, H 4.31, N 5.44. Found C 75.02, H 4.62, N 5.71; <sup>1</sup>H-NMR (CDCl<sub>3</sub>+TFA, &#x3B4;, ppm, <italic>J</italic>, Hz): 3.68, 3.96 (2s, 6H, CH<sub>3</sub>); 7.38-7.42 (m, 1H, H-4&#x201D;); 7.43-7.47 (m, 2H, H-3&#x201D;, H-5&#x201D;); 7.50-7.55 (m, 2H, H-2&#x201D;, H-6&#x201D;); 7.51 (d, 2H, 8.3, H-3&#x2019;, H-5&#x2019;); 7.62 (d, 2H, 8.3, H-2&#x2019;, H-6&#x2019;); 7.96 (d, 1H, 9.5, H-5); 8.22 (dd, 1H, 8.2, 6.3, H-9); 8.29, 8.38 (2d, 2H, 8.9, H-6, H-7); 8.58 (d, 1H, 9.5, H-4); 9.15 (dd, 1H, 8.1, 1, H-8); 9.42 (dd, 1H, 6.3, 1, H-10); <sup>13</sup>C-NMR (CDCl<sub>3</sub>+TFA, &#x3B4;, ppm): 52.7, 53.6 (2 <bold>C</bold>H3); 96.5 (C-3); 117.7, 119.2, 122.5, 126.4, 126.9, 128.5, 130.5 (C-1, C-2, C-3a, C-5a, C-7a, C-11a, C-11b); 124.3 (C-5); 124.6 (C-9); 124.7 (C-4); 125.9 (C-7); 126.1 (C-3', C-5'); 127.0 (C-2", C-6"); 127.8 (C-2', C-6'); 128.4 (C-4"); 129.0 (C-3", C-5"); 130.2 (C-6); 139.0, 139.4 (C-1', C-1"); 144.4 (C-4'); 144.5 (C-10); 147.1 (C-8); 164.0 (2-CO<sub>2</sub>Me); 166.3 (3-CO<sub>2</sub>Me); 184.2 (COAr).</p>
+        <p><italic>Diethyl 1-(4-phenylbenzoyl)-pyrrolo[1,2-a][1,10]phenanthroline-2,3-dicarboxylate</italic> (<bold>6b</bold>). Yellow crystals (from nitromethane). Yield 84%, m.p. 228-31&#xBA;C. Anal. Calcd. for C<sub>34</sub>H<sub>26</sub>N<sub>2</sub>O<sub>5</sub>: C 75.26, H 4.83, N 5.16. Found C 75.55, H 5.09, N 5.38; <sup>1</sup>H-NMR (CDCl<sub>3</sub>, &#x3B4;, ppm, <italic>J</italic>, Hz): 1.07 (t, 3H, 7.1, 2-CH<sub>2</sub>C<bold>H<sub>3</sub></bold>); 1.38 (t, 3H, 7.1, 3-CH<sub>2</sub>C<bold>H<sub>3</sub></bold>); 3.77, 3.80 (2q, 1H, 10.2, 7.1, 2-C<bold>H<sub>A</sub></bold>H<sub>B</sub>CH<sub>3</sub>); 3.92, 3.95 (2q, 1H, 10.4, 7.1, 2-CH<sub>A</sub><bold>H<sub>B</sub></bold>CH<sub>3</sub>); 4.13-4.47 (m, 2H, 3-C<bold>H<sub>2</sub></bold>CH<sub>3</sub>); 7.32 (dd, 1H, 8.1, 4.3, H-9); 7.41-7.44 (m, 1H, 7.4, H-4&#x201D;); 7.47-7.52 (m, 2H, 7.4, H-3&#x201D;, H-5&#x201D;); 7.68 (d, 1H, 9.2, H-5); 7.69-7.71 (m, 1H, 7.4, H-2&#x201D;, H-6&#x201D;); 7.75 (d, 2H, 8.4, H-3&#x2019;, H-5&#x2019;); 7.78  and 7.84 (2d, 2H, 8.6, H-6, H -7); 8.08 (dd, 1H, 4.3, 1.7, H-10); 8.15 (dd, 1H, 8.1, 1.7, H-8); 8.23 (d, 2H, 8.4, H-2&#x2019;, H-6&#x2019;); 8.56 (d, 1H, 9.2, H-4); <sup>13</sup>C-NMR (CDCl<sub>3</sub>, &#x3B4;, ppm): 13.7, 14.3 (2 <bold>C</bold>H<sub>3</sub>); 60.2, 61.6 (2 <bold>C</bold>H<sub>2</sub>); 104.1 (C-3); 120.3 (C-4); 122.5 (C-9); 125.3 (C-7); 125.7, 125.9, 127.7, 129.0, 130.8, 137.3, 137.4 (C-1, C-2, C-3a, C-5a, C-7a, C-11a, C-11b); 126.0 (C-5); 126.6 (C-3&#x2019;, C-5&#x2019;); 126.7 (C-6); 127.3 (C-2&#x201D;, C-6&#x201D;); 128.2 (C-4&#x201D;); 129.0 (C-3&#x201D;, C-5&#x201D;); 130.6 (C-2&#x2019;, C-6&#x2019;); 136.0 (C-8); 136.8 (C-1&#x2019;); 140.1 (C-1&#x201D;); 144.8 (C-4&#x2019;); 145.8 (C-10); 163.6 (2-CO<sub>2</sub>Et); 165.6 (3-CO<sub>2</sub>Et); 184.1 (COAr).</p>
+        <p><italic>Diisopropyl 1-(4-phenylbenzoyl)-pyrrolo[1,2-a][1,10]phenanthroline-2,3-dicarboxylate</italic> (<bold>6c</bold>). Yellow crystals (from acetonitrile). Yield 80%, m.p. 193-5&#xB0;C. Anal. Calcd. for C<sub>36</sub>H<sub>30</sub>N<sub>2</sub>O<sub>5</sub>: C 75.77, H 5.30, N 4.91. Found C 76.1, H 5.58, N 5.07; <sup>1</sup>H-NMR (CDCl<sub>3</sub>, &#x3B4;, ppm, <italic>J</italic>, Hz): 0.90, 1.12 (2d, 6H, 6.3, 2-CH(C<bold>H<sub>3</sub></bold>)<sub>2</sub>); 1.37, 1.40 (2d, 6H, 6.3, 3-CH(C<bold>H<sub>3</sub></bold>)<sub>2</sub>); 4.78 (sep, 1H, 6.3, 2-C<bold>H</bold>(CH<sub>3</sub>)<sub>2</sub>); 5.32 (sep, 1H, 6.3, 3-C<bold>H</bold>(CH<sub>3</sub>)<sub>2</sub>); 7.32 (dd, 1H, 8.2, 4.3, H-9); 7.41-7.43 (m, 1H, 7.3, H-4&#x201D;); 7.47-7.52 (m, 2H, 7.3, H-3&#x201D;, H-5&#x201D;); 7.68 (d, 1H, 9.2, H-5); 7.69-7.72 (m, 2H, 7.3, H-2&#x201D;, H-6&#x201D;); 7.75 (d, 2H, 8.2, H-3&#x2019;, H-5&#x2019;); 7.79, 7.86 (2d, 2H, 8.5, H-6, H-7); 8.01 (dd, 1H, 4.3, 1.7, H-10); 8.15 (dd, 1H, 8.2, 1.7, H-8); 8.26 (d, 2H, 8.2, H-2&#x2019;, H-6&#x2019;); 8.59 (d, 1H, 9.2, H-4); <sup>13</sup>C-NMR (CDCl<sub>3</sub>, &#x3B4;, ppm): 20.9, 21.5, 22.0, 22.1 (4 <bold>C</bold>H<sub>3</sub>); 67.8, 69.6 (2<bold>C</bold>H); 104.1 (C-3); 120.4 (C-4); 122.4 (C-9); 125.1 (C-7); 125.6 (C-5); 125.6, 125.8, 127.6, 129.1, 130.8, 137.2, 137.4 (C-1, C-2, C-3a, C-5a, C-7a, C-11a, C-11b); 126.7 (C-6); 126.8 (C-3&#x2019;, C-5&#x2019;); 127.0 (C-2&#x201D;, C-6&#x201D;); 128.0 (C-4&#x201D;); 128.9 (C-3&#x201D;, C-5&#x201D;); 130.8 (C-2&#x2019;, C-6&#x2019;); 135.9 (C-8); 136.7 (C-1&#x2019;); 140.2 (C-1&#x201D;); 144.9 (C-4&#x2019;); 145.6 (C-10); 163.1 (2-CO<sub>2</sub>iPr); 165.2 (3-CO<sub>2</sub>iPr); 183.8 (COAr).</p>
+      </sec>
+      <sec>
+        <title>Ethyl 1-(4-phenylbenzoyl)-pyrrolo[1,2-a][1,10]phenanthroline-3-carboxylate (<bold>6d</bold>) </title>
+        <p>Phenanthrolinium salt <bold>3</bold> (2.3 g, 5 mmol) was suspended in dichloromethane (25 mL) and then of ethyl propiolate (0.6 mL, 6 mmol) were added. Under vigorous stirring triethylamine (0.75 mL, 5 mmol, dissolved in 5 mL of methylene chloride) were added dropwise. After 20 min the reaction mixture was washed with water (50 mL) and the solvent evaporated. The residue was purified by column chromatography on neutral Al<sub>2</sub>O<sub>3</sub> using CH<sub>2</sub>Cl<sub>2</sub> as eluent. The product was recrystallized from an acetonitrile and ethanol mixture (2:1) to give yellow crystals.Yield 37%, m.p. 234-6&#xB0;C. Anal. Calcd. for C<sub>31</sub>H<sub>22</sub>N<sub>2</sub>O<sub>3</sub>: C 79.13, H 4.71, N 5.95. Found C 79.41, H 5.02, N 6.24; <sup>1</sup>H-NMR (CDCl<sub>3</sub>, &#x3B4;, ppm, <italic>J</italic>, Hz): 1.44 (t, 3H, 7.1, CH<sub>3</sub>); 4.38-4.50 (m, 2H, CH<sub>2</sub>); 7.36 (dd, 1H, 8.2, 4.2, H-9); 7.41-7.47 (m, 1H, H-4"); 7.49-7.56 (m, 2H, H-3", H-5"); 7.65 (s, 1H, H-2); 7.71 (d, 1H, 9.3, H-5); 7.73-7.78 (m, 3H, H-6/H-7, H-2", H-6"); 7.82 (d, 2H, 8.5, H-3', H-5'); 7.87 (d, 1H, 8.6, H-6/H-7); 8.14 (dd, 1H, 8.2, 1.8, H-8); 8.28 (dd, 1H, 4.2, 1.8, H-10); 8.34 (d, 2H, 8.5, H-2', H-6'); 8.60 (d, 1H, 9.3, H-4); <sup>13</sup>C-NMR (CDCl<sub>3</sub>, &#x3B4;, ppm): 14.5 (CH<sub>3</sub>); 60.0 (CH<sub>2</sub>); 106.2 (C-3); 120.0 (C-4); 121.6 (C-2); 122.3 (C-9); 124.9, 126.5 (C-6, C-7); 125.4, 127.7, 129.6, 132.7, 136.5, 138.1 (C-1, C-3a, C-5a, C-7a, C-11a, C-11b); 125.6 (C-5); 126.9 (C-3', C-5'); 127.3 (C-2", C-6"); 128.0 (C-4"); 128.9 (C-3", C-5"); 130.7 (C-2', C-6'); 135.7 (C-8); 138.7, 140.2, 145.0 (C-1', C-4', C-1"); 146.0 (C-10); 164.6 (CO<sub>2</sub>Et); 184.7 (COAr).</p>
+      </sec>
+    <sec>
+      <title>General procedure for "one pot" synthesis of pyrrolophenanthrolines <bold>6a,b,d</bold></title>
+      <p>A solution of salt <bold>3</bold> (5 mmol), alkene (15 mmol) (dimethyl-, diethylmaleate or ethyl acrylate), triethylamine (6 mmol) and TPCD (5 mmol) in DMF (30 mL) was stirred at 80-90&#xBA;C for 6 hrs. It was then cooled to the room temperature and a 5% aqueous HCl solution (100 mL) was added. The precipitate was filtered and purified by recrystallization from a suitable solvent. The pyrrolophenanthrolines <bold>6a,b,d</bold> were obtained in 32-61% yields.</p>
+    </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00321">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dumitrascu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mitan</surname>
+              <given-names>C. I.</given-names>
+            </name>
+            <name>
+              <surname>Draghici</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Caproiu</surname>
+              <given-names>M. T.</given-names>
+            </name>
+            <name>
+              <surname>Raileanu</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+           <source>Tetrahedron Lett.</source>
+          <year>2001</year>
+          <fpage>8379</fpage>
+           </citation>
+      </ref>
+      <ref id="B2-molecules-10-00321">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dumitrascu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mitan</surname>
+              <given-names>C. I.</given-names>
+            </name>
+            <name>
+              <surname>Draghici</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Caproiu</surname>
+              <given-names>M. T.</given-names>
+            </name>
+          </person-group>
+           <source>Rev. Roum. Chim.</source>
+		  <year>2002</year>
+          <volume>47</volume>
+          <fpage>881</fpage>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>2004</bold>, <italic>140</italic>, 111296e]</comment>
+           </citation>
+      </ref>
+      <ref id="B3-molecules-10-00321">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dumitrascu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mitan</surname>
+              <given-names>C. I.</given-names>
+            </name>
+            <name>
+              <surname>Draghici</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Caproiu</surname>
+              <given-names>M. T.</given-names>
+            </name>
+            <name>
+              <surname>Raileanu</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>Rev. Chim.</source>
+          <year>2002</year>
+          <volume>53</volume>
+          <fpage>787</fpage>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>2003</bold>, <italic>138</italic>, 368790m]</comment>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00321">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramona</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Rotaru</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Drochioiu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Druta</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+           <source>J. Heterocycl. Chem.</source>
+          <year>2003</year>
+          <volume>40</volume>
+          <fpage>283</fpage>
+         <pub-id pub-id-type="doi">10.1002/jhet.5570400213</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00321">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dumitrascu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Caira</surname>
+              <given-names>M. R.</given-names>
+            </name>
+            <name>
+              <surname>Draghici</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Caproiu</surname>
+              <given-names>M. T.</given-names>
+            </name>
+            <name>
+              <surname>Badoiu</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Crystallogr.</source>
+          <year>2004</year>
+          <comment>in press</comment>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00321">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kutsuma</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Sekine</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Fujiyama</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Pharm. Bull.</source>
+          <year>1972</year>
+          <volume>20</volume>
+          <fpage>2701</fpage>
+          <lpage>2706</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.20.2701</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00321">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frolich</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Krohnke</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+           <source>Chem. Ber.</source>
+          <year>1971</year>
+          <volume>104</volume>
+          <fpage>1621</fpage>
+          <lpage>1628</lpage>
+          <pub-id pub-id-type="doi">10.1002/cber.19711040530</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00321">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wei</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+           <source>J. Chem. Soc. Perkin Trans I</source>
+          <year>1993</year>
+           <fpage>2487</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00321">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhou</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2000</year>
+          <volume>37</volume>
+          <fpage>1165</fpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570370524</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00321">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+           <source>J. Heterocycl. Chem.</source>
+          <year>2000</year>
+          <volume>37</volume>
+          <fpage>1533</fpage>
+         <pub-id pub-id-type="doi">10.1002/jhet.5570370620</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00321">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dumitrascu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Caira</surname>
+              <given-names>M. R.</given-names>
+            </name>
+            <name>
+              <surname>Draghici</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Caproiu</surname>
+              <given-names>M. T.</given-names>
+            </name>
+			<name>
+              <surname>Barbu</surname>
+              <given-names>L.</given-names>
+            </name>
+			<name>
+              <surname>Badoiu</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+		  <comment>submitted to</comment>
+          <source>J. Chem. Crystallogr.</source>
+          <year>2004</year>
+         </citation>
+      </ref>
+      <ref id="B12-molecules-10-00321">
+        <label>12.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eliel</surname>
+              <given-names>E. L.</given-names>
+            </name>
+            <name>
+              <surname>Wilen</surname>
+              <given-names>S. H.</given-names>
+            </name>
+          </person-group>
+          <source>Stereochemistry of Organic Compounds</source>
+          <publisher-name>Wiley</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1994</year>
+          <fpage>1163</fpage>
+          <lpage>1166</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group><fn><p><italic>Sample Availability:</italic> Available from the authors.</p></fn></fn-group>
+  </back>
+</article>

@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10060653</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00653</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Reactions of Cp<sub>2</sub>MCl<sub>2</sub> (M=Ti or Zr) with Imine-Oxime Ligands. Formation of Metallacycles</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pandey</surname>
+            <given-names>Om Prakash</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00653" ref-type="corresp">*</xref>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Sengupta</surname>
+            <given-names>Soumitra Kumar</given-names>
+          </name>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Tripathi</surname>
+            <given-names>Chandra Mohan</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00653">Chemistry Department, D.D.U. Gorakhpur University, Gorakhpur &#x2013; 273009, India</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00653"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>sengupta2002@yahoo.co.in</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <fpage>653</fpage>
+      <lpage>658</lpage>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The reactions of bis(cyclopentadienyl)titanium(IV)/zirconium(IV) dichloride with a series of imine-oxime ligands (LH<sub>2</sub>), derived by condensing benzil-&#x3B1;-monoxime and&#xA0; 2-phenylenediamine, 4-phenylenediamine, 4-methyl-2-phenylenediamine, 2,6-diamino-pyridine, have been studied in anhydrous tetrahydrofuran in the presence of base and metallocycles of the [Cp<sub>2</sub>M(L)] (M=Ti or Zr) type have been isolated. Tentative structures have been proposed for the products based on elemental analysis, electrical conductance and spectral (electronic, IR and <sup>1</sup>H-NMR) data. Proton NMR spectra indicate that on the NMR time scale there is rapid rotation of the cyclopentadienyl ring around the metal-ring axis at 25&#xBA;C. Studies were conducted to assess the growth inhibiting potential of the complexes synthesized and the ligands against various bacterial strains.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Titanium(IV)</kwd>
+		<kwd>zirconium(IV)</kwd>
+		<kwd>imine-oxime</kwd>
+		<kwd>IR</kwd>
+		<kwd>PMR</kwd>
+		<kwd>antibacterial activity</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Derivatives of the bent metallocene complexes of Group IV metals have attracted increasing attention because they are applied in a variety of asymmetric catalytic and stoichiometric reactions [<xref ref-type="bibr" rid="B1-molecules-10-00653">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00653">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00653">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00653">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00653">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00653">6</xref>]. Perhaps the most important application of these complexes is in the isotactic polymerization of propylene. The introduction of modifications to the classical ligands is a very effective way of varying the physical and chemical properties of the parent metallocenes over a very wide range in order to incorporate novel reactivity and optimize existing properties [<xref ref-type="bibr" rid="B1-molecules-10-00653">1</xref>]. In continuation of our earlier studies [<xref ref-type="bibr" rid="B7-molecules-10-00653">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00653">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00653">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00653">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00653">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00653">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00653">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00653">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00653">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00653">16</xref>] on the coordination behaviour of new type of ligands towards Cp<sub>2</sub>MCl<sub>2</sub>, we report here the reactions of Cp<sub>2</sub>MCl<sub>2</sub> (M=Ti or Zr) with imine ligands <bold>1</bold> derived from benzil-&#x3B1;-monoxime.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00653-i001.tif"/></p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>A systematic study of the reactions of bis(cyclopentadienyl)titanium(IV)/zirconium (IV) dichloride with imine-oxime ligands (molar ratio 1:1) in anhydrous THF in the presence of triethylamine may be represented by the following equation:</p>
+      <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00653-i002.tif"/></p>
+      <p>Colours, elemental analysis and molar conductivities are listed in <xref ref-type="table" rid="molecules-10-00653-t001">Table 1</xref>. Complexes are soluble in dimethylformamide dimethyl sulphoxide, nitrobenzene and tetrahydrofuran. The molar conductances of the complexes in DMF are in the 5-12 ohm<sup>-1</sup>cm<sup>2</sup>mol<sup>-1</sup> range, which are well below the range observed for univalent electrolytes in this solvent. The electronic spectra of the complexes show a broad band in at <italic>ca</italic>. 450 nm which can be assigned to a charge-transfer, a result in accord with them (n-1)d<sup>0</sup>ns<sup>0</sup> electronic configuration. The ligands show three absorption maxima at <italic>ca</italic>. 220, 270 and 520 nm which are assigned to n &#x2192; &#x3C0;* or &#x3C0; &#x2192; &#x3C0;* transitions associated with imine and phenyl functions of the ligands. In their respective complexes, these bands shift slightly to higher frequencies.</p>
+      <p>The IR spectral bands most useful for determining the coordination mode for the ligands and complexes are listed in <xref ref-type="table" rid="molecules-10-00653-t002">Table 2</xref>. Absorption bands occurring at <italic>ca.</italic> 3000 cm<sup>-1</sup> for &#x3C5;(C-H), <italic>ca</italic>. 1425 cm<sup>&#x2011;1</sup> for &#x3C5;(C-C) and <italic>ca</italic>. 1025 cm<sup>-1</sup> for &#x3C5;(C-H) in all the complexes are assigned to the cyclopenta- dienyl group and indicate that these groups are &#x3C0;-bonded to metal [<xref ref-type="bibr" rid="B8-molecules-10-00653">8</xref>]. The IR spectra of ligands exhibit a broad, medium intensity band around 3200 cm<sup>-1</sup>, which is assigned [<xref ref-type="bibr" rid="B17-molecules-10-00653">17</xref>] to &#x3C5;(O-H) of the oxime group. However, in complexes this band disappears indicating the formation of bond between metal and oxygen. This is also confirmed by the appearance of band at <italic>ca</italic>. 445 &#x2013; 430 cm<sup>-1</sup>, assignable [<xref ref-type="bibr" rid="B18-molecules-10-00653">18</xref>] to &#x3C5;(M-O). The strong and medium intensity bands around 1620-1610 cm<sup>-1</sup> and 1580-1570 cm<sup>-1</sup> in the spectra of ligands are assigned [<xref ref-type="bibr" rid="B19-molecules-10-00653">19</xref>] to &#x3C5;(C=N) and &#x3C5;(C=N) (oxime), respectively, which remains almost at the same position in the complexes, indicating that C=N groups are not involved in bond formation. The ligand L<sub>4</sub>H<sub>2</sub> and its corresponding titanium(IV)/zirconium(IV) complexes show weak bands at <italic>ca.</italic> 1560, 610 and 400 cm<sup>-1</sup> assignable [<xref ref-type="bibr" rid="B20-molecules-10-00653">20</xref>] to pyridine ring deformation bands.</p>
+      <table-wrap id="molecules-10-00653-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00653-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Characterization data of titanium(IV) and zirconium(IV) complexes</p>
+        </caption>
+        <table style="border:solid thin">
+        <thead>
+            <tr>
+              <th rowspan="2" align="center" valign="top">Reactants<break/>(molar ratio)</th>
+              <th rowspan="2" align="center" valign="top">Time (h)</th>
+              <th rowspan="2" align="center" valign="top">Product;<break/>Yield (%)</th>
+              <th rowspan="2" align="center" valign="top">Colour</th>
+              <th colspan="4" align="center" valign="top">Found (calcd.) %</th>
+            </tr>
+			<tr>
+			<th align="left" valign="top">C</th>
+			<th align="left" valign="top">H</th>
+			<th align="left" valign="top">N</th>
+			<th align="left" valign="top">M</th>
+			</tr>
+          </thead>
+          <tbody>
+            <tr style="border-top: solid thin">
+              <td align="center" valign="top">Cp<sub>2</sub>TiCl<sub>2</sub>+L<sub>1</sub>H<sub>2</sub>+Et<sub>3</sub>N<break/>(1 : 1 : 2)</td>
+              <td align="center" valign="top">10</td>
+              <td align="center" valign="top">[Cp<sub>2</sub>Ti(L<sub>1</sub>)],<break/>68</td>
+              <td align="center" valign="top">Yellow</td>
+              <td align="center" valign="top">75.4<break/>(75.6)</td>
+              <td align="center" valign="top">4.8<break/>(4.9)</td>
+              <td align="center" valign="top">7.8<break/>(8.0)</td>
+              <td align="center" valign="top">6.8<break/>(6.8)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">Cp<sub>2</sub>ZrCl<sub>2</sub>+L<sub>1</sub>H<sub>2</sub>+Et<sub>3</sub><break/>N(1 : 1 : 2)</td>
+              <td align="center" valign="top">12</td>
+              <td align="center" valign="top">[Cp<sub>2</sub>Zr(L<sub>1</sub>)],<break/>65</td>
+              <td align="center" valign="top">Dark brown</td>
+              <td align="center" valign="top">71.0<break/>(71.2)</td>
+              <td align="center" valign="top">4.4<break/>(4.6)</td>
+              <td align="center" valign="top">7.3<break/>(7.5)</td>
+              <td align="center" valign="top">12.2<break/>(12.3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">Cp<sub>2</sub>TiCl<sub>2</sub>+L<sub>2</sub>H<sub>2</sub>+Et<sub>3</sub>N<break/>(1 : 1 : 2)</td>
+              <td align="center" valign="top">10</td>
+              <td align="center" valign="top">[Cp<sub>2</sub>Ti(L<sub>2</sub>)],<break/>70</td>
+              <td align="center" valign="top">Dark brown</td>
+              <td align="center" valign="top">75.3<break/>(75.6)</td>
+              <td align="center" valign="top">4.6<break/>(4.9)</td>
+              <td align="center" valign="top">7.8<break/>(8.0)</td>
+              <td align="center" valign="top">6.8<break/>(6.8)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">Cp<sub>2</sub>ZrCl<sub>2</sub>+L<sub>2</sub>H<sub>2</sub>+Et<sub>3</sub>N<break/>(1 : 1 : 2)</td>
+              <td align="center" valign="top">12</td>
+              <td align="center" valign="top">[Cp<sub>2</sub>Zr(L<sub>2</sub>)],<break/>60</td>
+              <td align="center" valign="top">Yellowish brown</td>
+              <td align="center" valign="top">71.0<break/>(71.2)</td>
+              <td align="center" valign="top">4.4<break/>(4.6)</td>
+              <td align="center" valign="top">7.4<break/>(7.5)</td>
+              <td align="center" valign="top">12.1<break/>(12.3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">Cp<sub>2</sub>TiCl<sub>2</sub>+L<sub>3</sub>H<sub>2</sub>+Et<sub>3</sub>N<break/>(1 : 1 : 2)</td>
+              <td align="center" valign="top">12</td>
+              <td align="center" valign="top">[Cp<sub>2</sub>Ti(L<sub>3</sub>)],<break/>68</td>
+              <td align="center" valign="top">cream</td>
+              <td align="center" valign="top">75.5<break/>(75.8)</td>
+              <td align="center" valign="top">5.0<break/>(5.1)</td>
+              <td align="center" valign="top">7.6<break/>(7.9)</td>
+              <td align="center" valign="top">6.6<break/>(6.7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">Cp<sub>2</sub>ZrCl<sub>2</sub>+L<sub>3</sub>H<sub>2</sub>+Et<sub>3</sub>N<break/>(1 : 1 : 2)</td>
+              <td align="center" valign="top">14</td>
+              <td align="center" valign="top">[Cp<sub>2</sub>Zr(L<sub>3</sub>)],<break/>60</td>
+              <td align="center" valign="top">Light brown</td>
+              <td align="center" valign="top">71.4<break/>(71.5)</td>
+              <td align="center" valign="top">4.8<break/>(4.9)</td>
+              <td align="center" valign="top">7.3<break/>(7.4)</td>
+              <td align="center" valign="top">12.0<break/>(12.0)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">Cp<sub>2</sub>TiCl<sub>2</sub>+L<sub>4</sub>H<sub>2</sub>+Et<sub>3</sub>N<break/>(1 : 1 : 2)</td>
+              <td align="center" valign="top">15</td>
+              <td align="center" valign="top">[Cp<sub>2</sub>Ti(L<sub>4</sub>)],<break/>62</td>
+              <td align="center" valign="top">Light brown</td>
+              <td align="center" valign="top">73.6<break/>(73.8)</td>
+              <td align="center" valign="top">4.6<break/>(4.7)</td>
+              <td align="center" valign="top">9.8<break/>(10.0)</td>
+              <td align="center" valign="top">6.7<break/>(6.8)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">Cp<sub>2</sub>ZrCl<sub>2</sub>+L<sub>4</sub>H<sub>2</sub>+Et<sub>3</sub>N<break/>(1 : 1 : 2)</td>
+              <td align="center" valign="top">15</td>
+              <td align="center" valign="top">[Cp<sub>2</sub>Zr(L<sub>4</sub>)],<break/>58</td>
+              <td align="center" valign="top">Dark brown</td>
+              <td align="center" valign="top">69.3<break/>(69.5)</td>
+              <td align="center" valign="top">4.4<break/>(4.5)</td>
+              <td align="center" valign="top">9.2<break/>(9.4)</td>
+              <td align="center" valign="top">12.3<break/>(12.3)</td>
+            </tr>
+          </tbody>
+        </table>
+      <table-wrap-foot>
+            <fn>
+      <p>Where, 
+	  <list list-type="simple">
+	   <list-item><p>L<sub>1</sub>H<sub>2</sub> = ligand derived from benzil-&#x3B1;-monoxime and 2-phenylenedianine</p></list-item>
+      <list-item><p>L<sub>2</sub>H<sub>2</sub> = ligand derived from benzil-&#x3B1;-monoxime and 4-phenylenedianine</p></list-item>
+      <list-item><p>L<sub>3</sub>H<sub>2</sub> = ligand derived from benzil-&#x3B1;-monoxime and 4-methyl-2-phenylenedianine</p></list-item>
+      <list-item><p>L<sub>4</sub>H<sub>2</sub> = ligand derived from benzil-&#x3B1;-monoxime and 2,6-diaminopyridine</p></list-item>
+	  </list>
+	  </p>
+	  </fn>
+      </table-wrap-foot>
+	  </table-wrap>
+      <table-wrap id="molecules-10-00653-t002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00653-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>IR (cm<sup>-1</sup>) and <sup>1</sup>H-NMR (&#x3B4;, ppm) data of titanium(IV) and zirconium(IV) complexes</p>
+        </caption>
+        <table style="border:solid thin">
+       <thead>
+            <tr>
+              <th rowspan="2" align="center" valign="top">Complex</th>
+              <th colspan="4" align="center" valign="top">IR</th>
+              <th align="center" valign="top"><sup>1</sup>H NMR</th>
+              <th rowspan="2" align="center" valign="top">Aromatic ring</th>
+            </tr>
+			<tr>
+              <th align="center" valign="top">&#x3B7;<sup>5</sup>-C<sub>5</sub>H<sub>5 </sub></th>
+              <th align="center" valign="top">&#x3C5;(C=N)</th>
+              <th align="left" valign="top">&#x3C5;(N-O)</th>
+			  <th align="left" valign="top">&#x3C5;(M-O)</th>
+              <th align="left" valign="top">&#x3B7;<sup>5</sup>-C<sub>5</sub>H<sub>5</sub></th>
+		  </tr>
+          </thead>
+          <tbody>
+            <tr style="border-top: solid thin">
+              <td align="center" valign="top">[Cp<sub>2</sub>Ti(L<sub>1</sub>)]</td>
+              <td align="center" valign="top">3000s, 1420m, 1025m</td>
+              <td align="center" valign="top">1620s, 1585m</td>
+              <td align="center" valign="top">1230m</td>
+              <td align="center" valign="top">440m</td>
+              <td align="center" valign="top">6.80s</td>
+              <td align="center" valign="top">7.65-7.82m</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">[Cp<sub>2</sub>Zr(L<sub>1</sub>)]</td>
+              <td align="center" valign="top">3000s, 1425m, 1020m</td>
+              <td align="center" valign="top">1610s, 1580m</td>
+              <td align="center" valign="top">1225m</td>
+              <td align="center" valign="top">430m</td>
+              <td align="center" valign="top">6.68s</td>
+              <td align="center" valign="top">7.50-7.80m</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">[Cp<sub>2</sub>Ti(L<sub>2</sub>)]</td>
+              <td align="center" valign="top">3010s, 1410m, 1020m</td>
+              <td align="center" valign="top">1615s, 1575m</td>
+              <td align="center" valign="top">1235m</td>
+              <td align="center" valign="top">445m</td>
+              <td align="center" valign="top">6.85s</td>
+              <td align="center" valign="top">7.70-7.85m</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">[Cp<sub>2</sub>Zr(L<sub>2</sub>)]</td>
+              <td align="center" valign="top">3015s, 1420m, 1015m</td>
+              <td align="center" valign="top">1620s, 1570m</td>
+              <td align="center" valign="top">1220m</td>
+              <td align="center" valign="top">440m</td>
+              <td align="center" valign="top">6.72s</td>
+              <td align="center" valign="top">7.40-7.65m</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">[Cp<sub>2</sub>Ti(L<sub>3</sub>)]</td>
+              <td align="center" valign="top">3000s, 1430m, 1025m</td>
+              <td align="center" valign="top">1610s, 1575m</td>
+              <td align="center" valign="top">1230m</td>
+              <td align="center" valign="top">435m</td>
+              <td align="center" valign="top">6.78s</td>
+              <td align="center" valign="top">7.60-7.78m</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">[Cp<sub>2</sub>Zr(L<sub>3</sub>)]</td>
+              <td align="center" valign="top">3010s, 1420m, 1030m</td>
+              <td align="center" valign="top">1620s, 1570m</td>
+              <td align="center" valign="top">1225m</td>
+              <td align="center" valign="top">430m</td>
+              <td align="center" valign="top">6.70s</td>
+              <td align="center" valign="top">7.42-7.58m</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">[Cp<sub>2</sub>Ti(L<sub>4</sub>)]</td>
+              <td align="center" valign="top">2990s, 1415m, 1025m</td>
+              <td align="center" valign="top">1625s, 1585m</td>
+              <td align="center" valign="top">1240m</td>
+              <td align="center" valign="top">440m</td>
+              <td align="center" valign="top">6.75s</td>
+              <td align="center" valign="top">7.60-7.80m<break/>8.20-8.35m</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">[Cp<sub>2</sub>Zr(L<sub>4</sub>)]</td>
+              <td align="center" valign="top">3000s, 1410m, 1025m</td>
+              <td align="center" valign="top">1610s, 1575m</td>
+              <td align="center" valign="top">1235m</td>
+              <td align="center" valign="top">430m</td>
+              <td align="center" valign="top">6.65s</td>
+              <td align="center" valign="top">7.45-7.70m<break/>8.10-8.25m</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>The <sup>1</sup>H-NMR spectra of the ligands and complexes (<xref ref-type="table" rid="molecules-10-00653-t002">Table 2</xref>) have been recorded in deuterated dimethyl sulphoxide. The line intensities were determined by planimetric integration. The complexes show signals at &#x3B4; 6.65-6.85, which may be assigned to the cyclopentadienyl ring protons and indicate the rapid rotation of the ring about the metal-ring axis. A signal in all ligands at <italic>ca</italic>. &#x3B4;  8.20-8.40 may be assigned to the proton of oxime group. In complexes this signal disappears, indicating the displacement of the oxime group hydrogen. The multiplet at <italic>ca</italic>. 7.40-7.85 may be due to the aromatic ring protons. The ligand L<sub>3</sub>H<sub>2</sub> and its corresponding complexes show a signal at <italic>ca.</italic> &#x3B4; 2.0 due to the CH<sub>3</sub> group. Thus on the basis of elemental analysis, conductance and spectral data, the following general structure <bold>2</bold> is proposed for the complexes. </p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00653-i003.tif"/></p>
+      <p>The antibacterial activity of the complexes together with the parent ligands has been screened against Gram positive <italic>Bacillus subtilis</italic> and Gram negative <italic>Escherichia</italic> <italic>coli</italic> by the paper disk plate method [<xref ref-type="bibr" rid="B21-molecules-10-00653">21</xref>] at 1000 ppm conc. The inhibition zone (mm) around each disk was measured after 24h and the results of these studies are listed in <xref ref-type="table" rid="molecules-10-00653-t003">Table 3</xref>. The results lead to the following conclusions: 
+	  <list list-type="alpha-lower">
+      <list-item><label>(a)</label><p>The complexes are slightly more toxic than the parent ligands.</p></list-item>
+      <list-item><label>(b)</label><p>Then titanium complexes show better activity than zirconium complexes.</p></list-item>
+      <list-item><label>(c)</label><p>The best activity was recorded with bis(cyclopentadienyl)titanium (IV) derivatives with ligand L<sub>4</sub>H<sub>2</sub>  <italic>i.e.</italic> derived from 2,6-diaminopyridine.</p></list-item>
+	  </list></p>
+      <table-wrap id="molecules-10-00653-t003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00653-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>&#x2013; Antibacterial activity of imine &#x2013; oxime ligands and their corresponding titanium(IV)/ zirconium(IV) complexes</p>
+        </caption>
+        <table style="border:solid thin">
+        <thead>
+            <tr>
+              <th rowspan="2" align="center" valign="middle">Compound</th>
+              <th colspan="2" align="center" valign="top">Diameter of inhibition zone (mm)</th>
+          </tr>
+		  <tr>
+              <th align="center" valign="top">B. Subtilis</th>
+              <th align="center" valign="top">E-coli</th>
+          </tr>
+          </thead>
+          <tbody>
+            <tr style="border-top: solid thin">
+              <td align="center" valign="top">L<sub>1</sub>H<sub>2</sub><break/>[Cp<sub>2</sub>Ti(L<sub>1</sub>)]<break/>[Cp<sub>2</sub>Zr(L<sub>1</sub>)]</td>
+              <td align="center" valign="top">6<break/>14<break/>10</td>
+              <td align="center" valign="top">8<break/>15<break/>10</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">L<sub>2</sub>H<sub>2</sub><break/>[Cp<sub>2</sub>Ti(L<sub>2</sub>)]<break/>[Cp<sub>2</sub>Zr(L<sub>2</sub>)]</td>
+              <td align="center" valign="top">5<break/>10<break/>8</td>
+              <td align="center" valign="top">5<break/>10<break/>7</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">L<sub>3</sub>H<sub>2</sub><break/>[Cp<sub>2</sub>Ti(L<sub>3</sub>)]<break/>[Cp<sub>2</sub>Zr(L<sub>3</sub>)]</td>
+              <td align="center" valign="top">12<break/>16<break/>14</td>
+              <td align="center" valign="top">10<break/>15<break/>12</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">L<sub>4</sub>H<sub>2</sub><break/>[Cp<sub>2</sub>Ti(L<sub>4</sub>)]<break/>[Cp<sub>2</sub>Zr(L<sub>4</sub>)]</td>
+              <td align="center" valign="top">12<break/>16<break/>14</td>
+              <td align="center" valign="top">12<break/>18<break/>15</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">Ampicillin</td>
+              <td align="center" valign="top">35</td>
+              <td align="center" valign="top">35</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>All reactions were carried out under strictly anhydrous conditions. THF was dried by heating under reflux over sodium wire. Et<sub>3</sub>N was purified by published method [<xref ref-type="bibr" rid="B22-molecules-10-00653">22</xref>]. Bis(cyclopentadienyl)-titanium(IV)/zirconium(IV) dichloride were prepared by heating CpNa with the appropriate metal chloride in a N<sub>2</sub> atmosphere [<xref ref-type="bibr" rid="B23-molecules-10-00653">23</xref>]. Elemental analysis and physical measurements were made as noted earlier [<xref ref-type="bibr" rid="B7-molecules-10-00653">7</xref>]. The ligands were prepared as reported in the literature [<xref ref-type="bibr" rid="B24-molecules-10-00653">24</xref>]. </p>
+      </sec>
+      <sec>
+        <title>Reactions of Cp<sub>2</sub>MCl<sub>2</sub> (M=Ti or Zr) with ligands</title>
+        <p>To a solution of bis(cyclopentadienyl)titanium(IV)/zirconium(IV) dichloride (20 mmol) in dry THF (<italic>ca.</italic> 40 mL) was added the appropriate ligand (20 mmol). To the resulting clear solution, Et<sub>3</sub>N (40 mmol) was added and the mixture was stirred for <italic>ca</italic>. 10-15 h at room temperature. Precipitated Et<sub>3</sub>N&#xB7;HCl was removed by filtration and the volume of the solution was reduced to <italic>ca</italic>. 15 mL under reduced pressure. Light petroleum (b.p 60-80&#xBA;C) (10 mL) was then added. The coloured precipitate, thus obtained, was thoroughly washed with Et<sub>2</sub>O and recrystallized from 1:1 THF-Et<sub>2</sub>O. The details and important physical characteristics of new compounds are listed in <xref ref-type="table" rid="molecules-10-00653-t001">Table 1</xref>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors are grateful to UGC, New Delhi, for financial assistance</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00653">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quin</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bala</surname>
+              <given-names>M.D.</given-names>
+            </name>
+            <name>
+              <surname>Lian</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>2003</year>
+		  <volume>103</volume>
+          <fpage>2633</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00653">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Togni</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Halterman</surname>
+              <given-names>R.L.</given-names>
+            </name>
+          </person-group>
+          <source>Metallocenes: Synthesis-Reactivity-Applications</source>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1998</year>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00653">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Long</surname>
+              <given-names>N.J.</given-names>
+            </name>
+          </person-group>
+          <source>Metallocenes</source>
+          <publisher-name>Blackwell Science</publisher-name>
+          <publisher-loc>Malden, M A</publisher-loc>
+          <year>1998</year>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00653">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boffa</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Novak</surname>
+              <given-names>B.M.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>2000</year>
+		  <volume>107</volume>
+          <fpage>1479</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00653">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bochmann</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Comprehensive Organometallic Chemistry II.</source>
+          <person-group person-group-type="editor">
+		    <name>
+              <surname>Abel</surname>
+              <given-names>E.W.</given-names>
+            </name>
+            <name>
+              <surname>Stone</surname>
+              <given-names>F.G.A.</given-names>
+            </name>
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Pergamon</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1995</year>
+		  <volume>Vol 4</volume>
+          <fpage>273</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00653">
+        <label>6.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jubb</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Richeson</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Gambarotta</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Comprehensive Organometallic Chemistry II.</source>
+          <person-group person-group-type="editor">
+		  <name>
+              <surname>Abel</surname>
+              <given-names>E.W.</given-names>
+            </name>
+            <name>
+              <surname>Stone</surname>
+              <given-names>F.G.A.</given-names>
+            </name>
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Pergamon</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1995</year>
+		  <volume>Vol 4</volume>
+          <fpage>543</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00653">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>M.K.</given-names>
+            </name>
+            <name>
+              <surname>Tripathi</surname>
+              <given-names>C.M.</given-names>
+            </name>
+          </person-group>
+		  <source>Bioinorg. Chem. &amp; Appl.</source>
+          <year>2003</year>
+          <volume>1</volume>
+          <fpage>35</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00653">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+            <name>
+              <surname>Bhatt</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>K.N.</given-names>
+            </name>
+          </person-group>
+          <source>Indian J. Chem.</source>
+          <year>2002</year>
+		  <volume>41A</volume>
+          <fpage>1421</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00653">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhatt</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+          </person-group>
+          <source>Indian J. Chem.</source>
+          <year>2001</year>
+		  <volume>40A</volume>
+          <fpage>994</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00653">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Baranwal</surname>
+              <given-names>B.P.</given-names>
+            </name>
+            <name>
+              <surname>Shukla</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Bhatt</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Z. Naturforsch.</source>
+          <year>2001</year>
+          <volume>54b</volume>
+          <fpage>141</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00653">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mala</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+          </person-group>
+          <source>Transition Met. Chem.</source>
+          <year>2000</year>
+		  <volume>25</volume>
+          <fpage>613</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00653">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Bhatt</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>K.N.</given-names>
+            </name>
+          </person-group>
+          <source>Transition Met. Chem.</source>
+          <year>1999</year>
+		  <volume>24</volume>
+          <fpage>703</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00653">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>B.K.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>V.K.</given-names>
+            </name>
+          </person-group> 
+          <source>Transition Met. Chem.</source>
+          <year>1998</year>
+		  <volume>23</volume>
+          <fpage>349</fpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00653">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+          </person-group>
+          <source>Gazz. Chim. Ital.</source>
+          <year>1997</year>
+		  <volume>127</volume>
+          <fpage>827</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00653">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rai</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>K.D.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+          </person-group>
+          <source>Polyhedron</source>
+          <year>1992</year>
+          <volume>11</volume>
+          <fpage>123</fpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00653">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Tripathi</surname>
+              <given-names>S.C.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>1987</year>
+		  <volume>321</volume>
+          <fpage>27</fpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00653">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sharma</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+          </person-group>
+          <source>Synth. React. Inorg. Met-Org. Chem.</source>
+          <year>1991</year>
+          <volume>21</volume>
+          <fpage>1587</fpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00653">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hey-Hawkins</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1994</year>
+		  <volume>94</volume>
+          <fpage>1661</fpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00653">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+          </person-group>
+          <source>Indian  J. Chem.</source>
+          <year>1987</year>
+		  <volume>26A</volume>
+          <fpage>978</fpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00653">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>O.P.</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>K.D.</given-names>
+            </name>
+          </person-group>
+          <source>Indian J. Chem.</source>
+          <year>1999</year>
+		  <volume>38A</volume>
+          <fpage>951</fpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00653">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carcelli</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mazza</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Pelizzi</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pelizzi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Zani</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>J. Inorg. Biochem.</source>
+          <year>1995</year>
+		  <volume>57</volume>
+          <fpage>43</fpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00653">
+        <label>22.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogel</surname>
+              <given-names>A.I.</given-names>
+            </name>
+          </person-group>
+          <source>A Text Book of Practical Organic Chemistry</source>
+          <publisher-name>Longmans Green</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1948</year>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00653">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Birmingham</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1954</year>
+          <volume>76</volume>
+          <fpage>4281</fpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00653">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Al- Sogair</surname>
+              <given-names>F.M.S.</given-names>
+            </name>
+          </person-group>
+          <source>Transition Met. Chem.</source>
+          <year>2002</year>
+		  <volume>27</volume>
+          <fpage>299</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+    <fn>
+	<p><italic>Sample availability</italic>: Available from the authors</p>
+	</fn>
+  </fn-group>
+  </back>
+</article>

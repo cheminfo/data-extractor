@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10070794</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00794</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>An Efficient and Selective Solvent-free Oxidation of Alcohols by Shaking with Chromium Trioxide Supported on Aluminium Silicate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Huang</surname>
+            <given-names>Li-Hong</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00794" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lou</surname>
+            <given-names>Ji-Dong</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00794" ref-type="aff">2</xref>
+          <xref rid="c1-molecules-10-00794" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhu</surname>
+            <given-names>Long-Hua</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00794" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ping</surname>
+            <given-names>Lei</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00794" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fu</surname>
+            <given-names>Yan-Bin</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00794" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00794"><label>1</label>College of Life Sciences, China Jiliang University, Hangzhou, Zhejiang 310034, China</aff>
+      <aff id="af2-molecules-10-00794"><label>2</label>Institute of Chemical and Biological Technology, New University of Lisbon, 2780 Oeiras, Portugal; Fax: (+351)-21-4403609</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00794"><label>*</label> Author to whom correspondence should be addressed; E-mail: <email>lou@itqb.unl.pt</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>7</issue>
+      <fpage>794</fpage>
+      <lpage>797</lpage>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>14</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A selective oxidation of primary alcohols to the corresponding aldehydes by shaking with chromium trioxide supported on aluminium silicate at room temperature under solvent free conditions is reported. This new procedure can also oxidise secondary alcohols.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Alcohols</kwd>
+        <kwd>Oxidation</kwd>
+        <kwd>Chromium trioxide</kwd>
+        <kwd>Solvent free</kwd>
+        <kwd>Shaking</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Recently considerable attention has been paid to the solvent free reactions [<xref ref-type="bibr" rid="B1-molecules-10-00794">1</xref>]. These are not only of interest from an ecological point of view, but in many cases they also offer considerable synthetic advantages in terms of yields, selectivity and simplicity of the reaction procedures. These factors are especially important in industry. Therefore, some the traditional organic synthetic methods, which have long been carried out in solvents, may be modified to more modern, elegant, and safe versions.</p>
+      <p>One of the most important reactions of alcohols, which have long been the objective of many research papers, is their oxidation to the corresponding carbonyl compounds. Chromium (VI)-based reagents have been extensively used in organic synthesis [<xref ref-type="bibr" rid="B2-molecules-10-00794">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00794">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00794">4</xref>]. The utility of chromium (VI) reagents in the above oxidative transformation is compromised due to their inherent toxicity, cumbersome preparation, and potential danger in terms of product isolation and waste disposal. The introduction of reagents on solid supports [<xref ref-type="bibr" rid="B5-molecules-10-00794">5</xref>] has circumvented some of these problems and provided an attractive alternative in organic synthesis in view of the selectivity and associated ease of manipulation. Therefore, it is not surprising that a large number of chromium (VI)-based oxidants impregnated on solid supports have been explored [<xref ref-type="bibr" rid="B6-molecules-10-00794">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00794">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00794">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00794">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00794">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00794">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00794">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00794">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00794">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00794">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00794">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00794">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00794">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00794">19</xref>], however, almost all of these procedures are performed under heterogeneous conditions, or assisted by microwave irradiation.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>We have described a new reagent, chromium trioxide (CrO<sub>3</sub>) supported on aluminium silicate, for the heterogeneous selective oxidation of primary alcohols [<xref ref-type="bibr" rid="B16-molecules-10-00794">16</xref>]. In connection with our recent work [<xref ref-type="bibr" rid="B20-molecules-10-00794">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00794">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00794">22</xref>] we now report a novel oxidation of primary alcohols to the corresponding aldehydes using this supported reagent under solvent free conditions by shaking at room temperature without microwave irradiation (<xref ref-type="scheme" rid="molecules-10-00794-f001">Scheme 1</xref>). This is the first time a shaking machine has been employed for this reaction, and its performance is very simple. We find that using shaking is much more effective than using a stirrer for this kind of solvent-free reactions. Some previous methods required the reactions to be heated, but in the present work, heating is unnecessary, and the reaction times are also quite reduced.</p>
+      <fig id="molecules-10-00794-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00794-f001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-g001.tif"/>
+      </fig>
+      <p>The present method has several procedural advantages over heterogeneous oxidations [<xref ref-type="bibr" rid="B16-molecules-10-00794">16</xref>], for instance, the reaction conditions are milder, the reaction times are shorter, and the work-ups are easier. In addition, compared to the few existing CrO<sub>3</sub>-based reagents used under solvent free conditions, such as chromium trioxide on wet alumina [<xref ref-type="bibr" rid="B23-molecules-10-00794">23</xref>], and chromium trioxide with HZSM-5 zeolite [<xref ref-type="bibr" rid="B24-molecules-10-00794">24</xref>], an important benefit of the present method is that there is no need to use microwave irradiation, an additional energy input. Furthermore, owing to the fact that the reaction takes place under solvent free conditions, the risk of combustion, the toxicity, and environmental pollution of solvents are reduced. In addition, the present method has been extended to oxidation of secondary alcohols.</p>
+      <p>In the present method, a 1.5 to 1 molar ratio of CrO<sub>3</sub> to substrate is employed. First, the oxidant is carefully added to the substrate and the mixture is shaken mechanically at room temperature. The progress of the reaction is monitored by TLC. In general, the oxidations are completed within 60 min. The residue is then washed with dichloromethane or diethyl ether. Purification of the residue gives a product that is of acceptable purity for most purposes. As can be seen in <xref ref-type="table" rid="molecules-10-00794-t001">Table 1</xref>, this method is generally applicable to a wide range of alcohols, and gives the corresponding aldehydes and ketones in good yields, thus comparing favourably with some traditional CrO<sub>3</sub>-based oxidation methods [<xref ref-type="bibr" rid="B25-molecules-10-00794">25</xref>].</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>In conclusion, solvent free oxidation of primary and secondary alcohols using CrO<sub>3</sub> supported on aluminium silicate at room temperature by shaking is a new and efficient method for the preparation of corresponding aldehydes and ketones.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>Typical Procedure: Oxidation of Benzyl Alcohol to Benzaldehyde:</title>
+        <p>A mixture of benzyl alcohol (108 mg, 1 mmol) and CrO<sub>3</sub>-aluminium silicate reagent [<xref ref-type="bibr" rid="B16-molecules-10-00794">16</xref>] (750 mg) is shaken mechanically (Horizontal oscillator, Model HY-2, Zhengji Instrument Co. Ltd.) at room temperature for 20 min. The progress of the reaction is monitored by TLC (aluminum-backed silica gel Merck 60 GF254 plates) using hexane-ethyl acetate (8:2) as eluent. The reaction mixture is then washed with CH2Cl2 (3 &#xD7; 5 mL). The combined filtrates are evaporated to give crude product, which is purified by preparative TLC (hexane-ethyl acetate 8:2) to afford benzaldehyde (97 mg, 92%).</p>
+		<table-wrap id="molecules-10-00794-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00794-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Solvent free oxidation of alcohols with CrO<sub>3</sub> supported on aluminium silicate.</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Substrate</th>
+                <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Reaction time (min)</th>
+                <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Product<sup>a</sup></th>
+                <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Yield (%)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle"><italic>n</italic>-C<sub>4</sub>H<sub>9</sub>-CH<sub>2</sub>-OH</td>
+                <td align="center" valign="middle">60</td>
+                <td align="center" valign="middle"><italic>n</italic>-C<sub>4</sub>H<sub>9</sub>-CHO</td>
+                <td align="center" valign="middle">65</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><italic>n</italic>-C<sub>8</sub>H<sub>17</sub>-CH<sub>2</sub>-OH</td>
+                <td align="center" valign="middle">60</td>
+                <td align="center" valign="middle"><italic>n</italic>-C<sub>8</sub>H<sub>17</sub>-CHO</td>
+                <td align="center" valign="middle">72</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i001.tif"/></td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i002.tif"/></td>
+                <td align="center" valign="middle">86</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i003.tif"/></td>
+                <td align="center" valign="middle">20</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i004.tif"/></td>
+                <td align="center" valign="middle">92</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i005.tif"/></td>
+                <td align="center" valign="middle">20</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i006.tif"/></td>
+                <td align="center" valign="middle">90</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i007.tif"/></td>
+                <td align="center" valign="middle">20</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i008.tif"/></td>
+                <td align="center" valign="middle">90</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i009.tif"/></td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i010.tif"/></td>
+                <td align="center" valign="middle">87</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i011.tif"/></td>
+                <td align="center" valign="middle">30</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i012.tif"/></td>
+                <td align="center" valign="middle">80</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i013.tif"/></td>
+                <td align="center" valign="middle">40</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i014.tif"/></td>
+                <td align="center" valign="middle">85</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i015.tif"/></td>
+                <td align="center" valign="middle">20</td>
+                <td align="center" valign="middle"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00794-i016.tif"/></td>
+                <td align="center" valign="middle">95</td>
+              </tr>
+            </tbody>
+          </table>
+        <table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> All the products are known compounds and were identified by comparison of their IR spectra or by the IR spectra and melting points of their 2,4-dinitrophenyl- hydrazones with literature values [<xref ref-type="bibr" rid="B26-molecules-10-00794">26</xref>].</p>
+            </fn>
+            </table-wrap-foot>
+		</table-wrap>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00794">
+        <label>1.</label>
+		<note><p>For a more recent review; see: 
+        <citation citation-type="journal">
+		  <person-group person-group-type="author">
+            <name>
+              <surname>Sineriz</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Thomassigny</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Lou</surname>
+              <given-names>J.-D.</given-names>
+            </name>
+          </person-group>
+          <source>Current Organic Synthesis</source>
+          <year>2004</year>
+          <volume>1</volume>
+          <fpage>137</fpage>
+        </citation>
+		</p>
+		</note>
+      </ref>
+      <ref id="B2-molecules-10-00794">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Freeman</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Organic Synthesis by Oxidation with Metal Compounds</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Mijs</surname>
+              <given-names>W. J.</given-names>
+            </name>
+            <name>
+              <surname>de Jonge</surname>
+              <given-names>C. R. H. I.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Plenum Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1986</year>
+          <fpage>68</fpage>
+          <lpage>81</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00794">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haines</surname>
+              <given-names>A. H.</given-names>
+            </name>
+          </person-group>
+		  <article-title>Methods for the Oxidation of Organic Compounds, Alcohols, Alcohol Derivatives, Alkyl halides, Nitroalkanes, Alkyl Azides, Carbonyl Compounds, Hydroxyarenes and Aminoarenes</article-title>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1988</year>
+          <fpage>17</fpage>
+          <lpage>41</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00794">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ley</surname>
+              <given-names>S. V.</given-names>
+            </name>
+            <name>
+              <surname>Madin</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Comprehensive  Organic  Synthesis</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Trost</surname>
+              <given-names>B. M.</given-names>
+            </name>
+			<name>
+              <surname>Fleming</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Pergamon Press</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1991</year>
+		  <volume>Vol. 7</volume>
+          <fpage>251</fpage>
+          <lpage>289</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00794">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laszlo</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Preparative Chemistry Using Supported Reagents</source>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>San Diego, CA</publisher-loc>
+          <year>1987</year>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00794">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lalancette</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Rollin</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Dumas</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Can. J. Chem.</source>
+          <year>1972</year>
+          <volume>50</volume>
+          <fpage>3058</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00794">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anderson</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Uh</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Synth. Commun.</source>
+          <year>1973</year>
+          <volume>3</volume>
+          <fpage>115</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00794">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cainelli</surname>
+              <given-names>G.</given-names>
+            </name>
+			<name>
+              <surname>Cardillo</surname>
+              <given-names>G.</given-names>
+            </name>
+			<name>
+              <surname>Orena</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Sandri</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1976</year>
+          <volume>98</volume>
+          <fpage>6737</fpage>
+          <pub-id pub-id-type="doi">10.1021/ja00437a071</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00794">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Filippo</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Chern</surname>
+              <given-names>C. I. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1977</year>
+          <volume>42</volume>
+          <fpage>2182</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00794">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Santaniello</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ponti</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Manzocchi</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1978</year>
+          <fpage>534</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00794">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Y.-S.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>W.-L.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>S. H.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1980</year>
+          <fpage>223</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00794">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frechet</surname>
+              <given-names>J. M. J.</given-names>
+            </name>
+            <name>
+              <surname>Derling</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Farrall</surname>
+              <given-names>M. J. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1981</year>
+          <volume>46</volume>
+          <fpage>1728</fpage>
+          <pub-id pub-id-type="doi">10.1021/jo00321a042</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00794">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suggs</surname>
+              <given-names>J. W.</given-names>
+            </name>
+            <name>
+              <surname>Ytuarte</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1986</year>
+          <volume>27</volume>
+          <fpage>437</fpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00794">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brunelet</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Jouitteau</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gellbard</surname>
+              <given-names>G. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1986</year>
+          <volume>51</volume>
+          <fpage>4016</fpage>
+          <pub-id pub-id-type="doi">10.1021/jo00371a019</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00794">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lou</surname>
+              <given-names>J.-D.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>Y.-Y.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Ind. (London)</source>
+          <year>1987</year>
+          <fpage>531</fpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00794">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lou</surname>
+              <given-names>J.-D.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>Y.-Y.</given-names>
+            </name>
+          </person-group>
+          <source>Synth. Commun.</source>
+          <year>1987</year>
+          <volume>17</volume>
+          <fpage>1717</fpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00794">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lou</surname>
+              <given-names>J.-D.</given-names>
+            </name>
+          </person-group>
+          <source>Synth. Commun.</source>
+          <year>1989</year>
+          <volume>19</volume>
+          <fpage>1841</fpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00794">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khadilkar</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Chitnavis</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Khare</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Synth. Commun.</source>
+          <year>1996</year>
+          <volume>26</volume>
+          <fpage>205</fpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00794">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lou</surname>
+              <given-names>J.-D.</given-names>
+            </name>
+            <name>
+              <surname>Lou</surname>
+              <given-names>W.-X.</given-names>
+            </name>
+          </person-group>
+          <source>Synth. Commun.</source>
+          <year>1997</year>
+          <volume>27</volume>
+          <fpage>3697</fpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00794">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lou</surname>
+              <given-names>J.-D.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Z.-N.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2002</year>
+          <volume>43</volume>
+          <fpage>6095</fpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00794">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lou</surname>
+              <given-names>J.-D.</given-names>
+            </name>
+			<name>
+              <surname>Xu</surname>
+              <given-names>Z.-N.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2002</year>
+          <volume>43</volume>
+          <fpage>6149</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(02)01345-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00794">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lou</surname>
+              <given-names>J.-D.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Z.-N.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2002</year>
+          <volume>43</volume>
+          <fpage>8843</fpage>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00794">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Varma</surname>
+              <given-names>R. S.</given-names>
+            </name>
+            <name>
+              <surname>Saini</surname>
+              <given-names>R. K.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1998</year>
+          <volume>39</volume>
+          <fpage>1481</fpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00794">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heravi</surname>
+              <given-names>M. M.</given-names>
+            </name>
+            <name>
+              <surname>Ajami</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Tabar-Hydar</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ghassemzadeh</surname>
+              <given-names>M. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Res. (S)</source>
+          <year>1999</year>
+          <fpage>334</fpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00794">
+        <label>25.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fieser</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>F. Fieser</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Reagents for Organic Synthesis</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1967</year>
+		  <volume>Vol. 1</volume>
+		  <fpage>144</fpage>
+		  <lpage>147</lpage>
+		  <comment>and subsequent volumes in the series</comment>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00794">
+        <label>26.</label>
+        <citation citation-type="book">
+		 <label>(a)</label>
+          <source>The Aldrich Library of FT-IR Spectra</source>
+		  <edition>2nd edition</edition>
+          <publisher-name>Aldrich Chemical Company</publisher-name>
+          <publisher-loc>Milwaukee: WI</publisher-loc>
+          <year>1997</year>
+        </citation>
+		<citation citation-type="book">
+		 <label>(b)</label>
+		 <source>The Merck Index</source>
+		  <edition>13th edition</edition>
+          <publisher-name>Merck Publishing</publisher-name>
+          <publisher-loc>Rahway, NJ</publisher-loc>
+          <year>2001</year>
+        </citation>
+		<citation citation-type="book">
+		 <label>(c)</label>
+		 <source>The Chapman &amp; Hall/CRC Dictionary of Organic Compounds</source>
+		  <edition>6th edition</edition>
+          <publisher-name>CRC Press</publisher-name>
+          <publisher-loc>Boca Raton, FL</publisher-loc>
+          <year>1995</year>
+        </citation>
+      </ref>
+    </ref-list>
+  <fn-group><fn><p><italic>Sample Availability:</italic> Contact the authors.</p></fn></fn-group>
+  </back>
+</article>

@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020417</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00417</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Investigation of DNA-protein Sequence-Specific Interactions with a ds-DNA Array</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bai</surname>
+            <given-names>Yunfei</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ge</surname>
+            <given-names>Qinyu</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Jinke</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Tongxiang</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Quanjun</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lu</surname>
+            <given-names>Zuhong</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00417" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00417">Chien-Shiung Wu Laboratory, Department of Biological Science and Medical Engineering, Southeast University, Nanjing 210096, P.R. China</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00417"><label>*</label> Author to whom correspondence should be addressed; e-mail: <underline><email>zhlu@seu.edu.cn</email></underline>; Phone: (+86)-25-83792245 Fax: (+86)-25-83619983</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>417</fpage>
+      <lpage>426</lpage>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>04</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>21</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The sequence specific recognitions between DNAs and proteins play important roles in many biological functions. The use of double-stranded DNA arrays (ds-DNA arrays) for studying sequence specific recognition between DNAs and proteins is a promising method. Here we report the use of a ds-DNA probe with multi operation sites of restriction proteins in the middle sequence to investigate DNA-protein sequence-specific interactions including methylation. We arranged EcoR I site and Rsa I site on the same duplex DNA probe to fabricate ds-DNA arrays. We used the ds-DNA arrays to study DNA-restriction enzyme reactions before and after duplex DNA methylation under different probe concentration and reaction time conditions. Our results indicated that the ds-DNA arrays can be further biochemically modified and made accessible for interactions between DNAs and proteins in complex multi-step gene-regulation processes.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>ds-DNA array</kwd>
+		<kwd>restriction enzymes</kwd>
+		<kwd>methylase</kwd>
+		<kwd>DNA-protein interactions</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>A major pursuit in biological research is to understand how cells maintain normal cellular homeostasis and how they behave in an intricately controlled manner in response to their surroundings. DNA-proteins sequence-specific interactions play important roles in regulating cellular processes such as transcription [<xref ref-type="bibr" rid="B1-molecules-10-00417">1</xref>], recombination [<xref ref-type="bibr" rid="B2-molecules-10-00417">2</xref>], restriction [<xref ref-type="bibr" rid="B3-molecules-10-00417">3</xref>], replication [<xref ref-type="bibr" rid="B4-molecules-10-00417">4</xref>] and DNA-drugs interaction [<xref ref-type="bibr" rid="B5-molecules-10-00417">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00417">6</xref>]. Several methods have been developed to analyze the DNA-protein sequence-specific interactions, which are mainly gel-shift assays [<xref ref-type="bibr" rid="B7-molecules-10-00417">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00417">8</xref>] and DNase I foot-printing assays [<xref ref-type="bibr" rid="B9-molecules-10-00417">9</xref>]. However, they are not only laborious, time-consuming and incapable of providing highly parallel analysis, but also they are not suitable for analyzing the complex multi-step protein-DNA interactions.</p>
+      <p>Oligonucleotide arrays or DNA arrays have provided a platform for high-throughput detection of biomolecules and for analyzing the interaction between biological molecules [<xref ref-type="bibr" rid="B10-molecules-10-00417">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00417">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00417">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00417">13</xref>], and now are beginning to be used in detecting DNA-binding proteins [<xref ref-type="bibr" rid="B14-molecules-10-00417">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00417">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00417">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00417">17</xref>]. Most DNA arrays are made of ssDNA, and recognize the target DNA through hybridization. Unlike arrays used for gene resequencing, a new type of DNA arrays, double-stranded DNA (ds-DNA) arrays should be fabricated for detecting sequence-specific regulatory DNA-binding proteins. Preliminary studies of double-stranded DNA arrays suggested that these ds-DNA arrays are well suited for the analysis of DNA&#x2013;protein interactions, particularly for the discovery of the sequences recognized by transcription factors and the quantitative assessment of those important interactions. Bulyk was the first to convert single-stranded to a double-stranded array to perform highly parallel investigations of DNA&#x2013;protein interactions by synthesizing a constant sequence at every position on an array and then annealing and enzymatically extending a complementary primer and he first used the ds-DNA arrays to study the DNA-protein sequence-specific interaction [<xref ref-type="bibr" rid="B14-molecules-10-00417">14</xref>].</p>
+      <p>As we know, a number of DNA&#x2013;protein interactions require that the DNA be biochemical modified in some way. For example, restriction-modification systems occur in many bacterial species, and constitute a defense mechanism against the introduction of foreign DNA into the cell [<xref ref-type="bibr" rid="B18-molecules-10-00417">18</xref>,<xref ref-type="bibr" rid="B23-molecules-10-00417">23</xref>]. Our group had also published two methods for fabrication of ds-DNA arrays and here we also use restriction enzymes as proteins to investigate DNA-proteins interactions, for restriction enzymes have very stringent sequence requirements, they have been used as model systems to study the sequence specificity of DNA&#x2013;protein interactions [<xref ref-type="bibr" rid="B19-molecules-10-00417">19</xref>,<xref ref-type="bibr" rid="B20-molecules-10-00417">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00417">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00417">22</xref>]. We arranged EcoR I site and Rsa I recognition site on the same duplex DNA probe to fabricate ds-DNA arrays and labeled the ds-DNA probes during the ds-DNA arrays creation previously and then used the ds-DNA arrays to study DNA-restriction enzyme reactions before and after duplex DNA methylation under different probe concentration and reaction time conditions. Our results indicated that the ds-DNA arrays can be further biochemically modified and that the DNA is accessible for interaction with DNA-binding proteins in complex multi-step gene-regulation processes.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Restriction enzyme digestion</title>
+        <p>To verify and study the DNA/protein interactions on the fabricated ds-DNA arrays, ds-DNA arrays which had been inserted with Cy3-dUTP were used for digestion with EcoR I and Rsa I, respectively. The relative fluorescence intensity variations before and after endonuclease digestions are shown in <xref ref-type="fig" rid="molecules-10-00417-f001">Figure 1</xref> and <xref ref-type="fig" rid="molecules-10-00417-f002">Figure 2</xref>, and summarized in <xref ref-type="table" rid="molecules-10-00417-t001">Table 1</xref> and <xref ref-type="table" rid="molecules-10-00417-t002">Table 2</xref>.</p>
+        <fig id="molecules-10-00417-f001" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p>The images of EcoR I and Rsa I digestion on ds-DNA array. (A): the image of the ds-DNA array which created by insertion with Cy3-dUTP (a) digested by EcoR I under 1h(b) and 12h(c); (B): the image of ds-DNA array (a) digested by Rsa I under 1 h(b) and 12 h(c) digestion. The four different concentrations of Oligo II (C, 1, 2, 3 and 4 below the two images indicate control, 80 &#xB5;M, 40 &#xB5;M, 20 &#xB5;M and 10 &#xB5;M Oligo II, respectively.) were spotted onto the array.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00417-g001.tif"/>
+        </fig>
+        <fig id="molecules-10-00417-f002" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p>The relative fluorescence intensity variation before and after restriction enzyme digestion. Oligo I, which didn&#x2019;t contain the two restriction enzyme recognition sites, was spotted as a control.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00417-g002.tif"/>
+        </fig>
+        <table-wrap id="molecules-10-00417-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00417-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>The ratios between experiment spots and controls of EcoR I digestion</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="left" valign="top"> </th>
+                <th align="left" valign="top">Control</th>
+                <th align="left" valign="top">80&#xB5;M</th>
+                <th align="left" valign="top">40&#xB5;M</th>
+                <th align="left" valign="top">20&#xB5;M</th>
+                <th align="left" valign="top">10&#xB5;M</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top">
+                  <bold>Pre-digestion</bold>
+                </td>
+                <td align="left" valign="top">1</td>
+                <td align="left" valign="top">0.65</td>
+                <td align="left" valign="top">0.40</td>
+                <td align="left" valign="top">0.35</td>
+                <td align="left" valign="top">0.22</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+                  <bold>1h-digestion</bold>
+                </td>
+                <td align="left" valign="top">1</td>
+                <td align="left" valign="top">0.25</td>
+                <td align="left" valign="top">0.17</td>
+                <td align="left" valign="top">0.15</td>
+                <td align="left" valign="top">0.14</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+                  <bold>12h-digestion</bold>
+                </td>
+                <td align="left" valign="top">1</td>
+                <td align="left" valign="top">0.07</td>
+                <td align="left" valign="top">0.06</td>
+                <td align="left" valign="top">0.05</td>
+                <td align="left" valign="top">0.05</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap id="molecules-10-00417-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00417-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>The ratios between experiment spots and controls of Rsa I digestion</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="left" valign="top"> </th>
+                <th align="left" valign="top">Control</th>
+                <th align="left" valign="top">80&#xB5;M</th>
+                <th align="left" valign="top">40&#xB5;M</th>
+                <th align="left" valign="top">20&#xB5;M</th>
+                <th align="left" valign="top">10&#xB5;M</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top">
+                  <bold>Pre-digestion</bold>
+                </td>
+                <td align="left" valign="top">1</td>
+                <td align="left" valign="top">0.85</td>
+                <td align="left" valign="top">0.53</td>
+                <td align="left" valign="top">0.39</td>
+                <td align="left" valign="top">0.26</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+                  <bold>1h-digestion</bold>
+                </td>
+                <td align="left" valign="top">1</td>
+                <td align="left" valign="top">0.26</td>
+                <td align="left" valign="top">0.16</td>
+                <td align="left" valign="top">0.11</td>
+                <td align="left" valign="top">0.07</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+                  <bold>12h-digestion</bold>
+                </td>
+                <td align="left" valign="top">1</td>
+                <td align="left" valign="top">0.15</td>
+                <td align="left" valign="top">0.11</td>
+                <td align="left" valign="top">0.07</td>
+                <td align="left" valign="top">0.05</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>To determine whether the digestion efficiency was affected by the concentrations of the ds-DNA probes and reaction time, four different concentrations (80 &#xB5;M, 40 &#xB5;M, 20 &#xB5;M, 10 &#xB5;M) and two different reaction times (1 h, 12 h) were tested in this experiment. To avoid the signal intensity loss caused by background decrease, we calculated the intensity ratios between experimental spots and controls to compare the signal change before and after incubation. As the data shown in <xref ref-type="table" rid="molecules-10-00417-t001">Table 1</xref> and <xref ref-type="table" rid="molecules-10-00417-t002">Table 2</xref> indicate, it is suggested that the fluorescence intensities decreased as the digestion time increased. On the other hand, the probe concentrations were not the main factors influencing the digestion efficiency. It indicated that the probes density below 80 &#xB5;M was not congested enough to encumber the enzyme molecules&#x2019; movement.</p>
+	  </sec>
+	  <sec>
+        <title>Restriction enzyme digestion after the treatment of EcoR I methylase</title>
+        <p>The ds-DNA arrays labeled with Cy3-dUTP were treated with EcoR I methylation enzyme before the two enzymes digestion. The results are shown in <xref ref-type="fig" rid="molecules-10-00417-f003">Figure 3</xref> and <xref ref-type="fig" rid="molecules-10-00417-f004">Figure 4</xref> and <xref ref-type="table" rid="molecules-10-00417-t003">Table 3</xref>. The data showed that there were no significant signal losses after the EcoR I digestion of the ds-DNA array which had been previously treated with EcoR I methylation enzyme. However, the ds-DNA array after Rsa I incubation presented significant signal decrease when previously treated with EcoR I methylase.</p>
+        <table-wrap id="molecules-10-00417-t003" position="float">
+          <object-id pub-id-type="pii">molecules-10-00417-t003_Table 3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <p>The ratios between experiment spots and controls of Restriction enzymes digestion after the treatment of EcoR I methylase</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="left" valign="top"> </th>
+                <th align="left" valign="top">Control</th>
+                <th align="left" valign="top">Un-treated</th>
+                <th align="left" valign="top">EM*-treated</th>
+                <th align="left" valign="top">RE*-treated</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top">
+                  <bold>EcoR I digestion</bold>
+                </td>
+                <td align="left" valign="top">1</td>
+                <td align="left" valign="top">0.85</td>
+                <td align="left" valign="top">0.84</td>
+                <td align="left" valign="top">0.82</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">
+                  <bold>Rsa I digestion</bold>
+                </td>
+                <td align="left" valign="top">1</td>
+                <td align="left" valign="top">0.65</td>
+                <td align="left" valign="top">0.62</td>
+                <td align="left" valign="top">0.19</td>
+              </tr>
+            </tbody>
+          </table>
+		  <table-wrap-foot><fn><p><bold>*EM and RE</bold> refer to EcoR I methylase and Restriction enzyme respectively.</p></fn>
+        </table-wrap-foot>
+        </table-wrap>
+        <fig id="molecules-10-00417-f003" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p>The images of array one digested by EcoR I and Rsa I after methylation. (A): Images of array one which created by inserted Cy3-dUTP (a) was treated by EcoR I methylation enzyme (b) and then by EcoR I (c); (B): Images of array one which created by inserted Cy3-dUTP (a) was treated by EcoR I methylation enzyme (b) and then by Rsa I (c). (C and E below the images indicate Control probe and Oligo I, respectively)</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00417-g003.tif"/>
+        </fig>
+        <fig id="molecules-10-00417-f004" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>The fluorescence intensity variation of EcoR I and Rsa I digestion on the same array after methylation. <bold>EM</bold> indicated methylation enzyme and <bold>ER</bold> indicated EcoR I.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00417-g004.tif"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>There are Restriction Modification (RM) systems which are species/strain specific, and they   only allow the survival of DNA received from a like species or strain having the same RM system [<xref ref-type="bibr" rid="B18-molecules-10-00417">18</xref>,<xref ref-type="bibr" rid="B23-molecules-10-00417">23</xref>]. This combination of a specific methylase and endonuclease functioned as a type of immune system for individual bacterial strains, protecting them from infection by foreign DNA. In any cell with a RM system, both the restriction and modification enzymes have the same sequence specificity. The EcoR I endonuclease within the same bacteria will not cleave the methylated DNA. Foreign viral DNA, which is not methylated at the sequence "GAATTC" will therefore be recognized as "foreign" DNA and will be cleaved by the EcoR1 endonuclease [<xref ref-type="bibr" rid="B23-molecules-10-00417">23</xref>]. Our ds-DNA array platform would be useful in studying the efficiency and influence factors in this kind of complex RM systems.</p>
+      <p>In summary, we anticipate that double-stranded DNA arrays designed in various formats will have broad applications in studying protein-DNA interactions, including inhibitors/activators of sequence specific transcription factors, or synergy among transcription regulators. We also anticipate that ds-DNA arrays will be very effective substitutes for many tedious protein-DNA interaction assays currently used in the field, such as gel mobility shift assays, filter binding assays, etc.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This work was supported by the projects 60223002 and 60341002 of the National Natural Science Foundation of China, and also the grant 2002AA2Z2041 from National High Tech Program.</p>
+    </ack>
+	<sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Aminosilane glass slide were obtained from Dako. Glutaraldehyde (50% water solution) was purchased from Amresco. Endonucleases (EcoR I, Rsa I) and EcoR I methylase were obtained from New England BioLabs. Sodium borohydride, SDS (Sodium dodecyl sulfate), methanol, acetone and buffer components were all purchased as ACS grade reagents from Sigma Chemical Company. All the oligonucleotide probes were dissolved in 0.1mol/L Na<sub>2</sub>CO<sub>3</sub>-NaHCO<sub>3</sub> buffer (30% 0.1 M Na<sub>2</sub>CO<sub>3</sub> with 70% 0.1 M NaHCO<sub>3</sub>, pH 9.5 at RT). Deionized distilled water was purified by Milli-Q<sup>&#xAE;</sup> (Millipore Corp.). 20&#xD7;SSC buffer (Saline-Sodium Citrate buffer) was prepared as follow: NaCl (35.06 g) and sodium citrate (17.64 g) were dissolved in deionized distilled water (180 mL); the pH was adjusted to 7.0 with NaOH, the solution was made up to 200mL and then autoclaved before use. To use 20&#xD7;SSC, it was simply diluted with an appropriate amount of distilled/deionized water. 0.1M PBS (phosphate-buffered saline) was prepared as follow: NaCl (8 g), KCl (0.2 g), Na<sub>2</sub>HPO<sub>4</sub> (1.44 g) and KH<sub>2</sub>PO<sub>4</sub> (0.24 g) were dissolved deionized distilled water (800 mL); the pH was modified with HCl to 7.4, and the solution was made up to 1000 mL and autoclaved before use. All the arrays used in this research were scanned by using a ScanArray<sup>&#xAE;</sup> Lite instrument (Packard Biochip Technologies) in the Cy3 channel at 85% laser power, 80% PMT gain, 5 &#xB5;m resolution.</p>
+      </sec>
+      <sec>
+        <title>The layout of the ds-DNA microarray fabrication</title>
+        <p>The two methods used to fabricate ds-DNA array are described in <xref ref-type="fig" rid="molecules-10-00417-f005">Figure 5</xref>. For method one, we firstly chemically synthesized one special single-stranded oligonucleotide as control which contained two reverse self-complementary sequences at its 3&#x2019;end and an overhang sequence at its 5&#x2019; end, then spotted the single-stranded oligonucleotide on chemically derived glass surface by microarrayer. After the spotted single-stranded oligonucleotide was anchored on the glass surface by the 5&#x2019;end, two reverse self-complementary DNA sequences were annealed to form a short double-stranded hairpin structure with a free 3&#x2019; hydroxyl end. Finally, the free 3&#x2019; end hydroxyl of the hairpin structure was enzymatically extended on the template of the remaining single-stranded overhang sequence. For method two, we first spotted a single-stranded oligonucleotide which contained two restriction enzyme operation sites onto glass and then annealed it with its complementary oligonucleotide. Finally, we labeled all the probes by DNA polymerase with Cy3-dUTP.</p>
+        <fig id="molecules-10-00417-f005" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>Methods used to manufacture ds-DNA arrays. <bold>A</bold>: Oligo I could be self-hybridized at the hairpins and elongated as control; <bold>B:</bold> Oligo II was spotted onto glass through the 3&#x2019;-NH<sub>2</sub> and annealed with Oligo III to receive an elongation primer. The two probes were labeled by DNA polymerase with Cy3-dUTP.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00417-g005.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Preparation of oligonucleotides</title>
+        <p>Three kinds of special single-stranded oligonucleotides chemically synthesized by Shengyou Inc. (Shanghai, China) were used for manufacturing ds-DNA arrays (summarized in <xref ref-type="table" rid="molecules-10-00417-t005">Table 5</xref>). Oligo I which didn&#x2019;t contain any restriction enzymes sites was designed with two reverse self-complementary sequences at its 3&#x2019; end. Oligo II which linked with an &#x2013;NH<sub>2</sub> at the 3&#x2019; end was synthesized to contain both an Rsa I (5&#x2019;&#x2026;GTAC&#x2026;3&#x2019;) and an EcoR I (5&#x2019;&#x2026;GAATTC&#x2026;3&#x2019;) binding sites in the middle sequence. Oigo III was the part complementary sequence of Oligo II.</p>
+        <table-wrap id="molecules-10-00417-t005" position="float">
+          <object-id pub-id-type="pii">molecules-10-00417-t005_Table 5</object-id>
+          <label>Table 5</label>
+          <caption>
+            <p>Probe and primer sequences</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="left" valign="top">Name</th>
+                <th align="center" valign="top">Sequence</th>
+                <th align="center" valign="top">Length (nt)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top">Oligo I</td>
+                <td align="left" valign="top">5&#x2019;&#x2026;NH<sub>2</sub>-TTTTTTGTTGCATTTCCGGGTTTGGCAAGCTTTTAAGCTT&#x2026; 3&#x2019;</td>
+                <td align="center" valign="top">40</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Oligo II</td>
+                <td align="left" valign="top">3&#x2019;&#x2026;NH<sub>2</sub>-TTTTTCTCCCCTGAAAGGG<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00417-i001.tif"/>TATA<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00417-i002.tif"/>GCTTTTATTTATTAT&#x2026;5&#x2019;</td>
+                <td align="center" valign="top">44</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Oligo III</td>
+                <td align="left" valign="top">5&#x2019;&#x2026;GAG GGGACTTT CCC <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00417-i003.tif"/> ATAT<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00417-i004.tif"/>CG&#x2026;3&#x2019;</td>
+                <td align="center" valign="top">26</td>
+              </tr>
+            </tbody>
+          </table>
+		  <table-wrap-foot><fn><p>The blocked area indicates the endonuclease recognition site.</p></fn>
+        </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Preparation of single-stranded DNA (ssDNA) arrays</title>
+        <p>Aminosilane-derivatized glass slides were cleaned with deionized distilled water and incubated in 5% glutaraldehyde in 0.01 M PBS, pH 7.4, for 2 h. Then the slides were thoroughly washed twice with methanol, acetone and deionized distilled water, and dried. The 80 &#xB5;M Oligo I was spotted on the slides as a control by using an arrayer (Cartesian5500, Cartesian) and Oligo II at the 4 different concentrations (80 &#xB5;M, 40 &#xB5;M, 20 &#xB5;M, 10 &#xB5;M) was spotted on the same glass. After printing, the slides were incubated in a moist chamber at 37 &#xBA;C for at least 1 h and then in sodium borohydride solution (0.5 g NaBH<sub>4</sub> in 200 mL sterile water plus 4 mL 3 M sodium acetate, pH 5.2) for 30 min, then rinsed with 2&#xD7;SSC, 0.5% SDS for 10 min and sterile water for 10 min, dried and stored at 4 &#xBA;C.</p>
+      </sec>
+      <sec>
+        <title>Fabricating double-stranded DNA (ds-DNA) arrays</title>
+        <p>The slides were boiled for 10min and then Oligo III (25 &#xB5;L, added as an extension primer), which was dissolved in hybridization buffer (10&#xD7;SSC, 0.2% SDS, 50% formamide, 100&#xB5;g/mL sheared Salmon Sperm DNA) at a concentration of 100 nM was annealed with the immobilized Oligo II array in a moist incubation chamber at 55 &#xBA;C for 1 h, then the slides were rinsed with 2&#xD7;SSC, 0.5% SDS for 10 min and sterile water for 10 min and dried. After that, the 25 &#xB5;L elongation system included 1&#xD7;nick translation buffer, 4 &#xB5;M dATP, 4 &#xB5;M dCTP, 4 &#xB5;M dGTP, 4 &#xB5;M dTTP or 0.02 &#xB5;L Cy3-dUTP (Amersham Pharmacia Biotech, UK), 3U Klenow DNA polymerase I (Amersham Pharmacia Biotech, UK) was added onto the slides and the reaction was performed at 37 &#xBA;C for 1 h. Subsequently the slides were rinsed with 2&#xD7;SSC/0.5%SDS and deionized distilled water, and then dried.</p>
+      </sec>
+      <sec>
+        <title>Digested ds-DNA arrays with restriction enzymes</title>
+        <p>After the fabrication of the ds-DNA arrays, two slides of the ds-DNA arrays labeled with Cy3-dUTP were digested by endonuclease, respectively, one by Rsa I and another by EcoR I. The 20 &#xB5;L reaction systems were added onto the slides and the digestions were performed at 37 &#xBA;C. After every reaction, the arrays were rinsed sequentially with 2&#xD7;SSC/0.5%SDS, 0.2&#xD7;SSC/0.5%SDS and then deionized distilled water, and dried. All the arrays were first digested for 1 h, scanned, and then treated for another 12 h with the same endonuclease and scanned again. The fluorescence loss was detected with the ScanArray<sup>&#xAE;</sup>Lite under the same conditions. The Rsa I (1&#xD7;RE buffer, 2 &#xB5;g Acetylated BSA, 5U Restriction Rsa I Enzyme) and EcoR I (1&#xD7;RE buffer, 2 &#xB5;g Acetylated BSA, 5U Restriction EcoR I Enzyme) reaction systems were applied.</p>
+      </sec>
+      <sec>
+      <title>Digested ds-DNA arrays by EcoR I and Rsa I after the treatment of EcoR I methylase</title>
+      <p>Two ds-DNA arrays which had been labeled were treated with EcoR I methylase. The reaction system included 1&#xD7;reaction buffer, 80 &#xB5;M S-adenosylmethionine (SAM, 32 mM, 10% ethanol in 5 mM H<sub>2</sub>SO<sub>4</sub>), 0.2U/&#xB5;L EcoR I methylase and performed at 37 &#xBA;C for 1h. After the reaction, the arrays were rinsed successively with 2&#xD7;SSC/0.5%SDS, 0.2&#xD7;SSC/0.5%SDS, and deionized distilled water, and then dried. After the scanning, one array was digested by Rsa I and another by EcoR I for 12 h, and then the two slides were scanned under the same conditions.</p>
+      </sec>
+	</sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00417">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pabo</surname>
+              <given-names>C.O.</given-names>
+            </name>
+            <name>
+              <surname>Sauer</surname>
+              <given-names>R.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Transcription factors: structural families and principles of DNA recognition</article-title>
+          <source>Annu. Rev. Biochem.</source>
+          <year>1992</year>
+          <volume>61</volume>
+          <fpage>1053</fpage>
+          <lpage>1095</lpage>
+          <pub-id pub-id-type="pmid">1497306</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00417">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Craig</surname>
+              <given-names>N.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>The mechanism of conservative site-specific recombination</article-title>
+          <source>Annu. Rev. Genet.</source>
+          <year>1988</year>
+          <volume>22</volume>
+          <fpage>77</fpage>
+          <lpage>105</lpage>
+          <pub-id pub-id-type="pmid">3071260</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00417">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pingoud</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jeltsch</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recognition and cleavage of DNA by type-II restriction endonucleases</article-title>
+          <source>Eur. J. Biochem.</source>
+          <year>1997</year>
+          <volume>246</volume>
+          <fpage>1</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="pmid">9210460</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00417">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Margulies</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kaguni</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ordered and sequential binding of DNA protein to oriC, the chromosomal origin of Escherichia coli</article-title>
+          <source>J. Biol. Chem.</source>
+          <year>1996</year>
+          <volume>271</volume>
+          <fpage>17035</fpage>
+          <lpage>17040</lpage>
+          <pub-id pub-id-type="pmid">8663334</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00417">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brazil</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Getting stuck in DNA-binding drugs</article-title>
+          <source>Nature</source>
+          <year>2002</year>
+		  <volume>1</volume>
+          <fpage>9</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00417">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chaires</surname>
+              <given-names>J.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Drug-DNA interaction</article-title>
+          <source>Curr. Opin. Struct. Biol.</source>
+          <year>1998</year>
+		  <volume>8</volume>
+          <fpage>314</fpage>
+          <lpage>320</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0959-440X(98)80064-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00417">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jansen</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gronenborn</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Clore</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The binding of the cyclic AMP receptor protein to synthetic DNA sites containing permutations in the consensus sequence TGTGA</article-title>
+          <source>Biochem. J.</source>
+          <year>1987</year>
+          <volume>246</volume>
+          <fpage>227</fpage>
+          <lpage>232</lpage>
+          <pub-id pub-id-type="pmid">3675557</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00417">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruscher</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Reuter</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kupper</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Trendelenburg</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Dirnagl</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Meisel</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A fluorescence based non-radioactive electrophoretic mobility shift assay</article-title>
+          <edition>J. Biotech.</edition>
+          <year>2000</year>
+          <volume>78</volume>
+          <fpage>163</fpage>
+          <lpage>170</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00417">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Galas</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Schmitz</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>DNase footprinting: a simple method for the detection of protein-DNA binding specificity</article-title>
+          <source>Nucleic Acid Res.</source>
+          <year>1978</year>
+		  <volume>5</volume>
+          <fpage>3157</fpage>
+          <lpage>3170</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/5.9.3157</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00417">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lockhart</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Byrne</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Follettie</surname>
+              <given-names>M.T.</given-names>
+            </name>
+            <name>
+              <surname>Gallo</surname>
+              <given-names>M.V.</given-names>
+            </name>
+            <name>
+              <surname>Chee</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Mittmann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Horton</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>E.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Expression monitoring by hybridization to high-density oligonucleotide arrays</article-title>
+          <source>Nat. Biotechnol.</source>
+          <year>1996</year>
+		  <volume>14</volume>
+          <fpage>1675</fpage>
+          <lpage>1680</lpage>
+          <pub-id pub-id-type="doi">10.1038/nbt1296-1675</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00417">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roth</surname>
+              <given-names>F.P.</given-names>
+            </name>
+            <name>
+              <surname>Hughes</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Estep</surname>
+              <given-names>P.W.</given-names>
+            </name>
+            <name>
+              <surname>Church</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Finding DNA regulatory motifs within unaligned noncoding sequences clustered by whole-genome mRNA quantitation</article-title>
+          <source>Nat. Biotechnol.</source>
+          <year>1998</year>
+		  <volume>16</volume>
+          <fpage>939</fpage>
+          <lpage>945</lpage>
+          <pub-id pub-id-type="doi">10.1038/nbt1098-939</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00417">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schena</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Shalon</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>P.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantitative monitoring of gene expression patterns with a complementary DNA microarray</article-title>
+          <source>Science</source>
+          <year>1995</year>
+		  <volume>270</volume>
+          <fpage>467</fpage>
+          <lpage>470</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.270.5235.467</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00417">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hou</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Ji</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z.C.</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>J.X.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>N.Y.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>Z.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>A microarray to analyze methylation patterns of p16 ink4a gene 5&#x2019;-cpg islands</article-title>
+          <source>Clin. Biochem.</source>
+          <year>2003</year>
+		  <volume>36</volume>
+          <fpage>197</fpage>
+          <lpage>202</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0009-9120(02)00445-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00417">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bulyk</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Gentalen</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Lockhart</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Church</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantifying DNA-protein interactions by double-stranded DNA arrays</article-title>
+          <source>Nat. Biotechnol.</source>
+          <year>1999</year>
+		  <volume>17</volume>
+          <fpage>573</fpage>
+          <lpage>577</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00417">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Bai</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>T.X.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>Z.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>DNA microarrays with unimolecular hairpin double-stranded DNA probes: fabrication and exploration of sequence-specific DNA/protein interactions</article-title>
+          <source>J. Biochem. Bioph. Meth.</source>
+          <year>2003</year>
+          <volume>55</volume>
+          <fpage>215</fpage>
+          <lpage>232</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00417">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>T.X.</given-names>
+            </name>
+            <name>
+              <surname>Bai</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>Z.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fabricating Unimolecular Double-stranded DNA Microarray on solid surface for probing DNA-protein Interactions</article-title>
+          <source>Molecules</source>
+          <year>2003</year>
+          <volume>8</volume>
+          <fpage>153</fpage>
+          <lpage>168</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00417">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>T.X.</given-names>
+            </name>
+            <name>
+              <surname>Bai</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>Z.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluating the binding affinities of NF-kB P50 homodimer to the wild-type and single-nucleotide mutant Ig-kB sites by the unimolecular ds-DNA microarray</article-title>
+          <source>Anal. Biochem.</source>
+          <year>2003</year>
+          <volume>316</volume>
+          <fpage>192</fpage>
+          <lpage>201</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00417">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+		    <name>
+              <surname>Naito</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kusano</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Selfish behavior of restriction-modification systems</article-title>
+          <source>Science</source>
+          <year>1995</year>
+          <volume>267</volume>
+          <fpage>897</fpage>
+          <lpage>899</lpage>
+          <pub-id pub-id-type="pmid">7846533</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00417">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Polisky</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Greene</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Garfin</surname>
+              <given-names>D.E.</given-names>
+            </name>
+            <name>
+              <surname>McCarthy</surname>
+              <given-names>B.J.</given-names>
+            </name>
+            <name>
+              <surname>Goodman</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Boyer</surname>
+              <given-names>H.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Specificity of substrate recognition by the EcoRI restriction endonuclease</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>1975</year>
+          <volume>72</volume>
+          <fpage>3310</fpage>
+          <lpage>3314</lpage>
+          <pub-id pub-id-type="pmid">242001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00417">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thielking</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Alves</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Fliess</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Maass</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Pingoud</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Accuracy of the EcoRI restriction endonuclease: binding and cleavage studies with oligodeoxynucleotide substrates containing degenerate recognition sequences</article-title>
+          <source>Biochem.</source>
+          <year>1990</year>
+          <volume>29</volume>
+          <fpage>4682</fpage>
+          <lpage>4691</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00417">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lesser</surname>
+              <given-names>D.R.</given-names>
+            </name>
+            <name>
+              <surname>Kurpiewski</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Jen-Jacobson</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>The energetic basis of specificity in the EcoRI endonuclease&#x2013;DNA interaction</article-title>
+          <source>Science</source>
+          <year>1990</year>
+          <volume>250</volume>
+          <fpage>776</fpage>
+          <lpage>786</lpage>
+          <pub-id pub-id-type="pmid">2237428</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00417">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McClarin</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Frederick</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>B.C.</given-names>
+            </name>
+            <name>
+              <surname>Greene</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Boyer</surname>
+              <given-names>H.W.</given-names>
+            </name>
+            <name>
+              <surname>Grable</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Rosenberg</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure of the DNA&#x2013;EcoR I endonuclease recognition complex at 3 &#x1FA; resolution</article-title>
+          <source>Science</source>
+          <year>1986</year>
+          <volume>234</volume>
+          <fpage>1526</fpage>
+          <lpage>1540</lpage>
+          <pub-id pub-id-type="pmid">3024321</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00417">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rubin</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Modrich</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>EcoR I Methylase: Physical and catalytic properties of the homogeneous enzyme</article-title>
+          <source>J. Biol. Chem.</source>
+          <year>1977</year>
+          <volume>252</volume>
+          <fpage>7265</fpage>
+          <lpage>7272</lpage>
+          <pub-id pub-id-type="pmid">332688</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

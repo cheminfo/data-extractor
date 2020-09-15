@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xml:lang="en" article-type="editorial" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10060585</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00585</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Editorial</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Special Issue: Synthesis and Chemistry of Chiral Metallocenes</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vassylyev</surname>
+            <given-names>Oleksiy</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00585">Department of Chemical and Biochemical Engineering, Rutgers University, Piscataway, NJ 08854-8058, USA. Tel. +1 (732)-445-4943, Fax: +1 (732)-445-2581</aff>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <fpage>585</fpage>
+      <lpage>586</lpage>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <p>Metallocenes are an important and well-known class of organometallic compounds, which were first discovered by Kealy and Paulson in 1951. Presently, the term is used to describe a wide variety of metal complexes, including those with altered structures such as substituted cyclopentadienyl rings, bridging atoms, or indenyl ligands [<xref ref-type="bibr" rid="B1-molecules-10-00585">1</xref>]. The rich chemistry exhibited by metallocenes is due to the variation in the number of electrons in the valence shell of the transition metals. Neutral metallocene complexes to the left of iron in the periodic table are electron deficient. These compounds, such as bis(cyclopentadienyl)titanium and bis(cyclopentadienyl)molybdenum, often have dimeric or polymeric structures and undergo reactions in which additional ligands such as carbon monoxide or halogens are added to the coordination sphere. Complexes to the right of iron are rich in electrons and their chemistry is dominated by reactions that lead to a net loss of electrons in the coordination sphere of the transition metal. </p>
+    <p>Metallocenes have a diverse spectrum of applications; the majority are used as catalysts and catalyst precursors. Chiral metallocene catalysts are strongly asymmetric, which reduces the number of possible isomeric catalyst-substrate complexes, thus leading to good stereocontrol. In addition, restricting the conformational flexibility by additional substituents or bridges increases this effect and therefore the enantioselectivity. Different types of stereoselective reactions (for example, hydrogenations of olefins, ketones and imines [<xref ref-type="bibr" rid="B2-molecules-10-00585">2</xref>], or Ziegler-Natta type polymerization [<xref ref-type="bibr" rid="B3-molecules-10-00585">3</xref>]) can be catalyzed by chiral metallocenes. Among numerous known catalysts for these reactions, metallocenes represent one of the most promising groups. Nowadays, an increasing number of researchers focus their studies on immobilization of metallocenes on solid support due to numerous advantages that heterogeneous metallocene catalysts offer in comparison to homogeneous ones.</p>
+    <p>The importance of metallocenes is not limited to their role in catalysis: they also find applications in organic synthesis and the manufacture of new materials. Some metallocene derivatives possess mesogenic properties. Metallocenium radicals are fundamental building blocks in ferromagnetic materials and precursors for charge transfer complexes. Metallocene-based compounds often display unexpected biological activity that resulted in their wide application in pharmacy (manufacture of anticancer and antimalarial drugs, and radiopharmaceutical agents), biochemistry (biosensors for DNA detection), etc. [<xref ref-type="bibr" rid="B4-molecules-10-00585">4</xref>]. In the last ten years, the annual number of publications devoted to metallocenes has increased by almost three-fold and exceeded two thousand papers and patents. This special issue presents selected reviews and research papers on some current topics of metallocene chemistry.</p>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00585">
+        <label>1.</label>
+        <citation citation-type="book">
+          <source>Metallocenes: Synthesis - Reactivity &#x2013; Applications</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Togni</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Halterman</surname>
+              <given-names>R. L.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>New York, USA</publisher-loc>
+          <year>2000</year>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00585">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ohkuma</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kitamura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Noyori</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Asymmetric hydrogenation</article-title>
+          <source>Catalytic Asymmetric Synthesis</source>
+		  <edition>(2nd Ed.)</edition>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Ojima</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>New York, USA</publisher-loc>
+          <year>2000</year>
+          <fpage>1</fpage>
+          <lpage>110</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00585">
+        <label>3.</label>
+        <citation citation-type="book">
+          <source>Metallocene Catalyzed Polymers</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Benedikt</surname>
+              <given-names>G. M.</given-names>
+            </name>
+            <name>
+              <surname>Goodall</surname>
+              <given-names>B. L.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>BF Goodrich</publisher-name>
+          <publisher-loc>Brecksville, USA</publisher-loc>
+          <year>1998</year>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00585">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dombrowski</surname>
+              <given-names>K. E.</given-names>
+            </name>
+            <name>
+              <surname>Baldwin</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Sheats</surname>
+              <given-names>J. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Metallocenes in biochemistry, microbiology &amp; medicine</article-title>
+          <source>J. Organomet. Chem.</source>
+          <year>1986</year>
+          <volume>302</volume>
+          <fpage>281</fpage>
+          <lpage>306</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
