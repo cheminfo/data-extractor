@@ -1,5 +1,5 @@
 import { myModule } from '../src';
 
-let result = myModule();
+let result = getFiles(homedir);
 
 console.log(result);
