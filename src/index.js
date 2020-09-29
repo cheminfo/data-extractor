@@ -1,9 +1,12 @@
 import { readFileSync, readdir } from 'fs';
 import { join } from 'path';
+
+import { recursiveReaddirSync } from 'recursive-readdir-sync';
+
 import { checkProduct } from './checkProduct';
 import { enhanceProduct } from './enhanceProduct';
 import { getJSONFromXML } from './getJSONFromXML';
-import { getXMLFiles } from './getXMLfiles';
+import { getXMLFiles } from './getXMLFiles';
 
 export function myModule() {
   const basedir = join(__dirname, '../data');

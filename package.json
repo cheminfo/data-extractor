@@ -53,6 +53,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "path": "^0.12.7",
+    "recursive-readdir-sync": "^1.0.6",
     "xml-js": "^1.6.11"
   }
 }

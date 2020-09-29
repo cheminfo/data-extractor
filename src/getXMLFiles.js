@@ -1,5 +1,6 @@
+var recursiveReadSync = require('recursive-readdir-sync');
+
 export function getXMLFiles(homedir) {
-  const files = [];
-  // recursive search for xml
-  return FileList;
+  const files = recursiveReadSync(homedir);
+  return files;
 }
