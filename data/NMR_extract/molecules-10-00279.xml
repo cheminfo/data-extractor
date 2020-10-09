@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010279</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00279</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Chemical and Photochemical Synthesis of Substituted Dihydro-thieno[2',3':4,5]thieno[2,3-c]quinolin-6-ones and Tetrahydro-dithieno[2,3-b:2',3'-d]thieno[2'',3''c:2'',3''c&#x2019;]diquinolin-6,14-dione</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>&#x160;afarik</surname>
+            <given-names>Jelena Bla&#x17E;evi&#x107;</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koru&#x17E;njak</surname>
+            <given-names>Jasna Dogan</given-names>
+          </name>
+          <xref rid="fn1-molecules-10-00279" ref-type="fn">&#x2020;</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Karminski-Zamola</surname>
+            <given-names>Grace</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00279" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+	  <aff id="af1-molecules-10-00279">Department of Organic Chemistry, Faculty of Chemical Engineering and Technology, University of Zagreb, Maruli&#x107;ev trg 20, 10000 Zagreb, Croatia</aff>
+      <author-notes>
+        <fn id="fn1-molecules-10-00279">
+          <label>&#x2020;</label>
+          <p>Present address: PLIVA - Research and Development Ltd., Prilaz baruna Filipovi&#x107;a 29, 10000, Zagreb, Croatia</p>
+        </fn>
+        <corresp id="c1-molecules-10-00279"><label>*</label> Author to whom the correspondence should be addressed; e-mail: <email>gzamola@fkit.hr</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>279</fpage>
+      <lpage>288</lpage>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>09</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>02</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Some new substituted dihydrothieno[2',3':4,5]thieno[2,3-c]quinolin-6-ones <bold>9-12</bold> and tetrahydrodithieno[2,3-b: 2',3'-d]thieno[2'',3''-c:2'',3''-c&#x2019;]diquinolin-6,14-dione (<bold>17</bold>) were prepared from the corresponding new anilides <bold>5</bold>-<bold>8</bold> and from the corresponding dianilide <bold>15</bold>, respectively, by a multistep combination of chemical and photochemical reactions. All the prepared compounds are of particular interest because they might serve as DNA intercalators in anticancer therapy.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Substituted dihydrothieno[2',3':4,5]thieno[2,3-c]quinolin-6-ones</kwd>
+        <kwd>Tetra- hydrodithieno[2,3-b:2',3'-d]thieno[2'',3''c:2'',3''c&#x2019;]diquinolin-6,14-dione</kwd>
+        <kwd>Synthesis</kwd>
+        <kwd>Photo-chemical synthesis</kwd>
+        <kwd>DNA Intercalators</kwd>
+        <kwd>Anticancer therapy</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>There are only a few recent literature reports which describe thieno[3,2-b]- and thieno[3,4-b]-thiophenes with different features [<xref ref-type="bibr" rid="B1-molecules-10-00279">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00279">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00279">3</xref>] and applications [<xref ref-type="bibr" rid="B4-molecules-10-00279">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00279">5</xref>]. Synthesis of a new class of cofacially oriented neutral donor-acceptor thienothiophenes to probe the presence of through-space charge transfer interaction has been described [<xref ref-type="bibr" rid="B6-molecules-10-00279">6</xref>]. Synthesis of some polyfused thienoheterocycles e.g.: thienopyrimidine, thienotriazine, thienoimidazotriazine, etc. [<xref ref-type="bibr" rid="B7-molecules-10-00279">7</xref>] and new bis-(p-fluorophenyl)amides of thieno[3,2-b]-thiophene, thieno[3,2-b]furan and 1,2-bis(5-[2-(2-thienyl)ethenyl]2-thienyl)ethane are also described [<xref ref-type="bibr" rid="B8-molecules-10-00279">8</xref>]. The new thienothiophene group was reported recently [<xref ref-type="bibr" rid="B9-molecules-10-00279">9</xref>]. Occasionally thienothiophenes have been prepared from monobromo, dibromo or tribromo substituted thiophenes [<xref ref-type="bibr" rid="B10-molecules-10-00279">10</xref>], 3,6-dimethyl-substituted thieno[3,2-b]thiophenes, prepared as monomers in the polymerization process [<xref ref-type="bibr" rid="B11-molecules-10-00279">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00279">12</xref>] or thieno[3,2-b]thiophenes, which are synthesized starting from phthalimidosulfenyl chloride via reaction with diaryl (or heteroaryl) acetylenes [<xref ref-type="bibr" rid="B13-molecules-10-00279">13</xref>] or as the intermediates in the synthesis of heteroarenes which are isoelectric with perylene [<xref ref-type="bibr" rid="B14-molecules-10-00279">14</xref>]. Various thieno[3,2-c]-anellated 1,2-dithiins have been prepared from appropriate thiophene precursors [<xref ref-type="bibr" rid="B15-molecules-10-00279">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00279">16</xref>]. On the other hand, there is a lot of patent literature which describes the synthesis of thiophene 3,4-carboxamide derivatives and their application as useful and active dopamine receptor blockers [<xref ref-type="bibr" rid="B17-molecules-10-00279">17</xref>], or useful herbicides [<xref ref-type="bibr" rid="B18-molecules-10-00279">18</xref>]. Some substituted benzo[b]thiophenecarboxamides are used as inhibitors of neutrophil-endothelial cell adhesion [<xref ref-type="bibr" rid="B19-molecules-10-00279">19</xref>]. Finally, the synthesis of tricyclic thiophenes using transition-metal or palladium catalyzed cyclization [<xref ref-type="bibr" rid="B20-molecules-10-00279">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00279">21</xref>] was described recently, as were their applications as radical cations [<xref ref-type="bibr" rid="B22-molecules-10-00279">22</xref>] or in photochemical polymerization processes [<xref ref-type="bibr" rid="B23-molecules-10-00279">23</xref>,<xref ref-type="bibr" rid="B24-molecules-10-00279">24</xref>].</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>In our previous papers we have described the synthesis of some dianilides of the benzo[b]-thiophene, thieno[2,3-b]thiophene, benzo[1,2-b:4,5-b'] dithiophene and dithieno[3,2-b:2',3'-d]-thiophene series and their photochemical reactions, which led to the corresponding quinolones [<xref ref-type="bibr" rid="B25-molecules-10-00279">25</xref>,<xref ref-type="bibr" rid="B26-molecules-10-00279">26</xref>,<xref ref-type="bibr" rid="B27-molecules-10-00279">27</xref>]. Recently, we also reported the synthesis of new thieno[2,3-b]thienylquinolones and their antitumor activity [<xref ref-type="bibr" rid="B28-molecules-10-00279">28</xref>].</p>
+      <p>In this paper we describe the preparation of some new substituted dihydrothieno[2',3':4,5]thieno-[2,3-c]quinolin-6-ones <bold>9</bold>-<bold>12</bold> and of tetrahydrodithieno[2,3-b:2',3'-d]thieno-[2'',3''-c:2'',3''-c']diquinolin-6,14-dione (<bold>17</bold>) by multistep syntheses starting from the corresponding bromo substituted 2-thienylacrylic acids <bold>1</bold> and <bold>2</bold> prepared earlier [<xref ref-type="bibr" rid="B29-molecules-10-00279">29</xref>,<xref ref-type="bibr" rid="B30-molecules-10-00279">30</xref>] (<xref ref-type="scheme" rid="molecules-10-00279-f001">Scheme 1</xref>). Cyclization of <bold>1</bold> and <bold>2</bold> by the known method [<xref ref-type="bibr" rid="B26-molecules-10-00279">26</xref>,<xref ref-type="bibr" rid="B31-molecules-10-00279">31</xref>,<xref ref-type="bibr" rid="B32-molecules-10-00279">32</xref>] using thionyl chloride and a catalytic amount of pyridine, gave substituted 3-chlorothieno[3,2-b]thiophene-2-carbonyl chlorides <bold>3</bold> and <bold>4</bold>, respectively The yields varied from 40-56%. By refluxing chlorides <bold>3</bold> and <bold>4</bold> with <italic>p</italic>-bromoaniline or <italic>p</italic>-aminobenzonitrile in toluene the corresponding substituted 3-chlorothieno[3,2-<italic>b</italic>]thiophene-2-carboxanilides <bold>5</bold>-<bold>8</bold> were obtained. All the prepared anilides <bold>5</bold>-<bold>8</bold> were converted by the photochemical dehydrohalogenation reaction into the corresponding disubstituted quinolones <bold>9</bold>-<bold>12</bold> [<xref ref-type="bibr" rid="B26-molecules-10-00279">26</xref>,<xref ref-type="bibr" rid="B28-molecules-10-00279">28</xref>]. On the other hand, the Heck reaction of compound <bold>2</bold> gave 3-(2,4-thienylene)diacrylic acid (<bold>13,</bold> [<xref ref-type="bibr" rid="B28-molecules-10-00279">28</xref>,<xref ref-type="bibr" rid="B33-molecules-10-00279">33</xref>]), which was cyclized with thionyl chloride and a catalytic amount of pyridine, by the known method [<xref ref-type="bibr" rid="B26-molecules-10-00279">26</xref>,<xref ref-type="bibr" rid="B27-molecules-10-00279">27</xref>,<xref ref-type="bibr" rid="B34-molecules-10-00279">34</xref>], into dichloride <bold>14</bold>. Refluxing of dichloride <bold>14</bold> with <italic>p</italic>-bromoaniline or <italic>p</italic>-aminobenzonitrile in toluene afforded the corresponding 3,6-dichlorodithieno-[3,2-b:2,3-<italic>b</italic>&#x2019;]thiophene-2,5-carboxanilides <bold>15</bold> and <bold>16</bold>. Dianilide <bold>15</bold> was converted by the double photochemical dehydrohalogenation reaction into the diquinolone <bold>17</bold>. Dianilide <bold>16</bold> proved quite insoluble in the usual organic solvents and the photochemical reaction was not carried out.</p>
+      <fig id="molecules-10-00279-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00279-f001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00279-g001.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Melting points were determined on a Kofler hot stage microscope and are uncorrected. IR spectra were recorded on a Nicolet Magna 760 spectrophotometer between KBr plates. UV spectra were recorded on either a Perkin-Elmer 124 or a Hewlett-Packard 8452A spectrophotometer in methanol or ethanol. <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were recorded on either a Varian Gemini 300 or a Bruker Avance DPX 300 spectrometer in DMSO-d<sub>6</sub>. Chemical shifts (&#x3B4;) are reported in part per million (ppm) relative to TMS as an internal standard, and coupling constants (<italic>J</italic>) are given in hertz (Hz).  Mass spectra were recorded on either a Varian-MAT 311A (Electron Impact and Fast Atom Bombardment) or a Micromass Platform LCZ (Electrospray). Elemental analysis for carbon, hydrogen and nitrogen were performed on a Perkin-Elmer 2400 elemental analyzer. Where analyses are indicated only as symbols of elements, analytical results obtained are within 0.4% of the theoretical value. Irradiation was performed at room temperature with a water cooled immersion well fitted with a 400 W high pressure mercury arc lamp using Pyrex filters. All compounds were routinely checked by TLC with Merck silica gel 60F-254 glass plates or Merck aluminium oxide plates.</p>
+      </sec>
+      <sec>
+        <title>5-Bromo-3-chlorothieno[3,2-b]thiophene-2-carbonyl chloride (<italic><bold>3</bold></italic>).</title>
+        <p>A solution of acid <bold>1</bold> (5.2 g, 22 mmol), thionyl chloride (8.2 mL, 114 mmol) and pyridine (0.2 mL) was heated at 120&#xB0;C for 72 h. The excess thionyl chloride was removed under reduced pressure and the residue extracted with boiling cyclohexane. After cooling, the precipitated yellow crystals were filtered off to give <bold>3</bold> (6.2 g, 87%); the crude product was used directly in the next step [<xref ref-type="bibr" rid="B32-molecules-10-00279">32</xref>].</p>
+      </sec>
+      <sec>
+        <title>6-Bromo-3,5-dichlorothieno[3,2-b]thiophene-2-carbonyl chloride (<italic><bold>4</bold></italic>).</title>
+        <p>Compound <bold>4</bold> was prepared on the same way as <bold>3</bold> from compound <bold>2</bold> (5.0 g, 21 mmol), thionyl chloride (8.0 mL, 107 mmol) and pyridine (0.17 mL). The yield of the crude product which was used directly in the next step of the reaction was 5.2 g (69.6%); IR (cm<sup>-1</sup>): 1740 (COCl).</p>
+      </sec>
+      <sec>
+        <title>5-Bromo-N-(p-bromophenyl)-3-chlorothieno[3,2-b]thiophene-2-carboxamide (<italic><bold>5</bold></italic>).</title>
+        <p>To a suspension of <bold>3</bold> (3.0 g, 9.5 mmol), in toluene (100 mL) was added dropwise a solution of <italic>p</italic>-bromoaniline (3.5 g, 20 mmol) in toluene (50 mL). The reaction mixture was refluxed with stirring for 1.5 h. After cooling, the crystals were filtered off, washed with dilute HCl (1:1), water and hot methanol. The crystals were then recrystallized from chloroform. Compound <bold>5</bold> was thus obtained as white crystals (2.2 g, 52.1%), mp 115-118<sup>o</sup>C; IR (cm<sup>-1</sup>): 3350 (NH), 1640 (CONH); <sup>1</sup>H-NMR: 10.57 (s, 1H, NH), 7.67 (d, <italic>J</italic>=8.79 Hz, 2H, H arom.), 7.65 (s, 1H, H thioph.), 7.58 (d, <italic>J</italic>=8.79 Hz, 2H, H arom.); <sup>13</sup>C-NMR: 158.27, 137.71, 137.50, 133.40, 132.73, 131.95, 130.61, 122.52, 116.54, 105.09, 98.74; Anal. Calcd. for C<sub>13</sub>H<sub>6</sub>Br<sub>2</sub>ClNOS<sub>2</sub>: C, 34.57; H, 1.43. Found: C, 34.30; H, 1.55.</p>
+      </sec>
+      <sec>
+        <title>5-Bromo-N-(p-cyanophenyl)-3-chlorothieno[3,2-b]thiophene-2-carboxamide (<italic><bold>6</bold></italic>).</title>
+        <p>Compound <bold>6</bold> was prepared the same way as <bold>5</bold> from compound <bold>3</bold> (3.0 g, 9.5 mmol) in toluene (60 mL) and <italic>p</italic>-aminobenzonitrile (3.0 g, 30 mmol) in toluene (40 mL), to afford 0.5 g (13.2%) of yellow-green crystals, mp 256-260<sup>o</sup>C; IR (cm<sup>-1</sup>): 3350 (NH), 3400 (NH), 2200 (CN), 1640 (CONH); <sup>1</sup>H-NMR: 10.88 (s, 1H, NH), 7.91 (s, 1H, H thioph.), 7.67 (d, <italic>J</italic>=8.79 Hz, 2H, H arom.), 7.58 (d <italic>J</italic>=8.79Hz, 2H, H arom.); <sup>13</sup>C-NMR: 158.79, 156.61, 142.62, 140.92, 133.40, 132.65, 132.19, 130.96, 120.61, 119.15, 113.65, 106.49, 105.49; Anal. Calcd. for C<sub>14</sub>H<sub>6</sub>Br<sub>2</sub>ClN<sub>2</sub>OS<sub>2</sub>: C, 42.28; H, 1.52. Found: C, 42.35; H, 1.50.</p>
+      </sec>
+      <sec>
+        <title>6-Bromo- N-(p-bromophenyl)-3,5-dichlorothieno[3,2-b]thiophene-2-carboxamide (<italic><bold>7</bold></italic>).</title>
+        <p>Compound <bold>7</bold> was prepared on the same way as <bold>5</bold> from compound <bold>4</bold> (4.0 g, 11 mmol) in toluene (100 mL) and <italic>p</italic>-bromoaniline (2.5 g, 15 mmol) in toluene (50 mL) to give 0.78 g, (14.5%) of white crystals, mp 217-220<sup>o</sup>C; IR (cm<sup>-1</sup>): 3380 (NH), 1650 (CONH); <sup>1</sup>H-NMR: 10.56 (s, 1H, NH), 7.68 (d, J=8.78 Hz, 2H, H-arom.), 7,58 (d J=9.09 Hz, 2H, H-arom.); <sup>13</sup>C-NMR: 157.90, 144.08, 137.26, 133.40, 132.68, 132.50, 131.45, 122.46, 116.26, 112.86, 104.39; Anal. Calcd. for C<sub>13</sub>H<sub>5</sub>Br<sub>2</sub>Cl<sub>2</sub>NOS<sub>2</sub>: C, 32.13; H, 1.04. Found: C, 32.13; H, 0.96.</p>
+      </sec>
+      <sec>
+        <title>6-Bromo-N-(p-cyanophenyl)-3,5-dichlorothieno[3,2-b]thiophene-2-carboxamide (<italic><bold>8</bold></italic>).</title>
+        <p>Compound <bold>8</bold> was prepared in the same way as <bold>5</bold> from compound <bold>4</bold> (4.0 g, 11 mmol) in toluene (100 mL) and <italic>p</italic>-aminobenzonitrile (2.2 g, 18 mmol) in toluene (50 mL). The precipitate was washed with hot chloroform and recrystallized from DMF to give 1.7 g (34.8%) of dark yellow crystals, mp 283-284<sup>o</sup>C; IR (cm<sup>-1</sup>): 3350 (NH), 3400 (NH), 2200 (CN), 1660 (CONH); <sup>1</sup>H-NMR: 10.89 (s, 1H, NH), 7.89 (s, 4H, H-arom); <sup>13</sup>C-NMR: 161.88, 158.04, 148.32, 141.83, 133.08, 132.59, 131.99, 130.42, 120.44, 118.06, 106.42, 104.03; Anal. Calcd. for C<sub>14</sub>H<sub>5</sub>Br<sub>2</sub>Cl<sub>2</sub>N<sub>2</sub>OS<sub>2</sub>: C, 38.91; H, 1.17. Found: C, 39.09; H, 1.25.</p>
+      </sec>
+      <sec>
+        <title>2,9-Dibromo-5,6-dihydrothieno[2&#x2019;,3&#x2019;: 4,5]thieno[2,3-c]quinolin-6-one (<italic><bold>9</bold></italic>).</title>
+        <p>A solution of anilide <bold>5</bold> (1.0 g, 2 mmol) in the mixture of toluene (600 mL) and methanol (60 mL)  containing a few drops of triethylamine was irradiated with a 400 W high pressure mercury arc lamp at room temperature for 4 h using a Pyrex filter. During the irradiation air was bubbled through the solution. The precipitated yellow crystals were filtered off to give 0.3 g (29.2%) of product, mp &gt; 300<sup>o</sup>C; IR (cm<sup>-1</sup>): 3350 (NH), 1640 (CONH); <sup>1</sup>H-NMR: 12.38 (s, 1H, NH), 8.18 (s, 1H, H thioph.) 7.85-7.42 (m, 3H, H arom.); Anal. Calcd. for C<sub>13</sub>H<sub>5</sub>Br<sub>2</sub>NOS<sub>2</sub>: C, 37.61; H, 1.21. Found: C, 37.50; H, 1.23.</p>
+      </sec>
+      <sec>
+        <title>2-Cyano-9-bromo-5,6-dihydrothieno[2&#x2019;,3&#x2019;: 4,5]thieno[2,3-c]quinolin-6-one (<italic><bold>10</bold></italic>).</title>
+        <p>A solution of anilide <bold>6</bold> (0.12 g, 0.3 mmol) in toluene (500 mL) containing a few drops of triethylamine was irradiated for 1 h as described for <bold>9</bold>. After evaporation of the solvent 0.01 g (9.4%) of dark yellow crystals were obtained, mp &gt; 300<sup>o</sup>C; IR (cm<sup>-1</sup>): 3400 (NH), 2200 (CN), 1660 (CONH); <sup>1</sup>H-NMR: 12.66 (s, 1H, NH), 8.41-7.65 (m, 3H, H arom.). Anal. Calcd. for C<sub>14</sub>H<sub>5</sub>BrN<sub>2</sub>OS<sub>2</sub>: C, 46.54; H, 1.39. Found: C, 46.47; H, 1.13.</p>
+      </sec>
+      <sec>
+        <title>2,8-Dibromo-5,6-dihydro-9-chlorothieno[2&#x2019;,3&#x2019;: 4,5]thieno[2,3-c]quinolin-6-one (<italic><bold>11</bold></italic>).</title>
+        <p>A solution of anilide <bold>7</bold> (0.5 g, 0.3 mmol) in toluene (450 mL) containing a few drops of triethylamine was irradiated for 3 h as described for <bold>9</bold>. The precipitated crystals were filtered off and washed with ether to afford 0.14 g (29.8%) of white crystals, mp &gt; 300<sup>o</sup>C; IR (cm<sup>-1</sup>): 1665 (CONH); <sup>1</sup>H-NMR: 12.37 (s, 1H, NH), 7.79-7.46 (m, 3H, H arom.); Anal. Calcd. for C<sub>13</sub>H<sub>4</sub>Br<sub>2</sub>ClNOS<sub>2</sub>: C, 34.73; H, 0.89. Found: C, 34.95; H, 1.13.</p>
+      </sec>
+      <sec>
+        <title>2-Cyano-8-bromo-5,6-dihydro-9-chlorothieno[2&#x2019;,3&#x2019;:4,5]thieno[2,3-c]quinolin-6-one (<italic><bold>12</bold></italic>).</title>
+        <p>A solution of anilide <bold>8</bold> (0.8 g, 2 mmol) in a mixture of toluene (1800mL) and methanol (180 mL)  plus a few drops of triethylamine was irradiated for 4 h as described for <bold>9</bold>. After evaporation of the solvent and washing the precipitate with ethanol 0.4 g (55.6%) of a dark yellow powder was obtained, mp &gt; 300<sup>o</sup>C; IR (cm<sup>-1</sup>): 2210 (CN), 1660 (CONH); <sup>1</sup>H-NMR: 13.39 (s, 1H, NH), 8.23-7.66 (m, 3H, H arom.); Anal. Calcd. for C<sub>14</sub>H<sub>4</sub>BrClNOS<sub>2</sub>: C, 42.49; H, 1.02.  Found: C, 42.53; H, 1.23.</p>
+      </sec>
+      <sec>
+        <title>2,4-Thienylenediacrylic acid (<italic><bold>13</bold></italic>).</title>
+        <p>A mixture of 3-(4-bromo-2-thienyl)acrylic acid (<bold>2</bold>, 2.7 g, 10 mmol), cyclohexylammonium acrylate (10.74 g, 60 mmol), palladium(II)acetate (0.054 g), triphenylphosphine (0.180 g), triethylamine (18 mL) and acetonitrile (35 mL) was sealed in a glass tube and heated at 120&#xB0;C for 20 h. After evaporation of the solvent under reduced pressure, the residue was dissolved in water and boiled with charcoal. After filtration, the filtrate was acidified with dilute HCl (1:1). The resulting precipitate was filtered off and recrystallized from acetic acid to give <bold>13</bold> (1.14 g, 43.5 %) as yellow crystals, mp 232-235<sup>o</sup>C (lit. [<xref ref-type="bibr" rid="B30-molecules-10-00279">30</xref>] 232-235<sup>o</sup>C).</p>
+      </sec>
+      <sec>
+        <title>3,6-Dichlorodithieno[2,3-b:2&#x2019;,3&#x2019;,-d]thiophene-2,5-dicarbonylchloride (<italic><bold>14</bold></italic>).</title>
+        <p>Compound <bold>14</bold> was prepared in the same way as <bold>3</bold> from <bold>13</bold> (1.9 g, 8.0 mmol), thionyl chloride (27 mL, 383 mmol) and pyridine (0.2 mL). The yield of crude product was 2.5 g (75.2%) and this material was used directly in the next step of the reaction [<xref ref-type="bibr" rid="B34-molecules-10-00279">34</xref>].</p>
+      </sec>
+      <sec>
+        <title>N,N&#x2019;-di(p-bromophenyl)-3,6-dichlorothieno[2,3-b:2&#x2019;,3&#x2019;-d]thiophene-2,5-dicarboxamide (<italic><bold>15</bold></italic>).</title>
+        <p>Compound <bold>15</bold> was prepared from <bold>14</bold> (2.5 g, 6.0 mmol) suspended in chloroform (60 mL) and <italic>p</italic>-bromoaniline (2.3 g, 0.013 mmol) in chloroform (40 mL) as described for the preparation of <bold>5</bold>. After refluxing the reaction mixture for 1.5 h and cooling, 0.5 g (12.9%) of the title compound were obtained as white crystals that were recrystallized from DMF, mp &gt;300<sup>o</sup>C; IR (cm<sup>-1</sup>): 3400 (NH), 1665 (CONH); <sup>1</sup>H-NMR: 10.45 (s, 2H, NH), 7.69 (d, <italic>J</italic>=8.85 Hz, 4H, H arom.), 7.58 (d <italic>J</italic>=8.84 Hz, 4H, H arom.); <sup>13</sup>C-NMR: 158.10, 157.97, 147.75, 143.94, 141.75, 141.00, 137.94, 137.17, 137.11, 135.64, 134.96, 131.17, 131.17, 131.17, 131.17, 128.37, 122.37, 122.37, 122.37, 122.37, 118.18, 116.01; Anal. Calcd. for C<sub>22</sub>H<sub>10</sub>Br<sub>2</sub>Cl<sub>2</sub>N<sub>2</sub>O<sub>2</sub>S<sub>3</sub>: C, 39.96; H, 1.52. Found: C, 40.13; H, 1.58.</p>
+      </sec>
+      <sec>
+        <title>N,N&#x2019;-di(p-cyanophenyl)-3,6-dichlorothieno[2,3-b:2&#x2019;,3&#x2019;-d]thiophene-2,5-dicarboxamide (<italic><bold>16</bold></italic>).</title>
+        <p>Compound <bold>16</bold> was prepared on the same way as <bold>15</bold> from <bold>14</bold> (0.9 g, 2.0 mmol) in chloroform (22 mL) and <italic>p</italic>-aminobenzonitrile (0.8 g, 7.0 mmol) in chloroform (40 mL). After refluxing the reaction mixture for 1.5 h and cooling, 0.5 g (35.3%) of white crystals, recrystallized from DMF, were obtained mp &gt;300<sup>o</sup>C; IR (cm<sup>-1</sup>): 3480 (NH), 2200 (CN), 1660 (CONH); <sup>1</sup>H-NMR: 10.79 (s, 1H, NH), 10.78 (s, 1H, NH), 7.88-7.58 (m, 8H, H-arom.); <sup>13</sup>C-NMR: 159.09, 159.09, 143.29, 142.71, 142.62, 141.77, 134.85, 134.85, 133.57, 132.19, 132.19, 132.19, 132.19, 131.09, 128.81, 120.56, 120.56, 120.53, 120.53, 119.72, 119.15, 117.18, 106.32, 106.32. Anal. Calcd. for C<sub>24</sub>H<sub>10</sub>Cl<sub>2</sub>N<sub>4</sub>O<sub>2</sub>S<sub>3</sub>: C, 52.08; H, 1.82. Found: C, 52.13; H, 2.11.</p>
+      </sec>
+      <sec>
+        <title>2,10-Dibromo-5,6,13,14-tetrahydrodithieno[2,3-b:2&#x2019;,3&#x2019;-d]-thieno[2&#x201D;,3&#x201D;-c:2&#x201D;,3&#x201D;-c&#x2019;]diquinoline-6,14-dione (<italic><bold>17</bold></italic>).</title>
+        <p>A solution of dianilide <bold>15</bold> (0.056 g, 0.085 mmol) in the mixture of toluene (900mL) and methanol (90 mL)  containing a few drops of triethylamine was irradiated with 400 W high pressure mercury arc lamp at room temperature for 1 h using a Pyrex filter. During the irradiation air was bubbled through the solution. The precipitated powder was filtered off and washed with ether. Compound <bold>17</bold> (0.024 g, 48.9 %). was obtained as white crystals, mp &gt; 300<sup>o</sup>C, insoluble in all common solvents. IR (cm<sup>-1</sup>): 3400 (NH), 1660 (CONH); MS <italic>m/z</italic>: 587 (M+1); Anal. Calcd. for C<sub>22</sub>H<sub>8</sub>Br<sub>2</sub>N<sub>2</sub>O<sub>2</sub>S<sub>3</sub>: C, 44.91; H, 1.63. Found: C, 45.05; H, 1.37.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This study was financially supported by the Ministry of Science of the Republic of Croatia within project No. 0125005 and we are grateful for this support.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00279">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fuller</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Iddon</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>K.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thienothiophenes. Part 3. On the ring-opening reactions of 3-lithiated and 3,6-dilithiated thieno[3,2-b]thiophenes; new routes to polyfunctionalized thiophenes and enediynes</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>1999</year>
+          <fpage>1273</fpage>
+          <lpage>1277</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00279">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fuller</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Iddon</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>K.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of polyfunctionalized thiophenes and enedyines via ring-opening Reactions of 3-lithiated thieno[2,3-b]thiophenes, 3,4-dilithiated thieno[2,3-b]-thiophenes and 3,6-dilithiated thieno[3,2-b]thiophenes</article-title>
+          <source>Chem. Commun.</source>
+          <year>1997</year>
+          <fpage>2355</fpage>
+          <lpage>2356</lpage>
+          <pub-id pub-id-type="doi">10.1039/a707033k</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00279">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fuller</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Iddon</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>K.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thienothiophenes. 2. Synthesis, metallation and bromine- lithium exchange reactions of thieno[3,2-b]thiophene and its polybromoderivatives</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>1997</year>
+          <fpage>3465</fpage>
+          <lpage>3470</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00279">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whitfield</surname>
+              <given-names>F.B.</given-names>
+            </name>
+            <name>
+              <surname>Mottram</surname>
+              <given-names>D.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterocyclic volatiles formed by heating cysteine or hydrogen sulfide with 4-hydroxy-5-methyl-3(2H)-furanone at pH 6</article-title>
+          <source>J. Ag. Food Chem.</source>
+          <year>2001</year>
+          <volume>49</volume>
+          <fpage>816</fpage>
+          <lpage>822</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00279">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whitfield</surname>
+              <given-names>F.B.</given-names>
+            </name>
+            <name>
+              <surname>Mottram</surname>
+              <given-names>D.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Investigation of the reaction between 4-hydroxy-5-methyl-3(2H)-furanone and cysteine or hydrogen sulfide at pH 4.5</article-title>
+          <source>J. Ag. Food Chem.</source>
+          <year>1999</year>
+          <volume>47</volume>
+          <fpage>1626</fpage>
+          <lpage>1634</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00279">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mashraqui</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Ashraf</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hariharasubrahmanian</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kellogg</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Meetsma</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Donor-acceptor thieno[2,3-b]thiophene systems: synthesis and structural study of 3-anisyl-4-pyridyl(pyridinium) thieno[2,3-b]thiophenes</article-title>
+          <source>J. Mol. Struct.</source>
+          <year>2004</year>
+          <volume>689</volume>
+          <fpage>107</fpage>
+          <lpage>113</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00279">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moustafa</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Khodairy</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>El-Saghier</surname>
+              <given-names>A.M.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of some new polyfused thienothiophenes Part 4: Synthesis of thienopyrimidine, thienotriazine, thienoimidazotriazine, thienotriazolotriazine, and thienotetrazolotriazine derivatives</article-title>
+          <source>Phosphorus, Sulfur Silicon Relat. Elem.</source>
+          <year>2003</year>
+          <volume>178</volume>
+          <fpage>1211</fpage>
+          <lpage>122</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00279">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pavli&#x10D;i&#x107;</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Koru&#x17E;njak</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Bani&#x107;-Tomi&#x161;i&#x107;</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Karminski-Zamola</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of some new bis-(p-fluorophenyl)amides of the thieno[3,2-b]thiophene, thieno[3,2-b]furan and 1,2-bis{5-[2-(2-thienyl)ethenyl]2-thienyl}ethene series</article-title>
+          <source>Molecules</source>
+          <year>2002</year>
+          <volume>7</volume>
+          <fpage>871</fpage>
+          <lpage>884</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00279">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yasuke</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kurita</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Tsuchiya</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel group 15 and 16 thieno[2,3-b]-, thieno[3,4-b]-, and thieno[3,2-b]-heteroles</article-title>
+          <source>Heterocycles</source>
+          <year>1997</year>
+          <volume>45</volume>
+          <fpage>1891</fpage>
+          <lpage>1894</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00279">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hawkins</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Iddon</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Longthorne</surname>
+              <given-names>D.S.</given-names>
+            </name>
+            <name>
+              <surname>Rosyk</surname>
+              <given-names>P.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of thieno-[2,3-b]-, -[3,2-b]- and -[3,4-b]-thiophenes and thieno-[3',2'/4,5]-, -[2',3'/4,5]- and -[3',4'/4,5]-thieno[3,2-d]pyrimidin-7(6h)-ones starting from thiophene</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>1994</year>
+          <fpage>2735</fpage>
+          <lpage>2743</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00279">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Choi</surname>
+              <given-names>K.S.</given-names>
+            </name>
+            <name>
+              <surname>Sawada</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hoshino</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nakayama</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>A one-pot synthesis of substituted thieno[3,2-b]thiophenes and selenolo[3,2-b]selenophenes</article-title>
+          <source>Heterocycles</source>
+          <year>1994</year>
+          <volume>38</volume>
+          <fpage>143</fpage>
+          <lpage>149</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00279">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nakayama</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Sawada</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ishii</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kumakura</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterization of dimers, trimers, and tetramers of 3,6-dimethylthieno[3,2b]thiophene and 3,6-dimethylselenolo[3,2b]selenophene</article-title>
+          <source>Tetrahedron</source>
+          <year>1996</year>
+          <volume>52</volume>
+          <fpage>471</fpage>
+          <lpage>488</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00279">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Capozzi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Desio</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Manichetti</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nativi</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pacini</surname>
+              <given-names>P.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phthalimidesulfenyl chloride. 7. Synthesis of 2-substituted 3-chlorobenzo[b]thiophenes and related heteroaromatics</article-title>
+          <source>Synthesis</source>
+          <year>1994</year>
+          <fpage>521</fpage>
+          <lpage>525</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00279">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Otsubo</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kono</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hozo</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Miyamoto</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Aso</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ogura</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Sawada</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses, structures, and properties of 2,3,6,7-tetrathiabenzo[1,3-cd:4,6-c'd']dipentalene and its methyl, ethyl, methylthio, and ethylthio derivatives - novel fused polynuclear heteroarenes</article-title>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1993</year>
+          <volume>66</volume>
+          <fpage>2033</fpage>
+          <lpage>2041</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00279">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Block</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Thiruvazhi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Toscano</surname>
+              <given-names>P.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Total synthesis of thiarubrine B [3-(3-buten-1-ynyl)-6-(1,3-pentadiynyl)-1,2-dithiin], the antibiotic principle of giant ragweed (ambrosia trifida)</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1994</year>
+          <volume>116</volume>
+          <fpage>9403</fpage>
+          <lpage>9404</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00279">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schroth</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Hintzsche</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Jordan</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Jende</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Spitzner</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Thondorf</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,2-Dithiins and precursors. 17. Synthesis and properties of thieno annellated 1,2-dithiins - structural influence on colour</article-title>
+          <source>Tetrahedron</source>
+          <year>1997</year>
+          <volume>53</volume>
+          <fpage>7509</fpage>
+          <lpage>7528</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00279">
+        <label>17.</label>
+		<note>
+		<p>
+        <citation citation-type="patent">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fern&#xE1;ndez Fern&#xE1;ndez</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Hotten</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Tupper</surname>
+              <given-names>D.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thiophene carboxamide deriv. prepn.</article-title>
+          <source>Span. Pat. Appl.</source>
+          <patent>ES 2,008,635</patent>
+          <year>1988</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1991</bold>, <italic>114</italic>, 207008b]</comment>
+        </citation>
+        <citation citation-type="patent">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fern&#xE1;ndez Fern&#xE1;ndez</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Hotten</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Tupper</surname>
+              <given-names>D.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Amino-thiophene deriv. prepn.</article-title>
+          <source>Span. Pat. Appl.</source>
+          <patent>ES 2,008,634</patent>
+          <year>1989</year>
+          <comment>[<italic>Chem. Abstr.</italic>, <bold>1991</bold>, <italic>114</italic>, 207009c)]</comment>
+        </citation>
+        <citation citation-type="patent">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fern&#xE1;ndez Fern&#xE1;ndez</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Hotten</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Tupper</surname>
+              <given-names>D.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thiophene carboxamide deriv. prepn.</article-title>
+          <source>Span. Pat. Appl.</source>
+          <patent>ES 2,008,630</patent>
+          <year>1989</year>
+          <comment>[<italic>Chem. Abstr.</italic>, <bold>1991</bold>, <italic>114</italic>, 207010w]</comment>
+        </citation>
+        <citation citation-type="patent">
+		<label>(d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fern&#xE1;ndez Fern&#xE1;ndez</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Hotten</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Tupper</surname>
+              <given-names>D.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thiophene carboxamide deriv. prepn.</article-title>
+          <source>Span. Pat. Appl.</source>
+          <patent>ES 2,008,631</patent>
+          <year>1989</year>
+          <comment>[<italic>Chem. Abstr.</italic>, <bold>1991</bold>, <italic>114</italic>, 207011x]</comment>
+        </citation>
+        <citation citation-type="patent">
+		<label>(e)</label>
+		<person-group person-group-type="author">
+          <name>
+              <surname>Fern&#xE1;ndez Fern&#xE1;ndez</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Hotten</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Tupper</surname>
+              <given-names>D.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thiophene carboxamide deriv. prepn.</article-title>
+          <source>Span. Pat. Appl.</source>
+          <patent>ES 2,008,632</patent>
+          <year>1989</year>
+          <comment>[<italic>Chem. Abstr.</italic>, <bold>1991</bold>, <italic>114</italic>, 207012y]</comment>
+        </citation>
+        <citation citation-type="patent">
+		<label>(f)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fern&#xE1;ndez Fern&#xE1;ndez</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Hotten</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Tupper</surname>
+              <given-names>D.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Amino-thiophene deriv. prepn.</article-title>
+          <source>Span. Pat Appl.</source>
+          <patent>ES 2,008,633</patent>
+          <year>1989</year>
+          <comment>[<italic>Chem. Abstr.</italic>, <bold>1991</bold>, <italic>114</italic>, 207013z]</comment>
+        </citation>
+        <citation citation-type="patent">
+		<label>(g)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fern&#xE1;ndez Fern&#xE1;ndez</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Hotten</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Tupper</surname>
+              <given-names>D.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thiophene carboxamide deriv. prepn.</article-title>
+          <source>Span. Pat. Appl.</source>
+          <patent>ES 2,008,636</patent>
+          <year>1989</year>
+          <comment>[<italic>Chem. Abstr.</italic>, <bold>1991</bold>, <italic>115</italic>, 71382e]</comment>
+        </citation>
+		</p>
+		</note>
+      </ref>
+      <ref id="B18-molecules-10-00279">
+        <label>18.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meunster</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Steiner</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Freund</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Wuerzer</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Westphalen</surname>
+              <given-names>K.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Carboxamides and their use as herbicides</article-title>
+          <source>Ger. Offen. Appl.</source>
+          <patent>3,933,573</patent>
+          <year>1991</year>
+          <comment>[<italic>Chem. Abstr.</italic>, <bold>1991</bold>, <italic>115</italic>, 71383f]</comment>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00279">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boschelli</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <name>
+              <surname>Kramer</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Connor</surname>
+              <given-names>D.T.</given-names>
+            </name>
+            <name>
+              <surname>Lesch</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Schrier</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Ferin</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>C.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>3-Alkoxybenzo[b]thiophene-2-carboxamides as inhibitors of neutrophil endothelial cell adhesion</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1994</year>
+          <volume>37</volume>
+          <fpage>717</fpage>
+          <lpage>718</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00279">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kabir</surname>
+              <given-names>S.M.H.</given-names>
+            </name>
+            <name>
+              <surname>Miura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sasaki</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Harada</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kuwatani</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yoshida</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Iyoda</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>New syntheses of tricyclic thiophenes and cyclic tetrathiophenes using transition-metal-catalyzed cyclization</article-title>
+          <source>Heterocycles</source>
+          <year>2000</year>
+          <volume>52</volume>
+          <fpage>761</fpage>
+          <lpage>774</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00279">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iyoda</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Miura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sasaki</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kabir</surname>
+              <given-names>S.M.H.</given-names>
+            </name>
+            <name>
+              <surname>Kuwatani</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yoshida</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of dithienothiophenes, cyclopentadithiophene and silacyclopentadithiophenes using palladium-catalyzed cyclization</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1997</year>
+          <volume>38</volume>
+          <fpage>4581</fpage>
+          <lpage>4582</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00279">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Remonen</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hellberg</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Vonschutz</surname>
+              <given-names>J.U.</given-names>
+            </name>
+          </person-group>
+          <article-title>New dithienothiophene donors for cation radical salts</article-title>
+          <source>Synth. Met.</source>
+          <year>1997</year>
+          <volume>86</volume>
+          <fpage>1851</fpage>
+          <lpage>1852</lpage>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00279">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fujitsuka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Watanabe</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Shimidzu</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photochemical polymerization of dithienothiophenes</article-title>
+          <source>Chem. Lett.</source>
+          <year>1996</year>
+          <fpage>285</fpage>
+          <lpage>286</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00279">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fujitsuka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Segawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Shimidzu</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photochemical polymerization of oligothiophene and dithienothiophene</article-title>
+          <source>Synth. Met.</source>
+          <year>1995</year>
+          <volume>69</volume>
+          <fpage>309</fpage>
+          <lpage>310</lpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00279">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karminski-Zamola</surname>
+              <given-names>G.M.</given-names>
+            </name>
+            <name>
+              <surname>Pavli&#x10D;i&#x107;</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Baji&#x107;</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bla&#x17E;evi&#x107;</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthesis of new heteropolycyclic quinolone by twofold photocyclization: methoxycarbonylnaphto[2'',1'':2',3'-b]thieno[4',5':2,3]thieno[5,4-c]quinolin-6(5H)-one</article-title>
+          <source>Heterocycles</source>
+          <year>1991</year>
+          <volume>32</volume>
+          <fpage>2323</fpage>
+          <lpage>2327</lpage>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00279">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dogan</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Karminski-Zamola</surname>
+              <given-names>G.M.</given-names>
+            </name>
+            <name>
+              <surname>Boykin</surname>
+              <given-names>D.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photosynthesis of heteropolycyclic quinolones</article-title>
+          <source>Heterocycles</source>
+          <year>1995</year>
+          <volume>41</volume>
+          <fpage>1659</fpage>
+          <lpage>1666</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00279">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Male&#x161;evi&#x107;</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Karminski-Zamola</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Baji&#x107;</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Boykin</surname>
+              <given-names>D.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photosynthesis of heteropolycyclic diquinolones twofold photodehydrohalogenation reaction of benzo[1,2-b:4,5-b']dithiophene- and dithieno[3,2-b:2',3'-d]thiophenedicarboxanilides</article-title>
+          <source>Heterocycles</source>
+          <year>1995</year>
+          <volume>41</volume>
+          <fpage>2691</fpage>
+          <lpage>2699</lpage>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00279">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dogan Koru&#x17E;njak</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Slade</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Zamola</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Paveli&#x107;</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Karminski-Zamola</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, photochemical synthesis and antitumor evaluation of novel derivatives of thieno[3 ',2 ': 4,5]thieno[2,3-c]quinolones</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2002</year>
+          <volume>50</volume>
+          <fpage>656</fpage>
+          <lpage>660</lpage>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00279">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Capron</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Paulmier</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pasteour</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 3-furyl, 3-thienyl and 3-selenienyl propenoic acids and esters.&#xA0;A route to substituted thienothiophenes and selenolothiophenes</article-title>
+          <source>Bull. Soc. Chim. France</source>
+          <year>1975</year>
+          <fpage>2575</fpage>
+          <lpage>2583</lpage>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00279">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bla&#x17E;evi&#x107; &#x160;afarik</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Karminski-Zamola</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Marini&#x107;</surname>
+              <given-names>&#x17D;.</given-names>
+            </name>
+            <name>
+              <surname>Klai&#x107;</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Mrvo&#x161;-Sermek</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Convenient synthesis H-1, C-13 NMR study and X-ray crystal structure determination of some new disubstituted thiophenes</article-title>
+          <source>Spectrosc. Lett.</source>
+          <year>1999</year>
+          <volume>32</volume>
+          <fpage>443</fpage>
+          <lpage>462</lpage>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00279">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ried</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Oremek</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Ocakciogku</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthese von substituierten benzo(b)thiophenen</article-title>
+          <source>Liebigs Ann. Chem.</source>
+          <year>1980</year>
+          <fpage>1424</fpage>
+          <lpage>1427</lpage>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00279">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wright</surname>
+              <given-names>W. B.</given-names>
+			  <suffix>Jr.</suffix>
+            </name>
+          </person-group>
+          <article-title>Preparation of 3-chlorothieno[3,2-b]thiophene derivatives from thiophene-2-acrylic acids</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1972</year>
+          <volume>9</volume>
+          <fpage>879</fpage>
+          <lpage>882</lpage>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-00279">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karminski-Zamola</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Dogan</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Baji&#x107;</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bla&#x17E;evi&#x107;</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Male&#x161;evi&#x107;</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of some furylacrylates and thienylacrylates or diacrylates and acrylic acids by the palladium catalysed vinylation of substituted bromofurans and bromothiophenes</article-title>
+          <source>Heterocycles</source>
+          <year>1994</year>
+          <volume>38</volume>
+          <fpage>759</fpage>
+          <lpage>767</lpage>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-00279">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Capron</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Paulmier</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pasteour</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and properties of &#x3B2;-thienyl and &#x3B2;-selenienyl propenoic acids</article-title>
+          <source>C. R. Acad. Sci., Ser. C</source>
+          <year>1973</year>
+          <volume>277</volume>
+          <fpage>167</fpage>
+          <lpage>170</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	<fn>
+	<p><italic>Sample Availability:</italic></p>
+	</fn>
+	</fn-group>
+  </back>
+</article>

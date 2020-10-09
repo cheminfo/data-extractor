@@ -1,0 +1,2440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10030559</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00559</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Experimental and Theoretical Studies on the Functionalization Reactions of 4-Benzoyl-1,5-Diphenyl-1H-Pyrazole-3-Carboxylic Acid and Acid Chloride with 2,3-Diaminopyridine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Y&#x131;ld&#x131;r&#x131;m</surname>
+            <given-names>Ismail</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00559" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kandemirli</surname>
+            <given-names>Fatma</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00559" ref-type="aff">2</xref>
+          <xref rid="c1-molecules-10-00559" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Demir</surname>
+            <given-names>Elif</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00559" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00559"><label>1</label>Department of Chemistry, Erciyes University, 38039, Kayseri, Turkey Tel. (+90) 352 4374901/ 33164, Fax (+90) 352 4374933</aff>
+      <aff id="af2-molecules-10-00559"><label>2</label>Department of Chemistry, Kocaeli University, 41300, Izmit, Turkey Tel. (+90) 262 5285761, Fax. (+90) 262 3313906</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00559"><label>*</label>Author to whom correspondence should be addressed: e-mail: <email>fkandemirli@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>03</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>05</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>3</issue>
+      <fpage>559</fpage>
+      <lpage>571</lpage>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>07</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>28</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>04</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The 1<italic>H</italic>-pyrazole-3-carboxylic acid <bold>2</bold> was converted in good yield (69%) into the corresponding 1<italic>H</italic>-pyrazole-3-carboxamide <bold>5</bold> via reaction of the acid chloride <bold>3</bold> with 2,3-diaminopyridine (<bold>4</bold>). A different product, the 3<italic>H</italic>-imidazo[4,5-<italic>b</italic>] pyridine derivative <bold>6,</bold> was formed from the reaction of <bold>3</bold> with <bold>4</bold> and base in benzene for 5 hours. The structures of the synthesized compounds were determined spectroscopically. The mechanism of the reaction between <bold>3</bold> and <bold>4</bold> was examined theoretically.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>furan-2,3-dione</kwd>
+        <kwd>pyrazole-3-carboxylic acid</kwd>
+		<kwd>pyrazole-3-carboxylic acid chloride</kwd>
+        <kwd>imidazo [4,5-<italic>b</italic>]pyridine</kwd>
+        <kwd>IR and NMR spectra</kwd>
+        <kwd>MO calculations</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The cyclocondensation reaction of 1,3-dicarbonyl compounds with oxalyl chloride represents a convenient synthesis of furan-2,3-dione systems [<xref ref-type="bibr" rid="B1-molecules-10-00559">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00559">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00559">3</xref>], which constitute an important group of oxygen-containing heterocyclic starting materials. This synthesis has been widely explored during the last few decades [<xref ref-type="bibr" rid="B4-molecules-10-00559">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00559">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00559">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00559">7</xref>] and furan-2,3-diones of type <bold>1</bold> have been used successfully for a long time in the syntheses of various heterocycles [<xref ref-type="bibr" rid="B8-molecules-10-00559">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00559">9</xref>]. Convenient synthetic methods, mechanisms of the reactions, and semi-empirical (AM1 and PM3) and <italic>ab initio</italic> (DFT) calculations on the interaction of 4-benzoyl-5-phenyl-2,3-dihydro-2,3-furandione (<bold>1</bold>) with several semicarbazones, ureas, thioureas and anilides have been reported recently [<xref ref-type="bibr" rid="B10-molecules-10-00559">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00559">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00559">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00559">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00559">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00559">15</xref>]. The reaction of furan-2,3-dione with various phenylhydrazones and phenylhydrazine leads to pyrazole-3-carboxylic acid and pyridazinones [<xref ref-type="bibr" rid="B16-molecules-10-00559">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00559">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00559">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00559">19</xref>].</p>
+      <p>Pyrazole derivatives are in general well-known nitrogen-containing heterocyclic compounds, and various procedures have been developed for their syntheses [<xref ref-type="bibr" rid="B20-molecules-10-00559">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00559">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00559">22</xref>,<xref ref-type="bibr" rid="B23-molecules-10-00559">23</xref>]. The chemistry of pyrazole derivatives have been the subject of much interest due to their importance for various applications and their widespread potential and proven biological and pharmacological activities such as anti-inflammatory, antipyretic, analgesic, antimicrobial, antiviral, antitumor, antifungal, pesticidal, anti-convulsant, antihistaminic, antibiotics, anti-depressant, and CNS regulant activities [<xref ref-type="bibr" rid="B24-molecules-10-00559">24</xref>,<xref ref-type="bibr" rid="B25-molecules-10-00559">25</xref>,<xref ref-type="bibr" rid="B26-molecules-10-00559">26</xref>,<xref ref-type="bibr" rid="B27-molecules-10-00559">27</xref>,<xref ref-type="bibr" rid="B28-molecules-10-00559">28</xref>,<xref ref-type="bibr" rid="B29-molecules-10-00559">29</xref>,<xref ref-type="bibr" rid="B30-molecules-10-00559">30</xref>,<xref ref-type="bibr" rid="B31-molecules-10-00559">31</xref>,<xref ref-type="bibr" rid="B32-molecules-10-00559">32</xref>]. In view of these important properties, we decided both to prove the reproducibility of the reaction of 4-benzoyl-1,5-diphenyl-1<italic>H</italic>-pyrazole-3-carboxylic acid (<bold>2</bold>) and  acid chloride (<bold>3</bold>) with a diamine binucleophile <bold>4</bold> and to extend our investigations related to the preparation of new heterocycles, which include two pyrazole rings or 3<italic>H</italic>-imidazo[4,5-<italic>b</italic>] pyridine rings in their structure. We are now reporting the reaction mechanism, synthesis and characterization of the 1<italic>H</italic>-pyrazole-3-carboxamide <bold>5</bold> and 3<italic>H</italic>-imidazo[4,5-<italic>b</italic>]pyridine derivative <bold>6</bold> which were formed by the reaction of the pyrazole-3-carboxylic acid 2 or the pyrazole-3-carboxylic acid chloride <bold>3</bold> with 2,3-diaminopyridine (<bold>4</bold>) (see <xref ref-type="scheme" rid="molecules-10-00559-f005">Scheme 1</xref>).</p>
+      <fig id="molecules-10-00559-f005" position="float">
+        <object-id pub-id-type="pii">molecules-10-00559-f005_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00559-g005.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Compound <bold>3</bold> reacts with 2,3-diaminopyridine (<bold>4</bold>) in two ways, thus yielding the 1<italic>H</italic>-pyrazole-3-carboxamide derivative <bold>5</bold> or the 3<italic>H</italic>-imidazo[4,5-<italic>b</italic>] pyridine derivative <bold>6</bold>. The substituted 2,3-furandione <bold>1</bold> and 1<italic>H</italic>-pyrazole-3-carboxylic acid <bold>2</bold>, as well as 1<italic>H</italic>-pyrazole-3-carboxylic acid chloride <bold>3</bold>, which are important starting materials in the synthesis of the target heterocycles, were prepared using the literature procedures [<xref ref-type="bibr" rid="B1-molecules-10-00559">1</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00559">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00559">17</xref>]. Compound <bold>5</bold> was synthesized in good yield by refluxing 2,3-diaminopyridine (<bold>4</bold>) and a two-fold molar excess of the pyrazole-3-carboxylic acid <bold>2</bold> or the pyrazole-3-carboxylic acid chloride <bold>3</bold> in benzene, without opening of the pyrazole ring (see <xref ref-type="scheme" rid="molecules-10-00559-f005">Scheme 1</xref>). The reactions were performed together with catalytic amounts of <underline>an acid</underline> (in the case of <bold>2</bold>) or <underline>a base</underline> (in the case of <bold>3</bold>), for 5-10 hours, by the usual chemical method (for details, see the Experimental section). Addition of binucleophile <bold>4</bold> to the acid <bold>2</bold> or acid chloride <bold>3</bold> usually starts with nucleophilic attack at the acid or acid chloride moieties in these compounds. Therefore, the newly obtained product <bold>5</bold> arises from the sequential attacks of the diamine <bold>4</bold> at the acid chloride moieties of two respective molecules of <bold>3</bold>, followed by elimination of hydrogen chloride (in the case of <bold>2</bold>, by elimination of water). The first step corresponds to the nucleophilic addition of one of 2,3-diaminopyridine&#x2019;s amino groups (N<sub>9</sub>) to the electrophilic sp<sup>2</sup>-hybridized carbon atom (C<sub>6</sub>) of the 1<italic>H</italic>-pyrazole-3-carboxylic acid chloride (See <xref ref-type="fig" rid="molecules-10-00559-f001">Figure 1</xref>).</p>
+      <fig id="molecules-10-00559-f001" position="float">
+        <label>Figure 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00559-g001.tif"/>
+      </fig>
+      <p>The total self-consistent field energy of reacting molecules (<bold>3</bold>+<bold>4</bold>), which are far from each other (C<sub>6</sub>-N<sub>9</sub> = 3.65 &#xC5;), is &#x2013;1931.018 a.u. for RHF/STO-3G method. <bold>TS1</bold> is the result of the C<sub>6</sub>-N<sub>9</sub> bond formation for the account of proton transfer to chlorine atom. The C<sub>6</sub>-N<sub>9</sub>, C<sub>6</sub>-Cl<sub>8</sub>, and Cl<sub>8</sub>-H<sub>10</sub> bond lengths for <bold>TS1</bold> become 1.61 &#xC5;, 2.34 &#xC5;, 1.97 &#xC5;. (see <xref ref-type="table" rid="molecules-10-00559-t001">Table 1</xref>.)</p>
+      <table-wrap id="molecules-10-00559-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00559-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Conformational and electron characteristics <bold>3</bold>-<bold>4</bold>, <bold>TS1</bold>, and <bold>IN(1)</bold>.</p>
+        </caption>
+        <table rules="all" style="border:solid thin">
+          <tbody>
+               <tr>
+              <td colspan="2" rowspan="2" align="center" valign="middle"><bold>Atoms/Bonds</bold></td>
+              <td colspan="3" align="center" valign="top"><bold>3-4</bold></td>
+              <td colspan="2" align="center" valign="top"><bold>TS1</bold></td>
+              <td colspan="3" align="center" valign="top"><bold>IN(1)</bold></td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHF STO-3G</td>
+              <td align="center" valign="top">RHF 3-21G</td>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHF STO-3G</td>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHF STO-3G</td>
+              <td align="center" valign="top">RHF 3-21G</td>
+            </tr>
+            <tr>
+              <td rowspan="15" align="center" valign="middle">INTERATOMIC DISTANCES (in &#xC5;)</td>
+              <td align="left" valign="top">C<sub>6</sub>-N<sub>9</sub></td>
+              <td align="center" valign="top">3.11</td>
+              <td align="center" valign="top">3.65</td>
+              <td align="center" valign="top">3.22</td>
+              <td align="center" valign="top">1.55</td>
+              <td align="center" valign="top">1.61</td>
+              <td align="center" valign="top">1.38</td>
+              <td align="center" valign="top">1.38</td>
+              <td align="center" valign="top">1.35</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>- O<sub>7</sub></td>
+              <td align="center" valign="top">1.23</td>
+              <td align="center" valign="top">1.21</td>
+              <td align="center" valign="top">1.19</td>
+              <td align="center" valign="top">1.24</td>
+              <td align="center" valign="top">1.21</td>
+              <td align="center" valign="top">1.24</td>
+              <td align="center" valign="top">1.25</td>
+              <td align="center" valign="top">1.22</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>-Cl<sub>8</sub></td>
+              <td align="center" valign="top">1.73</td>
+              <td align="center" valign="top">1.82</td>
+              <td align="center" valign="top">1.85</td>
+              <td align="center" valign="top">2.23</td>
+              <td align="center" valign="top">2.34</td>
+              <td align="center" valign="top">4.49</td>
+              <td align="center" valign="top">3.49</td>
+              <td align="center" valign="top">4.12</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>9</sub>-H<sub>10</sub></td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.07</td>
+              <td align="center" valign="top">1.06</td>
+              <td align="center" valign="top">3.79</td>
+              <td align="center" valign="top">2.68</td>
+              <td align="center" valign="top">3.44</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>10</sub>-H<sub>11</sub></td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.02</td>
+              <td align="center" valign="top">1.04</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.04</td>
+              <td align="center" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>9</sub>-C<sub>12</sub></td>
+              <td align="center" valign="top">1.41</td>
+              <td align="center" valign="top">1.44</td>
+              <td align="center" valign="top">1.38</td>
+              <td align="center" valign="top">1.46</td>
+              <td align="center" valign="top">1.48</td>
+              <td align="center" valign="top">1.42</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.41</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>12</sub>-C<sub>14</sub></td>
+              <td align="center" valign="top">1.40</td>
+              <td align="center" valign="top">1.44</td>
+              <td align="center" valign="top">1.39</td>
+              <td align="center" valign="top">1.39</td>
+              <td align="center" valign="top">1.43</td>
+              <td align="center" valign="top">1.40</td>
+              <td align="center" valign="top">1.44</td>
+              <td align="center" valign="top">1.37</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>12</sub>-N<sub>13</sub></td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.34</td>
+              <td align="center" valign="top">1.31</td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.34</td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.35</td>
+              <td align="center" valign="top">1.30</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>15</sub>-H<sub>16</sub></td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>15</sub>-H<sub>17</sub></td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>-C<sub>5</sub></td>
+              <td align="center" valign="top">1.46</td>
+              <td align="center" valign="top">1.50</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.49</td>
+              <td align="center" valign="top">1.52</td>
+              <td align="center" valign="top">1.49</td>
+              <td align="center" valign="top">1.52</td>
+              <td align="center" valign="top">1.50</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>-C<sub>4</sub></td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.43</td>
+              <td align="center" valign="top">1.41</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.42</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.44</td>
+              <td align="center" valign="top">1.43</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>-N<sub>1</sub></td>
+              <td align="center" valign="top">1.39</td>
+              <td align="center" valign="top">1.33</td>
+              <td align="center" valign="top">1.30</td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.33</td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.33</td>
+              <td align="center" valign="top">1.30</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">Cl<sub>8</sub>-H<sub>10</sub></td>
+              <td align="center" valign="top">4.32</td>
+              <td align="center" valign="top">5.37</td>
+              <td align="center" valign="top">4.39</td>
+              <td align="center" valign="top">2.00</td>
+              <td align="center" valign="top">1.97</td>
+              <td align="center" valign="top">1.30</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.33</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">Frequencies(cm<sup>-1</sup>)</td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top">-351</td>
+              <td align="center" valign="top">-281</td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top"> </td>
+            </tr>
+             <tr>
+			 <td style="border-left:hidden;border-right:hidden" colspan="10" align="center" valign="top"> </td>
+			 </tr>
+             <tr>
+              <td colspan="2" rowspan="2" align="center" valign="middle"><bold>Atoms/Bonds</bold></td>
+              <td colspan="3" align="center" valign="top"><bold>3-4</bold></td>
+              <td colspan="2" align="center" valign="top"><bold>TS1</bold></td>
+              <td colspan="3" align="center" valign="top"><bold>IN(1)</bold></td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHF STO-3G</td>
+              <td align="center" valign="top">RHF 3-21G</td>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHF STO-3G</td>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHF STO-3G</td>
+              <td align="center" valign="top">RHF 3-21G</td>
+            </tr>
+            <tr>
+              <td rowspan="14" align="center" valign="middle">CHARGES (in electronoc units &#x113;)</td>
+              <td align="left" valign="top">N<sub>1</sub></td>
+              <td align="center" valign="top">-0.01</td>
+              <td align="center" valign="top">-0.12</td>
+              <td align="center" valign="top">-0.34</td>
+              <td align="center" valign="top">-0.01</td>
+              <td align="center" valign="top">-0.20</td>
+              <td align="center" valign="top">-0.01</td>
+              <td align="center" valign="top">-0.12</td>
+              <td align="center" valign="top">-0.32</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>4</sub></td>
+              <td align="center" valign="top">-0.17</td>
+              <td align="center" valign="top">-0.06</td>
+              <td align="center" valign="top">-0.33</td>
+              <td align="center" valign="top">-0.24</td>
+              <td align="center" valign="top">-0.05</td>
+              <td align="center" valign="top">-0.22</td>
+              <td align="center" valign="top">-0.07</td>
+              <td align="center" valign="top">-0.49</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub></td>
+              <td align="center" valign="top">-0.16</td>
+              <td align="center" valign="top">0.05</td>
+              <td align="center" valign="top">0.37</td>
+              <td align="center" valign="top">-0.14</td>
+              <td align="center" valign="top">0.08</td>
+              <td align="center" valign="top">-0.14</td>
+              <td align="center" valign="top">0.05</td>
+              <td align="center" valign="top">0.35</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub></td>
+              <td align="center" valign="top">0.34</td>
+              <td align="center" valign="top">0.28</td>
+              <td align="center" valign="top">0.44</td>
+              <td align="center" valign="top">0.41</td>
+              <td align="center" valign="top">0.37</td>
+              <td align="center" valign="top">0.40</td>
+              <td align="center" valign="top">0.36</td>
+              <td align="center" valign="top">0.99</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">O<sub>7</sub></td>
+              <td align="center" valign="top">-0.26</td>
+              <td align="center" valign="top">-0.19</td>
+              <td align="center" valign="top">-0.53</td>
+              <td align="center" valign="top">-0.35</td>
+              <td align="center" valign="top">-0.24</td>
+              <td align="center" valign="top">-0.32</td>
+              <td align="center" valign="top">-0.26</td>
+              <td align="center" valign="top">-0.63</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">Cl<sub>8</sub></td>
+              <td align="center" valign="top">-0.06</td>
+              <td align="center" valign="top">-0.18</td>
+              <td align="center" valign="top">0.05</td>
+              <td align="center" valign="top">-0.56</td>
+              <td align="center" valign="top">-0.69</td>
+              <td align="center" valign="top">-0.23</td>
+              <td align="center" valign="top">-0.53</td>
+              <td align="center" valign="top">-0.40</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>9</sub></td>
+              <td align="center" valign="top">-0.31</td>
+              <td align="center" valign="top">-0.41</td>
+              <td align="center" valign="top">-0.95</td>
+              <td align="center" valign="top">-0.10</td>
+              <td align="center" valign="top">-0.32</td>
+              <td align="center" valign="top">-0.32</td>
+              <td align="center" valign="top">-0.38</td>
+              <td align="center" valign="top">-1.06</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">H<sub>10</sub></td>
+              <td align="center" valign="top">0.19</td>
+              <td align="center" valign="top">0.17</td>
+              <td align="center" valign="top">0.33</td>
+              <td align="center" valign="top">0.31</td>
+              <td align="center" valign="top">0.32</td>
+              <td align="center" valign="top">0.23</td>
+              <td align="center" valign="top">0.27</td>
+              <td align="center" valign="top">0.31</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">H<sub>11</sub></td>
+              <td align="center" valign="top">0.19</td>
+              <td align="center" valign="top">0.19</td>
+              <td align="center" valign="top">0.37</td>
+              <td align="center" valign="top">0.25</td>
+              <td align="center" valign="top">0.27</td>
+              <td align="center" valign="top">0.26</td>
+              <td align="center" valign="top">0.26</td>
+              <td align="center" valign="top">0.42</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>12</sub></td>
+              <td align="center" valign="top">0.05</td>
+              <td align="center" valign="top">0.18</td>
+              <td align="center" valign="top">0.74</td>
+              <td align="center" valign="top">-0.06</td>
+              <td align="center" valign="top">0.17</td>
+              <td align="center" valign="top">0.06</td>
+              <td align="center" valign="top">0.18</td>
+              <td align="center" valign="top">0.78</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>13</sub></td>
+              <td align="center" valign="top">-0.18</td>
+              <td align="center" valign="top">-0.27</td>
+              <td align="center" valign="top">-0.78</td>
+              <td align="center" valign="top">-0.10</td>
+              <td align="center" valign="top">-0.22</td>
+              <td align="center" valign="top">-0.13</td>
+              <td align="center" valign="top">-0.24</td>
+              <td align="center" valign="top">-0.75</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>15</sub></td>
+              <td align="center" valign="top">-0.32</td>
+              <td align="center" valign="top">-0.40</td>
+              <td align="center" valign="top">-0.96</td>
+              <td align="center" valign="top">-0.32</td>
+              <td align="center" valign="top">-0.39</td>
+              <td align="center" valign="top">-0.32</td>
+              <td align="center" valign="top">-0.38</td>
+              <td align="center" valign="top">-1.03</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">H<sub>16</sub></td>
+              <td align="center" valign="top">0.20</td>
+              <td align="center" valign="top">0.20</td>
+              <td align="center" valign="top">0.35</td>
+              <td align="center" valign="top">0.21</td>
+              <td align="center" valign="top">0.19</td>
+              <td align="center" valign="top">0.21</td>
+              <td align="center" valign="top">0.18</td>
+              <td align="center" valign="top">0.38</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">H<sub>17</sub></td>
+              <td align="center" valign="top">0.17</td>
+              <td align="center" valign="top">0.16</td>
+              <td align="center" valign="top">0.32</td>
+              <td align="center" valign="top">0.19</td>
+              <td align="center" valign="top">0.19</td>
+              <td align="center" valign="top">0.18</td>
+              <td align="center" valign="top">0.18</td>
+              <td align="center" valign="top">0.34</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>The resulting SCF energy value is &#x2013;1930.967 a.u. for an intermediate product <bold>IN(1)</bold>. In theoretical chemistry, the reaction intermediates and transition states can be strictly distinguished by the use of vibrational analysis. For <bold>TS1</bold> one imaginary frequency was found at &#x2013;281 cm<sup>-1</sup>. Molecule 4 approaches the molecular plane of <bold>3</bold> at an angle of 107.1<sup>o</sup>. Torsion angle of H<sub>9</sub>-N<sub>8</sub>-C<sub>6</sub>-C<sub>4</sub> being equal to -111<sup>o</sup> is not coplanar. When the bond length of C<sub>6 </sub>- N<sub>9</sub> becomes 1.38 &#xC5;, <bold>IN(1)</bold> is formed. Torsion angle of H<sub>9</sub>-N<sub>8</sub>-C<sub>6</sub>-C<sub>4</sub> becomes 168<sup>o</sup> and approximates to the coplanar one. When the bond C<sub>6 </sub>- N<sub>9</sub> is formed, new charge redistribution is seen. The negative charge on the N<sub>9</sub> (RHF/STO-3G) decreases from &#x2013;0.41 to &#x2013;0.38 &#x113;, positive charge on the C<sub>6</sub> atom and negative charges on the O<sub>7</sub> and Cl<sub>8</sub> atoms increase. In this way, a substantial polarization of bonds formed by the atom C<sub>6</sub> can be observed.</p>
+      <p>The calculations were done by using semi-empirical AM1 and <italic>ab initio</italic> methods. <italic>Ab initio</italic> calculations were carried out by using two different basis sets that differ in the polarization functions, namely, STO-3G and 3-21G. When the <italic>ab initio</italic> method is used instead of AM1, this causes electron redistribution and changes in bond lengths. The latter are also changed, when the same method but a different basis set is used. For example, the C<sub>6</sub>-O<sub>7</sub> bond length at <bold>3</bold>-<bold>4</bold> is 1.23 &#xC5; for AM1, 1.21 &#xC5; for RHF/ STO-3G, and 1.19 &#xC5; for RHF/3-21G.</p>
+      <fig id="molecules-10-00559-f002" position="float">
+        <label>Figure 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00559-g002.tif"/>
+      </fig>
+      <p>The use of different methods and different basis sets displays a little difference in atomic charges calculated. When the number of functions in the basis set grows, the calculations show a considerable redistribution of electron density on bonds. Because of polarization, the negative charge increase on the N<sub>1</sub>, N<sub>9</sub>, N<sub>13</sub>, N<sub>15</sub>, C<sub>4</sub>, O<sub>7</sub> atoms, and positive charges increase on the C<sub>12</sub> and hydrogen atoms.</p>
+      <fig id="molecules-10-00559-f003" position="float">
+        <label>Figure 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00559-g003.tif"/>
+      </fig>
+      <p>In the second step of the reaction, nucleophilic addition of the other amino group (N<sub>15</sub>) of <bold>IN1</bold> to the sp<sup>2</sup>-hybridized carbon atom (C<sub>19</sub>) of the second electrophilic 1<italic>H</italic>-pyrazole-3-carboxylic acid chloride happens. In this way the compound <bold>5</bold> was obtained. For the transitional state <bold>TS2</bold>, its interatomic distances are determined as R<sub>N15-C19</sub> = 1.54 &#xC5;, R<sub>N15-H16</sub> = 1.10 &#xC5;, R<sub>C21-Cl18</sub> = 2.40 &#xC5;, R<sub>C18-H19</sub> = 1.90 &#xC5; (see <xref ref-type="table" rid="molecules-10-00559-t002">Table 2</xref>).</p>
+      <table-wrap id="molecules-10-00559-t002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00559-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Conformational and electron characteristics of <bold>IN(1)</bold>, <bold>TS2</bold><sub>5</sub>, and <bold>5</bold>.</p>
+        </caption>
+        <table rules="all" style="border:solid thin">
+          <thead>
+            <tr>
+              <th> </th>
+              <th align="center" valign="top">Atoms/Bonds</th>
+              <th align="center" valign="top">IN(1)</th>
+              <th align="left" valign="top">TS2<sub>5</sub></th>
+              <th align="center" valign="top">5</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td rowspan="16" align="center" valign="middle">INTERATOMIC DISTANCES (in &#xC5;)</td>
+              <td align="center" valign="top">C<sub>14</sub>-N<sub>15</sub></td>
+              <td align="center" valign="top">1.40</td>
+              <td align="center" valign="top">1.44</td>
+              <td align="center" valign="top">1.41</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">N<sub>15</sub>-H<sub>17</sub></td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.02</td>
+              <td align="center" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">N<sub>15</sub>-H<sub>16</sub></td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.10</td>
+              <td align="center" valign="top">3.12</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">N<sub>15</sub>-C<sub>19</sub></td>
+              <td align="center" valign="top">2.89</td>
+              <td align="center" valign="top">1.54</td>
+              <td align="center" valign="top">1.38</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>19</sub>-O<sub>20</sub></td>
+              <td align="center" valign="top">1.23</td>
+              <td align="center" valign="top">1.23</td>
+              <td align="center" valign="top">1.25</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>21</sub>-Cl<sub>18</sub></td>
+              <td align="center" valign="top">1.74</td>
+              <td align="center" valign="top">2.40</td>
+              <td align="center" valign="top">3.79</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">Cl<sub>18</sub>-H<sub>19</sub></td>
+              <td align="center" valign="top">3.04</td>
+              <td align="center" valign="top">1.90</td>
+              <td align="center" valign="top">1.30</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>19</sub>-C<sub>21</sub></td>
+              <td align="center" valign="top">1.46</td>
+              <td align="center" valign="top">1.47</td>
+              <td align="center" valign="top">1.48</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>21</sub>-N<sub>23</sub></td>
+              <td align="center" valign="top">1.37</td>
+              <td align="center" valign="top">1.37</td>
+              <td align="center" valign="top">1.36</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>21</sub>-C<sub>22</sub></td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.45</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>12</sub>-N<sub>9</sub></td>
+              <td align="center" valign="top">1.42</td>
+              <td align="center" valign="top">1.39</td>
+              <td align="center" valign="top">1.40</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">N<sub>9</sub>- C<sub>6</sub></td>
+              <td align="center" valign="top">1.39</td>
+              <td align="center" valign="top">1.40</td>
+              <td align="center" valign="top">1.39</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">N<sub>9</sub>-H<sub>11</sub></td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.04</td>
+              <td align="center" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>6</sub>-O<sub>7</sub></td>
+              <td align="center" valign="top">1.24</td>
+              <td align="center" valign="top">1.24</td>
+              <td align="center" valign="top">1.24</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>6</sub>- C<sub>5</sub></td>
+              <td align="center" valign="top">1.48</td>
+              <td align="center" valign="top">1.28</td>
+              <td align="center" valign="top">1.48</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">Frequencies(cm<sup>-1</sup>)</td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top">-274</td>
+              <td align="center" valign="top"> </td>
+            </tr>            
+            <tr>
+			<td style="border-left:hidden;border-right:hidden" colspan="5" align="center" valign="top"> </td>
+            </tr>
+            <tr>
+              <td rowspan="21" align="center" valign="middle">CHARGES (in electronoc units &#x113;)</td>
+              <td align="center" valign="top">Atoms/Bonds</td>
+              <td align="center" valign="top">5I</td>
+              <td align="center" valign="top">TS2</td>
+              <td align="center" valign="top">5</td>
+            </tr>
+            <tr>
+            <td align="center" valign="top">N<sub>1</sub></td>
+              <td align="center" valign="top">-0.04</td>
+              <td align="center" valign="top">-0.04</td>
+              <td align="center" valign="top">-0.03</td></tr>
+            <tr>
+              <td align="center" valign="top">N<sub>2</sub></td>
+              <td align="center" valign="top">-0.16</td>
+              <td align="center" valign="top">-0.07</td>
+              <td align="center" valign="top">-0.06</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>4</sub></td>
+              <td align="center" valign="top">-0.20</td>
+              <td align="center" valign="top">-0.18</td>
+              <td align="center" valign="top">-0.19</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>5</sub></td>
+              <td align="center" valign="top">-0.09</td>
+              <td align="center" valign="top">-0.11</td>
+              <td align="center" valign="top">-0.10</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>6</sub></td>
+              <td align="center" valign="top">0.46</td>
+              <td align="center" valign="top">0.39</td>
+              <td align="center" valign="top">0.40</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">O<sub>7</sub></td>
+              <td align="center" valign="top">-0.37</td>
+              <td align="center" valign="top">-0.30</td>
+              <td align="center" valign="top">-0.34</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">N<sub>9</sub></td>
+              <td align="center" valign="top">-0.45</td>
+              <td align="center" valign="top">-0.33</td>
+              <td align="center" valign="top">-0.30</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">H<sub>11</sub></td>
+              <td align="center" valign="top">0.33</td>
+              <td align="center" valign="top">0.32</td>
+              <td align="center" valign="top">0.26</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>12</sub></td>
+              <td align="center" valign="top">0.12</td>
+              <td align="center" valign="top">0.22</td>
+              <td align="center" valign="top">0.16</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">N<sub>13</sub></td>
+              <td align="center" valign="top">-0.19</td>
+              <td align="center" valign="top">-0.18</td>
+              <td align="center" valign="top">-0.17</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>14</sub></td>
+              <td align="center" valign="top">0.01</td>
+              <td align="center" valign="top">-0.20</td>
+              <td align="center" valign="top">-0.05</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">N<sub>15</sub></td>
+              <td align="center" valign="top">-0.47</td>
+              <td align="center" valign="top">-0.10</td>
+              <td align="center" valign="top">-0.33</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">H<sub>16</sub></td>
+              <td align="center" valign="top">0.26</td>
+              <td align="center" valign="top">0.32</td>
+              <td align="center" valign="top">0.22</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">H<sub>17</sub></td>
+              <td align="center" valign="top">0.25</td>
+              <td align="center" valign="top">0.22</td>
+              <td align="center" valign="top">0.26</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">Cl<sub>18</sub></td>
+              <td align="center" valign="top">-0.09</td>
+              <td align="center" valign="top">-0.65</td>
+              <td align="center" valign="top">-0.22</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>19</sub></td>
+              <td align="center" valign="top">0.38</td>
+              <td align="center" valign="top">0.40</td>
+              <td align="center" valign="top">0.40</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">O<sub>20</sub></td>
+              <td align="center" valign="top">-0.28</td>
+              <td align="center" valign="top">-0.28</td>
+              <td align="center" valign="top">-0.37</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>21</sub></td>
+              <td align="center" valign="top">-0.14</td>
+              <td align="center" valign="top">-0.13</td>
+              <td align="center" valign="top">-0.13</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">C<sub>22</sub></td>
+              <td align="center" valign="top">-0.20</td>
+              <td align="center" valign="top">-0.18</td>
+              <td align="center" valign="top">-0.20</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">N<sub>23</sub></td>
+              <td align="center" valign="top">-0.02</td>
+              <td align="center" valign="top">-0.01</td>
+              <td align="center" valign="top">-0.04</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>The structure of compound <bold>5</bold> was confirmed, besides elemental analysis, by IR and NMR spectroscopic techniques. These results are in full agreement with similar findings for substituted 1<italic>H</italic>-pyrazole-3-carboxamides [<xref ref-type="bibr" rid="B16-molecules-10-00559">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00559">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00559">18</xref>]. The formation of <bold>5</bold> was supported by the results of both analytical and spectroscopic measurements, particularly by the presence of four characteristic absorption bands (FT IR: 1686.93 cm<sup>-1</sup>, 1670.68 cm<sup>-1</sup>) for carbonyl (amidic and benzoyl) groups. The broad absorption band of NH&#x21CC;OH groups was at 3433.64 cm<sup>-1</sup> [<xref ref-type="bibr" rid="B16-molecules-10-00559">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00559">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00559">18</xref>,<xref ref-type="bibr" rid="B37-molecules-10-00559">37</xref>], and the skeleton bands of benzene or pyrazole rings, together with N-H bending vibrations, were observed at 1596.77, 1581.34, 1518.19, 1499.38, 1448.28 cm<sup>-1</sup> (C<underline>...</underline>C, C<underline>...</underline>N). Important structural information about <bold>5</bold> can be obtained from its <sup>13</sup>C-NMR spectrum. The <sup>13</sup>C-NMR peaks were found to be at 197.68 (t, <sup>3</sup>J = 4.6 Hz, Ph-C=O), 172.20 (s, -NH-C=O), 160.92 (s, -NH-C=O), 158.04 (C-2&#x2019;, pyr.), 147.21, 146.35, 145.65 (C-3, C-3&#x2019;, C-5, C-5&#x2019; exchangeable), 141.46, 141.03 (N-Ph), 137.18-129.82 (C-Ph), 127.11-124.26 ppm (C-4, C-4&#x2019;). Final confirmation of structure <bold>5</bold> was derived from its <sup>1</sup>H-NMR spectrum: &#x3B4; is equal to 10.40 ppm (s, OH, tautomeric proton), 9.58 ppm (s, NH) and 8.21-7.18 ppm for a set of signals for aromatic protons [<xref ref-type="bibr" rid="B37-molecules-10-00559">37</xref>].</p>
+      <p>In order to make the reaction selective, we had to determine the parameters, or, in other words, the reaction pathways, that could lead to such results. At this point, the reaction of <bold>3</bold> with <bold>4</bold> in boiling benzene for 5 hours with no catalytic amounts of pyridine or triethylamine gave another product, 2-(4-benzoyl-1,5-diphenyl-1<italic>H</italic>-pyrazol-3-yl)-3<italic>H</italic>-imidazo[4,5-<italic>b</italic>]pyridine-1,4-diiumdichloride (<bold>6</bold>), which was also obtained in 49% yield by stirring at room temperature for 3-4 days (see <xref ref-type="scheme" rid="molecules-10-00559-f005">Scheme 1</xref>). Thus, compound <bold>3</bold> reacts with 2,3-diaminopyridine (<bold>4</bold>) in two ways and yields either the 1<italic>H</italic>-pyrazole-3-carboxamide derivative <bold>5</bold> or the 3<italic>H</italic>-imidazo[4,5-<italic>b</italic>] pyridine derivative <bold>6</bold>. These results were confirmed by TLC using authentic specimens of <bold>5</bold> or <bold>6</bold> and identified by elemental and spectral data. A Beilstein test gave a green colour for compound <bold>6</bold>. The FT-IR spectra of <bold>6</bold> showed broad bands for the imidazole N-H bond in the &#x3BD; 3484.56, 3175.22 cm<sup>-1</sup> region and also for two <underline><sup>=</sup></underline>N<sup>+</sup>-H groups at 2727.32 cm<sup>-1</sup>. The characteristic absorption bands for the carbonyl groups of <bold>6</bold> were observed at 1668.15 cm<sup>-1</sup> [<xref ref-type="bibr" rid="B37-molecules-10-00559">37</xref>]. The <sup>1</sup>H-NMR peaks were found at &#x3B4; = 10.12 (broad, NH imidazole and <underline><sup>=</sup></underline>N<sup>+</sup>-H imidazole or pyridine). The results of MS measurements and other structural data for the compound <bold>6</bold> are given in the Experimental section.</p>
+      <fig id="molecules-10-00559-f006" position="float">
+        <object-id pub-id-type="pii">molecules-10-00559-f006_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00559-g006.tif"/>
+      </fig>
+      <p>The moderate to excellent yield of the reaction can be explained by the chemical behavior of acid chlorides, similar to the behavior of the compound <bold>3</bold> towards <italic>N</italic>-nucleophiles [<xref ref-type="bibr" rid="B16-molecules-10-00559">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00559">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00559">18</xref>]. The formation of <bold>6</bold> can easily be explained by a nucleophilic attack on the carbonyl group of the acid chloride <bold>3</bold>. It appears, that this process can be followed by elimination of a molecule of hydrogen chloride, formation of <bold>IN(1)</bold> as mentioned above, and elimination of a molecule of water, to give tautomers of <bold>6</bold>, whose formation is rationalized in <xref ref-type="scheme" rid="molecules-10-00559-f006">Scheme 2</xref>. </p>
+      <p>The elimination of water molecule may occur in two states. First, a new bond C<sub>6</sub>-N<sub>15</sub> is formed, being accompanied by the proton H<sub>17</sub> transfer to the O<sub>6</sub> atom. Transitional state <bold>TS2</bold> formation happens under C<sub>6</sub>-N<sub>15</sub> = 1.81 &#xC5;, C<sub>6</sub>-N<sub>9</sub> = 1.52 &#xC5;, C<sub>6</sub>-O<sub>7</sub> = 1.27 &#xC5;, O<sub>7</sub>-H<sub>17</sub> = 1.69 &#xC5; for STO-3G basis set. The intermediate product is being formed under C<sub>6</sub>-N<sub>15</sub> = 1.50 &#xC5;, C<sub>6</sub>-N<sub>9</sub> = 1.47 &#xC5;, C<sub>6</sub>-O<sub>7</sub> = 1.42 &#xC5;, O<sub>7</sub>-H<sub>17</sub> = 0.99 &#xC5; (see <xref ref-type="table" rid="molecules-10-00559-t003">Table 3</xref>). Imaginary frequency for <bold>TS2</bold> is &#x2013;1854 cm<sup>-1</sup> that indicates a substantial change in its structure.</p>
+      <table-wrap id="molecules-10-00559-t003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00559-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>Conformational and electron characteristics of intermediates, transition states and product.</p>
+        </caption>
+        <table rules="all" style="border:solid thin">
+          <tbody>
+            <tr>
+              <td colspan="2" rowspan="2" align="center" valign="middle">Atoms/Bonds</td>
+              <td colspan="3" align="center" valign="top"><bold>IN(1)</bold></td>
+              <td colspan="3" align="center" valign="top"><bold>TS2<sub>6</sub></bold></td>
+              <td colspan="3" align="center" valign="top"><bold>IN(2)</bold></td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHFSTO-3G</td>
+              <td align="center" valign="top">RHF3-21G</td>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHFSTO-3G</td>
+              <td align="center" valign="top">RHF3-21G</td>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHFSTO-3G</td>
+              <td align="center" valign="top">RHF3-21G</td>
+            </tr>
+            <tr>
+              <td rowspan="15" align="center" valign="middle">INTERATOMIC DISTANCES (in &#xC5;)</td>
+              <td align="left" valign="top">C<sub>6</sub>-N<sub>9</sub></td>
+              <td align="center" valign="top">1.38</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.51</td>
+              <td align="center" valign="top">1.52</td>
+              <td align="center" valign="top">1.46</td>
+              <td align="center" valign="top">1.51</td>
+              <td align="center" valign="top">1.47</td>
+              <td align="center" valign="top">1.44</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>-O<sub>7</sub></td>
+              <td align="center" valign="top">1.25</td>
+              <td align="center" valign="top">1.22</td>
+              <td align="center" valign="top">1.21</td>
+              <td align="center" valign="top">1.33</td>
+              <td align="center" valign="top">1.27</td>
+              <td align="center" valign="top">1.33</td>
+              <td align="center" valign="top">1.44</td>
+              <td align="center" valign="top">1.42</td>
+              <td align="center" valign="top">1.42</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>10</sub>-H<sub>11</sub></td>
+              <td align="center" valign="top">0.99</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">0.99</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>9</sub>-C<sub>12</sub></td>
+              <td align="center" valign="top">1.42</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.42</td>
+              <td align="center" valign="top">1.41</td>
+              <td align="center" valign="top">1.42</td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.42</td>
+              <td align="center" valign="top">1.44</td>
+              <td align="center" valign="top">1.38</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>12</sub>-N<sub>13</sub></td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.35</td>
+              <td align="center" valign="top">1.31</td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.35</td>
+              <td align="center" valign="top">1.31</td>
+              <td align="center" valign="top">1.35</td>
+              <td align="center" valign="top">1.33</td>
+              <td align="center" valign="top">1.29</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>12</sub>-C<sub>14</sub></td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.41</td>
+              <td align="center" valign="top">1.41</td>
+              <td align="center" valign="top">1.46</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.40</td>
+              <td align="center" valign="top">1.46</td>
+              <td align="center" valign="top">1.41</td>
+              <td align="center" valign="top">1.41</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>14</sub>-N<sub>15</sub></td>
+              <td align="center" valign="top">1.38</td>
+              <td align="center" valign="top">1.44</td>
+              <td align="center" valign="top">1.37</td>
+              <td align="center" valign="top">1.44</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.44</td>
+              <td align="center" valign="top">1.42</td>
+              <td align="center" valign="top">1.43</td>
+              <td align="center" valign="top">1.38</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>15</sub>-H<sub>16</sub></td>
+              <td align="center" valign="top">0.99</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.01</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.01</td>
+              <td align="center" valign="top">1.00</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>15</sub>-H<sub>17</sub></td>
+              <td align="center" valign="top">0.99</td>
+              <td align="center" valign="top">1.03</td>
+              <td align="center" valign="top">0.99</td>
+              <td align="center" valign="top">1.10</td>
+              <td align="center" valign="top">1.04</td>
+              <td align="center" valign="top">1.05</td>
+              <td align="center" valign="top">2.40</td>
+              <td align="center" valign="top">2.48</td>
+              <td align="center" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub>-C<sub>5</sub></td>
+              <td align="center" valign="top">1.49</td>
+              <td align="center" valign="top">1.52</td>
+              <td align="center" valign="top">1.50</td>
+              <td align="center" valign="top">1.51</td>
+              <td align="center" valign="top">1.53</td>
+              <td align="center" valign="top">1.49</td>
+              <td align="center" valign="top">1.52</td>
+              <td align="center" valign="top">1.54</td>
+              <td align="center" valign="top">1.50</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>-C<sub>4</sub></td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.43</td>
+              <td align="center" valign="top">1.42</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.43</td>
+              <td align="center" valign="top">1.41</td>
+              <td align="center" valign="top">1.45</td>
+              <td align="center" valign="top">1.43</td>
+              <td align="center" valign="top">1.41</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub>-N<sub>1</sub></td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.33</td>
+              <td align="center" valign="top">1.30</td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.33</td>
+              <td align="center" valign="top">1.30</td>
+              <td align="center" valign="top">1.36</td>
+              <td align="center" valign="top">1.33</td>
+              <td align="center" valign="top">1.30</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">O<sub>7</sub>-H<sub>17</sub></td>
+              <td align="center" valign="top">3.42</td>
+              <td align="center" valign="top">4.06</td>
+              <td align="center" valign="top">5.58</td>
+              <td align="center" valign="top">1.70</td>
+              <td align="center" valign="top">1.69</td>
+              <td align="center" valign="top">1.65</td>
+              <td align="center" valign="top">0.97</td>
+              <td align="center" valign="top">0.99</td>
+              <td align="center" valign="top">0.97</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>15</sub>-C<sub>6</sub></td>
+              <td align="center" valign="top">3.00</td>
+              <td align="center" valign="top">3.24</td>
+              <td align="center" valign="top">2.81</td>
+              <td align="center" valign="top">1.59</td>
+              <td align="center" valign="top">1.81</td>
+              <td align="center" valign="top">1.63</td>
+              <td align="center" valign="top">1.51</td>
+              <td align="center" valign="top">1.50</td>
+              <td align="center" valign="top">1.45</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">Frequencies(cm<sup>-1</sup>)</td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top">2031</td>
+              <td align="center" valign="top">-1854</td>
+              <td align="center" valign="top">-1804</td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top"> </td>
+            </tr>
+            <tr><td colspan="11" align="center" valign="top" style="border-right:hidden;border-left:hidden"> </td>
+            </tr>
+            <tr>
+              <td colspan="2" rowspan="2" align="center" valign="middle">Atoms/Bonds</td>
+              <td colspan="3" align="center" valign="top"><bold>IN(1)</bold></td>
+              <td colspan="3" align="center" valign="top"><bold>TS2<sub>6</sub></bold></td>
+              <td colspan="3" align="center" valign="top"><bold>IN(2)</bold></td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHFSTO-3G</td>
+              <td align="center" valign="top">RHF3-21G</td>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHFSTO-3G</td>
+              <td align="center" valign="top">RHF3-21G</td>
+              <td align="center" valign="top">AM1</td>
+              <td align="center" valign="top">RHFSTO-3G</td>
+              <td align="center" valign="top">RHF3-21G</td>
+            </tr>
+            <tr>
+              <td rowspan="13" align="center" valign="middle">CHARGES (in electronoc units &#x113;)</td>
+              <td align="left" valign="top">N<sub>1</sub></td>
+              <td align="center" valign="top">-0.01</td>
+              <td align="center" valign="top">-0.16</td>
+              <td align="center" valign="top">-0.33</td>
+              <td align="center" valign="top">-0.02</td>
+              <td align="center" valign="top">-0.12</td>
+              <td align="center" valign="top">-0.40</td>
+              <td align="center" valign="top">-0.01</td>
+              <td align="center" valign="top">-0.17</td>
+              <td align="center" valign="top">-0.40</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>4</sub></td>
+              <td align="center" valign="top">-0.23</td>
+              <td align="center" valign="top">-0.06</td>
+              <td align="center" valign="top">-0.41</td>
+              <td align="center" valign="top">-0.23</td>
+              <td align="center" valign="top">0.08</td>
+              <td align="center" valign="top">-0.34</td>
+              <td align="center" valign="top">-0.22</td>
+              <td align="center" valign="top">-0.22</td>
+              <td align="center" valign="top">-0.38</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>5</sub></td>
+              <td align="center" valign="top">-0.13</td>
+              <td align="center" valign="top">0.04</td>
+              <td align="center" valign="top">0.36</td>
+              <td align="center" valign="top">-0.10</td>
+              <td align="center" valign="top">0.06</td>
+              <td align="center" valign="top">0.46</td>
+              <td align="center" valign="top">-0.10</td>
+              <td align="center" valign="top">0.06</td>
+              <td align="center" valign="top">0.53</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>6</sub></td>
+              <td align="center" valign="top">0.39</td>
+              <td align="center" valign="top">0.29</td>
+              <td align="center" valign="top">0.91</td>
+              <td align="center" valign="top">0.35</td>
+              <td align="center" valign="top">0.28</td>
+              <td align="center" valign="top">0.76</td>
+              <td align="center" valign="top">0.30</td>
+              <td align="center" valign="top">0.31</td>
+              <td align="center" valign="top">0.76</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">O<sub>7</sub></td>
+              <td align="center" valign="top">-0.30</td>
+              <td align="center" valign="top">-0.24</td>
+              <td align="center" valign="top">-0.58</td>
+              <td align="center" valign="top">-0.59</td>
+              <td align="center" valign="top">-0.30</td>
+              <td align="center" valign="top">-0.74</td>
+              <td align="center" valign="top">-0.34</td>
+              <td align="center" valign="top">-0.30</td>
+              <td align="center" valign="top">-0.68</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>9</sub></td>
+              <td align="center" valign="top">-0.33</td>
+              <td align="center" valign="top">-0.36</td>
+              <td align="center" valign="top">-1.02</td>
+              <td align="center" valign="top">-0.26</td>
+              <td align="center" valign="top">-0.38</td>
+              <td align="center" valign="top">-0.97</td>
+              <td align="center" valign="top">-0.26</td>
+              <td align="center" valign="top">-0.34</td>
+              <td align="center" valign="top">-0.94</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">H<sub>11</sub></td>
+              <td align="center" valign="top">0.26</td>
+              <td align="center" valign="top">0.21</td>
+              <td align="center" valign="top">0.40</td>
+              <td align="center" valign="top">0.23</td>
+              <td align="center" valign="top">0.27</td>
+              <td align="center" valign="top">0.39</td>
+              <td align="center" valign="top">0.23</td>
+              <td align="center" valign="top">0.20</td>
+              <td align="center" valign="top">0.38</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>12</sub></td>
+              <td align="center" valign="top">0.06</td>
+              <td align="center" valign="top">0.17</td>
+              <td align="center" valign="top">0.73</td>
+              <td align="center" valign="top">0.13</td>
+              <td align="center" valign="top">0.15</td>
+              <td align="center" valign="top">0.89</td>
+              <td align="center" valign="top">0.04</td>
+              <td align="center" valign="top">0.18</td>
+              <td align="center" valign="top">0.79</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>13</sub></td>
+              <td align="center" valign="top">-0.11</td>
+              <td align="center" valign="top">-0.25</td>
+              <td align="center" valign="top">-0.71</td>
+              <td align="center" valign="top">-0.16</td>
+              <td align="center" valign="top">-0.26</td>
+              <td align="center" valign="top">-0.78</td>
+              <td align="center" valign="top">-0.14</td>
+              <td align="center" valign="top">-0.26</td>
+              <td align="center" valign="top">-0.77</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C<sub>14</sub></td>
+              <td align="center" valign="top">0.01</td>
+              <td align="center" valign="top">0.10</td>
+              <td align="center" valign="top">0.33</td>
+              <td align="center" valign="top">-0.20</td>
+              <td align="center" valign="top">0.06</td>
+              <td align="center" valign="top">0.17</td>
+              <td align="center" valign="top">-0.09</td>
+              <td align="center" valign="top">0.07</td>
+              <td align="center" valign="top">0.34</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N<sub>15</sub></td>
+              <td align="center" valign="top">-0.33</td>
+              <td align="center" valign="top">-0.38</td>
+              <td align="center" valign="top">-1.01</td>
+              <td align="center" valign="top">-0.12</td>
+              <td align="center" valign="top">-0.38</td>
+              <td align="center" valign="top">-1.01</td>
+              <td align="center" valign="top">-0.26</td>
+              <td align="center" valign="top">-0.36</td>
+              <td align="center" valign="top">-1.01</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">H<sub>16</sub></td>
+              <td align="center" valign="top">0.21</td>
+              <td align="center" valign="top">0.19</td>
+              <td align="center" valign="top">0. 37</td>
+              <td align="center" valign="top">0.23</td>
+              <td align="center" valign="top">0.23</td>
+              <td align="center" valign="top">0.42</td>
+              <td align="center" valign="top">0.22</td>
+              <td align="center" valign="top">0.20</td>
+              <td align="center" valign="top">0.39</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">H<sub>17</sub></td>
+              <td align="center" valign="top">0.18</td>
+              <td align="center" valign="top">0.17</td>
+              <td align="center" valign="top">0.34</td>
+              <td align="center" valign="top">0.30</td>
+              <td align="center" valign="top">0.20</td>
+              <td align="center" valign="top">0.27</td>
+              <td align="center" valign="top">0.23</td>
+              <td align="center" valign="top">0.20</td>
+              <td align="center" valign="top">0.39</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>In the second stage of the reaction, final product <bold>6</bold> is obtained. In the transition state <bold>TS3</bold>, bond lengths are 1.60 &#xC5; for C<sub>6</sub>-O<sub>7</sub>, 1.47 &#xC5; for N<sub>15</sub>-C<sub>6</sub> 1.26 &#xC5; for N<sub>10</sub>-H<sub>11</sub>. When the N<sub>15</sub>-C<sub>6</sub> bond is formed, C<sub>6</sub>-O<sub>7</sub> bond is broken simultaneously.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>In this study, dicarboxamide derivative <bold>5</bold> was prepared in good yield (69%) without opening the pyrazole ring by the nucleophilic substitution reaction of a two-fold molar excess of compounds <bold>2</bold> or <bold>3</bold> and 2,3-diaminopyridine. The reaction of <bold>3</bold> with <bold>4</bold> in benzene with no catalytic amounts of triethylamine led to the formation of another product <bold>6</bold>, besides <bold>5</bold>. The structures of compounds <bold>5</bold> and <bold>6</bold> were confirmed by elemental analyses and spectroscopic data.</p>
+      <fig id="molecules-10-00559-f004" position="float">
+        <label>Figure 4</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00559-g004.tif"/>
+      </fig>
+      <p>The changes that occurred in some of the bond lengths during the <bold>IN(1)</bold> and product <bold>6</bold> formation (the lengths were determined by AM1 method) are shown in <xref ref-type="fig" rid="molecules-10-00559-f004">Figure 4</xref>. While <bold>IN(1)</bold> is being formed, C<sub>6</sub>-Cl<sub>8</sub> and N<sub>9</sub>-H<sub>10</sub> bonds are broken and C<sub>6</sub>-N<sub>9</sub> and Cl<sub>8</sub>-H<sub>10</sub> bonds are formed. In the same way, during the formation of product <bold>6</bold>, C<sub>6</sub>-O<sub>7</sub> and N<sub>15</sub>-H<sub>17</sub> bonds are broken and N<sub>15</sub>-C<sub>6</sub> and O<sub>7</sub>-H<sub>17</sub> bonds are formed. As is seen from <xref ref-type="fig" rid="molecules-10-00559-f004">Figure 4</xref>, some important changes in the charges of atoms occur both under the formation and breakage of the bonds, at the time when <bold>IN(1)</bold> and product <bold>6</bold> are being formed. As an example, the charge density on chlorine atom is -0.06&#x113; in <bold>3</bold>+<bold>4</bold> reactants, -0.56&#x113; in <bold>TS1</bold>, -0.23&#x113; in product. During the formation of product <bold>6</bold>, charge density on carbon atom is 0.39&#x113; in <bold>IN(1)</bold>, 0.35&#x113; in <bold>TS2</bold>, 0.30&#x113; in <bold>IN(2)</bold>, 0.2 &#x113; in <bold>TS3</bold>, and 0.09&#x113; in product <bold>6</bold>. Thus, in this paper we have presented a theoretical and experimental study of the preparation of either product <bold>5</bold> or <bold>6</bold>.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+     <sec>
+	  <title>General</title>
+      <p>Melting points were determined on an Electrothermal 9200 apparatus and are uncorrected. Microanalyses were performed on a Carlo Erba Elemental Analyser Model 1108. The IR spectra were recorded on a Jasco FT-IR spectrometer model 460, using KBr pellets. The <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were obtained on Varian Gemini 200 instrument with CDCl<sub>3</sub> as solvent and TMS as internal standard. Mass spectra were measured on a Shimadzu GC/MS-QP 5050A spectrometer, using DI method with EI. After completion of the reactions, solvents were evaporated with rotary evaporator (Buchi RE model 111). All experiments were followed with TLC using DC Alufolien Kieselgel 60 F<sub>254</sub> (Merck) and a Camag TLC lamp (254/366 nm). Solvents were dried by refluxing with the appropriate drying agent and distilled before use. All other reagents were purchased from Merck, Fluka, Aldrich, Sigma and Acros Chemical Co. and used without further purification. All computations were done by the Gaussian 03W program. Quantum chemical calculations were done by means of semi-empirical AM1 and <italic>ab initio</italic> methods. The STO-3G and 3-21G basis sets were used throughout. Geometries were fully optimized with STO-3G and 3-21G basis sets in the frameworks of the methods used. All stationary points were characterized as minima or transition states by vibrational frequency calculations at the same level of theory as geometry optimization. In addition, intrinsic reaction coordinate (IRC) calculations for transition states were also performed.</p>
+	  </sec>
+      <sec>
+        <title>4-Benzoyl-1,5-diphenyl-N-(2-{[(4-benzoyl-1,5-diphenyl-1H-pyrazol-3-yl)carbonyl]amino}pyridin-3-yl)-1H-pyrazole-3-carboxamide (<bold>5</bold>).</title>
+        <sec>
+        <title>Compound <bold>5</bold> was prepared by two methods as follows:</title>
+        <p><italic>Method A. From 1H-pyrazole-3-carboxylic acid</italic> (<bold>2</bold>). Appropriate amounts of 4-benzoyl-1,5-diphenyl-1<italic>H</italic>-pyrazole-3-carboxylic acid (<bold>2</bold>, 0.50 g, 1.80 mmoles, easily obtained from 4-benzoyl-5-phenyl-2,3-dihydrofuran-2,3-dione and phenylhydrazine [<xref ref-type="bibr" rid="B1-molecules-10-00559">1</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00559">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00559">17</xref>]) and 2,3-diaminopyridine (<bold>4</bold>) were dissolved in benzene (30 mL) in a molar ratio of 2:1 and heated with stirring under reflux together with catalytic amounts of sulfuric acid for 10 hours. The solution was then cooled to 5 <sup>o</sup>C in a refrigerator and a precipitate was formed. After suction filtration, the crude product was recrystallized from methanol and dried over P<sub>2</sub>O<sub>5</sub> to give 0.18 g (33%) of <bold>5</bold>; m.p. 250 <sup>o</sup>C (white crystals); IR: 3434 (b, NH&#x21CC;OH), 1687, 1671 (s, C=O), 1597, 1581, 1518, 1499 cm<sup>-1</sup> (C<underline>...</underline>C, C<underline>...</underline>N, aromatic rings); <sup>1</sup>H-NMR: &#x3B4; 10.40 (s, 1H, OH, tautomeric proton), 9.58 (s, 1H, NH), 8.21-7.18 ppm (m, 33H, Ar-H); <sup>13</sup>C-NMR: &#x3B4; 197.68 (t, <sup>3</sup>J = 4.6 Hz, Ph-C=O), 172.20 (s, -NH-C=O), 160.92 (s, -NH-C=O), 158.04 (C-2&#x2019;, pyr.), 147.21, 146.35, 145.65 (C-3, C-3&#x2019;, C-5, C-5&#x2019; exchangeable), 141.46, 141.03 (N-Ph), 137.18, 136.77, 131.91, 131.72, 131.07, 130.78, 130.40, 130.24, 129.82, (C-Ph), 127.11, 125.39, 125.12 124.83, 124.26 (C-4, C-4&#x2019;), 116.94, 114.60, 111.44 ppm; Anal. Calcd. for C<sub>51</sub>H<sub>35</sub>N<sub>7</sub>O<sub>4</sub>: C, 75.64; H, 4.36; N, 12.11. Found: C, 75.81; H, 4.41; N, 12.07.</p>
+        <p><italic>Method B. From 1H-pyrazole-3-carboxylic acid chloride</italic> (<bold>3</bold>). Appropriate amounts of the acid chloride <bold>3</bold> (0.50 g, 1.30 mmoles) and 2,3-diaminopyridine (<bold>4</bold>, molar ratio 2:1) were dissolved in benzene (30 mL) and refluxed together with catalytic amounts of triethylamine for 5 hours. The solvent was evaporated and the remaining oily residue was treated with petroleum ether to give a crude product that was recrystallized from methanol and dried over P<sub>2</sub>O<sub>5</sub> to yield 0.36 g (69%) of <bold>5</bold>, with an m.p. and TLC identical to those of the product obtained as described above.</p></sec>
+      </sec>
+      <sec>
+      <title>2-(4-Benzoyl-1,5-diphenyl-1H-pyrazol-3-yl)-3H-imidazo[4,5-<italic>b</italic>]pyridine-1,4-diiumdichloride (<bold>6</bold>).</title>
+      <p>This compound was obtained by method B with a reflux time of 5 hours, and with no catalytic amounts of triethylamine. After cooling the solution to room temperature, the precipitate formed was filtered off and recrystallized from 2-propanol, yield 0.32 g (49%); m.p. 221 <sup>o</sup>C; IR: 3485, 3175 (b, NH&#x21CC;OH), 2727 (b, <underline><sup>=</sup></underline>N<sup>+</sup>-H), 1668 (s, C=O), 1624, 1596, 1577, 1515, 1496, 1459 cm<sup>-1</sup> (C<underline>...</underline>C, C<underline>...</underline>N, aromatic rings); <sup>1</sup>H-NMR: &#x3B4; 10.12 (b, 1H, NH imidazole and 2H, <underline><sup>=</sup></underline>N<sup>+</sup>-H), 8.42-6.86 ppm (m, 18H, Ar-H); <sup>13</sup>C-NMR: &#x3B4; 196.76 (Ph-C=O), 154.02 (C-2&#x2019;, pyr.), 151.63, 148.92 (C-3&#x2019;, C-5&#x2019;), 138.32, 137.35, 134.08, 132.97, 132.25, 131.87, 131.20, 130.58 (N-Ph, C-Ph), 127.63, 126.84 (C-4&#x2019;), 116.04, 115.73 ppm; GC/MS: m/z = 514.3 [M<sup>+</sup>], 512.3, 502.4, 501.3, 485.4, 484.3, 470.3, 460.3, 459.3, 442.4, 441.3, 440.3, 431.3, 413.3, 412.3, 368.3, 354.3, 353.3, 352.3, 351.2, 349.2, 334.2, 333.2, 324.3, 323.1, 306.2, 305.2, 295.2, 293.2, 248.2, 247.0, 219.2, 218.2, 216.8, 205.9, 203.8, 190.6, 190.5, 181.2, 180.0, 179.2, 178.2, 177.1, 176.0, 165.1, 160.0, 152.2, 150.2, 147.2, 136.1, 135.1, 120.1, 119.0, 108.1, 107.1, 106.1, 105.0, 93.0, 91.0, 89.1, 81.1, 79.0, 78.1, 77.0, 71.0, 66.1, 64.0, 63.0, 55.1, 53.0, 52.0, 51.0; Anal. Calcd. for C<sub>28</sub>H<sub>21</sub>N<sub>5</sub>OCl<sub>2</sub>: C, 65.38; H, 4.11; N, 13.61. Found: C, 65.35; H, 4.09; N, 13.29.</p>
+    </sec>
+	</sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Financial support from the <italic>Research Center of Erciyes University</italic>, is gratefully acknowledged.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00559">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ziegler</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Eder</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Belegratis</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Prewedourakis</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesen von heterocyclen, 103. Mitt.: &#xDC;ber reaktionen mit oxalylchlorid</article-title>
+          <source>Monatsh. Chem.</source>
+          <year>1967</year>
+          <volume>98</volume>
+          <fpage>2249</fpage>
+          <lpage>2251</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00559">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saalfrank</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>Lutz</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>H&#xF6;rner</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;ndel</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Peters</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>von Schnering</surname>
+              <given-names>H.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Vielseitige synthese von 2,3-dioxo-2,3-dihydrofuranen und alkylidenbutenoliden. Kristall- und molek&#xFC;lstruktur von 5-(4-chlorphenyl)-4-methoxycarbonyl-2,3-dioxo-2,3-dihydrofuran</article-title>
+          <source>Chem. Ber.</source>
+          <year>1991</year>
+          <volume>124</volume>
+          <fpage>2289</fpage>
+          <lpage>2295</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00559">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>H&#xF6;kelek</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Sar&#x131;p&#x131;nar</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Y&#x131;ld&#x131;r&#x131;m</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Akkurt</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ak&#xE7;amur</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>4-(4-Methoxybenzoyl)-5-(4-methoxyphenyl)-2,3-furandione</article-title>
+          <source>Acta Cryst.</source>
+          <year>2002</year>
+		  <volume>E58</volume>
+          <fpage>30</fpage>
+          <lpage>32</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00559">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ziegler</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kollenz</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Eder</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Igel</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesen von heterocyclen, 160. Mitt.: &#xDC;ber reaktionen mit cyclischen oxalylverbindungen</article-title>
+          <source>Monatsh. Chem.</source>
+          <year>1971</year>
+          <volume>102</volume>
+          <fpage>1769</fpage>
+          <lpage>1773</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00559">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kollenz</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kappe</surname>
+              <given-names>C.O.</given-names>
+            </name>
+            <name>
+              <surname>El-Nabi</surname>
+              <given-names>H.A.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>On the reaction of 2,2,6,6,-tetramethyl-3,5-heptanedione &#x201C;Dipivaloylmethane&#x201D; with oxalyl chloride</article-title>
+          <source>Heterocycles</source>
+          <year>1991</year>
+		  <volume>32</volume>
+          <fpage>669</fpage>
+          <lpage>673</lpage>
+          <pub-id pub-id-type="doi">10.3987/COM-91-5679</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00559">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ott</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Ziegler</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kollenz</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Umsetzung von 4-benzoyl-2,3-dioxo-5-phenyl-2,3-dihydrofuran mit o-phenylendiamin</article-title>
+          <source>Synthesis</source>
+          <year>1976</year>
+          <fpage>477</fpage>
+          <lpage>478</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1976-24093</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00559">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kollenz</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Penn</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Dolenz</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ak&#xE7;amur</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Peters</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Peters</surname>
+              <given-names>E.-M.</given-names>
+            </name>
+            <name>
+              <surname>von Schnering</surname>
+              <given-names>H.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Untersuchungen von reaktionsmechanismen durch isotopenmarkierung, VIII. Zum bildungsweg der pyrrolo[2,3-d]pyrimidine aus 4-benzoyl-5-phenyl-2,3-furandion und arylisocyanaten</article-title>
+          <source>Chem. Ber.</source>
+          <year>1984</year>
+          <volume>117</volume>
+          <fpage>1299</fpage>
+          <lpage>1309</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00559">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ziegler</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kollenz</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ott</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reaktionen von 4-benzoyl-2,3-dioxo-5-phenyl-2,3-dihydro-furan mit Schiffschen basen</article-title>
+          <source>Synthesis</source>
+          <year>1973</year>
+          <fpage>679</fpage>
+          <lpage>680</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1973-22291</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00559">
+        <label>9.</label>
+		<note><p>Review:
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kollenz G.</surname>
+              <given-names>Heilmayer W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Unexpected ring-rearrangements in hetero-Diels-Alder reactions</article-title>
+          <source>Trends Heterocycl. Chem.</source>
+          <year>1993</year>
+          <volume>3</volume>
+          <fpage>379</fpage>
+          <lpage>395</lpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B10-molecules-10-00559">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Altural</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Ak&#xE7;amur</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sar&#x131;p&#x131;nar</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Y&#x131;ld&#x131;r&#x131;m</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Kollenz</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>A simple synthesis of functionalized 1<italic>H</italic>-pyrimidines</article-title>
+          <source>Monatsh. Chem.</source>
+          <year>1989</year>
+          <volume>120</volume>
+          <fpage>1015</fpage>
+          <lpage>1020</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00808773</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00559">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Y&#x131;ld&#x131;r&#x131;m</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Sar&#x131;p&#x131;nar</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;zel</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Patat</surname>
+              <given-names>&#x15E;.</given-names>
+            </name>
+            <name>
+              <surname>Ak&#xE7;amur</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Theoretical investigations on the mechanism of interaction of 4-formyl furan-2,3-dion and urea</article-title>
+          <source>J. Mol. Struct.</source>
+          <year>1995</year>
+          <volume>334</volume>
+          <fpage>165</fpage>
+          <lpage>171</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00559">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Y&#x131;ld&#x131;r&#x131;m</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Tezcan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;zel</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sar&#x131;p&#x131;nar</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ak&#xE7;amur</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantum-chemical investigations on the functionalized 1H-pyrimidines</article-title>
+          <source>Turk J. Chem.</source>
+          <year>1996</year>
+          <volume>20</volume>
+          <fpage>27</fpage>
+          <lpage>32</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00559">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sar&#x131;p&#x131;nar</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Y&#x131;ld&#x131;r&#x131;m</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;zel</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ak&#xE7;amur</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Investigation of the electronic structures of 1,4,5-substituted derivatives of 1H-pyrimidin-2-thione</article-title>
+          <source>Monatsh. Chem.</source>
+          <year>1996</year>
+          <volume>127</volume>
+          <fpage>505</fpage>
+          <lpage>512</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00807075</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00559">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Y&#x131;ld&#x131;r&#x131;m</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Ilhan</surname>
+              <given-names>I.&#xD6;.</given-names>
+            </name>
+          </person-group>
+          <article-title>Functionalization and cyclization reactions of various acetanilides with 4-benzoyl-5-phenyl-2,3-furandion. Experimental and theoretical investigations</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1997</year>
+          <volume>34</volume>
+          <fpage>1047</fpage>
+          <lpage>1051</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00559">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Y&#x131;ld&#x131;r&#x131;m</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Kandemirli</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Experimental and theoretical studies on some new pyrrol-2,3-diones formation</article-title>
+          <source>Heteroatom. Chem.</source>
+          <year>2004</year>
+          <volume>15</volume>
+          <fpage>9</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="doi">10.1002/hc.10204</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00559">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ak&#xE7;amur</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Penn</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ziegler</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Sterk</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kollenz</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Peters</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Peters</surname>
+              <given-names>E.-M.</given-names>
+            </name>
+            <name>
+              <surname>von Schnering</surname>
+              <given-names>H.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Zur reaktion von 4-benzoyl-5-phenyl-furan-2,3-dion mit phenylhydrazonen bzw</article-title>
+          <source>phenylhydrazin. Monatsh. Chem.</source>
+          <year>1986</year>
+          <volume>117</volume>
+          <fpage>231</fpage>
+          <lpage>245</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00809443</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00559">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ak&#xE7;amur</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sener</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ipekoglu</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Kollenz</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Functionalization and cyclization reactions of 4-benzoyl-1,5-diphenyl-1H-pyrazole-3-carboxylic acid</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1997</year>
+          <volume>34</volume>
+          <fpage>221</fpage>
+          <lpage>224</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570340133</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00559">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sener</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kas&#x131;mogullar&#x131;</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Sener</surname>
+              <given-names>M.K.</given-names>
+            </name>
+            <name>
+              <surname>Bildirici</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Ak&#xE7;amur</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on the reactions of cyclic oxalyl compounds with hydrazines or hydrazones: Synthesis and reactions of 4-benzoyl-1-(3-nitrophenyl)-5-phenyl-1H-pyrazole-3-carboxylic acid</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2002</year>
+          <volume>39</volume>
+          <fpage>869</fpage>
+          <lpage>875</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570390503</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00559">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sener</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>One Step synthesis and some reactions of 7-hydrazino-3,4-diphenyl-2H-pyrazolo[3,4-d]pyridazine</article-title>
+          <source>Turk. J. Chem.</source>
+          <year>2004</year>
+          <volume>28</volume>
+          <fpage>39</fpage>
+          <lpage>45</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00559">
+        <label>20.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Joule</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Mills</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>G. F.</given-names>
+            </name>
+          </person-group>
+          <source>Heterocyclic Chemistry</source>
+		  <edition>3rd ed.</edition>
+          <publisher-name>Chapman &amp; Hall</publisher-name>
+          <publisher-loc>London, UK</publisher-loc>
+          <year>1995</year>
+          <comment>Chap. 22</comment>
+          <fpage>402</fpage>
+          <lpage>405</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00559">
+        <label>21.</label>
+        <citation citation-type="book">
+		<person-group person-group-type="editor">
+            <name>
+              <surname>Wiley</surname>
+              <given-names>R.H.</given-names>
+            </name>
+		</person-group>	
+          <article-title>Pyrazoles, Pyrazolines, Pyrazolidines, Indazoles and Condensed Rings</article-title>
+          <source>The Chemistry of Heterocyclic Compounds</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Weissberger</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Interscience Publishers</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1967</year>
+          <volume>Vol. 22</volume>
+          <fpage>180</fpage>
+          <lpage>278</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00559">
+        <label>22.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Elguero</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Comprehensive Heterocyclic Chemistry</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Katritzky</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C.W.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Pergamon</publisher-name>
+          <publisher-loc>Oxford</publisher-loc>
+          <year>1984</year>
+          <volume>Vol. 5</volume>
+          <fpage>167</fpage>
+          <lpage>302</lpage>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00559">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Daidone</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Raffa</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Plescia</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Maggio</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Roccaro</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of pyrazole-4-carbohydrazide derivatives of pharmaceutical interest</article-title>
+          <source>ARKIVOC</source>
+          <year>2002</year>
+		  <volume>XI</volume>
+          <fpage>227</fpage>
+          <lpage>235</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00559">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mahajan</surname>
+              <given-names>R.N.</given-names>
+            </name>
+            <name>
+              <surname>Havaldar</surname>
+              <given-names>F.H</given-names>
+            </name>
+            <name>
+              <surname>Fernandes</surname>
+              <given-names>P.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses and biological activity of heterocycles derived from 3-methoxy-1-phenyl-1H-pyrazole-5-carboxylate</article-title>
+          <source>J. Indian Chem. Soc.</source>
+          <year>1991</year>
+          <volume>68</volume>
+          <fpage>245</fpage>
+          <lpage>246</lpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00559">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baraldi</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Manfredini</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Romagnoli</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Stevanato</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Zaid</surname>
+              <given-names>A.N.</given-names>
+            </name>
+            <name>
+              <surname>Manservigi</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and anti-HSV-1 activity of 6 substituted pyrazolo[3,4-d]pyridazin-7-one nucleosides</article-title>
+          <source>Nucleos. Nucleot.</source>
+          <year>1998</year>
+		  <volume>17</volume>
+          <fpage>2165</fpage>
+          <lpage>2173</lpage>
+          <pub-id pub-id-type="doi">10.1080/07328319808004307</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-00559">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hatheway</surname>
+              <given-names>G.J.</given-names>
+            </name>
+            <name>
+              <surname>Hansch</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>K.H.</given-names>
+            </name>
+            <name>
+              <surname>Milstein</surname>
+              <given-names>S.R.</given-names>
+            </name>
+            <name>
+              <surname>Schimidt</surname>
+              <given-names>C.L.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>R.N.</given-names>
+            </name>
+            <name>
+              <surname>Quin</surname>
+              <given-names>F.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antitumor 1-(X-aryl)-3,3-dialkyltriazenes. 1. Quantitative structure-activity relationships vs L1210 leukemia in mice</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1978</year>
+          <volume>21</volume>
+          <fpage>563</fpage>
+          <lpage>574</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-00559">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tewari</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and anti-inflammatory activities of <italic>N</italic><sup>4</sup>,<italic>N</italic><sup>5</sup>-disubstituted-3-methyl-1H-pyrazolo[3,4-<italic>c</italic>]pyridazines</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2001</year>
+		  <volume>9</volume>
+          <fpage>715</fpage>
+          <lpage>718</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0968-0896(00)00285-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-00559">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Londershausen</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Review: Approaches to New Parasiticides</article-title>
+          <source>Pestic. Sci.</source>
+          <year>1996</year>
+		  <volume>48</volume>
+          <fpage>269</fpage>
+          <lpage>292</lpage>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1096-9063(199612)48:4&lt;269::AID-PS478&gt;3.0.CO;2-B</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-00559">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>H.S.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.M.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. J. Chinese Univ.</source>
+          <year>1998</year>
+		  <volume>19</volume>
+          <fpage>572</fpage>
+          <lpage>576</lpage>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-00559">
+        <label>30.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lepage</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Hublot</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. Pat. Appl.</source>
+		  <patent>EP 459 887</patent>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1992</bold>, <italic>116</italic>, 128917]</comment>
+        </citation>
+      </ref>
+      <ref id="B31-molecules-10-00559">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harnden</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Boyd</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>D.R.</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>N.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thiazolinone analogs of indolmycin with antiviral and antibacterial activity</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1978</year>
+		  <volume>21</volume>
+          <fpage>82</fpage>
+          <lpage>87</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00199a015</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32-molecules-10-00559">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matyus</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>3(2<italic>H</italic>)-Pyridazinones: Some recent aspects of synthetic and medicinal chemistry</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1998</year>
+          <volume>35</volume>
+          <fpage>1075</fpage>
+          <lpage>1089</lpage>
+          <comment>and references therein</comment>
+        </citation>
+      </ref>
+      <ref id="B33-molecules-10-00559">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dewar</surname>
+              <given-names>M.J.S.</given-names>
+            </name>
+            <name>
+              <surname>Zoebisch</surname>
+              <given-names>E.G.</given-names>
+            </name>
+            <name>
+              <surname>Healy</surname>
+              <given-names>E.F.</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>J.J.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Development and use of quantum mechanical molecular models. 76. AM1: a new general purpose quantum mechanical molecular model</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1985</year>
+          <volume>107</volume>
+          <fpage>3902</fpage>
+          <lpage>3909</lpage>
+        </citation>
+      </ref>
+      <ref id="B34-molecules-10-00559">
+        <label>34.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frisch</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Trucks</surname>
+              <given-names>G.W.</given-names>
+            </name>
+            <name>
+              <surname>Schlegel</surname>
+              <given-names>H.B.</given-names>
+            </name>
+            <name>
+              <surname>Scuseria</surname>
+              <given-names>G.E.</given-names>
+            </name>
+            <name>
+              <surname>Robb</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Cheeseman</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>Zakrzewski</surname>
+              <given-names>V.G.</given-names>
+            </name>
+            <name>
+              <surname>Montgomery</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Stratmann</surname>
+              <given-names>R.E.J.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Burant</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Dapprich</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Millam</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Daniels</surname>
+              <given-names>A.D.</given-names>
+            </name>
+            <name>
+              <surname>Kudin</surname>
+              <given-names>K.N.</given-names>
+            </name>
+            <name>
+              <surname>Strain</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Farkas</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Tomasi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Barone</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Cossi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cammi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Mennucci</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Pomelli</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Adamo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Clifford</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ochterski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Petersson</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Ayala</surname>
+              <given-names>P.Y.</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Morokuma</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Malick</surname>
+              <given-names>D.K.</given-names>
+            </name>
+            <name>
+              <surname>Rabuck</surname>
+              <given-names>A.D.</given-names>
+            </name>
+            <name>
+              <surname>Raghavachari</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Foresman</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Cioslowski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ortiz</surname>
+              <given-names>J. V.</given-names>
+            </name>
+            <name>
+              <surname>Baboul</surname>
+              <given-names>A.G.</given-names>
+            </name>
+            <name>
+              <surname>Stefanov</surname>
+              <given-names>B.B.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Liashenko</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Piskorz</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Komaromi</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Gomperts</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>R.L.</given-names>
+            </name>
+            <name>
+              <surname>Fox</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Keith</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Al-Laham</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Nanayakkara</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Challacombe</surname>
+              <given-names>M.P.</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Andres</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Gonzalez</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Head-Gordon</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Replogle</surname>
+              <given-names>E.S.</given-names>
+            </name>
+            <name>
+              <surname>Pople</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <source>Gaussian 98, Revision A.9</source>
+          <publisher-name>Gaussian, Inc.</publisher-name>
+          <publisher-loc>Pittsburgh, PA</publisher-loc>
+          <year>1998</year>
+        </citation>
+      </ref>
+      <ref id="B35-molecules-10-00559">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Polanyi</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Zewail</surname>
+              <given-names>A.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Direct Observation of the Transition State</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>1995</year>
+		  <volume>28</volume>
+          <fpage>119</fpage>
+          <lpage>132</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar00051a005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36-molecules-10-00559">
+        <label>36.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pedersen</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Herek</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Zevail</surname>
+              <given-names>A.H.</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <year>1994</year>
+          <volume>266</volume>
+          <fpage>1293</fpage>
+        </citation>
+      </ref>
+      <ref id="B37-molecules-10-00559">
+        <label>37.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bassler</surname>
+              <given-names>G.C.</given-names>
+            </name>
+            <name>
+              <surname>Morrill</surname>
+              <given-names>T.C.</given-names>
+            </name>
+            <name>
+              <surname>Silverstein</surname>
+              <given-names>R.M.</given-names>
+            </name>
+          </person-group>
+          <source>Spectrometric Identification of Organic Compounds</source>
+          <publisher-name>John Wiley and Sons</publisher-name>
+          <publisher-loc>New York; NY</publisher-loc>
+          <year>1991</year>
+          <fpage>108</fpage>
+          <lpage>282</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	<fn>
+      <p><italic>Sample Availability:</italic> Available from the authors.</p>
+	  </fn>
+	  </fn-group>
+  </back>
+</article>

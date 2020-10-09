@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10111419</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01419</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Reaction of Thallium(III) Salts with Homoallylic Alcohols: Ring Contraction <italic>vs.</italic> Dimethoxylation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Silva</surname>
+            <given-names>Luiz F.</given-names>
+			<suffix>Jr.</suffix>
+          </name>
+          <xref rid="c1-molecules-10-01419" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Craveiro</surname>
+            <given-names>Marcus V.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01419">Instituto de Qu&#xED;mica, Universidade de S&#xE3;o Paulo, Av. Prof. Lineu Prestes, 748. CP 26077, CEP 05513-970, S&#xE3;o Paulo, Brazil. Tel. (+55)-11-3091-2388, Fax (+55)-11-3815-5579</aff>
+      <author-notes>
+         <corresp id="c1-molecules-10-01419"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>luizfsjr@iq.usp.br</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>11</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>11</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>11</issue>
+      <fpage>1419</fpage>
+      <lpage>1428</lpage>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>03</month>
+          <year>2005</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>26</day>
+          <month>07</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>07</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The oxidation of 2-(3,4-dihydronaphthalen-1-yl)-ethanol (<bold>1</bold>) with a variety of thallium(III) salts was investigated. An indan, formed by a ring contraction reaction, was obtained in good to moderate yields under a variety of reaction conditions: i) thallium triacetate (TTA) in aqueous AcOH; ii) thallium tris-trifluoroacetate (TTFA) in aqueous TFA; iii) TTFA in CH<sub>2</sub>Cl<sub>2</sub>; iv) thallium tripropionate (TTP) in aqueous propionic acid and v) thallium tris-[(<italic>S</italic>)-(-)-triacetoxypropionate] in aqueous (<italic>S</italic>)-(-)-2-acetoxypropionic acid. On the other hand, the reaction of compound <bold>1</bold> with TTA in methanol led to a 2:1 mixture of the corresponding <italic>cis</italic>- and <italic>trans</italic>-dimethoxylated compounds, respectively. These compounds were formed by a thallium-promoted addition of methanol to the double bond.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Thallium(III)</kwd>
+		<kwd>ring contraction</kwd>
+		<kwd>dimethoxylation</kwd>
+		<kwd>homoallylic alcohols</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The development of new methods to obtain indans is a particularly active area in synthetic organic chemistry [<xref ref-type="bibr" rid="B1-molecules-10-01419">1</xref>] because these molecules are very useful building blocks for the synthesis of bioactive compounds, such as the well-known Indinavir<sup>&#xAE;</sup> [<xref ref-type="bibr" rid="B2-molecules-10-01419">2</xref>] and Aricept<sup>&#xAE;</sup> [<xref ref-type="bibr" rid="B3-molecules-10-01419">3</xref>]. Examples of important strategies to construct indans are cycloaddition and Friedel-Crafts reactions [<xref ref-type="bibr" rid="B4-molecules-10-01419">4</xref>]. Another approach is the ring contraction of a naphthalene derivative, which can be performed by a thallium(III)-mediated oxidative rearrangement [<xref ref-type="bibr" rid="B5-molecules-10-01419">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-01419">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-01419">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-01419">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-01419">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-01419">10</xref>]. An example of this reaction is the treatment of a homoallylic alcohol, such as <bold>1</bold>, with thallium trinitrate (TTN) in a mixture of AcOH and H<sub>2</sub>O, leading to the indan <bold>2</bold> in good isolated yield. The hydroxyl group of the side chain plays an active role in this ring contraction, coordinating with the thallium atom in the addition step [<xref ref-type="bibr" rid="B5-molecules-10-01419">5</xref>] (<xref ref-type="scheme" rid="molecules-10-01419-f003">Scheme 1</xref>). Although the behavior of several homoallylic alcohols analogous to <bold>1</bold> has been investigated, the effect of the reaction conditions was not studied. Considering that thallium(III)-mediated oxidations can be highly sensitive to the counter-ion of the thallium salt, as well as to the reaction conditions [<xref ref-type="bibr" rid="B11-molecules-10-01419">11</xref>], we decided to perform a detailed study of the oxidation of <bold>1</bold> with several different thallium(III) salts, including the new thallium tris-[<italic>(S)</italic>-2-acetoxypropionate] (TTAP) and thallium tripropionate (TTP), to show that the indan <bold>2</bold> can be obtained under a variety of different conditions. During this work, we also discovered that a double bond dimethoxylation can take place when the oxidation of <bold>1</bold> is performed with thallium triacetate (TTA) in methanol. Although the selective dihydroxylation of double bonds is a well-established reaction [<xref ref-type="bibr" rid="B12-molecules-10-01419">12</xref>], there are only a few methods for the corresponding dimethoxylation reaction [<xref ref-type="bibr" rid="B13-molecules-10-01419">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-01419">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-01419">15</xref>].</p>
+      <fig id="molecules-10-01419-f003" position="float">
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01419-g003.tif"/>
+		</fig>
+    </sec>
+    <sec>
+      <title>Results and Discussion</title>
+      <p>In addition to the commercially available TTA and thallium tris-trifluoroacetate (TTFA), we decided to investigate the behavior and the synthesis of some new thallium(III) salts. Thus, inspired by the article by Arseniadys and co-workers concerning the reaction of lead(IV) acetate in <italic>(S)</italic>-2-acetoxypropionic acid [<xref ref-type="bibr" rid="B16-molecules-10-01419">16</xref>], thallium tris-[<italic>(S)</italic>-2-acetoxypropionate] (TTAP) was chosen as a candidate to further explore the oxidation of the substrate <bold>1</bold>. We expect that eventually the chiral non-racemic TTAP will find useful applications in asymmetric oxidations. For comparison with either TTA or TTAP, the preparation of thallium tripropionate (TTP) was also conceived (<xref ref-type="fig" rid="molecules-10-01419-f001">Figure 1</xref>).<bold/></p>
+      <fig id="molecules-10-01419-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Structures of thallium(III) carboxylates.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01419-g001.tif"/>
+      </fig>
+      <p>To prepare TTAP, it was necessary to obtain <italic>(S)</italic>-(-)-2-acetoxypropionic acid in an efficient manner. In our hands, this was best achieved by acetylation of <italic>(S)</italic>-(+)-lactic acid with acetyl chloride in THF, avoiding an aqueous work-up. The synthesis of TTAP was performed according to the procedure of Mosher and Kher [<xref ref-type="bibr" rid="B17-molecules-10-01419">17</xref>], who prepared several lead carboxylates. The required metathesis reaction occurred by mixing TTA and <italic>(S)</italic>-(-)-2-acetoxypropionic acid under reduced pressure, leading to TTAP in good yield. TTAP was obtained in a pure form as a white solid, showing a single set of signals in the NMR spectrum. However, this salt is unstable, becoming a highly viscous yellow oil when exposed to the air. Thus, thallium(I) content varied from 14 to 22%. TTP was prepared in a similar fashion. However, the mixture of TTA and propionic acid must be stirred for 12 h at room pressure and for 2.5 h at 0.8 mmHg (<xref ref-type="scheme" rid="molecules-10-01419-f004">Scheme 2</xref>), because under the same conditions used for TTAP, the metathesis occurs only partially. TTP is a stable white solid and its thallium(I) content was zero.</p>
+      <fig id="molecules-10-01419-f004" position="float">
+        <label>Scheme 2</label>
+         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01419-g004.tif"/>
+		</fig>
+      <p>The thallium(III) mediated cyclization of the monoterpene isopulegol has been carefully studied by Ferraz and co-workers [<xref ref-type="bibr" rid="B18-molecules-10-01419">18</xref>]. This oxidation occurs either with TTN (<xref ref-type="table" rid="molecules-10-01419-t001">Table 1</xref>, entry 1) or with TTA (entry 2) under a variety of different conditions [<xref ref-type="bibr" rid="B19-molecules-10-01419">19</xref>], leading always to the corresponding cyclic ether in a very pure form [<xref ref-type="bibr" rid="B20-molecules-10-01419">20</xref>]. For these reasons, this reaction was selected to test the reactivity of TTAP and of TTP. When isopulegol was treated with TTP (entry 3) or with TTAP (entry 4) in similar conditions to that used with TTA or with TTN, the corresponding cyclic hydroxyether was obtained in good isolated yield. The reaction time clearly shows a difference of reactivity among the thallium salts, where the more reactive is the TTN and the less is the TTAP.</p>
+      <table-wrap id="molecules-10-01419-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-01419-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Cyclization of Isopulegol with Thallium(III) Salts</p>
+		  <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01419-i001.tif"/></p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="top">Entry</th>
+              <th align="center" valign="top">Conditions</th>
+              <th align="center" valign="top">Yield</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="top">1</td>
+              <td align="center" valign="top">TTN, AcOH/H<sub>2</sub>O (1:1), 5 min, rt</td>
+              <td align="center" valign="top">86% [<xref ref-type="bibr" rid="B18-molecules-10-01419">18</xref>]</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">2</td>
+              <td align="center" valign="top">TTA, AcOH/H<sub>2</sub>O (1:1), 40 min, rt</td>
+              <td align="center" valign="top">92% [<xref ref-type="bibr" rid="B20-molecules-10-01419">20</xref>]</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">3</td>
+              <td align="center" valign="top">TTP, AcOH/H<sub>2</sub>O (2:1), 2 h, rt</td>
+              <td align="center" valign="top">71%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">4</td>
+              <td align="center" valign="top">TTAP, AcOH/H<sub>2</sub>O (2:1), 4 h, rt</td>
+              <td align="center" valign="top">69%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>After the positive results obtained in the cyclization of isopulegol, the behavior of the substrate <bold>1</bold> towards thallium(III) was carefully investigated. This study was initiated by performing the reaction of <bold>1</bold> with TTA in two different solvents, namely methanol and aqueous acetic acid. Treatment of the homoallylic alcohol <bold>1</bold> with TTA in methanol gavea 2:1 mixture of the addition products <bold>4a</bold> and <bold>4b</bold>, respectively, as determined by <sup>1</sup>H-NMR analysis of the crude product. However, a different ratio was obtained for the pure isolated products (<xref ref-type="scheme" rid="molecules-10-01419-f005">Scheme 3</xref>).</p>
+      <fig id="molecules-10-01419-f005" position="float">
+        <label>Scheme 3</label>
+         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01419-g005.tif"/>
+		</fig>
+      <p>The formation of the <italic>cis</italic>- and <italic>trans</italic>-dimethoxylated compounds <bold>4a</bold> and <bold>4b</bold> can be explained by the mechanism shown in <xref ref-type="scheme" rid="molecules-10-01419-f006">Scheme 4</xref>. The first step would be the electrophilic addition of the thallium(III), which is assisted by the hydroxyl group, giving the intermediate <bold>II</bold>. The <italic>cis</italic> diastereomer <bold>4a</bold> would result from a reductive displacement of thallium(III) by the methanol in the oxythallated adduct <bold>II</bold> (Path a). The intermediate <bold>II</bold> could also lead to the trans compound <bold>4b</bold> through the oxonium ion <bold>III</bold>, which is formed by an intramolecular displacement of the thallium(III) (Path b).</p>
+      <fig id="molecules-10-01419-f006" position="float">
+        <label>Scheme 4</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01419-g006.tif"/>
+		</fig>
+      <p>The relative configurations of <bold>4a-b</bold> were assigned by comparison with the NMR data of analogous dihydroxy-, dimethoxy, and hydroxy-methoxy-tetrahydronaphthalenes derivatives [<xref ref-type="bibr" rid="B6-molecules-10-01419">6</xref>,<xref ref-type="bibr" rid="B21-molecules-10-01419">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-01419">22</xref>,<xref ref-type="bibr" rid="B23-molecules-10-01419">23</xref>]. Tabulating these data, we observed that the hydrogen bonded to the C2 carbon (H<sub>a</sub>) in the <italic>trans</italic> series is deshielded when compared to the corresponding <italic>cis</italic> isomer. In addition, in the <italic>trans</italic> compounds, H<italic><sub>a</sub></italic> appears as a dd with coupling constants ranging from 2.4-3.9 and 11.0-11.8. Furthermore, the hydrogens of the methyl group bounded to the C1 carbon are deshielded in the <italic>cis</italic> compounds. A mnemonic device to differentiate the <italic>cis</italic> from the <italic>trans</italic> diastereomer in the dimethoxylated compounds (<bold>4</bold> and <bold>7</bold>, for example) could be established by noting the distance of the singlets corresponding to the hydrogens of the methoxyl group. In the <italic>cis</italic> diastereomers, the singlets are closer than in the <italic>trans</italic>.</p>
+      <fig id="molecules-10-01419-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Selected chemical shifts of <italic>cis</italic>- and <italic>trans</italic>-dimethoxylated compounds</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01419-g002.tif"/>
+      </fig>
+      <p>Contrasting with the reaction in methanol, the indan <bold>2</bold> was obtained in 57% yield when the substrate <bold>1</bold> was treated with TTA in aqueous acetic acid (<xref ref-type="table" rid="molecules-10-01419-t002">Table 2</xref>, Entry 1). This value is lower than that obtained in the reaction with TTN [<xref ref-type="bibr" rid="B5-molecules-10-01419">5</xref>]. After the optimization of the reaction conditions for TTA, the ring contraction of <bold>1</bold> with TTAP or with TTP appeared to be straightforward, considering the experiments performed with isopulegol. However, when <bold>1</bold> was treated with TTAP or with TTP in aqueous acetic acid, a complex mixture of compounds was obtained, in which the ring contraction product was not detected by TLC and GC analysis. So far, we cannot explain why the ring contraction of <bold>1</bold> with TTAP or with TTP did not take place in AcOH similarly to the reaction using TTA, whereas the cyclization of isopulegol occurs with all thallium salts in AcOH. The disappointing result obtained in the reactions with TTAP and with TTP showed that further information concerning the ring contraction of <bold>1</bold> with thallium(III) was required. Thus, we decided to investigate the oxidation of <bold>1</bold> with another commercially available thallium(III) carboxylate: thallium tris-trifluoroacetate (TTFA). The two different solvents &#x2013; TFA/H<sub>2</sub>O and CH<sub>2</sub>Cl<sub>2 </sub>[<xref ref-type="bibr" rid="B11-molecules-10-01419">11</xref>] &#x2013; normally used in the reactions with TTFA were tested in the oxidation of <bold>1</bold>. Under both conditions, the desired ring contraction product could be obtained in good yield (Entries 2 and 3). At this stage, we realized an important feature for the reaction of <bold>1</bold> with thallium(III): <bold><italic>the best solvent is an aqueous solution of the carboxylic acid corresponding to the carboxylate anion of the thallium salt</italic></bold> (compare entries 1 and 2). Thus, the reaction of <bold>1</bold> was performed with TTP in a mixture of propionic acid and H<sub>2</sub>O. Indeed, under such a condition, the indan <bold>2</bold> was obtained (entry 4). Similarly, treatment of <bold>1</bold> with TTAP in aqueous <italic>(S)</italic>-(-)-2-acetoxypropionic acid gave the ring contraction product <bold>2</bold> (entry 5). CG analysis of this product using chiral column was then performed. Unfortunately, no chiral induction was observed in the formation of <bold>2</bold> promoted by the chiral non-racemic TTAP. Finally, two other reaction conditions were tested to promote the rearrangement of <bold>1</bold> into <bold>2</bold> using TTAP. In CH<sub>2</sub>Cl<sub>2</sub> the substrate was recovered without the formation of  any <bold>2</bold>, whereas in <italic>(S)</italic>-(-)-2-acetoxypropionic acid a complex mixture was obtained. </p>
+      <table-wrap id="molecules-10-01419-t002" position="float">
+        <object-id pub-id-type="pii">molecules-10-01419-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Ring Contraction of <bold>1</bold> promoted by Thallium(III)</p>
+		  <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01419-i002.tif"/></p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="top">Entry</th>
+              <th align="center" valign="top">Conditions</th>
+              <th align="center" valign="top">Yield</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="top">1</td>
+              <td align="center" valign="top">TTA, AcOH/H<sub>2</sub>O (2:1), 4 h, rt</td>
+              <td align="center" valign="top">57%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">2</td>
+              <td align="center" valign="top">TTFA, TFA/H<sub>2</sub>O (2:1), 2 h, rt</td>
+              <td align="center" valign="top">67%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">3</td>
+              <td align="center" valign="top">TTFA, CH<sub>2</sub>Cl<sub>2</sub>, 2 h, rt</td>
+              <td align="center" valign="top">63%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">4</td>
+              <td align="center" valign="top">TTP, H<sub>3</sub>CCH<sub>2</sub>COOH/H<sub>2</sub>O (2:1), 4 h, rt</td>
+              <td align="center" valign="top">59%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">5</td>
+              <td align="center" valign="top">TTAP, (<italic>S</italic>)-(-)-2-acetoxypropionic acid/H<sub>2</sub>O (2:1), 18 h, rt</td>
+              <td align="center" valign="top">32%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>Analysis of the respective yields and reaction times of the reactions of the alkenol <bold>1</bold> with TTN (<xref ref-type="scheme" rid="molecules-10-01419-f003">Scheme 1</xref>), TTA (entry 1), TTFA (entry 2), TTP (entry 4), and TTAP (entry 5) allows one to conclude that the order of reactivity is as follows: TTAP &lt; TTP &#x2248; TTA &lt; TTFA &lt; TTN, which agrees with that observed in the reaction of isopulegol (cf. <xref ref-type="table" rid="molecules-10-01419-t001">Table 1</xref>).</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>In summary, the reaction conditions to promote two important reactions, namely the electrophilic cyclization of isopulegol and the ring contraction of <bold>1</bold> were performed under several different conditions, greatly expanding the knowledgement of these reactions. Moreover, a novel method for the dimethoxylation of 1,2-dihydronaphthalenes was presented.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Information concerning general experimental methods was recently published [<xref ref-type="bibr" rid="B5-molecules-10-01419">5</xref>]. Flash chromatography was performed using silica gel 200-400 Mesh and the indicated eluents. Technical grade isopulegol was purified by this technique (10% AcOEt in hexanes). The [&#x3B1;]<sub>D</sub> measurements were performed in a JASCO Digital Polarimeter Model DIP-370. The amount of thallium(I) salt in TTAP and TTP was determined by titration [<xref ref-type="bibr" rid="B24-molecules-10-01419">24</xref>]. <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were recorded on Bruker spectrometers. IR spectra were measured on a Perkin-Elmer 1750-FT. GG analyses were performed on a HP-6890 series II. GC-MS analyses were performed using Finnigan-MAT INCOS 50B and GC Varian 2400. Elemental analyses were performed using Perkin-Elmer 2400 apparatus.</p>
+      </sec>
+      <sec>
+        <title>(S)-(-)-2-Acetoxypropionic acid</title>
+        <p>To stirred solution of (+)-lactic acid (99%, 1.27, 14.2 mmol) in anhydrous THF (2 mL), was added acetyl chloride [<xref ref-type="bibr" rid="B25-molecules-10-01419">25</xref>] (2.25 g, 28.2 mmol). The mixture was stirred at the room temperature for 2 h. The THF was removed under reduced pressure and the resulting oil was distilled (100-103 &#xB0;C/0.7 mmHg) giving <italic>(S)</italic>-(-)-2-acetoxypropionic acid [<xref ref-type="bibr" rid="B25-molecules-10-01419">25</xref>] (1.81 g, 13.7 mmol, 98%), as a colorless oil.</p>
+      </sec>
+      <sec>
+        <title>Thallium tris-[(S)-(-)-2-acetoxypropionic acid] (TTAP)</title>
+        <p>To a three-neck flask were added TTA (0.787 g, 1.92 mmol) and <italic>(S)</italic>-(-)-2-acetoxypropionic acid (3.0 eq., 0.77 g, 5.8 mmol) under an inert atmosphere. After the addition, the mixture was stirred under reduced pressure (0.8 mmHg). A few minutes later, the temperature was increased to 60 &#xBA;C for 3 h. A pale yellow high viscous mixture was obtained which became a white solid after trituration with Et<sub>2</sub>O. The solid was filtered giving TTAP (0.784 g, 1.31 mmol, 67%) as a white flocculent solid. mp 60.6-61.9 &#xBA;C; [&#x3B1;]<sub>D</sub><sup>25</sup> -70.6 &#xBA; (c 3.5, CHCl<sub>3</sub>). TTAP is unstable, which precluded obtaining a satisfactory elemental analysis. <sup>1</sup>H-NMR (200 MHz, CDCl<sub>3</sub>) &#x3B4;: 1.52 (d, J = 7.0 Hz, 3H), 2.11 (s, 3H), 5.11 (q, J = 7.0 Hz, 1H); <sup>13</sup>C-NMR (50 MHz, CDCl<sub>3</sub>) &#x3B4;: 17.6, 20.9, 70.5, 171.3, 177.1; IR (KBr) cm<sup>-1</sup>: 2990, 1722, 1594, 1408, 1374, 1260, 1094.</p>
+      </sec>
+      <sec>
+        <title>Thallium tripropionate (TTP)</title>
+        <p>To a three-neck flask were added TTA (3.67 g, 9.01 mmol) and propionic acid (3 eq., 2.01 g, 27.0 mmol) under inert atmosphere. The mixture was stirred for 12 h at room pressure and temperature. Then, the mixture was stirred under reduced pressure (0.8 mmHg) for 10 minutes at room temperature and the temperature was then increased to 60 &#xBA;C and stirring continued for an additional 3 h under reduced pressure (0.8 mmHg). A pale yellow high viscous liquid with a suspended white solid was obtained which became a white solid after trituration with Et<sub>2</sub>O. The ether was evaporated giving TTP (3.78 g, 26.4 mmol, 98%), as a white solid. mp 111.5-112.1 &#xBA;C. <sup>1</sup>H-NMR (200 MHz, CDCl<sub>3</sub>) &#x3B4;: 1.18 (d, J = 7.4 Hz, 3H), 2.43 (q, J = 7.4 Hz, 2H); <sup>13</sup>C-NMR (50 MHz, CDCl<sub>3</sub>) &#x3B4;: 10.1, 26.9, 182.6; IR (KBr) cm<sup>-1</sup>: 2981, 2942, 2884, 1564, 1464, 1410, 1293; Anal. Calc. for C<sub>9</sub>H<sub>15</sub>O<sub>6</sub>Tl: C, 25.33; H, 3.54. Found: C, 25.23; H, 3.49.</p>
+      </sec>
+      <sec>
+        <title>Reaction of isopulegol with TTP in AcOH/H<sub>2</sub>O. General Procedure for Thallium(III) Mediated Oxidation Reactions</title>
+        <p>To a stirred solution of isopulegol (0.101 g, 0.650 mmol) in AcOH/H<sub>2</sub>O (2:1, 3 mL) was added TTP (1.1 eq., 0.30 g, 0.72 mmol), which promptly dissolved. The mixture was stirred for 2 h. After this time, solid NaHCO<sub>3</sub> was carefully added in small portions. Following slow addition of water and AcOEt, the aqueous phase was extracted twice with AcOEt. The organic phase was then washed with brine and dried over anhydrous MgSO<sub>4</sub>. The residue was purified by flash chromatography (10-30% gradient AcOEt in hexanes) immediately after concentration of the solvent under reduced pressure, giving the cyclic ether <italic>(1R,3R,4R,8R)-3,9-oxa-p-menthan-8-ol</italic> (<bold>3</bold>) [<xref ref-type="bibr" rid="B18-molecules-10-01419">18</xref>] (0.0783 g, 0.460 mmol, 71%).</p>
+      </sec>
+      <sec>
+        <title>Reaction of isopulegol with TTAP in AcOH/H<sub>2</sub>O</title>
+        <p>The reaction was performed following the general procedure, but using isopulegol (0.108 g, 0.718 mmol), acetic acid/H<sub>2</sub>O (2:1, 3 mL), TTA (1.1 eq., 0.44 g, 0.72 mmol) and reaction time of 4 h. The crude product was purified by flash chromatography (10-50% gradient of AcOEt in hexanes) giving the cyclic ether <bold>3</bold> [<xref ref-type="bibr" rid="B18-molecules-10-01419">18</xref>] (0.0776 g, 0.502 mmol, 69%).</p>
+      </sec>
+      <sec>
+        <title>Reaction of 2-(3,4-dihydronaphthalen-1-yl)-ethanol (<bold>1</bold>) with TTA in AcOH/H<sub>2</sub>O</title>
+        <p>The reaction was performed following the general procedure, but using 2-(3,4-dihydronaphthalen-1-yl)-ethanol (0.117 g, 0.718 mmol), AcOH/H<sub>2</sub>O (2:1, 3.5 mL), TTA (1.1 eq., 0.35 g, 0.78 mmol) and a reaction time of 4 h. The crude product was purified by flash chromatography (10-50% gradient of AcOEt in hexanes) giving the indan <bold>2</bold> [<xref ref-type="bibr" rid="B5-molecules-10-01419">5</xref>] (0.0774 g, 0.410 mmol, 57%), as a colorless oil.</p>
+      </sec>
+      <sec>
+        <title>Reaction of 2-(3,4-dihydronaphthalen-1-yl)-ethanol (<bold>1</bold>) with TTAP in (S)-2-acetoxypropionic acid/H<sub>2</sub>O</title>
+        <p>The reaction was performed following the general procedure, but using 2-(3,4-dihydro-naphthalen-1-yl)-ethanol (0.102 g, 0.581 mmol), <italic>(S)</italic>-2-acetoxypropionic acid/H<sub>2</sub>O (2:1, 3 mL), TTAP (2.3 eq., 0.81 g, 1.4 mmol), and reaction time of 18 h. The crude product was purified by flash chromatography (10-50% gradient of AcOEt in hexanes) giving the indan <bold>2</bold> [<xref ref-type="bibr" rid="B5-molecules-10-01419">5</xref>] (0.0351 g, 0.180 mmol, 32%), as a colorless oil.</p>
+      </sec>
+      <sec>
+        <title>Reaction of 2-(3,4-dihydronaphthalen-1-yl)-ethanol (<bold>1</bold>) with TTP in propionic acid/H<sub>2</sub>O</title>
+        <p>The reaction was performed following the general procedure, but using the 2-(3,4-dihydronaphthalen-1-yl)-ethanol (0.142 g, 0.791 mmol), propionic acid/H<sub>2</sub>O (2:1, 4 mL), TTP (1.1 eq., 0.37 g, 0.87 mmol) and reaction time of 6 h. The crude product was purified by flash chromatography (15-50% gradient of AcOEt in hexanes) giving the indan <bold>2</bold> [<xref ref-type="bibr" rid="B5-molecules-10-01419">5</xref>] (0.0976 g, 0.460 mmol, 59%), as a colorless oil.</p>
+      </sec>
+      <sec>
+        <title>Reaction of 2-(3,4-dihydronaphthalen-1-yl)-ethanol (<bold>1</bold>) with TTFA in trifluoroacetic acid/H<sub>2</sub>O </title>
+        <p>The reaction was performed following the general procedure, but using the 2-(3,4-dihydronaphthalen-1-yl)-ethanol (0.152 g, 0.861 mmol), TFA/H<sub>2</sub>O (2:1, 5 mL), TTFA (1.1 eq., 0.51 g, 0.94 mmol) and reaction time of 2 h. The crude product was purified by flash chromatography (15-50% gradient AcOEt in hexanes) giving the indan <bold>2</bold> [<xref ref-type="bibr" rid="B5-molecules-10-01419">5</xref>] (0.123 g, 0.631 mmol, 67%), as a colorless oil.</p>
+      </sec>
+      <sec>
+        <title>Reaction of 2-(3,4-dihydronaphthalen-1-yl)-ethanol (<bold>1</bold>) with TTFA in CH<sub>2</sub>Cl<sub>2</sub></title>
+        <p>The reaction was performed following the general procedure, but using 2-(3,4-dihydro-naphthalen-1-yl)-ethanol (0.156 g, 0.910 mmol), CH<sub>2</sub>Cl<sub>2</sub> (5 mL), TTFA (1.1 eq., 0.53 g, 0.97 mmol) and a reaction time of 2 h. Instead of neutralization with NaHCO<sub>3</sub>, the mixture was filtered through a silica gel pad (10 cm, 70-230 Mesh) using CH<sub>2</sub>Cl<sub>2</sub> as eluent (100 mL). The mixture was concentrated under reduced pressure. The crude product was purified by flash chromatography (15-50% gradient of AcOEt in hexanes) giving the indan <bold>2</bold> [<xref ref-type="bibr" rid="B5-molecules-10-01419">5</xref>] (0.120 g, 0.610 mmol, 63%), as a colorless oil.</p>
+      </sec>
+     <sec>
+      <title>Preparation of cis- and trans-2-(1,2,3,4-tetrahydro-1,2-dimethoxynaphthalen-1-yl)-ethanol (<bold>4a-b</bold>)</title>
+      <p>The reaction was performed following the general procedure, using the 2-(3,4-dihydronaphthalen-1-yl)-ethanol (0.132 g, 0.760 mmol), MeOH (3 mL), TTA (1.2 eq., 0.372g, 0.908 mmol) and reaction time of 6 h. Instead of neutralization with NaHCO<sub>3</sub>, the mixture was filtered through a silica gel pad (10 cm, 70-230 Mesh) using CH<sub>2</sub>Cl<sub>2</sub> as eluent (100 mL). The mixture was concentrated under reduced pressure. The crude product was purified by flash chromatography (15-50% gradient of AcOEt in hexane) affording <italic>cis</italic>-<italic>2-(1,2,3,4-tetrahydro-1,2-dimethoxynaphthalen-1-yl)ethanol</italic> (<bold>4a</bold>, 0.0626 g, 0.265 mmol, 35%), as a colorless oil: <sup>1</sup>H-NMR (300 MHz, CDCl<sub>3</sub>) &#x3B4;: 2.00-2.18 (m, 4H), 2.64-3.03 (m, 3H), 3.26 (s, 3H), 3.46 (s, 3H), 3.66-3.74 (m, 3H), 7.10-7.26 (m, 3H), 7.44-7.48 (m, 1H); <sup>13</sup>C-NMR (75 MHz, CDCl<sub>3</sub>) &#x3B4;: 22.6, 25.8, 41.0, 52.7, 56.4, 59.2, 79.3, 81.2, 125.7, 127.3, 127.4, 128.8, 136.6, 137.0; IR (Film) cm<sup>-1</sup>: 3520, 3070, 2940, 1463, 1427, 1104, 1073 <italic>and trans-2-(1,2,3,4-tetrahydro-1,2-dimethoxynaphthalen-1-yl)ethanol</italic> (<bold>4b</bold>, 0.0400 g, 0.170 mmol, 22%), also as a colorless oil: <sup>1</sup>H-NMR (500 MHz, CDCl<sub>3</sub>) &#x3B4;: 1.88-1.97 (m, 2H), 2.22-2.37 (m, 2H), 2.85-2.97 (m, 2H), 3.10 (s, 3H), 3.53 (s, 4H), 3.67 (m, 1H), 3.80-3.90 (m, 2H), 7.09-7.43 (m, 4H); <sup>13</sup>C-NMR (75 MHz, CDCl<sub>3</sub>) &#x3B4;: 22.9, 26.1, 41.3, 53.0, 56.8, 59.5, 79.7, 81.6, 126.1, 127.6, 127.7, 129.1, 136.9, 137.3; GC-MS (m/z): 236 (M<sup>+</sup> , 1), 119 (100); Anal. Calc. for C<sub>9</sub>H<sub>15</sub>O<sub>6</sub>: C, 71.16; H, 8.53. Found: C, 71.40; H, 8.45.</p>
+    </sec>
+	</sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We are grateful for the financial support provided by FAPESP and CAPES. We also wish to thank Prof. Helena M. C. Ferraz for fruitful discussions and Tiago de O. Vieira for initial experiments related to the dimethoxylation reaction.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-01419">
+        <label>1.</label>
+		<note><p>For some recent examples, see: 
+        <citation citation-type="journal">
+		<label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gagnier</surname>
+              <given-names>S. V.</given-names>
+            </name>
+            <name>
+              <surname>Larock</surname>
+              <given-names>R. C.</given-names>
+            </name>
+          </person-group>
+		  <source>J. Am. Chem. Soc.</source>
+          <year>2003</year>
+          <volume>125</volume>
+          <fpage>4804</fpage>
+          <lpage>4807</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>P&#xFC;schl</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Rudbeck</surname>
+              <given-names>H. C.</given-names>
+            </name>
+			<name>
+              <surname>Faldt</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Confante</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Kehler</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+		  <source>Synthesis</source>
+          <year>2005</year>
+           <fpage>291</fpage>
+          <lpage>295</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arefalk</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Larhed</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Hallberg</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+		  <source>J. Org. Chem.</source>
+          <year>2005</year>
+          <volume>70</volume>
+          <fpage>938</fpage>
+          <lpage>942</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Obora</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kimura</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Tokunaga</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Tsuji</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+		  <source>Chem. Commun.</source>
+          <year>2005</year>
+          <fpage>901</fpage>
+          <lpage>902</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ozaki</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Adachi</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Sekiya</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Kamikawa</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+		  <source>J. Org. Chem.</source>
+          <year>2003</year>
+          <volume>68</volume>
+          <fpage>4586</fpage>
+          <lpage>4589</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>f)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yao</surname>
+              <given-names>S.-W.</given-names>
+            </name>
+            <name>
+              <surname>Lopes</surname>
+              <given-names>V. H. C.</given-names>
+            </name>
+			<name>
+              <surname>Fern&#xE1;ndez</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>Garcia-Mera</surname>
+              <given-names>X.</given-names>
+            </name>
+			<name>
+              <surname>Morales</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Rodr&#xED;guez-Borges</surname>
+              <given-names>J. E.</given-names>
+            </name>
+			<name>
+              <surname>Cordeiro</surname>
+              <given-names>M. N. D. S.</given-names>
+            </name>
+          </person-group>
+		  <source>Bioorg. Med. Chem.</source>
+          <year>2003</year>
+          <volume>11</volume>
+          <fpage>4999</fpage>
+          <lpage>5006</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>g)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shintani</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Okamoto</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Hayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+			 </person-group>
+		  <source>J. Am. Chem. Soc.</source>
+          <year>2005</year>
+          <volume>127</volume>
+          <fpage>2872</fpage>
+          <lpage>2873</lpage>
+        </citation></p></note>
+          </ref>
+      <ref id="B2-molecules-10-01419">
+        <label>2.</label>
+		<note><p>For a leading reference, see: 
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dorsey</surname>
+              <given-names>B. D.</given-names>
+            </name>
+            <name>
+              <surname>Levin</surname>
+              <given-names>R. B.</given-names>
+            </name>
+            <name>
+              <surname>McDaniel</surname>
+              <given-names>S. L.</given-names>
+            </name>
+            <name>
+              <surname>Vacca</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Guare</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Darke</surname>
+              <given-names>P. L.</given-names>
+            </name>
+            <name>
+              <surname>Zugay</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Emini</surname>
+              <given-names>E. A.</given-names>
+            </name>
+            <name>
+              <surname>Schleif</surname>
+              <given-names>W. A.</given-names>
+            </name>
+            <name>
+              <surname>Quintero</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>J. H.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>I.-W.</given-names>
+            </name>
+            <name>
+              <surname>Holloway</surname>
+              <given-names>M. K.</given-names>
+            </name>
+            <name>
+              <surname>Fitzgerald</surname>
+              <given-names>P. M. D.</given-names>
+            </name>
+            <name>
+              <surname>Axel</surname>
+              <given-names>M. G.</given-names>
+            </name>
+            <name>
+              <surname>Ostovic</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>P. S.</given-names>
+            </name>
+            <name>
+              <surname>Huff</surname>
+              <given-names>J. R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1994</year>
+          <volume>37</volume>
+          <fpage>3443</fpage>
+          <lpage>3451</lpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B3-molecules-10-01419">
+        <label>3.</label>
+		<note><p>For a leading reference, see: 
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sugimoto</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Iimura</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yamanishi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yamatsu</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+           <source>J. Med. Chem.</source>
+          <year>1995</year>
+          <volume>38</volume>
+          <fpage>4821</fpage>
+          <lpage>4829</lpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B4-molecules-10-01419">
+        <label>4.</label>
+		<note><p>For an account concerning the synthesis of indans, see: 
+        <citation citation-type="web">
+		<person-group person-group-type="author">
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Aguilar</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yamatsu</surname>
+              <given-names>L. F.</given-names>
+			  <suffix>Jr.</suffix>
+            </name>
+			<name>
+              <surname>Craveiro</surname>
+              <given-names>M. V.</given-names>
+            </name>
+          </person-group>
+          <source>Quim. Nova</source>
+          <year>2005</year>
+		  <volume>28</volume>
+          <fpage>703</fpage>
+          <lpage>712</lpage>
+          <comment>Available  free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://quimicanova.sbq.org.br/quimicanova.htm." ext-link-type="uri">http://quimicanova.sbq.org.br/quimicanova.htm.</ext-link></comment>
+        </citation></p></note>
+      </ref>
+      <ref id="B5-molecules-10-01419">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>L. F.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2001</year>
+          <volume>57</volume>
+          <fpage>9939</fpage>
+          <lpage>9949</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01419">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>L. F.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Vieira</surname>
+              <given-names>T. O.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2001</year>
+          <volume>57</volume>
+          <fpage>1709</fpage>
+          <lpage>1713</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01419">
+        <label>7.</label>
+        <citation citation-type="web">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>L. F.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Aguilar</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Vieira</surname>
+              <given-names>T. O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Braz</article-title>
+          <source>J. Braz. Chem. Soc.</source>
+          <year>2001</year>
+		  <volume>12</volume>
+          <fpage>680</fpage>
+          <lpage>684</lpage>
+          <comment>Available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://jbcs.sbq.org.br." ext-link-type="uri">http://jbcs.sbq.org.br.</ext-link></comment>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01419">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>J., L. F.</given-names>
+             </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>2002</year>
+          <fpage>1033</fpage>
+          <lpage>1036</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2002-31952</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01419">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Aguilar</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>L. F.</given-names>
+			  <suffix>Jr.</suffix>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>2003</year>
+          <volume>7</volume>
+          <fpage>1031</fpage>
+          <lpage>1034</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2003-39172</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01419">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Aguilar</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>L. F.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2003</year>
+          <volume>59</volume>
+          <fpage>5817</fpage>
+          <lpage>5821</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01419">
+        <label>11.</label>
+		<note><p>For reviews concerning thallium(III) in organic synthesis, see: 
+        <citation citation-type="book">
+		<label>a)</label>
+          <person-group person-group-type="author">
+		   <name>
+		  <surname>McKillop</surname>
+              <given-names>A.</given-names>
+			   </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>E. C.</given-names>
+            </name>
+			</person-group>
+			<source>Comprehensive Organomet. Chem.</source>
+			<person-group person-group-type="editor">
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Pergamon Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1982</year>
+		  <volume>Vol. 7</volume>
+		  <fpage>465</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>L. F.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+			<name>
+              <surname>Vieira</surname>
+              <given-names>T. de O.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1999</year>
+          <fpage>2001</fpage>
+          <lpage>2023</lpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B12-molecules-10-01419">
+        <label>12.</label>
+		<note><p>For a review concerning the dihydroxylation reaction, see: 
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolb</surname>
+              <given-names>H. C.</given-names>
+            </name>
+            <name>
+              <surname>VanNieuwenhze</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>Sharpless</surname>
+              <given-names>K. B.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1994</year>
+          <volume>94</volume>
+          <fpage>2483</fpage>
+          <lpage>2547</lpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B13-molecules-10-01419">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murai</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Tsutsumi</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1966</year>
+          <volume>39</volume>
+          <fpage>198</fpage>
+           <pub-id pub-id-type="doi">10.1246/bcsj.39.198</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01419">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tiecco</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Testaferri</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Tingoli</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Chianelli</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Bartoli</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1988</year>
+          <volume>44</volume>
+          <fpage>2261</fpage>
+          <lpage>2272</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01419">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>He</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Horiuchi</surname>
+              <given-names>C. A.</given-names>
+            </name>
+          </person-group>
+           <source>J. Chem. Res. (S)</source>
+          <year>2000</year>
+          <fpage>172</fpage>
+          <lpage>173</lpage>
+          <pub-id pub-id-type="doi">10.3184/030823400103167039</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01419">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lena</surname>
+              <given-names>J. I. C.</given-names>
+            </name>
+            <name>
+              <surname>Sesenoglu</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Birlirakis</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Arseniyadis</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2001</year>
+          <volume>42</volume>
+          <fpage>21</fpage>
+          <lpage>24</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-01419">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mosher</surname>
+              <given-names>W. A.</given-names>
+            </name>
+            <name>
+              <surname>Kehr</surname>
+              <given-names>C. L.</given-names>
+            </name>
+          </person-group>
+           <source>J. Am. Chem. Soc.</source>
+          <year>1953</year>
+          <volume>75</volume>
+          <fpage>3172</fpage>
+          <lpage>3176</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01419">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Ribeiro</surname>
+              <given-names>C. M. R.</given-names>
+            </name>
+            <name>
+              <surname>Grazini</surname>
+              <given-names>M. V. A.</given-names>
+            </name>
+            <name>
+              <surname>Brocksom</surname>
+              <given-names>T. J.</given-names>
+            </name>
+            <name>
+              <surname>Brocksom</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1994</year>
+          <volume>35</volume>
+          <fpage>1497</fpage>
+          <lpage>1500</lpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01419">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Brocksom</surname>
+              <given-names>T. J.</given-names>
+            </name>
+            <name>
+              <surname>Pinto</surname>
+              <given-names>A. C.</given-names>
+            </name>
+            <name>
+              <surname>Abla</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>Zocher</surname>
+              <given-names>D. T. H.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1986</year>
+          <volume>27</volume>
+          <fpage>811</fpage>
+          <lpage>814</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-01419">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>H. M. C.</given-names>
+            </name>
+            <name>
+              <surname>Grazini</surname>
+              <given-names>M. V. A.</given-names>
+            </name>
+            <name>
+              <surname>Ribeiro</surname>
+              <given-names>C. M. R.</given-names>
+            </name>
+            <name>
+              <surname>Brocksom</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Brocksom</surname>
+              <given-names>T. J.</given-names>
+            </name>
+          </person-group>
+           <source>J. Org. Chem.</source>
+          <year>2000</year>
+          <volume>65</volume>
+          <fpage>2606</fpage>
+          <lpage>2607</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-01419">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Crotti</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Macchia</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+           <source>Gazz. Chim. Ital.</source>
+          <year>1988</year>
+          <volume>118</volume>
+          <fpage>827</fpage>
+          <lpage>836</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-01419">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hays</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>G. F.</given-names>
+            </name>
+          </person-group>
+           <source>J. Am. Chem. Soc.</source>
+          <year>1995</year>
+          <volume>117</volume>
+          <fpage>7283</fpage>
+          <lpage>7284</lpage>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-01419">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crotti</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Di Bussolo</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Favero</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Pineschi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sergiampietri</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Renzi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ricciutelli</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Roselli</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1997</year>
+          <volume>53</volume>
+          <fpage>5515</fpage>
+          <lpage>5536</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-01419">
+        <label>24.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogel</surname>
+              <given-names>A. I.</given-names>
+            </name>
+          </person-group>
+          <source>Qu&#xED;mica Inorg&#xE2;nica Quantitativa. 4 ed.</source>
+          <publisher-name>Guanabara Dois</publisher-name>
+          <publisher-loc>Rio de Janeiro</publisher-loc>
+          <year>1981</year>
+          <fpage>286</fpage>
+          <lpage>289</lpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-01419">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gresham</surname>
+              <given-names>T. L.</given-names>
+            </name>
+            <name>
+              <surname>Jansen</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Shaver</surname>
+              <given-names>F. W.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1950</year>
+          <volume>72</volume>
+          <fpage>72</fpage>
+          <lpage>74</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group><fn><p><italic>Sample availability:</italic> Samples are not available.</p></fn></fn-group>
+  </back>
+</article>

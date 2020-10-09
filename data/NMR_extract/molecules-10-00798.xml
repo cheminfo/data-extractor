@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10070798</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00798</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Chemical Constituents of <italic>Piper betle</italic> Linn. (Piperaceae) roots</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ghosh</surname>
+            <given-names>K.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00798" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bhattacharya</surname>
+            <given-names>T. K.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00798">Department of Chemical Technology, University College of Science &amp; Technology, Calcutta University, Kolkata-700 009, India.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00798"><label>*</label> Author to whom correspondence should be addressed; E-mail: <email>keshab_g@yahoo.com</email>; Tel. (+91)-033-2350-8386, Fax (+91)-033-2351-9755.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>7</issue>
+      <fpage>798</fpage>
+      <lpage>802</lpage>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>28</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>07</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI (http://www.mdpi.com).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Column chromatography of the alcoholic extract of <italic>Piper betle</italic> roots furnished aristololactam A-II and a new phenyl propene, characterized as 4-allyl resorcinol, while the petroleum-ether extract yielded a diketosteroid, <italic>viz.</italic> stigmast-4-en-3,6-dione. All these compounds were characterized by spectroscopic means. Isolation of these compounds from this source is being reported here for the first time.</p>
+      </abstract>
+      <kwd-group>
+        <kwd><italic>Piper betle</italic></kwd>
+		<kwd>Piperaceae</kwd>
+		<kwd>phenyl propene</kwd>
+		<kwd>diketosteroid</kwd>
+		<kwd>aristololactam A-II</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p><italic>Piper betle</italic> Linn. (Piperaceae) is a perennial dioecious creeper, probably native of Malaysia but cultivated in India for its leaves, used for chewing [<xref ref-type="bibr" rid="B1-molecules-10-00798">1</xref>]. The leaf is carminative, aphrodisiac, tonic, laxative and improves appetite [<xref ref-type="bibr" rid="B2-molecules-10-00798">2</xref>]. Leaves contained caryophyllene, cadinene, &#x3B3;-lactone, allyl catechol, <italic>p</italic>-cymene and eugenol methyl ether in varying amounts [<xref ref-type="bibr" rid="B3-molecules-10-00798">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00798">4</xref>]. The alcoholic extract of the leaf-stalk showed significant antifertility effects in both male and female rats [<xref ref-type="bibr" rid="B5-molecules-10-00798">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00798">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00798">7</xref>]. Recently, cepharadione A, dotriacontanoic acid and tritriacontane were reported to be isolated from the petrol extract of leaves; piperine and piperlonguminine from petrol + dichloromethane extract of stems and &#x3B2;-sitosteryl palmitate from petrol + dichloromethane extract of root parts of <italic>P. betle</italic> [<xref ref-type="bibr" rid="B8-molecules-10-00798">8</xref>]. In another study, the roots were found to contain 3&#x3B2;-acetyl ursolic acid and ursonic acid [<xref ref-type="bibr" rid="B9-molecules-10-00798">9</xref>]. Traditionally, the roots of <italic>P. betle</italic> mixed with black pepper were said to be used as a contraceptive by women [<xref ref-type="bibr" rid="B10-molecules-10-00798">10</xref>]. To elucidate and confirm the veracity of folklore antifertility claims, we report herein the further investigation of the constituents of <italic>P. betle</italic> roots.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Si gel column chromatography of the petroleum ether extract furnished stearic acid and &#x3B2;-sitosterol from petroleum ether-benzene eluates and a diketosteroid, <italic>viz.</italic> stigmast-4-en-3,6-dione (<bold>1</bold>) from the benzene eluates. Compound <bold>1</bold> gave a negative Liebermann-Burchard test for sterols. Its IR spectrum showed an absorption band at 1675 cm<sup>-1</sup>, attributed to an &#x3B1;,&#x3B2;-unsaturated ketone. The <sup>1</sup>H-NMR spectrum showed a singlet at &#x3B4; 6.17, attributed to the proton at the C-4 position flanked by two &#x3B1;,&#x3B2;-unsaturated ketones. This was consistent with literature values [<xref ref-type="bibr" rid="B11-molecules-10-00798">11</xref>] and its identity was further confirmed by comparing it (UV, IR and TLC) with the oxidation product of &#x3B2;-sitosterol with Jones reagent. The subsequent alcoholic extract was further resolved into ethyl acetate and  <italic>n</italic>-butanol extracts. Column chromatography of the ethyl acetate extract yielded 4-allyl resorcinol (<bold>2</bold>) from petroleum ether-benzene eluates and aristololactam A-II (<bold>3</bold>) from chloroform eluates. The identity of <bold>3</bold> was confirmed by comparing the reported <sup>1</sup>H-NMR data with those given in the literature [<xref ref-type="bibr" rid="B12-molecules-10-00798">12</xref>] and also by direct comparison with an authentic sample. Isolation of compound <bold>3</bold> from the family Piperaceae has not been reported so far [<xref ref-type="bibr" rid="B8-molecules-10-00798">8</xref>], although this basic skeleton has been isolated from Menispermaceae [<xref ref-type="bibr" rid="B13-molecules-10-00798">13</xref>], Papaveraceae [<xref ref-type="bibr" rid="B14-molecules-10-00798">14</xref>] and Aristolochiaceae [<xref ref-type="bibr" rid="B15-molecules-10-00798">15</xref>]. <disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00798-i001.tif"/>
+        </disp-formula></p>
+      <p>Compound <bold>2</bold> possessed a characteristic phenolic odour and gave a bluish-black colouration with FeCl<sub>3</sub>. Its <sup>1</sup>H-NMR spectrum showed several peaks at &#x3B4; 3.25 (2H, d, <italic>J</italic> = 9 Hz), 5.05 (2H, m) and 5.91 (1H, m), characteristic of protons of an allyl moiety and other peaks at &#x3B4; 6.61 (1H, dd, <italic>J</italic> = 9, 1.8 Hz), 6.70 (1H, d, <italic>J</italic> = 1.8 Hz) and 6.78 (1H, d, <italic>J</italic> = 9 Hz), indicative of protons of a 1,3,4-trisubstituted benzene. The mass spectrum of 4-allyl resorcinol is also consistent with the proposed structure <bold>2</bold>. This is the first naturally occurring phenyl propene of all the compounds isolated so far from <italic>P. betle</italic> roots.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The present study provides the first report on the occurrence of 4-allyl resorcinol, stigmast-4-en- 3,6-dione and aristololactam A-II in <italic>Piper</italic> species. As a phenanthrene alkaloid has previously been shown to possess encouraging antifertility effects [<xref ref-type="bibr" rid="B16-molecules-10-00798">16</xref>], the antifertility properties assigned to <italic>Piper betle</italic> roots in folklore may be due to this last active component or to the crude alcoholic extract.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Column chromatographic separation of compounds from the crude extracts was carried out using Si gel (60-120 mesh, Qualigens Fine Chemicals). Petroleum ether (Pet. ether) refers to the fraction of boiling range 60-80&#x2DA;C. Melting points were determined in open capillaries in an electrical metal bath and are uncorrected. IR spectra were recorded using a RXI-FT-IR Perkin-Elmer spectrophotometer. <sup>1</sup>H-NMR (300 MHz) were recorded on a Bruker DPX 300 NMR spectrometer using TMS as internal standard and mass spectra on a JEOL JMS600 instrument.</p>
+      </sec>
+      <sec>
+        <title>Plant material</title>
+        <p>The roots of <italic>Piper betle</italic> were procured from M/s. United Chemical and Allied Products, Kolkata, India in the month of May 2002 and later authenticated at the Botanical Survey of India, Shibpur, West Bengal. The voucher specimen (DCT-2) was deposited in the laboratory of Department of Chemical Technology, Calcutta University for future reference.</p>
+      </sec>
+      <sec>
+        <title>Extraction and Isolation</title>
+        <p>Fresh tender roots of <italic>P. betle</italic> (ca. 2 kg) were shade-dried and powdered. The pulverised material was then exhaustively extracted in succession under reflux with pet. ether (2 x 5 L, 6 h each) and then alcohol (2 x 4.5 L, 8 h each). The pet. ether extract was concentrated <italic>in vacuo</italic> to yield a reddish-brown mass (15 g), subsequently subjected to column chromatography over Si gel (350 g). Elution with pet- ether and pet. ether-benzene (4:1) gave stearic acid (25 mg), m.p. 67-68&#xB0;C. Elution with 1:1 pet. ether- benzene furnished &#x3B2;-sitosterol, while pure benzene eluates yielded stigmast-4-en-3,6-dione (<bold>1</bold>). The alcohol extract was concentrated <italic>in vacuo</italic> to a brown solid mass (32 g) and then suspended in distilled water (<italic>ca</italic> 200 mL). The aqueous slurry was then extracted successively with ethyl acetate (3 x 100 mL) and water saturated <italic>n</italic>-butanol (3 x 150 mL). The organic layers were dried over anhyd. Na<sub>2</sub>SO<sub>4</sub> and the solvents distilled off <italic>in vacuo</italic> to yield 12 g of EtOAc and 17 g of <italic>n</italic>-butanol extracts, respectively. Column chromatography of the EtOAc extract furnished from the 1:1 C<sub>6</sub>H<sub>6</sub>-CHCl<sub>3</sub> eluates an impure brown oily matrix which on repeated chromatography followed by prep. TLC, yielded <bold>2</bold>. Subsequent elution with CHCl<sub>3</sub> yielded aristololactam A-II (<bold>3</bold>). The <italic>n</italic>-butanol extract did not give a positive test for saponins.</p>
+        <p><italic>Stigmast-4-en-3,6-dione</italic> (<bold>1</bold>): Colourless flakes (28 mg) from 4:1 chloroform-alcohol; R<sub>f</sub> 0.77 (benzene-ethyl acetate 7:3); m.p. 150-152&#xB0;C (lit.[<xref ref-type="bibr" rid="B11-molecules-10-00798">11</xref>] m.p. 156-158&#xB0;C); UV &#x3BB;<sub>max</sub> (MeOH): 252 nm (log &#x3B5; 4.26); IR &#x3BD;<sub>max</sub> (KBr) cm<sup>-1</sup>: 2920, 2840, 1675 (&#x3B1;,&#x3B2;-unsaturated ketone), 1455, 1240, 1220; <sup>1</sup>H-NMR  (CDCl<sub>3</sub>) &#x3B4; ppm:  0.72 (3H, s, Me-18); 0.74-0.95 (12H, m, 4 &#xD7; Me); 1.16 (3H, s, Me-19) and 6.17 (1H, s, H-4);  EIMS (70 eV) <italic>m/z</italic> (relative intensity, %):  426 ([M<sup>+</sup>], 25), 412 (9), 411 (12), 408 (10), 398 (11), 384 (7), 285 (30), 275 (13), 257 (10), 243 (25), 229 (13.5), 189 (10), 175 (10), 149 (10), 137 (66), 133 (16), 97 (23), 69 (48), 55 (91).</p>
+        <p><italic>Allyl resorcinol</italic> (<bold>2</bold>): Light brown viscous liquid (12 mg); R<sub>f</sub> 0.74 (benzene-ethyl acetate 7:3); UV &#x3BB;<sub>max</sub> (MeOH) nm : 241 (log &#x3B5; 3.47), 282 (3.66); IR &#x3BD;<sub>max</sub> (thin film) cm<sup>-1</sup>: 3400-3250 (broad, &#x2013;OH), 3060, 2950, 2890, 1630 (C=C), 1600, 1520, 1400 (aromatic, C=C skeletal in-plane vibration), 1355 (C&#x2013;O stretching in phenol), 1285, 1200 (&#x2013;OH bending in phenol), 1115, 970, 865, 815, 790, 760; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 3.25 (2H, d, <italic>J</italic> = 9 Hz, &#x2013;C<italic><underline>H</underline></italic><italic><sub>2</sub></italic>&#x2013;CH=CH<sub>2</sub>), 5.05 (2H, m, &#x2013;CH=C<italic><underline>H</underline></italic><italic><sub>2</sub></italic>), 5.69 (2H, br s, 2 x ArO<italic><underline>H</underline></italic>), 5.91 (1H, m, &#x2013;C<italic><underline>H</underline></italic>=CH<sub>2</sub>), 6.61 (1H, dd, <italic>J</italic> = 9, 1.8 Hz,  H-6), 6.70 (1H, d, <italic>J</italic> = 1.8 Hz, H-2) and 6.78 (1H, d, <italic>J</italic> = 9 Hz, H-5); EIMS <italic>m/z</italic> (relative intensity): 150 ([M]<sup>+</sup>, 86), 123 (100), 95 (56), 67 (43). Unavailability of an authentic sample, however, precluded direct comparison.</p>
+        <p><italic>Aristololactam A-II</italic> (<bold>3</bold>): Pale yellow amorphous solid from benzene (45 mg); R<sub>f</sub> 0.43 (benzene- ethyl acetate 1:1); m.p. 260-262&#xB0;C;  UV:  <italic>&#x3BB;</italic><italic><sub>max</sub></italic> (MeOH) nm (log &#x3B5;):  382 (3.66), 364 (3.68), 341 (3.80), 327 (3.79), 287 (4.27), 277 (4.33), 265 (4.25), 209 (4.54); (+ NaOAc): 385 (3.69), 367 (3.66), 307 (4.04), 288 (4.22), 278 (4.19), 264 (4.15),  212 (4.60); (+ 2N NaOH):  398 (4.03), 369 (3.99), 307 (4.36), 291 (4.37), 220 (4.68); IR &#x3BD;<sub>max</sub> (KBr) cm<sup>-1</sup>:  3425, 1675 (C=O), 1620, 1500, 1455, 1415, 1365, 1325, 1290, 1270, 1230, 1195, 1120, 1060, 1035, 890, 875, 835, 735, 690; <sup>1</sup>H-NMR: (DMSO-<italic>d</italic><italic><sub>6</sub></italic>) &#x3B4; ppm: 4.04 (3H, s, 10-OMe), 7.12 (1H, s, H-5), 7.54 (2H, m, H-2 and H-3), 7.76 (1H, s, H-8), 7.93 (1H, m, H-4), 9.27 (1H, m, H-1), 10.19 (1H, s, D<sub>2</sub>O exchangeable, &#x2013;OH) and 10.63 (1H, br s, D<sub>2</sub>O exchangeable, &#x2013;NH); EIMS (70 eV) <italic>m/z</italic> (relative  intensity, %):  265 ([M<sup>+</sup>], 100), 250 (55), 222 (28), 166 (34), 150 (7), 139 (21), 133 (8), 105 (7), 83 (8), 69 (12), 60 (9), 55 (13), 44 (18).</p>
+      </sec>
+      <sec>
+        <title>Oxidation of &#x3B2;-sitosterol with Jones reagent</title>
+        <p>To a solution of &#x3B2;-sitosterol (100 mg) in acetone (40 mL), Jones reagent [<xref ref-type="bibr" rid="B17-molecules-10-00798">17</xref>] (0.3 mL) was added dropwise with vigorous stirring at room temperature. Upon complete addition of the reagent, the reaction mixture was stirred for an additional 15 min. Excess reagent was destroyed with isopropyl alcohol, water (50 mL) was added and the product was extracted with ethyl acetate (2 &#xD7; 20 mL). The combined organic layers were washed with saturated sodium bicarbonate (3 &#xD7;10 mL), distilled water (2 &#xD7;10 mL) and then dried over anhydrous Na<sub>2</sub>SO<sub>4</sub>. Evaporation of the solvent left a semi-solid which was column chromatographed over Si gel. Elution of the column with 30-50% benzene in pet. ether yielded stigmast-4-en-3-one (20 mg), m.p. 95-97&#x2DA;C, followed by <bold>1</bold> (22 mg), m.p. 153-155&#x2DA;C; &#x3BB;<sub>max</sub> (MeOH): 250 nm (log &#x3B5; 4.20); &#x3BD;<sub>max</sub> (KBr) 2930, 1675 cm<sup>-1</sup>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We are grateful to C.S.I.R., New Delhi for granting a fellowship (SRF) to K. Ghosh. We are indebted to Indian Institute of Chemical Biology (I.I.C.B.), Kolkata, India for recording NMR and MS.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00798">
+        <label>1.</label>
+        <citation citation-type="book">
+          <source>The Wealth of India: Raw Materials</source>
+          <publisher-name>Publications and Information Directorate, CSIR</publisher-name>
+          <publisher-loc>New Delhi</publisher-loc>
+          <year>1969</year>
+          <volume>Vol. VIII</volume>
+          <fpage>84</fpage>
+          <lpage>94</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00798">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kirtikar</surname>
+              <given-names>K.R.</given-names>
+            </name>
+            <name>
+              <surname>Basu</surname>
+              <given-names>B.D.</given-names>
+            </name>
+          </person-group>
+          <source>Indian Medicinal Plants</source>
+          <edition>2nd ed.</edition>
+          <publisher-name>Bishen Singh Mahendra Pal Singh</publisher-name>
+          <publisher-loc>Dehradun, India</publisher-loc>
+          <year>1998</year>
+          <volume>Vol. III</volume>
+          <fpage>2131</fpage>
+          <lpage>2133</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00798">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baslas</surname>
+              <given-names>R.K.</given-names>
+            </name>
+            <name>
+              <surname>Baslas</surname>
+              <given-names>K.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemistry of Indian essential oils - Part VIII</article-title>
+          <source>Flavour Ind.</source>
+          <year>1970</year>
+          <volume>1</volume>
+          <fpage>473</fpage>
+          <lpage>474</lpage>
+		  <comment>[<italic>Chem. Abstr.</italic> <bold>1971</bold>, <italic>74</italic>, 34538z]</comment>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00798">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rastogi</surname>
+              <given-names>R.P.</given-names>
+            </name>
+            <name>
+              <surname>Mehrotra</surname>
+              <given-names>B.N.</given-names>
+            </name>
+          </person-group>
+          <source>Compendium of Indian Medicinal Plants, Vol. 3</source>
+          <publisher-name>Publications and Information Directorate</publisher-name>
+          <publisher-loc>New Delhi</publisher-loc>
+          <year>1993</year>
+          <fpage>502</fpage>
+          <lpage>503</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00798">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sarkar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gangopadhyay</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Basak</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Chakrabarty</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Banerji</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Adhikary</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chatterjee, The  reversible  antifertility  effect  of  <italic>Piper  betle</italic>  Linn.  on  Swiss  albino  male  mice</article-title>
+          <source>Contraception</source>
+          <year>2000</year>
+          <volume>62</volume>
+          <fpage>271</fpage>
+          <lpage>274</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0010-7824(00)00177-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00798">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adhikary</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Banerji</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Chowdhury</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Deb</surname>
+              <given-names>C.C.</given-names>
+            </name>
+            <name>
+              <surname>Mukherjee</surname>
+              <given-names>S.R.</given-names>
+            </name>
+            <name>
+              <surname>Chatterjee</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antifertility effect of <italic>Piper betle</italic> Linn. extract on ovary and testis of albino rats</article-title>
+          <source>Indian J. Exp. Biol.</source>
+          <year>1989</year>
+          <volume>27</volume>
+          <fpage>868</fpage>
+          <lpage>870</lpage>
+          <pub-id pub-id-type="pmid">2635145</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00798">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adhikary</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Chowdhury</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Banerji</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Chatterjee</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antifertility effect of crude alcoholic extract of <italic>Piper betle</italic> stalk</article-title>
+          <source>Ind. J. Physiol. Allied Sci.</source>
+          <year>1998</year>
+          <volume>52</volume>
+          <fpage>22</fpage>
+          <lpage>27</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00798">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parmar</surname>
+              <given-names>V.S.</given-names>
+            </name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>S.C.</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Talwar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Rajwanshi</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Azim</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Malhotra</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>N.K.</given-names>
+            </name>
+            <name>
+              <surname>Tyagi</surname>
+              <given-names>O.D.</given-names>
+            </name>
+            <name>
+              <surname>Lawrie</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Errington</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Howarth</surname>
+              <given-names>O.W.</given-names>
+            </name>
+            <name>
+              <surname>Olsen</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Wengel</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polyphenols and alkaloids from <italic>Piper</italic> species</article-title>
+          <source>Phytochemistry</source>
+          <year>1998</year>
+          <volume>49</volume>
+          <fpage>1069</fpage>
+          <lpage>1078</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0031-9422(98)00208-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00798">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saeed</surname>
+              <given-names>S. A.</given-names>
+            </name>
+            <name>
+              <surname>Farnaz</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Simjee</surname>
+              <given-names>R.U.</given-names>
+            </name>
+            <name>
+              <surname>Malik</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Triterpenes and &#x3B2;-sitosterol from <italic>Piper betle</italic>: isolation, antiplatelet and anti-inflammatory effects</article-title>
+          <source>Biochem. Soc. Trans.</source>
+          <year>1993</year>
+          <volume>21</volume>
+          <fpage>462S</fpage>
+          <pub-id pub-id-type="doi">10.1042/bst021462s</pub-id>
+          <pub-id pub-id-type="pmid">8132030</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00798">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khosa</surname>
+              <given-names>R. L.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>R.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Betel root - an antifertility agent</article-title>
+          <source>J. Res. Indian Med.</source>
+          <year>1972</year>
+          <volume>7</volume>
+          <fpage>65</fpage>
+          <lpage>66</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00798">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#x160;olaja</surname>
+              <given-names>B. A.</given-names>
+            </name>
+            <name>
+              <surname>Mili&#x107;</surname>
+              <given-names>D.R.</given-names>
+            </name>
+            <name>
+              <surname>Dosen-Mi&#x107;ovi&#x107;</surname>
+              <given-names>L.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxidation of steroidal 5-en-3&#x3B2;-ols with Jones reagent in ether</article-title>
+          <source>Steroids</source>
+          <year>1994</year>
+          <volume>59</volume>
+          <fpage>330</fpage>
+          <lpage>334</lpage>
+          <pub-id pub-id-type="doi">10.1016/0039-128X(94)90122-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00798">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Achari</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Chakrabarty</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bandyopadhyay</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pakrashi</surname>
+              <given-names>S.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new 4,5-Dioxoaporphine and other constituents of <italic>Aristolochia indica</italic></article-title>
+          <source>Heterocycles</source>
+          <year>1982</year>
+          <volume>19</volume>
+          <fpage>1203</fpage>
+          <lpage>1206</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00798">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kunitomo</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Murakami</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Oshikata</surname>
+              <given-names>M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The alkaloids of <italic>Stephania sasakii</italic>: Structure of five new alkaloids</article-title>
+          <source>Phytochemistry</source>
+          <year>1980</year>
+          <volume>19</volume>
+          <fpage>2735</fpage>
+          <lpage>2739</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0031-9422(00)83953-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00798">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castedo</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Suau</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Mourino</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A revised structure for pontevedrine</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1976</year>
+          <volume>17</volume>
+          <fpage>501</fpage>
+          <lpage>502</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(00)77894-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00798">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crohare</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Priestap</surname>
+              <given-names>H.A.</given-names>
+            </name>
+            <name>
+              <surname>Farina</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cedola</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ruveda</surname>
+              <given-names>E.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Aristololactams  of <italic>Aristolochia argentina</italic></article-title>
+          <source>Phytochemistry</source>
+          <year>1974</year>
+          <volume>13</volume>
+          <fpage>1957</fpage>
+          <lpage>1962</lpage>
+          <pub-id pub-id-type="doi">10.1016/0031-9422(74)85125-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00798">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pakrashi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Chakrabarty</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Das Gupta</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of the extracts from <italic>Aristolochia indica</italic> Linn. on interception in female mice</article-title>
+          <source>Experientia</source>
+          <year>1976</year>
+          <volume>32</volume>
+          <fpage>394</fpage>
+          <lpage>395</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF01940859</pub-id>
+          <pub-id pub-id-type="pmid">1253927</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00798">
+        <label>17.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fieser</surname>
+              <given-names>L. F.</given-names>
+            </name>
+            <name>
+              <surname>Fieser</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Reagents for Organic Synthesis</source>
+          <publisher-name>John Wiley and Sons</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1967</year>
+		  <volume>Vol. 1</volume>
+          <fpage>142</fpage>
+          <lpage>143</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  <fn-group><fn><p><italic>Sample availability:</italic> Samples of compounds <bold>1</bold> (5 mg) and <bold>3</bold> (8 mg) are available from the authors.</p></fn></fn-group></back>
+</article>

@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020394</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00394</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>An Aromatic Iodination Method, with Iodic Acid Used as the Only Iodinating Reagent <xref rid="fn1-molecules-10-00394" ref-type="fn">&#x2020;</xref></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Krassowska-Swiebocka</surname>
+            <given-names>Barbara</given-names>
+          </name>
+         </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Prokopienko</surname>
+            <given-names>Grazyna</given-names>
+          </name>
+         </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Skulski</surname>
+            <given-names>Lech</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00394" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+	  <aff id="af1-molecules-10-00394">Chair and Laboratory of Organic Chemistry, Faculty of Pharmacy, Medical University, Banacha 1, PL 02-097 Warsaw, Poland</aff>
+      <author-notes>
+	   <fn id="fn1-molecules-10-00394">
+	    <label>&#x2020;</label>
+         <p>This short paper was presented at the Eighth Electronic Conference on Synthetic Organic Chemistry (ECSOC-8, <uri>http://www.mdpi.net/ecsoc-8</uri>), November 1-30, 2004 (paper A023).</p>
+        </fn>
+        <corresp id="c1-molecules-10-00394"><label>*</label>To whom the correspondence should be addressed; E-mail: <email>lechskulski@yahoo.com</email>; Tel./Fax: +(48) 22-5720643</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>394</fpage>
+      <lpage>400</lpage>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>28</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>29</day>
+          <month>01</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Benzene, halobenzenes, and a number of more or less deactivated arenes, including <italic>nitrobenzene</italic>, readily reacted in <italic>anhydrous</italic> HIO<sub>3</sub>/AcOH/Ac<sub>2</sub>O/conc. H<sub>2</sub>SO<sub>4</sub> mixtures to probably give ArIO<sub>2</sub> intermediates or other hypervalent species (<italic>not isolated</italic>). The final reaction mixtures were poured into excess aq. Na<sub>2</sub>SO<sub>3</sub> solution (<italic>a reductant</italic>) to give the purified iodinated products in 39-83% yields.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Arenes</kwd>
+     		<kwd>iodoarenes</kwd> 
+			<kwd>aromatic iodination</kwd>
+			<kwd>iodic acid as reactant</kwd>
+			<kwd>iodinating agent</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>In 1892 Meyer and Wachter [<xref ref-type="bibr" rid="B1-molecules-10-00394">1</xref>], in describing iodosylbenzoic acid, the first iodosylarene, included there the following passage: &#x201C;Ferner ist zu pr&#xFC;fen, ob man durch Behandlung von aromatischen Substanzen mir Schwefels&#xE4;ure und Jodsa&#xFC;re, - JO<sub>2</sub>OH, entsprechend der Reaction der Salpeters&#xE4;ure, NO<sub>2</sub>OH, - Verbindungen mit der Gruppe -JO<sub>2</sub> erhalten kann. Wir k&#xF6;nnen vorl&#xE4;ufig nur mittheilen, dass Benzol beim Zusammenbringen mit Jods&#xE4;ure und Schwefels&#xE4;ure &#xE4;usserst heftig reagirt und auf Zusatz von Wasser einen festen K&#xF6;rper abscheidet, welchen wir not n&#xE4;her untersuchen werden&#x201C;. It means [<xref ref-type="bibr" rid="B1-molecules-10-00394">1</xref>] that they had suggested the following reaction to occur, but this idea was not exploited by them further on:
+	  <disp-formula id='molecules-10-00394-i001'>
+		<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00394-i001.tif"/>
+		<label>(1)</label>
+		</disp-formula>
+	 </p>
+      <p>Iodylbenzene sulfate [<xref ref-type="bibr" rid="B2-molecules-10-00394">2</xref>]</p>
+      <p>In 1935 Masson and co-workers [<xref ref-type="bibr" rid="B2-molecules-10-00394">2</xref>] had however established that benzene derivatives and HIO<sub>3</sub> in sulfuric acid readily formed <italic>diaryliodonium salts</italic> in high yield; later on, their initial discovery was extended considerably [<xref ref-type="bibr" rid="B3-molecules-10-00394">3</xref>]:
+	  <disp-formula id='molecules-10-00394-i002'>
+		<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00394-i002.tif"/>
+		<label>(2)</label>
+		</disp-formula>
+	  </p>
+      <p>Some experimental evidence was given that a primary deoxidation of the iodic acid to the iodous stage by a fraction (ca. 15%) of the aromatic reagent, ArH (which is thereby converted into an open-chain unsaturated substance), was followed by the direct interaction of the iodous acid and the aromatic reagent to give the diaryliodonium salts; aryl iodides were also formed there as side products, and the production of CO<sub>2</sub> was observed. Hence, the above reactions had a very complex mechanism, the details of which are still not clear.</p>
+      <p>Beringer and co-workers [<xref ref-type="bibr" rid="B4-molecules-10-00394">4</xref>a, <xref ref-type="bibr" rid="B5-molecules-10-00394">5</xref>] coupled some <italic>reactive</italic> aromatic compounds (benzene, toluene, mesitylene, <italic>t</italic>-butylbenzene, <italic>n</italic>-dodecylbenzene, cyclohexylbenzene, anisole, acetanilide, and succinanil) with KIO<sub>3</sub> in AcOH/Ac<sub>2</sub>O/H<sub>2</sub>SO<sub>4</sub> mixtures to obtain the respective symmetrical <italic>diaryliodonium bisulfates</italic>:
+	  <disp-formula id='molecules-10-00394-i003'>
+		<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00394-i003.tif"/>
+		<label>(3)</label>
+		</disp-formula>
+	  </p>
+      <p>If the temperature of reaction mixtures was not kept below 15 &#xB0;C during the addition of the sulfuric acid and for some hours thereafter, a vigorous, exothermic reaction was observed. They suggested that in such instances the iodate was effecting a deep-seated oxidation of the aromatic compounds. By anion metatheses of the diaryliodonium bisulfates, they isolated the corresponding chlorides, bromides, iodides, and one nitrate in 9-88% yields. Diaryliodonium salts are fairly resistant towards the action of <italic>cold</italic> aq. Na<sub>2</sub>SO<sub>3</sub> solutions; only their prolonged treatment with excess sodium sulfite in boiling water can effectively split them up as follows [<xref ref-type="bibr" rid="B4-molecules-10-00394">4</xref>]: Ar<sub>2</sub>I<sup>+</sup>X<sup>-</sup> + Na<sub>2</sub>SO<sub>3</sub> &#x2192; <bold>ArI</bold> + ArSO<sub>3</sub>Na + NaX.</p>
+      <p>In 1969 Ciustea and Panescu [<xref ref-type="bibr" rid="B6-molecules-10-00394">6</xref>] briefly reported that the treatment of halobenzenes, benzoic acid, nitrobenzene or benzamide, dissolved in H<sub>2</sub>SO<sub>4</sub>, H<sub>3</sub>PO<sub>4</sub>, (CH<sub>3</sub>CO)<sub>2</sub>O, CH<sub>3</sub>COOH, H<sub>2</sub>O or in sulfuric acid with an amount of water added, with HIO<sub>3</sub>, <italic>possibly</italic> resulted in the formation of the respective <italic>iodylarenes</italic>, ArIO<sub>2</sub>, or 3,5-diiodylbenzamide; these compounds can next be reduced to the corresponding <italic>aryl iodides</italic> or 3,5-diiodobenzamide. This short communication, with no experimental details, analytical data or physico-chemical support, was never followed up either then or after 1969 in a more detailed experimental paper [<xref ref-type="bibr" rid="B7-molecules-10-00394">7</xref>, p. 1355].
+	  <disp-formula id='molecules-10-00394-i004'>
+		<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00394-i004.tif"/>
+		<label>(4)</label>
+		</disp-formula>
+	  </p>
+     <p>Taking into account all the aforementioned literature information, in fact all very controversial and potentially misleading, in 2003 we endeavored in our laboratory to carry out some preliminary experiments on the possibility of preparing iodylarenes, ArIO<sub>2</sub>, from the corresponding arenes. Rudzki [<xref ref-type="bibr" rid="B8-molecules-10-00394">8</xref>] on reacting chlorobenzene with HIO<sub>3</sub> in anhydrous Ac<sub>2</sub>O/concd H<sub>2</sub>SO<sub>4 </sub>mixtures, under widely varied reaction conditions, obtained in the best possible manner 4-chloroiodylbenzene, 4-ClC<sub>6</sub>H<sub>4</sub>IO<sub>2</sub>, albeit in only 18% crude yield. In contrast, when he reacted chlorobenzene for 10 hours with HIO<sub>3</sub> in hot (80 &#xB0;C) 75% (v/v) H<sub>2</sub>SO<sub>4</sub>, he isolated <italic>bis</italic>(4-chlorophenyl)iodonium sulfate in 63% yield; 1-chloro-4-iodobenzene (30%) was isolated there as a side product. Simultaneously, we have established [<xref ref-type="bibr" rid="B9-molecules-10-00394">9</xref>] that benzene, halobenzenes and some <italic>deactivated</italic> arenes (excluding however <italic>nitrobenzene</italic>) readily reacted in <italic>anhydrous</italic> <bold>NaIO<sub>4</sub></bold>/AcOH/Ac<sub>2</sub>O/concd H<sub>2</sub>SO<sub>4</sub> mixtures. Next, the final reaction mixtures were poured into excess aq. Na<sub>2</sub>SO<sub>3</sub> solution (<italic>a</italic> <italic>reductant</italic>) to give the purified iodinated products in 27-88% yields. This is a quite <italic>novel approach</italic> to aromatic iodination:
+	 <disp-formula id='molecules-10-00394-i005'>
+		<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00394-i005.tif"/>
+		<label>(5)</label>
+		</disp-formula>
+      where [ArIO<sub>3</sub>] are hypothetical transient periodylarenes, <italic>not isolable</italic> in spite of many attempts.</p>
+      <p>So, we have decided to carry out the iodinating reactions as follows:
+     <disp-formula id='molecules-10-00394-i006'>
+		<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00394-i006.tif"/>
+		<label>(6)</label>
+		</disp-formula>
+		<disp-formula id='molecules-10-00394-i007'>
+		<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00394-i007.tif"/>
+		<label>(7)</label>
+		</disp-formula>
+		</p>
+      <p>Our final results presented in the <xref ref-type="table" rid="molecules-10-00394-t001">Table 1</xref> do confirm that this approach to aromatic iodination is quite successful and promising.</p>
+      <table-wrap id="molecules-10-00394-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00394-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Iodinated pure products obtained from some arenes, their yields, elemental analyses, and melting or boiling points (uncorrected).</p>
+        </caption>
+        <table rules="all" style="border:solid thin">
+          <thead>
+            <tr>
+              <th align="center" valign="middle">Substrate</th>
+              <th align="center" valign="middle">Product</th>
+              <th align="center" valign="middle">Yield, (%)</th>
+              <th align="center" valign="middle">Analysis, % I calcd (found)</th>
+              <th align="center" valign="middle">Mp (&#xB0;C)/S<sup>a)</sup></th>
+              <th align="center" valign="middle">Lit, mp (&#xB0;C) [<xref ref-type="bibr" rid="B10-molecules-10-00394">10</xref>]</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">C<sub>6</sub>H<sub>6</sub></td>
+              <td align="left" valign="middle">1,4-I<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="middle">60</td>
+              <td align="left" valign="middle">76.95 (76.5)</td>
+              <td align="left" valign="middle">127-128/<bold>E</bold></td>
+              <td align="left" valign="middle">129</td>
+            </tr>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">PhI</td>
+              <td align="left" valign="middle">1,4-I<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="middle">58</td>
+              <td align="left" valign="middle">76.95 (77.2)</td>
+              <td align="left" valign="middle">127.5-129/<bold>E</bold></td>
+              <td align="left" valign="middle">129</td>
+            </tr>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">PhBr</td>
+              <td align="left" valign="middle">4-BrC<sub>6</sub>H<sub>4</sub>I</td>
+              <td align="center" valign="middle">71</td>
+              <td align="left" valign="middle">44.86 (44.8)</td>
+              <td align="left" valign="middle">95-97/<bold>E</bold></td>
+              <td align="left" valign="middle">92</td>
+            </tr>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">PhCl</td>
+              <td align="left" valign="middle">4-ClC<sub>6</sub>H<sub>4</sub>I</td>
+              <td align="center" valign="middle">39</td>
+              <td align="left" valign="middle">53.22 (52.7)</td>
+              <td align="left" valign="middle">54-56/<bold>E</bold></td>
+              <td align="left" valign="middle">57</td>
+            </tr>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">PhNO<sub>2</sub></td>
+              <td align="left" valign="middle">3-IC<sub>6</sub>H<sub>4</sub>NO<sub>2</sub></td>
+              <td align="center" valign="middle">82</td>
+              <td align="left" valign="middle">50.96 (50.4)</td>
+              <td align="left" valign="middle">35-37/<bold>P</bold></td>
+              <td align="left" valign="middle">35-36</td>
+            </tr>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">PhCOOH</td>
+              <td align="left" valign="middle">3-IC<sub>6</sub>H<sub>4</sub>COOH</td>
+              <td align="center" valign="middle">67</td>
+              <td align="left" valign="middle">51.17 (51.2)</td>
+              <td align="left" valign="middle">189-190/<bold>C</bold></td>
+              <td align="left" valign="middle">188-189</td>
+            </tr>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">PhCOOMe</td>
+              <td align="left" valign="middle">3-IC<sub>6</sub>H<sub>4</sub>COOMe</td>
+              <td align="center" valign="middle">59</td>
+              <td align="left" valign="middle">48.43 (48.5)</td>
+              <td align="left" valign="middle">55-56/<bold>EW</bold></td>
+              <td align="left" valign="middle">54-55</td>
+            </tr>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">PhCOOEt</td>
+              <td align="left" valign="middle">3-IC<sub>6</sub>H<sub>4</sub>COOEt</td>
+              <td align="center" valign="middle">51</td>
+              <td align="left" valign="middle">45.97 (45.8)</td>
+              <td align="left" valign="middle">bp 170-172/29</td>
+              <td align="left" valign="middle">bp 150/15</td>
+            </tr>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">4-MeC<sub>6</sub>H<sub>4</sub>COOH</td>
+              <td align="left" valign="middle">3-I-4-MeC<sub>6</sub>H<sub>3</sub>COOH</td>
+              <td align="center" valign="middle">78</td>
+              <td align="left" valign="middle">48.43 (48.2)</td>
+              <td align="left" valign="middle">211-212/<bold>C</bold></td>
+              <td align="left" valign="middle">210-212</td>
+            </tr>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">4-MeC<sub>6</sub>H<sub>4</sub>NO<sub>2</sub></td>
+              <td align="left" valign="middle">3-I-4-MeC<sub>6</sub>H<sub>3</sub>NO<sub>2</sub></td>
+              <td align="center" valign="middle">40</td>
+              <td align="left" valign="middle">48.25 (47.9)</td>
+              <td align="left" valign="middle">52-54/<bold>E</bold></td>
+              <td align="left" valign="middle">54-56</td>
+            </tr>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">4-MeOC<sub>6</sub>H<sub>4</sub>NO<sub>2</sub></td>
+              <td align="left" valign="middle">3-I-4-MeOC<sub>6</sub>H<sub>3</sub>NO<sub>2</sub></td>
+              <td align="center" valign="middle">83</td>
+              <td align="left" valign="middle">45.51 (45.1)</td>
+              <td align="left" valign="middle">94-96/<bold>E</bold></td>
+              <td align="left" valign="middle">97</td>
+            </tr>
+            <tr style="border-top:solid thin">
+              <td align="left" valign="middle">2-O<sub>2</sub>NC<sub>6</sub>H<sub>4</sub>NHCOCH<sub>3</sub></td>
+              <td align="left" valign="middle">4-I-2-O<sub>2</sub>NC<sub>6</sub>H<sub>3</sub>NHCOCH<sub>3</sub></td>
+              <td align="center" valign="middle">52</td>
+              <td align="left" valign="middle">41.50 (41.5)</td>
+              <td align="left" valign="middle">110-112/<bold>EW</bold></td>
+              <td align="left" valign="middle">112</td>
+            </tr>
+          </tbody>
+        </table>
+		<table-wrap-foot>
+ <fn>
+ <p>a) Solvents used for crystallization: <bold>C</bold> &#x2013; CCl<sub>4</sub>; <bold>E</bold> &#x2013; EtOH; <bold>P</bold> &#x2013; petroleum ether; <bold>EW</bold> &#x2013; EtOH/H<sub>2</sub>O</p>
+ </fn>
+</table-wrap-foot>
+      </table-wrap>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>For benzene (which was only diiodinated), three halobenzenes and eight <italic>deactivated</italic> arenes, including <italic>nitrobenzene</italic> (<xref ref-type="table" rid="molecules-10-00394-t001">Table 1</xref>), we carried out the iodinating reactions according to the  stoichiometry shown in Eq. 6, where: [ArIO<sub>2</sub> * H<sub>2</sub>SO<sub>4</sub>] are the assumed <italic>iodine(V)</italic> intermediates, possibly strongly admixed with ArI(OSO<sub>3</sub>H)<sub>2</sub>; it is known that amphoteric iodylarenes freely form salts with strong mineral acids, and the hygroscopic sulfate PhIO<sub>2</sub>&#xB7;H<sub>2</sub>SO<sub>4</sub> (mp 127 &#xB0;C) was analyzed and examined [<xref ref-type="bibr" rid="B2-molecules-10-00394">2</xref>]. </p>
+      <p>Thus, iodic acid and chosen <italic>arenes</italic>, ArH, were suspended in cooled (5 &#xB0;C) <italic>anhydrous</italic> AcOH/Ac<sub>2</sub>O mixtures, and then a large excess of concd. (95%) sulfuric acid was slowly added dropwise, with vigorous stirring, to the reaction mixtures, while keeping the temperature below 10 &#xB0;C. The strongly acidified reaction mixtures were then stirred for one hour in an ice-water bath, next for one hour at room temperature and then for 2 hours at 45-50 &#xB0;C. We have established that somewhat better yields are achieved when the reaction mixtures were finally left overnight at room temperature. The final reaction mixtures were quenched by pouring into stirred ice-water containing a previously dissolved excess of Na<sub>2</sub>SO<sub>3</sub> (<italic>a reductant</italic>), Eq. 7. The oily or solid crude products that precipitated out were typically isolated and purified (see the Experimental) to give the purified monoiodinated products in 39-83% yields, except in the case of 1,4-diiodobenzene, which was obtained in 60% yield (<xref ref-type="table" rid="molecules-10-00394-t001">Table 1</xref>). The chemical structures of the purified products were next confirmed by their melting or boiling points, all close to those reported in the literature [<xref ref-type="bibr" rid="B10-molecules-10-00394">10</xref>], elemental analyses (%I), and comparison of the <sup>1</sup>H and <sup>13</sup>C NMR spectra (not reported here) with the corresponding spectra of authentic samples. Their homogeneities were checked by TLC.</p>
+      <p>We have also tried to isolate the purported <italic>iodine(V)</italic> intermediates, i.e. ArIO<sub>2</sub>, by pouring the final reaction mixtures into ice-water (ArIO<sub>2</sub>&#xB7;H<sub>2</sub>SO<sub>4</sub> is readily hydrolyzable [<xref ref-type="bibr" rid="B2-molecules-10-00394">2</xref>]). However, the crude yields of ArIO<sub>2</sub> thus obtained were usually lower than 20%, and the crude ArIO<sub>2</sub> had to be recrystallized from boiling water at least once &#x2013; which lowered the yields further. The best result was obtained with bromobenzene that afforded 1-bromo-4-iodylbenzene in 40% crude yield (see the Experimental). Hence, these attempts were deemed unworthy of further study. It should be pointed out that we previously devised in our laboratory two easy and effective methods of preparing ArIO<sub>2</sub> from ArI using NaIO<sub>4</sub> as the oxidant, acting either in boiling water [<xref ref-type="bibr" rid="B11-molecules-10-00394">11</xref>] or in boiling 30% (v/v) aq. acetic acid [<xref ref-type="bibr" rid="B12-molecules-10-00394">12</xref>]. The crude yields of ArIO<sub>2</sub> thus obtained were good to excellent, while the snow-white <italic>crude</italic> products had a 98-99% purity, established iodometrically.</p>
+      <p>We present in this paper an easy and effective approach to the aromatic iodination, which allows one to obtain iodoarenes, in good yields, from halobenzenes and several <italic>deactivated</italic> arenes, including <italic>nitrobenzene</italic>; cf. Ref. [<xref ref-type="bibr" rid="B9-molecules-10-00394">9</xref>]. The transient protonated iodic acid, O<sub>3</sub>I<sup>+</sup>H<sub>2</sub>, was the sole iodinating agent present, capable of forming the stable C-I bond in the starting arenes, which is preserved after the reduction with excess aq. Na<sub>2</sub>SO<sub>3</sub> solution to afford the final mono- or diiodinated arenes (<xref ref-type="table" rid="molecules-10-00394-t001">Table 1</xref>). However, <italic>activated</italic> arenes, e.g. anisole, acetanilide, <italic>N</italic>, <italic>N</italic> &#x2013; dimethylaniline, etc., were easily oxidized under the given reaction conditions to form some tarry products, which could not be purified in spite of our numerous attempts.</p>
+      <p><italic>Note added in proof</italic>. For comparison, also <bold>NaBrO<sub>3</sub></bold> is a powerful brominating agent for deactivated aromatics. Addition of a strong acid into a stirred aq. solution, or slurry, of the substrate and NaBrO<sub>3</sub> at 40-100 &#xB0;C, leads to the decomposition of the bromate ions and production of the active brominating species. Substrates such as nitrobenzene, benzoic acid, and benzaldehyde were specifically brominated in 85-98% yields. The reaction is especially useful for the bromination of disubstituted benzenes, such as 4-FC<sub>6</sub>H<sub>4</sub>NO<sub>2</sub> or 4-FC<sub>6</sub>H<sub>4</sub>COOH. Dinitrobenzenes and nitrobenzoic acids did not undergo bromination at all. See Ref. <xref ref-type="bibr" rid="B13-molecules-10-00394">13</xref>.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>All the reagents and solvents were commercial (Aldrich) and were used without further purification. The melting or boiling points of pure iodinated products (<xref ref-type="table" rid="molecules-10-00394-t001">Table 1</xref>) are uncorrected. Elemental microanalyses (%I) were performed at the Institute of Organic Chemistry, the Polish Academy of Sciences in Warsaw. <sup>1</sup>H- and <sup>13</sup>C-NMR spectra (not shown here) were recorded at room temperature, in CDCl<sub>3</sub> solutions, with a Bruker Avance DMX 400 MHz spectrometer; sometimes, in order to get better assignments, also <sup>1</sup>H-<sup>13</sup>C correlation spectra were recorded. The spectra confirmed the chemical structures of the purified iodinated products (<xref ref-type="table" rid="molecules-10-00394-t001">Table 1</xref>).</p>
+      </sec>
+      <sec>
+        <title>Optimized Preparations of Iodoarenes from Arenes</title>
+        <p>Iodic acid  (3.25 g, 20 mmol) was suspended in a mixture made of glacial AcOH (20 mL) and acetic anhydride (10 mL), then an appropriate <italic>arene</italic> (20 mmol) was added with stirring. The stirred mixture was cooled to ca. 5 &#xB0;C, and concd. (95%) sulfuric acid (10 mL, ca. 0.2 mol) was very slowly added dropwise while keeping the temperature below 10 &#xB0;C. The reaction mixtures were stirred for 1 h in an ice-water bath, then for 1 h at r.t. and next for 2 h at 45-50 &#xB0;C. The stirring was continued overnight at r.t. The final reaction mixtures were poured into ice-water (100 g) containing previously dissolved Na<sub>2</sub>SO<sub>3</sub> (<italic>a reductant,</italic> 5 g). After a few hours, the precipitated crude solid products were collected by filtration, washed well with cold water until the filtrates were neutral, dried preliminarily by suction, and next air-dried in the dark. They were recrystallized from appropriate organic solvents (<xref ref-type="table" rid="molecules-10-00394-t001">Table 1</xref>) to give the purified solid iodinated products. If the crude iodinated products were oily or semisolid, they were extracted with CHCl<sub>3</sub> (3 x 20 mL), the combined extracts were dried over anh. MgSO<sub>4</sub>, filtered, the solvent was distilled off, and the residues were fractionated under vacuum to give the purified liquid iodinated products (<xref ref-type="table" rid="molecules-10-00394-t001">Table 1</xref>). The purified iodoarenes should be preserved in the dark, preferably at 0-5 &#xB0;C. <bold>Note</bold>: When benzene was diiodinated as above to give pure 1,4-diiodo-benzene, only half of its amount, i.e. 10 mmol, was added to the reaction mixture. </p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Possibly Optimized Preparation of 1-Bromo-4-iodylbenzene from Bromobenzene</title>
+      <p>Iodic acid (5.28 g, 30 mmol) was suspended in a mixture made of glacial AcOH (10 mL) and Ac<sub>2</sub>O (5 mL), then <italic>bromobenzene</italic> (4.71 g, 30 mmol) was added with stirring. Concd. (95%) H<sub>2</sub>SO<sub>4</sub> (2 mL) was very slowly added dropwise with vigorous stirring, keeping the temperature below 50 &#xB0;C. Next, the stirring was prolonged within 2 h at ambient temperature. The final reaction mixture was poured into ice-water, and the precipitated oily product slowly solidified. The precipitate was collected by filtration, washed with a little ice water, then with acetone. The colorless final product, obtained in 40% crude yield, decomposed at 235 &#xB0;C with detonation, lit. [<xref ref-type="bibr" rid="B12-molecules-10-00394">12</xref>] mp 236 &#xB0;C with detonation.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00394">
+        <label>1.</label>
+		<note>
+          <p><citation citation-type="journal">
+		<person-group person-group-type="author">
+            <name>
+              <surname>Meyer</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Wachter</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ueber Jodosobenzo&#xEB;s&#xE4;ure</article-title>
+          <source>Ber. Dtsch. Chem. Ges.</source>
+          <year>1892</year>
+          <volume>25</volume>
+          <fpage>2632</fpage>
+          <lpage>2635</lpage>
+		  <pub-id pub-id-type="doi">10.1002/cber.18920250280</pub-id>
+		  </citation>
+         The German passage in the text can be translated as follows: &#x201C;Next, it has to be checked out whether the reaction of aromatic compounds with sulfuric acid and iodic acid, IO<sub>2</sub>OH, corresponding to the reaction with nitric acid, NO<sub>2</sub>OH, can afford the respective compounds substitued by the &#x2013;IO<sub>2</sub> group. We can only preliminarily report that benzene reacts violently with iodic acid and sulfuric acid, and after addition of water, a solid compound precipitates out, which was not closer investigated&#x201D;. Mason and Race (Ref. 3, footnote in p. 1723) commented the first German attempt to prepare PhIO<sub>2</sub> from benzene as follows: &#x201C;It does not appear that the experiment was followed up either then or after 1894, when the iodoxy- and the iodonium group were discovered&#x201D;.</p>
+		   </note>
+      </ref>
+      <ref id="B2-molecules-10-00394">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Masson</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Race</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Pounder</surname>
+              <given-names>F. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Iodoxy-group and its Relations</article-title>
+          <source>J. Chem. Soc.</source>
+          <year>1935</year>
+          <fpage>1669</fpage>
+          <lpage>1679</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00394">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Masson</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Race</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Direct Conversion of Iodic Acid and Aromatic Hydrocarbons into Iodonium Compounds</article-title>
+          <source>J. Chem. Soc.</source>
+          <year>1937</year>
+          <fpage>1718</fpage>
+          <lpage>1723</lpage>
+          <pub-id pub-id-type="doi">10.1039/jr9370001718</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00394">
+        <label>4.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beringer</surname>
+              <given-names>F. M.</given-names>
+            </name>
+            <name>
+              <surname>Drexler</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gindler</surname>
+              <given-names>E. M.</given-names>
+            </name>
+            <name>
+              <surname>Lumpkin</surname>
+              <given-names>C. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diaryliodonium Salts. I. Synthesis</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1953</year>
+          <volume>75</volume>
+          <fpage>2705</fpage>
+          <lpage>2708</lpage>
+        </citation>
+         <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krowczy&#x144;ski</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Skulski</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>p</italic>-Iodo-<italic>N</italic>-methylacetanilide and its Polyvalent Iodine Derivatives</article-title>
+          <source>Polish J. Chem.</source>
+          <year>1993</year>
+          <volume>67</volume>
+          <fpage>67</fpage>
+          <lpage>70</lpage>
+        </citation>
+     </ref>
+      <ref id="B5-molecules-10-00394">
+        <label>5.</label>
+         <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beringer</surname>
+              <given-names>F. M.</given-names>
+            </name>
+            <name>
+              <surname>Falk</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Karniol</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lillien</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Masullo</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Mausner</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sommer</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diaryliodonium Salts. IX. The Synthesis of Substituted Diphenyliodonium Salts</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1959</year>
+          <volume>81</volume>
+          <fpage>342</fpage>
+          <lpage>351</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00394">
+        <label>6.</label>
+      <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ciustea</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Panescu</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>New synthetic routes in the chemistry of the organic iodine compounds (in Roumanian)</article-title>
+          <source>Rev. Chim. (Bucharest)</source>
+          <year>1969</year>
+          <volume>20</volume>
+          <fpage>216</fpage>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1969</bold>, <italic>71</italic>, 123755]</comment>
+        </citation>
+		</ref>
+      <ref id="B7-molecules-10-00394">
+        <label>7.</label>
+           <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Skulski</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Organic Iodine(I, III, and V) Chemistry: 10 Years of Development at the Medical University of Warsaw, Poland (1990-2000)</article-title>
+          <source>Molecules</source>
+          <year>2000</year>
+          <volume>5</volume>
+          <fpage>1331</fpage>
+          <lpage>1371</lpage>
+		  <comment>Avail. at URL: <uri>http://www.mdpi.org/molecules/papers/51201311.pdf</uri></comment>
+        </citation>
+     </ref>
+      <ref id="B8-molecules-10-00394">
+        <label>8.</label>
+         <citation citation-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rudzki</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>An attempt of the direct iodylation of arenes</article-title>
+          <source>M. Sc. Thesis</source>
+          <publisher-name>Faculty of Pharmacy, Medical University of Warsaw</publisher-name>
+          <publisher-loc>Poland</publisher-loc>
+          <year>2003</year>
+          <comment>(in Polish)</comment>
+        </citation>
+     </ref>
+      <ref id="B9-molecules-10-00394">
+        <label>9.</label>
+         <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lulinski</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Sosnowski</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Skulski</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Novel Aromatic Iodination Method, with Sodium Periodate Used Alone as the Iodinating Reagent</article-title>
+		  <comment>Paper presented at the 7<sup>th</sup> Electronic Conference on Synthetic Organic Chemistry (ECSOC-7, <uri>http://www.mdpi.net/ecsoc-7</uri>), November 1-30, 2003 (paper A013). Submitted for publication in <italic>Molecules</italic></comment>
+          </citation>
+    </ref>
+      <ref id="B10-molecules-10-00394">
+        <label>10.</label>
+         <citation citation-type="book">
+          <source>Dictionary of Organic Compounds,</source>
+          <edition>6th ed.</edition>
+          <publisher-name>Chapman &amp; Hall</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1996</year>
+        </citation>
+     </ref>
+      <ref id="B11-molecules-10-00394">
+        <label>11.</label>
+         <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kazmierczak</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Skulski</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kraszkiewicz</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses of (Diacetoxyiodo)arenes or Iodylarenes from Iodoarenes, with Sodium Periodate as the Oxidant</article-title>
+          <source>Molecules</source>
+          <year>2001</year>
+          <volume>6</volume>
+          <fpage>881</fpage>
+          <lpage>891</lpage>
+		  <comment>Avail. at <uri>http://www.mdpi.org/molecules/papers/61200881.pdf</uri></comment>
+        </citation>
+     </ref>
+      <ref id="B12-molecules-10-00394">
+        <label>12.</label>
+         <citation citation-type="web">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kraszkiewicz</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Skulski</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Optimized syntheses of iodylarenes from iodoarenes, with sodium periodate as the oxidant. Part II</article-title>
+		  <source>ARKIVOC</source>
+          <comment>(Gainsville, FL, USA) [online computer file]</comment>
+          <year>2003</year>
+		   <volume>(vi)</volume>
+          <fpage>120</fpage>
+          <lpage>125</lpage>
+          <comment>Avail. at <uri>http://www.arkat-usa.org/ark/journal/2003/Varvoglis/AV-657A/AV-657A.htm</uri></comment>
+        </citation>
+     </ref>
+      <ref id="B13-molecules-10-00394">
+        <label>13.</label>
+         <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Groweiss</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Use of Sodium Bromate for Aromatic Bromination: Research and Development</article-title>
+          <source>Org. Process. Res. Dev.</source>
+          <year>2000</year>
+          <volume>4</volume>
+          <fpage>30</fpage>
+          <lpage>33</lpage>
+        </citation>
+		<note>
+		<p>See also: 
+		      <citation citation-type="journal">
+			   <label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harrison</surname>
+              <given-names>J. J.</given-names>
+            </name>
+			 <name>
+              <surname>Pellegrini</surname>
+              <given-names>J. P.</given-names>
+            </name>
+			 <name>
+              <surname>Selwitz</surname>
+              <given-names>C. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bromination of Deactivated Aromatics Using Potassium Bromate</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1981</year>
+          <volume>46</volume>
+          <fpage>2169</fpage>
+          <lpage>2171</lpage>
+        </citation>
+		, and references therein;
+       <citation citation-type="journal">
+		  <label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamaoka</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of 1-bromo-3-nitrobenzene</article-title>
+          <comment>Jpn. Kokai Tokkyo Koho JP 11 228,505 [99 217,344], 10 Aug 1999; [<italic>Chem. Abstr.</italic> <bold>1999</bold>, <italic>131</italic>, 144408]</comment>
+         </citation>
+   </p>
+		</note>
+     </ref>
+    </ref-list>
+	<fn-group>
+<fn>
+<p><italic>Sample Availability</italic>: Available from the authors.</p>
+</fn>
+</fn-group>
+  </back>
+</article>

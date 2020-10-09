@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10091074</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01074</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>An Improved Synthesis of Some 5-Substituted Indolizines Using Regiospecific Lithiation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kuznetsov</surname>
+            <given-names>Alexey G.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bush</surname>
+            <given-names>Alexander A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rybakov</surname>
+            <given-names>Viktor B.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Babaev</surname>
+            <given-names>Eugene V.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-01074" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01074">Chemistry Department, Moscow State University, Moscow 119992, Russia.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01074"><label>*</label>Author to whom correspondence should be addressed; E-mail: <email>babaev@org.chem.msu.su</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+      <fpage>1074</fpage>
+      <lpage>1083</lpage>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Various 2-substituted indolizines can be directly and selectively lithiated in the 5 position and subsequent reactions with different electrophiles lead to some novel classes of indolizines. In particular, previously unknown 5-formyl- and 5-iodoindolizine have been prepared by this way and the molecular structure of 5-formyl-2-phenylindolizine was confirmed by X-Ray analysis. The reactivity of the 5-CHO- and 5-COPh groups toward some nucleophiles has been examined, and some additional classes of derivatives (oximes and alcohols) have been obtained. The possibility of Suzuki cross-coupling of 5-iodoindolizines and boronic acids was proven.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Direct lithiation</kwd>
+        <kwd>5-lithiumindolizine</kwd>
+        <kwd>5-formylindolizine</kwd>
+        <kwd>5-iodoindolizine</kwd>
+        <kwd>5-benzoylindolizine</kwd>
+        <kwd>Suzuki reaction</kwd>
+        <kwd>reduction</kwd>
+        <kwd>oxime</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>According to literature data, the first attempt at direct lithiation of indolizines corresponds to Renard and Gubin [<xref ref-type="bibr" rid="B1-molecules-10-01074">1</xref>], who achieved regioselective metallation of 2-phenylindolizine in the 5-position, followed by replacement of lithium by electrophiles. Our long involvement in the chemistry of 5-substituted indolizines [<xref ref-type="bibr" rid="B2-molecules-10-01074">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-01074">3</xref>] and the failure to precisely reproduce the protocol reported in [<xref ref-type="bibr" rid="B1-molecules-10-01074">1</xref>] have stimulated our interest to the problem of indolizine lithiation. In addition some common electrophiles (e.g. I<sup>+</sup>, CHO<sup>+</sup>) were not tested in reference [<xref ref-type="bibr" rid="B1-molecules-10-01074">1</xref>], although the expected products &#x2013; 5-formyl and 5-iodoindolizines &#x2013; are not readily available by common heterocyclic synthesis methods. Thus, 5-iodoindolizines are still unknown, and there are only two references [<xref ref-type="bibr" rid="B4-molecules-10-01074">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-01074">5</xref>] devoted to 5-formylindolizines prepared via [3+2]-cycloaddition (a stepwise preparation starting from pyridinium ylides bearing an acetal group at position 2).</p>
+      <p>In this article we report our success in following areas:
+	  <list list-type="bullet">
+	  <list-item>
+	  <label>&#x2013;</label>
+      <p>optimization of the protocol for direct lithiation of 2- and 1,2- substituted indolizines by varying temperature and time of metallation;</p>
+	  </list-item>
+	  <list-item>
+	  <label>&#x2013;</label>
+      <p>discovery of a novel and easy route to 5-formyl and 5-haloindolizines by means of direct lithiation followed by electrophilic quench;</p>
+	  </list-item>
+	  <list-item>
+	  <label>&#x2013;</label>
+      <p>the first Suzuki type cross-coupling reaction between 5-iodoindolizines and a boronic acid;</p>
+	  </list-item>
+	  <list-item>
+	  <label>&#x2013;</label>
+      <p>follow-up of the chemistry of 5-formylindolizines and their derivatives;</p>
+	  </list-item>
+	  <list-item>
+	  <label>&#x2013;</label>
+      <p>direct proof of the structure of 5-formyl-2-phenylindolizine by X-ray analysis.</p>
+	  </list-item>
+	  </list>
+	  </p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Preparation of indolizines.</title>
+        <p>Starting indolizines were prepared by the standard Tchichibabin method [<xref ref-type="bibr" rid="B6-molecules-10-01074">6</xref>]:
+		<disp-formula id="molecules-10-01074-i001">
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01074-i001.tif"/>
+        </disp-formula>
+		</p>
+		<table-wrap id="molecules-10-01074-t007" position="float">
+        <object-id pub-id-type="pii">molecules-10-01074-t007_Table 7</object-id>
+		<table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Substances 1</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">R1</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">R2</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle"><bold>1a</bold></td>
+              <td align="center" valign="middle">H</td>
+              <td align="center" valign="middle">Ph</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>1b</bold></td>
+              <td align="center" valign="middle">H</td>
+              <td align="center" valign="middle">tBu</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin"><bold>1c</bold></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Me</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">tBu</td>
+            </tr>
+          </tbody>
+        </table>
+		</table-wrap>		
+        <p>All the obtained indolizines <bold>1a</bold>-<bold>c</bold> are known from the literature [<xref ref-type="bibr" rid="B6-molecules-10-01074">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-01074">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-01074">8</xref>], and the intermediate pyridinium salts were not isolated in some cases. The yields of indolizines <bold>1</bold> varied from 50% to 85%.</p>
+      </sec>
+      <sec>
+        <title>Direct lithiation of indolizines.</title>
+        <p>In the original literature procedure [<xref ref-type="bibr" rid="B1-molecules-10-01074">1</xref>] reaction of n-BuLi at -40&#xB0;C with indolizine <bold>1a</bold> (carrying out the metallation for 2 hours at -40&#xB0;C) followed by reaction with PhCN gave 90% of 5-benzoyl-indolizine <bold>2d</bold>. In our hands, however, all attempts to precisely reproduce this protocol (even after several runs) led to <bold>2d</bold> in yields that never exceeded 10-15%. Better yields (that incidently were never higher than 55%) have been obtained using a modified procedure. The changes were the following: the substrate <bold>1c</bold> was mixed with n-BuLi at -78 to -80&#xB0;C, and the stirring was continued at -20&#xB0;C for 5 hours to complete the metallation. Optimization was achieved by varying reaction time, temperature, and amount of TMEDA. The optimal reaction time was found by TLC monitoring (an aliquot of reaction mixture was taken every 30 min and quenched with an excess of an electrophile. The final optimized protocol is given in the <bold>Experimental</bold>. Lithiation of indolizines <bold>1b,c</bold> required shorter times (2 hours) compared with 5 hours for <bold>1a</bold> (under the same conditions).</p>
+		<disp-formula id="molecules-10-01074-i002">
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01074-i002.tif"/>
+        </disp-formula>
+      </sec>
+      <sec>
+        <title>Preparation of 5-substituted indolizines</title>
+        <p>Direct lithiation of indolozines <bold>1a</bold>-<bold>c</bold> followed by treatment with DMF gave 5-formylindolizines <bold>2a</bold>-<bold>c</bold> in good yields (75-95%, <xref ref-type="table" rid="molecules-10-01074-t001">Table 1</xref>). The obtained crystalline substances presented deep colors ranging from orange-brown to dark-brown (in contrast to the well-known isomeric 3-formyl derivatives of indolizines that are colorless).</p>
+		<disp-formula id="molecules-10-01074-i003">
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01074-i003.tif"/>
+        </disp-formula>
+        <p>In the <sup>1</sup>H-NMR spectra of formylindolizines <bold>2a</bold>-<bold>c</bold> (<xref ref-type="table" rid="molecules-10-01074-t002">Table 2</xref>) the signal of proton H<sub>3</sub> is shifted to low field (8.7 - 9.2 ppm), whereas in the parent indolizines <bold>1</bold> this signal appears at 6.8-7.2 ppm. This downfield shift can be clearly explained by a "<italic>peri</italic>-effect" caused by magnetic anisotropy of the 5-formyl group located at the <italic>peri</italic>-position with respect to proton H<sub>3</sub>. Earlier an analogous effect was observed for 1-COR-, 3-COR-, and 8-COR-substituted indolizines, where the corresponding signals of protons located at the <italic>peri</italic>-positions (H<sub>8</sub>, H<sub>5</sub> and H<sub>1</sub> respectively) underwent a downfield shift, see review [<xref ref-type="bibr" rid="B9-molecules-10-01074">9</xref>].</p>
+        <table-wrap id="molecules-10-01074-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-01074-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Characteristics of 5-Substituted indolizines</p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th align="left" valign="top">Indolizine</th>
+                <th align="left" valign="top">&#x2003;E</th>
+                <th align="left" valign="top">&#x2003;Product</th>
+                <th align="left" valign="top">&#x2003;Yield,%</th>
+                <th align="left" valign="top">&#x2003;Mp, &#xB0;C</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top">&#x2003;<bold>1a</bold></td>
+                <td align="left" valign="top">&#x2003;CHO</td>
+                <td align="left" valign="top">&#x2003;<bold>2a</bold></td>
+                <td align="left" valign="top">&#x2003;74</td>
+                <td align="left" valign="top">&#x2003;128-130</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">&#x2003;<bold>1b</bold></td>
+                <td align="left" valign="top">&#x2003;CHO</td>
+                <td align="left" valign="top">&#x2003;<bold>2b</bold></td>
+                <td align="left" valign="top">&#x2003;94</td>
+                <td align="left" valign="top">&#x2003;81-83</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">&#x2003;<bold>1c</bold></td>
+                <td align="left" valign="top">&#x2003;CHO</td>
+                <td align="left" valign="top">&#x2003;<bold>2c</bold></td>
+                <td align="left" valign="top">&#x2003;95</td>
+                <td align="left" valign="top">&#x2003;37-39</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">&#x2003;<bold>1a</bold></td>
+                <td align="left" valign="top">&#x2003;C(O)Ph</td>
+                <td align="left" valign="top">&#x2003;<bold>2d</bold></td>
+                <td align="left" valign="top">&#x2003;55</td>
+                <td align="left" valign="top">&#x2003;284-286 (lit. 286) [<xref ref-type="bibr" rid="B1-molecules-10-01074">1</xref>]</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">&#x2003;<bold>1b</bold></td>
+                <td align="left" valign="top">&#x2003;I</td>
+                <td align="left" valign="top">&#x2003;<bold>2e</bold></td>
+                <td align="left" valign="top">&#x2003;96</td>
+                <td align="left" valign="top">&#x2003;57-59</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap id="molecules-10-01074-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-01074-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p><sup>1</sup>H-NMR spectra of 5-formyl indolizines <bold>2a</bold>-<bold>c</bold>.</p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th align="center" valign="middle"> </th>
+                <th colspan="7" align="center" valign="middle">Chemical shifts, ppm (J, Hz)</th>
+              </tr>
+			</thead>
+			<tbody>
+              <tr>
+                <td align="center" valign="top"><bold> No.</bold></td>
+                <td align="left" valign="top"><bold>H<sub>1</sub>, s</bold></td>
+                <td align="left" valign="top"><bold>H<sub>3</sub>, s</bold></td>
+                <td align="left" valign="top"><bold>H<sub>6</sub>, d</bold> (<bold>J</bold><sub>67</sub>)</td>
+                <td align="left" valign="top"><bold>H<sub>7,</sub> m</bold></td>
+                <td align="left" valign="top"><bold>H<sub>8</sub>, d</bold> (<bold>J</bold><sub>78</sub>)</td>
+                <td align="left" valign="top"><bold>CHO, s</bold></td>
+                <td align="left" valign="top"><bold>H<sub>R1,R2</sub></bold></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><bold>2a</bold></td>
+                <td align="left" valign="top">7.04</td>
+                <td align="left" valign="top">9.18</td>
+                <td align="left" valign="top">7.83 (8.7)</td>
+                <td align="left" valign="top">6.95</td>
+                <td align="left" valign="top">7.52 (6.9)</td>
+                <td align="left" valign="top">9.88</td>
+                <td align="left" valign="top">m: 7.71; 7.39; 7.24 (2-Ph)</td>
+             </tr>
+              <tr>
+                <td align="left" valign="top"><bold>2b</bold></td>
+                <td align="left" valign="top">6.61</td>
+                <td align="left" valign="top">8.71</td>
+                <td align="left" valign="top">7.71 (8.6)</td>
+                <td align="left" valign="top">6.86</td>
+                <td align="left" valign="top">7.42 (7.2)</td>
+                <td align="left" valign="top">9.81</td>
+                <td align="left" valign="top">s, 1.37 (2-<sup>t</sup>Bu)</td>
+             </tr>
+              <tr>
+                <td align="left" valign="top"><bold>2c</bold></td>
+                <td align="left" valign="top">-</td>
+                <td align="left" valign="top">8.65</td>
+                <td align="left" valign="top">7.71 (8.7)</td>
+                <td align="left" valign="top">6.78</td>
+                <td align="left" valign="top">7.35 (7.4)</td>
+                <td align="left" valign="top">9.75</td>
+                <td align="left" valign="top">s, 2.47 (1-CH<sub>3</sub>); s, 1.42 (2- <sup>t</sup>Bu)</td>
+             </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>Finally, the structure of 5-formylindolizine <bold>2a</bold> was proven by X-ray analysis, <xref ref-type="fig" rid="molecules-10-01074-f001">Figure 1</xref>. The main feature of this structure is the very short (2.44 &#xC5;) distance between the oxygen atom of the formyl group and the H<sub>3</sub> hydrogen atom (this peculiarity may be linked to the above discussed <italic>peri</italic>-effect in the <sup>1</sup>H-NMR spectra of <bold>2a</bold>.)</p>
+        <fig id="molecules-10-01074-f001" position="float">
+          <label>Figure 1</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01074-g001.tif"/>
+        </fig>
+        <p>Successful introduction of the formyl group at position 5 has stimulated our interest in investigating the possibility of inserting a halogen atom at this position. 5-Halogen derivatives of indolizines cannot be obtained by the direct Tchichibabin method [<xref ref-type="bibr" rid="B10-molecules-10-01074">10</xref>], and the reported synthesis of 5-chloro- [<xref ref-type="bibr" rid="B11-molecules-10-01074">11</xref>] and 5-bromoindolizines [<xref ref-type="bibr" rid="B12-molecules-10-01074">12</xref>] involved dipolar cycloaddition strategies. 5-iodo-indolizines remain unknown. It is possible to introduce I or Br substituents at positions 1 or 3 by direct halogenation of 3- or 1-acylindolizines respectively [<xref ref-type="bibr" rid="B13-molecules-10-01074">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-01074">14</xref>]. It was shown that 1-bromo-2,3,7-trisubstituted indolizines may be converted to 1-iodoindolizine via 1-lithium derivative [<xref ref-type="bibr" rid="B15-molecules-10-01074">15</xref>]. Although no attempts have been performed yet to halogenate 5-lithioindolizines, the structurally related 5-lithium-2,3-diazaindolizine reacted with bromine abnormally leading to cleavage of the azole fragment [<xref ref-type="bibr" rid="B16-molecules-10-01074">16</xref>]. We now report our success in preparing of 5-iodoindolizine via lithium-iodine exchange at position 5. Iodine added to the 5-lithio derivative of indolizine <bold>1b</bold> to give 5-iodo-indolizine <bold>2e</bold> in high yield.</p>
+      </sec>
+      <sec>
+        <title>Reactivity of the 5-COR group</title>
+        <p>The 5-benzoyl derivative <bold>2d</bold> was found to be inert towards common reactions of carbonyl compounds (hydroxylamine, 2,4-dinitrophenylhydrazine in different conditions) though the benzoyl group can be removed by the action of alkali.</p>
+		<disp-formula id="molecules-10-01074-i004">
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01074-i004.tif"/>
+        </disp-formula>
+        <p>The formyl derivatives <bold>2a</bold>-<bold>c</bold> were more reactive toward hydroxylamine and 2,4-dinitro-phenylhydrazine, however the products formed were extremely unstable. A change from hydroxylamine to NH<sub>2</sub>OMe resulted in the formation under mild conditions (ethanol, pyridine, RT, 5 hours) of almost quantitative yields of stable canary-yellow oximes <bold>3a</bold>-<bold>c</bold>. The oximes <bold>3</bold> darken during storage. One would suppose that the unexpected instability of oximes and hydrazones may be caused by a sort of tautomerism promoted by an acidic hydrogen from the OH and even NH groups; in the case of O-Me oximes such acidity is impossible. The removal of the formyl group from indolizines <bold>2a</bold>-<bold>c</bold> under the action of alkali was also observed.</p>
+		<disp-formula id="molecules-10-01074-i005">
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01074-i005.tif"/>
+        </disp-formula>
+        <table-wrap id="molecules-10-01074-t003" position="float">
+          <object-id pub-id-type="pii">molecules-10-01074-t003_Table 3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <p>Characteristics of O-Me oximes <bold>3</bold> of 5-formylindolizines</p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th align="left" valign="top">5-Formylindolizine</th>
+                <th align="left" valign="top">&#x2003;Oxime</th>
+                <th align="left" valign="top">&#x2003;Yield,%</th>
+                <th align="left" valign="top">&#x2003;Mp, &#xB0;C</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top">&#x2003;<bold>2a</bold></td>
+                <td align="left" valign="top">&#x2003;<bold>3a</bold></td>
+                <td align="left" valign="top">&#x2003;89</td>
+                <td align="left" valign="top">&#x2003;82-84</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">&#x2003;<bold>2b</bold></td>
+                <td align="left" valign="top">&#x2003;<bold>3b</bold></td>
+                <td align="left" valign="top">&#x2003;96</td>
+                <td align="left" valign="top">&#x2003;49-51</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">&#x2003;<bold>2c</bold></td>
+                <td align="left" valign="top">&#x2003;<bold>3c</bold></td>
+                <td align="left" valign="top">&#x2003;quant.</td>
+                <td align="left" valign="top">&#x2003;69-71</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap id="molecules-10-01074-t004" position="float">
+          <object-id pub-id-type="pii">molecules-10-01074-t004_Table 4</object-id>
+          <label>Table 4</label>
+          <caption>
+            <p><sup>1</sup>H-NMR spectra of O-Me oximes of 5-formylindolizines.</p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th align="center" valign="middle">No.</th>
+                <th colspan="8" align="center" valign="middle">Chemical shifts, ppm (J, Hz)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="top">  </td>
+                <td align="center" valign="top"><bold>H<sub>1</sub>, s</bold></td>
+                <td align="center" valign="top"><bold>H<sub>3</sub>, s</bold></td>
+                <td align="center" valign="top"><bold>H<sub>6</sub>, d</bold> (<bold>J</bold><sub>67</sub>)</td>
+                <td align="center" valign="top"><bold>H<sub>7,</sub> m</bold></td>
+                <td align="center" valign="top"><bold>H<sub>8</sub>, d</bold> (<bold>J</bold><sub>78</sub>)</td>
+                <td align="center" valign="top"><bold>CH=N, s</bold></td>
+                <td align="center" valign="top"><bold>OMe, s</bold></td>
+                <td align="center" valign="top"><bold>H<sub>R1,R2</sub></bold></td>
+             </tr>
+              <tr>
+                <td align="center" valign="top"><bold>3a</bold></td>
+                <td align="center" valign="top">6.92</td>
+                <td align="center" valign="top">8.84</td>
+                <td align="center" valign="top">7.56 (9.1)</td>
+                <td align="center" valign="top">6.81</td>
+                <td align="center" valign="top">6.93 (6.9)</td>
+                <td align="center" valign="top">8.40</td>
+                <td align="center" valign="top">4.13</td>
+                <td align="center" valign="top">m: 7.68; 7.38; 7.23 (2-Ph)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>3b</bold></td>
+                <td align="center" valign="top">6.50</td>
+                <td align="center" valign="top">8.34</td>
+                <td align="center" valign="top">7.43 (8.9)</td>
+                <td align="center" valign="top">6.72</td>
+                <td align="center" valign="top">6.82 (6.7)</td>
+                <td align="center" valign="top">8.31</td>
+                <td align="center" valign="top">4.07</td>
+                <td align="center" valign="top">s, 1.37 (2-<sup>t</sup>Bu)</td>
+             </tr>
+              <tr>
+                <td align="center" valign="top"><bold>3c</bold></td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">8.30</td>
+                <td align="center" valign="top">7.43 (8.7)</td>
+                <td align="center" valign="top">6.65</td>
+                <td align="center" valign="top">6.76 (6.7)</td>
+                <td align="center" valign="top">8.26</td>
+                <td align="center" valign="top">4.05</td>
+                <td align="center" valign="top">s, 2.46 (1-CH<sub>3</sub>);<break/>s, 1.41 (2- <sup>t</sup>Bu)</td>
+             </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Reduction of the 5-formyl group.</title>
+        <p>The 5-formyl group readily underwent reduction upon reaction with NaBH<sub>4</sub> under mild conditions yielding 5-hydroxymethylindolizines <bold>4</bold>. Alcohols <bold>4</bold> were nearly colorless crystals which became light-green upon storage. The yields were nearly quantitative.</p>
+		<disp-formula id="molecules-10-01074-i006">
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01074-i006.tif"/>
+        </disp-formula>
+        <table-wrap id="molecules-10-01074-t005" position="float">
+          <object-id pub-id-type="pii">molecules-10-01074-t005_Table 5</object-id>
+          <label>Table 5</label>
+          <caption>
+            <p>Characteristics of 5-CH<sub>2</sub>OH indolizines <bold>4</bold></p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th align="left" valign="top">5-Formylindolizine</th>
+                <th align="left" valign="top">&#x2003;Product</th>
+                <th align="left" valign="top">&#x2003;Yield,%</th>
+                <th align="left" valign="top">&#x2003;Mp, &#xB0;C</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top">&#x2003;<bold>2a</bold></td>
+                <td align="left" valign="top">&#x2003;<bold>4a</bold></td>
+                <td align="left" valign="top">&#x2003;quant.</td>
+                <td align="left" valign="top">&#x2003;110-112</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">&#x2003;<bold>2b</bold></td>
+                <td align="left" valign="top">&#x2003;<bold>4b</bold></td>
+                <td align="left" valign="top">&#x2003;quant.</td>
+                <td align="left" valign="top">&#x2003;82</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">&#x2003;<bold>2c</bold></td>
+                <td align="left" valign="top">&#x2003;<bold>4c</bold></td>
+                <td align="left" valign="top">&#x2003;quant.</td>
+                <td align="left" valign="top">&#x2003;76-78</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap id="molecules-10-01074-t006" position="float">
+          <object-id pub-id-type="pii">molecules-10-01074-t006_Table 6</object-id>
+          <label>Table 6</label>
+          <caption>
+            <p><sup>1</sup>H-NMR spectra of 5-CH<sub>2</sub>OH indolizines <bold>4</bold></p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th align="left" valign="top">No.</th>
+                <th colspan="8" align="center" valign="top">Chemical shifts, ppm (J, Hz)</th>
+             </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="top">  </td>
+                <td align="center" valign="middle"><bold>H<sub>1</sub>, s</bold></td>
+                <td align="center" valign="middle"><bold>H<sub>3</sub>, s</bold></td>
+                <td align="center" valign="middle"><bold>H<sub>6</sub>, d</bold> (<bold>J</bold><sub>67</sub>)</td>
+                <td align="center" valign="middle"><bold>H<sub>7,</sub> m</bold></td>
+                <td align="center" valign="middle"><bold>H<sub>8</sub>, d</bold> (<bold>J</bold><sub>78</sub>)</td>
+                <td align="center" valign="middle"><bold>OCH<sub>2</sub>, d</bold> (<bold>J<sub>CH2OH</sub></bold>)</td>
+                <td align="center" valign="middle"><bold>-OH, t</bold> (<bold>J<sub>CH2OH</sub></bold>)</td>
+                <td align="center" valign="middle"><bold>H<sub>R1,R2</sub></bold></td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>4a</bold></td>
+                <td align="center" valign="top">6.73</td>
+                <td align="center" valign="top">7.77</td>
+                <td align="center" valign="top">7.34*</td>
+                <td align="center" valign="top">6.70</td>
+                <td align="center" valign="top">6.58 (6.6)</td>
+                <td align="center" valign="top">4.72**</td>
+                <td align="center" valign="top">5.33**</td>
+                <td align="center" valign="top">m: 7.68; 7.39*; 7.19 (2-Ph)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><bold>4b</bold></td>
+                <td align="center" valign="top">6.31</td>
+                <td align="center" valign="top">7.19</td>
+                <td align="center" valign="top">7.21 (9.3)</td>
+                <td align="center" valign="top">6.22</td>
+                <td align="center" valign="top">6.49 (6.3)</td>
+                <td align="center" valign="top">4.64 (4.5)</td>
+                <td align="center" valign="top">5.24 (4.5)</td>
+                <td align="center" valign="top">s, 1.35 (2-<sup>t</sup>Bu)</td>
+             </tr>
+              <tr>
+                <td align="center" valign="top"><bold>4c</bold></td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">7.10</td>
+                <td align="center" valign="top">7.19 (9.4)</td>
+                <td align="center" valign="top">6.56</td>
+                <td align="center" valign="top">6.42 (6.9)</td>
+                <td align="center" valign="top">4.60 (5.4)</td>
+                <td align="center" valign="top">5.19 (5.4)</td>
+                <td align="center" valign="top">s, 2.40 (1-CH<sub>3</sub>); s, 1.40 (2- <sup>t</sup>Bu)</td>
+              </tr>
+            </tbody>
+          </table>
+		  <table-wrap-foot>
+            <fn>
+            <p><sup>*)</sup> Peak H<sub>6</sub> overlapped with multiplet of Ph group.</p></fn>
+			<fn>
+			<p><sup>**)</sup> Broad signal.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap> 
+      </sec>
+      <sec>
+        <title>Suzuki-type cross-coupling reaction between 5-iodoindolizine and arylboronic acid.</title>
+        <p>With the goal of investigating the reactivity of the 5-iodo derivative we examined the possibility of Suzuki-type coupling reaction between 5-iodo-2-<italic>tert</italic>-butylindolizine <bold>2e</bold> and 4-methoxyphenyl-boronic acid:
+		<disp-formula id="molecules-10-01074-i007">
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01074-i007.tif"/>
+        </disp-formula>
+		</p>
+        <p>The reaction proceeded in high yield (94%) in alcoholic-aqueous medium and required mild conditions and one of simplest Pd<sup>II</sup>-catalysts. The structure of the product <bold>5</bold> was clearly confirmed by NMR data. This result confirmed the high capacity of the iodine atom in 5-iodoindolizines for substitution and C-C-bond formation. Meanwhile, our test experiments to form a C-N bond with some amines using Pd<sup>II</sup> and Pd<sup>0</sup> catalysts up to now failed.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have optimized and expanded the protocol for direct lithiation of indolizines and discovered two new classes of indolizine derivatives, namely 5-formylindolizines and 5-iodoindolizines. Carbonyl groups at position 5 of indolizine ring behave somewhat unexpectedly, forming no stable oximes and hydrazones and being easily removed under the action of alkali. Nevertheless, some further modifications of the 5-formyl group (reduction and formation of OMe-oxime) remain possible. The first example of Suzuki-type coupling reaction between 5-iodoindolizine and arylboronic acid is demonstrated.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental </title>
+      <sec>
+        <title>General</title>
+        <p><sup>1</sup>H-NMR spectra were recorded using a Bruker AC 400 NMR spectrometer at 360 MHz. All reagents and chemicals were obtained from Acros or Merck and were used as received unless otherwise noted. THF was refluxed over sodium with benzophenone for 3-4 hours and then distilled in an argon atmosphere. TMEDA (N,N,N&#x2019;,N&#x2019;-tetramethylethylenediamine) was distilled over sodium in an argon atmosphere. DMF was stirred with calcium hydride powder for 2-3 hours at 70-80&#xB0;C, and then DMF decanted and distilled under reduced pressure. The obtained DMF was again distilled with addition of phthalic anhydride under reduced pressure under an argon atmosphere and stored in refrigerator (at -12&#xB0;C).</p>
+      </sec>
+      <sec>
+        <title>Procedure for direct lithiation of indolizine <italic><bold>1</bold></italic> and preparing 5-formylindolizines <italic><bold>2</bold></italic>.</title>
+        <p>A flame-dried 3-necked round bottom flask (500 mL) equipped with a Teflon coated magnetic stir bar, dropping funnel with by-pass (with rubber septum on top neck), thermometer and gas inlet adapter was filled with argon and charged with 2-phenylindolizine <bold>1a</bold> (3.0 g, 15.5 mmol). Then anhydrous THF (200mL) and freshly distilled TMEDA (11.8 mL, 72.5 mmol) were added. The resulting mixture was degassed <italic>in vacuo</italic> and the apparatus backfilled with argon. The dropping funnel was charged with a solution of n-butyllithium (via syringe). The mixture was stirred for an additional 10 min at RT for the purpose of dissolving the 2-phenylindolizine. Then the mixture was cooled to -78 to -80 &#xB0;C, and n-butyllithium (27.2 mL, 31 mmol, 1.24 M solution in n-hexane) was added dropwise. The temperature was allowed to increase up to -20&#xB0;C, and the reaction mixture was stirred at -20&#xB0;C for an additional period of time (5h in the case of <bold>1a,</bold> 2h for <bold>1b,c</bold>). Then DMF (3.1 mL, 31 mmol) was added, the cooling bath was removed, and the reaction mixture was allowed to warm up to RT. The obtained light-green solution was poured into saturated aqueous NH<sub>4</sub>Cl and extracted with ethyl acetate. The organic phase was washed with brine, dried (Na<sub>2</sub>SO<sub>4</sub>) and evaporated <italic>in vacuo</italic>. <italic>5-formyl-2-phenylindolizine</italic> (<bold>2a,</bold> brown crystals, 2.5g, 74%) was obtained by recrystallization of the residue from <italic>i</italic>PrOH. <italic>5-Formyl-2-tert-butylindolizine</italic> (<bold>2b</bold>, red crystals) and <italic>5-formyl-1-methyl-2-tert-butylindolizine</italic> (<bold>2c</bold>, red-brown solid) were obtained using column chromatography (silica gel Merck, eluent: hexane). For the yields and characteristics of indolizines <bold>2a</bold>-<bold>c</bold> see <xref ref-type="table" rid="molecules-10-01074-t001">Table 1</xref>; for <sup>1</sup>H-NMR data see <xref ref-type="table" rid="molecules-10-01074-t002">Table 2</xref>.</p>
+      </sec>
+      <sec>
+        <title>Typical procedure for preparation of O-Me oximes <italic><bold>3</bold></italic>.</title>
+        <p>To a stirred solution of <bold>2a</bold> (0.5g, 2.3 mmol) in EtOH (5 mL) pyridine (0.18 mL, 2.3 mmol) and methoxylamine hydrochloride (0.19g 2.3 mmol) were added, and the mixture was stirred at RT for 5 h. Then the reaction mixture was filtered and the precipitate (a canary-yellow solid) was identified as pure oxime <bold>3a</bold>. The mother liquors were evaporated and purified by recrystallization from <italic>i-</italic>PrOH. Overall yield of <bold>3a</bold> was 0.5g (89%). For the yields and characteristics of OMe-oximes <bold>3a</bold>-<bold>c</bold> see <xref ref-type="table" rid="molecules-10-01074-t003">Table 3</xref>; for <sup>1</sup>H-NMR data see <xref ref-type="table" rid="molecules-10-01074-t004">Table 4</xref>. In the reaction between 5-formylindolizine <bold>2a</bold> and hydroxylamine hydrochloride (in the presence or absence of organic bases) an intensely green new solid appeared. This precipitate was insoluble in most solvents and according to <sup>1</sup>H-NMR, was a complex mixture. In the reaction of <bold>2a</bold> with 2,4-DNPH the formation of a new substance can be detected (orange-yellow spot on TLC), however it decomposed during isolation. In reactions of <bold>2a</bold> or <bold>2d</bold> with sodium hydroxide the deacylation to <bold>1a</bold> was observed.</p>
+      </sec>
+      <sec>
+        <title>Typical procedure for reduction of 5-formylindolizines <italic><bold>2</bold></italic>.</title>
+        <p>5-Formyl-2-phenylindolizine (<bold>2a</bold>, 1g, 4.53 mmol) was dissolved in EtOH (10 mL) and NaBH<sub>4</sub> (0.088g, 2.26 mmol) was added to the solution. The mixture was stirred at 0&#xB0;C for 30 min. Then the solvent was evaporated and water (10 mL) was added. The mixture was extracted with CH<sub>2</sub>Cl<sub>2</sub> (3x15 mL), and the organic phase was dried (Na<sub>2</sub>SO<sub>4</sub>). Evaporation of the organic solution gave 1 g of 5-hydroxymethyl-2-phenylindolizine <bold>4a</bold> (99%) as a colorless solid. Upon exposure to air the substance became light-green. For the yields and characteristics of alcohols <bold>4a</bold>-<bold>c</bold> see <xref ref-type="table" rid="molecules-10-01074-t005">Table 5</xref>; for <sup>1</sup>H-NMR data see <xref ref-type="table" rid="molecules-10-01074-t006">Table 6</xref>.</p>
+      </sec>
+      <sec>
+        <title>Preparation of 5-iodo-2-tert-butylindolizine <italic><bold>2e</bold></italic> via direct lithiation.</title>
+        <p>The lithiation protocol was exactly the same as described above for preparation of indolizines <bold>2a</bold>-<bold>c</bold>. The starting materials were 2-<italic>tert</italic>-butylindolizine <bold>1b</bold> (1.0 g, 5.78 mmol), anhydrous THF (60 mL), freshly distilled TMEDA (1.75 mL, 11.6 mmol) and n-butyllithium (5.12 mL, 6.35 mmol, 1.24 M solution in n-hexane). The stirring time at -20&#xB0;C (to complete the lithiation) was reduced to 2 hours. To the obtained solution of 5-lithium-2-<italic>tert</italic>-butylindolizine a solution of iodine (1.62 g, 6.35 mmol) in anhydrous THF was added, the cooling bath was removed, and the reaction mixture was allowed to warm up to RT. The obtained dark solution was poured into saturated aqueous NH<sub>4</sub>Cl and extracted with ethyl acetate. The organic phase was washed with aqueous Na<sub>2</sub>SO<sub>3</sub> (until the organic layer became almost colorless) and with brine, dried (Na<sub>2</sub>SO<sub>4</sub>), and evaporated <italic>in vacuo</italic> giving 1.67 g (96%) of green crystals of <italic>5-iodo-2-tert-butylindolizine</italic> (<bold>2e</bold>). Mp 57-59&#xB0;C; <sup>1</sup>H-NMR in DMSO-D<sub>6</sub>, &#x3B4; (ppm): 7.32 (1H, s, H<sub>3</sub>), 7.28 (1H, d, H<sub>6</sub>, <italic>J</italic><sub>67</sub> = 8.9 Hz), 6.96 (1H, d, H<sub>8</sub>, <italic>J</italic><sub>78</sub> = 6.8 Hz), 6.53 (1H, s, H<sub>1</sub>), 6.36 (1H, m, H<sub>7</sub>), 1.35 (9H, s, <sup>t</sup>Bu)</p>
+      </sec>
+      <sec>
+        <title>Cross-coupling reaction between 5-iodo-2-tert-butylindolizine <italic><bold>2e</bold></italic> and p-methoxybenzeneboronic acid.</title>
+        <p>5-Iodo-2-<italic>tert</italic>-butylindolizine (<bold>2e</bold>, 0.299 g, 1 mmol), p-methoxybenzeneboronic acid (0.160 g, 1.05 mmol), sodium carbonate (0.265 g, 2.5 mmol) and tetra-n-butylammonium hydrosulfate (0.034 g, 0.1 mmol) were dissolved in the mixture of methanol (5 mL) and water (3 mL). The resulting mixture was purged with argon for 10 min. Then the reaction mixture was heated to 40&#xB0;C and bis(triphenylphosphine)palladium dichoride Pd(PPh<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub> (0.035g, 0.05 mmol, 5 mol %) was added. The reaction mixture was stirred at 40&#xB0;C for an additional 5 hours (until the TLC confirmed that the reaction was complete). Methanol was removed under reduced pressure, and water (10 mL) was added to the residue. The mixture was extracted with CHCl<sub>3</sub>, the organic layer was separated and dried (Na<sub>2</sub>SO<sub>4</sub>). Silica gel (3 g) was added to the organic solution, and the mixture was evaporated <italic>in vacuo</italic>. The obtained dry silica gel containing the crude product was placed onto the column for HPLC, and the product was purified using hexane as eluent. <italic>5-(p-Methoxyphenyl)-2-tert-butylindolizine</italic> (<bold>5</bold>, 0.262g, 94%) was obtained as colorless crystals, Mp 113-115&#xB0;C; <sup>1</sup>H-NMR in DMSO-D<sub>6</sub>, &#x3B4; (ppm): 7.53 (2H, m, Ar), 7.20 (1H, d, H<sub>6</sub>, <italic>J</italic><sub>67</sub>=9.1 Hz), 7.09 (1H, s, H<sub>3</sub>), 7.04 (2H, m, Ar), 6.65 (1H, m, H<sub>7</sub>), 6.32 (1H, s, H<sub>1</sub>) 6.27 (1H, d, H<sub>8</sub>, <italic>J</italic><sub>78</sub>=6.2 Hz), 3.87 (3H, s, OCH<sub>3</sub>), 1.28 (9H, s, <sup>t</sup>Bu).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work was supported by RFBR (Grant No. 04-03-32823-a).</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01074">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Renard</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gubin</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Metallation of 2-Phenylindolizine</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1992</year>
+          <volume>33</volume>
+          <fpage>4433</fpage>
+          <lpage>4434</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(00)60102-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01074">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bobrovskii</surname>
+              <given-names>S. I.</given-names>
+            </name>
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E. V.</given-names>
+            </name>
+            <name>
+              <surname>Bundel</surname>
+              <given-names>Yu. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Base-promoted deutherium exchange in the indolizine nucleus</article-title>
+          <source>Chem. Heterocycl. Comp. (Engl. Transl.)</source>
+          <year>1987</year>
+          <volume>9</volume>
+          <fpage>1032</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01074">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E. V.</given-names>
+            </name>
+            <name>
+              <surname>Efimov</surname>
+              <given-names>A.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel approach to synthesis of indolizine nucleus and the class of 5-aminoindolizines via recyclization of 5-methyloxazolo[3,2-a]pyridinium cation</article-title>
+          <source>Chem. Heteroc. Compounds (Engl. Transl.)</source>
+          <year>1997</year>
+          <volume>33</volume>
+          <fpage>7</fpage>
+          <lpage>876</lpage>
+          <page-range>7, 875-876</page-range>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01074">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yasuyoshi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Toshihiko</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Masazumi</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Novel Synthesis of Pyrrolo[2,1,5-<italic>de</italic>]quinolizinones (Cycl[3.3.2]azinones)</article-title>
+          <source>Heterocycles</source>
+          <year>1987</year>
+          <volume>26</volume>
+          <issue>1</issue>
+          <fpage>199</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01074">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xin</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ting</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Yuefei</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hongwen</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel Synthetic Routes to Nitrogen-Bridged Tricyclic Derivatives of Pyrrolo [2,1,5-<italic>cd</italic>]indolizine and Pyrrolo[2,1,5-<italic>de</italic>]quinolizine Derived from 2-Acyl-<italic>N</italic>-(acylmethyl)pyridinium Halides</article-title>
+          <source>J. Chem. Soc. Perkin Trans. I.</source>
+          <year>2001</year>
+          <volume>15</volume>
+          <fpage>1820</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01074">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chichibabin</surname>
+              <given-names>A. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tautomerism in the pyridine series</article-title>
+          <source>Chem. Ber.</source>
+          <year>1927</year>
+          <volume>60B</volume>
+          <fpage>1607</fpage>
+          <lpage>17</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01074">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Armarego</surname>
+              <given-names>W. L. F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ionization and ultraviolet spectra of indolizines</article-title>
+          <source>J. Chem. Soc.</source>
+          <year>1964</year>
+          <fpage>4226</fpage>
+          <lpage>33</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01074">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reid</surname>
+              <given-names>D. H.</given-names>
+            </name>
+            <name>
+              <surname>Webster</surname>
+              <given-names>R. G.</given-names>
+            </name>
+            <name>
+              <surname>McKenzie</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies of heterocyclic compounds. Part 25. Stable indolizine and pyrrolo[2,1-b]thiazole carboselenaldehydes</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>1979</year>
+          <fpage>2334</fpage>
+          <lpage>9</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01074">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E. V.</given-names>
+            </name>
+            <name>
+              <surname>Torocheshnikov</surname>
+              <given-names>V. N.</given-names>
+            </name>
+            <name>
+              <surname>Bobrovsky</surname>
+              <given-names>S. I.</given-names>
+            </name>
+          </person-group>
+          <article-title>NMR spectra of indolizines and their sigma-complexes</article-title>
+          <source>Chem. Heterocycl. Comp. (Engl. Transl.)</source>
+          <year>1995</year>
+          <volume>31</volume>
+          <fpage>1079</fpage>
+          <lpage>1087</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01074">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E.V.</given-names>
+            </name>
+			<name>
+              <surname>Efimov</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Maiboroda</surname>
+              <given-names>D.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hetarenes with a nitrogen bridging atom. 1. Phenacylation of 2-substituted 6-methylpyridines</article-title>
+          <source>Chem. Heterocycl. Comp. (Engl. Transl.)</source>
+          <year>1995</year>
+          <volume>31</volume>
+          <fpage>962</fpage>
+          <lpage>968</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01074">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E. V.</given-names>
+            </name>
+            <name>
+              <surname>Pasichnichenko</surname>
+              <given-names>K. Yu.</given-names>
+            </name>
+            <name>
+              <surname>Rybakov</surname>
+              <given-names>V. B.</given-names>
+            </name>
+            <name>
+              <surname>Zhukov</surname>
+              <given-names>S. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterocyclic compounds with a bridge nitrogen atom. 14. Cycloaddition of acetylenedicarboxylic acid ester to 2-chloro-N-phenacylpyridinium ylide. Crystal structure of dimethyl ester of 5-chloro-3-(p-nitrobenzoyl)-indolizine-1,2-dicarboxylic acid</article-title>
+          <source>Chem. Heterocycl. Comp.</source>
+          <year>2000</year>
+          <volume>36</volume>
+          <fpage>1192</fpage>
+          <lpage>1197</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01074">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Terentyev</surname>
+              <given-names>P. B.</given-names>
+            </name>
+            <name>
+              <surname>Vinogradova</surname>
+              <given-names>S. M.</given-names>
+            </name>
+            <name>
+              <surname>Kost</surname>
+              <given-names>A. N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reaction of 2- and 4-vinylpyridines with phenacylpyridinium ylides</article-title>
+          <source>Chem. Heterocycl. Comp. (in Russian)</source>
+          <year>1980</year>
+          <volume>5</volume>
+          <fpage>651</fpage>
+          <lpage>656</lpage>
+          <comment>[Chemical Abstr. 1980, 93: 220542]</comment>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01074">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Borrows</surname>
+              <given-names>E. T.</given-names>
+            </name>
+            <name>
+              <surname>Holland</surname>
+              <given-names>D. O.</given-names>
+            </name>
+			<name>
+              <surname>Pyrrocolines</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>The action of Grignard reagents and of iodine on 3-acetyl-2-phenylpyrrocoline</article-title>
+          <source>J. Chem. Soc.</source>
+          <year>1947</year>
+          <fpage>670</fpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01074">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ogata</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterocyclic compounds. II. Synthesis of indolizine derivatives</article-title>
+          <source>Yakugaku Zasshi</source>
+          <year>1969</year>
+          <volume>89</volume>
+          <fpage>1020</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01074">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gundersen</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Negussie</surname>
+              <given-names>A. H.</given-names>
+            </name>
+            <name>
+              <surname>Rise</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Oestby</surname>
+              <given-names>O. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antimycobacterial Activity of 1-Substituted Indolizines</article-title>
+          <source>Arch. Pharm.</source>
+          <year>2003</year>
+          <volume>336</volume>
+          <fpage>191</fpage>
+          <pub-id pub-id-type="doi">10.1002/ardp.200390019</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01074">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sliskovic</surname>
+              <given-names>D. R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Triazolopyridines. Part 2. Preparation of 7-substituted triazolo[1,5-a]pyridines by directed lithiation</article-title>
+          <source>J. Chem. Soc. Perkin Trans. I.</source>
+          <year>1982</year>
+          <fpage>967</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020383</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00383</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Diastereoselective Synthesis of 2-Phenylselenenyl-1,3-<italic>anti</italic>-Diols and 2-Phenylselenenyl-1,3-<italic>anti</italic>-Azido-Alcohols via Hydroxy- and Azido-Selenenylation Reactions</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Riela</surname>
+            <given-names>Serena</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Aprile</surname>
+            <given-names>Carmela</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gruttadauria</surname>
+            <given-names>Michelangelo</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00383" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lo Meo</surname>
+            <given-names>Paolo</given-names>
+          </name>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Noto</surname>
+            <given-names>Renato</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00383">Dipartimento di Chimica Organica &#x201C;E. Patern&#xF2;&#x201D;, Universit&#xE0; di Palermo, Viale delle Scienze, Parco d&#x2019;Orleans II, Pad. 17, 90128, Palermo, Italy. Tel. (+39) 091 596919, Fax (+39) 091 596825</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00383"><label>*</label>Author to whom correspondence should be addressed; e-mail <email>mgrutt@unipa.it</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>383</fpage>
+      <lpage>393</lpage>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>18</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A method to synthesize 2-phenylselenenyl-1,3-<italic>anti</italic>-diols and 2-phenyl-selenenyl-1,3-<italic>anti</italic>-azidoalcohols via hydroxy- or azido-selenenylation of <italic>trans</italic>-allylic alcohols is reported. Moreover, the first example of hydroxyl-selenenylation of an allylic azide is presented. Yields ranging from moderate to good and diastereomeric ratios up to 95:5 are achieved.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Azides</kwd>
+        <kwd>diols</kwd>
+        <kwd>seleniraniun ion</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The 1,3-diol system is frequently found in the structure of biologically active natural products such as the macrolide antibiotics [<xref ref-type="bibr" rid="B1-molecules-10-00383">1</xref>], and consequently, a wide variety of synthetic methods have been developed for these targets [<xref ref-type="bibr" rid="B2-molecules-10-00383">2</xref>]. Moreover, chiral 1,3-aminoalcohol sequences are found in compounds of biological interest such as nucleoside antibiotics or in alkaloids. Indeed, several synthetic approaches to these moieties have been developed [<xref ref-type="bibr" rid="B3-molecules-10-00383">3</xref>].</p>
+      <p>In the last years our group has been involved in the stereoselective synthesis of substitued oxygenated heterocyclic rings, such as tetrahydrofurans, tetrahydropyrans, &#x3B4;- and &#x3B3;-lactones, using electrophilic organoselenium reagents [<xref ref-type="bibr" rid="B4-molecules-10-00383">4</xref>]. Mild reaction conditions and easy removal or subsequent functionalization of the phenylselenenyl residue are the major advantages of this chemistry [<xref ref-type="bibr" rid="B5-molecules-10-00383">5</xref>].</p>
+      <p>Here we report a simple approach for the synthesis of open chain molecules such as 2-phenylselenenyl-1,3-diols and 2-phenylselenenyl-1,3-azido-alcohols, as precursors of 1,3-diols and 1,3-aminoalcohols. Recently we reported two examples of direct hydroxyl-selenenylation reactions of <italic>trans</italic>-allylic alcohols with good diastereoselectivity [4a]. This reaction has not been studied in detail [<xref ref-type="bibr" rid="B6-molecules-10-00383">6</xref>]. We then exploited this reaction with other compounds together with the electrophilic azido-selenenylation reaction [<xref ref-type="bibr" rid="B7-molecules-10-00383">7</xref>]. It has been reported that the addition of PhSeN<sub>3</sub> to simple alkenes, as well as to activated alkenes, proceeds stereospecifically but not regiospecifically [<xref ref-type="bibr" rid="B8-molecules-10-00383">8</xref>]. A radical process for azido-phenylselenenylation of double bonds has been also reported [<xref ref-type="bibr" rid="B9-molecules-10-00383">9</xref>]. Recently, 2-phenylselenenyl-1,3-<italic>syn</italic>-diols have been prepared by a cross-aldol reaction between benzaldehyde and &#x3B2;-phenyl-selenenylenoxysilanes followed by borane reduction [<xref ref-type="bibr" rid="B10-molecules-10-00383">10</xref>]. Some 2-phenylselenenyl-1,3-<italic>syn</italic>-diols have been obtained by electrophilic addition of benzeneselenenic acid to allylic alcohols [<xref ref-type="bibr" rid="B11-molecules-10-00383">11</xref>].</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Compounds <bold>1a-g</bold> were used as starting materials for our study.</p>
+	  <p><disp-formula id='molecules-10-00383-i001'>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00383-i001.tif"/>
+        </disp-formula></p>
+      <p>
+	    <array>
+		  <tbody>
+            <tr>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin"><bold>1</bold></th>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin"><bold>R<sup>1</sup></bold></th>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin"><bold>R<sup>2</sup></bold></th>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin"><bold>1</bold></th>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin"><bold>R<sup>1</sup></bold></th>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin"><bold>R<sup>2</sup></bold></th>
+            </tr>
+            <tr style="border-top: solid thin">
+              <td align="center" valign="top"><bold>a</bold></td>
+              <td align="center" valign="top">Me</td>
+              <td align="center" valign="top">Ph</td>
+              <td align="center" valign="top"><bold>e</bold></td>
+              <td align="center" valign="top">Ph</td>
+              <td align="center" valign="top">Ph</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><bold>b</bold></td>
+              <td align="center" valign="top"><italic>i</italic>-Pr</td>
+              <td align="center" valign="top">Ph</td>
+              <td align="center" valign="top"><bold>f</bold></td>
+              <td align="center" valign="top">EtOCOCH<sub>2</sub></td>
+              <td align="center" valign="top">Ph</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><bold>c</bold></td>
+              <td align="center" valign="top">Me</td>
+              <td align="center" valign="top"><italic>p</italic>-Cl-Ph</td>
+              <td align="center" valign="top"><bold>g</bold></td>
+              <td align="center" valign="top">Me</td>
+              <td align="center" valign="top">CH<sub>2</sub>Ph</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-bottom:solid thin"><bold>d</bold></td>
+              <td align="center" valign="top" style="border-bottom:solid thin">Me</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">Me</td>
+              <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+              <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+			  <td align="center" valign="top" style="border-bottom:solid thin"> </td>
+            </tr>
+          </tbody>
+        </array>
+      </p>
+      <fig id="molecules-10-00383-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00383-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00383-g001.tif"/>
+		<p><italic>i</italic>: PhSeCl, CH<sub>3</sub>CN/H<sub>2</sub>O, r.t.; <italic>ii</italic>: PhSeX, solvent, NaN<sub>3</sub>.</p>
+      </fig>
+      <p>First we studied the electrophilic hydroxy-selenenylation of alcohols <bold>1a-f</bold>. We used for this purpose phenylselenenyl chloride in acetonitrile/water at room temperature. The intermediate seleniranium ion formed is attacked by the nucleophile, a water molecule, to give the diols <bold>2</bold> and <bold>3</bold>. Yields ranged from moderate to good, with the less reactive compound being the alkyl substituted allylic alcohol <bold>1d</bold>, whereas diastereomeric ratios were good, being at least 90:10. With R<sup>1</sup> groups bigger than methyl, slight improvement in the ratios was observed.</p>
+      <fig id="molecules-10-00383-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00383-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00383-g002.tif"/>
+      </fig>
+      <table-wrap id="molecules-10-00383-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00383-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Hydroxy-selenenylation of compounds <bold>1a</bold>-<bold>f</bold>.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Entry</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Compd.</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2+3<break/>(%)</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">1<break/>(%)</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">2:3</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle">1</td>
+              <td align="center" valign="top"><bold>1a</bold></td>
+              <td align="center" valign="top">88</td>
+              <td align="center" valign="top">11</td>
+              <td align="center" valign="top">90 :10</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">2</td>
+              <td align="center" valign="top"><bold>1b</bold></td>
+              <td align="center" valign="top">69</td>
+              <td align="center" valign="top">32</td>
+              <td align="center" valign="top">95 :5</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">3</td>
+              <td align="center" valign="top"><bold>1c</bold></td>
+              <td align="center" valign="top">63</td>
+              <td align="center" valign="top">24</td>
+              <td align="center" valign="top">92 :8</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">4</td>
+              <td align="center" valign="top"><bold>1d</bold></td>
+              <td align="center" valign="top">55</td>
+              <td align="center" valign="top">40</td>
+              <td align="center" valign="top">91 :9</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">5</td>
+              <td align="center" valign="top"><bold>1e</bold></td>
+              <td align="center" valign="top">77</td>
+              <td align="center" valign="top">11</td>
+              <td align="center" valign="top">94:6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">6[4a]</td>
+              <td align="center" valign="top" style="border-bottom:solid thin"><bold>1f</bold></td>
+              <td align="center" valign="top" style="border-bottom:solid thin">80</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">&lt;5%</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">95:5</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>The stereochemistry of the major diastereoisomer was verified by the <sup>1</sup>H-NMR spectra of compounds <bold>2d</bold>-<bold>e</bold> and <bold>3d</bold>-<bold>e</bold>. Indeed, the C<italic>H</italic>SePh signal in the major diastereoisomers <bold>2d</bold>-<bold>e</bold> was a dd, while in the minor diastereoisomers <bold>3d</bold>-<bold>e</bold> it was a triplet because of their symmetry. The stereochemical outcome of the reaction is depicted in the <xref ref-type="scheme" rid="molecules-10-00383-f002">Scheme 2</xref>. Seleniranium ions <bold>6</bold> and <bold>7</bold> arise from the attack of the electrophilic PhSeCl on both sides of the carbon-carbon double bond. As a consequence of the stabilizing Se&#x2014;O interaction, seleniranium ion <bold>7</bold> is less stable because of the steric interaction between the R<sup>1</sup> group and hydrogen atom. In seleniranium ion <bold>6</bold> this interaction is absent.</p>
+      <p>Then we studied the electrophilic azido-selenenylation of alcohols <bold>1</bold>. Preliminary investigations were carried out on compound <bold>1a</bold> in order to find the best conditions. We considered different amounts of sodium azide, solvents and sources of electrophilic selenium reagent. Reactions were carried out for 24 h at room temperature. Results are reported in <xref ref-type="table" rid="molecules-10-00383-t002">Table 2</xref>. Significant yield improvements were obtained using five equiv. of NaN<sub>3</sub> instead of three equiv., however a further increase of the amount of NaN<sub>3</sub> did not give improved yields but rather a less clean reaction (<xref ref-type="table" rid="molecules-10-00383-t002">Table 2</xref>, entries 1-3). The use of other solvents such as dimethylformamide, acetonitrile and dimethoxyethane in place of dimethylsulfoxide gave poor yields (<xref ref-type="table" rid="molecules-10-00383-t002">Table 2</xref>, entries 2,4-6). The use of the more reactive phenylselenenyl triflate gave better yields both in acetonitrile and dimethylsulfoxide, being, indeed, the latter the best conditions found (entries 7,8).</p>
+      <table-wrap id="molecules-10-00383-t002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00383-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Azido selenenylation of compound <bold>1a</bold>.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Entry</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">PhSeX</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Solvent</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">4+5<break/>(%)</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">1<break/>(%)</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">4/5</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="top">1<sup>a</sup></td>
+              <td align="center" valign="top">PhSeCl</td>
+              <td align="center" valign="top">DMSO</td>
+              <td align="center" valign="top">50</td>
+              <td align="center" valign="top">8</td>
+              <td align="center" valign="top">86/14</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">2 <sup>b</sup></td>
+              <td align="center" valign="top">PhSeCl</td>
+              <td align="center" valign="top">DMSO</td>
+              <td align="center" valign="top">66</td>
+              <td align="center" valign="top">7</td>
+              <td align="center" valign="top">84/16</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">3 <sup>c</sup></td>
+              <td align="center" valign="top">PhSeCl</td>
+              <td align="center" valign="top">DMSO</td>
+              <td align="center" valign="top">46</td>
+              <td align="center" valign="top">18</td>
+              <td align="center" valign="top">85/15</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">4 <sup>b</sup></td>
+              <td align="center" valign="top">PhSeCl</td>
+              <td align="center" valign="top">DMF</td>
+              <td align="center" valign="top">20</td>
+              <td align="center" valign="top">45</td>
+              <td align="center" valign="top">81/19</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">5 <sup>b</sup></td>
+              <td align="center" valign="top">PhSeCl</td>
+              <td align="center" valign="top">MeCN</td>
+              <td align="center" valign="top">32</td>
+              <td align="center" valign="top">40</td>
+              <td align="center" valign="top">88/12</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">6 <sup>b</sup></td>
+              <td align="center" valign="top">PhSeCl</td>
+              <td align="center" valign="top">DME</td>
+              <td align="center" valign="top">1</td>
+              <td align="center" valign="top">99</td>
+              <td align="center" valign="top">-</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">7 <sup>b</sup></td>
+              <td align="center" valign="top">PhSeOTf</td>
+              <td align="center" valign="top">MeCN</td>
+              <td align="center" valign="top">43</td>
+              <td align="center" valign="top">29</td>
+              <td align="center" valign="top">87/13</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">8 <sup>b</sup></td>
+              <td align="center" valign="top">PhSeOTf</td>
+              <td align="center" valign="top">DMSO</td>
+              <td align="center" valign="top">73</td>
+              <td align="center" valign="top">10</td>
+              <td align="center" valign="top">87/13</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-bottom:solid thin">9<sup>b</sup></td>
+              <td align="center" valign="top" style="border-bottom:solid thin">PhSeCl</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">bmimBF<sub>4</sub></td>
+              <td align="center" valign="top" style="border-bottom:solid thin">24</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">20</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">81/19</td>
+            </tr>
+          </tbody>
+        </table>
+		  <table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> NaN<sub>3</sub> 10 eq.; <sup>b</sup> NaN<sub>3</sub> 5 eq.; <sup>c</sup> NaN<sub>3</sub> 3 eq.</p>
+            </fn>
+          </table-wrap-foot>
+      </table-wrap>
+      <p>In each case the diastereoselectivity found is very similar (87:13, as determined by <sup>1</sup>H-NMR). Finally, the reaction was carried out in the ionic liquid 1-butyl-3-methylimidazolium tetrafluoroborate (bmimBF<sub>4</sub>). The yield was poor and no improvement in diastereoselectivity was observed. Moreover, a 20% yield of compounds <bold>2a</bold> and <bold>3a</bold> was obtained with high ratio (94:6) [<xref ref-type="bibr" rid="B12-molecules-10-00383">12</xref>].</p>
+      <p>In order to establish the stereochemistry of the major product, the mixture of <bold>4a</bold> and <bold>5a</bold> was separated by column chromatography. The major product was reduced with triphenylphosphine and then treated with 1,1&#x2019;-carbonyldiimidazole to give the cyclic urethane <bold>9</bold> (<xref ref-type="scheme" rid="molecules-10-00383-f003">Scheme 3</xref>). The <sup>1</sup>H-NMR spectrum showed that the coupling constants are small (see Experimental) confirming in this manner the structure proposed.</p>
+      <fig id="molecules-10-00383-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00383-scheme3_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00383-g003.tif"/>
+		<p><italic>i</italic>: PPh<sub>3</sub>, THF/H<sub>2</sub>O, r.t.; <italic>ii</italic>: 1,1&#x2019;-carbonyldiimidazole, CH<sub>2</sub>Cl<sub>2</sub>.</p>
+      </fig>
+      <p>Using our best conditions (PhSeOTf 1eq., DMSO, NaN<sub>3</sub> 5 eq.), we carried out the azido-selenenylation on compounds <bold>1b-g</bold> (<xref ref-type="table" rid="molecules-10-00383-t003">Table 3</xref>). Yields were not high and, usually, a considerable amount of starting material was recovered (30-45%). No significant change in diastereoselectivity was found, being lower in the case of <bold>1f</bold>; however, for substrates possessing an alkyl group as substituent on the C=C double bond (<bold>1d</bold>,<bold>g</bold>), somewhat higher selectivities were observed. Protection of the hydroxy group in <bold>1a</bold> as benzyl or TBDMS ether gave poor yields in the azido-selenenylation [<xref ref-type="bibr" rid="B13-molecules-10-00383">13</xref>].</p>
+      <table-wrap id="molecules-10-00383-t003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00383-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>Azido selenenylation of compounds <bold>1a</bold>-<bold>g</bold>.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">Entry</th>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">Compd.</th>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">4+5</th>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">1</th>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">4/5</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="top">1</td>
+              <td align="center" valign="top"><bold>1a</bold></td>
+              <td align="center" valign="top">73</td>
+              <td align="center" valign="top">10</td>
+              <td align="center" valign="top">87:13</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">2</td>
+              <td align="center" valign="top"><bold>1b</bold></td>
+              <td align="center" valign="top">51</td>
+              <td align="center" valign="top">45</td>
+              <td align="center" valign="top">84:16</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">3</td>
+              <td align="center" valign="top"><bold>1c</bold></td>
+              <td align="center" valign="top">64</td>
+              <td align="center" valign="top">30</td>
+              <td align="center" valign="top">83:17</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">4</td>
+              <td align="center" valign="top"><bold>1d</bold></td>
+              <td align="center" valign="top">58</td>
+              <td align="center" valign="top">40</td>
+              <td align="center" valign="top">92:8</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">5</td>
+              <td align="center" valign="top"><bold>1e</bold></td>
+              <td align="center" valign="top">33</td>
+              <td align="center" valign="top">33</td>
+              <td align="center" valign="top">87:13</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">6</td>
+              <td align="center" valign="top"><bold>1f</bold></td>
+              <td align="center" valign="top">48</td>
+              <td align="center" valign="top">43</td>
+              <td align="center" valign="top">82:18</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-bottom:solid thin">7</td>
+              <td align="center" valign="top" style="border-bottom:solid thin"><bold>1g</bold></td>
+              <td align="center" valign="top" style="border-bottom:solid thin">57</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">35</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">93:7</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>In order to prepare 2-phenylselenenyl-1,3-azido alcohols a different approach can be followed. We reasoned that using an allylic azide as starting material and water as nucleophile better yields could be reached. However, this approach suffers a limitation: allylic azides exist as an equilibrating mixture of regioisomers [<xref ref-type="bibr" rid="B14-molecules-10-00383">14</xref>]. Such rearrangement can be suppressed in compounds in which the allylic azide is conjugated. To explore this notion we used compound <bold>10</bold> (<xref ref-type="scheme" rid="molecules-10-00383-f004">Scheme 4</xref>).</p>
+      <fig id="molecules-10-00383-f004" position="float">
+        <object-id pub-id-type="pii">molecules-10-00383-scheme4_Scheme 4</object-id>
+        <label>Scheme 4</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00383-g004.tif"/>
+      </fig>
+      <p>Under the usual conditions we obtained compounds <bold>11</bold> and <bold>12</bold> in 74% yield and 90:10 ratio. Quenching the reaction after one hour we observed a lower yield (63%); moreover, an even lower yield (55%) was also obtained if water is added to a solution containing compound <bold>10</bold> and PhSeCl in CH<sub>3</sub>CN. In each case the <bold>11:12</bold> ratio did not change. It is noteworthy that the <bold>11:12</bold> ratio is identical to the <bold>2a</bold>:<bold>3a</bold> ratio, leading us to conclude that both the OH and N<sub>3</sub> groups play a similar role.</p>
+      <p>Finally, we used compound <bold>4a</bold> for further transformation. It is known that hydroxyselenides can be transformed into epoxides [<xref ref-type="bibr" rid="B15-molecules-10-00383">15</xref>]. Treatment of <bold>4a</bold> with 1.2 equiv. of <italic>m</italic>-chloroperbenzoic acid/K<sub>2</sub>CO<sub>3</sub> in methanol at -10 &#xB0;C did not afford the expected product. Rather, oxidative elimination <italic>via</italic> selenoxide <italic>syn</italic>-elimination took place to give compound <bold>13</bold> in 65% yield. However, when the reaction was carried out with 5 equiv. the <italic>cis</italic>-epoxide <bold>14</bold> [<xref ref-type="bibr" rid="B16-molecules-10-00383">16</xref>] was obtained in 40% yield. In the presence of an excess of MCPBA the reactive intermediate is the selenone. Itr would appear that because of the excellent leaving-group properties of the PhSeO<sub>2</sub> group, the reaction indeed took place, but, probably due to steric hindrance, the yield was not high. The <italic>cis</italic>-stereochemistry was established by <sup>1</sup>H-NMR (<italic>J<sub>H2H3</sub></italic> = 4.2 Hz). Although the yield was not high this methodology allows the stereoselective synthesis of 1-azido-2,3-<italic>cis</italic>-epoxides, useful compounds for further manipulations.</p>
+      <fig id="molecules-10-00383-f005" position="float">
+        <object-id pub-id-type="pii">molecules-10-00383-scheme5_Scheme 5</object-id>
+        <label>Scheme 5</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00383-g005.tif"/>
+		<p><italic>i</italic>: MCPBA (1.2 equiv.), K<sub>2</sub>CO<sub>3</sub> (1.2 equiv.), MeOH, -10 &#xB0;C; <italic>ii</italic>: MCPBA (5 equiv.), K<sub>2</sub>CO<sub>3</sub> (5 equiv.), MeOH, -10 &#xB0;C.</p>
+      </fig>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have presented a facile route for the synthesis of 2-phenylselenenyl-1,3-<italic>anti</italic>-diols and 2-phenylselenenyl-1,3-<italic>anti</italic>-azido-alcohols with interesting diastereoselectivities and complete regioselectivity.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Financial support from the University of Palermo (funds for selected research topics) and Italian MIUR within the National Research Project &#x201C;Non-aromatic heterocycles in stereocontrolled processes&#x201C; is gratefully acknowledged.</p>
+    </ack>
+	<sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p><sup>1</sup>H-NMR and <sup>13</sup>C NMR spectra were recorded on a Bruker AC-E series 250 MHz spectrometer as CDCl<sub>3</sub>. When a minor diastereoisomer was obtained in pure form, spectra and analytical data are reported. When minor diastereoisomers were obtained as mixtures, the distinguishable signals are reported. IR spectra were recorded on a Shimadzu model FTIR 8300 infrared spectrophotometer using NaCl cells. Flash chromatography was carried out using Macherey-Nagel silica gel (0.04-0.063 mm). Light petroleum refers to the fraction boiling in the range 40-60 &#xB0;C. Compounds <bold>1a</bold> and <bold>1e</bold> were prepared by sodium borohydride reduction of the corresponding commercially available ketones; compound <bold>1b</bold> by reaction of cinnamaldehyde with <italic>i</italic>-propylmagnesium chloride; compounds <bold>1c</bold> and <bold>1g</bold> by sodium borohydride reduction of the corresponding ketone obtained by Wittig reaction; compound <bold>1d</bold> by reaction of <italic>trans</italic>-crotonaldehyde with methylmagnesium chloride; compound <bold>1f</bold> by reaction of cinnamaldehyde with lithium enolate of ethyl acetate and compound <bold>8</bold> by reaction with NaN<sub>3</sub> on the acetyl derivative of compound <bold>1a</bold> in the presence of Pd(PPh<sub>3</sub>)<sub>4</sub> [<xref ref-type="bibr" rid="B17-molecules-10-00383">17</xref>]. All compounds showed spectroscopic and analytical data in agreement with their structures.</p>
+      </sec>
+      <sec>
+        <title>General procedure for hydroxy-selenenylation reactions:</title>
+        <p>To a stirred solution of compounds <bold>1a-f</bold> in acetonitrile (2 mL per mmol) and water (33 equiv.) a solution of PhSeCl (1 equiv.) in acetonitrile (1 mL per mmole) was added <italic>via</italic> cannula. After 3 minutes the reaction was quenched by addition of a saturated aqueous solution of NaHCO<sub>3</sub> and the mixture was partitioned between ethyl acetate and water. The combined organic phases were washed with brine and dried. The crude product was purified by flash chromatography.</p>
+        <p><italic>(&#xB1;)-(1RS, 2SR, 3RS)-1-phenyl-2-phenylselenenyl-butan-1,3-diol</italic> (<bold>2a</bold>): Mixture with <bold>3a</bold>. From light petroleum/diethyl ether 1:1; white solid, mp 52-53 &#xB0;C; IR (nujol) &#x3BD;: 3350, 1570, 1490, 1470 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.31 (d, <italic>J</italic>=5.7Hz, 3H, CH<sub>3</sub>), 1.36 (d, <italic>J</italic>=6.0Hz, 3H, CH<sub>3</sub>, <bold>3a</bold>), 3.35 (dd, <italic>J</italic>=4.6 and 1.6Hz, 1H, C<underline>H</underline>SePh), 3.61 (dd, <italic>J</italic>=7.6 and 5.5Hz, 1H, C<underline>H</underline>SePh, <bold>3a</bold>), 3.86 (br s, 2H, OH), 4.14-4.19 (m, 1H, CH<sub>3</sub>C<underline>H</underline>), 5.02 (d, <italic>J</italic>=7.6Hz, 1H, C<underline>H</underline>Ph, <bold>3a</bold>), 5.15 (d, <italic>J</italic>=4.6Hz, 1H, C<underline>H</underline>Ph),  7.21-7.35 (m, 8H, ArH), 7.49-7.56 (m, 2H, ArH); <sup>13</sup>C-NMR &#x3B4;: 21.9, 61.1, 66.8, 76.7, 126.0, 127.5, 128.1, 128.3, 129.1, 134.4, 141.9; Anal. Calcd. for C<sub>16</sub>H<sub>18</sub>O<sub>2</sub>Se: C, 59.82; H, 5.65. Found: C, 60.39; H, 5.69.</p>
+        <p><italic>(&#xB1;)-(1RS, 2SR, 3RS)-4-methyl-1-phenyl-2-phenylselenenyl-pentan-1,3-diol</italic> (<bold>2b</bold>): Mixture with <bold>3b</bold>. From light petroleum/diethyl ether 3:1; oil; IR (liquid film) &#x3BD;: 3300, 1455 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 0.68 (d, <italic>J</italic>=6.6Hz, 3H, CH<sub>3</sub>), 0.82 (d, <italic>J</italic>=6.7Hz, 3H, CH<sub>3</sub>, <bold>3b</bold>), 0.93 (d, <italic>J</italic>=6.7Hz, 3H, CH<sub>3</sub>, <bold>3b</bold>), 0.99 (d, <italic>J</italic>=6.7, 3H, CH<sub>3</sub>), 2.05-2.21 (m, 1H, C<underline>H</underline>Me<sub>2</sub>), 3.44 (dd, <italic>J</italic>=9.2 and 2.5Hz, 1H, C<underline>H</underline>SePh ), 3.56 (d, <italic>J</italic>=3.3Hz, 1H, OH), 3.60-3.66 (m, 1H, i-PrC<underline>H</underline>OH), 4.05 (d, <italic>J</italic>=4.5Hz, 1H, OH), 5.19-5.22 (m, 1H, C<underline>H</underline>Ph), 7.21-7.44 (m, 8H, ArH), 7.65-7.69 (m, 2H, ArH); <sup>13</sup>C-NMR &#x3B4;: 18.7, 18.9, 32.2, 58.1, 75.9, 76.4, 125.6, 127.3, 127.7, 128.2, 129.2, 134.8, 141.3; Anal. Calcd. for C<sub>18</sub>H<sub>22</sub>O<sub>2</sub>Se: C, 61.89; H, 6.35. Found: C, 62.57; H, 6.39.</p>
+        <p><italic>(&#xB1;)-(1RS, 2SR, 3RS)-1-p-chlorophenyl-2-phenylselenenyl-butan-1,3-diol</italic> (<bold>2c</bold>): Mixture with <bold>3c</bold>. From light petroleum/diethyl ether 4:1; oil; IR (liquid film) &#x3BD;: 3350, 1590, 1575, 1485, 1470 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.31 (d, <italic>J</italic>=6.3Hz, 3H, CH<sub>3</sub>), 1.36 (d, <italic>J</italic>=6.2Hz, 3H, CH<sub>3</sub>, <bold>3c</bold>), 3.16 (dd, <italic>J</italic>=7.5 and 1.5Hz, 1H, C<underline>H</underline>SePh, <bold>3c</bold>), 3.29 (dd, <italic>J</italic>=4.7 and 1.3Hz, 1H, C<underline>H</underline>SePh, overlapped with br s, 2H, OH), 4.13 (dq, <italic>J</italic>=6.3 and 1.3Hz, 1H, CH<sub>3</sub>C<underline>H</underline>), 5.08 (d, <italic>J</italic>=4.7Hz, 1H, C<underline>H</underline>Ar), 7.15-7.30 (m, 7H, ArH), 7.44-7.51 (m, 2H, ArH); <sup>13</sup>C-NMR &#x3B4;: 22.0, 61.1, 66.9, 76.1, 127.5, 127.8, 128.5, 129.2, 134.5, 140.3; Anal. Calcd. for C<sub>16</sub>H<sub>17</sub>ClO<sub>2</sub>Se: C, 54.02; H, 4.82. Found: C, 54.40; H, 4.80.</p>
+        <p><italic>(&#xB1;)-(1RS, 3RS)-3-phenylselenenyl-pentan-1,3-diol</italic> (<bold>2d</bold>): Mixture with <bold>3d</bold>. From light petroleum/diethyl ether 4:1; white solid, mp 52-53 &#xB0;C; IR (nujol) &#x3BD;: 3300, 1570, 1450 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.36 (d, <italic>J</italic>=6.5Hz, 3H, C<underline>H</underline><sub>3</sub>), 1.40 (d, <italic>J</italic>=6.3Hz, 3H, CH<sub>3</sub>), 3.15 (dd, <italic>J</italic>=5.0 and 2.7Hz, 1H, C<underline>H</underline>SePh), 3.21 (dd, <italic>J</italic>=7.0 and 7.0Hz, 1H, C<underline>H</underline>SePh, <bold>3d</bold>), 3.57 (br s, 2H, OH), 4.18 (dq, <italic>J</italic>=6.5 and 5.0Hz, 1H, C<underline>H</underline>OH), 4.33 (dq, <italic>J</italic>= 6.3 and 2.7Hz, 1H, C<underline>H</underline>OH ), 7.25-7.30 (m, 3H, ArH), 7.55-7.62 (m, 2H, ArH); <sup>13</sup>C-NMR &#x3B4;: 21.5, 62.2, 67.1, 69.8, 127.4, 129.1, 129.5, 134.0; Anal. Calcd. for C<sub>11</sub>H<sub>16</sub>O<sub>2</sub>Se: C, 50.97; H, 6.22. Found: C, 51.10; 6.30.</p>
+        <p><italic>(&#xB1;)-(1RS, 3RS)-1,3-diphenyl-2-phenylselenenyl-propan-1,3-diol</italic> (<bold>2e</bold>): From light petroleum/diethyl ether 4:1; white solid, mp 137-138 &#xB0;C; IR (nujol) &#x3BD;: 3400, 1596, 1570, 1490, 1470, 1445, 1430 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 3.56 (dd, <italic>J</italic>=3.9 and 1.7Hz, 1H, C<underline>H</underline>SePh overlapped with br s, 1H, OH), 3.63 (br s, 1H, OH), 5.13 (d, <italic>J</italic>=1.7Hz, 1H, C<underline>H</underline>OH), 5.20 (d, <italic>J</italic>= 3.9Hz, 1H, C<underline>H</underline>OH), 7.10-7.40 (m, 15H, ArH); <sup>13</sup>C-NMR &#x3B4;: 63.4, 71.5, 76.5, 125.7, 125.8, 127.2, 127.5, 127.7, 127.9, 128.5, 128.9, 134.4, 134.5, 141.3, 142.0; Anal. Calcd. for C<sub>21</sub>H<sub>20</sub>O<sub>2</sub>Se: C, 65.80; H, 5.26. Found: 66.60; H, 5.31.</p>
+      </sec>
+      <sec>
+        <title>General procedure for azido-selenenylation reactions:</title>
+        <p>To a stirred solution of PhSeCl (1 equiv.), NaN<sub>3</sub> (5 equiv.) and AgOTf (1 equiv.) in DMSO (74 mL per mmol of PhSeCl) a solution of compounds <bold>1a-f</bold> in DMSO (4.4 mL per mmol) was added <italic>via</italic> cannula. After 24 hours the reaction was quenched by addition of water and the mixture was portioned between diethyl ether and water. The combined organic phases were washed with brine and dried. The crude product was purified by flash chromatography.</p>
+        <p><italic>(&#xB1;)-(2RS, 3RS, 4RS)-4-azido-4-phenyl-3-phenylselenenyl-butan-2-ol</italic> (<bold>4a</bold>): From light petroleum/diethyl ether 9:1; white solid, mp 62-63 &#xB0;C; IR (nujol) &#x3BD;: 3270, 2090 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.43 (d, <italic>J</italic>=6.3Hz, 3H, CH<sub>3</sub>), 2.51 (br s, 1H, OH), 3.25 (dd, <italic>J</italic>=6.1 and 1.4Hz, 1H, C<underline>H</underline>SePh), 4.31 (dq, <italic>J</italic>=6.3 and 1.4Hz, 1H, CH<sub>3</sub>C<underline>H</underline>), 4.93 (d, <italic>J</italic>=6.1Hz, 1H, C<underline>H</underline>Ph), 7.16-7.37 (m, 10H, ArH); <sup>13</sup>C-NMR &#x3B4;: 22.4, 60.8, 66.2, 68.9, 127.5, 127.7, 128.4, 128.5, 129.9, 134.7, 137.8; Anal. Calcd. for C<sub>16</sub>H<sub>17</sub>N<sub>3</sub>OSe: C, 55.49; H, 4.95. Found: C, 55.90; H, 5.05.</p>
+        <p><italic>(&#xB1;)-(2RS, 3SR, 4SR)-4-azido-4-phenyl-3-phenylselenenyl-butan-2-ol</italic> (<bold>5a</bold>): From light petroleum/diethyl ether 9:1; white solid, mp 87-88 &#xB0;C; IR (nujol) &#x3BD;: 3400, 2090 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.31 (d, <italic>J</italic>=6.3Hz, 3H, CH<sub>3</sub>), 2.40 (br s, 1H, OH), 3.53 (dd, <italic>J</italic>=9.7 and 4.5Hz, 1H,  C<underline>H</underline>SePh), 4.10-4.20 (m, 1H, CH<sub>3</sub>C<underline>H</underline>), 4.76 (d, <italic>J</italic>=9.7Hz, 1H, C<underline>H</underline>Ph), 7.05-7.29 (m, 10H, ArH); <sup>13</sup>C-NMR &#x3B4;: 20.6, 62.8, 66.9, 68.3, 127.7, 127.0, 128.4, 128.6, 128.9, 129.0, 134.6, 137.2; Anal. Calcd. for C<sub>16</sub>H<sub>17</sub>N<sub>3</sub>OSe: C, 55.49; H, 4.95. Found: C, 56.09; H, 5.06.</p>
+        <p><italic>(&#xB1;)-(2RS, 3RS, 4RS)-5-azido-2-methyl-5-phenyl-4-phenylselenenyl-pentan-3-ol</italic> (<bold>4b</bold>): Mixture with <bold>5b</bold>. From light petroleum/diethyl ether 9:1; white solid, mp 68-71 &#xB0;C; IR (nujol) &#x3BD;: 3500, 2090, 1575 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 0.81 (d, <italic>J</italic>=6.6Hz, 3H, CH<sub>3</sub>), 0.84 (d, <italic>J</italic>=6.7Hz, 3H, CH<sub>3</sub>, <bold>5b</bold>), 1.04 (d, <italic>J</italic>=6.7Hz, 3H, CH<sub>3</sub>, <bold>5b</bold>), 1.14 (d, <italic>J</italic>=6.6Hz, 3H, CH<sub>3</sub>), 2.18-23 (m, 1H, C<underline>H</underline>Me<sub>2</sub>), 2.70 (br s, 1H,OH), 3.56 (dd, <italic>J</italic>=7.2 and 0.8Hz, 1H, C<underline>H</underline>SePh), 3.64-3.68 (m, 1H, CHOH), 5.03 (d, J=7.2Hz, 1H, C<underline>H</underline>Ph), 5.25 (d, <italic>J</italic>=7.4Hz, 1H, C<underline>H</underline>Ph, <bold>5b</bold>), 7.23-7.50 (m, 10H, Ar<underline>H</underline>); <sup>13</sup>C-NMR &#x3B4;: 18.9, 19.1, 32.2, 57.2, 69.1, 75.6, 127.4, 127.7, 128.2, 128.3, 128.5, 128.9, 135.0, 138.0; Anal. Calcd. for C<sub>18</sub>H<sub>21</sub>N<sub>3</sub>OSe: C, 57.75; H, 5.65. Found: C, 58.23; H, 5.80.</p>
+        <p><italic>(&#xB1;)-(2RS, 3RS, 4RS)-4-azido-4-p-chlorophenyl-3-phenylselenenyl-butan-2-ol</italic> (<bold>4c</bold>): From light petroleum/diethyl ether 3:1; white solid, mp 54-55 &#xB0;C; IR (nujol) &#x3BD;: 3500, 2090 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.47 (d, <italic>J</italic>=6.2Hz, 3H, CH<sub>3</sub>), 2.49 (br s, 1H, OH), 3.17 (dd, <italic>J</italic>=8.5 and 1.3Hz, 1H, C<underline>H</underline>SePh), 4.33 (dq, <italic>J</italic>=6.2 and 1.3Hz, 1H, CH<sub>3</sub>C<underline>H</underline>), 4.90 (d, <italic>J</italic>=8.5Hz, 1H, C<underline>H</underline>Ar), 7.10-7.28 (m, 9H, ArH); <sup>13</sup>C- NMR &#x3B4;: 22.6, 60.7, 88.2, 68.2, 127.7, 128.6, 129.0, 129.1, 134.6, 136.4; Anal. Calcd. for C<sub>16</sub>H<sub>16</sub>ClN<sub>3</sub>OSe: C, 50.47; H, 4.24. Found: C, 51.01; H, 4.34.</p>
+        <p><italic>(&#xB1;)-(2RS, 3RS, 4RS)-4-azido-3-phenylselenenyl-pentan-2-ol</italic> (<bold>4d</bold>): Mixture with <bold>5d</bold>. From light petroleum/diethyl ether 7:1; oil; IR (liquid film) &#x3BD;: 3430, 2100, 1575 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.30 (d, <italic>J</italic>=6.4Hz, 3H, CH<sub>3</sub>, <bold>5d</bold>), 1.41 (d, <italic>J</italic>=6.3Hz, 3H, CH<sub>3</sub>), 1.47 (d, <italic>J</italic>=6.8Hz, 3H, CH<sub>3</sub>), 2.68 (br s, 1H, OH), 3.04 (dd, <italic>J</italic>=6.5 and 2.5Hz, 1H, C<underline>H</underline>SePh), 3.26 (dd, <italic>J</italic>=7.0 and 5.8Hz, 1H, C<underline>H</underline>SePh, <bold>5d</bold>), 3.91 (dq, <italic>J</italic>=6.8 and 6.5Hz, 1H, C<underline>H</underline>CH<sub>3</sub>), 4.21 (dq, <italic>J</italic>=6.3 and 2.5Hz, 1H, C<underline>H</underline>CH<sub>3</sub>), 7.27-7.32 (m, 3H, ArH), 7.59-7.66 (m, 2H, ArH); <sup>13</sup>C-NMR &#x3B4;: 18.2, 22.1, 60.3, 61.6, 66.6, 127.5, 129.1, 129.6, 134.0; Anal. Calcd. for C<sub>11</sub>H<sub>15</sub>N<sub>3</sub>OSe: C, 46.48; H, 5.32. Found: C, 46.90; H, 5.40.</p>
+        <p><italic>(&#xB1;)-(2RS, 3RS, 4RS)-3-azido-1,3-diphenyl-2-phenylselenenyl-propan-1-ol</italic> (<bold>4e</bold>): From light petroleum/diethyl ether 15:1; white solid, mp 77-78 &#xB0;C; IR (nujol) &#x3BD;: 3400, 2100 cm<sup>-1</sup>. <sup>1</sup>H-NMR &#x3B4;: 2.94 (br s, 1H, OH), 3.38 (dd, <italic>J</italic>=7.8 and 1.9Hz, 1H, C<underline>H</underline>SePh), 5.00 (d, <italic>J</italic>=7.8Hz, 1H, C<underline>H</underline>Ph), 5.33 (d, <italic>J</italic>=1.9Hz, 1H, C<underline>H</underline>Ph), 6.8-6.82 (m, 2H, ArH), 7.11-7.17 (m, 1H, ArH), 7.23-7.37 (m, 10H, ArH); <sup>13</sup>C-NMR &#x3B4;: 62.6, 69.0, 71.4, 126.0, 127.4, 127.5, 127.6, 128.1, 128.5, 128.6, 128.7, 134.8, 137.8, 142.2; Anal. Calcd. for C<sub>21</sub>H<sub>19</sub>N<sub>3</sub>OSe: C, 61.77; H, 4.69. Found: C, 62.10; H, 4.74.</p>
+        <p><italic>(&#xB1;)-(3RS, 4RS, 5RS)-5-azido-3-hydroxy-4-phenylselenenyl-5-phenyl-pentanoate ethyl ester</italic> (<bold>4f</bold>): From light petroleum/diethyl ether 3:1; white solid, mp 92-93 &#xB0;C; IR (nujol) &#x3BD;: 3430, 2100, 1575 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.26 (t, <italic>J</italic>=7.1Hz, 3H, OCH<sub>2</sub>C<underline>H</underline><sub>3</sub>), 2.64 (dd, <italic>J</italic>=16.4 and 4.0Hz, 1H, EtOCOC<underline>H</underline>H), 3.16 (dd, <italic>J</italic>= 16.4 and 9.3Hz, 1H, EtOCOCH<underline>H),</underline> 3.20 (dd, <italic>J</italic>= 9.3 and 1.2Hz, 1H, C<underline>H</underline>SePh), 3.37 (br s, 1H, OH), 4.16 (q, <italic>J</italic>=7.1Hz, 2H, OC<underline>H</underline><sub>2</sub>CH<sub>3</sub>), 4.64-4.69 (m, 1H, CH<sub>2</sub>C<underline>H</underline>OH), 4.94 (d, <italic>J</italic>=9.3Hz, 1H, C<underline>H</underline>Ph), 7.07-7.32 (m, 10H, ArH); <sup>13</sup>C-NMR &#x3B4;: 14.1, 40.7, 58.6, 60.8, 66.7, 68.5, 127.5, 127.9, 128.3, 128.8, 134.7, 137.6, 172.2; Anal. Calcd. for C<sub>19</sub>H<sub>21</sub>N<sub>3</sub>O<sub>3</sub>Se: C, 54.55; H, 5.06. Found: C, 54.99; H, 5.15.</p>
+        <p><italic>(&#xB1;)-(2RS, 3RS, 4RS)-4-azido-5-phenyl-3-phenylselenenyl-pentan-2-ol</italic> (<bold>4g</bold>): From light petroleum/ diethyl ether 10:1; oil; IR (liquid film) &#x3BD;: 3330, 2100 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.43 (d, <italic>J</italic>=6.3Hz, 3H, CH<sub>3</sub>), 2.59 (br s, 1H, OH), 2.92 ( dd, <italic>J</italic>=13.8 and 8.8Hz, 1H, PhC<underline>H</underline>H), 3.11 (dd, <italic>J</italic>=5.3 and 1.8Hz, 1H, C<underline>H</underline>SePh), 3.22 (dd, <italic>J</italic>=13.8 and 5.4Hz, 1H, PhCH<underline>H</underline>), 3.97-4.05 (m, 1H, C<underline>H</underline>N<sub>3</sub>), 4.34 (dt, <italic>J</italic>=6.3 and 1.8Hz, 1H, C<underline>H</underline>OH), 7.11-7.15 (m, 2H, ArH), 7.25-7.32 (m, 6H, ArH), 7.46-7.50 (m, 2H, ArH); <sup>13</sup>C-NMR &#x3B4;: 22.4, 39.7, 58.4, 66.4, 67.7, 126.9, 127.5, 128.7, 129.1, 129.3, 133.9, 137.1; Anal. Calcd. for C<sub>17</sub>H<sub>19</sub>N<sub>3</sub>OSe: C, 56.67; H, 5.32. Found: C, 56.99; H, 5.35.</p>
+        <p><italic>(&#xB1;)-(2RS, 3SR, 4SR)-4-azido-5-phenyl-3-phenylselenenyl-pentan-2-ol</italic> (<bold>5g</bold>): From light petroleum/ diethyl ether 10:1; oil. IR (liquid film) &#x3BD;: 3370, 2100 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.35 (d, <italic>J</italic>=6.3Hz, 3H, CH<sub>3</sub>), 2.29 (br s, 1H, OH), 2.75 ( dd, <italic>J</italic>=13.9 and 9.9Hz, 1H, PhC<underline>H</underline>H), 3.36 (dd, <italic>J</italic>=7.2 and 5.3Hz, 1H, C<underline>H</underline>SePh), 3.43 (dd, <italic>J</italic>=13.9 and 3.6Hz, 1H, PhCH<underline>H</underline>), 3.89 (ddd, <italic>J</italic>=9.9, 7.2 and 3.6Hz, 1H, C<underline>H</underline>N<sub>3</sub>), 4.34 (dt, <italic>J</italic>=6.3 and 5.3Hz, 1H, C<underline>H</underline>OH), 7.20-7.35 (m, 8H, ArH), 7.59-7.63 (m, 2H, ArH);. <sup>13</sup>C-NMR &#x3B4;: 21.4, 39.8, 60.8, 66.5, 67.6, 126.9, 128.0, 128.7, 129.3, 129.5, 134.1, 137.6; Anal. Calcd. for C<sub>17</sub>H<sub>19</sub>N<sub>3</sub>OSe: C, 56.67; H, 5.32. Found: C, 57.05; H, 5.41.</p>
+      </sec>
+      <sec>
+        <title>(&#xB1;)-(4RS, 5RS, 6RS)-6-methyl-4-phenyl-5-phenylselenenyl-1,3-oxazolidin-2-one <italic>(<bold>9</bold>)</italic></title>
+        <p>To a solution of compound <bold>4a</bold> (100 mg, 0.298 mmol) in dry THF (6 mL), PPh<sub>3</sub> (84 mg, 1.1 equiv.) was added. The solution was stirred at 40 &#xB0;C overnight. After this time, water (0.30 mL) was added and the solution stirred at 50 &#xB0;C for 3 h. Methanol was then added and the solution evaporated under reduced pressure. The residue was dessiccated under vacuum in the presence of P<sub>2</sub>O<sub>5</sub> for 5 h. The white residue obtained was used without further purification in the next step. The residue (95 mg) was dissolved in CH<sub>2</sub>Cl<sub>2</sub> (2 mL) at 0 &#xB0;C then 1,1&#x2019;-carbonyldiimidazole (58 mg, 0.36 mmol) was added. The solution was allowed to warm at room temperature then stirred for 48 h. After this time the solvent was removed under reduced pressure and the residue purified by flash chromatography using CH<sub>2</sub>Cl<sub>2</sub>/ethyl acetate 7:1 as eluent to afford compound <bold>9</bold> (34 mg, 34%) as yellow solid, m.p. 175-177 &#xB0;C; IR (nujol) &#x3BD;: 3350, 1720, 1690, 1455 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.50 (d, <italic>J</italic>=6.4 Hz, 3H, CH<sub>3</sub>), 3.44-3.46 (m, 1H, C<underline>H</underline>SePh), 4.55 (dt, <italic>J</italic>=6.4 and 2.5 Hz, 1H, C<underline>H</underline>CH<sub>3</sub>), 4.72 (dd, <italic>J</italic>=3.6 Hz, 1H, C<underline>H</underline>Ph), 5.81 (d, <italic>J</italic>=3.6 Hz, 1H, NH), 7.12-7.16 (m, 2H, ArH), 7.27-7.37 (m, 6H, ArH), 7.52-7.56 (m, 2H, ArH); <sup>13</sup>C-NMR &#x3B4;: 18.8, 49.1, 59.4, 72.0, 126.3, 128.3, 128.6, 128.9, 129.5, 135.4, 140.5, 153.5.</p>
+      </sec>
+      <sec>
+        <title>Hydroxy-selenenylation reaction of compound <italic><bold>10</bold></italic></title>
+        <p>To a stirred solution of compound <bold>10</bold> (100 mg, 0.58 mmol) in acetonitrile (1 mL) and water (340 &#x3BC;L) a solution of PhSeCl (110 mg, 1 equiv.) in acetonitrile (0.8 mL) was added <italic>via cannula</italic>. After 3 minutes the reaction was quenched by addition of a saturated aqueous solution of NaHCO<sub>3</sub> and the mixture was portioned between diethyl ether and water. The combined organic phases were washed with brine and dried. The crude product was purified by flash chromatography to give <italic>(&#xB1;)-(1RS, 2SR, 3RS)-3-azido-1-phenyl-2-phenylselenenyl-butan-1-ol</italic> (<bold>11</bold>) as a mixture with <bold>12</bold>. From light petroleum/diethyl ether 9:1; oil; IR (liquid film) &#x3BD;: 3430, 2100, 1575 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.44 (d, <italic>J</italic>=6.5Hz, 3H, CH<sub>3</sub>, <bold>12</bold>), 1.52 (d, <italic>J</italic>=6.5 Hz, 3H, CH<sub>3</sub>), 2.95 (d, <italic>J</italic>=3.1 Hz, 1H, OH), 3.19 (dd, <italic>J</italic>=7.5 and 1.6 Hz, 1H, C<underline>H</underline>SePh), 3.51 (dd, <italic>J</italic>=6.1 and 6.1Hz, 1H, C<underline>H</underline>SePh, <bold>12</bold>), 3.80-3.85 (m, 1H, CHN<sub>3</sub>, <bold>12</bold>), 4.25 (dq, <italic>J</italic>=6.5 and 1.6 Hz, 1H, C<underline>H</underline>N<sub>3</sub>), 4.92 (dd, <italic>J</italic>=7.5 and 3.1 Hz, 1H, C<underline>H</underline>Ph), 7.11-7.31 (m, 10H, ArH); <sup>13</sup>C-NMR &#x3B4;:19.1, 56.5, 60.7, 76.4, 126.8, 127.5, 127.8, 128.2, 128.8, 129.0, 134.6, 141.6.</p>
+      </sec>
+      <sec>
+        <title>Oxidation of compound <italic><bold>4a</bold></italic></title>
+        <p>To a solution of compound <bold>4a</bold> (100 mg, 0.312 mmol) in methanol (3 mL) at -10 &#xB0;C was added K<sub>2</sub>CO<sub>3</sub> (261 mg). After 10 min <italic>m</italic>-chloroperbenzoic acid (269 mg, 1.56 mmol) was added. The reaction was quenched by adding water then the solution was partitioned between water and diethyl ether. The organic phase was washed with Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>, dried and evaporated under reduced pressure. Purification by flash chromatography with light petroleum/diethyl ether 4/1 gave <italic>(&#xB1;)-(2SR, 3RS, 4RS)-4-azido-4-phenyl-butan-2,3-oxirane</italic> (<bold>14</bold>) as an oil; IR (liquid film) &#x3BD;: 2090, 1620 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.42 (d, <italic>J</italic>=5.6Hz, 3H, CH<sub>3</sub>), 3.10-3.19 (m, 1H), 3.25 (dd, <italic>J</italic>=8.8 and 4.2Hz, 1H), 4.39 (d, <italic>J</italic>=8.8Hz, 1H), 7.32-7.45 (m, 5H, ArH); <sup>13</sup>C-NMR &#x3B4;: 13.8, 52.4, 59.5, 64.6, 126.8, 128.8, 129.0, 136.0; Anal. Calcd. for C<sub>10</sub>H<sub>11</sub>N<sub>3</sub>O: C, 63.48; H, 5.86. Found: 64.10; H, 5.92.</p>
+        <p><italic>(Z)-4-azido-4-phenyl-but-3-en-2-ol</italic> (<bold>13</bold>) was obtained following the same procedure but using 1.2 equivalents of K<sub>2</sub>CO<sub>3</sub> and MCPBA: Yellow oil; IR (liquid film) &#x3BD;: 3420, 2100, 1638 cm<sup>-1</sup>; <sup>1</sup>H-NMR &#x3B4;: 1.34 (d, <italic>J</italic>=6.4Hz, 3H, CH<sub>3</sub>), 2.00 (br s, 1H, OH), 4.85 (dt, <italic>J</italic>=7.8 and 6.4Hz, 1H), 5.22 (d, <italic>J</italic>=7.8Hz, 1H), 7.36-7.45 (5H, ArH); Anal. Calcd. for C<sub>10</sub>H<sub>11</sub>N<sub>3</sub>O: C, 63.48; H, 5.86. Found: C, 64.00; H, 5.90.</p>
+	  </sec>
+    </sec>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00383">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rychnovsky</surname>
+              <given-names>S.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxo polyene macrolide antibiotics</article-title>
+          <source>Chem. Rev.</source>
+          <year>1995</year>
+          <volume>95</volume>
+          <fpage>2021</fpage>
+          <lpage>2040</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr00038a011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00383">
+        <label>2.</label>
+		<note>
+		  <p>See for example:
+            <citation citation-type="journal">
+		      <label>(a)</label>
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Oishi</surname>
+                  <given-names>T.</given-names>
+                </name>
+                <name>
+                  <surname>Nakata</surname>
+                  <given-names>T.</given-names>
+                </name>
+              </person-group>
+              <article-title>New aspects of stereoselective synthesis of 1,3-polyols</article-title>
+              <source>Synthesis</source>
+              <year>1990</year>
+              <fpage>635</fpage>
+              <lpage>645</lpage>
+	        </citation>
+			<citation citation-type="journal">
+		      <label>(b)</label>
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Enders</surname>
+                  <given-names>D.</given-names>
+                </name>
+                <name>
+                  <surname>Hundertmark</surname>
+                  <given-names>T.</given-names>
+                </name>
+				<name>
+                  <surname>Lampe</surname>
+                  <given-names>C.</given-names>
+                </name>
+				<name>
+                  <surname>Jegelka</surname>
+                  <given-names>U.</given-names>
+                </name>
+				<name>
+                  <surname>Scharfbillig</surname>
+                  <given-names>I.</given-names>
+                </name>
+              </person-group>
+              <article-title>Highly diastereo- and enantioselective synthesis of protected anti-1,3-diols</article-title>
+              <source>Eur. J. Org. Chem.</source>
+              <year>1998</year>
+              <fpage>2839</fpage>
+              <lpage>2849</lpage>
+			   <comment>and references cited therein</comment>
+			</citation></p>
+		</note>
+      </ref>
+      <ref id="B3-molecules-10-00383">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toujas</surname>
+              <given-names>J.-L.</given-names>
+            </name>
+            <name>
+              <surname>Toupet</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Vaultier</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Organometallic additions to &#x3B2;-substituted <italic>N</italic>-Boc-&#x3B2;-aminoaldehydes: a new synthesis of enantiomerically pure 1,3-disubstituted <italic>N</italic>-Boc-1,3-aminoalcohols</article-title>
+          <source>Tetrahedron</source>
+          <year>2000</year>
+          <volume>56</volume>
+          <fpage>2665</fpage>
+          <lpage>2672</lpage>
+          <comment>and references cited therein</comment>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00383">
+        <label>4.</label>
+        <citation citation-type="journal">
+		  <label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aprile</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gruttadauria</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Amato</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>D&#x2019;Anna</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Lo Meo</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Riela</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Noto</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on the stereoselective selenolactonization, hydroxy and methoxy selenenylation of &#x3B1;- and &#x3B2;-hydroxy acids and esters. Synthesis of &#x3B4;- and &#x3B3;-lactones</article-title>
+          <source>Tetrahedron</source>
+          <year>2003</year>
+          <volume>59</volume>
+          <fpage>2241</fpage>
+          <lpage>2251</lpage>
+		</citation>
+		<citation citation-type="journal">
+		  <label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gruttadauria</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Aprile</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Lo Meo</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Riela</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Noto</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diastereoselective synthesis of substituted 2-phenyltetrahydropyrans as useful precursors of aryl C-glycosides via selenoetherification</article-title>
+          <source>Heterocycles</source>
+          <year>2003</year>
+          <volume>63</volume>
+          <fpage>681</fpage>
+          <lpage>690</lpage>
+		  <comment>and references cited therein</comment>
+		</citation>
+      </ref>
+      <ref id="B5-molecules-10-00383">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Wirth</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+		  <article-title>&#x201C;Organoselenium Chemistry, Modern Developments in Organic Synthesis&#x201D;</article-title>
+          <source>Top. Curr. Chem.</source>
+          <year>2004</year>
+          <volume>208</volume>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00383">
+        <label>6.</label>
+		<note>
+		  <p>Only few examples are reported:
+            <citation citation-type="journal">
+			  <label>(a)</label>
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Cooper</surname>
+                  <given-names>M.A.</given-names>
+                </name>
+                <name>
+                  <surname>Ward</surname>
+                  <given-names>A.D.</given-names>
+                </name>
+              </person-group>
+              <article-title>Hydroxyselenation of allylic alcohols</article-title>
+              <source>Tetrahedron Lett.</source>
+              <year>1995</year>
+              <volume>36</volume>
+              <fpage>2327</fpage>
+              <lpage>2330</lpage>
+			</citation>
+			<citation citation-type="journal">
+			  <label>(b)</label>
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Haughan</surname>
+                  <given-names>A.F.</given-names>
+                </name>
+                <name>
+                  <surname>Knight</surname>
+                  <given-names>J.R.</given-names>
+                </name>
+				<name>
+                  <surname>Sweeney</surname>
+                  <given-names>J.B.</given-names>
+                </name>
+              </person-group>
+              <article-title>Hydroxyselenation of acetoxycyclohex-2-ene</article-title>
+              <source>Tetrahedron Lett.</source>
+              <year>1994</year>
+              <volume>35</volume>
+              <fpage>1781</fpage>
+              <lpage>1784</lpage>
+			</citation>
+		  </p>
+		</note>
+      </ref>
+      <ref id="B7-molecules-10-00383">
+        <label>7.</label>
+        <citation citation-type="journal">
+		  <label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tiecco</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Testaferri</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Temperini</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bagnoli</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Marini</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Santi</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electrophilic azido selenenylation of alkenes. A simple synthetic route to racemic taxol side chain</article-title>
+          <source>Synthetic Commun.</source>
+          <year>1998</year>
+          <volume>28</volume>
+          <fpage>2167</fpage>
+          <lpage>2179</lpage>
+		</citation>
+		<citation citation-type="journal">
+		  <label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tiecco</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Testaferri</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Santi</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Tomassini</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Marini</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Bagnoli</surname>
+              <given-names>L.</given-names>
+            </name>
+			<name>
+              <surname>Temperini</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Asymmetric azidoselenenylation of alkenes: a key step for the synthesis of enantiomerically enriched nitrogen-containing compounds</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2003</year>
+          <volume>42</volume>
+          <fpage>3131</fpage>
+          <lpage>3133</lpage>
+		</citation>
+      </ref>
+      <ref id="B8-molecules-10-00383">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hassner</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Amarasekara</surname>
+              <given-names>A.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phenylselenium azide addition to alkenes. A new and stereospecific introduction of Se and N into organic molecules</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1987</year>
+          <volume>28</volume>
+          <fpage>5185</fpage>
+          <lpage>5188</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00383">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tingoli</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tiecco</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Chianelli</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Balducci</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Temperini</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel azido-phenylselenenylation of double bonds. Evidences for a free radical process</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1991</year>
+          <volume>56</volume>
+          <fpage>6809</fpage>
+          <lpage>6813</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00383">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ponthieux</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Outurquin</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Paulmier</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cross-aldol reaction between benzaldehyde and &#x3B2;-phenylselanyl enoxysilanes derived from phenylselanylmethylketones</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1998</year>
+          <volume>39</volume>
+          <fpage>4017</fpage>
+          <lpage>4020</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(98)00679-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00383">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hori</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Sharpless</surname>
+              <given-names>K.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic applications of arylselenenic and arylseleninic acids. Conversion of olefins to allylic alcohols and epoxides</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1978</year>
+          <volume>43</volume>
+          <fpage>1689</fpage>
+          <lpage>1696</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00383">
+        <label>12.</label>
+          <note><p>This reaction takes place because of the small amount of water contained in the bmimBF<sub>4</sub> ionic liquid.</p></note>
+      </ref>
+      <ref id="B13-molecules-10-00383">
+        <label>13.</label>
+          <note><p>It is interesting to note that the diastereomeric ratio observed with the TBDMS derivative of compound <bold>1a</bold> was still high (91:9).</p></note>
+      </ref>
+      <ref id="B14-molecules-10-00383">
+        <label>14.</label>
+        <citation citation-type="journal">
+		  <label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Padwa</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>S&#xE1;</surname>
+              <given-names>M.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Intramolecular O-H insertion reaction of azido substituted diazoesters and its relevance to the mechanism of the allylic azide rearrangement</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1997</year>
+          <volume>38</volume>
+          <fpage>5087</fpage>
+          <lpage>5090</lpage>
+		</citation>
+		<citation citation-type="journal">
+		  <label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arimoto</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Yamaguchi</surname>
+              <given-names>H.</given-names>
+            </name>
+			<name>
+              <surname>Fujita</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Iodosylbenzene-trimethylsilyl azide-boron trifluoride etherate: a highly efficient system for direct synthesis of allyl azides from allylsilanes</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1987</year>
+          <volume>28</volume>
+          <fpage>6289</fpage>
+          <lpage>6292</lpage>
+		</citation>
+      </ref>
+      <ref id="B15-molecules-10-00383">
+        <label>15.</label>
+        <citation citation-type="book">
+		  <label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toshimitsu</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Uemura</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Organoselenium Chemistry</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Back</surname>
+              <given-names>T.G.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Oxford University Press</publisher-name>
+          <publisher-loc>Oxford</publisher-loc>
+          <year>1999</year>
+		  <comment>Chapter 13</comment>
+          <fpage>244</fpage>
+		</citation>
+		<citation citation-type="journal">
+		  <label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uemura</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ohe</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Sugita</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxidative conversion of &#x3B2;-hydroxyselenides to epoxides and ketones with meta-chloroperbenzoic acid</article-title>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1988</year>
+          <fpage>111</fpage>
+          <lpage>112</lpage>
+		</citation>
+		<citation citation-type="journal">
+		  <label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krief</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Dumont</surname>
+              <given-names>W.</given-names>
+            </name>
+			<name>
+              <surname>Laboureur</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Exploratory study on &#x3B1;-metallo selenones. Original syntheses of oxaspiropentanones</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1988</year>
+          <volume>29</volume>
+          <fpage>3265</fpage>
+          <lpage>3268</lpage>
+		</citation>
+      </ref>
+      <ref id="B16-molecules-10-00383">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Napolitano</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Fiaschi</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Addition of iodine azide to allylic alcohols. Stereospecific synthesis of 3-azido-1,2-epoxides</article-title>
+          <source>Gazz. Chim. Ital.</source>
+          <year>1992</year>
+          <volume>122</volume>
+          <fpage>233</fpage>
+          <lpage>235</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00383">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murahashi</surname>
+              <given-names>S.-I.</given-names>
+            </name>
+            <name>
+              <surname>Taniguchi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Imada</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Tanigawa</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium(0)-catalyzed azidation of allyl esters. Selective synthesis of allyl azides, primary allylamines, and related compounds</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1989</year>
+          <volume>54</volume>
+          <fpage>3292</fpage>
+          <lpage>3303</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+      <p><italic>Sample availability</italic>: Available from the authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

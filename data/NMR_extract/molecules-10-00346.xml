@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020346</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00346</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Preparation and Characterization of 5-Substituted-4-chloro-1,2,3-dithiazolium Salts and their Conversion into 4-Substituted-3-chloro-1,2,5-thiadiazoles</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koutentis</surname>
+            <given-names>Panayiotis A.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00346" ref-type="corresp">*</xref>
+        </contrib>    
+      <aff id="af1-molecules-10-00346">Department of Chemistry, University of Cyprus, P.O. Box  20537, 1678 Nicosia, Cyprus. Tel. 35722892783, Fax 35722892809.</aff>
+	  </contrib-group>
+      <author-notes>
+        <corresp id="c1-molecules-10-00346"><label>*</label>Author to whom correspondence should be addressed; e-mail <email>koutenti@ucy.ac.cy</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>346</fpage>
+      <lpage>359</lpage>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A series of monosubstituted acetonitriles were treated with disulfur dichloride at room temperature in CH<sub>2</sub>Cl<sub>2</sub> to afford 5-substituted-4-chloro-1,2,3-dithiazolium chlorides <bold>1</bold>. Where the 5-substituent was not a good leaving group the chloride salts were converted into the corresponding perchlorate salts <bold>2</bold> which were sufficiently stable and soluble to provide both <sup>1</sup>H- and <sup>13</sup>C-NMR and cyclic voltammetry data. Several of the dithiazolium chlorides were converted into their corresponding 4-substituted-3-chloro-1,2,5-thiadiazoles <bold>13</bold> on treatment with aqueous ammonia. Mechanisms for all reactions are proposed.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>1,2,3-Dithiazole</kwd>
+		<kwd>1,2,5-thiadiazole</kwd> 
+		<kwd>heterocycle</kwd> 
+		<kwd>heteroaromatic</kwd> 
+		<kwd>electro-chemistry</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The ready formation of 4,5-dichloro-1,2,3-dithiazolium chloride (<bold>1a</bold>) from chloroacetonitrile and disulfur dichloride, S<sub>2</sub>Cl<sub>2</sub>, was described by Appel and coworkers, who also showed that the reactive 5-chlorine atom was smoothly displaced by a variety of nucleophiles [<xref ref-type="bibr" rid="B1-molecules-10-00346">1</xref>]. This work has been widely applied to heterocyclic synthesis by Kim [<xref ref-type="bibr" rid="B2-molecules-10-00346">2</xref>] and Rees [<xref ref-type="bibr" rid="B3-molecules-10-00346">3</xref>]. Intramolecular reactions and nucleophilic opening of the dithiazole ring in derivatives of <bold>1a</bold> have also added to the synthetic utility of salt <bold>1a</bold> [<xref ref-type="bibr" rid="B2-molecules-10-00346">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00346">3</xref>]. Although 1,2,3-benzodithiazolium chlorides, &#x2018;Herz salts&#x2019;, are well known [<xref ref-type="bibr" rid="B4-molecules-10-00346">4</xref>] surprisingly few monocyclic 1,2,3-dithiazolium salts analogous to <bold>1a</bold> have been reported. 4-Aryl-5-chloro-1,2,3-dithiazolium chlorides have been generated from acetophenone oximes and S<sub>2</sub>Cl<sub>2</sub>, and the 5-chlorine displaced by nucleophiles <italic>in situ</italic> [<xref ref-type="bibr" rid="B5-molecules-10-00346">5</xref>]. 1,2,3-Dithiazolyl mono radicals can also be prepared by a one electron reduction of dithiazolium salts [<xref ref-type="bibr" rid="B6-molecules-10-00346">6</xref>]. It could therefore be of interest to synthesize a wider range of these salts with the 5-chlorine replaced by other groups so that nucleophilic attack would be directed to the heterocyclic sulfur atoms with consequent ring opening. Thus we have studied the reactions of derivatives of acetonitrile with S<sub>2</sub>Cl<sub>2</sub> to see if salts analogous to <bold>1a</bold> are formed, and to gain insight into the mechanism of these reactions.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>We started with malononitrile, which is inexpensive and highly reactive, since the analogous 5-cyano-1,2,3-dithiazolium salt could be a versitile synthetic intermediate. Malononitrile has been reported to react with S<sub>2</sub>Cl<sub>2</sub> in the hot [<xref ref-type="bibr" rid="B7-molecules-10-00346">7</xref>], and with thionyl chloride in the cold [<xref ref-type="bibr" rid="B8-molecules-10-00346">8</xref>], to give some tetracyanoethylene (TCNE). We hoped that under mild conditions, similar to those used for the formation of Appel salt <bold>1a</bold>, that this formation of TCNE could be minimised. A CH<sub>2</sub>Cl<sub>2</sub> solution of malononitrile and S<sub>2</sub>Cl<sub>2</sub> at <italic>ca.</italic> 20 <sup>o</sup>C gave a precipitate of golden flakes of a new salt, C<sub>3</sub>Cl<sub>2</sub>N<sub>2</sub>S<sub>2</sub> (20%), with very weak nitrile stretching in the IR spectrum at 2235 and 2191 cm<sup>-1</sup>. Because of its poor solubility in organic solvents and instability in aqueous solvents no <sup>13</sup>C NMR data was obtained. Slow cooling of a hot solution of the salt in S<sub>2</sub>Cl<sub>2</sub> gave single crystals of the 4-chloro-5-cyano-1,2,3-dithiazolium chloride <bold>1b</bold> which provided an X-ray structure that shows the cationic charge delocalized and associated with both sulfur atoms [<xref ref-type="bibr" rid="B9-molecules-10-00346">9</xref>].</p>
+      <p>We then extended this salt-forming reaction to the acetonitrile derivatives shown in Table 1, using the conditions for the dichloro salt <bold>1a</bold>, with S<sub>2</sub>Cl<sub>2</sub> in CH<sub>2</sub>Cl<sub>2</sub> at room temperature.</p>
+	  <disp-formula>        
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00346-i001.tif"/>      
+      </disp-formula>
+      <p>The reaction products were yellow to golden orange in colour with the exception of the 5-chloro salt <bold>1a</bold> which was dark green and the <italic>p</italic>-methoxyphenyl salt <bold>1d</bold> which was deep red. The latter presumably results from extended conjugation from the methoxy group to the dithiazolium ring. The dark green colour of <bold>1a</bold> was less expected and may result from impurities occluded in the crystals. The addition of a catalytic amount (5%) of Adogen 464 was reported [<xref ref-type="bibr" rid="B10-molecules-10-00346">10</xref>] to give a cleaner reaction for the preparation of <bold>1a</bold>, but we now find the reaction to proceed equally well without this addition. Furthermore, the reaction mixture of chloroacetonitrile with S<sub>2</sub>Cl<sub>2</sub> gave a more crystalline product if left to stand without stirring [<xref ref-type="bibr" rid="B11-molecules-10-00346">11</xref>] and we found this to apply to all the salts <bold>1a-f</bold> in Table 1. These salts could be separated from the reaction mixtures by rapid filtration under a blanket of nitrogen, and washed with CH<sub>2</sub>Cl<sub>2</sub>, to give analytically pure compounds. An exception to this was the 5-phenyl derivative <bold>1e</bold> which was air sensitive and gave a poor microanalysis.</p>
+      <sec>
+        <title>1,2,3-Dithiazolium perchlorates <italic><bold>2</bold></italic></title>
+        <p>Owing to poor solubility of the dithiazolium salts and their sensitivity to aqueous solvents, NMR data was not obtained. To obtain salts more amenable to further study the dithiazolium chlorides <bold>1</bold> were converted into the corresponding perchlorates <bold>2</bold>. By treating a suspension of the chlorides <bold>1c</bold>-<bold>f</bold> in acetonitrile with excess of aqueous perchloric acid (60%) at room temperature followed by filtration and then dilution of the filtrate with diethyl ether, the 1,2,3-dithiazolium perchlorates <bold>2c</bold>-<bold>f</bold> were obtained in about 80% yield. Recrystallisation from acetonitrile-diethyl ether gave analytically pure compounds. Attempts to exchange the anion of the 4,5-dichloro <bold>1a</bold> and 4-chloro-5-cyano <bold>1b</bold> chlorides were unsuccessful. With the former the reaction became hot and deep red and hydrogen chloride was evolved, no precipitate was formed on dilution with diethyl ether. With the latter, <bold>1b</bold>, there was a vigorous exothermic reaction upon addition of the perchloric acid, and only sulfur and ammonium perchlorate could be isolated.</p>
+        <p>The stability of the perchlorates <bold>2c</bold>-<bold>f</bold> in wet acetonitrile was sensitive to the C-5 substituent. As this becomes more electron withdrawing the salts become more prone to decomposition, possibly by hydrolysis at C-5, the order of stability being MeS = 4-MeO.C<sub>6</sub>H<sub>4</sub> &gt; C<sub>6</sub>H<sub>5</sub> &gt; 4-O<sub>2</sub>N.C<sub>6</sub>H<sub>4</sub> as would be expected. This reactivity could explain the failure to obtain the corresponding 5-chloro and 5-cyanodithiazolium perchlorates. The improved stability, crystallinity and solubility of the dithiazolium perchlorates <bold>2</bold> allowed a more comprehensive spectroscopic study than was possible with the chlorides <bold>1</bold>.</p>
+	 <disp-formula>        
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00346-i002.tif"/>      
+      </disp-formula>
+        <p>The perchlorates have strong UV/vis absorption and the lowest energy bands correspond to their colours (Table 2). The first absorption band of the 4-methoxyphenyl derivative <bold>2d</bold> was shifted to the red, indicating extended delocalisation from the methoxy group to the dithiazolium cation. The <sup>13</sup>C NMR data (Table 2) showed that the C-5 carbon resonances for all the perchlorates were at low field suggesting that there is considerable positive charge associated with S-1 and S-2. The decrease in chemical shift at C-5 in going from R = MeS to Ph to 4-O<sub>2</sub>N.C<sub>6</sub>H<sub>5</sub> reflects the decreasing ability of these substituents to stabilize the positive charge at S-1 and S-2. The C-5 resonance of the 4-MeO.C<sub>6</sub>H<sub>4</sub> derivative <bold>2d</bold> does not follow this trend and, in agreement with the UV/vis data, it appears that delocalisation of charge directly affects the hybridisation of C-5 and hence its <sup>13</sup>C resonance. The chemical shift values obtained give a qualitative picture of the charge distribution in the 1,2,3-dithiazolium perchlorates <bold>2</bold>.</p>
+      </sec>
+      <sec>
+        <title>Electrochemical Study of the 1,2,3-dithiazolium perchlorates <italic><bold>2c-f</bold></italic></title>
+        <p>In light of the stability of the perchlorate salts and the interest in 1,2,3-dithiazolyl radicals [<xref ref-type="bibr" rid="B6-molecules-10-00346">6</xref>] we submitted dithiazolium perchlorates (<bold>2c</bold>-<bold>f</bold>)<sup>+</sup> to cyclic voltammetry and found reversible redox behavior, with formation of the corresponding dithiazolyl radicals (<bold>2c</bold>-<bold>f</bold>)<bold><sup>.</sup></bold>. A second reduction process was also observed and tentatively indicated the formation of the dithiazolide anions (<bold>2c</bold>-<bold>f</bold>)<bold><sup>-</sup></bold>.</p>
+	  <disp-formula>        
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00346-i003.tif"/>      
+      </disp-formula>
+        <p>This second process was apparently irreversible and may indicate that the reduced anionic species <bold>2<sup>-</sup></bold>undergoes a further and rapid reaction on the CV time-scale (seconds); possibly the reduced species <bold>2<sup>-</sup></bold> is rapidly quenched by dithiazolium cations <bold>2<sup>+</sup></bold> in the bulk solution to give two equivalents of the radical species <bold>2<sup>.</sup></bold>.</p>
+	<disp-formula>        
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00346-i004.tif"/>      
+      </disp-formula>
+        <p>The half-wave reduction potentials, E<sub>1/2</sub>(red) [<xref ref-type="bibr" rid="B12-molecules-10-00346">12</xref>], for the dithiazolium cations were calculated and compared to those published for the 1,2,3,5-dithiadiazolium salts (Table 3). The more positive the value for the half wave reduction potential the more easily an electron can be introduced into the cation to form the radical species. As the substituent R at C-5 becomes more electron withdrawing the values for the reduction potential become more positive as expected. The 1,2,3-dithiazolium salts <bold>2<sup>+</sup></bold> are more difficult to reduce than the 1,2,3,5-dithiadiazolium salts <bold>3<sup>+</sup></bold> and this possibly arises from the presence of one nitrogen atom in the dithiazolium salts <bold>2<sup>+</sup></bold> compared to two in the latter salts <bold>3<sup>+</sup></bold>. Nitrogen is strongly electronegative and may help in the formation of the radical species. Interestingly, changing the substituent on the aryl ring from MeO to H to NO<sub>2</sub> has a greater effect (more than double) on the half wave reduction potential for the dithiazolium salts <bold>2<sup>+</sup></bold> than for the dithiadiazolium salts <bold>3<sup>+</sup></bold> suggesting that the former are more sensitive to the electronic effects than the latter. The insensitivity of compounds <bold>3<sup>+</sup></bold> to the substituent at C-5 has been attributed to a node at C-5 in the LUMO state which effectively isolates the dithiadiazolium ring from the substituent at C-5 [<xref ref-type="bibr" rid="B13-molecules-10-00346">13</xref>]. The quality of the CV spectra for the dithiazolium perchlorates <bold>2<sup>+</sup></bold> became steadily worse with each scan cycle. New peaks were observed to form and to increase steadily on successive scans whilst those peaks attributed to the reversible reduction process became steadily less intense. The acetonitrile solution became slowly cloudy and a pale precipitate was observed. Furthermore a pale cream coloured film was deposited on the platinum electrode. Due to the fairly rapid decomposition of the compound under the scan conditions, an investigation of the deposition onto the platinum electrode was not continued.</p>
+      </sec>
+      <sec>
+        <title>Mechanism of Dithiazole Ring Formation.</title>
+        <p>Various mechanisms can be envisaged for the conversion of RCH<sub>2</sub>CN into the dithiazolium salts <bold>1</bold>, but there is no firm evidence available. The first step could be chlorination of the acetonitrile by S<sub>2</sub>Cl<sub>2</sub>, as demonstrated for acetonitrile itself [<xref ref-type="bibr" rid="B1-molecules-10-00346">1</xref>] and for phenylacetonitrile [<xref ref-type="bibr" rid="B14-molecules-10-00346">14</xref>]. This could be followed by addition of S<sub>2</sub>Cl<sub>2</sub> to the cyano group and cyclisation and ionisation as shown in <xref ref-type="scheme" rid="molecules-10-00346-f001">Scheme 1</xref>, or chlorination could occur later in the sequence.</p>
+        <fig id="molecules-10-00346-f001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00346-scheme1_Scheme 1</object-id>
+          <label>Scheme 1</label>        
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00346-g001.tif"/>
+        </fig>
+        <p>However, dimethylacetonitrile is reported to react with S<sub>2</sub>Cl<sub>2</sub> to give the substitution products <bold>4</bold> and <bold>5</bold>, without addition to the cyano group [<xref ref-type="bibr" rid="B15-molecules-10-00346">15</xref>]; similarly when 1-cyanomethylcyclopentene <bold>6</bold> was treated with S<sub>2</sub>Cl<sub>2</sub> and H&#xFC;nig&#x2019;s base the cyclopenta-1,2-dithiole <bold>7</bold> was formed with the cyano group intact [<xref ref-type="bibr" rid="B16-molecules-10-00346">16</xref>] (<xref ref-type="scheme" rid="molecules-10-00346-f002">Scheme 2</xref>).</p>
+        <fig id="molecules-10-00346-f002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00346-scheme2_Scheme 2</object-id>
+          <label>Scheme 2</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00346-g002.tif"/>
+        </fig>
+        <p>We must therefore consider an alternative mechanism for the salt formation in which RCH<sub>2</sub>CN is first substituted by S<sub>2</sub>Cl<sub>2</sub> to give <bold>8</bold> which can cyclise by addition of chloride to the cyano group or its ketenimine tautomer, or by further reaction of <bold>7</bold> with S<sub>2</sub>Cl<sub>2</sub>, as shown in <xref ref-type="scheme" rid="molecules-10-00346-f003">Scheme 3</xref>.</p>
+        <fig id="molecules-10-00346-f003" position="float">
+          <object-id pub-id-type="pii">molecules-10-00346-scheme3_Scheme 3</object-id>
+          <label>Scheme 3</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00346-g003.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>A Route to 1,2,5-Thiadiazoles <italic><bold>13</bold></italic></title>
+        <p>To further characterise the 1,2,3-dithiazolium salts we proceeded to investigate their response to aqueous ammonia. Since 1,2-dithiolium salts <bold>9</bold> on treatment with ammonia afford isothiazoles <bold>10</bold> through a formal exchange of one ring sulfur by nitrogen [<xref ref-type="bibr" rid="B17-molecules-10-00346">17</xref>], and treatment of 4-alkyl-5-chloro-1,2,3-dithiazolium chlorides <bold>11</bold> with aniline gave 4-alkyl-2-phenyl-3<italic>H</italic>-1,2,5-thiadiazol-3-thiones <bold>12</bold> [<xref ref-type="bibr" rid="B18-molecules-10-00346">18</xref>] (<xref ref-type="scheme" rid="molecules-10-00346-f004">Scheme 4</xref>), we anticipated the formation of 4-substituted 3-chloro-1,2,5-thiadiazoles <bold>13</bold> [<xref ref-type="bibr" rid="B19-molecules-10-00346">19</xref>].</p>
+        <fig id="molecules-10-00346-f004" position="float">
+          <object-id pub-id-type="pii">molecules-10-00346-scheme4_Scheme 4</object-id>
+          <label>Scheme 4</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00346-g004.tif"/>
+        </fig>
+        <p>Treatment of an acetonitrile solution of the 1,2,3-dithiazoles with aqueous ammonia gave in three cases the corresponding 1,2,5-thiadiazoles <bold>13</bold> (<xref ref-type="scheme" rid="molecules-10-00346-f005">Scheme 5</xref>). The derivatives <bold>13c</bold> and <bold>13a</bold> (R=MeS and Cl respectively) were not observed possibly as these compounds were very volatile and difficult to isolate.</p>
+        <fig id="molecules-10-00346-f005" position="float">
+          <object-id pub-id-type="pii">molecules-10-00346-scheme5_Scheme 5</object-id>
+          <label>Scheme 5</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00346-g005.tif"/>
+        </fig>
+        <p>A mechanism for the the S-N exchange leading to the formation of the 1,2,5-thiadiazoles <bold>13</bold> from the dithiazolium salts <bold>1</bold> is tentatively based closely on that proposed for the transformation of 1,2-dithiolium salts into their corresponding isothiazoles under analogous conditions [<xref ref-type="bibr" rid="B17-molecules-10-00346">17</xref>]. The amine <bold>14</bold> presumably suffers ring opening to give the imine <bold>15</bold> which undergoes subsequent ring closure to afford thiadiazole <bold>13</bold> with evolution of H<sub>2</sub>S (<xref ref-type="scheme" rid="molecules-10-00346-f006">Scheme 6</xref>).</p>
+        <fig id="molecules-10-00346-f006" position="float">
+          <object-id pub-id-type="pii">molecules-10-00346-scheme6_Scheme 6</object-id>
+          <label>Scheme 6</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00346-g006.tif"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>A series of substituted acetonitriles give on treatment with disulfur dichloride the corresponding 5-substituted-4-chloro-1,2,3-dithiazolium chlorides <bold>1</bold>. Where the 5-substituent is not a good leaving group, these chloride salts can be converted into their perchlorate analogues <bold>2</bold> on treatment with perchloric acid in acetonitrile. Treatment of dithiazolium chlorides with ammonia afford the 1,2,5-thiadiazoles <bold>12</bold> albeit in low to moderate yields. Whilst the preparation of fully unsaturated 1,2,5-thiadiazoles from 1,2,3-dithiazolium salts has not previously been reported [<xref ref-type="bibr" rid="B19-molecules-10-00346">19</xref>], further work, is required to find optimal reaction conditions which may afford the thiadiazoles in good yield. The conversion also highlights the electrophilic and labile nature of 1,2,3-dithiazolium salts and suggests new uses of 1,2,3-dithiazolium salts as precursors in heterocyclic synthesis and this is now under investigation by our research group.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Commercial compounds and solvents were used without further treatment except where noted. Acetonitrile was freshly distilled from phosphorus pentoxide. Monosulfur dichloride was freshly distilled from phosphorus trichloride. All reactions were protected from moisture by a calcium chloride drying tube. Anhydrous magnesium sulphate was used for drying organic extracts and volatiles were removed under reduced pressure. Ether refers to diethyl ether and petrol refers to light petroleum bp 60-80 <sup>o</sup>C. All reactions and column eluents were monitored by TLC using commercial aluminium-backed thin-layer chromatography (TLC) plates (Merck Kieselgel 60 F<sub>254</sub>). The plates were observed under UV light at 254 and 350 nm. The technique of dry flash chromatography was used throughout for all non-TLC scale chromatographic separations using Sorbsil C60 M40 silica. Melting points were determined using a Reichert Kofler hot-stage apparatus. Where samples were recrystallised, the solvents used are indicated after the melting point. UV spectra were obtained using a Perkin Elmer Lambda II spectrometer and inflections are identified by the abreviation &#x201C;inf&#x201D;. IR spectra were recorded on a Perkin-Elmer 1710FT spectrometer and strong, medium and weak peaks are represented by s, m or w respectively. <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were measured on a Brucker AM300WB machine at 300 and 76 MHz, respectively. Deuterated solvents were used for homonuclear lock and the signals are referenced to the deuterated solvent peaks. Mass spectra were recorded on a VG micromass 7070E or a VG Autospec &#x201C;Q&#x201D; mass spectrometer. FAB spectra were obtained using a glycerol matrix and CI were carried out using ammonia for ionisation. Microanalyses were carried out on a Perkin-Elmer 2400 CHN Analyser.</p>
+      </sec>
+      <sec>
+        <title>Cyclic voltammetry of the 1,2,3-dithiazolium perchlorates <italic><bold>2c-f</bold></italic></title>
+        <p>The 1,2,3-dithiazolium perchlorates <bold>2c</bold>-<bold>f</bold> were dissolved in acetonitrile (25 mL) together with enough tetrabutylammonium tetrafluoroborate to make a 0.1M solution. All solutions were degassed with argon and stored under a blanket of argon. The cell was held at 0 <sup>o</sup>C using an ice/water bath. Cyclic voltammetry was performed on the salt solutions. A 7 mm diameter platinum electrode (Oxford Electrics) was the working electrode with a Ag/AgNO<sub>3</sub> in acetonitrile reference (Russel Electrodes). The counter electrode was a platinum gauze. Potential sweeps were performed between +0.5 and -1.5 V beginning at the higher potential, with a sweep rate of 20 mV s<sup>-1</sup>, (see Table 3).</p>
+      </sec>
+      <sec>
+        <title>1,2,3-Dithiazolium chlorides <italic>(<bold>1</bold>) (see Table 1)</italic></title>
+        <p><italic>Typical procedure:</italic> To a solution of chloroacetonitrile (16.8 mL, 0.265 mol) in CH<sub>2</sub>Cl<sub>2</sub> (50 mL) at <italic>ca.</italic> 20 <sup>o</sup>C, disulfur dichloride (50 ml, 0.62 mol) was added and the mixture was agitated manually for a few seconds. On standing a black precipitate was formed and after 12 h this was separated by filtration and washed copiously with CH<sub>2</sub>Cl<sub>2</sub> to give 4,5-dichloro-1,2,3-dithiazolium chloride <bold>1a</bold> (35 g, 65%), identical with an authentic specimen [<xref ref-type="bibr" rid="B1-molecules-10-00346">1</xref>].</p>
+        <p><italic>4-Chloro-5-cyano-1,2,3-dithiazolium chloride</italic> (<bold>1b</bold>). Similar treatment of propanedinitrile with disulfur dichloride gave compound <bold>1b</bold> (20%) as golden plates, mp 115-120 <sup>o</sup>C dec. (from disulfur dichloride): Found: C, 18.3; N, 13.9. C<sub>3</sub>Cl<sub>2</sub>N<sub>2</sub>S<sub>2</sub> requires C, 18.2; N, 14.1%; IR <italic>&#x3BD;</italic><sub>max</sub> (Nujol)/cm<sup>-1</sup> 2235w and 2191w (CN), 1703w, 1614w, 1537w, 1360s, 1343s, 1327m, 1308m, 1168m, 1140w, 986w, 936m, 889w, 856s, 828w, 745w, 723w, 647m; MS <italic>m/z</italic> (EI) 198 (M<sup>+</sup>, 1%), 163 (M<sup>+</sup>-Cl, 61), 128 (9), 104 (10), 102 (100), 96 (9), 93 (CClNS<sup>+</sup>, 11), 76 (6), 70 (76), 64 (S<sub>2</sub><sup>+</sup>, 14), 45 (12); HRMS Found: M<sup>+</sup>, 197.8877. C<sub>3</sub>Cl<sub>2</sub>N<sub>2</sub>S<sub>2</sub> requires <italic>M</italic>, 197.8880.</p>
+        <p><italic>4-Chloro-5-methylthio-1,2,3-dithiazolium chloride</italic> (<bold>1c</bold>). Similar treatment of (methylthio)acetonitrile with disulfur dichloride gave <bold>1c</bold> (70%) as yellow crystals, mp 180-190 <sup>o</sup>C; Found: C, 16.2; H, 1.4; N, 6.1. C<sub>3</sub>H<sub>3</sub>Cl<sub>2</sub>NS<sub>3</sub> requires C, 16.4; H, 1.4; N, 6.4%; IR <italic>&#x3BD;</italic><sub>max</sub> (Nujol)/cm<sup>-1</sup> 1674w, 1427s, 1311m, 1279m, 1225s, 1086s, 992w, 978m, 917w, 895s, 803s, 711w, 639m; MS <italic>m/z</italic> (FAB) 184 (M<sup>+</sup>-Cl, 100%) ; HRMS Found: M<sup>+</sup>-Cl, 183.9104. C<sub>3</sub>H<sub>3</sub>ClNS<sub>3</sub> requires <italic>M-Cl</italic>, 183.9116.</p>
+        <p><italic>4-Chloro-5-(4-methoxyphenyl)-1,2,3-dithiazolium chloride</italic> (<bold>1d</bold>). Similar treatment of (4-methoxy-phenyl)acetonitrile with disulfur dichloride gave <bold>1d</bold> (80%) as red crystals, mp 180-190 <sup>o</sup>C dec.; Found: C, 38.4; H, 2.6; N, 4.8. C<sub>9</sub>H<sub>7</sub>Cl<sub>2</sub>NOS<sub>2</sub> requires C, 38.7; H, 2.5; N, 5.0%; IR <italic>&#x3BD;</italic><sub>max</sub> (Nujol)/cm<sup>-1</sup> 3103m, 3080w and 3058w (Ar CH), 1598m, 1526s, 1515s, 1492w, 1407w, 1342s, 1312s, 1289m, 1265m, 1206s, 1182w, 1115m, 1106m, 1008m, 991w, 975w, 925w, 864m, 854m, 836s, 754m, 719m, 693m, 662w; MS <italic>m/z</italic> (FAB) 244 (M<sup>+</sup>-Cl, 100%); HRMS Found: M<sup>+</sup>-Cl, 243.9665. C<sub>9</sub>H<sub>7</sub>ClNOS<sub>2</sub> requires <italic>M-Cl</italic>, 243.9658.</p>
+        <p><italic>4-Chloro-5-phenyl-1,2,3-dithiazolium chloride</italic> (<bold>1e</bold>). Similar treatment of phenylacetonitrile with disulfur dichloride gave <bold>1e</bold> (85%) as yellow needles, mp 80-90 <sup>o</sup>C; Found: C, 36.3; H, 1.9; N, 5.2. 3(C<sub>8</sub>H<sub>5</sub>Cl<sub>2</sub>NS<sub>2</sub>).CH<sub>2</sub>Cl<sub>2</sub> requires C, 36.1; H, 2.05; N, 5.05%; IR <italic>&#x3BD;</italic><sub>max</sub> (Nujol)/cm<sup>-1</sup> 1675w, 1590m, 1350s, 1320s, 1254w, 1231w, 1201s, 1174m, 1078m, 1027m, 999m, 966m, 909m, 856m, 843m, 825m, 775m, 769m, 759m, 722w, 686s; MS <italic>m/z</italic> (EI) 214 (M<sup>+</sup>-Cl, 14%), 192 (4), 178 (4), 115 (26), 160 (9), 147 (16), 131 (42), 121 (37), 105 (100), 90 (5), 77 (C<sub>6</sub>H<sub>5</sub><sup>+</sup>, 39), 69 (17); HRMS Found: M<sup>+</sup>-Cl, 213.9552. C<sub>8</sub>H<sub>5</sub>ClNS<sub>2</sub> requires <italic>M-Cl</italic>, 213.9552.</p>
+        <p><italic>4-Chloro-5-(4-nitrophenyl)-1,2,3-dithiazolium chloride</italic> (<bold>1f</bold>). Similar treatment of (4-nitro-phenyl)acetonitrile with disulfur dichloride gave <bold>1f</bold> (61%) as yellow/orange plates, mp &gt; 180 <sup>o</sup>C dec.; Found: C, 32.6; H, 1.4; N, 9.3. C<sub>8</sub>H<sub>4</sub>Cl<sub>2</sub>N<sub>2</sub>O<sub>2</sub>S<sub>2</sub> requires C, 32.65; H, 1.4; N, 9.5%; IR <italic>&#x3BD;</italic><sub>max</sub> (Nujol)/cm<sup>-1</sup> 3103m, 3080w and 3058w (Ar CH), 1598m, 1526s, 1515s, 1492w, 1407w, 1342s, 1312s, 1289m, 1265m, 1206s, 1182w, 1115m, 1106m, 1008m, 991w, 975w, 925w, 864m, 854m, 836s, 754m, 719m, 693m, 662w; MS <italic>m/z</italic> (EI) 259 (M<sup>+</sup>-Cl, 36%), 236 (6), 213 (25), 192 (78), 176 (11), 162 (20), 146 (45), 136 (20), 120 (21), 102 (19), 90 (6), 69 (100), 55 (11); HRMS Found: M<sup>+</sup>-Cl, 258.9418. C<sub>8</sub>H<sub>4</sub>ClN<sub>2</sub>O<sub>2</sub>S<sub>2</sub> requires <italic>M-Cl</italic>, 258.9403.</p>
+      </sec>
+      <sec>
+        <title>1,2,3-Dithiazolium perchlorates <italic>(<bold>2</bold>):</italic> Typical procedure </title>
+        <p>To a suspension of 4-chloro-5-methylthio-1,2,3-dithiazolium chloride <bold>1c</bold> (500 mg, 2.28 mmol) in acetonitrile (50 mL) at <italic>ca.</italic> 20 <sup>o</sup>C, 60% aqueous perchloric acid (1 mL) was added. The mixture became hot and the chloride salt dissolved. The mixture was filtered and then diluted with ether until a cloudy suspension had formed. On standing this formed crystals and filtration gave <italic>4-chloro-5-methylthio-1,2,3-dithiazolium perchlorate</italic> (<bold>2c</bold>, 516mg, 80%) as yellow needles, mp 205-215 <sup>o</sup>C (from acetonitrile/ether); Found: C, 12.9; H, 0.8; N, 4.8. C<sub>3</sub>H<sub>3</sub>Cl<sub>2</sub>NO<sub>4</sub>S<sub>3</sub> requires C, 12.7; H, 1.1; N, 4.95%; UV <italic>&#x3BB;</italic><sub>max</sub>(CH<sub>3</sub>CN)/nm 223 (log <italic>&#x3B5;</italic> 3.65), 240 (3.52), 279 (3.35), 340 inf (3.50), 395 (3.97); IR <italic>&#x3BD;</italic><sub>max</sub>(Nujol)/cm<sup>-1</sup> 1438m, 1235s, 1104s and 1060s (ClO<sub>4</sub>), 978w, 917w, 835m, 622m; <sup>1</sup>H-NMR (CD<sub>3</sub>CN) 3.23 (3H, s, CH<sub>3</sub>S); <sup>13</sup>C-NMR (CD<sub>3</sub>CN) 193.20 (C-5), 150.62 (C-4), 23.76 (CH<sub>3</sub>S); MS <italic>m/z</italic> (FAB) 184 (M<sup>+</sup>-ClO<sub>4</sub>, 100%); HRMS Found: M<sup>+</sup>-ClO<sub>4</sub>, 183.9096. C<sub>3</sub>H<sub>3</sub>ClNS<sub>3</sub> requires <italic>M-ClO<sub>4</sub></italic>, 183.9116.</p>
+        <p><italic>4-Chloro-5-(4-methoxyphenyl)-1,2,3-dithiazolium perchlorate</italic> (<bold>2d</bold>). Similar treatment of 4-chloro-5-(4-methoxyphenyl)-1,2,3-dithiazolium chloride (<bold>1d</bold>) with 60% aqueous perchloric acid and ether gave <bold>2d</bold> (75%) as red needles, mp 179-183 <sup>o</sup>C (from acetonitrile/ether); Found: C, 31.8; H, 2.1; N, 4.1. C<sub>9</sub>H<sub>7</sub>Cl<sub>2</sub>NO<sub>5</sub>S<sub>2</sub> requires C, 31.5; H, 2.0; N, 4.1%; UV <italic>&#x3BB;</italic><sub>max</sub>(CH<sub>3</sub>CN)/nm 262 (log <italic>&#x3B5;</italic> 3.80), 289 (3.67), 479 (4.07); IR <italic>&#x3BD;</italic><sub>max</sub> (Nujol)/cm<sup>-1</sup> 3040w (Ar CH), 1594m, 1448m, 1352s, 1211s, 1187m, 1051s br (ClO<sub>4</sub>), 928m, 859s, 763s, 692s, 625s; <sup>1</sup>H-NMR (CD<sub>3</sub>CN) 8.12 (2H, d, <italic>J</italic> 9.0 Hz, Ar H-3), 7.28 (2H, d, <italic>J</italic> 9.0 Hz, Ar H-2), 4.00 (3H, s, CH<sub>3</sub>O); <sup>13</sup>C-NMR (CD<sub>3</sub>CN) 181.26 (C-5), 167.00 (Ar C-4), 154.61 (C-4), 134.64 (Ar C-2), 119.50 (Ar C-1), 116.20 (Ar C-3), 56.33 (CH<sub>3</sub>O); MS <italic>m/z</italic> (FAB) 244 (M<sup>+</sup>-ClO<sub>4</sub>, 100%); HRMS Found: M<sup>+</sup>-ClO<sub>4</sub>, 243.9669. C<sub>9</sub>H<sub>7</sub>ClNOS<sub>2</sub> requires <italic>M-ClO<sub>4</sub></italic>, 243.9658.</p>
+        <p><italic>4-Chloro-5-phenyl-1,2,3-dithiazolium perchlorate</italic> (<bold>2e</bold>). Similar treatment of 4-chloro-5-phenyl-1,2,3-dithiazolium chloride (<bold>1e</bold>) with 60% aqueous perchloric acid and ether gave <bold>2e</bold> (82%) as yellow needles, mp 210-220 <sup>o</sup>C (from acetonitrile/ether); Found: C, 30.9; H, 1.7; N, 4.5. C<sub>8</sub>H<sub>5</sub>Cl<sub>2</sub>NO<sub>4</sub>S<sub>2</sub> requires C, 30.7; H, 1.6; N, 4.5%; UV <italic>&#x3BB;</italic><sub>max</sub>(CH<sub>3</sub>CN)/nm 233 (log <italic>&#x3B5;</italic> 3.83), 271 inf (3.44), 399 (3.88); IR <italic>&#x3BD;</italic><sub>max</sub> (Nujol)/cm<sup>-1</sup> 3040w (Ar CH), 1594m, 1448m, 1352s, 1211s, 1187m, 1051s br (ClO<sub>4</sub>), 928m, 859s, 763s, 692s, 625s; <sup>1</sup>H-NMR (CD<sub>3</sub>CN) 8.01 (2H, m, Ar H-2), 7.91 (1H, m, Ar H-4), 7.76 (2H, m, Ar H-3); <sup>13</sup>C-NMR (CD<sub>3</sub>CN) 182.08 (C-5), 156.37 (C-4), 135.51 (Ar C-4), 131.54 (Ar C-2), 130.09 (Ar C-3), 126.22 (Ar C-1); MS <italic>m/z</italic> (FAB) 214 (M<sup>+</sup>-ClO<sub>4</sub>, 100%); HRMS Found: M<sup>+</sup>-ClO<sub>4</sub>, 213.9562. C<sub>8</sub>H<sub>5</sub>ClNS<sub>2</sub> requires <italic>M-ClO<sub>4</sub></italic>, 213.9552.</p>
+        <p><italic>4-Chloro-5-(4-nitrophenyl)-1,2,3-dithiazolium perchlorate</italic> (<bold>2f</bold>). Similar treatment of 4-chloro-5-(4-nitrophenyl)-1,2,3-dithiazolium chloride (<bold>1f</bold>) with 60% aqueous perchloric acid and ether gave <bold>2f</bold> (78%) as cream coloured needles, mp 216-220 <sup>o</sup>C (from acetonitrile/ether) (Found: C, 27.0; H, 1.15; N, 7.8. C<sub>8</sub>H<sub>4</sub>Cl<sub>2</sub>N<sub>2</sub>O<sub>6</sub>S<sub>2</sub> requires C, 26.8; H, 1.1; N, 7.8%); <italic>&#x3BB;</italic><sub>max</sub>(CH<sub>3</sub>CN)/nm 263 (log <italic>&#x3B5;</italic> 4.00), 373 (3.87); <italic>&#x3BD;</italic><sub>max</sub>(Nujol)/cm<sup>-1</sup> 3107m, 3074w and 3049w (Ar CH), 1599m, 1521s, 1490w, 1464s, 1456s, 1410w, 1349s, 1316m, 1291m, 1253w, 1235w, 1215s, 1187w, 1110s, 1061s, 1014m, 992w, 979w, 936m, 869m, 849s, 833m, 751s, 719w, 691s, 666w, 626s; <sup>1</sup>H-NMR (CD<sub>3</sub>CN) 8.51 (2H, d, <italic>J</italic> 8.9 Hz, Ar H-3), 8.16 (2H, d, <italic>J</italic> 8.9 Hz, Ar H-2); <sup>13</sup>C-NMR (CD<sub>3</sub>CN) 178.70 (C-5), 157.65 (C-4), 151.22 (Ar C-4), 132.83 (Ar C-2), 131.72 (Ar C-1), 124.63 (Ar C-3); <italic>m/z</italic> (FAB) 259 (M<sup>+</sup>-ClO<sub>4</sub>, 100%), (Found: M<sup>+</sup>-ClO<sub>4</sub>, 258.9415. C<sub>8</sub>H<sub>4</sub>ClN<sub>2</sub>O<sub>2</sub>S<sub>2</sub> requires <italic>M-ClO<sub>4</sub></italic>, 258.9403).</p>
+      </sec>
+      <sec>
+        <title>Reaction of 4-chloro-5-cyano-1,2,3-dithiazolium chloride <italic>(<bold>1b</bold>)</italic> with aqueous perchloric acid.</title>
+        <p>To a suspension of 4-chloro-5-cyano-1,2,3-dithiazolium chloride (<bold>1b</bold>, 500 mg, 2.53 mmol) in acetonitrile (50 mL) at <italic>ca.</italic> 20 <sup>o</sup>C 60% aqueous perchloric acid (1 mL) was added. The mixture became hot (&gt; 80 <sup>o</sup>C) and brown. On cooling a cream coloured precipitate was deposited. This was filtered and washed with CH<sub>2</sub>Cl<sub>2</sub>. The washings were concentrated under reduced pressure and a little sulfur was identified. The precipitate was identified as ammonium perchlorate (139mg, 23%) as colourless needles, mp &gt; 300 <sup>o</sup>C (from acetone/ether); Found: H, 3.0; N, 11.8. Calc. for NH<sub>4</sub>ClO<sub>4</sub>: H, 3.4; N, 11.9%), identical with an authentic specimen.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Reaction of 1,2,3-dithiazolium chlorides <italic>(<bold>1</bold>)</italic> with aqueous ammonia: Typical procedure</title>
+      <p>To a stirred suspension of 4-chloro-5-phenyl-1,2,3-dithiazolium chloride (<bold>1e</bold>, 124.5 mg, 0.5 mmol) in acetonitrile (30 mL) at <italic>ca.</italic> 20 <sup>o</sup>C 33% aqueous ammonia (0.4 mL) was added. After 1 h at <italic>ca.</italic> 20 <sup>o</sup>C the mixture was heated to reflux (80 <sup>o</sup>C) for a further 1 h and on cooling to <italic>ca.</italic> 20 <sup>o</sup>C was diluted with water (30 mL), extracted with petrol (5x10 mL) and with CH<sub>2</sub>Cl<sub>2</sub> (2x10 mL). The combined organic fractions were separated, dried, filtered and the volatiles were removed. Chromatography (petrol:CH<sub>2</sub>Cl<sub>2</sub>, 3:1) of the residue gave <italic>3-chloro-4-phenyl-1,2,5-thiadiazole</italic> (<bold>13d</bold>, 35 mg, 36%) as colourless needles, mp 32-33 <sup>o</sup>C (lit., [<xref ref-type="bibr" rid="B20-molecules-10-00346">20</xref>] 33 <sup>o</sup>C) (from pentane); IR <italic>&#x3BD;</italic><sub>max</sub>(neat)/cm<sup>-1</sup> 3064w (Ar CH), 1680w (C=N), 1579w (C=C), 1463m, 1442m, 1359s, 1289w, 1259m, 1163s, 1076w, 1034w, 1002w, 979s, 922w, 841m, 773s, 745w, 715m, 693s, 656m; <sup>1</sup>H-NMR (CD<sub>3</sub>CN) 7.89 (2H, m, Ar H-2), 7.48 (3H, m, Ar H-3 and 4); <sup>13</sup>C-NMR (CD<sub>3</sub>CN) 157.82 (C-4), 143.24 (C-3), 130.78 (Ar C-1), 130.28 (Ar C-4), 128.72 (Ar C-3), 128.65 (Ar C-2); MS <italic>m/z</italic> (EI) 196 (M<sup>+</sup>, 82%), 135 (M<sup>+</sup>-CClN, 100), 103 (M<sup>+</sup>-CClNS, 20), 93 (CClNS<sup>+</sup>, 38), 77 (C<sub>6</sub>H<sub>5</sub><sup>+</sup>, 25), 64 (11), 51 (22); HRMS Found: M<sup>+</sup>, 195.9860. C<sub>8</sub>H<sub>5</sub>ClN<sub>2</sub>S requires <italic>M</italic>, 195.9862.</p>
+      <p><italic>3-Chloro-4-(4-nitrophenyl)-1,2,5-thiadiazole</italic> (<bold>13e</bold>). Similarly,. treatment of 4-chloro-5-(4-nitro-phenyl)-1,2,3-dithiazolium chloride (<bold>1f</bold>) with 33% aqueous ammonia gave <bold>13e</bold> (31 mg, 26%) as colourless needles, mp 103 <sup>o</sup>C (from cyclohexane); Found: C, 40.0; H, 1.45; N, 17.3. C<sub>8</sub>H<sub>4</sub>ClN<sub>3</sub>O<sub>2</sub>S requires C, 39.8; H, 1.7; N, 17.4%; UV <italic>&#x3BB;</italic><sub>max</sub>(CH<sub>2</sub>Cl<sub>2</sub>)/nm 299 (log <italic>&#x3B5;</italic> 4.30); IR <italic>&#x3BD;</italic><sub>max</sub> (Nujol)/cm<sup>-1</sup> 3120w and 3087w (Ar CH), 1600m (C=N), 1521s (NO<sub>2</sub>), 1412w, 1353s (NO<sub>2</sub>), 1334m, 1317m, 1301m, 1264w, 1167m, 1112w, 1014w, 985m, 864m, 856m, 839m, 831m, 760w, 720m, 686m; <sup>1</sup>H-NMR (CD<sub>3</sub>CN) 8.37 (2H, d, <italic>J</italic> 9.0 Hz, Ar <bold>H</bold>-3), 8.17 (2H, d, <italic>J</italic> 9.1 Hz, Ar <bold>H</bold>-2); <sup>13</sup>C-NMR (CD<sub>3</sub>CN) 155.96 (<bold>C</bold>-4), 148.78 (Ar <bold>C</bold>-4), 143.72 (<bold>C</bold>-3), 136.65 (Ar <bold>C</bold>-1), 129.85 (Ar <bold>C</bold>-2), 123.82 (Ar <bold>C</bold>-3); MS <italic>m/z</italic> (EI) 241 (M<sup>+</sup>, 100%), 225 (M<sup>+</sup>-O, 3), 211 (M<sup>+</sup>-NO, 29), 195 (M<sup>+</sup>-NO<sub>2</sub>, 25), 183 (M<sup>+</sup>-CNO<sub>2</sub>, 16), 168 (9), 160 (20), 151 (5), 137 (6), 133 (10), 122 (12), 118 (8), 108 (9), 102 (8), 93 (CClNS<sup>+</sup>, 12), 75 (9), 63 (7); HRMS Found: M<sup>+</sup>, 240.9704. C<sub>8</sub>H<sub>4</sub>ClN<sub>3</sub>O<sub>2</sub>S requires <italic>M</italic>, 240.9713.</p>
+      <p><italic>3-Chloro-4-cyano-1,2,5-thiadiazole</italic> (<bold>13b</bold>). Similarly, treatment of 4-chloro-5-cyano-1,2,3-dithiazolium chloride (<bold>1b</bold>) with 33% aqueous ammonia gave the title compound <bold>13b</bold> (5 mg, 7%) as a colourless oil; IR <italic>&#x3BD;</italic><sub>max</sub>(neat)/cm<sup>-1</sup> 2247w and 2211w (CN), 1453m, 1354s, 1313w, 1291m, 1257w, 1080s, 928s, 846s, 831m, 756w, 728w, 701s; MS <italic>m/z</italic> (EI) 145 (M<sup>+</sup>, 85%), 119 (M<sup>+</sup>-CN, 13), 93 (CClNS<sup>+</sup>, 100), 84 (M<sup>+</sup>-CClN, 80), 58 (CNS<sup>+</sup>, 15), 46 (NS<sup>+</sup>, 25); HRMS Found: M<sup>+</sup>, 144.9498. C<sub>3</sub>ClN<sub>3</sub>S requires <italic>M</italic>, 144.9501.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>I wish to thank N. J. Shirtcliffe for performing the cyclic voltammetry studies at Imperial College, Professor C. W. Rees for valuable discussions and the EPSRC for a Research Studentship (P. A. K.). MDL Information Systems (UK) Ltd for financial support and the Wolfson Foundation for establishing the Wolfson Centre for Organic Chemistry in Medicinal Science at Imperial College.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00346">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Appel</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Janssen</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Siray</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Knoch</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Ber.</source>
+          <year>1985</year>
+          <volume>118</volume>
+          <fpage>1632</fpage>
+          <lpage>1643</lpage>
+          <pub-id pub-id-type="doi">10.1002/cber.19851180430</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00346">
+        <label>2.</label>
+        <citation citation-type="journal">
+		   <label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Whang</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1994</year>
+          <volume>59</volume>
+          <fpage>6179</fpage>
+          <lpage>6183</lpage>
+        </citation>
+		<citation citation-type="journal">
+         <label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jeon</surname>
+              <given-names>M-K.</given-names>
+            </name>
+			<name>
+              <surname>Kim</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Kim</surname>
+              <given-names>S. H.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1998</year>
+          <volume>54</volume>
+          <fpage>2459</fpage>
+          <lpage>2476</lpage>
+          <comment>and references therein</comment>		  
+        </citation>  
+      </ref>
+      <ref id="B3-molecules-10-00346">
+        <label>3.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Besson</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C. W.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Perkin Trans. 1</source>
+          <year>1996</year>
+          <fpage>2857</fpage>
+          <lpage>2860</lpage>
+        </citation>
+		<citation citation-type="journal">
+        <label>(b)</label>
+          <person-group person-group-type="author">
+		  <name>
+              <surname>Besson</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Guillard</surname>
+              <given-names>J.</given-names>
+            </name>
+			<name>
+              <surname>Rees</surname>
+              <given-names>C. W.</given-names>
+            </name>
+			<name>
+              <surname>Thi&#xE9;ry</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Perkin Trans. 1</source>
+          <year>1998</year>
+          <fpage>889</fpage>
+          <lpage>892</lpage>
+		  <comment>and references therein</comment>
+        </citation>       
+      </ref>
+      <ref id="B4-molecules-10-00346">
+        <label>4.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Warburton</surname>
+              <given-names>W. K.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1957</year>
+          <volume>57</volume>
+          <fpage>1011</fpage>
+          <lpage>1020</lpage>
+        </citation>
+		  <citation citation-type="journal">
+         <label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schneller</surname>
+              <given-names>S.W.</given-names>
+            </name>
+          </person-group>
+          <source>Int. J. Sulfur Chem.</source>
+          <year>1976</year>
+          <volume>8</volume>
+          <fpage>579</fpage>
+          <lpage>597</lpage>  
+        </citation>  
+      </ref>
+      <ref id="B5-molecules-10-00346">
+        <label>5.</label>
+        <citation citation-type="journal">
+	    	<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gray</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C. W.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <source>Heterocycles</source>     
+          <year>1994</year>
+          <volume>37</volume>
+          <fpage>1827</fpage>
+          <lpage>1851</lpage>
+        </citation>
+		 <citation citation-type="journal">
+           <label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Emayan</surname>
+              <given-names>K.</given-names>
+            </name>
+			 <name>
+              <surname>Rees</surname>
+              <given-names>C. W.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Soc. Chim. Belg.</source>
+          <year>1997</year>
+          <volume>106</volume>
+          <fpage>605</fpage>
+          <lpage>611</lpage>  
+        </citation>  
+      </ref>
+      <ref id="B6-molecules-10-00346">
+        <label>6.</label>
+        <citation citation-type="journal">
+		   <label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barclay</surname>
+              <given-names>T. M.</given-names>
+            </name>
+            <name>
+              <surname>Beer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Cordes</surname>
+              <given-names>A. W.</given-names>
+            </name>
+            <name>
+              <surname>Oakley</surname>
+              <given-names>R. T.</given-names>
+            </name>
+            <name>
+              <surname>Preuss</surname>
+              <given-names>K. E.</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>N. J.</given-names>
+            </name>
+            <name>
+              <surname>Reed</surname>
+              <given-names>R. W.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Commun</source>        
+          <year>1999</year>
+          <fpage>531</fpage>
+          <lpage>532</lpage>
+        </citation>
+		 <citation citation-type="journal">
+          <label>(b)</label>
+          <person-group person-group-type="author">
+             <name>
+              <surname>Beer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Cordes</surname>
+              <given-names>A. W.</given-names>
+            </name>
+            <name>
+              <surname>Haddon</surname>
+              <given-names>R. C.</given-names>
+            </name>
+            <name>
+              <surname>Itkis</surname>
+              <given-names>M. E.</given-names>
+            </name>
+            <name>
+              <surname>Oakley</surname>
+              <given-names>R. T.</given-names>
+            </name>
+            <name>
+              <surname>Reed</surname>
+              <given-names>R. W.</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>C. M.</given-names>
+            </name>
+          </person-group>
+           <source>Chem. Commun</source>
+          <year>2002</year>
+          <fpage>1872</fpage>
+          <lpage>1873</lpage>
+        </citation> 
+      </ref>
+      <ref id="B7-molecules-10-00346">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cairns</surname>
+              <given-names>T. L.</given-names>
+            </name>
+            <name>
+              <surname>Carboni</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Coffman</surname>
+              <given-names>D. D.</given-names>
+            </name>
+            <name>
+              <surname>Engelhardt</surname>
+              <given-names>V. A.</given-names>
+            </name>
+            <name>
+              <surname>Heckert</surname>
+              <given-names>R. E.</given-names>
+            </name>
+            <name>
+              <surname>Little</surname>
+              <given-names>E. L.</given-names>
+            </name>
+			 <name>
+              <surname>McGeer</surname>
+              <given-names>E. G.</given-names>
+            </name>
+            <name>
+              <surname>McKusick</surname>
+              <given-names>B. C.</given-names>
+            </name>
+            <name>
+              <surname>Middleton</surname>
+              <given-names>W. J.</given-names>
+            </name>
+            <name>
+              <surname>Scribner</surname>
+              <given-names>R. M.</given-names>
+            </name>
+            <name>
+              <surname>Theobald</surname>
+              <given-names>C. W.</given-names>
+            </name>
+            <name>
+              <surname>Winberg</surname>
+              <given-names>H. E.</given-names>
+            </name>	
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1958</year>
+          <volume>80</volume>
+          <fpage>2775</fpage>
+          <lpage>2778</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja01544a051</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00346">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ireland</surname>
+              <given-names>C. J.</given-names>
+            </name>
+            <name>
+              <surname>Pizey</surname>
+              <given-names>J. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1972</year>
+          <fpage>4</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00346">
+        <label>9.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>White</surname>
+              <given-names>A. J. P.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <comment>unpublished results</comment>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00346">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>English</surname>
+              <given-names>R. F.</given-names>
+            </name>
+            <name>
+              <surname>Rakitin</surname>
+              <given-names>O. A.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C. W.</given-names>
+            </name>
+            <name>
+              <surname>Vlasova</surname>
+              <given-names>O. G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Perkin Trans. 1</source>
+          <year>1997</year>
+          <fpage>201</fpage>
+          <lpage>205</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00346">
+        <label>11.</label>
+        <citation citation-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roe</surname>
+              <given-names>D.G.</given-names>
+            </name>
+          </person-group>
+          <source>Ph.D. Thesis</source>
+          <publisher-name>University of London</publisher-name>
+          <year>1994</year>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00346">
+        <label>12.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rieger</surname>
+              <given-names>P. H.</given-names>
+            </name>
+          </person-group>
+          <source>Electrochemistry</source>
+		  <edition>2nd Edition</edition>
+          <publisher-name>Chapman &amp; Hall</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1994</year>
+          <fpage>184</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00346">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aherne</surname>
+              <given-names>C. M.</given-names>
+            </name>
+            <name>
+              <surname>Banister</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Gorrell</surname>
+              <given-names>I. B.</given-names>
+            </name>
+            <name>
+              <surname>Hansford</surname>
+              <given-names>M. I.</given-names>
+            </name>
+            <name>
+              <surname>Hauptman</surname>
+              <given-names>Z. V.</given-names>
+            </name>
+            <name>
+              <surname>Luke</surname>
+              <given-names>A. W.</given-names>
+            </name>
+            <name>
+              <surname>Rawson</surname>
+              <given-names>J. M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Dalton Trans.</source>
+          <year>1993</year>
+          <fpage>967</fpage>
+          <lpage>972</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00346">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Korshak</surname>
+              <given-names>V. V.</given-names>
+            </name>
+            <name>
+              <surname>Liseenko</surname>
+              <given-names>A. F.</given-names>
+            </name>
+          </person-group>
+          <source>J. Gen. Chem. USSR (Engl. Transl.)</source>        
+          <year>1939</year>
+          <volume>9</volume>
+          <fpage>1329</fpage>
+		 <comment>[<italic>Chem. Abstr.</italic>, <bold>1940</bold>, <italic>34</italic>, 741].</comment>  
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00346">
+        <label>15.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hageman</surname>
+              <given-names>H. A.</given-names>
+            </name>
+          </person-group>
+          <source>US Patent</source>
+          <patent>3,832,378</patent>
+          <year>1974</year>
+         <comment>[<italic>Chem. Abstr.</italic>, <bold>1974</bold>, <italic>81</italic>, 135485].</comment> 
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00346">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rakitin</surname>
+              <given-names>O. A.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C. W.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>D. J.</given-names>
+            </name>
+            <name>
+              <surname>Torroba</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1996</year>
+          <volume>61</volume>
+          <fpage>9178</fpage>
+          <lpage>9185</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00346">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Olofson</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Landesberg</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Berry</surname>
+              <given-names>R. O.</given-names>
+            </name>
+            <name>
+              <surname>Leaver</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>W. A. H.</given-names>
+            </name>
+            <name>
+              <surname>McKinnon</surname>
+              <given-names>D. M.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1966</year>
+          <volume>22</volume>
+          <fpage>2119</fpage>
+          <lpage>2134</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00346">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Markovskii</surname>
+              <given-names>L. N.</given-names>
+            </name>
+            <name>
+              <surname>Dubinina</surname>
+              <given-names>T. N.</given-names>
+            </name>
+            <name>
+              <surname>Barashenkov</surname>
+              <given-names>G. C.</given-names>
+            </name>
+            <name>
+              <surname>Romanenko</surname>
+              <given-names>E. A.</given-names>
+            </name>
+            <name>
+              <surname>Shermolovich</surname>
+              <given-names>Yu. G.</given-names>
+            </name>
+          </person-group>
+          <source>Zh. Org. Khim.</source>
+          <year>1993</year>
+          <volume>29</volume>
+          <fpage>491</fpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00346">
+        <label>19.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,2,5-Thiadiazoles and Related Compounds</article-title>
+          <source>Science of Synthesis</source>
+		   <volume>Volume 13</volume>
+		   <comment>Product Class 11</comment> 
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Editors Storr</surname>
+              <given-names>R. C.</given-names>
+            </name>
+            <name>
+              <surname>Gilchrist</surname>
+              <given-names>T. L.</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <fpage>297</fpage>
+          <lpage>348</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00346">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weinstock</surname>
+              <given-names>L. M.</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Handelsman</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Tull</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1967</year>
+          <volume>32</volume>
+          <fpage>2823</fpage>
+          <lpage>2829</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	 <fn>
+	 <p><italic>Sample Availability:</italic> Available from the author.</p>
+	</fn>
+	</fn-group>
+  </back>
+</article>

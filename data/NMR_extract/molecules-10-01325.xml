@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10101325</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01325</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Facile Preparation of Peracetates and Per-3-bromobenzoates of &#x3B1;-Mono- and Disaccharides</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Zerong (Daniel)</given-names>
+          </name>
+          <xref rid="c1-molecules-10-01325" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Matin</surname>
+            <given-names>Mahfuza </given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sheikh</surname>
+            <given-names>Samia </given-names>
+          </name>
+		</contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01325">Department of Chemistry, School of Sciences and Computer Engineering, University of Houston-Clear Lake, 2700 Bay Area Boulevard, Houston, TX 77058, USA Tel. +1 (281)-283-3795, Fax +1 (281)-283-3709 </aff>
+      <author-notes>        
+        <corresp id="c1-molecules-10-01325"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>wang@cl.uh.edu</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>10</issue>
+      <fpage>1325</fpage>
+      <lpage>1334</lpage>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>07</month>
+          <year>2005</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>12</day>
+          <month>07</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>07</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>						
+      <abstract>
+        <p>A simple and convenient method for the preparation of fully acetylated and (3-bromo)benzoylated &#x3B1;-monosaccharides and disaccharides through vigorous mechanical mixing of solid reactants on a high speed shaker is described. Using this technique a variety of &#x3B1;&#x2011;acylated sugars are prepared, including penta-<italic>O</italic>-acetyl-&#x3B1;-D-galactopyranose, penta-<italic>O</italic>-acetyl-&#x3B1;-D-glucopyranose, penta-<italic>O</italic>-acetyl-&#x3B1;-D-mannopyranose, octa-<italic>O</italic>-acetyl-&#x3B1;-lactose, penta-<italic>O</italic>-(3-bromo)benzoyl-&#x3B1;-D-galactopyranose, penta-<italic>O</italic>-(3-bromo)benzoyl-&#x3B1;-D-gluco-pyranose, penta-<italic>O</italic>-(3-bromo)benzoyl-&#x3B1;-D-mannopyranose, and octa-<italic>O</italic>-(3-bromo)benzoyl-&#x3B1;-lactose.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>&#x3B1;-Galactose</kwd>
+		<kwd>&#x3B1;-glucose</kwd>
+		<kwd>&#x3B1;-mannose</kwd>
+		<kwd>lactose</kwd>
+		<kwd>mechanochemical mixing</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Mechanochemical methods have recently attracted much attention because of their inherent advantages, including less secondary reactions [<xref ref-type="bibr" rid="B1-molecules-10-01325">1</xref>], high conversion yield within short reaction time [<xref ref-type="bibr" rid="B2-molecules-10-01325">2</xref>], reduced pollution, low costs, and simplicity in processing and handling [<xref ref-type="bibr" rid="B3-molecules-10-01325">3</xref>]. So far, mechanochemical methods have been successfully applied to areas such as decomposition of organic polymer wastes [<xref ref-type="bibr" rid="B1-molecules-10-01325">1</xref>], degradation of organic compounds [<xref ref-type="bibr" rid="B4-molecules-10-01325">4</xref>], single-crystal polymer synthesis [<xref ref-type="bibr" rid="B5-molecules-10-01325">5</xref>], reduction of metal oxides in solid state [<xref ref-type="bibr" rid="B6-molecules-10-01325">6</xref>], etc. More importantly, mechanochemical treatments have made many classic organic reactions which have traditionally been carried out in liquid phase possible in the solid state [<xref ref-type="bibr" rid="B7-molecules-10-01325">7</xref>]. All these processes or reactions are carried out either by cogrinding [<xref ref-type="bibr" rid="B2-molecules-10-01325">2</xref>], high energy impact ball milling [5b], ball milling [5d], mechanical milling [<xref ref-type="bibr" rid="B8-molecules-10-01325">8</xref>], or high-speed vibration milling [7d]. </p>
+      <p>On the other hand, per-<italic>O</italic>-acetyl and per-<italic>O</italic>-benzoyl derivatives of sugars are important intermediates in carbohydrate transformation and synthesis [<xref ref-type="bibr" rid="B9-molecules-10-01325">9</xref>], as indicated by the following observations: 1) acetylation and benzoylation of carbohydrates will convert unprotected and polar sugars into substances soluble in many organic solvents and the resulting sugar peracetates and perbenzoates have been utilized as glycosyl donors in monosaccharide transformations and oligosaccharide syntheses [<xref ref-type="bibr" rid="B10-molecules-10-01325">10</xref>]; 2) sugar peracetates and perbenzoates, especially the latter, often show favorable crystalline properties, thus the purification of products by crystallization is practical and convenient; in addition, the resulting products can also be purified through column chromatography due to the lower polarity of acylated sugars; 3) more importantly, both the acetyl and benzoyl groups are very cheap protecting groups that can be easily removed and the parent alcoholic components can be recovered under basic or acidic conditions [<xref ref-type="bibr" rid="B11-molecules-10-01325">11</xref>], e.g., via the application of Zemplen&#x2019;s reagent [<xref ref-type="bibr" rid="B12-molecules-10-01325">12</xref>]. </p>
+      <p>In comparison with sugar peracetates, sugar perbenzoates even possess some additional advantages. For example, benzoylated sugar derivatives are significantly less reactive than their acetylated analogues and tend to be more bench-stable [<xref ref-type="bibr" rid="B9-molecules-10-01325">9</xref>,<xref ref-type="bibr" rid="B13-molecules-10-01325">13</xref>]. Thus, many glycosyl chlorides of sugar benzoates can be easily prepared and extracted by methylene chloride in water, whereas acetylated glycosyl chlorides are rather difficult to prepare in this manner. As a result of all these factors the acetylation and benzoylation of sugars are very common transformations in monosaccharide and carbohydrate syntheses. </p>
+      <p>During the acetylation of glucose, acetic anhydride is almost always the reagent of choice, and the catalysts most frequently employed are zinc chloride [<xref ref-type="bibr" rid="B14-molecules-10-01325">14</xref>] (or other Lewis acids), sodium acetate [<xref ref-type="bibr" rid="B15-molecules-10-01325">15</xref>] and pyridine [<xref ref-type="bibr" rid="B16-molecules-10-01325">16</xref>]. The acetylation of other sugars can be carried out under similar conditions. In contrast, benzoylation of sugars are commonly carried out in pyridine using benzoyl chlorides. However, in many cases, such normal acetylations and benzoylations of sugars produce mixtures of sugar peracetates and perbenzoates, including the &#x3B1; and &#x3B2; anomeric forms [<xref ref-type="bibr" rid="B14-molecules-10-01325">14</xref>]. For example, acetylation of mannose in acetic anhydride with NaOAc at high temperature gives a mixture of four products, i.e., mannofuranose and mannopyranose peracetates in either the &#x3B1; or &#x3B2; forms; similarly, acetylation of mannose in pyridine with acetic anhydride also produces four products and these four sugar products cannot be separated by simple crystallization or column chromatography. The presence of undesired sugar peracetate and perbenzoate derivatives often complicates the subsequent carbohydrate transformations and result in difficulties in product purification. To date some methods have been developed to prepare pure &#x3B1;- or &#x3B2;-glucose peracetate [<xref ref-type="bibr" rid="B19-molecules-10-01325">19</xref>] or the four isomers of galactose peracetates [<xref ref-type="bibr" rid="B20-molecules-10-01325">20</xref>], while some other methods have been used to produce pure sugar perbenzoates [<xref ref-type="bibr" rid="B21-molecules-10-01325">21</xref>], such as the application of high pressure [<xref ref-type="bibr" rid="B22-molecules-10-01325">22</xref>].</p>
+      <p>In this paper, we wish to report a general and convenient method to prepare the fully acylated &#x3B1;-sugars by high-speed vibration of sugars and acylation reagent mixture on a shaker at very low temperature. </p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>One of our projects is to prepare carbohydrate-containing polymers, if which the fully acetylated or benzoylated glucose, galactose and mannose are chosen as glycosyl donors to react with polymerizable monomers. We have observed that the peracetates of glucose and galactose in &#x3B2;-form can be conveniently prepared from the corresponding monosaccharide and acetic anhydride at 110&#xB0;C in the presence of NaOAc, according to the reported method [15a]. This is because that sodium acetate causes a rapid anomerization of the free sugar and the more reactive anomer is then acetylated preferentially [9,15a]. However, when mannose is acetylated under similar condition, a mixture of four products, including &#x3B1;- and &#x3B2;-furanomannose and pyranomannose peracetates are formed, which could not be isolated from either crystallization or column chromatography.</p>
+      <p>On the other hand, it is known that reactions in pyridine generally give the same anomer of the peracetates as found in the parent free sugars [15a,23], and because of the anomeric effect, the pyranose peracetates or perbenzoates having axial anomeric ester groups are generally formed in the largest proportions. Unfortunately, the acetylation of mannose in pyridine at room temperature also affords a mixture of four products. In addition, it is observed that the benzoylation or acetylation of sugar in pyridine from corresponding acyl chloride at room temperature often results in dark mixtures, although this can be circumvented to a certain extent by lowering the reaction temperature. However, further decreasing the temperature of reaction system, such as using dry ice, results in a solid block of reagents and prevents mixing by magnetic stirring. To solve this problem, we have applied a high speed shaker to vibrate the reactant mixture vigorously in the solid state, to adapt the advantages of solid state reaction as mentioned previously, while keeping the reaction system cooled at -78&#xB0;C. 3&#x2011;bromobenzoyl chloride is used in this study instead of benzoyl chloride, as the former has a higher melting point and turns into solid when temperature is close to 0&#xB0;C. In this case, the solid state reaction is guaranteed. Under these conditions, pyridine was used as catalyst, acid scavenger and reactant dispersant. When acyl chlorides (i.e., acetyl chloride and 3-bromobenzoyl chloride) are applied as acylation reagents, only single products are isolated from flash column chromatography via a 10 cm silica gel column, which are shown to be fully acylated &#x3B1;-sugars; however, the acetylation of sugars from acetic anhydride results in the products containing about 10% of sugar peracetate in &#x3B2;-form. We rationalize these results as follows, at very low temperature (e.g., -78&#xB0;C), the quick anomerization of sugar is probably impossible, and the mechanical energy is transferred to the reacting system through vigorous shaking and vibration, that produces the highly activated local sites of the reacting species and gives the product in one form, and the &#x3B1;-form is preferred in pyridine, especially at very low temperature. For the case of acetic anhydride, the reaction is much slower than that with acetyl chloride and 3-bromobenzoyl chloride, so that some anomerization might have occurred prior to the actual acylation and produced about 10% of sugar peracetate in &#x3B2;-form as the minor product.</p>
+      <p>The fully acylated &#x3B1;-sugar derivatives prepared in this study using the mechanochemical force method are shown in <xref ref-type="fig" rid="molecules-10-01325-f001">Figure 1</xref>, and the experimental details from different acylation reagents are summarized in <xref ref-type="table" rid="molecules-10-01325-t001">Table 1</xref>.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>In summary, acetylation and (3-bromo)benzoylation of glucose, mannose, galactose and lactose in cold pyridine with acyl chlorides provides a means of obtaining good yields of esters of the &#x3B1;-pyranoid sugars. This transformation is driven by mechanochemical force through vigorous shaking of solid mixtures at low temperature.</p>
+      <fig id="molecules-10-01325-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>The structure of fully acetylated and 3-bromobenzoylated sugars.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01325-g001.tif"/>
+      </fig>
+      <table-wrap id="molecules-10-01325-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-01325-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>The experimental details of the acetylation and (3-bromo)benzoylation of sugars</p>
+        </caption>
+         <table>
+          <thead>
+            <tr>
+              <th align="left" valign="middle">Entry</th>
+              <th align="left" valign="middle">Sugar</th>
+              <th align="left" valign="middle">Amount (g)</th>
+              <th align="left" valign="middle">Acylation Reagent</th>
+              <th align="left" valign="middle">Amount (mL)</th>
+              <th align="left" valign="middle">Product <sup>a</sup></th>
+              <th align="left" valign="middle">
+                <italic>R<sub>f</sub></italic>
+              </th>
+              <th align="left" valign="middle">Yield(%)<sup>b</sup></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle">1</td>
+              <td align="left" valign="middle">Galactose</td>
+              <td align="left" valign="middle">0.313 (1.74 mmol)</td>
+              <td align="left" valign="middle">AcCl</td>
+              <td align="left" valign="middle">0.68 (5.5 eq)</td>
+              <td align="left" valign="middle">0.468</td>
+              <td align="left" valign="middle">0.64 <sup>c</sup></td>
+              <td align="left" valign="middle">69.0</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">2</td>
+              <td align="left" valign="middle">Glucose</td>
+              <td align="left" valign="middle">0.237 (1.32 mmol)</td>
+              <td align="left" valign="middle">AcCl</td>
+              <td align="left" valign="middle">0.51 (5.4 eq)</td>
+              <td align="left" valign="middle">0.391</td>
+              <td align="left" valign="middle">0.61 <sup>c</sup></td>
+              <td align="left" valign="middle">76.3</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">3</td>
+              <td align="left" valign="middle">Mannose</td>
+              <td align="left" valign="middle">0.158 (0.88 mmol)</td>
+              <td align="left" valign="middle">AcCl</td>
+              <td align="left" valign="middle">0.34 (5.4 eq)</td>
+              <td align="left" valign="middle">0.249</td>
+              <td align="left" valign="middle">0.63 <sup>c</sup></td>
+              <td align="left" valign="middle">72.9</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">4</td>
+              <td align="left" valign="middle">Lactose</td>
+              <td align="left" valign="middle">0.257 (0.75 mmol)</td>
+              <td align="left" valign="middle">AcCl</td>
+              <td align="left" valign="middle">0.54 (10.1 eq)</td>
+              <td align="left" valign="middle">0.367</td>
+              <td align="left" valign="middle">0.43 <sup>c</sup></td>
+              <td align="left" valign="middle">71.9</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">5</td>
+              <td align="left" valign="middle">Galactose</td>
+              <td align="left" valign="middle">0.328 (1.82 mmol)</td>
+              <td align="left" valign="middle">Ac<sub>2</sub>O</td>
+              <td align="left" valign="middle">0.94 (5.5 eq)</td>
+              <td align="left" valign="middle">0.518</td>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">72.7</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">6</td>
+              <td align="left" valign="middle">Glucose</td>
+              <td align="left" valign="middle">0.164 (0.91 mmol)</td>
+              <td align="left" valign="middle">Ac<sub>2</sub>O</td>
+              <td align="left" valign="middle">0.47 (5.5 eq)</td>
+              <td align="left" valign="middle">0.257</td>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">72.3</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">7</td>
+              <td align="left" valign="middle">Mannose</td>
+              <td align="left" valign="middle">0.159 (0.88 mmol)</td>
+              <td align="left" valign="middle">Ac<sub>2</sub>O</td>
+              <td align="left" valign="middle">0.46 (5.5 eq)</td>
+              <td align="left" valign="middle">0.296</td>
+              <td align="left" valign="middle"> </td>
+              <td align="left" valign="middle">85.8</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">8</td>
+              <td align="left" valign="middle">Galactose</td>
+              <td align="left" valign="middle">0.505 (2.81 mmol)</td>
+              <td align="left" valign="middle">3-bromo-BzCl</td>
+              <td align="left" valign="middle">2.10 (6.1 eq)</td>
+              <td align="left" valign="middle">2.463</td>
+              <td align="left" valign="middle">0.37 <sup>d</sup></td>
+              <td align="left" valign="middle">80.2</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">9</td>
+              <td align="left" valign="middle">Glucose</td>
+              <td align="left" valign="middle">0.509 (2.83 mmol)</td>
+              <td align="left" valign="middle">3-bromo-BzCl</td>
+              <td align="left" valign="middle">2.10 (6.1 eq)</td>
+              <td align="left" valign="middle">2.310</td>
+              <td align="left" valign="middle">0.45 <sup>d</sup></td>
+              <td align="left" valign="middle">74.7</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">10</td>
+              <td align="left" valign="middle">Mannose</td>
+              <td align="left" valign="middle">0.504 (2.80 mmol)</td>
+              <td align="left" valign="middle">3-bromo-BzCl</td>
+              <td align="left" valign="middle">2.10 (6.1 eq)</td>
+              <td align="left" valign="middle">2.173</td>
+              <td align="left" valign="middle">0.26 <sup>d</sup></td>
+              <td align="left" valign="middle">70.9</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">11</td>
+              <td align="left" valign="middle">Lactose</td>
+              <td align="left" valign="middle">0.503 (1.47 mmol)</td>
+              <td align="left" valign="middle">3-bromo-BzCl</td>
+              <td align="left" valign="middle">1.80 (10.0 eq)</td>
+              <td align="left" valign="middle">1.815</td>
+              <td align="left" valign="middle">0.25 <sup>d</sup></td>
+              <td align="left" valign="middle">68.4</td>
+            </tr>
+          </tbody>
+        </table>      
+		 <table-wrap-foot>
+            <fn>
+            <p>a. in grams; b. isolated yield after extraction and column chromatography;  c. using hexane- EtOAc (1:2) as eluent; d. using hexane-EtOAc (3:1) as eluent. </p>
+            </fn>
+         </table-wrap-foot>
+	  </table-wrap>      
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>The high speed shaker used in this study was a Wrist Action<sup>TM</sup> Shaker (Model 75) purchased from Burrell Scientific (Pittsburg, PA, USA). High resolution mass spectra (HRMS) were recorded in MALDI mode with a Voyager-DE STR 4160, using &#x3B1;-cyano-4-hydroxycinnamic acid as matrix, at the Department of Chemistry, University of Houston. <sup>1</sup>H- and <sup>13</sup>C-NMR were recorded in CDCl<sub>3</sub> with a Bruker Avance 600 MHz NMR spectrometer (at 600 Mz for <sup>1</sup>H and 150 MHz for <sup>13</sup>C, respectively, TMS as internal standard) at the Keck/IMD NMR center founded by the W. M. Keck Foundation and the University of Houston. Column chromatography was carried out on silica gel using hexane-EtOAc mixtures as eluents (6:1 for per-(3-bromo)benzoate derivatives and 4:1 to 3:1 for peracetate analogues). Thin-layer chromatography (TLC) was performed on silica gel (precoated silica gel plate F<sub>254</sub>, Merck) and detected both by UV and heating with 1.5% H<sub>2</sub>SO<sub>4</sub> in EtOH.</p>
+      </sec>
+      <sec>
+        <title>General Experimental Procedure</title>
+        <p>A general experimental procedure is represented by the preparation of penta-3-bromobenzoyl-&#x3B1;-D-galactopyranose. To a 25 mL of round-bottomed flask was added galactose (0.505 gram,  2.81 mmol) and pyridine (3 mL), and the flask was sealed by a rubber septum. The flask was connected to a vacuum source (&lt; 5 mmHg) through a needle to remove the air inside the flask for 10 minutes and during that period the flask was shaken by hand. Then the flask was put into a plastic box and covered with dry ice blocks (ca. 25 g) and the mixture turned into solid after five minutes. After 30 minutes, 3-bromobenzoyl chloride (2.10 mL, 17.2 mmol, 6.1 equivalent) was transferred into the cold flask via syringe, and the added 3-bromobenzoyl chloride suddenly solidified. Then the cold flask was mounted onto the high speed shaker along with the plastic box filled with dry ice and vibrated vigorously at full scale. The shaker was stopped during addition of additional dry ice into the plastic box, in order to maintain the cooling for three hours while shaking; then the shaking was continued until all dry ice evaporated and the flask reached the room temperature. At this moment, the reaction mixture was still in solid form, as the formed pyridinium chloride and galactose per(3-bromo)benzoate were all solids at room temperature. The reaction mixture was then transferred to a separatory funnel with EtOAc (50 mL) and washed extensively with 1 N HCl (3 &#xB0; 25 mL), saturated aqueous NaHCO<sub>3</sub> (2 &#xB0; 25 mL) and brine (25 mL). Rotatory evaporation of the EtOAc gave a light yellow residue that was quickly passed through a 10 cm silica gel column (eluent hexane-EtOAc = 6:1) to afford penta-<italic>O</italic>-(3-bromo)benzoyl &#x3B1;-D-galactopyranose (2.463 g, 2.25 mmol, 80.2% yield). It should be pointed out that such (3-bromo)benzoylation at room temperature resulted in a dark mixture. Likewise, the 3-bromo-benzoylation of the other sugars listed in <xref ref-type="table" rid="molecules-10-01325-t001">Table 1</xref> was carried out under similar conditions. The acetylation of sugars was also performed similarly using acetyl chloride or acetic anhydride as acetylation reagents. Nevertheless, only a single product was found in the reaction of sugars with acetyl chloride and 3-bromobenzoyl chloride; whereas about 10% of the resulting sugar peracetates were identified as &#x3B2;-anomers by NMR from the reaction with acetic anhydride after short column purification (hexane-EtOAc = 4:1 to 3:1), indicating that acetic anhydride was not a good acetylation reagent under this condition. </p>
+      </sec>
+    <sec>
+      <title>Spectral Data</title>
+      <p>The <sup>1</sup>H-NMR data for penta-<italic>O</italic>-acetyl-&#x3B1;-D-glucopyranose [24a] and penta-<italic>O</italic>-acetyl-&#x3B1;-D-manno-pyranose [24b] reported in the cited literature matches with our values. <sup>13</sup>C-NMR data for penta-<italic>O</italic>-acetyl-&#x3B1;-D-glucopyranose, penta-<italic>O</italic>-acetyl-&#x3B1;-D-galactopyranose and penta-<italic>O</italic>-acetyl-&#x3B1;-D-manno-pyranose have been previously reported [24c], therefore, the spectral data for these monosaccharide peracetates are omitted here. The HRMS measurements for all the monosaccharide peracetates could not be obtained with the Voyager-DE STR 4160 equipment, due to the instrumental MS measurement limitation of &gt; 500 au. </p>
+      <p><italic>Octa-O-</italic><italic>&#x3B1;-acetyl-lactose</italic>: <sup>1</sup>H-NMR (600 MHz, CDCl<sub>3</sub>), &#x3B4; (ppm): 1.97 (s, 3H, Ac), 2.02 (s, 3H, Ac), 2.06 (s, 3H, Ac), 2.07 (s, 6H, 2Ac), 2.12 (s, 3H, Ac), 2.16 (s, 3H, Ac), 2.18 (s, 3H, Ac), 3.85 (dd, J<sub>3,4</sub> = 9.73 Hz, J<sub>4,5</sub> = 9.64 Hz, 1H, H-4, Glc), 3.94 (dd, J<sub>5,6</sub> = 6.77 Hz, J<sub>5,6&#x2019;</sub> = 6.64 Hz, 1H, H-5, Gal), 4.09 &#x2013; 4.17 (m, 3H, H-6, Glc, H-6, Gal, H-6&#x2019;, Gal), 4.44 (d, J = 11.60 Hz, 1H, H-6&#x2019;, Glc), 4.53 (d, J = 7.89 Hz, 1H, H-1, Gal), 4.98 (dd, J<sub>2,3</sub> = 10.33 Hz, J<sub>3,4</sub> = 3.20 Hz, 1H, H-3, Gal), 5.00 (dd, J<sub>2,3</sub> = 10.22 Hz, J<sub>1,2</sub> = 3.58 Hz, 1H, H-2, Glc), 5.11 (dd, J<sub>2,3</sub> = 10.18 Hz, J<sub>1,2</sub> = 8.08 Hz, 1H, H-2, Gal), 5.36 (d, J = 3.19 Hz, 1H, H-4, Gal), 5.46 (dd, J<sub>2,3</sub> = 9.77 Hz, J<sub>3,4</sub> = 9.74 Hz, 1H, H-3, Glc), 6.25 (d, J = 3.55 Hz, 1H, H-1, Glc); <sup>13</sup>C-NMR (150 MHz, CDCl<sub>3</sub>), &#x3B4; (ppm): 20.17 (2Ac), 20.32 (3Ac), 20.49 (Ac), 20.52 (Ac), 20.60 (Ac), 60.63 (C-6, Gal), 61.27 (C-6, Glc), 66.44 (C-4, Gal), 68.88 (C-2, Gal), 69.14 (C-2, Glc), 69.32 (C-3, Glc), 70.41 (C-5, Gal, C-5, Glc), 70.70 (C-3, Gal), 75.45 (C-4, Glc), 88.64 (C-1, Glc), 100.81 (C-1, Gal), 168.66, 168.87, 169.36, 169.65, 169.75, 169.87, 170.04 (2Ac); HRMS calc. for C<sub>28</sub>H<sub>38</sub>O<sub>19</sub>Na: 701.1906, found: 701.2351.</p>
+      <p><italic>Penta-O-(3-bromo)benzoyl-</italic><italic>&#x3B1;-D-galactopyranose</italic>: <sup>1</sup>H-NMR &#x3B4; (ppm): 4.47 (dd, J<sub>6,6&#x2019;</sub> = 11.32 Hz, J<sub>5,6</sub> = 6.53 Hz, 1H, H-6), 4.63 (dd, J<sub>6,6&#x2019;</sub> = 11.37 Hz, J<sub>5,6&#x2019;</sub> = 6.65 Hz, 1H, H-6&#x2019;), 4.84 (d, J<sub>5,6</sub> = 5.77 Hz, 1H, H-5), 5.94 (dd, J<sub>2,3</sub> = 10.24 Hz, J<sub>1,2</sub> = 4.31 Hz, 1H, H-2), 6.05 (dd, J<sub>2,3</sub> = 10.43 Hz, J<sub>3,4</sub> = 3.22 Hz, 1H, H-3), 6.14 (s, 1H, H-4), 6.94 (d, J<sub>1,2</sub> = 3.41 Hz, 1H, H-1), 7.17 &#x2013; 7.22 (m, 2H), 7.28 (td, J = 7.94 Hz, J = 2.58 Hz, 1H), 7.41 (t, J = 7.86 Hz, 2H), 7.60 (d, J = 7.82 Hz, 2H), 7.66 (d, J = 7.72 Hz, 1H), 7.74 (d, J = 7.87 Hz, 1H), 7.78 (t, J = 8.74 Hz, 3H), 7.88 (d, J = 7.76 Hz, 1H), 7.89 (s, 1H), 7.97 (t, J = 1.53 Hz, 1H), 8.04 &#x2013; 8.07 (m, 3H), 8.20 (dt, J = 9.56 Hz, J = 1.57 Hz, 2H); <sup>13</sup>C-NMR  &#x3B4; (ppm): 62.06 (C-6), 67.86 (C-2), 68.68 (C-3, C-4), 69.28 (C-5), 90.88 (C-1), 122.50, 122.94, 128.20, 128.33, 128.39, 129.98, 130.37, 130.47, 130.64, 130.98, 132.68, 132.82, 136.29, 136.52, 136.58, 136.92, 136.99, 163.28, 164.11, 164.20, 164.32, 164.52; HRMS calc. for C<sub>41</sub>H<sub>27</sub>Br<sub>5</sub>O<sub>11</sub>Na: 1116.7328, found: 1116.7801.</p>
+      <p><italic>Penta-O-(3-bromo)benzoyl-</italic><italic>&#x3B1;-D-glucopyranose</italic>: <sup>1</sup>H-NMR &#x3B4; (ppm): 4.53 (dd, J<sub>6,6&#x2019;</sub> = 12.48 Hz, J<sub>5,6</sub> = 4.73 Hz, 1H, H-6), 4.59 &#x2013; 4.63 (m, 2H, H-5, H-6&#x2019;), 5.65 (dd, J<sub>2,3</sub> = 10.16 Hz, J<sub>1,2</sub> = 3.92 Hz, 1H, H-2), 5.77 (dd, J<sub>3,4</sub> = 9.93 Hz, J<sub>4,5</sub> = 9.92 Hz, 1H, H-4), 6.20 (dd, J<sub>3,4</sub> = 9.97 Hz, J<sub>2,3</sub> = 9.91 Hz, 1H, H-3), 6.82 (d, J<sub>1,2</sub> = 3.74 Hz, 1H, H-1), 7.22 (t, J = 7.90 Hz, 2H), 7.26 (t, J = 6.42 Hz, 2H), 7.32 (t, J = 7.87 Hz, 1H), 7.46 (t, J = 7.90 Hz, 1H), 7.62 (td, J<sub>1</sub> = 8.17 Hz, J<sub>2</sub> = 0.92 Hz, 2H), 7.66 (dt, J<sub>1</sub> = 7.99 Hz, J<sub>2</sub> = 0.94 Hz, 1H), 7.69 (dt, J<sub>1</sub> = 7.91 Hz, J2 = 0.96 Hz, 1H), 7.78 &#x2013; 7.83 (m, 3H), 7.87 (d, J = 7.81 Hz, 1H), 7.95 (d, J = 7.78 Hz, 1H), 7.98 (t, J = 1.62 Hz, 1H), 8.01 (t, J = 1.57 Hz, 1H), 8.10 (td, J<sub>1</sub> = 7.81 Hz, J<sub>2</sub> = 1.60 Hz, 2H), 8.25 (t, J = 1.60 Hz, 1H); <sup>13</sup>C-NMR &#x3B4; (ppm): 62.88 (C-6), 79.08 (C-4), 70.23 (C-5), 70.55 (C-2), 70.78 (C-3), 90.28 (C-1), 122.63, 122.98, 128.27, 128.44, 130.10, 130.46, 131.22, 132.74, 133.00, 136.28, 136.61, 136.68, 136.74, 137.08, 137.65, 163.24, 163.84, 163.93, 164.53, 164.68; HRMS calc. for C<sub>41</sub>H<sub>27</sub>Br<sub>5</sub>O<sub>11</sub>Na: 1118.7307, found: 1118.7327.</p>
+      <p><italic>Penta-O-(3-bromo)benzoyl-</italic><italic>&#x3B1;-D-mannopyranose</italic>: <sup>1</sup>H-NMR &#x3B4; (ppm): 4.55 &#x2013; 4.59 (m, 2H, H-5, H-6), 4.66 (dd, J<sub>6,6&#x2019;</sub> = 12.07 Hz, J<sub>5,6&#x2019;</sub> = 2.72 Hz, 1H, H-6&#x2019;), 5.89 (dd, J<sub>2,3</sub> = 3.11 Hz, J<sub>1,2</sub> = 1.97 Hz, 1H, H-2), 5.97 (dd, J<sub>3,4</sub> = 10.13 Hz, J<sub>2,3</sub> = 3.32 Hz, 1H, H-3), 6.07 (dd, J<sub>3,4</sub> = 10.05 Hz, J<sub>4,5</sub> = 9.98 Hz, 1H, H-4), 6.59 (d, J<sub>1,2</sub> = 1.52 Hz, 1H, H-1), 7.20 (t, J = 7.89 Hz, 1H), 7.26 (t, J = 8.15 Hz, 1H), 7.28 (t, J = 7.99 Hz, 2H), 7.33 (t, J = 7.90 Hz, 1H), 7.46 (t, J = 7.87 Hz, 1H), 7.62 (dd, J<sub>1</sub> = 7.95 Hz, J<sub>2</sub> = 0.87 Hz, 1H), 7.65 (dd, J<sub>1</sub> = 7.97 Hz, J<sub>2</sub> = 0.86 Hz, 1H), 7.68 (dd, J<sub>1</sub> = 7.90 Hz, J<sub>2</sub> = 0.86 Hz, 1H); <sup>13</sup>C-NMR &#x3B4; (ppm): 62.86 (C-6), 66.76 (C-4), 69.57 (C-2), 70.13 (C-3), 70.88 (C-5), 91.71 (C-1). 122.58, 122.64, 122.92, 128.14, 128.19, 128.40, 128.62, 130.06, 130.39, 132.71, 133.02, 133.07, 136.19, 136.59, 136.71, 136.89, 137.18, 162.60, 164.00 (2C), 164.21, 164.64; HRMS calc. for C<sub>41</sub>H<sub>27</sub>Br<sub>5</sub>O<sub>11</sub>Na: 1118.7307, found: 1118.7250.</p>
+      <p><italic>Octa-O-(3-bromo)benzoyl-</italic><italic>&#x3B1;-lactose</italic>: <sup>1</sup>H-NMR &#x3B4; (ppm): 3.80 &#x2013; 3.84 (m, 1H, H-6, Gal), 3.88 (dd, J<sub>6,6&#x2019;</sub> = 11.26 Hz, J<sub>5,6&#x2019;</sub> = 6.18 Hz, 1H, H-6&#x2019;, Gal), 4.00 (s, br, 1H, H-5, Gal), 4.30 &#x2013; 4.32 (br, 2H, H-4, Glc, H-5, Glc), 4.56 (br, 2H, H-6, Glc, H-6&#x2019;, Glc), 5.00 (d, J<sub>1,2</sub> = 5.86 Hz, 1H, H-1, Gal), 5.46 (dd, J<sub>2,3</sub> = 9.92 Hz, J<sub>3,4</sub> = 2.71 Hz, 1H, H-3, Gal), 5.60 (dd, J<sub>2,3</sub> = 10.11 Hz, J<sub>1,2</sub> = 3.75 Hz, 1H, H-2, Glc), 5.69 (dd, J<sub>2,3</sub> = 10.12 Hz, J<sub>1,2</sub> = 7.93 Hz, 1H, H-2, Gal), 5.75 (d, J<sub>3,4</sub> = 2.42 Hz, 1H, H-4, Gal), 6.13 (dd, J<sub>2,3</sub> = 9.58 Hz, J<sub>3,4</sub> = 8.57 Hz, 1H, H-3, Glc), 6.73 (d, J<sub>1,2</sub> = 3.64 Hz, 1H, H-1, Glu), 7.12 &#x2013; 7.20 (m, 4H), 7.30 &#x2013; 7.33 (m, 2H), 7.41 &#x2013; 7.44 (m, 2H), 7.52 (t, J = 7.83 Hz, 1H), 7.56 (t, J = 7.81 Hz, 2H), 7.60 (d, J = 7.03 Hz, 2H), 7.69 (t, J = 7.91 Hz, 2H), 7.78 (t, J = 7.75 Hz, 3H), 7.81 (s, 1H), 7.86 (t, J = 8.35 Hz, 2H), 7.90 (t, J = 5.20 Hz, 2H), 7.97 (s, 1H), 7.99 (d, J = 7.83 Hz, 1H), 8.04 &#x2013; 8.09 (m, 5H), 8.18 (d, J = 1.47 Hz, 2H); <sup>13</sup>C-NMR &#x3B4; (ppm): 60.89 (C-6, Gal), 62.05 (C-6, Glc), 67.62 (C-4, Gal), 70.33 (C-2, Gal, C-2, Glc), 70.86 (C-3, Glc), 71.11 (C-5, Glc, C-5, Gal), 71.89 (C-3, Gal), 75.68 (C-4, Glc), 90.07 (C-1, Glc), 101.00 (C-1, Gal), 122.48, 122.56, 122.61, 122.68, 122.87, 128.10, 128.17, 128.33, 128.37, 129.92, 130.08, 130.19, 130.38, 130.50, 130.97, 131.11, 132.44, 132.64, 132.77, 132.92, 136.36, 136.39, 136.46, 136.57, 136.84, 136.97, 163.23, 163.58, 163.97, 164.38; HRMS calc. for C<sub>68</sub>H<sub>46</sub>Br<sub>8</sub>O<sub>19</sub>Na: 1828.5917, found: 1828.3177.</p>      
+    </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors thank the Welch Foundation for partial financial support. In addition, the authors also thank Mr. Huanyi Chu at the University of Houston Central Campus for measuring the high resolution mass spectra, and Professor Xiao-lian Gao and Dr. Youlin Xia at the Keck Foundation, University of Houston System, for the NMR measurements.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-01325">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peachey</surname>
+              <given-names>N. M.</given-names>
+            </name>
+            <name>
+              <surname>Eckhardt</surname>
+              <given-names>C. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Energetics of Organic Solid-State Reactions: The Topochemical Principle and the Mechanism of the Oligomerization of the 2,5-Distyrylpyrazine Molecular Crystal</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1993</year>
+          <volume>115</volume>
+          <fpage>3519</fpage>
+          <lpage>3526</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00062a016</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01325">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rothenberg</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Downie</surname>
+              <given-names>A. P.</given-names>
+            </name>
+            <name>
+              <surname>Raston</surname>
+              <given-names>C. L.</given-names>
+            </name>
+            <name>
+              <surname>Scott</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Understanding Solid/Solid Organic Reactions</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2001</year>
+          <volume>123</volume>
+          <fpage>8701</fpage>
+          <lpage>8708</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01325">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Toda</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent-Free Organic Synthesis</article-title>
+          <source>Chem. Rev.</source>
+          <year>2000</year>
+          <volume>100</volume>
+          <fpage>1025</fpage>
+          <lpage>1074</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01325">
+        <label>4.</label>		 			  			
+        <citation citation-type="journal">				
+         <label>a)</label>				          
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Q. W.</given-names>
+            </name>
+            <name>
+              <surname>Saito</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mechanochemical Decomposition of an Aromatic Polyamide Film</article-title>
+          <source>Ind. Eng. Chem. Res.</source>
+          <year>2003</year>
+          <volume>42</volume>
+          <fpage>5018</fpage>
+          <lpage>5023</lpage>				
+        </citation>  				
+        <citation citation-type="journal">				
+        <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Zhang</surname>				
+              <given-names>Q.</given-names>				
+            </name>
+			<name>				
+              <surname>Matsumoto</surname>				
+              <given-names>H.</given-names>				
+            </name>
+			<name>				
+              <surname>Saito</surname>				
+              <given-names>F.</given-names>				
+            </name>
+			<name>				
+              <surname>Baron</surname>				
+              <given-names>M.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Debromination of Hexabromobenzene by Its Co-grinding with CaO</article-title>	
+          <source>Chemosphere</source>				
+          <year>2002</year>				
+          <volume>48</volume>				
+          <fpage>787</fpage>				
+          <lpage>793</lpage>				
+        </citation>
+		<citation citation-type="journal">				
+        <label>c)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Zhang</surname>				
+              <given-names>Q.</given-names>				
+            </name>
+			<name>				
+              <surname>Matsumoto</surname>				
+              <given-names>H.</given-names>				
+            </name>
+			<name>				
+              <surname>Saito</surname>				
+              <given-names>F.</given-names>				
+            </name>			
+          </person-group>				
+          <article-title>Decomposition of Polytetrafluoroethylene by Grinding with Strontium Oxide</article-title>				
+          <source>Chem. Lett.</source>				
+          <year>2001</year>				          		
+          <fpage>148</fpage>				
+          <lpage>149</lpage>				
+        </citation> 
+		<citation citation-type="journal">				
+        <label>d)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Zhang</surname>				
+              <given-names>Q. W.</given-names>				
+            </name>
+			<name>				
+              <surname>Lu</surname>				
+              <given-names>J. F.</given-names>				
+            </name>
+			<name>				
+              <surname>Saito</surname>				
+              <given-names>F.</given-names>				
+            </name>
+			<name>				
+              <surname>Baron</surname>				
+              <given-names>M.</given-names>				
+            </name>					
+          </person-group>				
+          <article-title>Mechanochemical Solid-Phase Reaction between Polyvinylidene Fluoride and Sodium Hydroxide</article-title>				
+          <source>J. Appl. Polym. Sci.</source>				
+          <year>2001</year>				
+          <volume>81</volume>				
+          <fpage>2249</fpage>	          			
+        </citation>      
+	  </ref>				
+      <ref id="B5-molecules-10-01325">
+        <label>5.</label>
+        <citation citation-type="journal">				
+         <label>a)</label>				
+          <person-group person-group-type="author">
+            <name>
+              <surname>Monagheddu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mulas</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Doppiu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Cocco</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Raccanelli</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reduction of Polychlorinated Dibenzodioxins and Dibenzofurans in Contaminated Muds by Mechanically Induced Combustion Reactions</article-title>
+          <source>Environ. Sci. Technol.</source>
+          <year>1999</year>
+          <volume>33</volume>
+          <fpage>2485</fpage>
+          <lpage>2488</lpage>				
+        </citation>  				
+        <citation citation-type="journal">				
+        <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Cao</surname>				
+              <given-names>G.</given-names>				
+            </name>
+			<name>				
+              <surname>Doppiu</surname>				
+              <given-names>S.</given-names>				
+            </name>
+			<name>				
+              <surname>Monagheddu</surname>				
+              <given-names>M.</given-names>				
+            </name>
+			<name>				
+              <surname>Orru</surname>				
+              <given-names>R.</given-names>				
+            </name>
+			<name>				
+              <surname>Sannia</surname>				
+              <given-names>M.</given-names>				
+            </name>
+			<name>				
+              <surname>Cocco</surname>				
+              <given-names>G.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Thermal and Mechanochemical Self-Propagating Degradation of Chloro-organic Compounds: The Case of Hexachlorobenzene over Calcium Hydride</article-title>				
+          <source>Ind. Eng. Chem. Res.</source>				
+          <year>1999</year>				
+          <volume>38</volume>				
+          <fpage>3218</fpage>				
+          <lpage>3224</lpage>				
+        </citation> 
+		<citation citation-type="journal">				
+        <label>c)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Loiselle</surname>				
+              <given-names>S.</given-names>				
+            </name>
+			<name>				
+              <surname>Branca</surname>				
+              <given-names>M.</given-names>				
+            </name>
+			<name>				
+              <surname>Mulas</surname>				
+              <given-names>G.</given-names>				
+            </name>
+			<name>				
+              <surname>Cocco</surname>				
+              <given-names>G.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Selective Mechanochemical Dehalogenation of Chlorobenzenes over Calcium Hydride</article-title>				
+          <source>Environ. Sci. Technol.</source>		
+          <year>1997</year>				
+          <volume>31</volume>				
+          <fpage>261</fpage>				
+          <lpage>265</lpage>				
+        </citation>
+		<citation citation-type="journal">				
+        <label>d)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Hall</surname>				
+              <given-names>A. K.</given-names>				
+            </name>
+			<name>				
+              <surname>Harrowfield</surname>				
+              <given-names>J. M.</given-names>				
+            </name>
+			<name>				
+              <surname>Hart</surname>				
+              <given-names>R. J.</given-names>				
+            </name>
+			<name>				
+              <surname>McCormick</surname>				
+              <given-names>P. G.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Mechanochemical Reaction of DDT with Calcium Oxide</article-title>				
+          <source>Environ. Sci. Technol.</source>		
+          <year>1996</year>				
+          <volume>30</volume>				
+          <fpage>3401</fpage>				
+          <lpage>3407</lpage>				
+        </citation>
+		<citation citation-type="journal">				
+        <label>e)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Rowlands</surname>				
+              <given-names>S. A.</given-names>				
+            </name>
+			<name>				
+              <surname>Hall</surname>				
+              <given-names>A. K.</given-names>				
+            </name>
+			<name>				
+              <surname>McCormick</surname>				
+              <given-names>P. G.</given-names>				
+            </name>
+			<name>				
+              <surname>Street</surname>				
+              <given-names>R.</given-names>				
+            </name>	
+			<name>				
+              <surname>Hart</surname>				
+              <given-names>R. J.</given-names>				
+            </name>
+			<name>				
+              <surname>Ebell</surname>				
+              <given-names>G. F.</given-names>				
+            </name>
+			<name>				
+              <surname>Donecker</surname>				
+              <given-names>P.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Destruction of Toxic Materials</article-title>				
+          <source>Nature</source>				
+          <year>1994</year>				
+          <volume>367</volume>				
+          <fpage>223</fpage>				
+          <lpage>223</lpage>				
+        </citation>  				         				
+      </ref>				
+      <ref id="B6-molecules-10-01325">
+        <label>6.</label>
+        <citation citation-type="journal">				
+         <label>a)</label>				
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schaffer</surname>
+              <given-names>G. B.</given-names>
+            </name>
+            <name>
+              <surname>McCormick</surname>
+              <given-names>P. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reduction of Metal Oxides by Mechanical Alloying</article-title>
+          <source>Appl. Phys. Lett.</source>
+          <year>1989</year>
+          <volume>55</volume>
+          <fpage>45</fpage>				
+        </citation>  				
+        <citation citation-type="journal">				
+         <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Schaffer</surname>				
+              <given-names>G. B.</given-names>				
+            </name>	
+			<name>				
+              <surname>McCormick</surname>				
+              <given-names>P. G.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>The Direct Synthesis of Metals and Alloys by Mechanical Alloying</article-title>	
+          <source>Mater. Sci. Forum</source>				
+          <year>1992</year>				
+          <volume>88-90</volume>				
+          <fpage>779</fpage>				          		
+        </citation>  				          				
+      </ref>				
+      <ref id="B7-molecules-10-01325">
+        <label>7.</label>
+        <citation citation-type="journal">				
+         <label>a)</label>				
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toda</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solid State Organic Chemistry: Efficient Reactions, Remarkable Yields, and Stereoselectivity</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>1995</year>
+          <volume>28</volume>
+          <fpage>480</fpage>
+          <lpage>486</lpage>				
+        </citation>  				
+        <citation citation-type="journal">				
+         <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Paul</surname>				
+              <given-names>C.</given-names>				
+            </name>
+			<name>				
+              <surname>Curtin</surname>				
+              <given-names>D. Y.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Thermally Induced Organic Reactions in the Solid State</article-title>	
+          <source>Acc. Chem. Res.</source>				
+          <year>1973</year>				
+          <volume>6</volume>				
+          <fpage>217</fpage>				
+          <lpage>225</lpage>				
+        </citation>
+		<citation citation-type="journal">				
+         <label>c)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Komatsu</surname>				
+              <given-names>K.</given-names>				
+            </name>
+			<name>				
+              <surname>Wang</surname>				
+              <given-names>G. W.</given-names>				
+            </name>
+			<name>				
+              <surname>Murata</surname>				
+              <given-names>Y.</given-names>				
+            </name>
+			<name>				
+              <surname>Tanaka</surname>				
+              <given-names>T.</given-names>				
+            </name>	
+			<name>				
+              <surname>Fujiwara</surname>				
+              <given-names>K.</given-names>				
+            </name>
+			<name>				
+              <surname>Yamamoto</surname>				
+              <given-names>K.</given-names>				
+            </name>
+			<name>				
+              <surname>Saunders</surname>				
+              <given-names>M.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Mechanochemical Synthesis and Characterization of the Fullerene Dimer C120</article-title>	
+          <source>J. Org. Chem.</source>				
+          <year>1998</year>				
+          <volume>63</volume>				
+          <fpage>9358</fpage>				
+          <lpage>9366</lpage>				
+        </citation>
+		<citation citation-type="journal">				
+         <label>d)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Schmeyers</surname>				
+              <given-names>J.</given-names>				
+            </name>
+			<name>				
+              <surname>Toda</surname>				
+              <given-names>F.</given-names>				
+            </name>
+			<name>				
+              <surname>Boy</surname>				
+              <given-names>J.</given-names>				
+            </name>
+			<name>				
+              <surname>Kaupp</surname>				
+              <given-names>G.</given-names>				
+            </name>							
+          </person-group>				
+          <article-title>Quantitative Solid&#x2013;Solid Synthesis of Azomethines</article-title>	
+          <source>J. Org. Chem.</source>				
+          <year>1998</year>				
+          <volume>63</volume>				
+          <fpage>9358</fpage>				
+          <lpage>9366</lpage>				
+        </citation> 
+		<citation citation-type="journal">				
+         <label>e)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Singh</surname>				
+              <given-names>N. B.</given-names>				
+            </name>
+			<name>				
+              <surname>Singh</surname>				
+              <given-names>N. P.</given-names>				
+            </name>
+			<name>				
+              <surname>Kumar</surname>				
+              <given-names>V. A.</given-names>				
+            </name>
+			<name>				
+              <surname>Nethaji</surname>				
+              <given-names>M.</given-names>				
+            </name>							
+          </person-group>				
+          <article-title>Study of the Reaction between 1,2,3-Trihydroxybenzene and 8-Hydroxyquinoline in the Solid State</article-title>	
+          <source>J. Chem. Soc. Perkin Trans. 2</source>	
+          <year>1994</year>	      				
+          <fpage>361</fpage>				
+          <lpage>366</lpage>				
+        </citation>  				          				
+      </ref>				
+      <ref id="B8-molecules-10-01325">
+        <label>8.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castricum</surname>
+              <given-names>H. L.</given-names>
+            </name>
+            <name>
+              <surname>Bakker</surname>
+              <given-names>H.</given-names>
+            </name>
+			<name>
+              <surname>van der Linden</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Poels</surname>
+              <given-names>E. K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mechanochemical Reactions in Cu/ZnO Catalysts Induced by Mechanical Milling</article-title>
+          <source>J. Phys. Chem. B</source>          
+          <year>2001</year>
+		  <volume>105</volume>				
+          <fpage>7928</fpage>				
+          <lpage>7937</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01325">
+        <label>9.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Collins</surname>
+              <given-names>P. M.</given-names>
+            </name>
+            <name>
+              <surname>Ferrier</surname>
+              <given-names>R. J.</given-names>
+            </name>
+          </person-group>
+          <source>Monosaccharides, Their Chemistry and Their Roles in Natural Products</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1995</year>
+          <fpage>360</fpage>
+          <lpage>369</lpage>
+        </citation>
+      </ref>	  
+      <ref id="B10-molecules-10-01325">
+        <label>10.</label>
+        <citation citation-type="journal">				
+         <label>a)</label>				
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toshima</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tatsuta</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent Progress in O-Glycosylation Methods and Its Application to Natural Products Synthesis</article-title>
+          <source>Chem. Rev.</source>
+          <year>1993</year>
+          <volume>93</volume>
+          <fpage>1503</fpage>
+          <lpage>1531</lpage>				
+        </citation>  				
+        <citation citation-type="journal">				
+         <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Kov&#xE1;&#x010D;</surname>		
+              <given-names>P.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Efficient Chemical Synthesis of Methyl &#x03B2;-Glycosides of &#x03B2;-(1&#x2212;6)-Linked D-galacto-oligosaccharides by a Stepwise and a Blockwise Approach</article-title>	
+          <source>Carbohydr. Res.</source>				
+          <year>1986</year>				
+          <volume>153</volume>				
+          <fpage>237</fpage>				
+          <lpage>251</lpage>				
+        </citation>  				          				
+      </ref>
+      <ref id="B11-molecules-10-01325">
+        <label>11.</label>
+        <citation citation-type="journal">				
+         <label>a)</label>				
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ellervik</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Magnusson</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Guanidine/Guanidinium Nitrate; a Mild and Selective <italic>O</italic>-Deacetylation Reagent that Leaves the <italic>N</italic>-Troc Group Intact</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1997</year>
+          <volume>38</volume>
+          <fpage>1627</fpage>
+          <lpage>1628</lpage>				
+        </citation>  				
+        <citation citation-type="journal">				
+         <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Herzig</surname>				
+              <given-names>J.</given-names>				
+            </name>
+			<name>				
+              <surname>Nudelman</surname>				
+              <given-names>A.</given-names>				
+            </name>
+			<name>				
+              <surname>Gottlieb</surname>				
+              <given-names>H. E.</given-names>				
+            </name>
+			<name>				
+              <surname>Fischer</surname>				
+              <given-names>B.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Studies in Sugar Chemistry. 2. A Simple Method for O-Deacylation of Polyacylated Sugars</article-title>				
+          <source>J. Org. Chem.</source>				
+          <year>1986</year>				
+          <volume>51</volume>				
+          <fpage>727</fpage>				
+          <lpage>730</lpage>				
+        </citation> 
+		<citation citation-type="journal">				
+         <label>c)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Lemieux</surname>				
+              <given-names>R. U.</given-names>				
+            </name>
+			<name>				
+              <surname>Stick</surname>				
+              <given-names>R. V.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>1,2:5,6-Di-O-isopropylidene-&#x03B1;-D-galactofuranose</article-title>	
+          <source>Aust. J. Chem.</source>				
+          <year>1975</year>				
+          <volume>28</volume>				
+          <fpage>1799</fpage>				
+          <lpage>1801</lpage>				
+        </citation>
+		<citation citation-type="journal">				
+         <label>d)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Lemieux</surname>				
+              <given-names>R. U.</given-names>				
+            </name>
+			<name>				
+              <surname>Hendriks</surname>				
+              <given-names>K. B.</given-names>				
+            </name>
+			<name>				
+              <surname>Stick</surname>				
+              <given-names>R. V.</given-names>				
+            </name>
+			<name>				
+              <surname>James</surname>				
+              <given-names>K.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Halide Ion Catalyzed Glycosidation Reactions. Syntheses of &#x03B1;-Linked Disaccharides</article-title>
+          <source>J. Am. Chem. Soc.</source>				
+          <year>1975</year>				
+          <volume>97</volume>				
+          <fpage>4056</fpage>				
+          <lpage>4062</lpage>				
+        </citation>  				          				
+      </ref>
+      <ref id="B12-molecules-10-01325">
+        <label>12.</label>
+        <citation citation-type="journal">				
+         <label>a)</label>				
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zempl&#xE9;n</surname>
+              <given-names>G.</given-names>
+            </name>            
+            <name>
+              <surname>Gerecs</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Had&#xE1;csy</surname>
+              <given-names>I.</given-names>
+            </name>            
+          </person-group>
+          <article-title>&#xDC;ber die Verseifung Acetylierter Kohlenhydrate</article-title>
+          <source>Ber. Dtsch. Chem. Ges.</source>
+          <year>1936</year>
+          <volume>69</volume>
+          <fpage>1827</fpage>
+          <lpage>1830</lpage>			
+        </citation>  				
+        <citation citation-type="journal">				
+         <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Zempl&#xE9;n</surname>				
+              <given-names>G.</given-names>				
+            </name>
+			<name>				
+              <surname>Pacsu</surname>				
+              <given-names>E.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Uber die Verseifung acetylierter Zucker und Verwandter Substanzen</article-title>	
+          <source>Ber. Dtsch. Chem. Ges.</source>		
+          <year>1929</year>				
+          <volume>62b</volume>				
+          <fpage>1613</fpage>				
+          <lpage>1617</lpage>				
+        </citation>
+		<citation citation-type="journal">				
+         <label>c)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Zempl&#xE9;n</surname>				
+              <given-names>G.</given-names>				
+            </name>						
+          </person-group>				
+          <article-title>Abbau der Reduzlerenden Blosen I.: Direk Kohstitutions-Ermittlung der Cellobiose</article-title>				
+          <source>Ber. Dtsch. Chem. Ges.</source>	
+          <year>1926</year>				
+          <volume>59</volume>				
+          <fpage>1254</fpage>				
+          <lpage>1260</lpage>				
+        </citation> 
+		<citation citation-type="journal">				
+         <label>d)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Zempl&#xE9;n</surname>				
+              <given-names>G.</given-names>				
+            </name>
+			<name>				
+              <surname>Kunz</surname>				
+              <given-names>A.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>&#xDC;ber die Natriumverbindungen der Glucose und die Verseifung der Aoylierten Zucker</article-title>				
+          <source>Ber. Dtsch. Chem. Ges.</source>		
+          <year>1923</year>				
+          <volume>56</volume>				
+          <fpage>1705</fpage>				
+          <lpage>1710</lpage>				
+        </citation>  				          				
+      </ref>
+      <ref id="B13-molecules-10-01325">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Byramova</surname>
+              <given-names>N. E.</given-names>
+            </name>
+            <name>
+              <surname>Ovchinnikov</surname>
+              <given-names>M. V.</given-names>
+            </name>
+            <name>
+              <surname>Backinowsky</surname>
+              <given-names>L. V.</given-names>
+            </name>
+            <name>
+              <surname>Kochetkov</surname>
+              <given-names>N. K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Selective Removal of <italic>O</italic>-Acetyl Groups in the Presence of <italic>O</italic>-Benzoyl Groups by Acid-Catalysed Methanolysis</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>1983</year>
+          <volume>124</volume>
+          <fpage>C8</fpage>
+          <lpage>C11</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01325">
+        <label>14.</label>
+        <citation citation-type="journal">				
+         <label>a)</label>				
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brauns</surname>
+              <given-names>D. H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Optical Rotation and Atomic Dimension VI</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1926</year>
+          <volume>48</volume>
+          <fpage>2776</fpage>
+          <lpage>2788</lpage>				
+        </citation>  				
+        <citation citation-type="journal">				
+         <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Hudson</surname>				
+              <given-names>C. S.</given-names>				
+            </name>
+			<name>				
+              <surname>Dale</surname>				
+              <given-names>J. K.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>The Isomeric Pentacetates of Mannose</article-title>
+          <source>J. Am. Chem. Soc.</source>				
+          <year>1915</year>				
+          <volume>37</volume>				
+          <fpage>1280</fpage>				
+          <lpage>1282</lpage>				
+        </citation>
+		<citation citation-type="journal">				
+         <label>c)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Erwig</surname>				
+              <given-names>E.</given-names>				
+            </name>
+			<name>				
+              <surname>Koenigs</surname>				
+              <given-names>W.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Notiz &#x00FC;ber Pentacetyldextrose</article-title>
+          <source>Ber. Dtsch. Chem. Ges.</source>
+          <year>1989</year>				
+          <volume>24</volume>				
+          <fpage>1464</fpage>				
+          <lpage>1467</lpage>				
+        </citation>  				          				
+      </ref>
+      <ref id="B15-molecules-10-01325">
+        <label>15.</label>
+        <citation citation-type="book">				
+         <label>a)</label>				
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wolfrom</surname>
+              <given-names>M. L.</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Methods in Carbohydrate Chemistry</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1963</year>
+		  <volume>2</volume>				
+          <fpage>211</fpage>
+        </citation>  				
+        <citation citation-type="journal">				
+         <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Erwig</surname>				
+              <given-names>E.</given-names>				
+            </name>
+			<name>				
+              <surname>Koenigs</surname>				
+              <given-names>W.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Ueber f&#xFC;nffach Acetylirte Galactose und Dextrose</article-title>
+          <source>Ber. Dtsch. Chem. Ges.</source>
+          <year>1889</year>				
+          <volume>22</volume>				
+          <fpage>2207</fpage>				
+          <lpage>2214</lpage>				
+        </citation>
+		<citation citation-type="journal">				
+         <label>c)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Franchimont</surname>				
+              <given-names>A. P. N.</given-names>
+            </name>						
+          </person-group>				
+          <article-title>Uber Kohlehydrate</article-title>	
+          <source>Ber. Dtsch. Chem. Ges.</source>	
+          <year>1979</year>				
+          <volume>12</volume>				
+          <fpage>1938</fpage>				
+          <lpage>1942</lpage>				
+        </citation>
+		<citation citation-type="journal">				
+         <label>d)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Liebermann</surname>				
+              <given-names>C.</given-names>				
+            </name>
+			<name>				
+              <surname>H&#x00F6;rmann</surname>				
+              <given-names>O.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Ueber die Formeln des Rhamnetins und Xanthorhamnins</article-title>				
+          <source>Ber. Dtsch. Chem. Ges.</source>
+          <year>1978</year>				
+          <volume>11</volume>				
+          <fpage>1618</fpage>				
+          <lpage>1622</lpage>				
+        </citation>  				          				
+      </ref>
+      <ref id="B16-molecules-10-01325">
+        <label>16.</label>
+        <citation citation-type="journal">				
+         <label>a)</label>				
+          <person-group person-group-type="author">
+            <name>
+              <surname>Christensen</surname>
+              <given-names>B. E.</given-names>
+            </name>
+            <name>
+              <surname>Clarke</surname>
+              <given-names>R. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microdtermination of Hydroxyl Content of Sugars and Glycosides</article-title>
+          <source>Ind. Eng. Chem. Anal. Ed.</source>
+          <year>1945</year>
+          <volume>17</volume>
+          <fpage>265</fpage>
+          <lpage>265</lpage>				
+        </citation>  				
+        <citation citation-type="journal">				
+         <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Freed</surname>				
+              <given-names>M.</given-names>				
+            </name>
+			<name>				
+              <surname>Wynne</surname>				
+              <given-names>A. M.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Determination of Hydroxyl Groups in Organic Compounds</article-title>				
+          <source>Ind. Eng. Chem. Anal. Ed.</source>	
+          <year>1936</year>				
+          <volume>8</volume>				
+          <fpage>278</fpage>				
+          <lpage>279</lpage>				
+        </citation>  				          				
+      </ref>
+      <ref id="B17-molecules-10-01325">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fischer</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Noth</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Teilweise Aoylierung der Mehrwertigen Alcohols und Zucker. IV: Derivate der d-Glucose und d-Fructose</article-title>
+          <source>Ber. Dtsch. Chem. Ges.</source>
+          <year>1918</year>
+          <volume>51</volume>
+          <fpage>321</fpage>
+          <lpage>332</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01325">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sen</surname>
+              <given-names>A. K</given-names>
+            </name>
+            <name>
+              <surname>Banerji</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 4-O-beta-D-Xylopyranosyl-D-Glucopyranoses and 6-O-beta-D-Xylopyranosyl-D-Glucopyranoses and Their Protein Conjugates</article-title>
+          <source>Indian J. Chem.</source>
+          <year>1989</year>
+          <volume>28B</volume>
+          <fpage>818</fpage>
+          <lpage>823</lpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01325">
+        <label>19.</label>
+        <citation citation-type="journal">
+		 <label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kartha</surname>
+              <given-names>K. P. R.</given-names>
+            </name>
+            <name>
+              <surname>Field</surname>
+              <given-names>R. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Iodine: A Versatile Reagent in Carbohydrate Chemistry IV. Per-O-acetylation, Regioselective Acylation and Acetolysis</article-title>
+          <source>Tetrahedron</source>
+          <year>1997</year>
+          <volume>53</volume>
+          <fpage>11753</fpage>
+          <lpage>11766</lpage>
+        </citation>
+		<citation citation-type="journal">
+		 <label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dauben</surname>
+              <given-names>W. G.</given-names>
+            </name>
+            <name>
+              <surname>Vaughan</surname>
+              <given-names>C. W.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Study of the Reaction of &#x03B2;-D-Glucose Pentaacetate with Phosphorus Pentachloride</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1955</year>
+          <volume>77</volume>
+          <fpage>1674</fpage>
+          <lpage>1675</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-01325">
+        <label>20.</label>						
+        <citation citation-type="journal">
+         <label>a)</label>		
+         <person-group person-group-type="author">
+            <name>
+              <surname>Hudson</surname>
+              <given-names>C. S.</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>J. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Fourth Crystalline Pentaacetate of Galactose and Some Related Compounds</article-title>
+          <source>J. Am. Chem. Soc</source>
+          <year>1916</year>
+          <volume>38</volume>
+          <fpage>1223</fpage>
+          <lpage>1228</lpage>				
+        </citation>  				
+        <citation citation-type="journal">				
+         <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Hudson</surname>				
+              <given-names>C. S.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>The Existence of a Third Crystalline Pentacetate of Galactose</article-title>				
+          <source>J. Am. Chem. Soc.</source>				
+          <year>1915</year>				
+          <volume>37</volume>				
+          <fpage>1591</fpage>				
+          <lpage>1593</lpage>				
+        </citation>
+		<citation citation-type="journal">				
+         <label>c)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Hudson</surname>				
+              <given-names>C. S.</given-names>				
+            </name>
+			<name>				
+              <surname>Parker</surname>				
+              <given-names>H. O.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Conversion of Galactose Pentacetate to an Isomeric Form</article-title>				
+          <source>J. Am. Chem. Soc.</source>				
+          <year>1915</year>				
+          <volume>37</volume>				
+          <fpage>1589</fpage>				
+          <lpage>1591</lpage>				
+        </citation>     				      				
+      </ref>
+      <ref id="B21-molecules-10-01325">
+        <label>21.</label>
+        <citation citation-type="journal">				
+         <label>a)</label>				
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haines</surname>
+              <given-names>A. H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Relative Reactivities of Hydroxyl Groups in Carbohydrates</article-title>
+          <source>Adv. Carbohydr. Chem. Biochem.</source>
+          <year>1976</year>
+          <volume>33</volume>
+          <fpage>11</fpage>
+          <lpage>109</lpage>				
+        </citation>  				
+        <citation citation-type="journal">				
+         <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Carey</surname>				
+              <given-names>F. A.</given-names>				
+            </name>	
+			<name>				
+              <surname>Hodgson</surname>				
+              <given-names>K. O.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Efficient Syntheses of Methyl 2-<italic>O</italic>-benzoyl-4,6-<italic>O</italic>-benzylidene-&#x03B1;-D-glucopyranoside and Methyl 2-<italic>O</italic>-benzoyl-4,6-<italic>O</italic>-benzyl- idene-&#x03B1;-D-<italic>ribo</italic>-hexopyranosid-3-ulose</article-title>	
+          <source>Carbohydr. Res.</source>				
+          <year>1970</year>				
+          <volume>12</volume>				
+          <fpage>463</fpage>				
+          <lpage>465</lpage>				
+        </citation> 
+		<citation citation-type="journal">				
+         <label>c)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>Williams</surname>				
+              <given-names>J. M.</given-names>				
+            </name>	
+			<name>				
+              <surname>Richardson</surname>				
+              <given-names>A. C.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Selective Acylation of Pyranoside&#x2014;I.: Benzoylation of Methyl &#x03B1;-D-Glycopyranosides of Mannose, Glucose and Galactose</article-title>	
+          <source>Tetrahedron</source>				
+          <year>1967</year>				
+          <volume>23</volume>				
+          <fpage>1369</fpage>				
+          <lpage>1378</lpage>				
+        </citation>      
+	  </ref>
+      <ref id="B22-molecules-10-01325">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eagle</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Herrington</surname>
+              <given-names>T. M.</given-names>
+            </name>
+            <name>
+              <surname>Isaacs</surname>
+              <given-names>N. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Effectiveness of High-pressure in the Syntheses of Pure Hexose Penta-carbamates and Penta-carboxylates</article-title>
+          <source>J. Chem. Research (S)</source>
+          <year>1993</year>
+          <fpage>390</fpage>
+		  <comment><italic>Chem. Research (M)</italic> <bold>1993</bold>, 2663-2679</comment>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-01325">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Conchie</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Levvy</surname>
+              <given-names>G. A.</given-names>
+            </name>
+            <name>
+              <surname>Marsh</surname>
+              <given-names>C. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Methyl and Phenyl Glycosides of the Common Sugars</article-title>
+          <source>Adv. Carbohydr. Chem.</source>
+          <year>1957</year>
+          <volume>12</volume>
+          <fpage>157</fpage>
+          <lpage>187</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-01325">
+        <label>24.</label>						
+        <citation citation-type="journal">				
+         <label>a)</label>				
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fernandez-Lorente</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Palomo</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Cocca</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Mateo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Moro</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Terreni</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fernandez-Lafuente</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Guisan</surname>
+              <given-names>J. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Regio-selective Deprotection of Peracetylated Sugars via Lipase Hydrolysis</article-title>
+          <source>Tetrahedron</source>
+          <year>2003</year>
+          <volume>59</volume>
+          <fpage>5705</fpage>
+          <lpage>5711</lpage>				
+        </citation>  				
+        <citation citation-type="journal">				
+         <label>b)</label>				
+          <person-group person-group-type="author">	
+            <name>				
+              <surname>N&#x00F3;brega</surname>				
+              <given-names>C.</given-names>				
+            </name>
+			<name>				
+              <surname>V&#x00E1;zquez</surname>				
+              <given-names>J. T.</given-names>				
+            </name>				
+          </person-group>				
+          <article-title>Conformational Study of the Hydroxymethyl Group in &#x03B1;-D-mannose Derivatives</article-title>				
+          <source>Tetrahedron: Assymetr.</source>
+          <year>2003</year>				
+          <volume>14</volume>				
+          <fpage>2793</fpage>				
+          <lpage>2801</lpage>				
+        </citation>  				          				
+      </ref>
+    </ref-list>
+	 <fn-group>
+      <fn>
+        <p><italic>Sample Availability:</italic> Available from the authors.</p>
+      </fn>
+    </fn-group>    
+  </back>
+</article>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10091169</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01169</article-id>
+	  <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of Hydroxy Sulfonate Surfactants</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rist</surname>
+            <given-names>&#xD8;ystein</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Carlsen</surname>
+            <given-names>Per H.J.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-01169" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+	  <aff id="af1-molecules-10-01169">Department of Chemistry, Norwegian University of Science and Technology, N-7491 Trondheim, Norway. Tel. (47) 73 593968, Fax (47) 73 593985.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01169"><label>*</label>Author to whom correspondence should be addressed. E-mail: <email>per.carlsen@chem.ntnu.no</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+      <fpage>1169</fpage>
+      <lpage>1178</lpage>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>29</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The selective synthesis of sulfonate surfactants with side chains containing ether- and hydroxy groups was carried out using cyclic sulfates as epoxide analogues. The main chain was elaborated from 1,2-dodecane sulfate by the addition of various hydroxy/alkoxysulfonates. Ethyleneoxy- and 1,2-propyleneoxy- groups were introduced using ethylene sulfate and 1,2-propylene sulfate, respectively.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Surfactants</kwd>
+        <kwd>Synthesis</kwd>
+        <kwd>Hydroxysulfonates</kwd>
+        <kwd>Cyclic sulfates</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The development of modern surfactants has seen rapid progress over the last decades. Research into the influence of changes in the polar head-group, the apolar tails, as well as semi-polar segments, such as ether groups, has attracted considerable attention, fueled partially by the discovery of new applications where surfactants have proven useful. One such application was the use of surfactants in Enhanced Oil Recovery (EOR), both in micellar polymer flooding and in foam treatment. These new applications created a need for new knowledge about such amphiphiles, including the relationships between their structure and activity. One important aspect is the behavior of these compounds in the appropriate environment. For surfactants to be used in EOR, especially in seawater, dissolved divalent cations cause major problems, making the traditional surfactants less soluble. Surfactants containing polyether segments, in ionic or non-ionic surfactants, showed greater tolerance toward divalent cations [<xref ref-type="bibr" rid="B1-molecules-10-01169">1</xref>].</p>
+      <p>In studies related to Enhanced Oil Recovery our group has been involved with the  selective synthesis of a variety of surfactants. We now describe the selective synthesis of a series of hydroxy sulfonate surfactants of the general formula shown in <xref ref-type="fig" rid="molecules-10-01169-f001">Figure 1</xref>.</p>
+      <fig id="molecules-10-01169-f001" position="float">
+        <label>Figure 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01169-g001.tif"/>
+      </fig>
+      <p>These molecules were required as standards for identification purposes and for Structure Activity Relationship (SAR) studies. The structures of these products are made up of a lipophilic tail consisting of a dodecyl group, further extended with (n) ethyleneoxy-, EO-units in the main chain and (m) 1,2- propyleneoxy-, PO-units as side chains. The hydrophilic part of the structure consisted of a sulfonate-group attached to the main chain via a 1,3-propylene group. A prerequisite in this effort was that starting materials must be inexpensive and readily available in large amounts, that the syntheses must be short and concise and all transformations be highly selective.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>EO-units have traditionally been introduced using ethylene oxide. This always resulted, however, in formation of inseparable mixtures of homologues caused by  the nucleophilicity  of  the  primary product [<xref ref-type="bibr" rid="B2-molecules-10-01169">2</xref>]. In addition, the corresponding oligomerized epoxides are normally obtained as  a  by-product, <italic>e.g.</italic>, polyethylene glycol in the case of ethylene oxide. A serious problem in SAR studies is also the fact that polyethylene glycol is difficult to separate from the product and usually escapes detection in analyses. To alleviate these problems, we decided to explore the concept of using cyclic sulfates as the chemical equivalents of epoxides for the introduction of  alkyloxy  groups.  Cyclic sulfates are far more reactive than the corresponding epoxides [<xref ref-type="bibr" rid="B3-molecules-10-01169">3</xref>] but at the same time they exhibit the ability to self-protect, since mono-alkyl sulfates are poor electrophiles and hence will not oligomerize. The EO-units may therefore be introduced by reacting an alcohol with the cyclic ethylene sulfate, <bold>2</bold>, and subsequent acidic hydrolysis to form the alcohol [<xref ref-type="bibr" rid="B2-molecules-10-01169">2</xref>].</p>
+      <p>A number of cyclic sulfates were readily obtained by oxidation of the corresponding cyclic sulfite. Two convenient methods for the synthesis of cyclic sulfates were published in 1988. They are both based on the Ruthenium catalyzed oxidation of the corresponding sulfites. The  most  widespread method today is the one published by Gao <italic>et al</italic>. [<xref ref-type="bibr" rid="B4-molecules-10-01169">4</xref>] using sodium metaperiodate as the stoichiometric oxidant. However, a more economical method using sodium hypochlorite was reported in a French patent [<xref ref-type="bibr" rid="B5-molecules-10-01169">5</xref>]. We have applied a modification of the hypochlorite promoted oxidation, <xref ref-type="scheme" rid="molecules-10-01169-f002">Scheme 1</xref>.</p>
+      <fig id="molecules-10-01169-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-01169-f002_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01169-g002.tif"/>
+      </fig>
+      <p>In the laboratory we routinely prepared the sulfates on a multimolar scale. The cyclic sulfates were prepared in good yields, <italic>i.e.</italic>, ethylene sulfate, <bold>2</bold>, (98 %) 1,2-propylene sulfate, <bold>3</bold>, (96 %) and 1,2- dodecene sulfate, <bold>4</bold>, (90 %).</p>
+      <sec>
+        <title>Synthesis of the main chain.</title>
+        <p>For the construction of the main chain in the target molecules <bold>1</bold>, we adopted a converging strategy. The side chains were introduced sequentially to retain control of selectivity. The main chain, consisting of the hydrophobic tail, the EO-units, and the sulfonate group, was obtained in one step by adding the appropriate hydroxysulfonate moiety to <bold>4</bold>. Thus, the reactions of <bold>4</bold> with hydroxysulfonates <bold>5a</bold>-<bold>c</bold> in dry DMF together with sodium hydride, gave the sulfate-sulfonates <bold>6a</bold>-<bold>c</bold>, (n = 0 - 2) which did not react further with <bold>4</bold> as compounds <bold>6a</bold>-<bold>c</bold> are not nucleophilic. Hydrolysis in refluxing 2M hydrochloric acid gave the hydroxy sulfonates <bold>7a</bold>-<bold>c</bold>, <xref ref-type="scheme" rid="molecules-10-01169-f003">Scheme 2</xref>.</p>
+        <fig id="molecules-10-01169-f003" position="float">
+          <object-id pub-id-type="pii">molecules-10-01169-f003_Scheme 2</object-id>
+          <label>Scheme 2</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01169-g003.tif"/>
+        </fig>
+        <p>The products were isolated by continuous extraction with isoamyl alcohol  followed  by concentration and washing with cold diethyl ether to remove soluble  impurities  such  as  isoamyl alcohol and 1,2-dodecanediol. The yields for pure compounds <bold>7b</bold> and <bold>7c</bold>, obtained as white powders, were satisfactory (78 - 80 %). However, for <bold>7a</bold> the yield never exceeded 37 %, presumably due either to reaction with small amounts of water in the reaction mixtures or the poor solubility of <bold>5a</bold> in the reaction medium. The purity of all three hydroxysulfonates, <bold>7a</bold>-<bold>c</bold>, were satisfactory, as determined by HPLC [<xref ref-type="bibr" rid="B6-molecules-10-01169">6</xref>] and <sup>1</sup>H-NMR analysis. The products were all hygroscopic.</p>
+        <p>Compounds <bold>5b</bold>-<bold>c</bold> were readily available by the reaction of ethylene glycol and diethylene glycol, respectively, with 1,3-propane sultone, <bold>8</bold>, as shown in <xref ref-type="scheme" rid="molecules-10-01169-f004">Scheme 3</xref>. For the compounds with no EO-group in the main chain, the commercially available 3-hydroxypropane-1-sulfonic acid <bold>5a</bold> was used. This product, however, consisted of an approximately 2:1 mixture of the desired 3-hydroxypropane-1- sulfonic acid, <bold>6a</bold>, and its corresponding dimmer, 4-oxa-heptane-1,7-disulfonic acid, <bold>9</bold>, as was determined by NMR and elemental analysis. The sodium salt was obtained after neutralization with sodium carbonate, concentration, recrystallization and drying by azeotropic distillation with toluene.</p>
+        <fig id="molecules-10-01169-f004" position="float">
+          <object-id pub-id-type="pii">molecules-10-01169-f004_Scheme 3</object-id>
+          <label>Scheme 3</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01169-g004.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Synthesis of the side chain.</title>
+        <p>The propyleneoxy groups (PO) in the side chain were elaborated by the addition of the cyclic 1,2- propylene sulfate, <bold>3</bold>, to the hydroxy groups of <bold>7a</bold>-<bold>c</bold> in dry THF at 50&#xB0;C, using sodium hydride as base. The intermediate sulfate-sulfonates were hydrolyzed with 2M hydrochloric acid, yielding the branched hydroxysulfonates <bold>10a</bold>-<bold>c</bold>. The side chain was further extended by repetition of this sequence to give the products <bold>11a</bold> and <bold>b</bold> (<xref ref-type="scheme" rid="molecules-10-01169-f005">Scheme 4</xref>). The addition of the corresponding alkoxy anions to <bold>3</bold> took place at the 1-position with good regioselectivity. The NMR spectra actually showed no signs of the corresponding 2-addition products.</p>
+        <fig id="molecules-10-01169-f005" position="float">
+          <object-id pub-id-type="pii">molecules-10-01169-f005_Scheme 4</object-id>
+          <label>Scheme 4</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01169-g005.tif"/>
+        </fig>
+        <p>The regioselectivity was expected to be equal to, or better than was found for nucleophilic addition of the less hindered 2-butanol to <bold>3</bold>, which gave a 95:5 ratio of the 1- and 2-addition products. Thus, the reaction was studied by adding 2-butanol to 1,2-propylene sulfate, <bold>3</bold>, in THF/NaH. The product composition was determined by GC analysis. The identities of the products were determined after oxidation (pyridinium dichromate/DMF) to the corresponding ketone and carboxylic acid respectively, which were separated and identified by their characteristic spectroscopic properties, <xref ref-type="scheme" rid="molecules-10-01169-f006">Scheme 5</xref>.</p>
+        <fig id="molecules-10-01169-f006" position="float">
+          <object-id pub-id-type="pii">molecules-10-01169-f006_Scheme 5</object-id>
+          <label>Scheme 5</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01169-g006.tif"/>
+        </fig>
+        <p>The overall yields for the attachment of one PO-unit to the main chain were satisfactory, generally being in the range of 85 to 98 % of the desired products, which were isolated as waxy materials after purification by column chromatography. The degree of alkylation was calculated from <sup>1</sup>H-NMR data from the integral values for the different methyl groups. These results were also confirmed by HPLC analysis. The experimental procedure used here gave not always full conversion in the PO-alkylation steps. Even large excess of reagents for prolonged periods of time rarely gave full conversion. Preparative separation of the different alkylation products was not practically possible.</p>
+      </sec>
+      <sec id="sec-molecules-10-01169">
+        <title>Spectroscopic analysis.</title>
+        <p>The hydroxysulfonates <bold>1</bold> were analyzed by <sup>1</sup>H-NMR. <sup>13</sup>C-NMR did not produce spectra with acceptable signal to noise ratios. This may be ascribed to the formation of micelle structures in D<sub>2</sub>O affecting the relaxation conditions for the molecules. The <sup>1</sup>H-NMR spectra of the hydroxysulfonates were in good agreement with the proposed structures. Compound <bold>7a</bold> gave a spectrum in which all signals could be assigned to the structure. The methylene groups next to the sulfonate groups exhibited a characteristic AA'XX'-patterns around &#x3B4; 3.4. This signal was recognized in all products <bold>1</bold>. Upon introduction of the EO- or PO-groups, the region for the ether protons became highly complex and made full assignment impossible. Calculation of the degree of the side chain alkylation was determined from the integrals for the two methyl signals at approx. 0.9 and 1.1 ppm, respectively, which were completely resolved.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The selective synthesis of the desired hydroxy surfactants <bold>1</bold> was demonstrated from readily accessible starting materials using a strategy applying cyclic sulfates  as  epoxide  analogues. Ethyleneoxy- and 1,2-propyleneoxy- groups were introduced using ethylene sulfate and 1,2-propylene sulfate, respectively. Yields of the pure compounds were generally satisfactory. The alkylation with 1,2-propylene sulfate was often difficult to drive to completion. The purity of the surfactants was determined by HPLC and <sup>1</sup>H-NMR analysis.</p>
+    </sec>
+    <sec>
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>All chemicals and solvents applied were of synthesis quality unless otherwise stated. The 1,2- dodecanediol was of bulk quality, (97 - 98 %). THF was freshly distilled from sodium prior to use and <italic>N,N-</italic>dimethylformamide was distilled and then  stored  over  3&#xC5;  molecular  sieves.  Dichloromethane used in the oxidation of cyclic sulfites to cyclic sulfates was of bulk quality. Acetonitrile for HPLC analysis was of HPLC grade. NMR-spectra were recorded for CDCl<sub>3</sub> solutions  (unless  otherwise noted) on a Jeol JNM-EX 400 FT NMR System, and Bruker Avance DPX300 or 400 instruments. IR spectra were obtained with a Nicolet 20SXC FT-IR Spectrometer. Mass spectra were obtained on a AEI MS 902 double focusing high resolution instrument equipped with electron impact ionization (EI, 70 eV). GLC analyses were recorded on a Perkin-Elmer Auto System with a Chrompack CP-5 CB column. HPLC analysis were performed using a Perkin-Elmer instrument  consisting  of  a  LC  250 binary pump, LC 600 autosampler equipped with a 10 &#xB5;L sample loop, LC 30 refractive index detector and a LC 290 BIO UV variable wavelength absorbance detector (190 - 360 nm). A  conductivity detector (Conductivity Monitor, Pharmacia) was also used. As integrator, a PE-Nelson Model 1020 was utilized. The column used was a ChromSphere C18 (4.6 x 250 mm, Chrompack).</p>
+      </sec>
+      <sec>
+        <title>Cyclic sulfites: general procedure.</title>
+        <p>The appropriate diol (4.00 mol) was dissolved in dichloromethane (1000 mL) and thionyl chloride (571 g, 4.80 mol) was added slowly to the reaction mixture under a nitrogen atmosphere. The evolved gases were led into a trap of aqueous sodium hydroxide. The reaction was continued  until  gas evolution ceased and GLC analysis indicated full conversion to the cyclic sulfite. The solvent was removed to give the crude product.</p>
+        <p><italic>Ethylene sulfite</italic> was distilled under reduced pressure (b.p. 65 &#xB0;C/12 mm Hg), yielding a clear liquid (409.3 g, 95 % yield). The purity was &gt; 99 % (GLC). The spectroscopic properties were in agreement with those reported in the literature [<xref ref-type="bibr" rid="B7-molecules-10-01169">7</xref>].</p>
+        <p><italic>Propylene sulfite</italic> was prepared using the same procedure. The yield was 409.3 g (95 %) of a 63:37 mixture of diastereomers (GLC/<sup>1</sup>H-NMR) after distillation (b.p. 55 &#xB0;C/12 mm Hg). The purity was &gt;99 %. <sup>1</sup>H-NMR: &#x3B4; 1.43 (d, <italic>J</italic> = 6 Hz, 3H), 1.60 (d, <italic>J</italic> = 6 Hz, 1.8H), 3.88 (dd, <italic>J</italic> = 7 Hz, <italic>J</italic> = 8 Hz, 1H), 4.28 (t, <italic>J</italic> = 9 Hz, 0.6H), 4.51 (dd, <italic>J</italic> = 6 Hz, <italic>J</italic> = 9 Hz, 0.6H), 4.58-4.67 (m, 0.6H), 4.70 (dd, <italic>J</italic> = 6 Hz, <italic>J</italic> = 8 Hz, 1H), 5.07-5.15 (m, 1H) ppm; <sup>13</sup>C-NMR: &#x3B4; 17.6, 18.7 (two diastereomers), 71.3, 72.9 (two diastereomers), 76.6, 80.3 (two diastereomers) ppm; IR (neat): 2987, 2939, 2901, 1458, 1386, 1204, 1135, 1101, 1054, 965, 949, 907, 830, 744, 744, 710, 677 cm<sup>&#x2212;1</sup> ; MS (120&#xB0;C, 70 eV) [<italic>m/z</italic> (% rel. int.)]: 122 (4, <italic>M</italic><sup>+</sup>), 110 (1), 92 (21), 58 (10), 57 (14).</p>
+      </sec>
+      <sec>
+        <title>Cyclic sulfates: general procedure.</title>
+        <p>The cyclic sulfite (0.50 mol) was dissolved in dichloromethane (400 mL) and cooled in an ice bath. Water (150 mL), a saturated solution of sodium hydrogen carbonate (200 mL), and ruthenium trichloride hydrate (0.158 g, 0.70 mmol, 0.14 mol%) was added to the reaction mixture. An approx. 11 % solution of hypochlorite (340 mL, ca. 0.50 mol) was then added to the reaction mixture with vigorously stirring and cooling over a period of 35 minutes. When GLC-analysis showed that all of the sulfite was consumed, the two phases were separated, and the aqueous phase was extracted with dichloromethane (3 x 150 + 2 x 100 mL portions). The combined organic phase was washed with brine (200 mL) and stirred with Norit A&#x2122; and isopropanol (0.05 mL) at 10&#xB0;C for 40 minutes. Anhydrous MgSO<sub>4</sub> was added and the solution was stirred for an additional 5 minutes. The solution was filtered through a small pad of Celite<sup>&#xAE;</sup>, leaving a clear liquid, and the solvent was removed by evaporation under reduced pressure, yielding the product.</p>
+        <p><italic>Ethylene sulfate</italic> (<bold>2</bold>) was obtained in 70 % yield as a white solid of &gt; 99 % purity (GLC); m.p.: 92.5- 93.0&#xB0;C; <sup>1</sup>H-NMR: &#x3B4; 4.76 (s, 4H) ppm; <sup>13</sup>C-NMR: &#x3B4; 68.8 ppm; IR (KBr): 2998, 2923, 1357, 1195, 1121, 1005, 976, 898, 872, 776, 651, 621 cm<sup>&#x2212;1</sup>; MS (170&#xB0;C, 70 eV) [<italic>m/z</italic> (% rel. int.)]: 124 (82, <italic>M</italic><sup>+</sup>), 123 (9), 81 (21), 66 (48), 65 (57), 64 (30), 48 (100).</p>
+        <p><italic>Propylene sulfate</italic> (<bold>3</bold>) was obtained in 80 % yield and &gt; 99 % purity after distillation (b.p. 50&#xB0; at 0.1 mm Hg);  <sup>1</sup>H-NMR: &#x3B4; 1.61  (d, <italic>J</italic> = 6.4 Hz,  3H),  4.32  (t,  <italic>J</italic> = 8.4 Hz,  1H),  4.75  (dd,  <italic>J</italic> = 5.7 Hz, <italic>J</italic> = 8.6 Hz, 1H), 5.14 (m, 1H) ppm; <sup>13</sup>C-NMR: &#x3B4; 18.0, 74.7, 80.5 ppm; IR (neat): 2993, 2944, 2913, 1383, 1208, 1058, 983, 849, 822, 770, 651 cm<sup>&#x2212;1</sup>; MS (150&#xB0;C, 70 eV) [<italic>m/z</italic> (% rel. int.)]: 138 (4, <italic>M</italic><sup>+</sup>), 137 (9), 123 (100), 65 (12), 64 (30), 58 (20), 57 (26), 55 (12), 48 (20).</p>
+      </sec>
+      <sec>
+        <title>1-Dodecene sulfate (<bold>4</bold>).</title>
+        <p>1,2-Dodecanediol (100.0 g; 0.494 mol) was dissolved in dichloromethane (1000 mL) and stirred at room temperature. Thionyl chloride (60 mL, 0.82 mol) was added over 20 minutes under a nitrogen atmosphere, and the evolved gases were led into a trap of aqueous sodium hydroxide. After 3.5 hours, GLC-analysis indicated full conversion to the cyclic sulfite, which was not  isolated  but  oxidized directly in the next step. A saturated solution of sodium hydrogen  carbonate  (250 mL)  and  solid sodium hydrogen carbonate were added until no more gas was formed. Ruthenium trichloride hydrate (approx. 19.0 mg, 0.017 mol%) was added to the reaction, and an approx. 5 % solution of hypochlorite (800 mL, approx. 0.56 mol) was added  slowly with vigorous stirring. After 4 hours GLC analysis indicated that all of the sulfite was consumed. The two phases were separated, and the aqueous phase was extracted with dichloromethane (3 x 250 mL). The combined  organic  phase  was  washed  with water (200 mL) and brine (2 x 250 mL). Isopropanol (0.5 mL) was added, and the solution was dried over anhydrous MgSO<sub>4</sub>. The solution was filtered through a small pad of silica gel and the solvent was removed by evaporation under reduced pressure, leaving a clear colorless oil. The product was further dried <italic>in vacuo</italic>. Yield: 123.7 g (95 %); purity: 98 % (GLC); <sup>1</sup>H-NMR: &#x3B4; 0.88 (t, J = 7 Hz, 3H), 1.27- 1.50 (m, 16H), 1.76 (m, 1H), 1.92 (m, 1H), 4.34 (t, <italic>J</italic> = 8 Hz, 1H), 4.x (dd, <italic>J</italic> = 6 Hz, <italic>J</italic> = 9 Hz, 1H), 4.98 (m, 1H) ppm; <sup>13</sup>C-NMR: &#x3B4; 14.1, 22.7, 24.6, 29.0, 29.3, 29.3, 29.5, 29.6, 31.9, 32.2, 73.0, 83.3 ppm; IR (neat): 2926, 2855, 1467, 1388, 1211, 985, 826, 779, 722, 651 cm<sup>&#x2212;1</sup>; MS (150&#xB0;C, 70 eV) [<italic>m/z</italic> (% rel. int.)]: 247 (1, <italic>M</italic> - HO), 213 (48), 166 (17), 138 (11), 126 (10), 124 (14), 123 (11), 111 (13), 110 (22), 109 (24), 98 (13), 97 (38), 96 (71), 95 (51), 85 (13), 84 (26), 83 (54), 82 (100), 81 (64), 71 (25), 70 (46), 69 (68), 68 (69), 67 (68), 64 (14), 57 (50), 56 (47), 55 (87), 54 (61).</p>
+      </sec>
+      <sec>
+        <title>Sodium 6-hydroxy-4-oxa-1-hexanesulfonate (<bold>5b</bold>).</title>
+        <p>Dry ethylene glycol (500 mL, 8.97 mol) was added to sodium (10.0 g; 0.44 mol) under a nitrogen atmosphere at room temperature and this mixture was stirred until all sodium was dissolved. 1,3- Propyl sultone (<bold>8</bold>, 52.4 g; 0.43 mol) was added to the reaction mixture, which was heated to 95&#xB0;C for 3 hours. Most of the excess ethylene glycol was removed under reduced pressure. The crude product was dissolved in water and continuously extracted with isoamyl alcohol for 20 hours. The solvent was then removed under reduced pressure, and the product dried by azeotropic distillation with benzene to give 68.0 g (77 % yield) of a white solid; purity: +98 % (<sup>1</sup>H-NMR); <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 2.01 (m, 2H), 2.93- 3.04 (m, 2H), 3.59-3.75 (m, 6H) ppm; <sup>13</sup>C-NMR (D<sub>2</sub>O): &#x3B4; 26.9, 50.5, 63.1, 71.7, 73.9 ppm; IR (KBr): 3413, 2936, 2873, 1446, 1417, 1360, 1197, 1122, 1065, 623 cm<sup>&#x2212;1</sup>.</p>
+      </sec>
+      <sec>
+        <title>Sodium 9-hydroxy-4,7-dioxa-1-nonanesulfonate (<bold>5c</bold>).</title>
+        <p>This compound was prepared from diethylene glycol and 1,3-propane sultone (<bold>8</bold>), using a procedure similar to the one described above. The yield was 80.5 g (75 %) of &gt; 98 % pure product (by <sup>1</sup>H-NMR); <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 2.00 (m, 2H), 2.96 (m, 2H), 3.62-3.67 (m, 10H) ppm; <sup>13</sup>C-NMR (D<sub>2</sub>O): &#x3B4; 26.8, 50.5, 63.0, 71.7, 71.9, 72.1, 74.3 ppm; IR (KBr): 3416, 2934, 2871, 1456, 1419, 1352, 1198, 1127, 1109, 1065, 623 cm<sup>&#x2212;1</sup>.</p>
+      </sec>
+      <sec>
+        <title>Sodium 9-hydroxy-4,7-dioxa-1-nonadecanesulfonate (<bold>7b</bold>).</title>
+        <p>Sodium  6-hydroxy-4-oxo-1-hexanesulfonate (<bold>5b</bold>, 12.00 g; 58.2 mmol) and sodium hydride (4.19 g; 174.6 mmol) was added to a flask and placed under a N<sub>2</sub>-atmosphere. Dry DMF (200 mL) was added, and the reaction was stirred at room temperature for 3.5 hours. Cyclic 1,2-dodecane sulfate (<bold>4</bold>, 26.09 g; 98.7 mmol) in dry DMF (35 mL) was slowly added. The reaction was stirred at room temperature overnight. The reaction mixture was cooled in an ice bath and quenched with ethanol (30 mL). The solvent was removed under reduced pressure, the crude product was added 2 M hydrochloric acid (300 mL), and refluxed for 3 hours. The reaction was cooled in an ice bath, and the pH was adjusted to ~14 with NaOH. The solution was extracted continuously with isoamyl alcohol for 3:30 hours. The isoamyl alcohol was removed under reduced pressure, the crude product washed with ether and dried <italic>in vacuo</italic>, yielding 17.6 g (77 %) of <bold>7b</bold> as a white powder, pure according to HPLC and <sup>1</sup>H-NMR analysis. <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 0.88 (t, <italic>J</italic> = 6.6 Hz, 3H), 1.30 (m, 16H), 1.46 (m, 2H), 2.03 (m, 2H), 2.97 (m, 2H), 3.41 (dd, <italic>J</italic> = 7.7 Hz, <italic>J</italic> = 10.4 Hz, 1H), 3.52 (dd, <italic>J</italic> = 3.1 Hz, <italic>J</italic> = 10.5 Hz, 1H), 3.64- 3.70 (m, 6H), 3.80 (m, 1H) ppm; IR (KBr): 3350, 2955, 2923, 2857, 1654, 1617, 1468, 1420, 1355, 1288, 1238, 1212, 1127, 1068, 799, 736, 721, 628 cm<sup>&#x2212;1</sup>.</p>
+      </sec>
+      <sec>
+        <title>Sodium 6-hydroxy-4-oxa-1-hexadecanesulfonate (<bold>7a</bold>).</title>
+        <p>This product was obtained in 37 % yield from <bold>5a</bold> and <bold>4</bold>. The product was pure according to HPLC and <sup>1</sup>H-NMR analysis. <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 0.87 (t, <italic>J</italic> = 6.8 Hz, 3H), 1.29-1.50 (m, 18H), 2.00-2.06 (m, 2H), 2.97-3.01 (m, 2H), 3.43 (dd, <italic>J</italic> = 7.4 Hz, <italic>J</italic> = 10.7 Hz, 1H), 3.55 (dd, <italic>J</italic> = 3.4 Hz, <italic>J</italic> = 10.7 Hz, 1H), 3.59-3.71 (m, 2H), 3.83 (m, 1H) ppm; IR (KBr): 3444, 2958, 2915, 2850, 1469, 1444, 1420, 1401, 1360, 1322, 1280, 1234, 1194, 1161, 1124, 1067, 1051, 905, 878, 797, 721, 629 cm<sup>&#x2212;1</sup>.</p>
+      </sec>
+      <sec>
+        <title>Sodium 12-hydroxy-4,7,10-trioxa-1-docosanesulfonate (<bold>7c</bold>).</title>
+        <p>This product was obtained in 80 % yield from <bold>4</bold> and <bold>5c</bold>. The product was pure according to HPLC and <sup>1</sup>H-NMR analysis. <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 0.87 (t, <italic>J</italic> = 6.6 Hz, 3H), 1.29-1.45 (m, 18H), 2.02 (m, 2H), 2.96 (m, 2H), 3.42 (dd, <italic>J</italic> = 7.5 Hz, <italic>J</italic> = 10.5 Hz, 1H), 3.53 (dd, <italic>J</italic> = 3.2 Hz, <italic>J</italic> = 10.5 Hz, 1H), 3.63-3.69 (m, 10H), 3.81 (m, 1H) ppm; IR (KBr): 3378, 2928, 2913, 2849, 1469, 1421, 1356, 1330, 1266, 1245, 1201, 1130, 1069, 908, 892, 798, 734, 721, 628 cm<sup>&#x2212;1</sup>.</p>
+      </sec>
+      <sec>
+        <title>Sodium 6-decyl-9-hydroxy-4,7-dioxa-1-decanesulfonate (<bold>10a</bold>).</title>
+        <p>Hydroxysulfonate <bold>7a</bold> (1.50 g; 4.33 mmol) and sodium hydride (0.26 g; 10.8 mmol) were dissolved in freshly distilled THF (20 mL) under a N<sub>2</sub>-atmosphere. The reaction was heated to 55&#xB0;C for 1 hour. Propylene sulfate (<bold>3</bold>, 0.90 g, 6.49 mmol) in dry THF (10 mL) was added, and the reaction was stirred at 55&#xB0;C overnight. The reaction mixture was cooled in an ice bath and quenched with ethanol (2 mL). The solvent was removed under reduced pressure. The product was dissolved in 2 M hydrochloric acid (50 mL) and refluxed for 4 hours. The reaction was cooled in an ice bath and neutralized with NaOH (aq.). The solution was extracted continuously with isoamyl alcohol for 3.5 hours and the isoamyl alcohol was removed under reduced pressure. The product was loaded onto a column of silica gel and eluted with acetone (2 x 250 mL, frac. 1-2), acetone-ethanol 9:1 (450 mL, frac. 3-14), acetone-ethanol 1:1 (450 mL, frac. 15-26) and pure ethanol (450 mL, frac. 27-38). The fractions were analyzed by TLC using ethanol as eluent. Fractions 10 to 34 contained the product. The solvents were removed under reduced pressure and the product was dried <italic>in vacuo</italic>, yielding 1.34 g (77 %) of a waxy solid. The purity of isolated <bold>10a</bold> was 85 % according to <sup>1</sup>H-NMR analysis, with a 15 % content of the non-alkylated substrate <bold>7a</bold>. <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 0.76 (t, <italic>J</italic> = 6.7 Hz, 3H), 1.05 (dd, <italic>J</italic> = 6.4 Hz, <italic>J</italic> = 2.3 Hz, 2.6H), 1.18-1.41 (m, 18H), 1.91 (m, 2H), 2.87 (m, 2H), 3.29-3.65 (m, 7.6H), 3.86 (m, 0.9H) ppm; IR (NaCl): 3334, 2954, 2922, 2852, 1466, 1190, 1110, 1054, 617 cm<sup>&#x2212;1</sup>.</p>
+      </sec>
+      <sec>
+        <title>Sodium 9-decyl-12-hydroxy-4,7,10-trioxa-1-tridecanesulfonate  (<bold>10b</bold>).</title>
+        <p>Obtained in 86 % yield (4.95 g) from <bold>7b</bold> and <bold>3</bold>. The purity was 97 % according to <sup>1</sup>H-NMR (it contained 3 % of the hydroxysulfonate 7<bold>b)</bold>. <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 0.88 (t, <italic>J</italic> = 6.4 Hz, 3H), 1.14 (m, 2.9H), 1.29-1.50 (m, 18H), 2.01 (m, 2H), 2.95 (m, 2H), 3.38-3.69 (m, 11H), 3.93 (m, 1H) ppm; IR (NaCl): 3440, 2954, 2923, 2854, 1467, 1367, 1277, 1190, 1145, 1117, 1053, 954, 616 cm<sup>&#x2212;1</sup>.</p>
+      </sec>
+      <sec>
+        <title>Sodium 9-decyl-15-hydroxy-12-methyl-4,7,10,13-tetraoxa-1-hexadecanesulfonate (<bold>11b</bold>).</title>
+        <p>Obtained in 96 % yield from <bold>10b</bold> and <bold>3</bold>. The purity was 95 % by <sup>1</sup>H-NMR (it contained 5 % of hydroxysulfonate <bold>10b</bold>). <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 0.88 (t, <italic>J</italic> = 6.5 Hz, 3H), 1.16 (m, 5.7H), 1.29 (m, 16H), 1.50 (m, 2H), 2.02 (m, 2H), 2.96 (m, 2H), 3.35-3.77 (m, 14H), 3.95 (m, 1H) ppm; IR (NaCl): 3447, 2954, 2924, 2855, 1466, 1208, 1192, 1117, 1058, 618 cm<sup>&#x2212;1</sup>.</p>
+      </sec>
+      <sec>
+        <title>Sodium 12-decyl-15-hydroxy-4,7,10,13-tetraoxa-1-hexadecanesulfonate (<bold>10c</bold>).</title>
+        <p>Obtained in 91 % yield from <bold>7c</bold> and <bold>3</bold>. The purity was &gt; 98 % (<sup>1</sup>H-NMR); <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 0.78 (t, <italic>J</italic> = 6.5 Hz, 3H), 1.05 (m, 3H), 1.19 (m, 16H), 1.41 (m, 2H), 1.92 (m, 2H), 2.86 (m, 2H), 3.30-3.62 (m, 15H), 3.84 (m, 1H) ppm; IR (NaCl): 3457, 2924, 2855, 1466, 1366, 1352, 1289, 1192, 1144, 1115, 1060, 953, 936, 880, 842, 797, 733, 619 cm<sup>&#x2212;1</sup>.</p>
+      </sec>
+      <sec>
+        <title>Sodium 12-decyl-18-hydroxy-15-methyl-4,7,10,13,16-pentaoxa-1-nonadecanesulfonate (<bold>11c</bold>).</title>
+        <p>Obtained in 94 % yield from <bold>10c</bold> and <bold>3</bold>. The purity was 90 % (<sup>1</sup>H-NMR). The product contained 10 % of hydroxysulfonate <bold>10c</bold>. <sup>1</sup>H-NMR (D<sub>2</sub>O): &#x3B4; 0.87 (t, <italic>J</italic> = 6.7 Hz, 3H), 1.16 (m, 5.5H), 1.29 (m, 16H), 1.52 (m, 2H), 2.03 (m, 2H), 2.97 (m, 2H), 3.35-3.75 (m, 18H), 3.97 (m, 1H) ppm; IR (NaCl): 3446, 2925, 2854, 1468, 1414, 1367, 1352, 1288, 1194, 1143, 1112, 1057, 618 cm<sup>&#x2212;1</sup>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors wish to express their gratitude to STATOIL and the Norwegian National Research Council, NFR for financial support.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-01169">
+        <label>1.</label>
+		<note>
+		<p>a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Y.-P.</given-names>
+            </name>
+            <name>
+              <surname>Masuyama</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Kobata</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nakatsuji</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Okahara</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rosen</surname>
+              <given-names>M. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Coll. Interfac. Sci.</source>
+          <year>1993</year>
+          <volume>158</volume>
+          <fpage>40</fpage>
+        </citation>; b)<citation citation-type="journal">
+          <person-group person-group-type="author">
+		   <name>
+              <surname>Rosen</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Y.-P.</given-names>
+            </name>
+            <name>
+              <surname>Morrall</surname>
+              <given-names>S. W.</given-names>
+            </name>
+			</person-group>
+          <source>J. Chem. Eng. Data</source>
+          <year>1996</year>
+          <volume>41</volume>
+          <fpage>1160</fpage>
+        </citation>; c) <citation citation-type="journal">
+          <person-group person-group-type="author">
+		  <name>
+              <surname>Zhu</surname>
+              <given-names>Y.-P.</given-names>
+            </name>
+			<name>
+              <surname>Masuyama</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Nagata</surname>
+              <given-names>T.</given-names>
+            </name>
+           <name>
+              <surname>Okahara</surname>
+              <given-names>M.</given-names>
+            </name>
+			</person-group>
+          <source>J. Jpn. Oil Chem. Soc.</source>
+          <year>1991</year>
+          <volume>40</volume>
+          <fpage>473</fpage>
+        </citation>.</p>
+		</note>
+      </ref>
+      <ref id="B2-molecules-10-01169">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gautun</surname>
+              <given-names>O. R.</given-names>
+            </name>
+            <name>
+              <surname>Carlsen</surname>
+              <given-names>P. H. J.</given-names>
+            </name>
+            <name>
+              <surname>Maldal</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Vikane</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Gilje</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Chem. Scand.</source>
+          <year>1996</year>
+          <volume>50</volume>
+          <fpage>170</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01169">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lohray</surname>
+              <given-names>B. B.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1992</year>
+          <fpage>1035</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01169">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gao</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sharpless</surname>
+              <given-names>K. B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1988</year>
+          <volume>110</volume>
+          <fpage>7538</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01169">
+        <label>5.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>LeRoy</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Mandard-Cazin</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. Patent</source>
+          <patent>EP 322521</patent>
+          <year>1988</year>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01169">
+        <label>6.</label>
+        <note>
+		<p>As the surfactants in this work do not contain UV chromophores, an ion-pair detection method was applied, as described in the following paper in this journal.</p>
+		</note>
+      </ref>
+      <ref id="B7-molecules-10-01169">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haake</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>McNeal</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Goldsmith</surname>
+              <given-names>E. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1968</year>
+          <volume>90</volume>
+          <fpage>715</fpage>
+          <lpage>20</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	    <fn-group>
+      <fn>
+        <p><italic>Sample availability:</italic> Samples may be obtained by contacting the corresponding author: <email>per.carlsen@chem.ntnu.no</email></p>
+      </fn>
+    </fn-group>    
+  </back>
+</article>

@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10101272</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01272</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Towards a Synthesis of Naphthalene Derived Natural Products</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>McCulloch</surname>
+            <given-names>Malcolm W. B.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Barrow</surname>
+            <given-names>Russell A.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-01272" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+	  <aff id="af1-molecules-10-01272">Microbial Natural Product Research Group, Department of Chemistry, Australian National University, Canberra ACT 0200, Australia; Tel.: +(61)261253419, Fax: +(61)261250760.</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01272"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>rab@anu.edu.au</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>10</issue>
+      <fpage>1272</fpage>
+      <lpage>1278</lpage>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>28</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Dieckmann-type cyclization reactions have been employed in the synthesis of the alkyl substituted naphthoquinone <bold>11</bold> and the naphthalenes <bold>10</bold> and <bold>12</bold>. Various conditions for the benzylic oxidation of these compounds have been investigated with a view towards the synthesis of some naphthalene based natural products.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Naphthalenes</kwd>
+		<kwd>benzylic oxidation</kwd>
+		<kwd>naphtho-&#x3B3;-pyrone</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>A large number of naphthalene derived natural products are based on a substituted naphthalene skeleton as represented by  <bold>1</bold>. These include: the naphthyl ketone derivative guieranone A (<bold>2</bold>) [<xref ref-type="bibr" rid="B1-molecules-10-01272">1</xref>], heterocyclic derivatives like the linear naphtho-&#x3B3;-pyrone (NGP) rubrofusarin (<bold>3</bold>) [<xref ref-type="bibr" rid="B2-molecules-10-01272">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-01272">3</xref>], and naphthoquinones such as the crinoid derived pigment <bold>4</bold> [<xref ref-type="bibr" rid="B4-molecules-10-01272">4</xref>]. Given that <bold>3</bold> is the only linear NGP based natural product to have been synthesized, [<xref ref-type="bibr" rid="B5-molecules-10-01272">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-01272">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-01272">7</xref>] and that many structurally related NGPs possessing biological properties have been isolated, we are interested in developing a general synthesis of NGPs and as a corollary this synthesis should be extendable to related naphthalene derived natural products represented here by <bold>2</bold> and <bold>4</bold>.</p>
+	  <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01272-i001.tif"/></p>
+      <p>Synthetic methods to access these substituted naphthalene based compounds are limited. While the 2-acetyl naphthalene <bold>1</bold> could serve as a starting material in the synthesis of the target compounds, the synthesis of substituted 2-acyl naphthalenes is not  trivial.  Traditional  substitution  of  naphthalenes using Friedel-Crafts type reactions generally leads to <italic>peri-</italic>substituted products making the regioselective synthesis of compounds such as <bold>1</bold> from naphthalene precursors difficult. Shibata and co-workers circumvented this by cyclising the &#x3B2;-diketoester <bold>5</bold> at 200-220&#xB0;C under high vacuum, [<xref ref-type="bibr" rid="B5-molecules-10-01272">5</xref>] to give <bold>1</bold>, albeit in a low 9% yield (misreported as 18%) while some years later Rideout and colleagues increased the yield in the synthesis of <bold>1</bold> to 18% by cyclising <bold>5</bold> in refluxing 1-methylnaphthalene [<xref ref-type="bibr" rid="B8-molecules-10-01272">8</xref>]. Interestingly concurrent attempts by Shibata to cyclize  <bold>5 </bold> employing  polyphosphoric  acid gave the alkyl naphthalenic ester <bold>6</bold>, representing initial attack at the distal ketone carbonyl. This paper outlines recent work directed at developing an improved synthesis of substituted 1,3,6,8-tetraoxygenated-2- acyl-naphthalenes with a view towards the synthesis of naphthalene based natural products.<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01272-i002.tif"/></p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>We envisaged a possible route to the desired 2-acyl-naphthalenes <italic>via</italic> a benzylic oxidation of an alkyl-substituted naphthalene. In this direction the ketones <bold>8</bold> and <bold>9</bold> were obtained in excellent yields through acylating the phenylacetic acid derivative <bold>7</bold> [<xref ref-type="bibr" rid="B9-molecules-10-01272">9</xref>] with hexanoic or pentanoic anhydride, respectively, in toluene containing catalytic perchloric acid (<xref ref-type="scheme" rid="molecules-10-01272-scheme1">Scheme 1</xref>).</p>
+	  <fig id="molecules-10-01272-scheme1" position="float">
+          <label>Scheme 1</label>
+          <caption>
+            <p>(a) HClO<sub>4</sub> (70%) <sub>(cat)</sub>, PhMe, rt; (b) hexanoic anhydride, 92%; (c) pentanoic anhydride, 96%; (d) NaOEt, N<sub>2</sub>; (e) NaH (3.1 equiv.), DMF, N<sub>2</sub>, 10min; (f) MEM-Cl, 27% (unoptimized); (g) NBS, AIBN, CCl<sub>4</sub>, reflux, 30h, 34% (unoptimized).</p>
+          </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01272-g001.tif"/>
+	  </fig>
+      <p>Base induced cyclization of <bold>8</bold> in refluxing sodium ethoxide gave the desired (metastable) 1,3,6,8- tetraoxygenated-2-alkyl-naphthalene <bold>10</bold> in 25% yield, which readily oxidized to afford the  major isolated product from the reaction, the naphthoquinone <bold>11</bold> (52% to 77% yield). The propensity for <bold>10</bold> to oxidize to <bold>11</bold> suggested it would be unwise to attempt benzylic oxidations on <bold>10</bold> without first protecting the phenol groups.</p>
+      <p>The MEM protected alkyl-naphthalene <bold>12</bold> was therefore synthesized by treating <bold>9</bold> with 3.1 equivalents of sodium hydride in DMF followed by the addition of MEM-Cl. The first equivalent of NaH promotes cyclization to the naphthalene, and the remaining NaH prevents protonation of the phenol groups, trapping the naphthalene as its di-sodium salt.</p>
+      <p>It was anticipated that benzylic oxidations on both the naphthoquinone <bold>11</bold> and the naphthalene <bold>12</bold> would lead ultimately to the 2-acyl-naphthoquinones and the 2-acyl-naphthalenes respectively, thereby providing access to some of our target compounds. We had initially thought that <bold>12</bold> could be brominated in the benzylic position however, reactions with NBS returned only the ring-brominated product <bold>13</bold>. To date conditions suitable for effecting the desired benzylic oxidations have not been found with the majority of the conditions attempted resulting in decomposition of the starting material (Table 1). Future work will center on replacing the MEM group with alternative protecting groups in order to ascertain if the steric interactions are responsible for the lack of reactivity in the benzylic position.</p>
+      <table-wrap id="molecules-10-01272-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-01272-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Attempted Benzylic Oxidations</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="top" style="border:solid thin;background:navy">Substrate</th>
+              <th align="center" valign="top" style="border:solid thin;background:navy">Oxidant</th>
+              <th align="center" valign="top" style="border:solid thin;background:navy">Products</th>
+              <th align="center" valign="top" style="border:solid thin;background:navy">Ref</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="top" style="border:solid thin"><bold>12</bold></td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">NBS, AIBN (cat)</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">13</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border:solid thin"><bold>12</bold></td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">K<sub>2</sub>O<sub>8</sub>S<sub>2</sub> + CuSO<sub>4</sub> (cat)</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Decomposition</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">[<xref ref-type="bibr" rid="B10-molecules-10-01272">10</xref>]</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border:solid thin"><bold>12</bold></td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Br<sub>2</sub></td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Deprotected</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border:solid thin"><bold>11</bold></td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">KMnO<sub>4</sub>/CuSO<sub>4</sub></td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Decomposition</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">[<xref ref-type="bibr" rid="B11-molecules-10-01272">11</xref>]</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border:solid thin"><bold>11</bold></td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Br<sub>2</sub></td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Decomposition</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border:solid thin"><bold>11</bold></td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">(NH<sub>4</sub>)<sub>2</sub>Ce(NO<sub>3</sub>)<sub>6</sub>  (CAN)</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">Decomposition</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p><sup>1</sup>H- and <sup>13</sup>C-NMR spectra were recorded at 300 and 75 MHz, respectively, on either a Varian Gemini 300 or on a Varian Inova 300 spectrometer. <sup>1</sup>H spectra were referenced to residual protonated solvent (7.26 ppm) while <sup>13</sup>C spectra were referenced to the central peak of the CDCl<sub>3</sub> triplet (77.0 ppm). HMQC and HMBC spectra recorded on a Varian Inova 300 spectrometer were routinely measured to assist in spectra assignment and structural identification. Results are reported in the form &#x3B4;(ppm), integration, mult, <italic>J</italic>, assignment (for <sup>1</sup>H) or &#x3B4;(ppm), assignment (for <sup>13</sup>C). IR spectra were recorded on a Shimadzu FTIR 8400 Series spectrometer as thin films on NaCl discs. ESI-MS spectra were recorded on a FISONS VG QUATTRO II mass spectrometer, operating at  a  cone  voltage between 20 and 70 V, with positive ion detection. EI-MS and HREI-MS were recorded on a VG autospec  mass  spectrometer,  operating  at  70  eV  using  positive  ion  detection.  UV  spectra  were recorded on a Varian Cary 4G UV-Vis spectrophotometer in a 1cm cell. Melting points (mp) are uncorrected and were recorded on an Electrothermal digital melting point apparatus (Electrothermal Eng. Ltd.). Most reagents were obtained from Aldrich Chemical Company and used as supplied.</p>
+      </sec>
+      <sec>
+        <title>General procedure to prepare the ketones \<bold>8</bold> and <bold>9</bold></title>
+        <p>To a stirred solution of methyl 3,5-dimethoxyphenylacetate (<bold>7</bold>) [<xref ref-type="bibr" rid="B9-molecules-10-01272">9</xref>] (1.0 mmol) in toluene (1.5 mL) was added the appropriate anhydride (2.0 mmol) along with perchloric acid (70%, 2 drops initially followed by 1 drop after 18 h). After stirring for 72 h the solution was concentrated <italic>in vacuo</italic> and subjected to flash chromatography (an efficient method to hydrolyze excess anhydride) on a silica column (Pet. Sp/EtOAc 25:75) to give one main fraction containing the product and the appropriate carboxylic acid, which was concentrated <italic>in vacuo</italic> and then extracted with ether, aqueous NaHCO<sub>3</sub> (5%; 3&#xD7;30 mL) and then H<sub>2</sub>O (30 mL). The organic phase was dried (MgSO<sub>4</sub>) and concentrated <italic>in</italic> <italic>vacuo</italic> to return <bold>8</bold> (96%), or <bold>9</bold> (92%) as orange oils.</p>
+        <p><italic>3,5-Dimethoxy-2-hexanoyl-phenylacetic acid methyl ester</italic> (<bold>8</bold>): TLC: R<sub>f</sub>  0.65 [EtOAc/Pet. Sp, 30:70<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01272-i003.tif"/> (v/v)]. IR: &#x3BD; (cm<sup>-1</sup>): 2935 s, 2858 m, 1738 s, 1682 m, 1605 s, 1583 m, 1455 m, 1428 m, 1318 s, 1293 w, 1257 w, 1205 m, 1156 s, 1086 m, 1058 m, 1012 m, 954 w, 835 m. EIMS <italic>m/z</italic>: 308 (M<sup>+&#x22C5;</sup>, 26%), 277 (M-OCH<sub>3</sub>, 17%), 237 (M-(CH<sub>2</sub>)<sub>4</sub>CH<sub>3</sub>, 100%), 209 (M-C(O)(CH<sub>2</sub>)<sub>4</sub>CH<sub>3</sub>, 88%). HREI-MS <italic>m/z</italic>: found 308.1624 (C<sub>17</sub>H<sub>24</sub>O<sub>5</sub> requires  308.1624).  UV (MeOH) &#x3BB;<sub>max</sub> (log &#x3B5;): 201 (3.46), 266 (2.93). <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 6.39 (1H, d, 2.2 Hz, 4-H), 6.37 (1H, d, 2.2Hz, 6-H), 3.81 (3H, s, 3-OCH<sub>3</sub>)*, 3.80 (3H, s, 5-OCH<sub>3</sub>)*, 3.67 (3H, s, -CO<sub>2</sub>CH<sub>3</sub>), 3.62 (2H, s, -C<bold><underline>H</underline></bold><sub>2</sub>CO<sub>2</sub>CH<sub>3</sub>), 2.81 (2H, t, 7.2 Hz, 2'-H), 1.64 (2H, m, 3'-H), 1.31 (4H, m, 4'&amp;5'-H), 0.89 (3H, t, 6.9 Hz, 6'-H). <sup>13</sup>C APT-NMR (CDCl<sub>3</sub>): 206.8 (C-1'), 171.6 (-<bold><underline>C</underline></bold>O<sub>2</sub>CH<sub>3</sub>), 161.2 (C-3)*, 158.8 (C-5)*, 134.3 (C-1), 123.9 (C-2), 107.8 (C-6), 97.4 (C-4), 55.5 (C-3-OCH<sub>3</sub>)<sup>&#x221E;</sup>, 55.3 (C-5-OCH<sub>3</sub>)<sup>&#x221E;</sup>, 51.9 (-CO<sub>2</sub><bold><underline>C</underline></bold>H<sub>3</sub>), 44.3 ( C-2'), 38.7 (-<bold><underline>C</underline></bold>H<sub>2</sub>CO<sub>2</sub>CH<sub>3</sub>), 31.4 (C-4'), 23.7 (C-3'), 22.4 (C-5'), 13.9 (C-6'). Shifts with identical superscripts (*,<sup>&#x221E;</sup>) within a data set are interchangeable.</p>
+        <p><italic>3,5-Dimethoxy-2-pentanoyl-phenylacetic acid methyl ester</italic> (<bold>9</bold>): TLC: R<sub>f</sub>  0.55 [EtOAc/ Pet. Sp, 30:70<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01272-i004.tif"/> (v/v)]. IR: &#x3BD; (cm<sup>-1</sup>): 2957 s, 2871 m, 1740 s, 1686 m, 1603 s, 1460 m, 1433 m, 1319 s, 1294 w, 1263 w, 1205m, 1157 s, 1099 m, 1082 m, 1013 m, 948 w, 835 m. EIMS <italic>m/z</italic>: 294 (M<sub>+&#x22C5;</sub>, 15%), 293 (52%), 275 (14%), 261 (35%), 250 (24%), 234 (100%), 206 (71%), 202 (33%), 176  (20%),  162  (28%),  148  (21%).  HREI-MS  <italic>m/z</italic>:  found  294.1467 (C<sub>16</sub>H<sub>22</sub>O<sub>5</sub>  requires 294.1467). UV (MeOH) &#x3BB;<sub>max</sub>  (log &#x3B5;): 202 (3.45), 263 (2.90). <sub>1</sub>H-NMR (CDC<sub>l3</sub>): 6.39 (1H, d, 2.2 Hz, 4-H), 6.36 (1H, d, 2.2Hz, 6-H), 3.80 (3H, s, 3-OCH<sub>3</sub>)*, 3.79 (3H, s, 5-OCH<sub>3</sub>)*, 3.67 (3H, s, -CO<sub>2</sub>CH<sub>3</sub>), 3.62 (2H, s, -C<bold><underline>H</underline></bold><sub>2</sub>CO<sub>2</sub>CH<sub>3</sub>), 2.82 (2H, t, 7.3 Hz,  2'-H), 1.61 (2H, m, 3'-H), 1.36 (2H, m, 4'-H), 0.91 (3H, t, 7.3 Hz, 5'-H). <sub>13</sub>C APT-NMR (CDCl<sub>3</sub>): 206.5 (C-1'), 171.4 (-<bold><underline>C</underline></bold>O<sub>2</sub>CH<sub>3</sub>), 161.1 (C-3)*, 158.6 (C-5)*, 134.2 (C-1), 123.7 (C-2), 107.8 (C-6), 97.2 (C-4), 55.4 (C-3-OCH<sub>3</sub>)<sup>&#x221E;</sup>, 55.3 (C-5-OCH<sub>3</sub>)&#x221E;, 51.7 (-CO<sub>2</sub><bold><underline>C</underline></bold>H<sub>3</sub>), 43.9 ( C-2'), 38.5 (-<bold><underline>C</underline></bold>H<sub>2</sub>CO<sub>2</sub>CH<sub>3</sub>), 26.0  (C-3'),  22.2  (C-4'),  13.7  (C-5').  Shifts  with  identical  superscripts  (*,<sup>&#x221E;</sup>)  within  a  data  set  are interchangeable.</p>
+        <p><italic>Cyclization of 3,5-dimethoxy-2-hexanoyl-phenylacetic acid methyl ester</italic> (<bold>8</bold>) <italic>with ethoxide, to give the naphthol</italic> (<bold>10</bold>) <italic>and the naphthoquinone</italic> (<bold>11</bold>) <italic>by auto-oxidation.</italic></p>
+        <p>A solution of 3,5-dimethoxy-2-hexanoyl-phenylacetic acid methyl ester (<bold>8</bold>, 95mg, 0.31 mmol) in dry EtOH (10 mL), was added dropwise, over 7 min, to a refluxing solution of sodium ethoxide (prepared from Na (0.42 g) in 10 mL of dry EtOH) under N<sub>2</sub>. After a further 10 min at reflux the reaction mixture was cooled, diluted with ether (30 mL), neutralized with HCl (1M) and then extracted with aqueous NaHCO<sub>3</sub> (5%; 3&#xD7;30 mL) giving a light pink aqueous phase and a yellow organic phase. The ethereal phase was dried (MgSO<sub>4</sub>) and concentrated <italic>in vacuo</italic> to give a crude mixture, which was purified by flash chromatography on a silica column (r = 6 mm, l = 20 cm, silica gel 0.040-0.063 mm; Pet. Sp/EtOAc 25:75), giving 3-butyl-2-hydroxy-5,7-dimethoxy-1,4-naphthoquinone (<bold>11</bold>) (47 mg, 0.16 mmol, 52%) as a bright yellow solid and 2-butyl-6,8-dimethoxy-naphthalene-1,3-diol (<bold>10</bold>) (21 mg, 0.076 mmol, 25%) as a yellow oil, which auto-oxidized to the naphthoquinone (<bold>11</bold>) over several days on exposure to air.</p>
+        <p><italic>Butyl-6,8-dimethoxy-naphthalene-1,3-diol</italic> (<bold>10</bold>): TLC: R<sub>f</sub>  0.48 [EtOAc/ Pet. Sp, 25:75 (v/v)]. IR: &#x3BD;<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01272-i005.tif"/> (cm<sub>-1</sub>): 3402 (s, br), 2932 s, 2858 m, 2362 w, 1636 s, 1597 s, 1448 m, 1404 m, 1371 s, 1338 w, 1246 w, 1209 m, 1150 m, 1107 m, 1041 m. ESI-MS (+ve ion, cv 50V)   <italic>m/z</italic>: 277 (M+H, 100%), 263 (M-CH<sub>3</sub>+H, 10%), 220 (2%), 205 (2%). UV (MeOH) &#x3BB;<sub>max</sub>  (log &#x3B5;):  245 (4.90), 292 (3.91). <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 9.43 (1H, s, 1-OH), 6.55 (1H, s, 4-H), 6.50 (1H, d, 2.1 Hz, 5-H), 6.28  (1H, d, 2.1 Hz, 7-H), 3.98 (3H, s, 8-OCH<sub>3</sub>), 3.85 (3H, s, 6-OCH<sub>3</sub>), 2.74 (2H, t, 7.5 Hz, 1'-H), 1.58 (2H, m, 2'-H), 1.44 (2H, m, 3'-H), 0.94 (3H, t, 7.2 Hz, 4'-H). <sup>13</sup>C APT-NMR (CDCl<sub>3</sub>): 157.5 (C-6)*, 157.0 (C-8) *, 154.6 (C-3)<sub>&#x221E;</sub>, 152.9 (C-1)<sub>&#x221E;</sub>, 135.9 (C-4a), 112.1 (C-2), 106.2 (C-8a), 100.8 (C-4) 98.0 (C-5), 95.4 (C-7), 56.0 (C-8-OCH<sub>3</sub>), 55.3 (C-6-OCH<sub>3</sub>), 31.5 (C-2'), 22.9 (C-1')<sup>&#x394;</sup>, 22.8 (C-3')<sup>&#x394;</sup>, 14.1 (C-4'). Shifts with identical superscripts (*,<sup>&#x221E;,&#x394;</sup>) are interchangeable.</p>
+        <p><italic>Butyl-2-hydroxy-5,7-dimethoxy-1,4-naphthoquinone</italic>  (<bold>11</bold>):  TLC:  R<sub>f</sub> 0.28 [EtOAc/ Pet. Sp, 25:75<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01272-i006.tif"/> (v/v)]. mp: 160&#x221E;C. IR: &#x3BD; (cm<sup>-1</sup>): 3209 m, 2932 m, 2359 m, 1655 m, 1638 s, 1595 m, 1460 m, 1321 s, 1209 s, 1157 m, 1126 w, 1034 w. EIMS  <italic>m/z</italic>:  290  (M<sup>+&#x221E;</sup>,  100%),  248  (M-C<sub>3</sub>H<sub>6</sub>,  43%),  233  (M-(CH<sub>2</sub>)<sub>3</sub>CH<sub>3</sub>,  13%),  219  (35%),  165  (22%).  HREI-MS  <italic>m/z</italic>:  found 290.1163 (C<sub>16</sub>H<sub>18</sub>O<sub>5</sub> requires 290.1154). UV (MeOH) &#x3BB;<sub>max</sub>  (log &#x3B5;): 212 (4.68), 261 (4.51), 304 (4.29). <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 7.25 (1H, d, 2.4 Hz, 8-H), 6.75 (1H, d, 2.4 Hz, 5-H), 3.96 (3H, s, 5-OCH<sub>3</sub>)*, 3.93 (3H, s, 7-OCH<sub>3</sub>)*, 2.56 (2H, t, 7.5 Hz, 1'-H), 1.50 (2H, m, 2'-H), 1.40 (2H, m, 3'-H), 0.92 (3H, t, 7.2 Hz, 4'-H). <sup>13</sup>C APT-NMR (CDCl<sub>3</sub>): 183.6 (C-4)*, 181.7 (C-1)*, 163.7 (C-7)&#x221E;, 161.7 (C-5)&#x221E;, 150.9 (C-2), 133.2 (C-8a), 126.2 (C-3), 114.2 (C-4a), 105.2 (C-6), 103.0 (C-8), 56.4 (C-5-OCH<sub>3</sub>)<sup>&#x394;</sup>, 55.8 (C-7-OCH<sub>3</sub>)<sup>&#x394;</sup>, 30.5 (C-2'), 23.2 (C-1'), 22.9 (C-3'), 13.8(C-4'). Shifts with identical superscripts (*,<sup>&#x221E;,&#x394;</sup>) within a data set are interchangeable.</p>
+        <p><italic>Synthesis of 6,8-dimethoxy-1,3-bis-(2-methoxy-ethoxymethoxy)-2-propyl-naphthalene</italic> (<bold>12</bold>)</p>
+        <p>To a stirred solution of 3,5-dimethoxy-2-pentanoyl-phenylacetic acid methyl ester (<bold>9</bold>, 12.5 mg, 43.1 &#x3BC;mol) in dry DMF (1 mL) under N<sub>2</sub>, was added NaH (50% dispersion in mineral oil; 3.2 mg, 130 &#x3BC;mol). After stirring for 10 min MEM-Cl (35 &#x3BC;L, 38 mg, 0.30 mmol) was added and the solution left stirring overnight before being extracted with ether and water. The ethereal phase was dried (MgSO<sub>4</sub>) and concentrated <italic>in vacuo</italic> to give a crude orange oil, which was purified by flash chromatography (r = 3 mm, l = 5 cm, silica gel 0.040-0.063 mm; Pet. Sp/EtOAc 70:30), to give 6,8-dimethoxy-1,3-bis-(2- methoxy-ethoxymethoxy)-2-propyl-naphthalene (<bold>12</bold>) (5.1 mg, 12 &#x3BC;mol, 27%, unoptimized) as  an orange oil.</p>
+        <p><italic>6,8-Dimethoxy-1,3-bis-(2-methoxy-ethoxymethoxy)-2-propyl-naphthalene</italic>  (<bold>12</bold>): TLC:  R<sub>f</sub> 0.22 [EtOAc/<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01272-i007.tif"/>Pet. Sp, 30:70 (v/v)]. IR: &#x3BD; (cm<sup>-1</sup>): 2932 s, 1622 s, 1580m, 1458 m, 1389 m, 1337 m, 1252 w, 1204 m, 1155 s, 1119 m, 1097 m, 1036 s, 847 w. ESI-MS (+ve ion, cv 50V)   <italic>m/z</italic>: 461 (M+Na, 100%), 239 (M+H, 11%), 373 ([M-MEM]+Na), 28%), 221 (22%). HREI-MS <italic>m/z</italic>: found 438.2258 (C<sub>23</sub>H<sub>34</sub>O<sub>8</sub> requires 438.2254). UV (MeOH) &#x3BB;<sub>max</sub> (log &#x3B5;):  216 (4.25), 242 (4.46), 288 (3.74). <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 7.14 (1H, s, 4-H), 6.65 (1H, d, 2.2 Hz, 5-H), 6.37 (1H, d, 2.2 Hz, 7-H), 5.38 (2H, s, 1'''-H), 5.12 (2H, s, 1'-H), 4.00-3.57 (8H, m, {3'-H, 4'-H, 3'''-H, 4'''-H}), 3.90 (3H, s, 8-OCH<sub>3</sub>)*, 3.86 (3H, s, 6-OCH<sub>3</sub>)*, 3.40 (3H, s, 6'-H)<sub>&#x221E;</sub>, 3.39 (3H, s, 6'''-H)<sub>&#x221E;</sub>, 2.80 (2H, t, 7.5 Hz, 1''-H), 1.60 (2H, m, 2''-H), 0.97 (3H, t, 7.3 Hz, 3''-H). <sub>13</sub>C APT-NMR (CDCl<sub>3</sub>): 157.6 (C-8), 156.4 (C-6), 154.9 (C-3), 151.5 (C-1), 136.6 (C-4a), 123.4 (C-2), 111.3 (C-8a), 105.2 (C-4), 100.2 (C-1')&#x2217;, 98.5 (C-5), 97.0 (C-7), 93.3 (C-1''')&#x2217;, 71.7 (C-4')<sup>&#x394;</sup>, 71.6 (C-4''')<sup>&#x394;</sup>, 69.2 (C-3'), 67.6 (C-3'''), 59.1 (C-6')<sup>&#x3A8;</sup>, 59.0 (C-6''')<sup>&#x3A8;</sup>, 55.8 (C-8-OCH<sub>3</sub>)<sup>&#x3A9;</sup>, 55.2 (C-6-OCH<sub>3</sub>)<sup>&#x3A9;</sup>, 26.5 (C-2''), 23.2 (C-1''), 14.5 (C-3''). Shifts with identical superscripts (*,<sup>&#x221E;,&#x394;,&#x3A8;,&#x3A9;</sup>) within a data set are interchangeable.</p>
+        <p><italic>NBS  Bromination  of</italic>  <bold>12</bold><italic>:  Synthesis  of  5-Bromo-6,8-dimethoxy-1,3-bis-(2-methoxy-ethoxymethoxy)-2- propyl-naphthalene</italic> (<bold>13</bold>)</p>
+        <p>To a solution  of  6,8-dimethoxy-1,3-bis-(2-methoxy-ethoxymethoxy)-2-propyl-naphthalene  (<bold>12</bold>) (10 mg, 0.023 mmol) in CCl<sub>4</sub> (4 mL) was added <italic>N</italic>-bromosuccinimide (5.1 mg, 0.031 mmol) and a catalytic amount of AIBN. The solution was refluxed until all the starting material had been consumed (TLC), and was then extracted with ether (30 mL) and aqueous NaHCO<sub>3</sub> (5%; 30 mL). The ethereal phase was concentrated <italic>in vacuo</italic> and the resulting crude oil was purified on a short flash chromatography column (r = 2.5 mm, l = 5 cm, silica gel 0.040-0.063 mm; 2% MeOH in DCM), to give the ring-brominated naphthalene (<bold>13</bold>), (4 mg, 8 &#x3BC;mol, 34%).</p>
+        <p><italic>5-Bromo-6,8-dimethoxy-1,3-bis-(2-methoxy-ethoxymethoxy)-2-propyl-naphthalene</italic>  (<bold>13</bold>):  TLC: R<sub>f</sub> 0.32<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01272-i008.tif"/> [MeOH/ DCM, 2:98 (v/v)]. ESI-EIMS (+ve ion, cv 20 V) <italic>m/z</italic>: 541 (M+Na, <sup>81</sup>Br, 100%), 539 (M+Na, <sup>79</sup>Br, 100%), 519 (M+H, <sup>81</sup>Br, 55%), 517 (M+H, <sup>79</sup>Br, 55%). HREI-MS <italic>m/z</italic>: found 516.1356 (C<sub>23</sub>H<sub>33</sub>O<sub>8</sub><sup>79</sup>Br<sub>1</sub>  requires 516.1359). <sup>1</sup>H-NMR (CDCl<sub>3</sub>): 7.65 (1H, s, 7-H), 6.55 (1H, s, 4-H), 5.43 (2H, s, 1'''-H), 5.10 (2H,  s, 1'-H),  4.00 (3H,  s, 8-OCH<sub>3</sub>)*, 3.97 (3H, s, 6-OCH<sub>3</sub>)*, 3.87 (4H, m, (3'-H, 3'''-H))<sup>&#x221E;</sup>, 3.61 (4H, m, (4'-H, 4'''-H))<sup>&#x221E;</sup>, 3.40 (6H, s (coincident), 6'-H &amp; 6'''-H), 2.82 (2H, t, 7.8 Hz, 1''-H), 1.58 (2H, m, 2''-H), 0.98 (3H, t, 7.4 Hz, 3''-H). Shifts with identical superscripts (*,<sup>&#x221E;</sup>) within a data set are interchangeable.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01272">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silva</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Gomes</surname>
+              <given-names>E.T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Nat. Prod.</source>
+          <year>2003</year>
+          <volume>66</volume>
+          <fpage>447</fpage>
+          <lpage>449</lpage>
+          <pub-id pub-id-type="doi">10.1021/np0204904</pub-id>
+          <pub-id pub-id-type="pmid">12662113</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01272">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ashley</surname>
+              <given-names>J.N.</given-names>
+            </name>
+            <name>
+              <surname>Hobbs</surname>
+              <given-names>B.C.</given-names>
+            </name>
+            <name>
+              <surname>Raistrick</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Biochem. J.</source>
+          <year>1937</year>
+          <volume>31</volume>
+          <fpage>385</fpage>
+          <lpage>397</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01272">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stout</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Jensen</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Crystallogr</source>
+          <year>1962</year>
+          <volume>15</volume>
+          <fpage>451</fpage>
+          <lpage>457</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01272">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Takahashi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Maoka</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Tsushima</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fujitani</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kozuka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Matsuno</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Shingu</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2002</year>
+          <volume>12</volume>
+          <fpage>1609</fpage>
+          <lpage>1612</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.50.1609</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01272">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shibata</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Morishita</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Pharm. Bull.</source>
+          <year>1963</year>
+          <volume>11</volume>
+          <fpage>821</fpage>
+          <lpage>823</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.11.821</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01272">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bycroft</surname>
+              <given-names>B.W.</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>J.C.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Soc. J.</source>
+          <year>1963</year>
+          <fpage>4868</fpage>
+          <lpage>4872</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01272">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abell</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Bush</surname>
+              <given-names>B.D.</given-names>
+            </name>
+            <name>
+              <surname>Staunton</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1986</year>
+          <fpage>15</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="doi">10.1039/c39860000015</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01272">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rideout</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>I.R.</given-names>
+            </name>
+            <name>
+              <surname>Sutherland</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <source>Aust. J. Chem.</source>
+          <year>1976</year>
+          <volume>29</volume>
+          <fpage>1087</fpage>
+          <lpage>1098</lpage>
+        </citation>
+      </ref>
+	  <ref id="B9-molecules-10-01272">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pang</surname>
+              <given-names>Y.P.</given-names>
+            </name>
+            <name>
+              <surname>Kozikowski</surname>
+              <given-names>A.P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1991</year>
+          <volume>56</volume>
+          <fpage>4499</fpage>
+          <lpage>508</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01272">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhatt</surname>
+              <given-names>M.V.</given-names>
+            </name>
+            <name>
+              <surname>Perumal</surname>
+              <given-names>P.T.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1981</year>
+          <volume>22</volume>
+          <fpage>2605</fpage>
+          <lpage>2608</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01272">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noureldin</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>D.G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1997</year>
+          <volume>62</volume>
+          <fpage>8767</fpage>
+          <lpage>8772</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo971168e</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Not available</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

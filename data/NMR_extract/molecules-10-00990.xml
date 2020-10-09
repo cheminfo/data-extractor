@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10080990</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00990</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 4'-(2,6,6-Trimethyl-2-Cyclohexen-1-yl)-3'-Buten-2'-Ketoxime-N-O-Alkyl Ethers</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Banerjee</surname>
+            <given-names>Tirthankar</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dureja</surname>
+            <given-names>Prem</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00990" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00990">Division of Agricultural Chemicals, Indian Agricultural Research Institute, New Delhi &#x2013; 110 012 India</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00990"><label>*</label> Author to whom correspondence should be addressed; E-mail: <email>Pd_dureja@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>8</issue>
+      <fpage>990</fpage>
+      <lpage>999</lpage>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>04</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>23</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>4'-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-3'-buten-2'-ketoxime-N-O-alkyl ethers have been synthesized starting from &#x3B1;-ionone, separated into their <italic>E</italic> and <italic>Z</italic> isomers and characterized on the basis of <sup>1</sup>H-NMR and mass spectra.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>&#x3B1;-Ionone</kwd>
+		<kwd>Condensation reaction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Interest in the oxime ether group of pesticides has grown considerably in recent years because of their overall impact on the insect endocrine system. Among the oxime ether group of insect growth regulators acetaldoxime ether showed high activity against <italic>M. domestica</italic> [<xref ref-type="bibr" rid="B1-molecules-10-00990">1</xref>]. A variety of terpenoid juvenile hormone (JH) analogues have been introduced [<xref ref-type="bibr" rid="B2-molecules-10-00990">2</xref>] and some of them such as methoprene are now in practical use for control of major insect pests. Most of the earlier JH analogues have terpenoid or sesquiterpenoid structures [<xref ref-type="bibr" rid="B3-molecules-10-00990">3</xref>]. A number of oxime ethers of terpenes are also known as insect growth regulators [<xref ref-type="bibr" rid="B4-molecules-10-00990">4</xref>]. Based on this observation, we report in this paper the synthesis of some oxime ethers of &#x3B1;-ionone and their separation into the corresponding <italic>E</italic> and <italic>Z</italic> isomers.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>4'-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-3'-buten-2'-ketoxime needed for preparation of the corresponding oxime N-O-alkyl ethers was obtained by reacting &#x3B1;-ionone with hydroxylamine hydrochloride. It was identified based on its <sup>1</sup>H-NMR spectrum. The oximes are usually obtained as a 1:1 mixture of <italic>E</italic> and <italic>Z</italic> isomers inseparable by conventional chromatographic techniques. The 4&#x2019;-(2,6,6-trimethyl-2-cyclohexen-1-yl)-3'-buten-2'-ketoxime was then reacted with an appropriate  alkyl halide (<xref ref-type="scheme" rid="molecules-10-00990-f001">Scheme I</xref>) to furnish the oxime ethers, which were separated into their geometric isomers by column chromatography.</p>
+      <fig id="molecules-10-00990-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00990-f001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00990-g001.tif"/>
+		<p>R = CH<sub>3</sub>, C<sub>2</sub>H<sub>5</sub>, C<sub>3</sub>H<sub>7</sub>, CH(CH<sub>3</sub>)<sub>2</sub>, C<sub>4</sub>H<sub>9</sub>, CH<sub>2</sub>CH(CH<sub>3</sub>)<sub>2</sub>, C<sub>5</sub>H<sub>11</sub>, C<sub>2</sub>H<sub>4</sub>CH(CH<sub>3</sub>)<sub>2</sub>, C<sub>6</sub>H<sub>13</sub>, C<sub>7</sub>H<sub>15</sub>, C<sub>8</sub>H<sub>17</sub> and C<sub>10</sub>H<sub>21</sub>.</p>
+      </fig>
+      <p>The geometric isomers of the ketoximes are indicated by <italic>E</italic> and <italic>Z</italic> nomenclature used to designate the geometrical relations of the groups around a double bond, taking the unshared pair of electrons at the nitrogen atom at the lowest priority group. An unequivocal assignment of their stereochemistry was accomplished by <sup>1</sup>H&#x2013;NMR. Under the reaction conditions shown in the Experimental, <italic>E</italic>-oximes were the predominant products and the <italic>E/Z</italic> ratio calculated by GLC was ca. 2/1.</p>
+      <p>Formation of oxime ethers was characterized by the appearance of a two proton triplet at &#x3B4; 4.08 - 4.12 due to O-CH<sub>2</sub> (j) with a coupling constant (<italic>J</italic>) value of 3 Hz. The values assigned by <sup>1</sup>H-NMR to each proton in the <italic>E</italic> and <italic>Z</italic> isomers of 4'-(2,6,6- trimethyl-2-cyclohexen-1-yl)-3'-buten-2'-ketoxime-N-O-propyl ether (<bold>3</bold>) are given in <xref ref-type="table" rid="molecules-10-00990-t001">Table 1</xref> as a  specific example. Product I showed two three proton singlets at &#x3B4; 0.94 and 0.92 due to CH<sub>3</sub> (e) and CH<sub>3</sub> (f), whereas in product II one six proton singlet was observed downfield at &#x3B4; 1.26 for CH<sub>3</sub>  (e) and CH<sub>3</sub>  (f). Similarly, a one proton doublet was found at &#x3B4; 6.10 due to =CH (h) in the I isomer, but was found downfield at &#x3B4; 6.75 in the case of the II product. The difference in the chemical shifts of the methyl protons in the I and II products is due to different anisotropic shielding in the isomers with their fixed geometries [<xref ref-type="bibr" rid="B5-molecules-10-00990">5</xref>]. The presence of signals due to CH<sub>3</sub> (e), CH<sub>3</sub> (f) and =CH (h) upfield in the product I as compared to the II one indicated that the <italic>O</italic>-propyl group is <italic>syn</italic> to the methyl group (i) in the product I, whereas it is <italic>anti</italic> to this methyl group (i) in the product II (<xref ref-type="table" rid="molecules-10-00990-t001">Table 1</xref>). Thus based on the <sup>1</sup>H&#x2013;NMR data, product <italic>I</italic> was assigned as the <italic>E</italic> configuration and product II as the <italic>Z</italic> configuration</p>
+      <table-wrap id="molecules-10-00990-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00990-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p><sup>1</sup>H-NMR of spectral data of the <italic>E</italic> and <italic>Z</italic> isomers of 4'-(2,6,6- trimethyl-2-cyclohexen-1-yl)-3'-buten-2'-ketoxime-N-O-propyl ether</p>
+		  <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00990-i001.tif"/></p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Isomer</th>
+              <th colspan="13" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">&#x3B4; (ppm)</th>
+            </tr>
+            <tr>
+              <th align="center" valign="middle" style="border-bottom:solid thin">a</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">b</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">c</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">d</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">e</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">f</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">g</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">h</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">i</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">j</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">k</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">l</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">m</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle"><bold>3(I)</bold></td>
+              <td align="center" valign="middle"> 1.57</td>
+              <td align="center" valign="middle"> 5.43</td>
+              <td align="center" valign="middle"> 1.57</td>
+              <td align="center" valign="middle"> 1.57</td>
+              <td align="center" valign="middle"> 0.94</td>
+              <td align="center" valign="middle"> 0.92</td>
+              <td align="center" valign="middle"> 5.83</td>
+              <td align="center" valign="middle"> 6.10</td>
+              <td align="center" valign="middle"> 1.94</td>
+              <td align="center" valign="middle"> 4.12</td>
+              <td align="center" valign="middle"> 2.02</td>
+              <td align="center" valign="middle"> 0.90</td>
+              <td align="center" valign="middle"> 2.23</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><bold>3(II)</bold></td>
+              <td align="center" valign="middle">1.58</td>
+              <td align="center" valign="middle">5.45</td>
+              <td align="center" valign="middle">1.58</td>
+              <td align="center" valign="middle">1.58</td>
+              <td align="center" valign="middle">1.26</td>
+              <td align="center" valign="middle">1.26</td>
+              <td align="center" valign="middle">5.90</td>
+              <td align="center" valign="middle">6.75</td>
+              <td align="center" valign="middle">1.97</td>
+              <td align="center" valign="middle">4.08</td>
+              <td align="center" valign="middle">2.01</td>
+              <td align="center" valign="middle">0.91</td>
+              <td align="center" valign="middle">2.00</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>Both products showed the same molecular ion peak (M<sup>+</sup>= 249) indicating that they are isomeric. A distinct difference in the percent relative abundance with respect to the base peak has been observed in the products I and II, which showed base peaks at m/z 134 and 83, respectively. Thus on the basis of combined <sup>1</sup>H-NMR  and mass  spectroscopy data,  products <bold>3(I)</bold> and 3(II) were  characterized as 4'-(2,6,6-trimethyl-2-cyclohexen-1-yl)-3'-buten-2'(<italic>E</italic>)-ketoxime-N-O-propyl ether and 4&#x2019;-(2,6,6-trimethyl-2-cyclohexen-1-yl)-3'-buten-2'(<italic>Z</italic>)-ketoxime-N-O-propyl ether, respectively.  The  2&#x2019;  stereochemistry was similarly assigned for the other ketoxime &#x2013;N-O-alkyl ethers. The <sup>1</sup>H-NMR and mass spectra of the other oxime ethers are given in <xref ref-type="table" rid="molecules-10-00990-t002">Table 2</xref>.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>&#x3B1;-Ionone required for the study was procured from Fluka Chemika. Different alkyl halides, sodium hydride and hydroxylamine hydrochloride were procured locally and used without further purification. Thin Layer Chromatography (TLC) was performed on 20 x 20 cm<sup>2</sup> glass plates coated with 0.5 mm silica gel G, containing 10 per cent gypsum (as binder) and pre-activated at 120&#xB0;C. The plates were developed in a suitable solvent system [hexane-acetone (90:10 or 80:20)] and visualized by iodine vapors. Isomers were separated by column chromatography using a glass column (75 cm x 2 cm i.d.) containing 50g 60 &#x2013; 120 mesh pre-activated silica gel slurried in hexane and eluting with hexane and hexane and chloroform in different ratios. Different fractions (25 mL) were collected and distilled on a water bath. The fraction containing the same products (as monitored by TLC) were combined and purified further. Ratio of <italic>E</italic> and <italic>Z</italic> isomers was analyzed with a gas liquid chromatograph  (GLC) (Hewlett Packard Model 5890, Series II gas liquid chromatograph, equipped with a flame ionization detector and a capillary column [HP-1, methyl silicone gum, 10 m x 0.53 mm i.d. and 2.65 mm film thickness], coupled with a Hewlett Packard 3390A integrator). The operating conditions  were  as follows: oven, injector and detector temperatures at 150, 250 and 250&#xB0;C, respectively. Nitrogen was used as a carrier gas with a flow rate of 20 mL min<sup>-1</sup>. The proton nuclear magnetic resonance spectra (<sup>1</sup>H-NMR) were recorded on a Varian EM 360 L (60 MHz) and on a Bruker 300 AC (300 MHz) instrument. The solvents used were carbon tetrachloride (CCl<sub>4</sub>) and deuteriochloroform (CDCl<sub>3</sub>) containing tetramethylsilane ((CH<sub>3</sub>)<sub>4</sub>Si, TMS) as the internal standard. The chemical shifts  are expressed in &#x3B4; values (ppm) and coupling constant (<italic>J</italic>) are given in hertz (Hz). Mass spectra were recorded on a HRGC - MEGA 2 series gas chromatograph coupled to a FISONS - TRIO 1000 ion trap mass spectrometer and connected to a Panasonic KX - P1150 multi-mode printer.  The  ionization potential was 70 eV.</p>
+        <p><italic>4'-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-3'-buten-2'-ketoxime</italic>:   Hydroxylamine   hydrochloride   (0.75   g, 0.011 mole) was added to a stirred solution of &#x3B1;-ionone (1.9g, 0.01 mole) dissolved in dry and distilled ethyl alcohol (25 mL) (see <xref ref-type="scheme" rid="molecules-10-00990-f001">Scheme 1</xref>). Stirring was continued  for another  2 h with simultaneous monitoring by TLC (solvent system: hexane-acetone 80:20, R<sub>f</sub> = 0.33).  After  completion  of  the reaction, the reaction mixture was poured into water and extracted with diethyl ether (3 x 25 mL). The combined diethyl ether extracts were washed with water, dried over anhydrous sodium sulphate, and concentrated <italic>in vacuo</italic>, which produced an amber colored oily liquid, which was used directly in subsequent reactions.</p>
+      </sec>
+      <sec>
+        <title>General Procedure for Preparation of 4'-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-3'-buten-2'-ketoxime-N-O-alkyl ethers:</title>
+        <p>Dimethyl sulfoxide (dried over molecular sieves, 5mL) was slowly added with stirring to sodium hydride (0.024 g, 0.01mol, &#x201C;weighed in a dry box&#x201D;) in an atmosphere of dry nitrogen. The stirring was continued further until the evolution of hydrogen ceased. To the above stirred solution, 4'-(2,6,6-trimethyl-2-cyclohexen-1-yl)-3'-buten-2'-ketoxime (0.01 mole) was added dropwise maintaining the temperature at 5&#xB0;C (ice bath). The reaction mixture was stirred for another 1 hour, which was followed by addition of the appropriate alkyl halide (0.011 mole), and stirring for another 2 hours. The progress of the reaction was monitored by TLC (hexane-acetone, 90:10). After completion of the reaction, the reaction mixture was poured into cold water and extracted with ethyl acetate (3 x 25 mL). The ethyl acetate layer was separated, washed with water, dried over anhydrous sodium sulphate, and concentrated <italic>in vacuo</italic>, which produced an oily residue. The oily residue was applied to a silica gel column that then was eluted with hexane and hexane-chloroform (90:10), giving the corresponding <italic>E</italic> and <italic>Z</italic> oxime O-ethers. Thus 12 different compounds were prepared using the above methods and separated into their <italic>two</italic> isomers. The NMR and mass spectral data of these compounds are reported in <xref ref-type="table" rid="molecules-10-00990-t002">Table 2</xref>.</p>
+        <table-wrap id="molecules-10-00990-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00990-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p><sup>1</sup>H-NMR and mass spectral data of 4'-(2,6,6-trimethyl-2-cyclohexen-1-yl)-3'-buten-2'-ketoxime-N-O-alkyl ethers</p>
+			<p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00990-i002.tif"/></p>
+          </caption>
+          <table>
+            <tbody>
+              <tr>
+                <td align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">Comp. No.</td>
+                <td align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">R</td>
+                <td align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">R<sub>f</sub> (TLC)**</td>
+                <td align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"><sup>1</sup>H-NMR (&#x3B4;)</td>
+                <td align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">MS  m/z (%)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">1(I)</td>
+                <td align="center" valign="top">CH<sub>3</sub></td>
+                <td align="center" valign="top">0.61</td>
+                <td align="left" valign="top">6.04 (1H, h, d, 
+                <italic>J</italic>=8Hz), 5.81 (1H, g, dd, <italic>J</italic>=3Hz), 5.43 (1H, b, s), 3.84 (2H, j, s), 2.23 (1H, m, d, <italic>J</italic> =3Hz), 1.94 (3H, i, s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3Hz), 1.58 (2H, d, t, <italic>J</italic>= 3Hz), 1.57 (3H, a, s), 1.42 (1H, c<sub>1</sub>, q, <italic>J</italic>=3Hz), 0.94 (3H, e, s), 0.92 (3H, f, s).</td>
+                <td align="left" valign="top">221 (M<sup>+</sup>, 89), 203 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28),  134  (100),  119  (22), 117 (13), 107 (35), 105 (20), 93 (83), 91 (60), 85 (7), 83 (12), 79 (25), 77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">1(II)</td>
+                <td align="center" valign="top">CH<sub>3</sub></td>
+                <td align="center" valign="top">0.33</td>
+                <td align="left" valign="top">6.57 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.79 (1H, g, dd, <italic>J</italic>=3Hz ), 5.46 (1H, b, s), 3.87 (2H, j, s), 2.00 (1H, m, d, <italic>J</italic> =3 Hz), 1.97 (3H, i, s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58(2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s).</td>
+                <td align="left" valign="top">221 (M<sup>+</sup>, 7), 207 (2), 193 (5), 178 (4), 150 (5), 136 (3), 134 (10), 119 (5), 117 (4), 107 (5), 105 (3), 93 (17), 91 (14), 85 (92), 83 (100), 79 (5), 77 (7).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">2(I)</td>
+                <td align="center" valign="top">C<sub>2</sub>H<sub>5</sub></td>
+                <td align="center" valign="top">0.67</td>
+                <td align="left" valign="top">6.11 (1H, h, d, 
+                <italic>J</italic>=8Hz), 5.85 (1H, g, dd, <italic>J</italic>=3Hz), 5.42 (1H, b, s), 4.1 (2H, j, q, <italic>J</italic>=3Hz), 2.23 (1H, m, d, <italic>J</italic>=3Hz), 2.01 (3H, l, t, <italic>J</italic>=3Hz), 1.94 (3H, i, s), 1.71 (1H,  c<sub>2</sub>,  q,  J=  3Hz),  1.58  (2H,  d,  t, <italic>J</italic>=3Hz), 1.57 (3H, a, s), 1.42 (1H, c<sub>1</sub>, q, <italic>J</italic>= 3Hz), 0.94 (3H, e, s), 0.92 (3H, f, s).</td>
+                <td align="left" valign="top">235 (M<sup>+</sup>, 89), 217 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28),  134  (100),  119  (22), 117 (13), 107 (35), 105 (20), 93 (83), 91 (60), 85 (7), 83 (12), 79 (25), 77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">2(II)</td>
+                <td align="center" valign="top">C<sub>2</sub>H<sub>5</sub></td>
+                <td align="center" valign="top">0.34</td>
+                <td align="left" valign="top">6.67 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.83 (1H, g, dd, <italic>J</italic>=3Hz ), 5.4 (1H, b, s), 4.08 (2H, j, q, <italic>J</italic>=3 Hz), 2.06 (3H, l, t, <italic>J</italic>=3 Hz), 2.00 (1H, m, d, <italic>J</italic>=3 Hz), 1.97 (3H, i, s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58 (2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s).</td>
+                <td align="left" valign="top">235 (M<sup>+</sup>, 7), 207 (2), 193 (5), 178 (4), 150 (5), 136 (3), 134 (10), 119 (5), 117 (4), 107 (5), 105 (3), 93 (17), 91 (14), 85 (92), 83 (100), 79 (5), 77 (7).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">3(I)</td>
+                <td align="center" valign="top">C<sub>3</sub>H<sub>7</sub></td>
+                <td align="center" valign="top">0.75</td>
+                <td align="left" valign="top">6.10 (1H, h, d, 
+                <italic>J</italic>=8Hz), 5.83 (1H, g, dd, <italic>J</italic>=3Hz), 5.43 (1H, b, s), 4.12 (2H, j, t, <italic>J</italic>= 3Hz), 2.23 (1H, m, d, <italic>J</italic>=3Hz), 1.94 (3H, i, s), 2.02 (2H, k, m), 1.71(1H, c<sub>2</sub>, q, <italic>J</italic>= 3Hz), 1.58 (2H, d, t, <italic>J</italic>=3Hz), 1.57 (3H, a, s), 1.42 (1H, c<sub>1</sub>, q, <italic>J</italic>=3Hz), 0.94 (3H, e, s), 0.92 (3H, f, s), 0.90 (3H, l, t, <italic>J</italic>= 3Hz).</td>
+                <td align="left" valign="top">249 (M<sup>+</sup>, 89), 234 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28), 134 (100), 119 (22), 117  (13),  107  (35),  105 (20), 93 (83), 91 (60), 85 (7),  83  (12),  79  (25),  77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">3(II)</td>
+                <td align="center" valign="top">C<sub>3</sub>H<sub>7</sub></td>
+                <td align="center" valign="top">0.39</td>
+                <td align="left" valign="top">6.75 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.90 (1H, g, dd, <italic>J</italic>=3Hz ), 5.45 (1H, b, s), 4.08 (2H, j, t, <italic>J</italic>= 3 Hz), 2.01 (2H, k, m), 2.00 (1H, m, d, <italic>J</italic>=3 Hz), 1.97 (3H, i, s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58 (2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s), 0.91 (3H, l, t, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">249 (M<sup>+</sup>, 7), 207 (2), 193 (5), 178 (4), 150 (5), 136 (3), 134 (10), 119 (5), 117 (4),  107  (5),  105  (3),  93 (17), 91 (14), 85 (92), 83 (100), 79 (5), 77 (7).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">4(I)</td>
+                <td align="center" valign="top">CH(CH<sub>3</sub>)<sub>2</sub></td>
+                <td align="center" valign="top">0.75</td>
+                <td align="left" valign="top">6.19 (1H, h, d, 
+                <italic>J</italic>=8Hz), 5.83 (1H, g, dd, <italic>J</italic>=3Hz), 5.43 (1H, b, s), 4.23 (2H, j, h, <italic>J</italic>= 3Hz), 2.23 (1H, m, d, <italic>J</italic>=3Hz), 2.02 (6H, l, d, <italic>J</italic>=3Hz), 1.94 (3H, i, s), 1.71 (1H,  c<sub>2</sub>,  q,  <italic>J</italic>=3Hz),  1.58  (2H,  d,  t, <italic>J</italic>=3Hz), 1.57 (3H, a, s), 1.42 (1H, c<sub>1</sub>, q, <italic>J</italic>=3Hz), 0.94 (3H, e, s), 0.92 (3H, f, s).</td>
+                <td align="left" valign="top">249 (M<sup>+</sup>, 89), 234 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28), 134 (100), 119 (22), 117 (13%),  107  (35),  105 (20), 93 (83), 91 (60), 85 (7),  83  (12),  79  (25),  77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">4(II)</td>
+                <td align="center" valign="top">CH(CH<sub>3</sub>)<sub>2</sub></td>
+                <td align="center" valign="top">0.39</td>
+                <td align="left" valign="top">6.83 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.90 (1H, g, dd, <italic>J</italic>=3Hz ), 5.45 (1H, b, s), 4.26 (2H, j, h, <italic>J</italic>=3 Hz), 2.03 (6H, l, d, <italic>J</italic>=3 Hz), 2.00 (1H,  m,  d,  <italic>J</italic>=3  Hz),  1.97  (3H,  i,  s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58 (2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s),</td>
+                <td align="left" valign="top">249 (M<sup>+</sup>, 7), 207 (2), 193 (5), 178 (4), 150 (5), 136 (3), 134 (10), 119 (5), 117 (4),  107  (5),  105  (3),  93 (17), 91 (14), 85 (92), 83 (100), 79 (5), 77 (7).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">5(I)</td>
+                <td align="center" valign="top">C<sub>4</sub>H<sub>9</sub></td>
+                <td align="center" valign="top">0.76</td>
+                <td align="left" valign="top">6.16 (1H, h, d, 
+                <italic>J</italic>=8Hz), 5.84 (1H, g, dd, <italic>J</italic>=3Hz), 5.4 (1H, b, s), 4.0 (2H, j, t, <italic>J</italic>= 3Hz), 2.23 (1H, m, d, <italic>J</italic>=3Hz), 1.94 (3H, I, s), 2.02 (4H, k, m), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3Hz), 1.58 (2H, d, t, <italic>J</italic>=3Hz), 1.57 (3H, a, s), 1.42 (1H, c<sub>1</sub>, q, <italic>J</italic>=3Hz), 0.94 (3H, e, s), 0.92 (3H, f, s), 0.90 (3H, l, t, <italic>J</italic>=3Hz).</td>
+                <td align="left" valign="top">263 (M<sup>+</sup>, 89), 248 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28), 134 (100), 119 (22), 117  (13),  107  (35),  105 (20), 93 (83), 91 (60), 85 (7),  83  (12),  79  (25),  77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">5(II)</td>
+                <td align="center" valign="top">C<sub>4</sub>H<sub>9</sub></td>
+                <td align="center" valign="top">0.41</td>
+                <td align="left" valign="top">6.83 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.68 (1H, g, dd, <italic>J</italic>=3Hz ), 5.37 (1H, b, s), 4.12 (2H, j, t, <italic>J</italic>=3 Hz), 2.01 (4H, k, m), 2.00 (1H, m, d, <italic>J</italic>=3 Hz), 1.97 (3H, I, s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58 (2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, J=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s), 0.91 (3H, l, t, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">263 (M<sup>+</sup>, 7), 207 (2), 193 (5), 178 (4), 150 (5), 136 (3), 134 (10), 119 (5), 117 (4),  107  (5),  105  (3),  93 (17), 91 (14), 85 (92), 83 (100), 79 (5), 77 (7).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">6(I)</td>
+                <td align="center" valign="top">CH<sub>2</sub>CH(CH<sub>3</sub>)<sub>2</sub></td>
+                <td align="center" valign="top">0.76</td>
+                <td align="left" valign="top">6.10 (1H, h, d, 
+                <italic>J</italic>=8Hz), 5.87 (1H, g, dd, <italic>J</italic>=3Hz), 5.4 (1H, b, s), 3.8 (2H, j, d, <italic>J</italic>=3Hz), 2.23 (1H, m, d, <italic>J</italic>=3Hz), 1.94 (3H, I, s), 2.02 (1H, k, m), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3Hz), 1.58 (2H, d, t, <italic>J</italic>=3Hz), 1.57 (3H, a, s), 1.42(1H, c<sub>1</sub>, q, <italic>J</italic>=3Hz), 0.94(3H, e, s), 0.92(3H, f, s), 0.90 (6H, l, d, <italic>J</italic>=3Hz).</td>
+                <td align="left" valign="top">263 (M<sup>+</sup>, 89), 248 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28), 134 (100), 119 (22), 117  (13),  107  (35),  105 (20), 93 (83), 91 (60), 85 (7),  83  (12),  79  (25),  77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">6(II)</td>
+                <td align="center" valign="top">CH<sub>2</sub>CH(CH<sub>3</sub>)<sub>2</sub></td>
+                <td align="center" valign="top">0.44</td>
+                <td align="left" valign="top">6.8 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.90 (1H, g, dd, <italic>J</italic>=3Hz ), 5.45 (1H, b, s), 3.84 (2H, j, d, <italic>J</italic>=3 Hz), 2.01 (1H, k, m), 2.00 (1H, m, d, <italic>J</italic>=3 Hz), 1.97 (3H, i, s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58(2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s), 0.91 (6H, l, d, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">263  (M<sup>+</sup>,  7%),  207  (2%), 193  (5%),  178  (4%),  150 (5%), 136 (3%), 134 (10%), 119  (5%),  117  (4%),  107 (5%), 105 (3%), 93 (17%), 91  (14%),  85  (92%),  83 (100%), 79 (5%), 77 (7%).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">7(I)</td>
+                <td align="center" valign="top">C<sub>5</sub>H<sub>11</sub></td>
+                <td align="center" valign="top">0.83</td>
+                <td align="left" valign="top">6.23 (1H, h, d, 
+                <italic>J</italic>=8Hz), 5.84 (1H, g, dd, <italic>J</italic>=3Hz), 5.42 (1H, b, s), 4.0 (2H, j, t, <italic>J</italic>= 3Hz), 2.23 (1H, m, d, <italic>J</italic>=3Hz), 1.94 (3H, i, s), 2.02 (6H, k, m), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3Hz), 1.58 (2H, d, t, <italic>J</italic> =3Hz), 1.57 (3H, a, s), 1.42 (1H, c<sub>1</sub>, q, <italic>J</italic>=3Hz), 0.94 (3H, e,  s),  0.92  (3H,  f,  s),  0.90  (3H,  l,  t, <italic>J</italic>=3Hz).</td>
+                <td align="left" valign="top">277 (M<sup>+</sup>, 89), 262 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28), 134 (100), 119 (22), 117  (13),  107  (35),  105 (20), 93 (83), 91 (60), 85 (7),  83  (12),  79  (25),  77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">7(II)</td>
+                <td align="center" valign="top">C<sub>5</sub>H<sub>11</sub></td>
+                <td align="center" valign="top">0.47</td>
+                <td align="left" valign="top">6.96 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.72 (1H, g, dd, <italic>J</italic>=3Hz ), 5.39 (1H, b, s), 4.08 (2H, j, t, <italic>J</italic>=3 Hz), 2.01 (6H, k, m), 2.00 (1H, m, d, J=3 Hz), 1.97 (3H, i, s), 1.71 (1H, c<sub>2</sub>, q, J=3 Hz), 1.58 (2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s), 0.91 (3H, l, t, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">277 (M<sup>+</sup>, 7), 207 (2), 193 (5), 178 (4), 150 (5), 136 (3), 134 (10), 119 (5), 117 (4),  107  (5),  105  (3),  93 (17), 91 (14), 85 (92), 83 (100), 79 (5), 77 (7).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">8(I)</td>
+                <td align="center" valign="top">C<sub>2</sub>H<sub>4</sub>CH(CH<sub>3</sub>)<sub>2</sub></td>
+                <td align="center" valign="top">0.83</td>
+                <td align="left" valign="top">6.23 (1H, h, d, 
+                <italic>J</italic>=8Hz), 5.84 (1H, g, dd, <italic>J</italic>=3Hz), 5.42 (1H, b, s), 4.0 (2H, j, t, <italic>J</italic>=3Hz), 2.23 (1H, m, d, <italic>J</italic>=3Hz), 1.94 (3H, i, s), 2.02 (3H, k, m), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3Hz), 1.58(2H, d, t, <italic>J</italic>= 3Hz), 1.57 (3H, a, s), 1.42 (1H, c<sub>1</sub>, q, <italic>J</italic>=3Hz), 0.94 (3H, e, s), 0.92 (3H, f, s), 0.90 (6H, l, d, <italic>J</italic>=3Hz).</td>
+                <td align="left" valign="top">277 (M<sup>+</sup>, 89), 262 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28), 134 (100), 119 (22), 117  (13),  107  (35),  105 (20), 93 (83), 91 (60), 85 (7), 83 (12%), 79 (25), 77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">8(II)</td>
+                <td align="center" valign="top">C<sub>2</sub>H<sub>4</sub>CH(CH<sub>3</sub>)<sub>2</sub></td>
+                <td align="center" valign="top">0.47</td>
+                <td align="left" valign="top">6.96 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.72 (1H, g, dd, <italic>J</italic>=3Hz ), 5.39 (1H, b, s), 4.08 (2H, j, t, <italic>J</italic>=3 Hz), 2.01 (3H, k, m), 2.00 (1H, m, d, <italic>J</italic>=3 Hz), 1.97 (3H, i, s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58 (2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s), 0.91 (6H, l, d, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">277 (M<sup>+</sup>, 7), 207 (2), 193 (5), 178 (4), 150 (5), 136 (3), 134 (10), 119 (5), 117 (4),  107  (5),  105  (3),  93 (17), 91 (14), 85 (92), 83 (100%), 79 (5), 77 (7).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">9(I)</td>
+                <td align="center" valign="top">C<sub>6</sub>H<sub>13</sub></td>
+                <td align="center" valign="top">0.86</td>
+                <td align="left" valign="top">6.13 (1H, h, d, 
+                <italic>J</italic>=8Hz), 5.78 (1H, g, dd, <italic>J</italic>=3Hz), 5.43 (1H, b, s), 4.0 (2H, j, t, <italic>J</italic>=3Hz), 2.23 (1H, m, d, <italic>J</italic>=3Hz), 1.94 (3H, i, s), 2.02 (8H, k, m), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3Hz), 1.58 (2H, d, t, <italic>J</italic>=3Hz), 1.57 (3H, a, s), 1.42 (1H, c<sub>1</sub>, q, <italic>J</italic>=3Hz), 0.94 (3H, e, s), 0.92 (3H, f, s), 0.90 (3H, l, t, <italic>J</italic>=3Hz).</td>
+                <td align="left" valign="top">291 (M<sup>+</sup>, 89), 276 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28), 134 (100), 119 (22), 117  (13),  107  (35),  105 (20), 93 (83), 91 (60), 85 (7),  83  (12),  79  (25),  77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">9(II)</td>
+                <td align="center" valign="top">C<sub>6</sub>H<sub>13</sub></td>
+                <td align="center" valign="top">0.54</td>
+                <td align="left" valign="top">6.65 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.90 (1H, g, dd, <italic>J</italic>=3Hz ), 5.45 (1H, b, s), 4.08 (2H, j, t, <italic>J</italic>=3 Hz), 2.01 (8H, k, m), 2.00 (1H, m, d, <italic>J</italic>=3 Hz), 1.97 (3H, i, s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58 (2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s), 0.91 (3H, l, t, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">291 (M<sup>+</sup>, 7), 207 (2), 193 (5), 178 (4), 150 (5), 136 (3), 134 (10), 119 (5), 117 (4),  107  (5),  105  (3),  93 (17), 91 (14), 85 (92), 83 (100), 79 (5), 77 (7).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">10(I)</td>
+                <td align="center" valign="top">C<sub>7</sub>H<sub>15</sub></td>
+                <td align="center" valign="top">0.86</td>
+                <td align="left" valign="top">6.10 (1H, h, d, 
+                <italic>J</italic>=8Hz), 5.87 (1H, g, dd, <italic>J</italic>=3Hz), 5.43 (1H, b, s), 4.0 (2H, j, t, <italic>J</italic>=3Hz), 2.23 (1H, m, d, <italic>J</italic>=3Hz), 1.94 (3H, i, s), 2.02 (10H, k, m), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3Hz), 1.58 (2H, d, t, <italic>J</italic>=3Hz), 1.57 (3H, a, s), 1.42 (1H, c<sub>1</sub>, q, <italic>J</italic>=3Hz), 0.94 (3H, e, s), 0.92 (3H, f, s), 0.90 (3H, l, t, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">305 (M<sup>+</sup>, 89), 290 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28), 134 (100), 119 (22), 117  (13),  107  (35),  105 (20), 93 (83), 91 (60), 85 (7),  83  (12),  79  (25),  77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">10(II)</td>
+                <td align="center" valign="top">C<sub>7</sub>H<sub>15</sub></td>
+                <td align="center" valign="top">0.56</td>
+                <td align="left" valign="top">6.81 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.90 (1H, g, dd, <italic>J</italic>=3Hz ), 5.4 (1H, b, s), 4.0 (2H, j, t, <italic>J</italic>=3 Hz), 2.01 (10H, k, m), 2.00 (1H, m, d, <italic>J</italic>=3 Hz), 1.97 (3H, i, s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58 (2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s), 0.91 (3H, l, t, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">305 (M<sup>+</sup>, 7), 207 (2), 193 (5), 178 (4), 150 (5), 136 (3), 134 (10), 119 (5), 117 (4),  107  (5),  105  (3),  93 (17), 91 (14), 85 (92), 83 (100), 79 (5), 77 (7).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">11(I)</td>
+                <td align="center" valign="top">C<sub>8</sub>H<sub>17</sub></td>
+                <td align="center" valign="top">0.87</td>
+                <td align="left" valign="top">6.16 (1H, h, d, 
+                <italic>J</italic>=8 Hz), 5.80 (1H, g, dd, <italic>J</italic>=3 Hz), 5.43 (1H, b, s), 4.0 (2H, j, t, <italic>J</italic>=3 Hz), 2.23 (1H, m, d, <italic>J</italic>=3Hz), 1.94 (3H, i, s), 2.02 (12H, k, m), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58 (2H, d, t, <italic>J</italic>=3 Hz), 1.57 (3H, a, s), 1.42 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 0.94 (3H, e, s), 0.92 (3H, f, s), 0.90 (3H, l, t, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">319 (M<sup>+</sup>, 89), 304 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28), 134 (100), 119 (22), 117  (13),  107  (35),  105 (20), 93 (83), 91 (60), 85 (7),  83  (12),  79  (25),  77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">11(II)</td>
+                <td align="center" valign="top">C<sub>8</sub>H<sub>17</sub></td>
+                <td align="center" valign="top">0.57</td>
+                <td align="left" valign="top">6.75 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.73 (1H, g, dd, <italic>J</italic>=3Hz ), 5.4 (1H, b, s), 4.0 (2H, j, t, <italic>J</italic>=3Hz), 2.01 (12H, k, m), 2.00 (1H, m, d, <italic>J</italic>=3 Hz), 1.97 (3H, i, s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58 (2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s), 0.91 (3H, l, t, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">319 (M<sup>+</sup>, 7), 207 (2), 193 (5), 178 (4), 150 (5), 136 (3), 134 (10), 119 (5), 117 (4),  107  (5),  105  (3),  93 (17), 91 (14), 85 (92), 83 (100), 79 (5), 77 (7).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">12(I)</td>
+                <td align="center" valign="top">C<sub>10</sub>H<sub>21</sub></td>
+                <td align="center" valign="top">0.88</td>
+                <td align="left" valign="top">6.13 (1H, h, d, 
+                <italic>J</italic>=8 Hz), 5.87 (1H, g, dd, <italic>J</italic>=3 Hz), 5.5 (1H, b, s), 4.0 (2H, j, t, <italic>J</italic>= 3 Hz), 2.23 (1H, m, d, <italic>J</italic>=3 Hz), 1.94 (3H, i, s), 2.02 (16H, k, m), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58 (2H, d, t, <italic>J</italic>=3 Hz), 1.57 (3H, a, s), 1.42 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 0.94 (3H, e, s), 0.92 (3H, f, s), 0.90 (3H, l, t, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">347 (M<sup>+</sup>, 89), 332 (17), 207 (4), 206 (5), 193 (89), 178 (48), 160 (8), 150 (49), 136 (28), 134 (100), 119 (22), 117  (13),  107  (35),  105 (20), 93 (83), 91 (60), 85 (7),  83  (12),  79  (25),  77 (29).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">12(II)</td>
+                <td align="center" valign="top">C<sub>10</sub>H<sub>21</sub></td>
+                <td align="center" valign="top">0.60</td>
+                <td align="left" valign="top">7.0 (1H, h, d, 
+                <italic>J</italic>=8 Hz) 5.8 (1H, g, dd, <italic>J</italic>= 3 Hz), 5.45 (1H, b, s), 4.0 (2H, j, t, <italic>J</italic>=3 Hz), 2.01 (16H, k, m), 2.00 (1H, m, d, <italic>J</italic>=3 Hz), 1.97 (3H, i, s), 1.71 (1H, c<sub>2</sub>, q, <italic>J</italic>=3 Hz), 1.58(2H, d, t, <italic>J</italic>=3 Hz), 1.58 (3H, a, s), 1.45 (1H, c<sub>1</sub>, q, <italic>J</italic>=3 Hz), 1.26 (3H, e, s), 1.26 (3H, f, s), 0.91 (3H, l, t, <italic>J</italic>=3 Hz).</td>
+                <td align="left" valign="top">347 (M<sup>+</sup>, 7), 207 (2), 193 (5), 178 (4), 150 (5), 136 (3), 134 (10), 119 (5), 117 (4),  107  (5),  105  (3),  93 (17), 91 (14), 85 (92), 83 (100), 79 (5), 77 (7).</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>* TLC solvent system hexane-acetone 90 : 10<bold>.</bold></p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00990">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henrick</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>Staal</surname>
+              <given-names>G.B.</given-names>
+            </name>
+            <name>
+              <surname>Siddall</surname>
+              <given-names>J.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Alkyl 3,7,11-trimethyl-2, 4-dodecadieoates, A new class of potent insect growth regulators with juvenile hormone activity</article-title>
+          <source>J. Agric. Food. Chem.</source>
+          <year>1973</year>
+          <volume>21</volume>
+          <fpage>354</fpage>
+          <lpage>359</lpage>
+          <pub-id pub-id-type="doi">10.1021/jf60187a043</pub-id>
+          <pub-id pub-id-type="pmid">4708794</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00990">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wigglesworth</surname>
+              <given-names>V. B.</given-names>
+            </name>
+          </person-group>
+          <source>Insect Hormones</source>
+          <publisher-name>W.H. Freeman</publisher-name>
+          <publisher-loc>San Francisco</publisher-loc>
+          <year>1970</year>
+		  <fpage>1</fpage>
+          <lpage>159</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00990">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bowers</surname>
+              <given-names>W.S.</given-names>
+            </name>
+          </person-group>
+          <source>Naturally Occurring Insecticides</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Jacobson</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Crosby</surname>
+              <given-names>D. G.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Marcel Dekker</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1971</year>
+          <fpage>307</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00990">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pawar</surname>
+              <given-names>P.V.</given-names>
+            </name>
+            <name>
+              <surname>Tungikar</surname>
+              <given-names>B. V.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>R.N.</given-names>
+            </name>
+            <name>
+              <surname>Suresh</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Padalkar</surname>
+              <given-names>S. N.</given-names>
+            </name>
+            <name>
+              <surname>Patwardhan</surname>
+              <given-names>S. A.</given-names>
+            </name>
+          </person-group>
+          <source>Pesticide Res. Jour.</source>
+          <year>1995</year>
+          <volume>7</volume>
+          <fpage>128</fpage>
+          <lpage>131</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00990">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benson</surname>
+              <given-names>W.R.</given-names>
+            </name>
+            <name>
+              <surname>Pohland</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem</source>
+          <year>1965</year>
+          <volume>30</volume>
+          <fpage>1129</fpage>
+          <lpage>1132</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample availability:</italic> Available on request from the corresponding author.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

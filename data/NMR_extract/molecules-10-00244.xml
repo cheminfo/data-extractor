@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xml:lang="en" article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010244</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00244</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Substrate Dependence in Aqueous Diels-Alder Reactions of Cyclohexadiene Derivatives with 1,4-Benzoquinone</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sunakawa</surname>
+            <given-names>Takeshi</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kuroda</surname>
+            <given-names>Chiaki</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00244" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00244">Department of Chemistry, Rikkyo University, Nishi-Ikebukuro, Toshima-ku, Tokyo 171-8501, Japan. Tel.: (+81)339852396, Fax: (+81)359923434</aff>
+	  <author-notes>
+        <corresp id="c1-molecules-10-00244"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>kuroda@rikkyo.ac.jp</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>244</fpage>
+      <lpage>250</lpage>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>25</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2004 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2004</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A reactivity difference based on the position of substituents on cyclohexa-1,3-diene was observed for the title reaction. The effect of water as solvent was more distinct for 1-methyl-4-isopropylcyclohexa-1,3-diene than for 2-methyl-5-isopropylcyclohexa-1,3-diene or non-substituted cyclohexa-1,3-diene. The effect of NaCl (salting-out) and guanidium chloride (salting-in) was also large for 1-methyl-4-isopropylcyclohexa-1,3-diene.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Diels-Alder reaction</kwd>
+		<kwd>aqueous</kwd>
+		<kwd>cyclohexadiene</kwd>
+		<kwd>substrate dependence</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Recently, the development of organic reactions in aqueous media has been remarkable [<xref ref-type="bibr" rid="B1-molecules-10-00244">1</xref>], especially in light of the interest in &#x201C;green chemistry&#x201D;. Among the various reactions, the Diels-Alder reaction is well documented [<xref ref-type="bibr" rid="B2-molecules-10-00244">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00244">3</xref>]. The effect of micelles [<xref ref-type="bibr" rid="B4-molecules-10-00244">4</xref>] or Lewis acids [<xref ref-type="bibr" rid="B5-molecules-10-00244">5</xref>], including Lewis acid-surfactant combinations [<xref ref-type="bibr" rid="B6-molecules-10-00244">6</xref>] have also been studied for the aqueous Diels-Alder reaction. In contrast to the reaction in organic solvents, the water-based reaction proceeds with higher endo/exo selectivities [<xref ref-type="bibr" rid="B7-molecules-10-00244">7</xref>]. On the other hand, substrate specificity is one of the fundamental features of enzyme or other biochemical reactions which takes place in water. In such reactions, a simple alkyl substituent sometimes plays an important role. We have studied the substrate dependence of the aqueous Diels-Alder reaction, and here report that the position of the substituents is an important factor in the aqueous Diels-Alder reaction of cyclohexadiene derivatives.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>In the present study, cyclohexa-1,3-diene (<bold>1</bold>), 2-methyl-5-isopropylcyclohexa-1,3-diene (&#x3B1;&#x2011;phellandrene, <bold>2</bold>), and 1-methyl-4-isopropylcyclohexa-1,3-diene (&#x3B1;&#x2011;terpinene, <bold>3</bold>) were chosen as the dienes, and their Diels-Alder reaction with 1,4-benzoquinone (<bold>4</bold>) was studied (<xref ref-type="scheme" rid="molecules-10-00244-f001">Scheme 1</xref>).</p>
+      <fig id="molecules-10-00244-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00244-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00244-g001.tif"/>
+      </fig>
+      <p>When the reaction of <bold>1</bold> and <bold>4</bold> was carried out in water, the adduct was separated as a precipitate, which was collected after 2 days of stirring at room temperature to afford <bold>5</bold> [<xref ref-type="bibr" rid="B8-molecules-10-00244">8</xref>] in 67% yield (<xref ref-type="table" rid="molecules-10-00244-t001">Table 1</xref>; Entry 1). The dienes having alkyl substituents, <bold>2</bold> and <bold>3</bold>, were also treated under the same reaction conditions giving <bold>6</bold> [<xref ref-type="bibr" rid="B9-molecules-10-00244">9</xref>] and <bold>7</bold> [<xref ref-type="bibr" rid="B10-molecules-10-00244">10</xref>], respectively (Entries 2,3). In order to clarify the effect of the aqueous media, the reaction in organic solvents such as toluene and THF were also carried out under similar reaction conditions (r.t., 2 days, Entries 4-9) for comparison. From these results, it is obvious that the product yields in water are better than that in organic solvents for all three dienes.</p>
+      <table-wrap id="molecules-10-00244-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00244-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Diels-Alder reaction of cyclohexadienes <bold>1-3</bold> and benzoquinone <bold>4</bold> in various solvents.<sup> a</sup></p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="top">Entry</th>
+              <th align="center" valign="top">Diene</th>
+              <th align="center" valign="top">Solvent</th>
+              <th align="center" valign="top">Product</th>
+              <th align="center" valign="top">Yield</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="top">1</td>
+              <td align="center" valign="top"><bold>1</bold></td>
+              <td align="center" valign="top">H<sub>2</sub>O</td>
+              <td align="center" valign="top"><bold>5</bold></td>
+              <td align="center" valign="top">67</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">2</td>
+              <td align="center" valign="top"><bold>2</bold></td>
+              <td align="center" valign="top">H<sub>2</sub>O</td>
+              <td align="center" valign="top"><bold>6</bold></td>
+              <td align="center" valign="top">27</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">3</td>
+              <td align="center" valign="top"><bold>3</bold></td>
+              <td align="center" valign="top">H<sub>2</sub>O</td>
+              <td align="center" valign="top"><bold>7</bold></td>
+              <td align="center" valign="top">28</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">4</td>
+              <td align="center" valign="top"><bold>1</bold></td>
+              <td align="center" valign="top">toluene</td>
+              <td align="center" valign="top"><bold>5</bold></td>
+              <td align="center" valign="top">15</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">5</td>
+              <td align="center" valign="top"><bold>2</bold></td>
+              <td align="center" valign="top">toluene</td>
+              <td align="center" valign="top"><bold>6</bold></td>
+              <td align="center" valign="top">15</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">6</td>
+              <td align="center" valign="top"><bold>3</bold></td>
+              <td align="center" valign="top">toluene</td>
+              <td align="center" valign="top"><bold>7</bold></td>
+              <td align="center" valign="top">3</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">7</td>
+              <td align="center" valign="top"><bold>1</bold></td>
+              <td align="center" valign="top">THF</td>
+              <td align="center" valign="top"><bold>5</bold></td>
+              <td align="center" valign="top">6</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">8</td>
+              <td align="center" valign="top"><bold>2</bold></td>
+              <td align="center" valign="top">THF</td>
+              <td align="center" valign="top"><bold>6</bold></td>
+              <td align="center" valign="top">9</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">9</td>
+              <td align="center" valign="top"><bold>3</bold></td>
+              <td align="center" valign="top">THF</td>
+              <td align="center" valign="top"><bold>7</bold></td>
+              <td align="center" valign="top">3</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">10</td>
+              <td align="center" valign="top"><bold>1</bold></td>
+              <td align="center" valign="top">none</td>
+              <td align="center" valign="top"><bold>5</bold></td>
+              <td align="center" valign="top">57</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">11</td>
+              <td align="center" valign="top"><bold>2</bold></td>
+              <td align="center" valign="top">none</td>
+              <td align="center" valign="top"><bold>6</bold></td>
+              <td align="center" valign="top">27</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">12</td>
+              <td align="center" valign="top"><bold>3</bold></td>
+              <td align="center" valign="top">none</td>
+              <td align="center" valign="top"><bold>7</bold></td>
+              <td align="center" valign="top">7</td>
+            </tr>
+          </tbody>
+        </table>
+		 <table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> All reactions were carried out at room temperature for 2 days with 1:1 molar amount of diene and dienophile. The concentration of the each reactant was ca. 0.1 M.</p>
+            </fn>
+            </table-wrap-foot>
+		</table-wrap>
+      <p>Although the yield of <bold>7</bold> was lower than that of <bold>5</bold>, it was found that the effect of aqueous media was relatively distinct for the reaction of <bold>3</bold> yielding <bold>7</bold>. Namely, the yield of <bold>7</bold> in water was nine times higher than that using the organic solvent conditions.</p>
+      <p>Since dienes <bold>1-3</bold> are insoluble in water, the reaction under neat conditions was examined as a reference (Entries 10-12). The results indicate again that the advantage of water solution was large for precursor <bold>3</bold>, which is the least reactive diene among the three. In contrast, no benefit of aqueous media was observed for the reaction of <bold>2</bold>, since the adduct <bold>6</bold> was obtained in the same yield under the neat conditions. The relative yields of <bold>5</bold>, <bold>6</bold>, and <bold>7</bold> in H<sub>2</sub>O/neat conditions were 1.2, 1.0, and 4.0, respectively. The only difference between <bold>2</bold> and <bold>3</bold> is the position of the substituents, with the latter having two substituents on the reactive carbon. This observed increase in yield for <bold>3</bold> but not for <bold>2</bold> can be rationalized as follows (<xref ref-type="scheme" rid="molecules-10-00244-f002">Scheme 2</xref>): in the reaction of <bold>3</bold> and <bold>4</bold>, the reactants must approach each other as shown in <bold>A</bold>, which is a &#x2018;compact&#x2019; association and therefore is relatively more favorable in aqueous media than in organic solvents because of the hydrophobic effect. In contrast, the reaction of <bold>2</bold> proceeds through association <bold>B</bold>, however the hydrophobic effect facilitates the more &#x2018;compact&#x2019; association <bold>C</bold>. In organic solvents, <bold>B</bold> is favored over <bold>C</bold> or <bold>A</bold> because of steric interactions, which explains the very low yield of <bold>7</bold> in THF or toluene.</p>
+      <fig id="molecules-10-00244-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00244-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00244-g002.tif"/>
+      </fig>
+      <p>Breslow and Rizzol studied the salt effect in the aqueous Diels-Alder reaction of anthracene derivative with ethyl maleiimide, and reported that the reaction is faster after addition of LiCl and slower after addition of guanidium chloride (GnCl) [<xref ref-type="bibr" rid="B11-molecules-10-00244">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00244">12</xref>]. Kumar <italic>et al.</italic> observed a related phenomenon and explained it in terms of salting-out and salting-in effects [<xref ref-type="bibr" rid="B13-molecules-10-00244">13</xref>]. We then examined the salt effect of the present reaction using NaCl and GnCl as the salting-out and salting-in additives [2b], respectively. The effect of NaCl was studied first and the results are shown in <xref ref-type="table" rid="molecules-10-00244-t002">Table 2</xref>.</p>
+      <table-wrap id="molecules-10-00244-t002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00244-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Yield of the Diels-Alder products in NaCl aq.<sup> a</sup></p>
+        </caption>
+        <table>
+         <thead>
+            <tr>
+              <th align="center" valign="middle">Entry</th>
+              <th align="center" valign="middle">Diene</th>
+              <th align="center" valign="middle">Conc. of NaCl (molality)</th>
+              <th align="center" valign="middle">Product</th>
+              <th align="center" valign="middle">Yield</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle"><bold>1</bold></td>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle"><bold>5</bold></td>
+              <td align="center" valign="middle">74</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle"><bold>1</bold></td>
+              <td align="center" valign="middle">saturated</td>
+              <td align="center" valign="middle"><bold>5</bold></td>
+              <td align="center" valign="middle">69</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">3</td>
+              <td align="center" valign="middle"><bold>2</bold></td>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle"><bold>6</bold></td>
+              <td align="center" valign="middle">28</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">4</td>
+              <td align="center" valign="middle"><bold>2</bold></td>
+              <td align="center" valign="middle">saturated</td>
+              <td align="center" valign="middle"><bold>6</bold></td>
+              <td align="center" valign="middle">25</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle"><bold>3</bold></td>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle"><bold>7</bold></td>
+              <td align="center" valign="middle">16</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">6</td>
+              <td align="center" valign="middle"><bold>3</bold></td>
+              <td align="center" valign="middle">saturated</td>
+              <td align="center" valign="middle"><bold>7</bold></td>
+              <td align="center" valign="middle">13</td>
+            </tr>
+         </tbody>
+        </table>
+		<table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> See footnote a of <xref ref-type="table" rid="molecules-10-00244-t001">Table 1</xref>.</p>
+            </fn>
+            </table-wrap-foot>
+		</table-wrap>
+      <p>A distinct retardation was observed for the reaction of <bold>3</bold> (Entries 5,6), while the effect of NaCl was small for both <bold>1</bold> and <bold>2</bold> (Entries 1-4). The yields of the adducts in saturated solution were of a similar value to the case of neat condition, which can be considered as the result of a salting-out effect of water-soluble benzoquinone.</p>
+      <p>The results in GnCl solution are summarized in <xref ref-type="table" rid="molecules-10-00244-t003">Table 3</xref>. Here again, the effect of the additive was distinct for the reaction of <bold>3</bold>. Namely, in contrast to NaCl, the reaction proceeded smoothly giving the adduct <bold>7</bold> in better yields (Entries 10-12), and after a longer reaction time, <bold>7</bold> was obtained in 76% yield without heating. The yield of <bold>6</bold> was also improved in concentrated GnCl aq. (Entries 6-8), while almost no salt effect was observed for the reaction of <bold>1</bold>, except that <bold>5</bold> was obtained in slightly higher yield in concentrated salt solution (Entry 4). These results are in contrast to Breslow&#x2019;s and Kumar&#x2019;s observation, in which the reaction was activated by LiCl and retarded by GnCl, although the substrates and the conditions are different.</p>
+      <table-wrap id="molecules-10-00244-t003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00244-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>Yield of the Diels-Alder products in GnCl aq.<sup> a</sup></p>
+        </caption>
+        <table>
+         <thead>
+            <tr>
+              <th align="center" valign="middle">Entry</th>
+              <th align="center" valign="middle">Diene</th>
+              <th align="center" valign="middle">Conc. of GnCl (molality)</th>
+              <th align="center" valign="middle">Product</th>
+              <th align="center" valign="middle">Yield</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle"><bold>1</bold></td>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle"><bold>5</bold></td>
+              <td align="center" valign="middle">69</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle"><bold>1</bold></td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle"><bold>5</bold></td>
+              <td align="center" valign="middle">69</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">3</td>
+              <td align="center" valign="middle"><bold>1</bold></td>
+              <td align="center" valign="middle">10</td>
+              <td align="center" valign="middle"><bold>5</bold></td>
+              <td align="center" valign="middle">79</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">4</td>
+              <td align="center" valign="middle"><bold>1</bold></td>
+              <td align="center" valign="middle">15</td>
+              <td align="center" valign="middle"><bold>5</bold></td>
+              <td align="center" valign="middle">83</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle"><bold>2</bold></td>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle"><bold>6</bold></td>
+              <td align="center" valign="middle">32</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">6</td>
+              <td align="center" valign="middle"><bold>2</bold></td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle"><bold>6</bold></td>
+              <td align="center" valign="middle">46</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">7</td>
+              <td align="center" valign="middle"><bold>2</bold></td>
+              <td align="center" valign="middle">10</td>
+              <td align="center" valign="middle"><bold>6</bold></td>
+              <td align="center" valign="middle">52</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">8</td>
+              <td align="center" valign="middle"><bold>2</bold></td>
+              <td align="center" valign="middle">15</td>
+              <td align="center" valign="middle"><bold>6</bold></td>
+              <td align="center" valign="middle">52</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">9</td>
+              <td align="center" valign="middle"><bold>3</bold></td>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle"><bold>7</bold></td>
+              <td align="center" valign="middle">38</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">10</td>
+              <td align="center" valign="middle"><bold>3</bold></td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle"><bold>7</bold></td>
+              <td align="center" valign="middle">54</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">11</td>
+              <td align="center" valign="middle"><bold>3</bold></td>
+              <td align="center" valign="middle">10</td>
+              <td align="center" valign="middle"><bold>7</bold></td>
+              <td align="center" valign="middle">54</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">12</td>
+              <td align="center" valign="middle"><bold>3</bold></td>
+              <td align="center" valign="middle">15</td>
+              <td align="center" valign="middle"><bold>7</bold></td>
+              <td align="center" valign="middle">67<sup> b</sup></td>
+            </tr>
+         </tbody>
+        </table>
+		 <table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> See footnote a of <xref ref-type="table" rid="molecules-10-00244-t001">Table 1</xref>; <sup>b</sup> 76% yield After 2 weeks.</p>
+            </fn>
+            </table-wrap-foot>
+		</table-wrap>
+      <p>In order to clarify the role of GnCl, related additives were examined for the reaction of <bold>3</bold> yielding <bold>7</bold>. The results are listed in <xref ref-type="table" rid="molecules-10-00244-t004">Table 4</xref>. When urea, an analogue of guanidium chloride with no charge, was added, the yield of <bold>7</bold> increased (Entries 1-4) but the effect was much smaller than GnCl. Similar results were obtained in acetone (Entries 5-8). These data imply that the simple solvation effect against hydrocarbon <bold>3</bold> is small. A possible explanation of the effect of GnCl is hydrogen-bonding with 1,4-benzoquinone. In mixed solvent system of acetone/water, water is a much important solvent than acetone, since the yield of <bold>7</bold> in acetone without water was only 2%.</p>
+      <table-wrap id="molecules-10-00244-t004" position="float">
+        <object-id pub-id-type="pii">molecules-10-00244-t004_Table 4</object-id>
+        <label>Table 4</label>
+        <caption>
+          <p>Yield of <bold>7</bold> in water with related additives.<sup> a</sup></p>
+        </caption>
+        <table>
+         <thead>
+            <tr>
+              <th align="center" valign="middle">Entry</th>
+              <th align="center" valign="middle">Additive</th>
+              <th align="center" valign="middle">Conc. of additive (molality)</th>
+              <th align="center" valign="middle">Yield</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">urea</td>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle">28</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle">urea</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">30</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">3</td>
+              <td align="center" valign="middle">urea</td>
+              <td align="center" valign="middle">10</td>
+              <td align="center" valign="middle">35</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">4</td>
+              <td align="center" valign="middle">urea</td>
+              <td align="center" valign="middle">15</td>
+              <td align="center" valign="middle">38</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">acetone</td>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle">31</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">6</td>
+              <td align="center" valign="middle">acetone</td>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">39</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">7</td>
+              <td align="center" valign="middle">acetone</td>
+              <td align="center" valign="middle">10</td>
+              <td align="center" valign="middle">44</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">8</td>
+              <td align="center" valign="middle">acetone</td>
+              <td align="center" valign="middle">15</td>
+              <td align="center" valign="middle">46<sup> b</sup></td>
+            </tr>
+         </tbody>
+        </table>
+		<table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> See footnote a of <xref ref-type="table" rid="molecules-10-00244-t001">Table 1</xref>; <sup>b</sup> 2% yield in acetone only.</p>
+            </fn>
+            </table-wrap-foot>
+		</table-wrap>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>It was found that the effect of water in the aqueous Diels-Alder reaction of cyclohexadiene derivatives with 1,4-benzoquinone is more distinct for the compound having two alkyl substituents on the reacting carbon. The effect of an additive was also large for the same compound with regards to both acceleration and retardation. Therefore, the position of alkyl substituents is an important factor in the aqueous Diels-Alder reaction. A favorable compact association was proposed as the explanation. </p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Melting points were measured on a Laboratory Devices Mel-Temp apparatus. IR spectra were recorded on a Jasco FT/IR-230 spectrometer. Both <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were measured on a Jeol GSX-400 spectrometer (400 MHz for <sup>1</sup>H; 100 MHz for <sup>13</sup>C). Chemical shifts are reported on the &#x3B4; scale (ppm) with tetramethylsilane as an internal standard. Both low-resolution mass spectra (MS) and high-resolution mass spectra (HRMS) were obtained on a Jeol SX-102A, JMS-DX303, CMATE II, or Shimadzu GCMS-QP5050 mass spectrometer with the EI method. Analytical TLC was done on precoated TLC plates (Kieselgel 60 F254, layer thickness 0.2 mm). Wakogel C-200 or C-300 was used for column chromatography. Anhydrous Na<sub>2</sub>SO<sub>4</sub> or MgSO<sub>4</sub> was used for drying the extracted organic layers. For the reagents and chemicals, 1,4-benzoquinone, 2-methyl-5-isopropylcyclohexa-1,3-diene (&#x3B1;-phellandrene), and 1-methyl-4-isopropylcyclohexa-1,3-diene (&#x3B1;-terpinene) were purchased from Tokyo Kasei Kogyo, Japan; cyclohexa-1,3-diene, GnCl, and urea were purchased from Kanto Chemical, Japan, and all were used without further purification.</p>
+      </sec>
+      <sec>
+        <title>Typical experimental procedure (Entry 1 of <xref ref-type="table" rid="molecules-10-00244-t001">Table 1</xref>)</title>
+        <p>In an 25 mL round-bottomed flask, <italic>p</italic>-benzoquinone (54.3 mg, 0.50 mmol), 1,3-cyclohexadiene (39.9 mg, 0.50 mmol), and water (5.4 mL) were mixed together. After stirring for 2 days at room temperature, the mixture was extracted with AcOEt, and the organic layer was dried over Na<sub>2</sub>SO<sub>4</sub>. Evaporation of the solvent followed by silica gel (8 g) column chromatography using hexane/Et<sub>2</sub>O (3:2) as eluent afforded <bold>5</bold> (62.9 mg, 71%); mp. 94-96 &#xB0;C (lit. mp. 98 &#xB0;C [<xref ref-type="bibr" rid="B9-molecules-10-00244">9</xref>]).</p>
+      </sec>
+      <sec>
+        <title>Identification</title>
+        <p>For spectral data of compounds <bold>5</bold>, <bold>6</bold>, and <bold>7</bold>, see refs. [<xref ref-type="bibr" rid="B8-molecules-10-00244">8</xref>], [<xref ref-type="bibr" rid="B9-molecules-10-00244">9</xref>], and [<xref ref-type="bibr" rid="B10-molecules-10-00244">10</xref>], respectively. </p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References and Notes</title>
+	  <ref id="B1-molecules-10-00244">
+        <label>1.</label>
+         <citation citation-type="journal">
+		 <label>For reviews: a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lindstrom</surname>
+              <given-names>U. F.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>2002</year>
+          <volume>102</volume>
+          <fpage>2751</fpage>
+        </citation>
+         <citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>C.-J.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>1993</year>
+          <volume>93</volume>
+          <fpage>2023</fpage>
+        </citation>
+    </ref>
+	  <ref id="B2-molecules-10-00244">
+        <label>2.</label>
+         <citation citation-type="journal">
+		 <label>For reviews: a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Otto</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Engberts</surname>
+              <given-names>J. B. F. N.</given-names>
+            </name>
+          </person-group>
+          <source>Pure Appl. Chem.</source>
+          <year>2000</year>
+          <volume>72</volume>
+          <fpage>1365</fpage>
+        </citation>
+         <citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Breslow</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Acc. Chem. Res.</source>
+          <year>1991</year>
+          <volume>24</volume>
+          <fpage>159</fpage>
+        </citation>
+    </ref>
+	  <ref id="B3-molecules-10-00244">
+        <label>3.</label>
+         <citation citation-type="journal">
+		 <label>For examples: a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Breslow</surname>
+              <given-names>R.</given-names>
+            </name>
+			<name>
+              <surname>Groves</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Mayer</surname>
+              <given-names>M. U.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2002</year>
+          <volume>124</volume>
+          <fpage>3622</fpage>
+        </citation>
+         <citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Itami</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Nokami</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Yoshida</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2001</year>
+          <volume>40</volume>
+          <fpage>1074</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meijer</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Otto</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Engberts</surname>
+              <given-names>J. B. F. N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1998</year>
+          <volume>63</volume>
+          <fpage>8989</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chiba</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Jinno</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Nozaki</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Tada</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Commun.</source>
+          <year>1997</year>
+          <fpage>1403</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>van der Wel</surname>
+              <given-names>G. K.</given-names>
+            </name>
+			<name>
+              <surname>Wijnen</surname>
+              <given-names>J. W.</given-names>
+            </name>
+			<name>
+              <surname>Engberts</surname>
+              <given-names>J. B. F. N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1996</year>
+          <volume>61</volume>
+          <fpage>9001</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>f)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Otto</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Blokzijl</surname>
+              <given-names>W.</given-names>
+            </name>
+			<name>
+              <surname>Engberts</surname>
+              <given-names>J. B. F. N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1994</year>
+          <volume>59</volume>
+          <fpage>5372</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>g)</label>
+          <person-group person-group-type="author">
+			<name>
+              <surname>Blokzijl</surname>
+              <given-names>W.</given-names>
+            </name>
+			<name>
+              <surname>Blandamer</surname>
+              <given-names>M. J.</given-names>
+            </name>
+			<name>
+              <surname>Engberts</surname>
+              <given-names>J. B. F. N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1991</year>
+          <volume>113</volume>
+          <fpage>4241</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>h)</label>
+          <person-group person-group-type="author">
+			<name>
+              <surname>Libineau</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Queneau</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1987</year>
+          <volume>52</volume>
+          <fpage>1001</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>i)</label>
+          <person-group person-group-type="author">
+			<name>
+              <surname>Grieco</surname>
+              <given-names>P. A.</given-names>
+            </name>
+			<name>
+              <surname>Galatsis</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>Spohn</surname>
+              <given-names>R. F.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1986</year>
+          <volume>42</volume>
+          <fpage>2847</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>j)</label>
+          <person-group person-group-type="author">
+			<name>
+              <surname>Grieco</surname>
+              <given-names>P. A.</given-names>
+            </name>
+			<name>
+              <surname>Yoshida</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>He</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1984</year>
+          <volume>25</volume>
+          <fpage>5715</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>k)</label>
+          <person-group person-group-type="author">
+			<name>
+              <surname>Yoshida</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Grieco</surname>
+              <given-names>P. A.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Lett.</source>
+          <year>1985</year>
+          <volume>155</volume>
+          <fpage>1</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>l)</label>
+          <person-group person-group-type="author">
+			<name>
+              <surname>Grieco</surname>
+              <given-names>P. A.</given-names>
+            </name>
+			<name>
+              <surname>Yoshida</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Garner</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1983</year>
+          <volume>48</volume>
+          <fpage>3137</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>m)</label>
+          <person-group person-group-type="author">
+			<name>
+              <surname>Rideout</surname>
+              <given-names>D. C.</given-names>
+            </name>
+			<name>
+              <surname>Breslow</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1980</year>
+          <volume>102</volume>
+          <fpage>7816</fpage>
+        </citation>
+    </ref>
+      <ref id="B4-molecules-10-00244">
+        <label>4.</label>
+         <citation citation-type="journal">
+		 <label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rispens</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Engberts</surname>
+              <given-names>J. B. F. N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>2002</year>
+          <volume>67</volume>
+          <fpage>7369</fpage>
+        </citation>
+         <citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Otto</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Engberts</surname>
+              <given-names>J. B. F. N.</given-names>
+            </name>
+			<name>
+              <surname>Kwak</surname>
+              <given-names>J. C. T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1998</year>
+          <volume>120</volume>
+          <fpage>9517</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diego-Castro</surname>
+              <given-names>M. J.</given-names>
+            </name>
+			<name>
+              <surname>Hailes</surname>
+              <given-names>H. C.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1998</year>
+          <volume>39</volume>
+          <fpage>2211</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wijnen</surname>
+              <given-names>J. W.</given-names>
+            </name>
+			<name>
+              <surname>Engberts</surname>
+              <given-names>J. B. F. N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1997</year>
+          <volume>62</volume>
+          <fpage>2039</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>V. K.</given-names>
+            </name>
+			<name>
+              <surname>Raju</surname>
+              <given-names>B. N. S.</given-names>
+            </name>
+			<name>
+              <surname>Deota</surname>
+              <given-names>P. T.</given-names>
+            </name>
+          </person-group>
+          <source>Syn. Commun.</source>
+          <year>1988</year>
+          <volume>18</volume>
+          <fpage>567</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>f)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grieco</surname>
+              <given-names>P. A.</given-names>
+            </name>
+			<name>
+              <surname>Garner</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>He</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1983</year>
+          <volume>24</volume>
+          <fpage>1897</fpage>
+        </citation>
+    </ref>
+      <ref id="B5-molecules-10-00244">
+        <label>5.</label>
+         <citation citation-type="journal">
+		 <label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fringuelli</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>Piermatti</surname>
+              <given-names>O.</given-names>
+            </name>
+			<name>
+              <surname>Pizzo</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>Vaccaro</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Chem.</source>
+          <year>2001</year>
+          <fpage>439</fpage>
+        </citation>
+         <citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rispens</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Engberts</surname>
+              <given-names>J. B. F. N.</given-names>
+            </name>
+          </person-group>
+          <source>Org. Lett.</source>
+          <year>2001</year>
+          <volume>3</volume>
+          <fpage>941</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Otto</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Engberts</surname>
+              <given-names>J. B. F. N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1999</year>
+          <volume>121</volume>
+          <fpage>6798</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Loh</surname>
+              <given-names>T.-P.</given-names>
+            </name>
+			<name>
+              <surname>Pei</surname>
+              <given-names>J.</given-names>
+            </name>
+			<name>
+              <surname>Lin</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Commun.</source>
+          <year>1996</year>
+          <fpage>2315</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>V. K.</given-names>
+            </name>
+			<name>
+              <surname>Raju</surname>
+              <given-names>B. N. S.</given-names>
+            </name>
+			<name>
+              <surname>Deota</surname>
+              <given-names>P. T.</given-names>
+            </name>
+          </person-group>
+          <source>Syn. Commun.</source>
+          <year>1988</year>
+          <volume>18</volume>
+          <fpage>567</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>f)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Otto</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Engberts</surname>
+              <given-names>J. B. F. N.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1995</year>
+          <volume>36</volume>
+          <fpage>2645</fpage>
+        </citation>
+    </ref>
+      <ref id="B6-molecules-10-00244">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manabe</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Mori</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1999</year>
+          <volume>55</volume>
+          <fpage>11203</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00244">
+        <label>7.</label>
+         <citation citation-type="journal">
+		 <label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jenner</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1994</year>
+          <volume>35</volume>
+          <fpage>1189</fpage>
+        </citation>
+         <citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colonna</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Manfredi</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Annunziata</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1988</year>
+          <volume>27</volume>
+          <fpage>3347</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Breslow</surname>
+              <given-names>R.</given-names>
+            </name>
+			<name>
+              <surname>Maitra</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1984</year>
+          <volume>25</volume>
+          <fpage>1239</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Breslow</surname>
+              <given-names>R.</given-names>
+            </name>
+			<name>
+              <surname>Maitra</surname>
+              <given-names>U.</given-names>
+            </name>
+			<name>
+              <surname>Rideout</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1983</year>
+          <volume>24</volume>
+          <fpage>1901</fpage>
+        </citation>
+    </ref>
+      <ref id="B8-molecules-10-00244">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grimme</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Wortmann</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Frowein</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Lex</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Gleiter</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Perkin Trans. 2</source>
+          <year>1998</year>
+          <fpage>1893</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00244">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weisz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mandelbaum</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Org. Mass Spectrom.</source>
+          <year>1989</year>
+          <volume>24</volume>
+          <fpage>37</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00244">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chiba</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tada</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1994</year>
+          <fpage>2485</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00244">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Breslow</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Rizzo</surname>
+              <given-names>C. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1991</year>
+          <volume>113</volume>
+          <fpage>4340</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00244">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rizzo</surname>
+              <given-names>C. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1992</year>
+          <volume>57</volume>
+          <fpage>6382</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00244">
+        <label>13.</label>
+         <citation citation-type="journal">
+		 <label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Pawar</surname>
+              <given-names>S. S.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2002</year>
+          <volume>58</volume>
+          <fpage>1745</fpage>
+        </citation>
+         <citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Deshpande</surname>
+              <given-names>S. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Phys. Org. Chem.</source>
+          <year>2002</year>
+          <volume>15</volume>
+          <fpage>242</fpage>
+        </citation>
+    </ref>
+    </ref-list>
+	<fn-group><fn><p><italic>Sample Availability</italic>: Samples are not available.</p></fn></fn-group>
+  </back>
+</article>

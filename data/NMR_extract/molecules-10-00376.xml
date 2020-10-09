@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020376</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00376</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 4-Amino-4,5-dihydro-1H-1,2,4-triazole-5-ones and their Isatin-3-imine Derivatives</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kahveci</surname>
+            <given-names>Bahittin</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00376">Department of Chemistry, Rize Faculty of Arts and Science, Karadeniz Technical University, 53100, Rize, Turkey</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00376"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>bahittin@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>376</fpage>
+      <lpage>382</lpage>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>07</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+          <month>09</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Iminoester hydrochlorides <bold>1</bold> have been synthesized. These compounds were then converted into ester ethoxycarbonyl hydrazones <bold>2</bold>, from which in turn a new series of substituted 4-amino-4,5-dihydro-1H-1,2,4-triazole-5-ones, <bold>3</bold>, was then prepared. Finally a set of isatin imine derivatives <bold>4</bold> was obtained from the reaction of compounds <bold>3</bold> with isatin. The structures of all the new synthesized compounds were confirmed by elemental analyses, IR, <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra.</p>
+      </abstract>
+      <kwd-group>
+	    <kwd>Iminoesters</kwd>
+		<kwd>ethoxycarbonyl hydrazones</kwd>
+        <kwd>4-amino-1,2,4-triazole-5-ones</kwd>
+        <kwd>isatin</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The synthesis and antibacterial activity of some 4-amino-4,5-dihydro-1H-1,2,4-triazoles and their derivatives have been reported in the literature [<xref ref-type="bibr" rid="B1-molecules-10-00376">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00376">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00376">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00376">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00376">5</xref>]. A number of studies involving the antibacterial and antitumor activity of some 4-amino-4,5-dihydro-1H-1,2,4-triazole-5-ones and their derivatives have also been published recently [<xref ref-type="bibr" rid="B6-molecules-10-00376">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00376">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00376">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00376">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00376">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00376">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00376">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00376">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00376">14</xref>]. There are also many studies on isatin (1H-indole-2,3-dione) in the literature. The synthetic versatility of isatin has led to the extensive use of this compound in organic synthesis. This has stemmed in great part from the interest in the biological and pharmaceutical properties of its derivatives [<xref ref-type="bibr" rid="B15-molecules-10-00376">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00376">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00376">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00376">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00376">19</xref>,<xref ref-type="bibr" rid="B20-molecules-10-00376">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-00376">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00376">22</xref>,<xref ref-type="bibr" rid="B23-molecules-10-00376">23</xref>,<xref ref-type="bibr" rid="B24-molecules-10-00376">24</xref>]. Although reactions of isatin with many amino compounds have been investigated, it appears that its reaction with the N-aminotriazole-5-ones have not been studied before. Consequently, some new 4-amino-4,5-dihydro-1H-1,2,4-triazole-5-ones have now been synthesized and their reactions with isatin investigated.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The new derivatives were prepared following the reaction sequences depicted in <xref ref-type="scheme" rid="molecules-10-00376-f001">Scheme 1</xref>. Iminoester starting materials <bold>1a-d</bold> were prepared by passing HCl gas through solutions of 2-chloro-benzyl cyanide, 3-chlorobenzyl cyanide, 2-methylbenzyl cyanide or 3-methylbenzyl cyanide and absolute ethanol, followed by precipitation with ether.</p>
+      <fig id="molecules-10-00376-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00376-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00376-g001.tif"/>
+      </fig>
+      <p>In the IR spectra of compounds <bold>1a-d</bold> the characteristic NH<sub>2</sub><sup>+</sup> absorption bands appeared at 2980, 2920 and 810 cm<sup>-1</sup> and the C=N band at 1640 cm<sup>-1</sup>, approximately. Reaction of the iminoesters with ethyl carbazate yielded the ethoxycarbonyl hydrazones <bold>2a-d</bold>. The IR spectra of these compounds show the C=O band at 1740 cm<sup>-1</sup> and the C=N band at 1600 cm<sup>-1</sup>, approximately. The obtained compounds <bold>2a-d</bold> were then refluxed with a solution of hydrazine hydrate in water to afford the compounds <bold>3a-d</bold>. The NH<sub>2</sub>, C=O and C=N bands observed in the IR spectra of the latter compounds match the peaks expected for these structures. In addition to this, observation of NH<sub>2</sub>, NH and aromatic protons, as well as the disappearance of CH<sub>2</sub>CH<sub>3</sub> signals in the <sup>1</sup>H-NMR spectra and the triazole C<sub>5</sub> peak at near &#x3B4; 154 ppm and the triazole C<sub>3</sub> peak at near &#x3B4;147 ppm in the <sup>13</sup>C-NMR spectra all support this conclusion. Finally, in the reaction of compounds <bold>3a-d</bold> with isatin we obtained the expected isatin-3-imines <bold>4</bold>. The structures of the isatin-3-imines were verified by the presence in the IR spectra of two different C=O absorbtion bands at around 1700 cm<sup>-1</sup> and C=N bands near 1690 cm<sup>-1</sup>. In addition to this, the appearance of signals corresponding to two different NH protons and the disappearance of the NH<sub>2</sub> protons in the <sup>1</sup>H-NMR spectra support the proposed structures. The <sup>13</sup>C-NMR spectra also support the expected structures.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>New compounds <bold>3a-d</bold>, which can be used to prepare many new compounds, have been synthesized. Some of the new derivatives might be important biologically active agents. The compounds <bold>4a-d</bold> are also potential biologically active agents and their medical research applications should be investigated.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Melting points were determined in open capillary tubes on a B&#xFC;chi oil heated melting point apparatus and are uncorrected. The IR spectra were recorded for KBr pellets on Perkin-Elmer 1600 FTIR spectrophotometer. <sup>1</sup>H-NMR and <sup>13</sup>C-MR spectra were recorded on a Varian 200A spectrometer (solvent DMSO-d6, TMS as internal standard). Elemental analyses were performed on a Carlo Erba 1106 CHN analyzer. Starting materials were obtained from Fluka or Aldrich.</p>
+      </sec>
+      <sec>
+        <title>Synthesis of Iminoester Hydrochlorides <italic><bold>1a-d</bold></italic>.</title>
+        <p>These were synthesized using the reported method [<xref ref-type="bibr" rid="B25-molecules-10-00376">25</xref>]. To an ice-cooled solution of the appropriate nitrile (1 mole) in absolute alcohol (1.1 moles), dry hydrogen chloride was added until 1.1 moles had been absorbed. The resulting solution was then allowed to stand at 0 &#xBA;C in the refrigerator for 12 hours, after which cold absolute ether was added and the obtained crystals were filtered off immediately, washed with cold absolute ether and dried in a dessicator. The following compounds were thus prepared:</p>
+        <p><italic>Ethyl imido-o-chlorophenylacetate hydrochloride</italic> (<bold>1a</bold>): m.p. 95-96 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 2982, 2878, 812 (NH<sub>2</sub><sup>+</sup>), 1624 (C=N), 753 (1,2-disubstituted benzene ring).</p>
+        <p><italic>Ethyl imido-m-chlorophenylacetate hydrochloride</italic> (<bold>1b</bold>): m.p. 82-84 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 2989, 2939, 823 (NH<sub>2</sub><sup>+</sup>), 1649 (C=N), 868, 791, 684 (1,3-disubstituted benzene ring).</p>
+        <p><italic>Ethyl imido-o-methylphenylacetate hydrochloride</italic> (<bold>1c</bold>): m.p. 80-81 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 2981, 2928, 823 (NH<sub>2</sub><sup>+</sup>), 1648 (C=N), 747 (1,2-disubstituted benzene ring).</p>
+        <p><italic>Ethyl imido-m-methylphenylacetate hydrochloride</italic> (<bold>1d</bold>): m.p. 113-114 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 2994, 2862, 811 (NH<sub>2</sub><sup>+</sup>), 1653 (C=N), 867, 768, 714 (1,3-disubstituted  benzene ring).</p>
+      </sec>
+      <sec>
+        <title>General Procedure for Preparation of Ethyl Substituted Formate Ethoxycarbonyl hydrazones <italic><bold>2a-d</bold></italic>.</title>
+        <p>In a stoppered flask equipped with a magnetic stirrer, the corresponding ethyl imidocarboxylate hydrochloride (<bold>1a-d</bold>, 0.01 mol) was dissolved in absolute ethanol (50 mL) with ice-bath cooling and ethyl carbazate (0.01 mol) dissolved in absolute ethanol (20 mL) was then added to this solution. After stirring for 6 hr in ice-bath, the mixture was filtered to remove the ammonium chloride which separated from the solution and the filtrate was evaporated at 30-35&#xBA;C under reduced pressure. The solid residue, after drying in a dessicator, was recrystallized from petroleum ether to yield compounds <bold>2a-d</bold>.</p>
+        <p><italic>Ethyl o-chlorophenylacetate ethoxycarbonyl hydrazone</italic> (<bold>2a</bold>): Prepared from <bold>1a</bold>, yield 78%; m.p. 54-55 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 3274 (N-H), 1721 (C=O), 1648 (C=N), 751 (1,2-disubstituted benzene ring); <sup>1</sup>H-NMR, &#x3B4; (ppm): 1.18 (t, 3H, CH<sub>3</sub>), 1.28 (t, 3H, CH<sub>3</sub>), 3.71 (s, 2H, CH<sub>2</sub>), 3.96 (q, 2H, CH<sub>2</sub>), 4.24 (q, 2H, CH<sub>2</sub>), 6.58-7.24 (m, 4H, Ar-H), 8.18 (s, 1H, NH); Calcd. (%) for C<sub>13</sub>H<sub>17</sub>N<sub>2</sub>O<sub>3</sub>Cl (285): C, 54.78; H, 6.02; N, 9.84; found (%): C, 54.92; H, 6.01, N, 10.00.</p>
+        <p><italic>Ethyl m-chlorophenylacetate ethoxycarbonyl hydrazone</italic> (<bold>2b</bold>): Prepared from <bold>1b</bold>, 74%; m.p. 47-48 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 3247 (N-H), 1709 (C=O), 1648 (C=N), 863, 770, 683 (1,3-disubstituted benzene ring); <sup>1</sup>H-NMR, &#x3B4; (ppm): 1.19 (t, 3H, CH<sub>3</sub>), 1.24 (t, 3H, CH<sub>3</sub>), 3.64 (s, 2H, CH<sub>2</sub>), 3.91(q, 2H, CH<sub>2</sub>), 4.11 (q, 2H, CH<sub>2</sub>), 6.80-7.11 (m, 4H, Ar-H), 8.23 (s, 1H, NH); Calcd. (%) for C<sub>13</sub>H<sub>17</sub>N<sub>2</sub>O<sub>3</sub>Cl (285): C, 54.78; H, 6.02; N, 9.84; found (%): C, 54.48; H, 6.18, N, 10.27.</p>
+        <p><italic>Ethyl o-methylphenylacetate ethoxycarbonyl hydrazone</italic> (<bold>2c</bold>): Prepared from <bold>1c</bold>, yield 80%; m.p. 66-67 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 3207 (N-H), 1702 (C=O), 1657 (C=N), 747 (1,2-disubstituted benzene ring); <sup>1</sup>H-NMR, &#x3B4; (ppm): 1.20 (t, 3H, CH<sub>3</sub>), 1.32 (t, 3H, CH<sub>3</sub>), 2.30 (s, 3H, CH<sub>3</sub>), 3.64 (s, 2H, CH<sub>2</sub>), 4.00 (q, 2H, CH<sub>2</sub>), 4.24 (q, 2H, CH<sub>2</sub>), 6.96-7.30 (m, 4H, Ar-H); Calcd. (%) for C<sub>14</sub>H<sub>20</sub>N<sub>2</sub>O<sub>3</sub> (264): C, 63.56; H, 7.63; N, 10.60; found (%): C, 63.68; H, 7.89, N, 10.86.</p>
+        <p><italic>Ethyl m-methylphenylacetate ethoxycarbonyl hydrazone</italic> (<bold>2d</bold>): Prepared from <bold>1d</bold>, yield 86%; m.p. 59-60 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 3257 (N-H), 1710 (C=O), 1648 (C=N), 873, 755, 694 (1,3-disubstituted benzene ring); <sup>1</sup>H-NMR, &#x3B4; (ppm): 1.21 (t, 3H, CH3), 1.28 (t, 3H, CH<sub>3</sub>), 2.28 (s, 3H, CH<sub>3</sub>), 3.60 (s, 2H, CH<sub>2</sub>), 4.08 (q, 2H, CH<sub>2</sub>), 4.20 (q, 2H, CH<sub>2</sub>), 6.96-7.54 (m, 4H, Ar-H), 8.46 (s, 1H, NH); Calcd. (%) for C<sub>14</sub>H<sub>20</sub>N<sub>2</sub>O<sub>3</sub> (264): C, 63.56; H, 7.63; N, 10.60; found (%): C, 63.65; H, 7.89, N, 10.58.</p>
+      </sec>
+      <sec>
+        <title>General Procedure for the Preparation of 3-Substituted-4-amino-4,5-dihydro-1H-1,2,4-triazole-5-ones <italic><bold>3a-d</bold></italic>.</title>
+        <p>Compound <bold>2</bold> (0.01 mol) was refluxed for 5 hr with a solution of hydrazine hydrate (1.25 mL) in water (60 mL). The solution was crystallized by cooling to obtain the crude product (<bold>3a-d</bold>). The solid material thus obtained was filtered off and recrystallized from ethanol.</p>
+        <p><italic>3-o-Chlorobenzyl-4-amino-4,5-dihydro-1H-1,2,4-triazole-5-one</italic> (<bold>3a</bold>): Prepared from <bold>2a</bold>, yield 88%; m.p. 164-165 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 3338, 3217 (NH<sub>2</sub>, NH), 1720 (C=O), 1633 (C=N), 749 (1,2-disubstituted benzene ring); <sup>1</sup>H-NMR, &#x3B4; (ppm): 4.10 (s, 2H, CH<sub>2</sub>), 5.28 (s, 2H, NH<sub>2</sub>), 7.25 (s, 4H, Ar-H), 11.90 (s, 1H, NH); <sup>13</sup>C-NMR, &#x3B4; (ppm): 28.80, 124.63, 126.84, 130.13, 132.86, 136.90, 138.63, 145.10, 153.14;. Calcd. (%) for C<sub>9</sub>H<sub>9</sub>N<sub>4</sub>OCl (225): C, 48.08; H, 4.04; N, 24.94; found (%): C, 48.40; H, 4.54, N, 24.68.</p>
+        <p><italic>3-m-Chlorobenzyl-4-amino-4,5-dihydro-1H-1,2,4-triazole-5-one</italic> (<bold>3b</bold>):Prepared from <bold>2b</bold>, yield 83%; m.p. 171-172 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 3324, 3224 (NH<sub>2</sub>, NH),  1730 (C=O), 1638 (C=N), 864, 793, 719 (1,3-disubstituted benzene ring); <sup>1</sup>H-NMR, &#x3B4; (ppm): 4.00 (s, 2H, CH2), 5.18 (s, 2H, NH2), 7.16 (s, 4H, Ar-H), 11.10 (s, 1H, NH); <sup>13</sup>C-NMR, &#x3B4; (ppm): 29.62, 125.54, 127.84, 131.14, 133.62, 136.95, 137.44, 146.93, 154.11; Calcd. (%) for C<sub>9</sub>H<sub>9</sub>N<sub>4</sub>OCl (225): C, 48.08; H, 4.04; N, 24.94; found (%): C, 48.34; H, 4.63, N, 24.85.</p>
+        <p><italic>3-o-Methylbenzyl-4-amino-4,5-dihydro-1H-1,2,4-triazole-5-one</italic> (<bold>3c</bold>): Prepared from <bold>2c</bold>, yield 91%; m.p. 190-191 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 3327, 3221 (NH<sub>2</sub>, NH), 1725 (C=O), 1635 (C=N), 736 (1,2-disubstituted benzene ring); <sup>1</sup>H NMR, &#x3B4; (ppm): 2.38 (s, 3H, CH<sub>3</sub>), 4.10 (s, 2H, CH<sub>2</sub>), 5.28 (s, 2H, NH<sub>2</sub>), 7.32 (s, 4H, Ar-H), 11.60 (s, 1H, NH); <sup>13</sup>C-NMR, &#x3B4; (ppm): 20.12, 29.76, 124.86, 125.18, 129.26, 130.18, 134.10, 135.19, 146.13, 153.81; Calcd. (%) for C<sub>10</sub>H<sub>12</sub>N<sub>4</sub>O (204): C, 58.76; H, 5.92; N, 27.42; found (%): C, 58.86; H, 6.04, N, 27.31.</p>
+        <p><italic>3-m-Methylbenzyl-4-amino-4,5-dihydro-1H-1,2,4-triazole-5-one</italic> (<bold>3d</bold>): Prepared from <bold>2d</bold>, yield 87%; m.p.156-157 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 3322, 3222 (NH<sub>2</sub>, NH), 1731 (C=O), 1642 (C=N), 822, 751,  705 (1,3-disubstituted benzene ring); <sup>1</sup>H-NMR, &#x3B4; (ppm): 2.38 (s, 3H, CH<sub>3</sub>), 4.16 (s, 2H, CH<sub>2</sub>), 5.24 (s, 2H, NH<sub>2</sub>), 7.24 (s, 4H, Ar-H), 11.46 (s, 1H, NH); <sup>13</sup>C-NMR, &#x3B4; (ppm): 19.08, 28.12, 125.70, 126.56, 129.01, 129.78, 134.27, 136.17, 147.28, 154.00; Calcd. (%) for C<sub>10</sub>H<sub>12</sub>N<sub>4</sub>O (204): C, 58.76; H, 5.92; N, 27.42; found (%): C, 58.69; H, 6.12, N, 27.96.</p>
+      </sec>
+      <sec>
+        <title>General Procedure for the Preparation of Isatin-3-imines <italic><bold>4a-d</bold></italic>.</title>
+        <p>Equimolar quantities (0.01 mol) of isatin and the corresponding amino compound <bold>3a-d</bold> were dissolved in warm ethanol (40 mL) containing glacial acetic acid (0.5 mL). The reaction mixture was refluxed for 4 hr and then kept at room temperature overnight. The resulting solid was washed with ethanol, dried and recrystallized from ethanol-chloroform to afford compounds <bold>4a-d</bold>.</p>
+        <p><italic>3-[3&#x2019;-(4&#x2019;&#x2019;-o-Chlorobenzyl-4&#x2019;,5&#x2019;-dihydro-1&#x2019;H-1&#x2019;,2&#x2019;,4&#x2019;-triazol-5&#x2019;-on-4&#x2019;-yl]-iminoisatin</italic> (<bold>4a</bold>): Prepared from <bold>3a</bold>, yield 72%; m.p. 252-253 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 3403, 3190 (N-H), 1754,1730 (C=O), 1684, 1613 (C=N), 1463 (C=C); <sup>1</sup>H-NMR, &#x3B4; (ppm): 4.18 (s, 2H, CH<sub>2</sub>), 7.18-7.64 (m, 8H, Ar-H), 11.22 (s, 1H, N-H), 12.40 (s, 1H, N-H); <sup>13</sup>C-NMR, &#x3B4; (ppm): 29.26, 113.42, 115.80, 121.18, 125.50, 126.18, 128.88, 129.85, 131.60, 133.36, 134.81, 137.18, 144.81, 145.83, 146.12, 156.18, 161.86 ; Calcd. (%) for C<sub>17</sub>H<sub>12</sub>N<sub>5</sub>O<sub>2</sub>Cl (354): C, 67.66; H, 3.42; N, 19.79; found (%): C, 57.18; H, 3.52, N, 19.64.</p>
+        <p><italic>3-[3&#x2019;-(4&#x2019;&#x2019;-m-Chlorobenzyl)-4&#x2019;,5&#x2019;-dihydro-1&#x2019;H-1&#x2019;,2&#x2019;,4&#x2019;-triazol-5&#x2019;-on-4&#x2019;-yl]-iminoisatin</italic> (<bold>4b</bold>): Prepared from <bold>3b</bold>, yield 68%; m.p. 266-267 &#xBA;C; IR &#x1FE1; (cm-1): 3164, 3086 (N-H), 1730, 1708 (C=O), 1684, 1613 (C=N), 1464 (C=C); <sup>1</sup>H-NMR, &#x3B4; (ppm): 4.14 (s, 2H, CH<sub>2</sub>), 6.96-7.32 (m, 6H, Ar-H), 7.40-7.68 (s, 2H, Ar-H), 11.28 (s, 1H, N-H), 12.36 (s, 1H, N-H); <sup>13</sup>C-NMR, &#x3B4; (ppm): 28.31, 112.41, 116.42, 120.00, 124.81, 127.51, 128.12, 129.24, 131.18, 132.41, 135.40, 136.02, 145.10, 145.91, 146.83, 157.16, 162.15; Calcd. (%) for C<sub>17</sub>H<sub>12</sub>N<sub>5</sub>O<sub>2</sub>Cl (354): C, 57.66; H, 3.42; N, 19.79; found (%): C, 57.89; H, 3.48, N, 19.69.</p>
+        <p><italic>3-[3&#x2019;-(4&#x2019;&#x2019;-o-Methylbenzyl)-4&#x2019;,5&#x2019;-dihydro-1&#x2019;H-1&#x2019;,2&#x2019;,4&#x2019;-triazol-5&#x2019;-on-4&#x2019;-yl]-iminoisatin</italic> (<bold>4c</bold>): Prepared from <bold>3c</bold>, yield 74%; m.p. 269-270 &#xBA;C; IR &#x1FE1; (cm<sup>-1</sup>): 3194, 3088 (N-H), 1746, 1706 (C=O), 1610, 1588 (C=N), 1467 (C=C); <sup>1</sup>H-NMR, &#x3B4; (ppm): 2.44 (s, 3H, CH<sub>3</sub>), 4.08 (s, 2H, CH<sub>2</sub>), 6.92-7.66 (m, 8H, Ar-H), 11.12 (s, 1H, N-H), 12.54 (s, 1H, N-H); <sup>13</sup>C-NMR, &#x3B4; (ppm): 19.10, 29.33, 111.16, 115.73, 122.41, 125.74, 127.10, 127.90, 129.37, 130.04, 133.33, 135.54, 136.53, 145.70, 146.10, 148.54, 158.04, 163.31; Calcd. (%) for C<sub>18</sub>H<sub>15</sub>N<sub>5</sub>O<sub>2</sub> (333): C, 64.80; H, 4.54; N, 21.00; found (%): C, 64.96; H, 4.66, N, 21.44.</p>
+        <p><italic>3-[3&#x2019;-(4&#x2019;&#x2019;-m-Methylbenzyl)-4&#x2019;,5&#x2019;-dihydro-1&#x2019;H-1&#x2019;,2&#x2019;,4&#x2019;-triazol-5&#x2019;-on-4&#x2019;-yl]-iminoisatin</italic> (<bold>4d</bold>): Prepared from <bold>3d</bold>, yield 75 %; m.p. 272-273 &#xBA;C; IR &#xF5; (cm<sup>-1</sup>): 3177, 3084 (N-H), 1748, 1707 (C=O), 1609, 1583 (C=N), 1466 (C=C); <sup>1</sup>H-NMR &#x3B4; (ppm): 2.41 (s, 3H, CH3), 4.12 (s, 2H, CH<sub>2</sub>), 7.00-7.47 (m, 8H, Ar-H), 11.20 (s, 1H, N-H), 12.32 (s, 1H, N-H); <sup>13</sup>C-NMR, &#x3B4; (ppm): 19.04, 28.96, 112.86, 114.61, 121.14, 124.81, 127.00, 127.50, 128.14, 131.14, 132.15, 135.20, 135.41, 144.62, 146.54, 147.51, 157.60, 162.94; Calcd. (%) for C<sub>18</sub>H<sub>15</sub>N<sub>5</sub>O<sub>2</sub> (333): C, 64.80; H, 4.54; N, 21.00; found (%): C, 64.56; H, 4.63, N, 21.21.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00376">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#xDC;n</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <source>Chim. Acta Turc.</source>
+          <year>1975</year>
+          <volume>3</volume>
+          <fpage>1</fpage>
+          <lpage>22</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00376">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>&#xDC;n</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Chim Acta Turc.</source>
+          <year>1979</year>
+          <volume>7</volume>
+          <fpage>269</fpage>
+          <lpage>290</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00376">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Milcent</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Redeuilh</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1979</year>
+          <volume>16</volume>
+          <fpage>403</fpage>
+          <lpage>407</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00376">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Milcent</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Redeuilh</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1980</year>
+          <volume>17</volume>
+          <fpage>1691</fpage>
+          <lpage>1696</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00376">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malbec</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Micent</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Vicart</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1984</year>
+          <volume>21</volume>
+          <fpage>1769</fpage>
+          <lpage>1774</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00376">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Y&#x131;ld&#x131;r&#x131;m</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>Monatsh. Chem.</source>
+          <year>1991</year>
+          <volume>122</volume>
+          <fpage>557</fpage>
+          <lpage>563</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00376">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Demirba&#x15F;</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Demirba&#x15F;</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <source>Polish. J. Chem.</source>
+          <year>1996</year>
+          <volume>70</volume>
+          <fpage>1114</fpage>
+          <lpage>1120</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00376">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Y&#xFC;ksek</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Demirba&#x15F;</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Johansson</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>&#xC7;elik</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <source>Arzneim.-Forsch./Drug Res.</source>
+          <year>1997</year>
+          <volume>47(I)</volume>
+          <fpage>405</fpage>
+          <lpage>409</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00376">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Serdar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sivri</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Yavuz</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Demirba&#x15F;</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <source>Model. Meas. Cont. C.</source>
+          <year>1998</year>
+          <volume>57</volume>
+          <fpage>59</fpage>
+          <lpage>63</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00376">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kahveci</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Polon. Pharm-Drug Res.</source>
+          <year>2000</year>
+          <volume>57</volume>
+          <fpage>119</fpage>
+          <lpage>122</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00376">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kahveci</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <source>Turk. J. Chem.</source>
+          <year>2000</year>
+          <volume>24</volume>
+          <fpage>343</fpage>
+          <lpage>351</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00376">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kahveci</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bekircan</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Serdar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <source>Indian J. Chem. Sec-B.</source>
+          <year>2003</year>
+          <volume>42B</volume>
+          <fpage>1527</fpage>
+          <lpage>1530</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00376">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kahveci</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bekircan</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Serdar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>&#x130;kizler</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <source>Rev. Roum. Chim.</source>
+          <year>2003</year>
+          <volume>48</volume>
+          <fpage>615</fpage>
+          <lpage>618</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00376">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#xC7;oruh</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Kahveci</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>&#x15E;a&#x15F;maz</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>A&#x11F;ar</surname>
+              <given-names>Erbil.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Erd&#xF6;nmez</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Cryst.</source>
+          <year>2003</year>
+          <volume>C59</volume>
+          <fpage>o476</fpage>
+          <lpage>o478</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00376">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parrick</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Yahya</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1984</year>
+          <volume>25</volume>
+          <fpage>3099</fpage>
+          <lpage>3100</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00376">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rajapadhye</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Popp</surname>
+              <given-names>F.D.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1984</year>
+          <volume>21</volume>
+          <fpage>289</fpage>
+          <lpage>291</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00376">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morley</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Farr</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Flood</surname>
+              <given-names>J.F.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Pharmacol.</source>
+          <year>1996</year>
+          <volume>305</volume>
+          <fpage>23</fpage>
+          <lpage>29</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00376">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bergman</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Stalhandske</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Vallberg</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Chem. Scand.</source>
+          <year>1997</year>
+          <volume>51</volume>
+          <fpage>753</fpage>
+          <lpage>759</lpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00376">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Panova</surname>
+              <given-names>N.G.</given-names>
+            </name>
+            <name>
+              <surname>Zemskova</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <source>Neurosci. Lett.</source>
+          <year>1997</year>
+          <volume>233</volume>
+          <fpage>58</fpage>
+          <lpage>60</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00376">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S.N.</given-names>
+            </name>
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Pharm. Turcica</source>
+          <year>1998</year>
+          <volume>XXXX</volume>
+          <fpage>33</fpage>
+          <lpage>38</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00376">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S.N.</given-names>
+            </name>
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nath</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>de Clercq</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Pharm. Acta Helv.</source>
+          <year>1999</year>
+          <volume>74</volume>
+          <fpage>11</fpage>
+          <lpage>17</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00376">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S.N.</given-names>
+            </name>
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nath</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>de Clercq</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2000</year>
+          <volume>35</volume>
+          <fpage>249</fpage>
+          <lpage>255</lpage>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-00376">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sridhar</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Saravanan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ramesh</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2001</year>
+          <volume>36</volume>
+          <fpage>615</fpage>
+          <lpage>625</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-00376">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S.N.</given-names>
+            </name>
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nath</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>de Clercq</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Arzneim.-Forsch./Drug Res.</source>
+          <year>2000</year>
+          <volume>50</volume>
+          <fpage>55</fpage>
+          <lpage>59</lpage>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-00376">
+        <label>25.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pinner</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Die Imido&#xE4;ther und ihre Derivate, 1 Auflage</source>
+          <publisher-name>Oppenheim</publisher-name>
+          <publisher-loc>Berlin</publisher-loc>
+          <year>1892</year>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+      <p><italic>Sample Availability:</italic> Available from the author.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

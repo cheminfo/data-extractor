@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020360</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00360</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis X-ray Structure of a New Pyrrolo[1,2-b]-pyridazine Derivative</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Caira</surname>
+            <given-names>Mino R.</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00360" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-00360" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dumitrascu</surname>
+            <given-names>Florea</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00360" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Draghici</surname>
+            <given-names>Constantin</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00360" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dumitrescu</surname>
+            <given-names>Denisa</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00360" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cristea</surname>
+            <given-names>Mihaela</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00360" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00360"><label>1</label>Department of Chemistry, University of Cape Town, Rondebosch 7701, South Africa</aff>
+      <aff id="af2-molecules-10-00360"><label>2</label>Centre of Organic Chemistry &#x201C;C. D. Nenitzescu&#x201D;, Romanian Academy, Spl. Independentei 202B, Bucharest 060023, Romania</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00360"><label>*</label> To whom correspondence should be addressed; e-mail: <email>xraymino@science.uct.ac.za</email>; Tel. (+27) 21 650 3071; Fax (+27) 21 689 7499</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>360</fpage>
+      <lpage>366</lpage>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The synthesis, characterization and X-ray crystal structure of 2-(4-chloro-phenyl)-7-methylpyrrolo[1,2-b]pyridazine are reported. The compound crystallizes in the space group P2<sub>1</sub>/c (No.14) with <italic>a</italic> =3.8568(1), <italic>b</italic> = 11.0690(3), <italic>c</italic> = 26.4243(7) &#xC5;, <italic>&#x3B2;</italic> = 92.777(1)&#xB0; and Z = 4. Accurate molecular parameters for the novel heterocyclic system were obtained from intensity data collected at 113K. The molecule assumes a planar conformation in the crystal and the packing is based on &#x3C0;-&#x3C0; stacking with interplanar spacing 3.400 &#xC5;, typical of aromatic molecules with potential for displaying useful optical properties.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Pyrrolo[1,2-b]pyridazine</kwd>
+		<kwd>crystal structure</kwd>
+		<kwd>&#x3C0;-&#x3C0; stacking</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The fused heterocyclic rings resulting from the condensation of pyridazine with a pyrrole [<xref ref-type="bibr" rid="B1-molecules-10-00360">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00360">2</xref>] or oxazole [<xref ref-type="bibr" rid="B3-molecules-10-00360">3</xref>] ring have interesting optical properties, offering new strategies and feasible ways to obtain stable light-emitting organic compounds. These condensed heterocycles are highly fluorescent in the solid state and in solution. Pyrrolo[1,2-b]pyridazine derivatives have also attracted attention in recent years due to their biological activity [<xref ref-type="bibr" rid="B4-molecules-10-00360">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00360">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00360">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-00360">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00360">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00360">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00360">10</xref>]. To our knowledge, only one X-ray structure of a substituted pyrrolo[1,2-b]pyridazine has been reported to date, namely that of compound <bold>1</bold> [<xref ref-type="bibr" rid="B2-molecules-10-00360">2</xref>], shown in <xref ref-type="scheme" rid="molecules-10-00360-f003">Scheme 1</xref>.</p>
+	  <fig id="molecules-10-00360-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00360-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Structures of pyrrolo[1,2-b]pyridazines <bold>1</bold> [<xref ref-type="bibr" rid="B2-molecules-10-00360">2</xref>] and <bold>4</bold> (present study)</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00360-g003.tif"/>
+      </fig>
+      <p>As suggested [<xref ref-type="bibr" rid="B2-molecules-10-00360">2</xref>], the expansion of the &#x3C0;-electron system could have strong influences on the fluorescent properties of the compounds under discussion and represents the key step in the design of novel optically active materials. It is also known that &#x3C0;-&#x3C0; stacking interactions in the solid state are needed in order to have an extended &#x3C0; system, thus enabling electron mobility in the material. Such interactions are present in conjugated planar structures and to verify this hypothesis, the X-ray structure of <bold>4</bold> was determined. </p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>2-(4-Chlorophenyl)-7-methylpyrrolo[1,2-b]pyridazine (<bold>4</bold>) was prepared from the ester <bold>2</bold> [<xref ref-type="bibr" rid="B11-molecules-10-00360">11</xref>], under basic conditions, followed by thermal decarboxylation of the corresponding acid <bold>3</bold>.</p>
+      <fig id="molecules-10-00360-f004" position="float">
+        <object-id pub-id-type="pii">molecules-10-00360-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Synthesis of compound <bold>4</bold></p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00360-g004.tif"/>
+      </fig>
+      <p>The structure of the pyrrolo[1,2-b]pyridazine <bold>4</bold> was confirmed by elemental analysis and NMR spectroscopy. In its <sup>1</sup>H-NMR the methyl group (&#x3B4; = 2.62 ppm) appeared as a doublet (<italic>J</italic> = 0.7 Hz) due to the coupling with H-6. The H-5 proton (&#x3B4; = 6.67 ppm) appeared as a doublet with coupling constant <italic>J</italic> = 4.3 Hz, whereas H-6 (&#x3B4; = 6.47 ppm) gave a double quartet with coupling constants of 4.3 and 0.7 Hz corresponding to the coupling with H-5 and methyl protons. The H-3 and H-4 protons from the pyridazine moiety gave two doublets at 6.82 and 7.72 ppm (<italic>J</italic> = 9.3 Hz). Also, the protons from the benzene ring appeared as two doublets with <italic>J</italic> = 8.6 Hz.</p>
+      <p>The <sup>13</sup>C-NMR data for compound <bold>4</bold> were in agreement with the structure assignment. The chemical shifts of tertiary carbon atoms were established by the HETCOR experiment. In turn, the chemical shift from 148.2 ppm was attributed to the C-2 atom due to its vicinity with the N-2 atom.</p>
+      <p><xref ref-type="fig" rid="molecules-10-00360-f001">Figure 1</xref> shows the molecular structure of <bold>4</bold> in the crystal. The maximum deviation of any atom from the least-squares (LS) plane including the nine non-H atoms of the pyrrolopyridazine moiety is 0.016(3) &#xC5; (for atom C16). This system is practically coplanar with the chlorophenyl residue (dihedral angle between LS planes 2.4(1)&#xB0;).</p>
+      <fig id="molecules-10-00360-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Molecular structure of <bold>4</bold> showing (left) atomic numbering and thermal ellipsoids drawn at the 50% probability level [<xref ref-type="bibr" rid="B12-molecules-10-00360">12</xref>] and (right) &#x3C0;-&#x3C0; stacking in the crystal</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00360-g001.tif"/>
+      </fig>
+      <p>Salient geometrical parameters for the heterocyclic system were compared with those in <bold>1</bold> [<xref ref-type="bibr" rid="B2-molecules-10-00360">2</xref>]. While both crystal structures were determined from low temperature intensity data (113 K for <bold>4</bold>, 100 K for 1), it is noteworthy that the standard deviations in bond lengths for <bold>4</bold> (0.003-0.004 &#xC5;) are an order of magnitude smaller than those reported for <bold>1</bold> (0.037 &#xC5; [<xref ref-type="bibr" rid="B2-molecules-10-00360">2</xref>]), justifying our reported analysis and allowing a more precise description of this heterocyclic system. The N-N bond length in <bold>4</bold> is 1.359(3) &#xC5; and the length C8-N9 is 1.314(3) &#xC5;. Given the relative standard deviations, these values overlap those quoted for <bold>1</bold> [<xref ref-type="bibr" rid="B2-molecules-10-00360">2</xref>].  The carbon-carbon bonds in the 5-membered ring of <bold>4</bold> nominally span a narrower range (1.378(4)-1.396(5) &#xC5;) than that observed in <bold>1</bold> (1.383-1.426 &#xC5;). This is attributed to very significant electronic effects operating in <bold>1</bold> owing to the presence of two methyl ester substituents (<xref ref-type="scheme" rid="molecules-10-00360-f003">Scheme 1</xref>). The asymmetry of the pyridazine ring of <bold>4</bold> is evident in <xref ref-type="fig" rid="molecules-10-00360-f001">Figure 1</xref>. In particular, the endocyclic angles subtended at N9 and C11 are equal (115.8(2), 115.7(3)&#xB0; respectively) and significantly smaller than that subtended at N10 (126.1(2)&#xB0;). Ring conjugation is reflected in the C5-C8 length of 1.490(4) &#xC5;, typical of e.g. biphenyls.</p>
+      <p>The likelihood of graphitic-type &#x3C0;-&#x3C0; stacking of these aromatic molecules in the crystal (<xref ref-type="fig" rid="molecules-10-00360-f001">Figure 1</xref>, right) was originally inferred from observation of the very short unit cell <italic>a</italic>-axis of 3.8568(1) &#xC5;.  Molecules of <bold>4</bold> stack by translation along the <italic>x</italic>-direction forming columns. Crystal packing viewed parallel to the stacking direction is shown in <xref ref-type="fig" rid="molecules-10-00360-f002">Figure 2</xref>. Because of their steep inclinations to the <italic>bc</italic>-face of the unit cell, molecules of <bold>4</bold> stack in an offset face-to-face mode (<xref ref-type="fig" rid="molecules-10-00360-f002">Figure 2</xref>, right) with an interplanar separation of 3.400 &#xC5; (i.e. significantly &lt; <italic>a</italic>). This distance matches those reported in crystals of <bold>1</bold> and related heterocyclic aromatic systems (range 3.31-3.39 &#xC5;), for which it has been suggested that the strength of &#x3C0; stacking is sufficient for applications requiring high electron mobility [<xref ref-type="bibr" rid="B2-molecules-10-00360">2</xref>]. The stacking offset in <bold>4</bold> results in the shortest centroid&#x2026;centroid distance (3.635 &#xC5;) being that between the pyridazine ring of a molecule at <italic>x, y, z</italic> and the pyrrole ring of the translated molecule at <italic>1+x, y, z</italic>. The presence of only weak &#x3C0;-&#x3C0; stacking interactions in crystals of <bold>4</bold> is consistent with its low melting point of 54-55&#xB0;C. The X-ray analysis thus shows conclusively that the preparation and crystallization of 4 have achieved the desired goal in the solid state, namely extension of the &#x3C0;-electron system of the pyrrolo[1,2-b]pyridazine.</p>
+      <fig id="molecules-10-00360-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>[100] projection of the crystal structure of <bold>4</bold></p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00360-g002.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Melting points were determined on a Bo&#xEB;tius hot plate and are uncorrected. The NMR spectra were recorded on a Varian Gemini 300 BB instrument, operating at 300 MHz for <sup>1</sup>H and 75 MHz for <sup>13</sup>C. IR spectra were recorded with a UR-20 Carl Zeiss-Jena spectrometer.</p>
+      </sec>
+      <sec>
+        <title>Syntheses</title>
+        <sec>
+          <title><italic>2-(4-Chlorophenyl)-7-methylpyrrolo[1,2-b]pyridazine-5-carboxylate</italic> (<bold>3</bold>)</title>
+          <p>Ethyl 2-(4-chlorophenyl)-7-methylpyrrolo[1,2-b]pyridazine-5-carboxylate (<bold>2</bold>, 1 g, 3.2 mmoles) [<xref ref-type="bibr" rid="B11-molecules-10-00360">11</xref>] was heated under reflux, under continuous stirring, for 4 hours, with 10 % NaOH (20 mL). After acidification with concentrated HCl, the precipitate was collected by filtration, washed with water and air dried. Recrystallization from DMF afforded white crystals with m.p. 279-281 <sup>0</sup>C. Yield 97 %. Anal. Calcd. for C<sub>15</sub>H<sub>11</sub>ClN<sub>2</sub>O<sub>2</sub>: C 62.84, H 3.87, Cl 12.37, N 9.77. Found C 63.22, H 4.15, Cl 12.73, N 10.07; <sup>1</sup>H-NMR (CDCl<sub>3</sub> + TFA; &#x3B4;, ppm; <italic>J</italic>, Hz): 2.63 (d, 3H, 0.8; 7-Me); 7.20 (q, 1H, 0.8; H-6); 7.42 (d, 1H, 9.4; H-3); 7.50 (d, 2H, 8.6, H-3', H-5'); 7.95 (d, 2H, 8.6, H-2', H-6'); 8.48 (d, 1H, 9.4; H-4); <sup>13</sup>C-NMR (CDCl<sub>3</sub> + TFA; &#x3B4;, ppm): 11.0 (7-Me); 100.2 (C-5); 113.7, 115.1,127.8 (C-3, C-4, C-6); 128.3, 129.4 (C-2', C-3', C-5', C-6'); 129.2, 130.7, 133.9; 136.7 (C-4a, C-7, C-1', C-4'); 151.0 (C-2); 171.5 (COOH).</p>
+        </sec>
+        <sec>
+          <title><italic>2-(4-Chlorophenyl)-7-methylpyrrolo[1,2-b]pyridazine</italic> (<bold>4</bold>).</title>
+          <p>Carboxylic acid <bold>3</bold> (0.5 g, 1.7 mmoles) was heated above its melting point (bath temperature 290-5 &#xB0;C) until evolution of CO<sub>2</sub> ceased (ca. 5 min.). After cooling, the crude product was dissolved in a minimum amount of dichloromethane and purified by column chromatography on neutral Al<sub>2</sub>O<sub>3</sub> using CH<sub>2</sub>Cl<sub>2</sub> as eluent. The solvent was evaporated, the residue crystallized from isopropanol affording yellow crystals of <bold>4</bold>, m.p. 54-5 <sup>0</sup>C. Yield 62 %. Anal. Calcd. for C<sub>14</sub>H<sub>11</sub>ClN<sub>2</sub>: C 69.28, H 4.57, Cl 14.61, N 11.54. Found C 69.67, H 4.88, Cl 14.97 N 11.88. IR (CH<sub>2</sub>Cl<sub>2</sub>; cm<sup>-1</sup>): 1100, 1490, 1520, 1590, 1615, 2905; <sup>1</sup>H-NMR (CDCl<sub>3</sub>; &#x3B4;, ppm; <italic>J</italic>, Hz): 2.62 (s, 3H, 0.7; 7-Me); 6.47 (d, 1H, 4.3; H-5); 6.67 (dq, 1H, 4.3, 0.7, H-6); 6,82 (d, 1H, 9.3, H-3); 7.42 (d, 2H, 8.6, H-3', H-5'); 7.72 (d,1H, 9.3; H-4); 7.90 (d, 2H, 8.6, H-2', H-6'); <sup>13</sup>C-NMR (CDCl<sub>3</sub>; &#x3B4;, ppm): 11.2 (7-Me); 98.7 (C-5); 106.1 (C-3); 112.6 (C-6); 124.9, 125.9 (C-4a, C-7); 127.1 (C-4); 127.9, 128,8 (C-2', C-3', C-5', C-6'); 135.1, 135.6 (C-1', C-4'); 148,2 (C-2).</p>
+        </sec>
+      <sec>
+        <title><italic>X-ray analysis of</italic>&#xA0; <bold>4</bold></title>
+        <p>A small fragment was cut from a needle of <bold>4</bold> and mounted on a Nonius Kappa CCD four-circle diffractometer. Intensity data were collected using Mo-K&#x3B1; radiation (&#x3BB; = 0.71069 &#xC5;) with the crystal cooled in a stream of N<sub>2</sub> from a Cryostream cooler (Oxford Cryosystems, UK). The data-collection strategy (program COLLECT [<xref ref-type="bibr" rid="B13-molecules-10-00360">13</xref>]) involved suitable combinations of 1.0&#xB0; &#x3D5;- and 0.60&#xB0; &#x3C9;-scans. Program DENZO-SMN [<xref ref-type="bibr" rid="B14-molecules-10-00360">14</xref>] was used for cell refinement (15365 reflections in the &#x3B8;-range 0.21-27.48&#xB0;) and data reduction. The SADABS program [<xref ref-type="bibr" rid="B15-molecules-10-00360">15</xref>] was used to apply absorption corrections. The structure was solved with the SHELXS86 program [<xref ref-type="bibr" rid="B16-molecules-10-00360">16</xref>] and refined on F<sup>2</sup> with SHELXL97 [<xref ref-type="bibr" rid="B17-molecules-10-00360">17</xref>], all non-hydrogen atoms being modelled anisotropically.  All H atoms were located in difference electron-density maps and were included in idealized positions in a riding model with isotropic thermal parameters equal to 1.2 times those of their parent atoms.  In the final cycles of refinement, least-squares weights of the form w = 1/[&#x3C3;<sup>2</sup>(F<sub>o</sub>)<sup>2</sup> + (aP)<sup>2</sup> +bP], P = [max(F<sub>o</sub><sup>2</sup>, 0) + 2F<sub>c</sub><sup>2</sup>]/3 were employed. Molecular parameters were calculated with PLATON [<xref ref-type="bibr" rid="B18-molecules-10-00360">18</xref>] and programs ORTEP-3 [<xref ref-type="bibr" rid="B12-molecules-10-00360">12</xref>] and WebLab Viewer Pro3.7 [<xref ref-type="bibr" rid="B19-molecules-10-00360">19</xref>] were used for illustrations. Crystallographic data for <bold>4</bold> are listed in <xref ref-type="table" rid="molecules-10-00360-t001">Table 1</xref>.  CCDC-254383 contains the supplementary crystallographic data for this paper. These data can be obtained free of charge via <uri>www.ccdc.cam.ac.uk/conts/retrieving.html</uri> [or from the Cambridge Crystallographic Data Centre, 12 Union Road, Cambridge CB2 1EZ, UK: fax: (internat.) +44-1223/336-033; Email: <email>deposit@ccdc.cam.ac.uk</email>].</p>
+        <table-wrap id="molecules-10-00360-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00360-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Crystallographic parameters for <bold>4</bold></p>
+          </caption>
+          <table rules="cols" style="border:solid thin">
+            <tbody>
+			<tr>
+			<td align="left" valign="middle">Chemical formula</td>
+			<td align="left" valign="middle">C<sub>14</sub>H<sub>11</sub>ClN<sub>2</sub></td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Formula weight</td>
+			<td align="left" valign="middle">242.71</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Crystal Color, Habit</td>
+			<td align="left" valign="middle">yellow, needle</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Crystal Dimensions</td>
+			<td align="left" valign="middle">0.08 x 0.12 x 0.18</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Crystal System</td>
+			<td align="left" valign="middle">monoclinic</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Lattice Type</td>
+			<td align="left" valign="middle">primitive</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Space Group</td>
+			<td align="left" valign="middle">P2<sub>1</sub>/c (#14)</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Lattice Parameters</td>
+			<td align="left" valign="middle"><italic>a</italic> = 3.8568(1) &#xC5;</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle"> </td>
+			<td align="left" valign="middle"><italic>b</italic> = 11.0690(3) &#xC5;</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle"> </td>
+			<td align="left" valign="middle"><italic>c</italic> = 26.4243(7) &#xC5;</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle"> </td>
+			<td align="left" valign="middle"><italic>&#x3B2;</italic> = 92.777(1)&#xB0;</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Volume</td>
+			<td align="left" valign="middle">1126.75(5) &#xC5;<sup>3</sup></td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Z value</td>
+			<td align="left" valign="middle">4</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">D<sub>calc</sub></td>
+			<td align="left" valign="middle">1.431 g/cm<sup>3</sup></td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">F(000)</td>
+			<td align="left" valign="middle">504</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">&#x3BC;(MoK&#x3B1;)</td>
+			<td align="left" valign="middle">0.314 mm<sup>-1</sup></td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Reflections/restraints/parameters</td>
+			<td align="left" valign="middle">2460 / 0 / 156</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Residuals: R1, wR2 [I &gt; 2&#x3C3;(I)]</td>
+			<td align="left" valign="middle">0.0578, 0.1305</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Goodness of Fit, S</td>
+			<td align="left" valign="middle">1.158</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Max. shift/error</td>
+			<td align="left" valign="middle">&lt; 0.001</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Max. peak in final &#x394;&#x3C1; synthesis</td>
+			<td align="left" valign="middle">0.49</td>
+			</tr>
+			<tr>
+			<td align="left" valign="middle">Min. peak in final &#x394;&#x3C1; synthesis</td>
+			<td align="left" valign="middle">-0.32</td>
+			</tr>
+            </tbody>
+          </table>
+		  </table-wrap>
+      </sec>
+    </sec>
+	</sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>MRC is grateful to the University of Cape Town and the NRF (Pretoria) for financial support.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00360">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Wudl</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mater. Chem.</source>
+          <year>1999</year>
+		  <volume>9</volume>
+          <fpage>2183</fpage>
+          <lpage>2188</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00360">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mitsumori</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Bendikov</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sed&#xF3;</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wudl</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Mater.</source>
+          <year>2003</year>
+		  <volume>15</volume>
+          <fpage>3759</fpage>
+          <lpage>3768</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00360">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vasilescu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Dumitrascu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Lemmetyinen</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tkachenko</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Fluorescence</source>
+          <year>2004</year>
+          <volume>14</volume>
+          <fpage>443</fpage>
+          <lpage>450</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00360">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruxer</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Lachoux</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Ousset</surname>
+              <given-names>J. B.</given-names>
+            </name>
+            <name>
+              <surname>Torregrosa</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Mattioda</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1994</year>
+		  <volume>31</volume>
+          <fpage>409</fpage>
+          <lpage>417</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00360">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ungureanu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mangalagiu</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Grosu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Petrovanu</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Ann. Pharm. Fr.</source>
+          <year>1997</year>
+          <volume>55</volume>
+          <fpage>69</fpage>
+          <lpage>72</lpage>
+          <comment>[<italic>Chem. Abstr.</italic> 1997, <italic>126</italic>, 303587]</comment>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00360">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nassir</surname>
+              <given-names>A. I.</given-names>
+            </name>
+            <name>
+              <surname>Gundersen</surname>
+              <given-names>L.-L.</given-names>
+            </name>
+            <name>
+              <surname>Rise</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>Antonsen</surname>
+              <given-names>&#xD8;</given-names>
+            </name>
+			<name>
+              <surname>Kristensen</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Langhelle</surname>
+              <given-names>B.</given-names>
+            </name>
+			<name>
+              <surname>Bast</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Custers</surname>
+              <given-names>I.</given-names>
+            </name>
+			<name>
+              <surname>Haenen</surname>
+              <given-names>G. R. M. M.</given-names>
+            </name>
+			<name>
+              <surname>Wikstr&#xF6;m</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>1998</year>
+		  <volume>8</volume>
+          <fpage>1829</fpage>
+          <lpage>1832</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-894X(98)00313-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00360">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#xD8;stby</surname>
+              <given-names>O. B.</given-names>
+            </name>
+            <name>
+              <surname>Dalhus</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Gundersen</surname>
+              <given-names>L.-L.</given-names>
+            </name>
+            <name>
+              <surname>Rise</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Bast</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Haenen</surname>
+              <given-names>G. R. M. M.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2000</year>
+		  <volume>9</volume>
+          <fpage>3763</fpage>
+          <lpage>3770</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00360">
+        <label>8.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ohtani</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fuji</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Fukui</surname>
+              <given-names>Y.</given-names>
+            </name>
+			<name>
+              <surname>Adachi</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>World Patent</source>
+          <patent>WO 9959999 A1</patent>
+          <year>1999</year>
+          <comment>[<italic>Chem. Abstr.</italic> 2000, <italic>132</italic>, 12318]</comment>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00360">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#xD8;stby</surname>
+              <given-names>O. B.</given-names>
+            </name>
+            <name>
+              <surname>Gundersen</surname>
+              <given-names>L.-L.</given-names>
+            </name>
+            <name>
+              <surname>Rise</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>Antonsen</surname>
+              <given-names>&#xD8;.</given-names>
+            </name>
+			<name>
+              <surname>Fosnes</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Larsen</surname>
+              <given-names>V.</given-names>
+            </name>
+			<name>
+              <surname>Bast</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Custers</surname>
+              <given-names>I.</given-names>
+            </name>
+			<name>
+              <surname>Haenen</surname>
+              <given-names>G. R. M. M.</given-names>
+            </name>
+          </person-group>
+          <source>Arch. Pharm. Pharm. Med. Chem.</source>
+          <year>2001</year>
+		  <volume>334</volume>
+          <fpage>21</fpage>
+          <lpage>24</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00360">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pal</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Batchu</surname>
+              <given-names>V. R.</given-names>
+            </name>
+            <name>
+              <surname>Khanna</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yeleswarapu</surname>
+              <given-names>K. R.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2002</year>
+          <volume>58</volume>
+          <fpage>9933</fpage>
+          <lpage>9940</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00360">
+        <label>11.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dumitra&#x15F;cu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mitan</surname>
+              <given-names>C. I.</given-names>
+            </name>
+            <name>
+              <surname>Dumitrescu</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Dr&#x103;ghici</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>C&#x103;proiu</surname>
+              <given-names>M. T.</given-names>
+            </name>
+            <name>
+              <surname>Vasilescu</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Book of Abstracts, 10<sup>th</sup> Blue Danube Symposium on Heterocyclic Chemistry</source>
+		  <comment>PO-126</comment>
+          <publisher-loc>Vienna, Austria</publisher-loc>
+		  <month>September</month>
+		  <day>3-6</day>
+          <year>2003</year>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00360">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Farrugia</surname>
+              <given-names>L. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>ORTEP-3 for windows - a version of ORTEP-III with a graphical user interface (GUI)</article-title>
+          <source>J. Appl. Crystallogr.</source>
+          <year>2000</year>
+          <volume>30</volume>
+          <fpage>565</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00360">
+        <label>13.</label>
+        <citation citation-type="book">
+		<article-title>COLLECT</article-title>
+          <source>Nonius 2000</source>
+          <publisher-name>Nonius BV</publisher-name>
+          <publisher-loc>Delft, The Netherlands</publisher-loc>
+          <year>2000</year>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00360">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Otwinowski</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Minor</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Methods Enzymol.</source>
+          <year>1997</year>
+          <volume>276</volume>
+          <fpage>307</fpage>
+          <lpage>326</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00360">
+        <label>15.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G. M.</given-names>
+            </name>
+          </person-group>
+          <source>SADABS. Program for Empirical Absorption Correction of Area Detector Data</source>
+          <publisher-name>University of G&#xF6;ttingen</publisher-name>
+          <publisher-loc>G&#xF6;ttingen, Germany</publisher-loc>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00360">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G. M.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Crystallogr.</source>
+          <year>1990</year>
+          <volume>A46</volume>
+          <fpage>467</fpage>
+          <lpage>473</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00360">
+        <label>17.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G. M.</given-names>
+            </name>
+          </person-group>
+          <source>SHELXL97</source>
+          <publisher-name>University of G&#xF6;ttingen</publisher-name>
+          <publisher-loc>G&#xF6;ttingen, Germany</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00360">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spek</surname>
+              <given-names>A. L.</given-names>
+            </name>
+          </person-group>
+          <source>PLATON, A multipurpose Crystallographic Tool</source>
+		  <comment>Version 10500 &#xA9; <bold>1980-2000</bold></comment>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00360">
+        <label>19.</label>
+        <citation citation-type="book">
+          <source>WebLab ViewerPro Version 3.5</source>
+          <publisher-name>Molecular Simulations Inc.</publisher-name>
+          <publisher-loc>San Diego, CA, USA</publisher-loc>
+          <comment>&#xA9; <bold>1999</bold></comment>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+        <p><italic>Sample availability:</italic> Samples of compound <bold>4</bold> are available from the authors.</p>
+      </fn>
+    </fn-group> 
+  </back>
+</article>

@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10060693</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00693</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Supramolecular Complex Formation by &#x3B2;-Cyclodextrin and Ferrocenylnaphthalene Diimide-intercalated Double Stranded DNA and Improved Electrochemical Gene Detection</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sato</surname>
+            <given-names>Shinobu</given-names>
+          </name>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Nojima</surname>
+            <given-names>Takahiko</given-names>
+          </name>
+        </contrib>		
+		<contrib contrib-type="author">
+	      <name>
+            <surname>Waki</surname>
+            <given-names>Michinori</given-names>
+          </name>
+		</contrib>
+		<contrib contrib-type="author">
+	      <name>
+            <surname>Takenaka</surname>
+            <given-names>Shigeori</given-names>
+          </name>
+		  <xref rid="c1-molecules-10-00693" ref-type="corresp">*</xref>
+		</contrib>
+	   <aff id="af1-molecules-10-00693">Department of Materials Science, Kyushu Institute of Technology, 1-1 Sensui-cho, Tobata-ku, Kitakyushu-shi, Fukuoka, 804-8550, Japan. Phone&amp;Fax:81-93-884-3322</aff>
+      </contrib-group>     
+      <author-notes>
+        <corresp id="c1-molecules-10-00693"><label>*</label> Author to whom correspondence should be addressed; e-mail <email>shige@che.kyutech.ac.jp</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <fpage>693</fpage>
+      <lpage>707</lpage>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>29</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+       <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Ferrocenylnaphthalene diimide <bold>1</bold> can bind to double stranded DNA (dsDNA) by the threading intercalation mode and the resulting complex was stabilized further by &#x3B2;-cyclodextrin (CD) by forming a supramolecular complex. These complex formation processes were studied by spectroscopic, viscometric, and electrochemical means in the absence or presence of &#x3B2;-CD. Quantitative analysis by quartz crystal microbalance (QCM) and electrochemical experiments strongly suggested a 2:1 binding stoichiometry for &#x3B2;-CD to <bold>1</bold> threading-intercalated to the dsDNA-immobilized electrode. Owing to this supramolecular complex formation, electrochemical DNA detection based on <bold>1</bold> was improved considerably.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Ferrocenylnaphthalene diimide</kwd> 
+		<kwd>&#x3B2;-cyclodextrin (CD)</kwd> 
+		<kwd>DNA</kwd> 
+		<kwd>electrochemical detection</kwd> 
+		<kwd>supramolecular complex</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Exploitation of supramolecular complex formation provides a new tool in nanotechnology [<xref ref-type="bibr" rid="B1-molecules-10-00693">1</xref>]. The complex formation of &#x3B2;-cyclodextrin (&#x3B2;-CD; <xref ref-type="scheme" rid="molecules-10-00693-f012">Scheme 1</xref>) with ferrocene molecules has been studied from a viewpoint of its unique electrochemical properties and applied to a supramolecular system [<xref ref-type="bibr" rid="B2-molecules-10-00693">2</xref>]. For example, ferrocene strongly binds to &#x3B2;-CD in uncharged states and its complex dissociates when it is oxidized. Dendrimers containing ferrocene units at the ends of a molecule were prepared and they formed supramolecular complexes with &#x3B2;-CD which could be broken apart or assembled by the redox reaction of the ferrocene units [<xref ref-type="bibr" rid="B3-molecules-10-00693">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-00693">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00693">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-00693">6</xref>].</p>
+      <fig id="molecules-10-00693-f012" position="float">
+        <object-id pub-id-type="pii">molecules-10-00693-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g012.tif"/>
+      </fig>
+      <p>In the meantime, we studied the interaction of ferrocenylnaphthalene diimide (<bold>1</bold> for example; <xref ref-type="scheme" rid="molecules-10-00693-f012">Scheme 1</xref>) with dsDNA and extended it to electrochemical detection of target DNA by using a DNA probe-immobilized electrode [<xref ref-type="bibr" rid="B7-molecules-10-00693">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00693">8</xref>]. In this system, it was essential for ferrocenylnaphthalene diimide <bold>1</bold> to form a complex with dsDNA by the threading intercalation mode, where its substituents are projecting out over the major and minor grooves of DNA duplex resulting in a catenated complex. When &#x3B2;-CD is added in this system, a supramolecular ternary complex may be formed, where &#x3B2;-CD caps the ferrocene moieties of <bold>1</bold> projecting out over the grooves of DNA duplex threading-intercalated with <bold>1</bold>. <xref ref-type="fig" rid="molecules-10-00693-f001">Figure 1</xref> shows a computer modeling of the supramolecular complex of &#x3B2;-CD and DNA-bound <bold>1</bold>. In this system, &#x3B2;-CD should act as a stabilizer of the complex, thereby resulting in the improved discrimination ability of <bold>1</bold> for dsDNA over single stranded DNA (ssDNA). This idea was substantiated in this paper by studying the binding behavior of <bold>1</bold> to dsDNA in the presence of &#x3B2;-CD. Furthermore, electrochemical DNA detection based on this supramolecular system was attempted.</p>
+      <fig id="molecules-10-00693-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Stereo view of the supramolecular complex of &#x3B2;-CD and <bold>1</bold> threading-intercalated to d(AAATTT)<sub>2</sub> duplex.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g001.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Interaction of <bold>1</bold> and &#x3B2;-CD</title>
+        <p>The interaction of <bold>1</bold> with &#x3B2;-CD was evaluated by electrochemical measurements. Cyclic voltammetry (CV) of 0.05 mM <bold>1</bold> was determined on a 6-mercaptohexanol-masked gold electrode in 0.1 M AcOK-AcOH (pH 5.6) containing 0.1 M KCl with an addition of several &#x3BC;L of 10 mM &#x3B2;-CD. The peak current decreased and the peak potential shifted to the positive side with an increase in the amount of &#x3B2;-CD as shown in <xref ref-type="fig" rid="molecules-10-00693-f002">Figure 2</xref>A. This behavior is similar to that of ferrocene derivatives with &#x3B2;-CD in aqueous solution reported previously [<xref ref-type="bibr" rid="B9-molecules-10-00693">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00693">10</xref>], showing that this phenomenon is based on the incorporation of the ferrocene into the cavity of &#x3B2;-CD. The binding constant of <bold>1</bold> with &#x3B2;-CD was calculated from the slope of the plot shown in <xref ref-type="fig" rid="molecules-10-00693-f002">Figure 2</xref>B by treatment similar to that described previously [<xref ref-type="bibr" rid="B11-molecules-10-00693">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00693">12</xref>] to afford 3.7 x 10<sup>3</sup> M<sup>-1</sup>, which is of similar magnitude to those reported previously [<xref ref-type="bibr" rid="B13-molecules-10-00693">13</xref>]. Similar experiments were carried out for the interaction of <bold>1</bold> with &#x3B1;-CD, but neither current decrease nor current shift was observed, suggesting no interaction of <bold>1</bold> with &#x3B1;-CD.  This observation is in agreement with those for a ferrocene derivative with &#x3B1;-CD previously described [<xref ref-type="bibr" rid="B13-molecules-10-00693">13</xref>].</p>
+        <fig id="molecules-10-00693-f002" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p>(A) Cyclic voltammograms of a 6-mercaptohexanol-masked gold electrode in 0.1 M AcOK-AcOH buffer (pH 5.6) containing 0.1 M KCl and 0.05 mM <bold>1</bold> in the presence of 0-0.2 mM &#x3B2;-CD and (B) plot of (i<sub>pc</sub>/i<sub>pf</sub>)<sup>2</sup> against [1-(i<sub>pc</sub>/i<sub>pf</sub>)<sup>2</sup>]/[&#x3B2;-CD]. The slope of this plot refers to 1/K.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g002.tif"/>
+        </fig>
+        <p>Similar experiments were carried out with a dsDNA-immobilized electrode, prepared by the hybridization of dT<sub>20</sub> with a dA<sub>20</sub>-immobilized gold electrode. CV measurements with this electrode were conducted in 0.1 M AcOK-AcOH (pH 5.6) containing 0.1 M KCl and 0.05 mM <bold>1</bold> in the presence of a various amount of &#x3B2;-CD. The cyclic voltammogram of <bold>1</bold> showed an asymmetric one-step redox reaction of <bold>1</bold> (E<sub>1/2</sub> = 403 mV, &#x394;E<sub>p</sub> = 21 mV) in the absence of &#x3B2;-CD as shown in <xref ref-type="fig" rid="molecules-10-00693-f003">Figure 3</xref>. This may suggest that the oxidized form of <bold>1</bold> has larger binding affinity for dsDNA than the reduced form and the former is harder to reduce in polyanionic dsDNA. The current peak decreased and shifted to the positive side with an increase in the amount of &#x3B2;-CD as shown in <xref ref-type="fig" rid="molecules-10-00693-f003">Figure 3</xref>. The asymmetric redox peak was changed to a symmetric one after addition of &#x3B2;-CD, suggesting that &#x3B2;-CD capped the ferrocene moieties of <bold>1</bold> bound to dsDNA on the electrode [<xref ref-type="bibr" rid="B9-molecules-10-00693">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00693">10</xref>]. The current increased with the &#x3B2;-CD concentration up to about 800 &#x3BC;M and then leveled off, indicating that the complex formation of &#x3B2;-CD with the ferrocene of <bold>1</bold> (50 &#x3BC;M) is nearly complete at this &#x3B2;-CD concentration. Therefore, all later experiments were carried out in the presence of a 16-fold excess of &#x3B2;-CD over <bold>1</bold>.</p>
+        <fig id="molecules-10-00693-f003" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p>Cyclic voltammograms of a dA<sub>20</sub>dT<sub>20</sub>-immobilized gold electrode in 0.1 M AcOK-AcOH buffer (pH 5.6) containing 0.1 M KCl and 0.05 mM <bold>1</bold> in the presence of 0-0.54 mM &#x3B2;-CD.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g003.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Effect of &#x3B2;-CD on the interaction of <bold>1</bold> with dsDNA</title>
+        <p>The absorption spectra of <bold>1</bold> in 10 mM sodium 2-(N-morpholino)ethanesulfonate (MES) buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl showed an absorption maximum at 383 nm based on the naphthalene diimide skeleton (<xref ref-type="fig" rid="molecules-10-00693-f004">Figure 4</xref>). Large hypochromic and small red shifts were observed in its spectrum upon addition of sonicated calf thymus DNA as dsDNA and this change was in agreement with the data reported previously [<xref ref-type="bibr" rid="B14-molecules-10-00693">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00693">15</xref>]. Since an isosbestic point was observed during this spectral change, the binding behavior can be evaluated by Scatchard analysis of the data shown in <xref ref-type="fig" rid="molecules-10-00693-f005">Figure 5</xref>. Thus, a binding constant of K=3.0 x 10<sup>5</sup> M<sup>-1</sup>, and site size (number of base pairs of dsDNA excluded by <bold>1</bold>) n=3 (<xref ref-type="fig" rid="molecules-10-00693-f005">Figure 5</xref>a) were obtained.</p>
+        <p> Absorption titration of calf thymus DNA with <bold>1</bold> in the presence of &#x3B2;-CD ([&#x3B2;-CD]/[<bold>1</bold>]=16) showed similar behavior of large hypochromic and small red shifts with an isosbestic point. Scatchard analysis of this spectral change gave a line with a break (the wind line). The binding constants of 3.0 x 10<sup>5</sup> M<sup>-1</sup> and 6.0 x 10<sup>5</sup> M<sup>-1</sup> with n=3 were obtained from the two linear parts, as shown in <xref ref-type="fig" rid="molecules-10-00693-f005">Figure 5</xref>b and <xref ref-type="fig" rid="molecules-10-00693-f005">Figure 5</xref>c. Since the former value is similar to the one in the absence of &#x3B2;-CD, it should represent the binding constant of <bold>1</bold> unincorporated into &#x3B2;-CD, whereas the latter that incorporated into &#x3B2;-CD.  In other words, &#x3B2;-CD stabilizes the complex of <bold>1</bold> with dsDNA two-fold.</p>
+        <p>To study the effect of &#x3B2;-CD on the association and dissociation processes of <bold>1</bold> with dsDNA, kinetic measurements were made in the absence or presence of &#x3B2;-CD in 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl. The data thus obtained are compiled in <xref ref-type="table" rid="molecules-10-00693-t001">Table 1</xref>. Association rate constants for <bold>1</bold> with calf thymus DNA in the absence or presence of &#x3B2;-CD were 1.4 x 10<sup>5</sup> and 1.1 x 10<sup>5</sup> M<sup>-1</sup>s<sup>-1</sup>, respectively. These similar values implied that the association process of <bold>1</bold> with dsDNA is not influenced much by &#x3B2;-CD. However, the dissociation rate constant for <bold>1</bold> from the complex of calf thymus DNA in the absence or presence of &#x3B2;-CD were 1.3 and 0.6 s<sup>-1</sup>, respectively, demonstrating that the binding constant of <bold>1</bold> is two-fold greater in the presence of &#x3B2;-CD than in its absence. This result was in good agreement with the data from Scatchard analysis and indicates that this stabilization derived from the stabilization of the complex of <bold>1</bold> bound to dsDNA by &#x3B2;-CD.</p>
+        <fig id="molecules-10-00693-f004" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>Spectrophotometric titration of 5 &#x3BC;M <bold>1</bold> with 0-0.15 mM sonicated calf thymus DNA in 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g004.tif"/>
+        </fig>
+        <fig id="molecules-10-00693-f005" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>Scatchard plots for 5 &#x3BC;M <bold>1</bold> with sonicated calf thymus DNA in the absence (a) or presence of 80 &#x3BC;M &#x3B2;-CD (b, c) in 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g005.tif"/>
+        </fig>
+        <table-wrap id="molecules-10-00693-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00693-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Kinetic parameters of the binding of <bold>1</bold> to sonicated calf thymus DNA in the absence or presence of &#x3B2;-CD<sup>a</sup></p>
+          </caption>
+         <table>
+            <thead>
+              <tr>
+                <th align="left" valign="middle">&#x3B2;-CD</th>
+                <th align="center" valign="middle">10<sup>-5</sup>k<sub>a</sub>/M<sup>-1</sup>s<sup>-1</sup></th>
+                <th align="center" valign="middle">k<sub>d</sub>/s<sup>-1</sup></th>
+                <th align="center" valign="middle">10<sup>-5</sup>K(=k<sub>a</sub>/k<sub>d</sub>)/M<sup>-1</sup></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle">absent</td>
+                <td align="center" valign="middle">1.4</td>
+                <td align="center" valign="middle">1.3</td>
+                <td align="center" valign="middle">1.0</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle">present</td>
+                <td align="center" valign="middle">1.1</td>
+                <td align="center" valign="middle">0.6</td>
+                <td align="center" valign="middle">2.0</td>
+              </tr>
+            </tbody>
+          </table>
+		   <table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> The experiments were conducted in 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl. [<bold>1</bold>]/[calf thymus DNA]/[&#x3B2;-CD]=1/10/16.</p>
+            </fn>
+            </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Structural effect of &#x3B2;-CD on the complex of <bold>1</bold> with dsDNA</title>
+        <p>To study the structural effect of &#x3B2;-CD on the complex formation of <bold>1</bold> with dsDNA, circular dichroism (CD) spectra of the complex of <bold>1</bold> (10 &#x3BC;M) with calf thymus DNA (100 &#x3BC;M) were measured in the absence or presence of 160 &#x3BC;M &#x3B2;-CD in 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl at 25 &#xB0;C. The CD spectrum of calf thymus DNA alone showed a negative Cotton effect at 245 nm and a positive one at 274 nm for a typical B-form DNA duplex (<xref ref-type="fig" rid="molecules-10-00693-f006">Figure 6</xref>A). This spectrum barely changed in the presence of &#x3B2;-CD, but the Cotton effects were enhanced in the presence of <bold>1</bold> and a further change was observed after addition of &#x3B2;-CD. Naphthalene diimide derivatives are known to show a negative Cotton effect in the absorption region of naphthalene diimide chromophore (around 383 nm) as an induced CD [<xref ref-type="bibr" rid="B14-molecules-10-00693">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00693">15</xref>]. After addition of calf thymus DNA in the aqueous solution of <bold>1</bold>, a negative Cotton effect was observed around this region as shown in <xref ref-type="fig" rid="molecules-10-00693-f006">Figure 6</xref>B. These results suggested that <bold>1</bold> can intercalate into dsDNA by threading and &#x3B2;-CD affects the DNA structure when <bold>1</bold> binds to it.</p>
+        <fig id="molecules-10-00693-f006" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p>(A) CD spectra of 100 &#x3BC;M sonicated calf thymus DNA in the presence of <bold>1</bold> and/or &#x3B2;-CD in 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl at 25 &#xB0;C: (&#x25A1;) DNA alone; (&#x25A0;) DNA + 10 &#x3BC;M <bold>1</bold>; (&#x25CF;) DNA + 10 &#x3BC;M <bold>1</bold> + 160 &#x3BC;M &#x3B2;-CD; (&#x25CB;)DNA + 160 &#x3BC;M &#x3B2;-CD. The magnified CD spectra over 300-400 nm are also shown in B.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g006.tif"/>
+        </fig>
+        <p>The viscometric titrations of calf thymus DNA with <bold>1</bold> in the absence or presence of &#x3B2;-CD were also carried out in 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl at 20 &#xB0;C. As shown in <xref ref-type="fig" rid="molecules-10-00693-f007">Figure 7</xref>A, the viscosity of dsDNA increased linearly upon addition of <bold>1</bold>, suggesting the threading intercalation of <bold>1</bold>. <xref ref-type="fig" rid="molecules-10-00693-f007">Figure 7</xref>B shows the effect of &#x3B2;-CD on the viscosity of dsDNA alone or dsDNA bound to <bold>1</bold>. The viscosity of dsDNA was affected by &#x3B2;-CD only with <bold>1</bold> bound, revealing that &#x3B2;-CD can interact with dsDNA bound to <bold>1</bold>.</p>
+        <fig id="molecules-10-00693-f007" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <p>(A) Viscometric titration of 50 &#x3BC;M sonicated calf thymus DNA with a various amount of <bold>1</bold> in the absence (&#x25CF;) or presence of 80 &#x3BC;M &#x3B2;-CD (&#x25CB;) at 20 &#xB0;C and (B) plot of viscosity change against [&#x3B2;-CD]/[DNA] for 50 &#x3BC;M sonicated calf thymus DNA unbound (&#x25A0;) or bound to 5 &#x3BC;M <bold>1</bold> (&#x25A1;).</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g007.tif"/>
+        </fig>
+        <p>The effect of <bold>1</bold> on the melting temperature (T<sub>m</sub>) of DNA duplex in the absence or presence of &#x3B2;-CD was studied by monitoring the absorption change at 260 nm with temperature. The results with [poly(dA-dT)] as dsDNA in 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl are summarized in <xref ref-type="table" rid="molecules-10-00693-t002">Table 2</xref>. The T<sub>m</sub> value of [poly(dA-dT)]<sub>2</sub> (60 &#x3BC;M) alone was 60 &#xB0;C, and it was raised by 8 &#xB0;C upon addition of 3 &#x3BC;M <bold>1</bold>. The T<sub>m</sub> increased further by 2 &#xB0;C in the presence of 48 &#x3BC;M &#x3B2;-CD, whereas &#x3B2;-CD alone did not affect the T<sub>m</sub>. These results suggested that &#x3B2;-CD acts as a stabilizer for dsDNA bound to <bold>1</bold> and &#x3B2;-CD can interact with <bold>1</bold> bound to dsDNA.</p>
+		<table-wrap id="molecules-10-00693-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00693-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Melting temperatures of [poly(dA-dT)]<sub>2</sub> in the absence or presence of <bold>1</bold> and/or &#x3B2;-CD<sup>a</sup></p>
+          </caption>
+		<table>
+            <thead>
+              <tr>
+                <th align="left" valign="middle">Condition</th>
+                <th align="center" valign="middle">T<sub>m</sub>/&#xB0;C</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle">60 &#x3BC;M DNA alone</td>
+                <td align="center" valign="middle">60</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle">60 &#x3BC;M DNA + 3&#x3BC;M <bold>1</bold></td>
+                <td align="center" valign="middle">68</td>
+              </tr>
+			  <tr>
+                <td align="left" valign="middle">60 &#x3BC;M DNA + 3&#x3BC;M <bold>1</bold> + 48 &#x3BC;M &#x3B2;-CD</td>
+                <td align="center" valign="middle">70</td>
+              </tr>
+			  <tr>
+                <td align="left" valign="middle">60 &#x3BC;M DNA + 48 &#x3BC;M &#x3B2;-CD</td>
+                <td align="center" valign="middle">60</td>
+              </tr>
+            </tbody>
+          </table>
+		   <table-wrap-foot>
+            <fn>
+            <p><sup>a</sup> The experiments were conducted in 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl.</p>
+            </fn>
+            </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Binding stoichiometry of &#x3B2;-CD to <bold>1</bold> bound to dsDNA</title>
+        <p>QCM measurements were made to estimate the binding stoichiometry of &#x3B2;-CD to <bold>1</bold> bound to dsDNA. After preparation of a dsDNA-immobilized QCM sensor chip, <bold>1</bold> and &#x3B2;-CD were added in this order and the amount of <bold>1</bold> bound to the dsDNA on this chip and the amount of &#x3B2;-CD bound to the dsDNA bound to <bold>1</bold> were calculated from a frequency decrease. DNA was immobilized on the gold-covered QCM chip covered with streptavidin [<xref ref-type="bibr" rid="B16-molecules-10-00693">16</xref>] and this chip was dipped in 8 ml of 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl. Five &#x3BC;L of 20 &#x3BC;M biotinyl-DNA 16(-) were added to this solution and the frequency change was monitored. When the frequency change reached 110 Hz, this chip was transferred to 8 mL of a fresh solution of 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl. After addition of 5 &#x3BC;L of 20 &#x3BC;M complementary DNA 16(+), the frequency change was monitored (<xref ref-type="fig" rid="molecules-10-00693-f008">Figure 8</xref>a). Following a quick decrease, the frequency change then leveled off at 116 Hz, indicating that 0.73 pmol of dsDNA were formed on the chip. A frequency decrease of 51.5 Hz was observed upon addition of 10 &#x3BC;L of 1 mM <bold>1</bold>, showing that 1.92 pmol of <bold>1</bold> were bound to 0.73 pmol of 16-meric dsDNA (<xref ref-type="fig" rid="molecules-10-00693-f008">Figure 8</xref>b). Further frequency decrease was observed upon addition of 10 &#x3BC;L each of 10 mM &#x3B2;-CD, but then leveled off as shown in <xref ref-type="fig" rid="molecules-10-00693-f008">Figure 8</xref>c. The frequency decrease of 132 Hz at the plateau was equivalent to 3.49 pmol of &#x3B2;-CD. In other words, 2.6 molecules of <bold>1</bold> were bound to 16-meric dsDNA on average and 4.8 molecules of &#x3B2;-CD were bound to this DNA on average. It is noted that the frequency change upon addition of &#x3B2;-CD occurred only after addition of <bold>1</bold> with a dsDNA-immobilized QCM chip, showing that about two molecules of &#x3B2;-CD were bound per <bold>1</bold> bound to dsDNA.</p>
+        <fig id="molecules-10-00693-f008" position="float">
+          <label>Figure 8</label>
+          <caption>
+            <p>Time course of frequency change for a biotin-DNA 16(-)-immobilized QCM chip upon addition of 5 &#x3BC;L of 20 &#x3BC;M complementary DNA 16(+) (addition point a) to form dsDNA, 10 &#x3BC;L of 1 mM <bold>1</bold> (addition point b), and 10 &#x3BC;l each of 10 mM &#x3B2;-CD (c) in 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl at 25 &#xB0;C.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g008.tif"/>
+        </fig>
+        <p>The binding of &#x3B2;-CD to <bold>1</bold> bound to dsDNA was verified further by electrochemical measurements. It is known that the peak current of ferrocene shifts to the positive side after incorporation into &#x3B2;-CD [<xref ref-type="bibr" rid="B7-molecules-10-00693">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00693">8</xref>]. Thus, when the potential shifts of peak current of <bold>1</bold> on the dsDNA-immobilized electrode were measured in the presence of a various amount of &#x3B2;-CD, the binding stoichiometry of &#x3B2;-CD to <bold>1</bold> bound to dsDNA can be also estimated from these shifts. The dA<sub>20</sub>dT<sub>20</sub>-immobilized gold electrode was dipped in 0.1 M AcOK-AcOH buffer (pH 5.6) containing 0.1 M KCl and 0.05 mM <bold>1</bold> and CVs were measured in the presence of a various amount of &#x3B2;-CD. The potential shift of peak current was observed upon addition of &#x3B2;-CD, proving the incorporation of the ferrocene part of <bold>1</bold> bound to dsDNA into &#x3B2;-CD. The potential shift in the oxidative current peak is plotted against the concentration of &#x3B2;-CD in <xref ref-type="fig" rid="molecules-10-00693-f009">Figure 9</xref>. From this plot, 50 &#x3BC;M <bold>1</bold> seemsto be nearly saturated at 80 &#x3BC;M &#x3B2;-CD, suggesting approximately a 1:2 stoichiometry of binding of <bold>1</bold> with &#x3B2;-CD. This result is in good agreement with that of the QCM experiments described above.</p>
+        <fig id="molecules-10-00693-f009" position="float">
+          <label>Figure 9</label>
+          <caption>
+            <p>Plot of the potential of the oxidative current peak, E<sub>pa</sub>, against the concentration of &#x3B2;-CD. Oxidation potential peaks of <bold>1</bold> were determined by CV measurements with a dA<sub>20</sub>dT<sub>20</sub>-immobilized electrode in 0.1 M AcOK-AcOH buffer (pH 5.6) containing 0.1 M KCl and 0.05 mM <bold>1</bold> in the presence of a various amount of &#x3B2;-CD at 25 &#xB0;C.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g009.tif"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Electrochemical DNA detection based on <bold>1</bold> coupled with &#x3B2;-CD</title>
+        <p>The principle of the electrochemical DNA detection based on <bold>1</bold> coupled with &#x3B2;-CD is shown in <xref ref-type="fig" rid="molecules-10-00693-f010">Figure 10</xref>. When target DNA exists in the sample solution, <bold>1</bold> can bind to the DNA duplex formed by the target DNA and probe DNA immobilized on the electrode and &#x3B2;-CD can bind to <bold>1</bold> bound to the dsDNA. This might help stabilize the complex of <bold>1</bold> with dsDNA formed on the gold electrode, resulting in the improved performance of the electrochemical detection of target DNA. As an example of this detection system, HS-G71(-) was immobilized on a gold electrode and 1 &#x3BC;L of 2 x SSC containing 5 pmol of G71(+) was dripped on this electrode and kept for 1 h at 37 &#xB0;C to  allow hybridization to proceed. The electrode before or after hybridization was dipped in a solution containing 0.5 mM <bold>1</bold> and 5 m M &#x3B2;-CD for 3 min and transferred to a solution of 0.1 M AcOK-AcOH buffer (pH 5.6) containing 0.1 M KCl and 800 &#x3BC;M &#x3B2;-CD. After being kept for 1 min, a differential pulse voltammogram (DPV) of the electrode was measured before and after hybridization (<xref ref-type="fig" rid="molecules-10-00693-f011">Figure 11</xref>A). The G71(-)-immobilized electrode before and after hybridization with G71(+) was also measured analogously [<xref ref-type="bibr" rid="B7-molecules-10-00693">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00693">8</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00693">17</xref>] to evaluate the effectiveness of the performance of electrochemical detection of target DNA in this system (<xref ref-type="fig" rid="molecules-10-00693-f011">Figure 11</xref>B).</p>
+        <fig id="molecules-10-00693-f010" position="float">
+          <label>Figure 10</label>
+          <caption>
+            <p>The principle of the electrochemical DNA detection based on <bold>1</bold> coupled with &#x3B2;-CD.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g010.tif"/>
+        </fig>
+        <fig id="molecules-10-00693-f011" position="float">
+          <label>Figure 11</label>
+          <caption>
+            <p>(A) Differential pulse voltammograms of a G71(-)-immobilized gold electrode before and after hybridization with complementary G71(+) in 0.1 M AcOK-AcOH buffer (pH 5.6) containing 0.1 M KCl and 800 &#x3BC;M &#x3B2;-CD. This measurement was made after immersion in a solution containing 5 mM &#x3B2;-CD and 0.5 mM <bold>1</bold> for 3 min. (B) Differential pulse voltammograms of the electrode before and after hybridization in 0.1 M AcOK-AcOH buffer (pH 5.6) containing 0.1 M KCl and 0.05 mM <bold>1</bold>.</p>
+          </caption>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00693-g011.tif"/>
+        </fig>
+        <p>In this experiment, the potential of the peak current of <bold>1</bold> was 0.4 V vs. Ag/AgCl and this peak potential shifted to the positive side by 40 mV in the presence of &#x3B2;-CD, suggesting that &#x3B2;-CD can bind to <bold>1</bold> bound to dsDNA on the electrode. The peak current for an ssDNA-immobilized electrode (DNA probe alone) was ca. 0.4 &#x3BC;A in this system (<xref ref-type="fig" rid="molecules-10-00693-f011">Figure 11</xref>A, a), whereas this value was ca. 0.8 &#x3BC;A in the previous procedure [<xref ref-type="bibr" rid="B17-molecules-10-00693">17</xref>] (<xref ref-type="fig" rid="molecules-10-00693-f011">Figure 11</xref>B, a), showing that the addition of &#x3B2;-CD in the electrochemical DNA detecting system based on <bold>1</bold> suppressed the background current deriving from the DNA probe (ssDNA) on the electrode. After hybridization, the current signal increased to 1.2 &#x3BC;A (<xref ref-type="fig" rid="molecules-10-00693-f011">Figure 11</xref>A, b), which is similar to that of the previous procedure [<xref ref-type="bibr" rid="B17-molecules-10-00693">17</xref>] (<xref ref-type="fig" rid="molecules-10-00693-f011">Figure 11</xref>B, b). As a result, the apparent sensitivity of detection was enhanced two fold in the presence of &#x3B2;-CD.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>&#x3B2;-CD can bind to the ferrocene moieties of <bold>1</bold> even where the intercalator is bound to dsDNA to form a supramolecular complex as shown in <xref ref-type="fig" rid="molecules-10-00693-f001">Figure 1</xref>. All the data from various experiments showed that both of the ferrocene parts of <bold>1</bold> projecting out over the major and minor grooves were capped by &#x3B2;-CD even where <bold>1</bold> is bound to dsDNA. The performance of the electrochemical DNA detection based on <bold>1</bold> was improved by supramolecular complex formation with &#x3B2;-CD as a result of suppression of the background current originating from the DNA probe.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>&#x3B2;-CD was purchased from Tokyo Tokyo Kasei Kogyo Co., Tokyo, Japan. Calf thymus DNA was purchased from Sigma-Aldrich Co., St. Louis, MO and used after sonication according to the method reported previously [<xref ref-type="bibr" rid="B18-molecules-10-00693">18</xref>]. Oligonucleotides used in this study were custom synthesized by Genenet Co., Fukuoka, Japan. Their sequences were as follows. Biotinyl DNA 16(-), 5&#x2019;-biotin-CGA ATG GTG TTG AAG C and DNA 16(+), 5&#x2019;-GCT TCA ACA CCA TTC G were used in QCM experiments. Thiolated dA<sub>20</sub>, HS-dA<sub>20</sub> and HS-G71(-), 5&#x2019;-HS-(CH<sub>2</sub>)<sub>6</sub>-GTC TTC AAG GTG TAA AAT GCT CCG, and their complementary Oligonucleotides, dT<sub>20</sub> and G71(+), CGG AGC ATT TTA CAC CTT GAA GAC were used in the electrochemical experiments.  Their concentrations were estimated from the molar absorptivities of individual oligonucleotides at 260 nm [<xref ref-type="bibr" rid="B19-molecules-10-00693">19</xref>]. <sup>1</sup>H-NMR spectra were recorded on a Jeol GSX-400 spectrometer operating at 400 MHz for proton with tetramethylsilane (TMS) as an internal standard. Electronic absorption spectra were recorded with Hitachi 3300 spectrophotometers equipped with an SPR temperature controller. The HPLC system was composed of the following parts: Hitachi L-7300 column oven, L-7450H diode array detector, L-7100 pump, D-7000 interface chromatograph (Hitachi Chemical Co., Tokyo, Japan). Circular dichroism (CD) spectra were recorded on a Jasco J820 spectropolarimeter (Jasco Inc., Tokyo, Japan) under the following conditions: response, 2 s; sensitivity, 100 mdeg; speed, 20 nm min<sup>-1</sup>; resolution, 0.1 nm; band width, 2.0 nm. Quartz crystal microbalance (QCM) experiments were performed on AffinixQ (Initium Co., Tokyo, Japan) by using the gold surface (2.5 mm in diameter and 4.9 mm<sup>2</sup> in area) of 27 MHz, and an AT-cut QCM sensor chip (Initium). In the aqueous solution, the absorption of 30 pg on the surface gave rise to a frequency change of 1.0 Hz. Viscosity titration was carried out with a PC-controlled automatic system (Lauda, Lauda-K&#xF6;nigshofen, Germany) equipped with a capillary Ubbelohde-type viscometer, an automatic pump/stop-watch unit and a thermostatted water bath at 20 &#xB1; 0.1 &#xB0;C. Aliquots (several &#x3BC;L) of 1 mM <bold>1</bold> were added to a DNA sample solution (50 &#x3BC;M) by means of micro syringe without removing the solution from the viscometer. The relative viscosity ratios of DNA alone and its complex with <bold>1</bold> were calculated using the equation &#x3B7;/&#x3B7;<sub>o</sub>=(t-t<sub>o</sub>)/(t<sub>DNA</sub>-t<sub>o</sub>), where t<sub>o</sub> is the flow time of the buffer; t and t<sub>DNA</sub> are the flow times of DNA sample in the presence and absence of <bold>1</bold>, respectively. Viscosities after addition of 10 mM &#x3B2;-CD were measured in the solution containing DNA alone or the DNA-<bold>1</bold> complex.</p>
+      </sec>
+      <sec>
+        <title>Synthesis</title>
+      </sec>
+      <sec>
+        <title>N, N&#x2019;-Bis(3-methylaminopropyl)naphthalene-1,4,5,8-tetracarboxylic acid diimide</title>
+        <p>1,4,5,8-Naphthalene-tetracarboxylic dianhydride (3.0 g, 11.2 mmol) and N-methyl-1,3-propane diamine (30 mL, 0.24 mol) in THF (40 mL) were refluxed for 8 h and cooled overnight. The precipitate formed was filtered and taken up in CHCl<sub>3</sub>. The undissolved material was filtered off, and the solvent was evaporated. The desired material was obtained as a deep brown needle (1.09 g, yield 24%) by recrystallization from ethanol. m.p.198-200 &#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 1.96 (4H, q, <italic>J</italic>=7.0, 6.9 Hz), 2.45 (6H, s), 2.70 (4H, t, <italic>J</italic>=6.9 Hz), 4.28 (4H, t, <italic>J</italic>=7.0 Hz), 8.76 (4H, s) ppm.</p>
+      </sec>
+      <sec>
+        <title>N, N&#x2019;-Bis(3-ferrocenylmethylaminopropyl)naphthalene-1,4,5,8-tetracarboxylic acid diimide <italic>(<bold>1</bold>)</italic></title>
+        <p>A solution of (ferrocenylmethyl)trimethylammonium iodide (0.62 g, 1.6 mmol), N,N&#x2019;-bis(3-methyl-aminopropyl)naphthalene-1,4,5,8-tetracarboxylic acid diimide (0.28 g, 0.73 mmol), and triethylamine (0.15 mL) in DMF (12 mL) was stirred at 60 &#xB0;C. After 3 days, DMF was removed under reduced pressure. The residue was dissolved in water (50 mL), the pH adjusted to 10 and the solution was extracted with CHCl<sub>3</sub> (50 mL x 5). The organic layer was dried over MgSO<sub>4</sub>, filtered and the solvent was evaporated. The desired compound <bold>1</bold> was obtained as a yellow solid (0.28 g, yield 48%) by recrystallization from acetonitrile. m.p. 182-185 &#xB0;C; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 1.94 (4H, q, <italic>J</italic>=7.0 Hz), 2.16 (6H, s), 2.46 (4H, t, <italic>J</italic>=4.5 Hz), 3.40 (4H, s), 4.03-4.13 (18H, m), 4.23 (4H, t, <italic>J</italic>=4.5 Hz), 8.75 (4H, s) ppm; MALDI-TOF-MS (TOF mode with &#x3B1;-cyano-4-hydroxycinnamic acid as the matrix) m/z [M+H]<sup>+</sup> 806.0 (theory for C<sub>44</sub>H<sub>44</sub>N<sub>4</sub>O<sub>4</sub>F<sub>2</sub>+H<sup>+</sup>, 805.5). Homogeneity of the product was confirmed by reversed phase HPLC on Inertsil ODS-3 (inner diameter 5 mm, size 4.6 x 250 mm, GL Science Inc., Japan) in a gradient mode at a flow rate of 1.0 mL/min, where the concentration of acetonitrile was changed linearly to 100% from 0% in water containing 0.1% trifluoroacetic acid over 60 min. Elution was monitored by absorption at 250-400 nm. The retention time of <bold>1</bold> was 38.8 min.</p>
+      </sec>
+      <sec>
+        <title>Equilibria and binding kinetics</title>
+        <p>The binding affinity of <bold>1</bold> for sonicated calf thymus DNA as dsDNA in the absence or presence of &#x3B2;-CD was determined by Scatchard analysis using the condition probability method of McGhee and von Hippel shown as follows [<xref ref-type="bibr" rid="B20-molecules-10-00693">20</xref>]: r/L=K(1-nr){(1-nr)/[1-(n-1)r]}<sup>n-1</sup>, where r is the moles of <bold>1</bold> bound per DNA base pair, L is the free <bold>1</bold> concentration, K is the observed binding constant, and site size n is the number of base pairs excluded by <bold>1</bold>. Kinetic experiments were performed with an SF-61 DX2 double mixing stopped flow system (Hi-Tech Scientific Inc., Salisbury, UK) equipped with a Lauda RE206 temperature controller. Single wavelength kinetic traces of absorbance versus time were collected in 10 mM morpholinoethanesulfonic acid, MES, buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl. Absorbance was measured at 383 nm, the wavelength where the absorption of naphthalene diimide derivatives is largest.</p>
+        <p>Observed association rate constants of <bold>1</bold> with dsDNA in the absence or presence of &#x3B2;-CD were obtained by fitting the experimental data of absorption change after mixing with a 20-fold excess of DNA over <bold>1</bold> to the equation of A<sub>1</sub>exp(-k<sub>1</sub>t) + A<sub>2</sub>exp(-k<sub>2</sub>t), where A and k refer to the fractional amplitudes and rate constants, respectively, for the two-exponential fit to the results. Intrinsic second-order association rate constant (k<sub>a</sub>) and dissociation rate constant (k<sub>d</sub>) were obtained from the slope of the plot of apparent association rate constant (k<sub>app</sub>) against DNA concentration according to the equation [<xref ref-type="bibr" rid="B21-molecules-10-00693">21</xref>]: k<sub>app</sub>=k<sub>a</sub>[DNA]+k<sub>d</sub>. The dissociation rate constant (k<sub>d</sub>) of <bold>1</bold> from dsDNA in the absence or presence of &#x3B2;-CD was determined by sodium dodecylsulfate (SDS)-driven dissociation measurements described previously [<xref ref-type="bibr" rid="B21-molecules-10-00693">21</xref>,<xref ref-type="bibr" rid="B22-molecules-10-00693">22</xref>]. Two kinds of solutions (1% SDS and DNA-<bold>1</bold> complex) were mixed instantaneously using a piston, and the change in the absorption spectrum was measured soon after mixing. Thus, when the DNA-<bold>1</bold> complex was mixed with the SDS solution, free <bold>1</bold> was incorporated into the SDS micelle. Since this process is diffusion-controlled, the entire absorption change represents the k<sub>d</sub>-dependent process and, therefore fitting of the kinetic trace provided k<sub>d</sub> values.</p>
+      </sec>
+      <sec>
+        <title>Melting temperature measurements</title>
+        <p>To obtain the melting temperature, the absorbance change of [poly(dA-dT)]<sub>2</sub> in the absence or presence of <bold>1</bold> or &#x3B2;-CD was measured in 10 mM MES buffer (pH 6.2) containing 1 mM EDTA and 0.1 M NaCl with temperature as 0.5 &#xB0;C min<sup>-1</sup>. The melting temperature was calculated from the peak in their differential curve.</p>
+      </sec>
+      <sec>
+        <title>Immobilization of DNA on the gold electrode</title>
+        <p>A gold electrode (2.0 mm<sup>2</sup> in area) was polished with 6 &#x3BC;m, 1 &#x3BC;m of a diamond slurry, and 0.05 &#x3BC;m of an alumina slurry in this order and washed with MilliQ water. The electrode was soaked in boiling 2 M NaOH for 1 h and then washed with MilliQ water. This electrode was then soaked in concentrated nitric acid, washed with MilliQ water, and dried. 0.25 M NaCl solution (1 &#x3BC;L) containing a DNA probe (1 pmol) was placed on the gold electrode held upside down and kept in a closed container under high humidity for 2 h at room temperature. After the electrode was washed with MilliQ water, 6-mercapto-hexanol (1 mM, 1 &#x3BC;L) was placed on the electrode for 1 h at 45 &#xB0;C. The electrode was kept in MilliQ water for 30 min at room temperature. 2 x SSC (0.03 M sodium citrate buffer containing 0.3 M NaCl,  1 &#x3BC;L) containing 5 pmol of sample DNA was placed on the electrode for 1 h at 37 &#xB0;C to allow hybridization to proceed.</p>
+      </sec>
+      <sec>
+        <title>Electrochemical measurements and electrochemical binding analysis</title>
+        <p>Electrochemical measurements were carried out with an ALS model 600 electrochemical analyzer (CH Instrument Inc., Austin, TX). Differential pulse voltammogram (DPV) or cyclic voltammogram (CV) measurements were performed at 25 &#xB0;C with a three-electrode configuration consisting of an Ag/AgCl reference electrode, a Pt counter electrode, and a DNA-immobilized electrode as the working electrode in 0.1 M AcOK-AcOH buffer (pH 5.6) containing 0.1 M KCl and 0.05 mM <bold>1</bold> or 0.8 mM &#x3B2;-CD.</p>
+        <p>The binding constant of <bold>1</bold> and &#x3B2;-CD was determined by the change in cyclic voltammogram upon addition of &#x3B2;-CD with the electrolyte of 0.1 M AcOK-AcOH buffer (pH 5.6) containing 0.1 M KCl and 0.05 mM <bold>1</bold> at 25 &#xB0;C. The apparent diffusion coefficient, D<sub>ap</sub>, was obtained from the equation D<sub>ap</sub>[S<sub>t</sub>]=D<sub>C</sub>[S<sub>C</sub>]+D<sub>F</sub>[S<sub>f</sub>], where D<sub>C</sub> and D<sub>F</sub> represent the diffusion coeffients of the free (S<sub>F</sub>) and complexed (S<sub>C</sub>) substrate ([S<sub>T</sub>]=[S<sub>C</sub>]+[S<sub>F</sub>]), respectively. To determine the binding constant, the following equation was employed [<xref ref-type="bibr" rid="B11-molecules-10-00693">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00693">12</xref>]: (i<sub>pc</sub>/i<sub>pf</sub>)<sup>2</sup> =[1-(i<sub>pc</sub>/i<sub>pf</sub>)<sup>2</sup>]/{K[&#x3B2;-CD]}+D<sub>C</sub>/D<sub>F</sub>, whereipc is the peak current when all the substrate is incorporated &#x3B2;-CD. When [&#x3B2;-CD]&#xBB;[S<sub>T</sub>], i<sub>pf</sub> represents the peak current in the absence of &#x3B2;-CD, and K is the binding constant.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Special thanks are due to Prof. Hiroki Kondo of Kyushu Institute of Technology for reading the manuscript.  This work was supported in part by a Grant-in-Aid for Scientific Research from the Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan.  The author (S. S.) is grateful also for the financial support from the Japan Society for the Promotion of Science.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00693">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogtle</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Supramolecular Chemistry: An Introduction</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1993</year>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00693">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harada</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cyclodextrin-Based Molecular Machines</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>2001</year>
+          <volume>34</volume>
+          <fpage>456</fpage>
+          <lpage>464</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar000174l</pub-id>
+          <pub-id pub-id-type="pmid">11412082</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00693">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castro</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Cuadrado</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Alonso</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Casado</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Mor&#xE1;n</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kaifer</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Multisite Inclusion Complexation of Redox Active Dendrimer Guests</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1997</year>
+		   <volume>119</volume>
+          <fpage>5760</fpage>
+          <lpage>5761</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja970922a</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00693">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Sandra Mendoza</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Rom&#x00E1;n</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Lynn</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kaifer</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cyclodextrin-Modified Gold Nanospheres. Host-Guest Interactions at Work to Control Colloidal Properties</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1999</year>
+          <volume>121</volume>
+          <fpage>4298</fpage>
+          <lpage>4299</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00693">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gonz&#xE1;lez</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Casado</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Alonso</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Cuadrado</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Mor&#xE1;n</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kaifer</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, Electrochemistry and cyclodextrin binding of novel cobaltocenium-functionalized Dendrimers</article-title>
+          <source>Chem. Commun.</source>
+          <year>1998</year>
+          <volume>23</volume>
+          <fpage>2569</fpage>
+          <lpage>2570</lpage>
+          <pub-id pub-id-type="doi">10.1039/a805877f</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00693">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nijhuis</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>Huskens</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Reinhoudt</surname>
+              <given-names>D.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Binding Control and Stoichiometry of Ferrocenyl Dendrimers at a Molecular Printboard</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2004</year>
+          <volume>126</volume>
+          <fpage>12266</fpage>
+          <lpage>12267</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja048271n</pub-id>
+          <pub-id pub-id-type="pmid">15453750</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00693">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Takenaka</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pseudo-polyferrocene Coating of Double Stranded DNA with Ferrocenyl-naphthalene Diimide and Its Application for Electrochemical Gene Detection</article-title>
+          <source>Polym. J.</source>
+          <year>2004</year>
+          <volume>36</volume>
+          <fpage>503</fpage>
+          <lpage>512</lpage>
+          <pub-id pub-id-type="doi">10.1295/polymj.36.503</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00693">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Takenaka</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yamashita</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Takagi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Uto</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kondo</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>DNA Sensing on a DNA Probe-Modified Electrode Using Ferrocenylnaphthalene Diimide as the Electrochemically Active Ligand</article-title>
+          <source>Anal. Chem.</source>
+          <year>2000</year>
+          <volume>72</volume>
+          <fpage>1334</fpage>
+          <lpage>1341</lpage>
+          <pub-id pub-id-type="doi">10.1021/ac991031j</pub-id>
+          <pub-id pub-id-type="pmid">10740879</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00693">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Isnin</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Salam</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kaifer</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bimodal Cyclodextrin Complexation of Ferrocene Derivatives Containing n-Alkyl Chains of Varying Length</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1991</year>
+          <volume>56</volume>
+          <fpage>35</fpage>
+          <lpage>41</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00001a009</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00693">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsue</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Evans</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <name>
+              <surname>Osa</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electron-Transfer Reactions Associated with Host-Guest Complexation. Oxidation of Ferrocenecarboxylic Acid in the Presence of &#x3B2;-Cyclo-dextrin</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1985</year>
+          <volume>107</volume>
+          <fpage>3411</fpage>
+          <lpage>3417</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00693">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsue</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Osa</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Evans</surname>
+              <given-names>D.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determination of some physical constants of cyclodextrin complexes by electrochemical methods</article-title>
+          <source>J. Inclusion Phenom.</source>
+          <year>1984</year>
+          <volume>2</volume>
+          <fpage>547</fpage>
+          <lpage>554</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00662220</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00693">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gonz&#xE1;lez-Romero</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Malvido-Hermelo</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bravo-Diaz</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of &#x3B2;-Cyclodextrin on the Electrochemical Behavior of a Model Arenediazonium Ion. Kinetics and Mechanism of the Reaction</article-title>
+          <source>Langmuir</source>
+          <year>2002</year>
+          <volume>18</volume>
+          <fpage>46</fpage>
+          <lpage>55</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00693">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>God&#xED;nez</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Criss</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Kaifer</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Calorometric Studies on the Complexation of Several Ferrocene Derivatives by &#x3B1;- and &#x3B2;-Cyclodextrine. Effects of Urea on the Thermodynamic Parameters</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1995</year>
+          <volume>99</volume>
+          <fpage>17449</fpage>
+          <lpage>17455</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00693">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Long</surname>
+              <given-names>E.C.</given-names>
+            </name>
+            <name>
+              <surname>Barton</surname>
+              <given-names>J.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>On demonstrating DNA Intercalation</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>1990</year>
+          <volume>23</volume>
+          <fpage>271</fpage>
+          <lpage>273</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar00177a001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00693">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sato</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nojima</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Takenaka</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electrochemical gene detection based on supramolecular complex formation by ferrocenyl-&#x3B2;-cyclodextrin and adamantylnaphthalene diimide bound to double stranded DNA</article-title>
+          <source>J. Organomet. Chem.</source>
+          <year>2004</year>
+          <volume>689</volume>
+          <fpage>4722</fpage>
+          <lpage>4728</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jorganchem.2004.08.039</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00693">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Okahata</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Niikura</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Sugiura</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sawada</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Morii</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Kinetic Studies of Sequence-Specific Binding of GCN4-bZIP Peptides to DNA Strands Immobilized on a 27-MHz Quartz-Crystal Microbalance</article-title>
+          <source>Biochemistry</source>
+          <year>1998</year>
+          <volume>37</volume>
+          <fpage>5666</fpage>
+          <lpage>5672</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi980037k</pub-id>
+          <pub-id pub-id-type="pmid">9548952</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00693">
+        <label>17.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sato</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nojima</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kondo</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Takenaka</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>SNP analysis by using ferrocenyl naphthalene diimide (FND)-based electrochemical hybridization assay (EHA)</article-title>
+          <source>Nucl. Acids Res. Suppl.</source>
+          <year>2003</year>
+          <volume>3</volume>
+          <fpage>169</fpage>
+          <lpage>170</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00693">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wells</surname>
+              <given-names>R.D.</given-names>
+            </name>
+            <name>
+              <surname>Larson</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Grant</surname>
+              <given-names>R.C.</given-names>
+            </name>
+            <name>
+              <surname>Shortle</surname>
+              <given-names>B.E.</given-names>
+            </name>
+            <name>
+              <surname>Cantor</surname>
+              <given-names>C.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Physicochemical studies on polydeoxyribonucleotides containing defined repeating nucleotide sequences</article-title>
+          <source>J. Mol. Biol.</source>
+          <year>1970</year>
+          <volume>54</volume>
+          <fpage>465</fpage>
+          <lpage>497</lpage>
+          <pub-id pub-id-type="doi">10.1016/0022-2836(70)90121-X</pub-id>
+          <pub-id pub-id-type="pmid">5492018</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00693">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muller</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Crothers</surname>
+              <given-names>D.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Interactions of heteroaromatic compounds with nucleic acids. 1. The influence of heteroatoms and polarizability on the base specificity of intercalating ligands</article-title>
+          <source>Eur. J. Biochem.</source>
+          <year>1975</year>
+          <volume>54</volume>
+          <fpage>267</fpage>
+          <lpage>277</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00693">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McGhee</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>von Hippel</surname>
+              <given-names>P.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Theoretical aspects of DNA-protein interactions: co-operative and non-co-operative binding of large ligands to a one-dimensional homogeneous lattice</article-title>
+          <source>J. Mol. Biol.</source>
+          <year>1974</year>
+          <volume>86</volume>
+          <fpage>469</fpage>
+          <lpage>489</lpage>
+          <pub-id pub-id-type="doi">10.1016/0022-2836(74)90031-X</pub-id>
+          <pub-id pub-id-type="pmid">4416620</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-00693">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanious</surname>
+              <given-names>F.A.</given-names>
+            </name>
+            <name>
+              <surname>Yen</surname>
+              <given-names>S.-F.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>W.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Kinetic and Equilibrium Analysis of a Threading Intercalation Mode: DNA Sequence and Ion Effects</article-title>
+          <source>Biochemistry</source>
+          <year>1991</year>
+		  <volume>30</volume>
+          <fpage>1813</fpage>
+          <lpage>1819</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi00221a013</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00693">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fox</surname>
+              <given-names>K.R.</given-names>
+            </name>
+            <name>
+              <surname>Brassett</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Waring</surname>
+              <given-names>M.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Kinetics of dissociation of nogalamycin from DNA: comparison with other anthracycline antibiotics</article-title>
+          <source>Biochim. Biophys. Acta</source>
+          <year>1985</year>
+          <volume>840</volume>
+          <fpage>383</fpage>
+          <lpage>392</lpage>
+          <pub-id pub-id-type="doi">10.1016/0304-4165(85)90219-3</pub-id>
+          <pub-id pub-id-type="pmid">3859336</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	 <fn>
+	  <p><italic>Samples Availability:</italic> Available from the authors.</p>
+	</fn>
+	</fn-group>
+  </back>
+</article>

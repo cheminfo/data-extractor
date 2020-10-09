@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10111387</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01387</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N</italic>,<italic>N</italic>&#x2019;-Substituted 1,2,5 Thiadiazolidine 1,1-Dioxides: Synthesis, Selected Chemical and Spectral Proprieties and Antimicrobial Evaluation<xref rid="fn1-molecules-10-01387" ref-type="fn">&#x2020;</xref></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bendjeddou</surname>
+            <given-names>Amel</given-names>
+          </name>
+		</contrib>
+		<contrib contrib-type="author">
+		  <name>
+            <surname>Djeribi</surname>
+            <given-names>Ryad</given-names>
+          </name>
+		</contrib>
+		<contrib contrib-type="author">
+		  <name>
+            <surname>Regainia</surname>
+            <given-names>Zine</given-names>
+          </name>
+		</contrib>
+		<contrib contrib-type="author">
+		  <name>
+            <surname>Aouf</surname>
+            <given-names>Nour-Eddine</given-names>
+          </name>
+          <xref rid="c1-molecules-10-01387" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01387">Chimie Organique Appliqu&#xE9;e. Groupe de Chimie Bioorganique, Facult&#xE9; des Sciences. D&#xE9;partement de Chimie. Universit&#xE9; d&#x2019;Annaba. BP 12, Algeria. Fax (+213) 38 87 27 89</aff>
+      <author-notes>
+        <fn id="fn1-molecules-10-01387">
+          <label>&#x2020;</label>
+          <p><italic>Dedicated to the memory of Professor Arrar Mostefa (1961-2004)</italic></p>
+        </fn>
+        <corresp id="c1-molecules-10-01387"><label>*</label>Author to whom correspondence should be addressed; E-mail: <email>noureddineaouf@yahoo.fr</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>11</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>11</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>11</issue>
+      <fpage>1387</fpage>
+      <lpage>1398</lpage>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>06</month>
+          <year>2005</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>05</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The sulfamide functional group is increasingly relevant in both medicinal and bioorganic chemistry. We report here practical access to a series of N2,N5-substituted five-membered cyclosulfamides. The five-membered heterocyclic motif was prepared starting from proteogenic amino acids and chlorosulfonyl isocyanate via the Mitsunobu reaction. Selected chemical and spectral proprieties and the antimicrobial evaluation of these compounds are detailed.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Amino acids</kwd>
+        <kwd>cyclic sulfamides</kwd>
+        <kwd>cyclization</kwd>
+        <kwd>Mitsunobu reaction</kwd>
+        <kwd>propionylation</kwd>
+        <kwd>constrained peptides</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The synthesis and reactivity of heterocyclic compounds containing sulfonyl moieties have attracted much interest in recent years because of the interesting chemical and biological proprieties associated with their structural similarities with biomolecules containing carbonyl groups. Cyclosulfamides have enjoyed popularity in the field of medicinal chemistry as nonhydrolysable components in peptidomimetics [<xref ref-type="bibr" rid="B1-molecules-10-01387">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-01387">2</xref>], agonists of the 5-HT<sub>ID</sub> receptor (regulating serotonin levels) [<xref ref-type="bibr" rid="B3-molecules-10-01387">3</xref>], HIV and serine protease inhibitors [<xref ref-type="bibr" rid="B4-molecules-10-01387">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-01387">5</xref>,<xref ref-type="bibr" rid="B6-molecules-10-01387">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-01387">7</xref>], and constrained di-and tripeptides [<xref ref-type="bibr" rid="B8-molecules-10-01387">8</xref>]. The reported strategies for the synthesis of cyclosulfamides are based either on the incorporation of the sulfamoyl moiety by reacting sulfuryl chloride [<xref ref-type="bibr" rid="B9-molecules-10-01387">9</xref>] or sulfonyl urea [<xref ref-type="bibr" rid="B10-molecules-10-01387">10</xref>] with vicinal diamines, or ring-closing metathesis syntheses [<xref ref-type="bibr" rid="B11-molecules-10-01387">11</xref>]. Recently, Johnson and co-workers reported the synthesis of <italic>N</italic>-Arylcyclosulfamides starting from sulfuryl chloride and chloroethyl-amine [<xref ref-type="bibr" rid="B12-molecules-10-01387">12</xref>]. In previous publications [<xref ref-type="bibr" rid="B13-molecules-10-01387">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-01387">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-01387">15</xref>], we have described a convenient access to a series of five and n-membered cyclic sulfamides <bold>B</bold> and <italic>N</italic>,<italic>N</italic>&#x2019;-disubstituted orthogonally protected ones <bold>A</bold> (<xref ref-type="fig" rid="molecules-10-01387-f001">Figure 1</xref>), starting from natural amino acids, chloroethylamine and <underline>chlorosulfonylisocynanate</underline> (CSI) followed by <italic>5-exo-tet</italic> closure with base. These heterocycles could be useful starting points for the construction of an array of peptidomimetic scaffolds and constrained di and-tripeptides. CSI has been found to be versatile reagent of great interest in synthetic heterocyclic chemistry [<xref ref-type="bibr" rid="B16-molecules-10-01387">16</xref>]. In this case, CSI contains the required sulfonyl group and one of the nitrogens of the 1,2,5-thiadiazolidine1,1-dioxides.</p>
+      <fig id="molecules-10-01387-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Cyclosulfamide stuctures</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01387-g001.tif"/>
+      </fig>
+      <p>In continuation of our efforts to design and synthesize new cyclic sulfamides, we have extended our studies to a series of new heterocyclic constrained peptides containing sulfamide groups <bold>C</bold> and <bold>D</bold> (<xref ref-type="fig" rid="molecules-10-01387-f001">Figure 1</xref>). The derivatization of amino acids allowed the introduction <italic>N</italic><bold>-C</bold>* moieties with a well- defined configuration. Herein, we describe the synthesis and the preliminary results of the biological evaluation of a series of these new heterocycles containing sulfamido groups.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>As outlined in <xref ref-type="scheme" rid="molecules-10-01387-f002">Scheme 1</xref>, the different heterocyles <bold>1b-5b</bold> were prepared in a two-step reaction sequence starting from (<italic>tert</italic>-<underline>butyloxycarbonylsulfonyl)</underline> L-amino acid methyl esters <bold>1-5</bold>. These compounds were synthesized by sulfamoylation of aminoester derivatives (Ala, Val, Leu, Asp, Glu) as previously described [<xref ref-type="bibr" rid="B17-molecules-10-01387">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-01387">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-01387">19</xref>].</p>
+      <fig id="molecules-10-01387-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-01387-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>General synthesis of <italic>N</italic><sup>2</sup>, <italic>N</italic><sup>5</sup> cyclosulfamides</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01387-g002.tif"/>
+		<p><italic>Reagents and conditions</italic>: (a) Chloroethanol (1 equiv.), PPh<sub>3</sub> (1 equiv.), DEAD (1 equiv.), THF; (b) K<sub>2</sub>CO<sub>3</sub> (1.5 equiv.), DMSO.</p>
+      </fig>
+      <p>In these Boc-sulfamides <bold>1-5</bold>, the Boc (<italic>t</italic>-butyloxycarbonyl) group increases the acidity of the adjacent NH group and allows an expedient regiospecific alkylation under Mitsunobu conditions [<xref ref-type="bibr" rid="B20-molecules-10-01387">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-01387">21</xref>] using chloroethanol, which provides the <italic>N</italic>-substituted Boc&#x2013;sulfamides <bold>1a-5a</bold> in good yields. The cyclization reaction of these <italic>N</italic>,<italic>N</italic>&#x2019;-sulfamides <bold>1a-5a</bold> under basic conditions in DMSO gives <italic>N</italic><sup>2</sup>,<italic>N</italic><sup>5</sup>- substituted cyclosulfamides <bold>1b-5b</bold> in satisfactory yields.</p>
+      <p>Selective cleavage of the <italic>t</italic>-butyloxycarbonyl protective group with trifluoroacetic acid gives compounds <bold>1c-5c</bold> in good yield (<xref ref-type="scheme" rid="molecules-10-01387-f003">Scheme 2</xref>). <italic>N</italic><sup>2</sup>,<italic>N</italic><sup>5</sup>-Cyclosulfamides <bold>1d-5d</bold> were readily prepared in quantitative yield from the cyclosulfamides <bold>1c-5c</bold> by treatment with propionyl chloride in the presence of triethylamine.  These compounds can be used in asymmetric aldol reactions. Also, attempts to incorporate the amino acid moiety employing the Mitsunobu reaction using an &#x3B1;-hydroxy ester (L-(-)- ethyl lactate) allowed us to obtain two constrained dipeptidal cyclic sulfamides <bold>1e-2e</bold> in moderate yields with inversion of the configuration.</p>
+      <fig id="molecules-10-01387-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-01387-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Preparation of constained dipeptide cyclic sulfamides</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01387-g003.tif"/>
+		<p><italic>Reagents and conditions</italic>: (a) TFA, CH<sub>2</sub>Cl<sub>2</sub>; (b) propionyl chloride (1 equiv.), TEA (1 equiv.), CH<sub>2</sub>Cl<sub>2</sub>; (c) (L)-(-) ethyl lactate (1 equiv.), PPh<sub>3</sub> (1 equiv.), DEAD (1 equiv.), THF.</p>
+      </fig>
+      <p>The structures of all compounds were unambiguously confirmed by the usual spectroscopic methods: <sup>1</sup>H- and <sup>13</sup> C-NMR spectroscopy, mass spectrometry and IR spectra.</p>
+    </sec>
+    <sec>
+      <title>Biological Activity</title>
+      <p>The bacterial strains used in this study were <italic>Staphylococcus aureus</italic> and <italic>Escherichia coli</italic> species. They were isolated from an aquatic medium, followed by successive isolations carried out periodically in specific media in order to obtain strains as pure as possible. The solid media of MacConkey and Chapman have been used for <italic>Escherichia coli</italic> and <italic>Staphylococcus aureus</italic>, respectively. Microscopic study, after Gram coloration, was carried out after incubation at 37&#xB0;C for 24 hours. The biochemical characteristics of each strain have been determined using a classic biochemical gallery. Finally, the pathogenic power of <italic>Staphylococcus aureus</italic> has been confirmed by showing that the coagulase of this strain was hemolytic, <italic>in vitro</italic>, towards rabbit or human plasma.</p>
+      <sec>
+        <title>In vitro evaluation of the bacterial sensitivity of the strains to cyclosulfamides <italic><bold>4a</bold></italic> and <italic><bold>4d</bold>:</italic></title>
+        <p>To draw the antibiogram, the dilution in a liquid medium method was chosen. It is based on putting innoculums of each studied strain in contact with increasing concentrations of the cyclosulfamides <bold>4b</bold> and <bold>4d</bold>. In a glucose medium, each bacterial inoculum (100 &#xB5;L per suspension) was distributed in a series of tubes (macro-dilution method) containing increasing sulfamide concentrations [<xref ref-type="bibr" rid="B22-molecules-10-01387">22</xref>]. The bacterial innoculum corresponding to the two studied strains, was previously prepared from a colony that was collected from a solid medium and then put in suspension in a glucose medium for 18 hours at 37&#xB0;C. After the incubation of the whole tubes at 37&#xB0;C for 24 hours, the MIC (minimal inhibited concentration) of each of the two cyclosulfamides with respect to each strain (<italic>Escherichia coli</italic> and/or <italic>Staphylococcus aureus)</italic> was measured as indicated by the tube that contained the lower concentration of the product and where no apparent bacterial growth is noticed. The results of the <italic>in vitro</italic> evaluation of the sensitivity of the bacteria <italic>Escherichia coli and Staphylococcus aureus</italic> towards cyclosulfamides <bold>4b</bold> and <bold>4d</bold> are presented in <xref ref-type="table" rid="molecules-10-01387-t001">Table 1</xref> and <xref ref-type="table" rid="molecules-10-01387-t002">Table 2</xref>, respectively.</p>
+        <table-wrap id="molecules-10-01387-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-01387-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Strain sensitivity towards cyclosulfamide <bold>4b</bold></p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+			    <th align="left" valign="top" style="border-right: hidden"> </th>
+                <th align="left" valign="top">&#xB5;g/mL</th>
+                <th rowspan="2" align="center" valign="middle">2</th>
+                <th rowspan="2" align="center" valign="middle">3</th>
+                <th rowspan="2" align="center" valign="middle">5</th>
+                <th rowspan="2" align="center" valign="middle">8</th>
+                <th rowspan="2" align="center" valign="middle">10</th>
+                <th rowspan="2" align="center" valign="middle">15</th>
+                <th rowspan="2" align="center" valign="middle">20</th>
+                <th rowspan="2" align="center" valign="middle">30</th>
+                <th rowspan="2" align="center" valign="middle">40</th>
+                <th rowspan="2" align="center" valign="middle">50</th>
+                <th rowspan="2" align="center" valign="middle">80</th>
+                <th rowspan="2" align="center" valign="middle">100</th>
+              </tr>
+			  <tr>
+			    <th align="left" valign="top" style="border-top:hidden;border-right:hidden">strain</th>
+				<th align="left" valign="top" style="border-top:hidden"> </th>
+			  </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td colspan="2" align="center" valign="top"><bold><italic>E. coli</italic></bold></td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">MIC</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center" valign="top"><bold><italic>S. aureus</italic></bold></td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap id="molecules-10-01387-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-01387-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Strain sensitivity towards cyclosulfamide <bold>4d</bold></p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+           <thead>
+              <tr>
+			    <th align="left" valign="top" style="border-right: hidden"> </th>
+                <th align="left" valign="top">&#xB5;g/mL</th>
+                <th rowspan="2" align="center" valign="middle">2</th>
+                <th rowspan="2" align="center" valign="middle">3</th>
+                <th rowspan="2" align="center" valign="middle">5</th>
+                <th rowspan="2" align="center" valign="middle">8</th>
+                <th rowspan="2" align="center" valign="middle">10</th>
+                <th rowspan="2" align="center" valign="middle">15</th>
+                <th rowspan="2" align="center" valign="middle">20</th>
+                <th rowspan="2" align="center" valign="middle">30</th>
+                <th rowspan="2" align="center" valign="middle">40</th>
+                <th rowspan="2" align="center" valign="middle">50</th>
+                <th rowspan="2" align="center" valign="middle">80</th>
+                <th rowspan="2" align="center" valign="middle">100</th>
+              </tr>
+			 <tr>
+			    <th align="left" valign="top" style="border-top:hidden;border-right: hidden">strain</th>
+				<th align="left" valign="top" style="border-top:hidden"> </th>
+			  </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td colspan="2" align="center" valign="top"><bold><italic>E. coli</italic></bold></td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">MIC</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+                <td align="center" valign="top">-</td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center" valign="top"><bold><italic>S. aureus</italic></bold></td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+                <td align="center" valign="top">+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>No inhibitory effect on the growth of the <italic>Staphylococcus aureus</italic> strain was observed in the presence of cyclosulfamide <bold>4b</bold>. The cyclosulfamide <bold>4d</bold>, also tested in this study, similarly showed no significant antimicrobial activity towards <italic>S. aureus</italic>. It is therefore clear that this species is resistant to these particular compounds. In contrast, however, a significant bacteriostatic effect has been observed towards <italic>Escherichia coli</italic>, with no growth being observed in tubes containing sulfamide concentrations of <bold>4b</bold> equal or greater than 8 &#xB5;g/mL, while cyclosulfamide <bold>4d</bold> also showed a marked antimicrobial activity with regards to <italic>Escherichia coli</italic> and a MIC of 3&#xB5;g/mL was obtained for this molecule.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have established a new synthetic strategy to prepare peptidic structures constrained with a cyclosulfamide moiety. The <italic>N</italic><sup>2</sup>,<italic>N<sup>5</sup></italic>-unsymmetric cylic sulfamides can be prepared in three steps (alkylation, cyclization, deprotection). We have also demonstrated the useful application of these cyclic sulfamides in the preparation of pseudopeptides. The preliminary results of antimicrobial activity are encouraging. Further biological evaluation of the resulting compounds and their incorporation into biomolecule analogues are currently in progress.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This work was partially supported by the National Agency for Research in Health (ANDRS, Project N&#xB0;05/05/00039), CNEPRU Project E2301/02/04 and Applied Organic Chemistry Laboratory (F.N.R. 2000) National Research Fund (Algerian Research Ministry, MERS). Fruitful discussions with Ms. Hadjira Mesbahi (Faculty of Sciences) are greatly appreciated.</p>
+    </ack>
+	<sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>All commercial chemicals and solvents were used as received. Melting points were determined in open tubes on a B&#xFC;chi apparatus and are uncorrected. IR spectra were recorded on a Perkin-Elmer spectrophotometer. Microanalyses were performed in the Microanalysis Laboratory of ENSCM (Montpellier). <sup>1</sup>H and <sup>13</sup>C- Nuclear Magnetic Resonance spectra were determined on a Br&#xFC;ker AC 250 spectrometer. Chemical shifts are recorded in ppm (&#x3B4;) and coupling constants in Hertz, relative to tetrametylsilane used as internal standard. Multiplicity is indicated as s (singlet), d (doublet), q (quadruplet), m (multiplet) and combinations of these signals. Fast-atom bombardment mass spectra (FAB) were recorded in positive or negative mode with glycerol (G), thioglycerol (GT), or 3-nitrobenzyl alcohol (NOBA) as matrix. Optical rotations for solutions in CHCl<sub>3</sub>  were measured with a POLAX model 2L digital polarimeter. All reactions were monitored by Thin Layer Chromatography (TLC) on silica gel Merck 60 F<sub>254</sub> precoated aluminium plates, developed by spraying with ninhydrin solution. Column chromatography was performed using silica gel 60 (230-400 mesh).</p>
+      </sec>
+      <sec>
+        <title>General synthetic procedure for carbamoylation&#x2013;sulfamoylation:</title>
+        <p>A solution of N-chlorosulfonyl <italic>tert-</italic>butylcarbamate (0.05 mol) was prepared by addition of <italic>ter</italic>t- butanol (4.8 mL in 50 mL of dried dichloromethane) into a solution of CSI (7.1 g in the same solvent). The resulting solution of Boc-sulfamoyl chloride (25 mL) and triethylamine (17.40 g, 17.1 mL, 85 mmol) in dichloromethane (100 mL) was added into a suspension of amino ester (0.05 mol) in the same solvent (120 mL) at 0&#xB0;C. The reaction was complete in 45 minutes. The reaction mixture was then diluted with dichloromethane (100 mL) and washed with two portions of 0.1 N HCl solution. The organic layer was dried (Na<sub>2</sub>SO<sub>4</sub>) and concentrated <italic>in vacuo</italic> to give the crude product, which was purified by column chromatography eluting with dichloromethane to give compounds <bold>1-5</bold> in 75-80% yield. The synthesis by this general method of compounds <bold>1</bold>-<bold>4</bold> from CSI, <italic>tert</italic>-butyl alcohol and the methyl esters of the amino acids L-alanine, L-valine, L-leucine and L-aspartic acid was previously described [<xref ref-type="bibr" rid="B18-molecules-10-01387">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-01387">19</xref>].</p>
+        <p><italic>(S)-Dimethyl [N-(N- tertiobutyloxycarbonyl)-sulfamoyl] glutamate</italic> (<bold>5</bold>). Yield=76%; TLC: R<sub>f</sub>=0.34 (CHCl<sub>2</sub>-MeOH 9:1); m.p=105-106&#xB0;C; [&#x3B1;]<sub>D</sub> =+17 (c=1; MeOH). IR (KBr) &#x3BD; cm<sup>-1</sup>: 1744, 1706 (C=O), 1380 and 1160 (SO<sub>2</sub>), 3305 and 3353 (NH). <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 7.72 (s, 1H), 5.55 (d, J=8.4 Hz, 1H), 4.42 (m, 1H), 3.72-3.80 (2s, 6H), 3.00 (ddd, J=16.5, 6.4, 6.4 Hz, 2H), 3.20 (ddd, J=16.5, 6.4, 6.4Hz, 2H), 2,20 (m, 2H), 1.50 (s, 9H); <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 173, 171, 151, 85, 56, 53, 52, 48, 41, 29, 28, 27; M.S: (NOBA, FAB&lt; 0): 353 [M-H] <sup>-</sup>, 253, 707. M=354; Anal. Calcd. for C<sub>12</sub>H<sub>22</sub> N<sub>2</sub>O<sub>8</sub>S: C, 40.67; H, 6.21; N, 7.90; S, 9.03; found C,40.73; H, 6.24; N, 7.94; S, 8.92.</p>
+      </sec>
+      <sec>
+        <title>General procedure for the synthesis of N-Boc, N&#x2019;-(2-chlroalkyl) sulfamides <italic><bold>1a-5a</bold></italic></title>
+        <p>A solution of <italic>N-t</italic>e<italic>rt-</italic>butyloxycarbonylsulfamoylamino esters <bold>1-5</bold> (30 mmol), triphenyl-phosphine (7.6 g) and chloroethanol (2.4g; 2 mL) in THF (25 mL) was added dropwise (20 min, 5&#xB0;C) to a solution of equimolar quantities of diethyl (diisopropyl) azodicarboxylate (30 mmol; 5.22 g or 6.06 g) in the same solvent (25 mL). The reaction medium was stirred under an atmosphere of dry nitrogen for about 45 min. TLC revealed that the substituted compound formed is less polar than its precursor (UV, ninhydrin). Oxydoreduction compounds were removed by filtration after precipitation into diethyl ether. The filtrate was concentrated and the crude residue was purified by column chromatography eluting with dichloromethane. Substituted compounds <bold>1a-5a</bold> were recovered in 65-75% yield.</p>
+        <p>(<italic>S) Methyl [N,N&#x2019;-tert-butyloxycarbonyl, N&#x2019;-chloroethyl)sulfamoyl] alaninate</italic> (<bold>1a</bold>). Yield=65%; TLC: R<sub>f</sub>=0.52 (CHCl<sub>3</sub>); m.p.=88-90 &#xB0;C; [&#x3B1;]<sub>D</sub> = -17  (c=1, MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1744, 1706 (C=O), 1380 and 1160 (SO<sub>2</sub>), 3305 (NH); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 5.55 (d, J=8.42 Hz, 1H), 4.42 (m, 1H), 3,70 (s, 3H), 3,65 (t, J=6.8 Hz,  2H), 3.95 (t, J=6.8 Hz, 2H), 1.50 (s, 9H ), 1.30 (d, J=7.2 Hz, 3H). <sup>13</sup>C-NMR (CDCl<sub>3</sub>  &#x3B4; ppm: 170, 150, 84, 54, 52 49, 29, 27, 25; M.S:  (NOBA, FAB&lt;0): 343 [M-H]-, 243, 687. M=344-346; Anal. Calcd. for C<sub>11</sub>H<sub>21</sub>N<sub>2</sub>O<sub>6</sub>SCl: C, 38.31; H, 6.09; N, 8.12; S, 9. 28; found: C, 38.33; H, 6.09; N, 8.09; S, 9.22.</p>
+        <p><italic>(S) Methyl  [N-( N&#x2019;-tert-butyloxycarbonyl, N&#x2019;-chloroethyl)sulfamoyl] valinate</italic> (2a). Yield=68%; TLC: R<sub>f</sub>=0.65 (CHCl<sub>3</sub>); m.p.=60-62 &#xB0;C; [&#x3B1;]<sub>D</sub>=-9 (c=1; MeOH) ; IR (KBr) &#x3BD; cm<sup>-1</sup>: 1730, 1700 (C=O), 1390 and 1160 (SO<sub>2</sub>), 3310 (NH); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 5.80 (d, J=8.42 Hz, 1H), 3.95 (t, J=6,8 Hz, 2H), 3.87 (m, 1H), 3.68 (s, 3H), 3.65 (t, J=6.8 Hz, 2H), 2.10 (m, 1H ), 1.52 (s, 9H), 0.98 (2d, J=6,9 Hz, 6H, 2CH<sub>3</sub>); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 172, 152, 85,55, 52, 48, 41, 28, 27, 22; M.S:  (NOBA, FAB&gt;0): 373 [M+H] <sup>+</sup>, 273, 747. M=372-274; Anal. Calcd. for C<sub>13</sub>H<sub>25</sub> N<sub>2</sub>O<sub>6</sub>SCl: C, 41.88; H, 6.71; N, 7.51; S, 8.59; found: C, 41.93; H, 6.74; N, 7.46; S, 8.51.</p>
+        <p><italic>(S) Methyl [N-(N&#x2019;-tert-butyloxycarbonyl, N&#x2019;-chloroethyl)-sulfamoyl] leucinate</italic> (<bold>3a</bold>). Yield=75%; TLC: R<sub>f</sub>  =0.60 (CHCl<sub>3</sub>); m.p.=67-69&#xB0;C; [&#x3B1;]<sub>D</sub>=-23 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1740, 1712 (C=O), 1390 and 1160 (SO<sub>2</sub>), 3267 (NH); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm<bold>:</bold> 5.80 (d, J=8.8 Hz, 1H), 3,95 (t, J=6,8 Hz, 2H), 3.87 (q, J=6.8 Hz, 1H), 3.68 (s, 3H), 3,65 (t, J=6.8 Hz, 2H), 1,87 (m, 2H), 1.55 (s, 9H), 1.48 (m, 1H), 0.98-0.88 (2d, J=3.9 Hz, 6H); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 172, 152, 85, 56, 53, 48, 43, 41, 28, 25, 24, 22; M.S:  (NOBA, FAB&gt;0): 387 [M+H] <sup>+</sup>, 287, 773. M=386-388; Anal. Calcd. for C<sub>14</sub>H<sub>27</sub>N<sub>2</sub>O<sub>6</sub>SCl: C, 43.46; H, 6.98; N, 7.24; S, 8.28; found:  C, 43.49; H, 6.94; N, 7.20; S, 8.21.</p>
+        <p><italic>(S) Methyl  [N-(N&#x2019;-tert-butyloxycarbonyl, N&#x2019;-chloroethyl)-sulfamoyl] aspartate</italic> (<bold>4a</bold>). Yield=70%; TLC: R<sub>f</sub>  =0.67 (CHCl<sub>3</sub>); oil; [&#x3B1;]<sub>D</sub>=-33 (c=1; MeOH) ; IR (KBr) &#x3BD; cm<sup>-1</sup>: 1755, 1715 (C=O) 1370 and 1130 (SO<sub>2</sub>), 3269 (NH); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 5.85 (d, J=8.4 Hz, 1H), 4.30 (q, J=8.4 Hz, 1H), 3.90 (t, J=6.7 Hz, 2H), 3.70-3.80 (2s, 6H), 3.68 (t, J=6.7Hz, 2H), 3.50 (2dd, J= 4.1, 8.4 Hz, 2H), 1.50 (s, 9H); <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 171, 170, 150, 85, 55, 51, 52, 49, 42, 28, 27; M.S:  (NOBA, FAB&gt;0): 407 [M+H] <sup>+</sup>, 307, 805. M=406-404; Anal. Calcd. for C<sub>13</sub>H<sub>23</sub> N<sub>2</sub>O<sub>8</sub>SCl: C,38.75; H, 5.71; N, 6.95; S, 7.95; found: C, 38. 73; H, 5.74; N, 6.94; S, 7.92.</p>
+        <p><italic>(S) Methyl [N-(N&#x2019;-tert-butyloxycarbonyl, N&#x2019;-chloroethyl)-sulfamoyl] glutamate</italic> (<bold>5a</bold>). Yield=72%; TLC: R<sub>f</sub> =0.65 (CHCl<sub>3</sub>); oil; [&#x3B1;]<sub>D</sub> =-21 (c=1; MeOH) ; IR (KBr) &#x3BD; cm<sup>-1</sup>: 1746, 1715 (C=O) 1395 and 1156 (SO<sub>2</sub>), 3310 (NH); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 6.10 (d, J=8.5 Hz, 1H), 4.30 (m, 1H), 3.90 (t, J=6.7Hz, 2H), 3.68 (t, J=6.9 Hz 2H), 3.60-3.65 (2s, 6H), 2.48 (m, 2H), 2.10 (m, 2H),1.50 (s, 9H); <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 173, 171, 151, 85, 56, 53, 52, 48, 41, 29, 28, 27; M.S: (NOBA, FAB&gt;0): 417 [M+H] <sup>+</sup>, 317, 833. M=416-418; Anal. Calcd. for C<sub>14</sub>H<sub>25</sub> N<sub>2</sub>O<sub>8</sub>SCl: C, 40.33; H, 6.02; N, 6.72; S, 7.68; found: C, 40.42; H, 6.04; N,6.75; S, 7.62.</p>
+      </sec>
+      <sec>
+        <title>General procedure for preparation of N-Boc-N-substituted)-1,2,5-thiadiazolidine 1,1-dioxides <italic><bold>1b-5b.</bold></italic></title>
+      </sec>
+      <sec>
+        <title>Cyclization with K<sub>2</sub>CO<sub>3</sub> in DMSO</title>
+        <p>The 2-chloroalkyl compounds (10 mmol) were dissolved in dimethysulfoxide (DMSO) and anhydrous K<sub>2</sub>CO<sub>3</sub> (1.5 equiv.) was added in one portion. The resulting mixture was stirred at room temperature for 8 h, diluted with dichloromethane (200 mL) and acidified with 5% HCl. The organic layer was washed with water, dried (Na<sub>2</sub>SO<sub>4</sub>) and concentrated under reduced pressure. The residue was purified by chromatography on silica gel. Recristallization of the crude product from CH<sub>2</sub>Cl<sub>2</sub>- petroleum ether (1:5) afforded the pure expected cyclosulfamides <bold>1b-5b</bold> in 82-92% yields.</p>
+        <p><italic>(N<sup>2</sup>-(2&#x2019;S)-Propionic acid methyl ester, N<sup>5</sup>-tert-butyloxycarbonyl)-1,2,5-thiadiazolidine 1,1-dioxide</italic> (<bold>1b</bold>). Yield=86%; TLC: R<sub>f</sub> =0.58 (CHCl<sub>3</sub>); Mp=132-134&#xB0;C; [&#x3B1;]<sub>D</sub>=-34. (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1750 1712, 1378 and 1167 (SO<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 4.15 (q, J=7.8 Hz, 1H), 3.80 (t, J=6.4 Hz 2H), 3.70 (s, 3H), 3.65 (t, J=6.4 Hz, 2H), 1.50 (d, J=7.8 Hz, 1H), 1.52 (s, 9H); <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 172, 150, 84, 56, 52, 43, 39, 28, 27; M.S:  (NOBA, FAB&lt; 0): 307 [M-H]-, 207; M=308; Anal. Calcd. For C<sub>11</sub>H<sub>20</sub>N<sub>2</sub>O<sub>6</sub>S: C, 42.85; H, 6.49; N, 9.09; S, 10.39; found:  C, 42.83; H, 6.44; N, 9.04; S, 10,32.</p>
+        <p><italic>(N<sup>2</sup>-(2&#x2019;S)-3&#x2019;-methylbutyric acid methyl ester, N<sup>5</sup>-tert-butyloxycarbonyl)-1,2,5-thiadiazolidine-1,1- dioxide</italic> (<bold>2b</bold>). Yield=90%; TLC: R<sub>f</sub> =0.60 (CHCl<sub>3</sub>); m.p.=154-155&#xB0;C; [&#x3B1;]<sub>D</sub>=-38 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1745, 1718 (C=O), 1390 and 1160 (SO<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) <bold>&#x3B4;</bold> ppm: 4.15 (d, J=7.2 Hz, 1H), 3,95 (t, J=6.4 Hz, 2H), 3.80 (t, J=6.4 Hz, 2H),  3.70 (s, 3H), 2.20 (m, 1H), 1.57 (s, 9H),1.30 (d, J= 7.2Hz, 3H), 0,98 (2d, J=6.9 Hz, 6H); <sup>13</sup>C-NMR (CDCl<sub>3</sub> <bold>&#x3B4;</bold> ppm: 172, 149, 84, 56, 53, 43, 39, 28, 26, 23, 22; M.S: (NOBA, FAB&gt;0): 337 [M+H] <sup>+</sup>, 237; M=336; Anal. Calcd. for C<sub>13</sub>H<sub>24</sub>N<sub>2</sub>O<sub>6</sub>S: C, 46.43; H, 7.14; N, 8.33; S, 9.52; found: C, 46.48; H, 7.17; N, 8.34; S, 9.44.</p>
+        <p><italic>(N<sup>2</sup>-(2&#x2019;S)-4&#x2019;-Methylpentanoic acid methyl ester, N<sup>5</sup>-tert-butyloxycarbonyl)-1,2,5-thiadiazolidine-1,1- dioxide</italic> (3b). Yield= 87%; TLC: R<sub>f</sub>  =0.58 (CHCl<sub>3</sub>); m.p.=138-139 &#xB0;C; [&#x3B1;]<sub>D</sub> =-53 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1747, 1728 (C=O), 1360 and 1120 (SO<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 4.30 (t, J=8.4 Hz), 3.95 (t, J=6.4 Hz, 2H), 3.72 (s, 3H), 3.55 (t, J=6.4 Hz, 2H), 1.55-1.65 (m, 3H), 1.51 (s, 9H), 0.95-1.00 (2d, J=6.9 Hz, 6H) ;<sup>13</sup>C-NMR (CDCl<sub>3</sub>  &#x3B4; ppm: 171, 149, 86, 54, 53, 43, 39, 37, 28, 25, 23, 21 ; M.S: (NOBA, FAB&gt;0): 351 [M+H] <sup>+</sup>, 251 ; M=350; Anal. Calcd. for C<sub>14</sub>H<sub>26</sub>N<sub>2</sub>O<sub>6</sub>S: C, 48.00; H, 7.43; N, 8.00; S, 9. 14; found: C, 48.07; H, 7.48; N, 7.94; S, 9.07.</p>
+        <p><italic>(N<sup>2</sup>-(2&#x2019;S)-Bis(1&#x2019;,3&#x2019;-methoxycarbonyl)ethyl), N<sup>5</sup>-tert-butyloxycarbonyl)-1,2,5-thiadiazolidine-1,1-dioxide</italic> (<bold>4b</bold>). Yield=82%; R<sub>f</sub> =0.61(CHCl<sub>3</sub>); oil; [&#x3B1;]<sub>D</sub> =+38 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1754, 1751, 1710 (C=O) 1390 and 1150 (SO<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 4.30 (m, 1H),  3.70-3.80 (2s, 6H), 3.95 (t, J=6.4Hz, 2H, 3.55 (t, J=6.4 Hz, 2H), 3.50 (ddd, J=17.2, 7.1, 4.5 Hz, 2H), 1,50 (s, 9H); <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 177, 171, 150, 85, 57 53, 52, 43, 39, 28, 25; M.S: (NOBA, FAB&gt;0): 367 [M+H] <sup>+</sup>, 267; M=366; Anal. Calcd. for C<sub>13</sub>H<sub>22</sub>N<sub>2</sub>O<sub>8</sub>S: C, 42.62; H, 6.01; N, 7.65; S, 8.74; found : C, 42.63; H, 6.04; N, 7.69; S, 8.69.</p>
+        <p><italic>(N<sup>2</sup>-(2&#x2019;S&#x2019;)-Bis(1&#x2019;,4&#x2019;-methoxycarbonyl)propyl, N<sup>5</sup>-tert-butyloxycarbonyl)-1,2,5-thiadiazolidine-1,1- dioxide</italic> (<bold>5b</bold>). Yield=92%; TLC: R<sub>f</sub> =0.58 (CHCl<sub>3</sub>); oil; [&#x3B1;]<sub>D</sub> =+38 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1748, 1745, 1720 (C=O), 1360 and 1120 (SO<sub>2</sub>) ; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 4.30 (m, 1H), 3.95 (t, 2H, J=6,4Hz), 3.68 (t, J=6,4 Hz, 2H), 3.72-3.65 (2s, 6H), 2.48 (m, 2H), 2.10 (m, 2H),1.50 (s, 9H) ; <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 173, 170, 150, 85, 56, 53, 52, 43, 41, 30, 28, 27 ; M.S: (NOBA, FAB&gt;0): 381 [M+H] <sup>+</sup>, 281; M=380; Anal. Calcd. for C<sub>14</sub>H<sub>24</sub>N<sub>2</sub>O<sub>8</sub>S : C, 44.21; H, 6.31; N, 7.37; S, 8.42; found  C, 44.30; H, 6.34; N, 7.34; S, 8.36.</p>
+      </sec>
+      <sec>
+        <title>Deprotection</title>
+        <p>A solution of trifluoroacetic acid (50% in dried dichloromethane; 3 equiv) was added dropwise into a strirred solution of <italic>N</italic>,<italic>N</italic>&#x2019;-substituted cyclosufamides <bold>1b-5b</bold> (20 mmol) in dried dichloromethane (15 mL) at 0&#xB0;C. The reaction medium was stirred during two hours, concentrated under reduced pressure and coevaporated with diethyl ether. The residue was purified by flash chromatography. Elution with CH<sub>2</sub>Cl<sub>2</sub>-MeOH (95:5) gave deprotected cyclic sulfamides <bold>1c-5c</bold> in 85%-90% yield.</p>
+        <p><italic>N<sup>2</sup>-(2&#x2019;S)-(Propionic acid methyl ester) 1,2,5-thiadiazolidine 1,1-dioxide</italic> (<bold>1c</bold>). Yield=90%; TLC: R<sub>f</sub> =0.45 (CHCl<sub>3</sub>); m.p.=124-125 &#xB0;C; [&#x3B1;]<sub>D</sub>=-34. (c=1; MeOH) ; IR (KBr) &#x3BD; cm<sup>-1</sup>: 1751 (C=O) 1375 and 1160 (SO<sub>2</sub>), 3345 (NH); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 6.24 (t, J=6.7 Hz, 1H), 4.15 (q, 1H, J=7,8 Hz, 1H), 3,80 (t, J=6.7Hz, 2H), 3.70 (s, 3H), 3.65 (m, 2H), 1.50 (d, J=7.8 Hz, 3H); <sup>13</sup>C-NMR (CDCl<sub>3</sub>  &#x3B4; ppm: 172, 56, 52, 41, 39, 28; M.S:  (NOBA, FAB&lt; 0): 207 [M-H] <sup>-</sup>, 415; M=208; Anal. Calcd. for C<sub>6</sub>H<sub>12</sub>N<sub>2</sub>O<sub>4</sub>S: C, 34.61; H, 5.77; N, 13.46; S, 15.38; found C, 34.63; H, 5.84; N, 13.44; S, 15.32.</p>
+        <p><italic>N<sup>2</sup>-(2&#x2019;S)-(3-methylbutyric acid methyl ester) 1,2,5-thiadiazolidine 1,1-dioxide</italic> (<bold>2c</bold>). Yield=85%; TLC: R<sub>f</sub> =0.55 (CHCl<sub>3</sub>); m.p.=134-135&#xB0;C; [&#x3B1;]<sub>D</sub> =-44 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1745 (C=O), 1390 and 1160 (SO<sub>2</sub>), 3340 (NH); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 6.30 (tJ=6.8Hz, 1H), 4.15 (d, J=7.2 Hz, 1H), 3.90 (t, J= 6,7 Hz, 2H), 3.70 (s, 3H), 3.60 (m, 2H), 1.30 (m, 1H), 0,98 (2d, J=6.9 Hz, 6H); <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 171, 56, 53, 41, 39, 26, 23, 22; M.S:  (NOBA, FAB&gt;0): 237 [M+H] <sup>+</sup>, 473; M=236; Anal. Calcd. for C<sub>8</sub>H<sub>16</sub>N<sub>2</sub>O<sub>4</sub>S: C, 40.67; H, 6.78; N, 11.86; S, 13.60; found: C, 40.73; H, 6.84; N, 11.94; S,13.52</p>
+        <p><italic>N<sup>2</sup>-(2&#x2019;S)-4&#x2019;-methylpentanoic acid methyl ester) 1,2,5-thiadiazolidine 1,1-dioxide</italic> (<bold>3c</bold>). Yield= 90%; TLC: R<sub>f</sub> =0.53 (CHCl<sub>3</sub>); m.p.=128-130 &#xB0;C; [&#x3B1;]<sub>D</sub>=+76 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1747, 1360 and 1120 (SO<sub>2</sub>), 3320 (NH); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 6.30 (tJ=6.8Hz,1H), 4.30 (m, 1H), 3.85 (t, J=6.4 Hz, 2H), 3.72 (s, 3H), 3.55 (m, 2H), 1.55-1.65 (m, 3H), 0,98 (2d, J=6.9 Hz, 6H);<sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 177, 57, 53, 41, 39, 28, 25, 22, 21; M.S:  (NOBA, FAB&gt;0): 251 [M+H] <sup>+</sup>, 501. M=250; Anal. Calcd. For C<sub>9</sub>H<sub>18</sub>N<sub>2</sub>O<sub>4</sub>S: C, 43.20; H,7.20; N, 11.20; S, 12.80; found: C, 43.23; H, 7.24; N, 11.17; S, 12.72.</p>
+        <p><italic>N<sup>2</sup>-(2&#x2019;S&#x2019;)-bis(1&#x2019;,3&#x2019;-methoxycarbonyl)ethyl] 1,2,5-thiadiazolidine 1,1-dioxide</italic> (<bold>4c</bold>). Yield=88%; R<sub>f</sub> =0.56 (CHCl<sub>3</sub>); oil; [&#x3B1;]<sub>D</sub>  =-56 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1750-1755 (2C=O) 1390 and 1150 (SO<sub>2</sub>), 3325 (NH); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 6.80 (tJ=6.7Hz,1H), 4.25 (2d, J=7.1, 4.6 Hz, 1H), 3.70-3.80 (2s, 6H), 3.70 (t, J=6.7 Hz, 2H), 3.55 (m, 2H), 3.50 (ddd, J= J=17.2, 7.1, 4.5 Hz, 2H) ; <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 177, 175, 57, 53, 52, 41, 39, 28; M.S: (NOBA, FAB&gt;0): M=267 [M+H]+, 533; M=266; Anal. Calcd. for C<sub>8</sub>H<sub>14</sub>O<sub>6</sub>N<sub>2</sub>S: C, 36.09; H, 5.26; N, 10.52; S, 12.03; found: C, 36.13; H 5.24; N, 10.54; S, 12.00.</p>
+        <p><italic>N<sup>2</sup>-(2&#x2019;S&#x2019;)-bis(1&#x2019;,4&#x2019;-methoxycarbonyl)propyl] 1,2,5-thiadiazolidine 1,1-dioxide</italic> (<bold>5c</bold>). Yield=89%; TLC: R<sub>f</sub> =0.54 (CHCl<sub>3</sub>); oil; [&#x3B1;]<sub>D</sub>= +67 ( c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1745-1738 (2C=O) 1360 and 1120 (SO<sub>2</sub>), 3145 (NH) ; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 6.60 (tJ=6.8Hz,1H), 4,30 (m, 1H), 3,70 (t, J=6.4 Hz, 2H), 3.65 (m, 2H), 3.72-3.65 (2s, 6H), 2.50 (m, 2H), 2.10 (m, 2H); <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 172, 170, 56, 53, 52, 42, 40, 30, 28 ; M.S: (NOBA, FAB&gt;0): 281 [M+H] <sup>+</sup>, 561. M=280; Anal. Calcd. For C<sub>9</sub>H<sub>16</sub>N<sub>2</sub>O<sub>6</sub>S: C, 38.57; H, 5.71; N, 10.00; S, 11.43; found: C,38.63; H, 5.74; N, 10.04; S, 11.36.</p>
+      </sec>
+      <sec>
+        <title>Propionylation</title>
+        <p>To a stirring solution of N-substituted cyclosulfamide <bold>1c-5c</bold> (20 mmol), in dichloromethane (50 mL) was added triethylamine (1.1 equiv., 22 mmol, 2.22 g, 1.60 mL), and catalytic quantities of dimetylaminopyridine (DMAP). Propionyl chloride (1.5 equiv., 30 mmol, 2.41 g, 2.57 mL) diluted in the  same  solvent  (15  mL)  was  added  slowly  to  the  resulting  solution.  When  the  addition  was completed, the reaction mixture was stirred under an atmosphere of dry nitrogen. TLC reveals the formation of a substituted compound less polar than its precursor. The reaction mixture was concentrated <italic>in vacuo</italic>. The residue diluted with dichoromethane (50 mL), acidified with 0.1 N HCl solution and washed with water. The organic layer was dried with (Na<sub>2</sub>SO<sub>4</sub>) and concentrated under reduced  pressure  to  give  the  crude  product.  The  residue  was  purified  on  silica  gel  by  column chromatography eluting with dichloromethane to give the <italic>N</italic><sup>2</sup>, <italic>N</italic><sup>5</sup> substituted cyclosulfamides <bold>1d-5d</bold> in 75-90 % yields.</p>
+        <p><italic>[N<sup>2</sup>-(2&#x2019;S&#x2019;)-(propionic acid methyl ester), N<sup>5</sup>-propionyl] 1,2,5-thiadiazolidine 1,1-dioxide</italic> (<bold>1d</bold>). Yield=90%; TLC: R<sub>f</sub>=0.59 (CHCl<sub>3</sub>); m.p.=88-89&#xB0;C; [&#x3B1;]<sub>D</sub>=-17 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1750-1715 (C=O), 1375 and 1160 (SO<sub>2</sub>) ; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 4.15 (q, J=7.8 Hz, 1H), 3.80 (t, J=6.2 Hz, 2H), 3.70 (s, 3H), 3.65 (t, J=6.7 Hz, 2H), 2.85 (q, J=7.4 Hz, 2H), 1.50 (d, 3H, J=7.8 Hz), 1.15 (t, 3H, J=7.4 Hz, 3H); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 172, 170, 56, 53, 41, 39, 29, 28, 12; M.S: (NOBA, FAB&gt;0): 265 [M+H] <sup>+</sup>, 208; M=264; Anal. Calcd. for C<sub>9</sub>H<sub>16</sub>O<sub>5</sub>N<sub>2</sub>S: C, 40.91; H, 6.06;N, 10.60; S, 12.12; found: C, 40.98; H, 6.17; N, 10.65; S, 12.05.</p>
+        <p><italic>[N<sup>2</sup>-(2&#x2019;S)-(3&#x2019;-methylbutyric acid methyl ester), N<sup>5</sup>-propionyl] 1,2,5-thiadiazolidine 1,1-dioxide</italic> (<bold>2d</bold>). Yield=88%; TLC: R<sub>f</sub> =0,62 (CHCl<sub>3</sub>); m.p.=94-95&#xB0;C; [&#x3B1;]<sub>D</sub> =-14 (c=1; MeOH). IR (KBr) &#x3BD; cm<sup>-1</sup>: 1748-1712 (C=O), 1389-1163 (SO<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 4.15 (d, J=7.2 Hz, 1H), 3.95 (t, J=6.7 Hz, 2H), 3.8 (t, J=6,7 Hz, 2H), 3.70 (s, 3H), 2.85 (q, 2H, J=7.4 Hz, 2H), 1.30 (m, 1H), 1.16 (t, J=7,4 Hz, 3H), 0.98 (2d, J=6.9 Hz, 6H); <sup>13</sup>C-NMR (CDCl<sub>3</sub>  &#x3B4; ppm: 172, 170, 56, 53, 43, 39, 26, 28, 23, 22, 13; M.S:  (NOBA, FAB&gt;0): M=373 [M+H] <sup>+</sup>, 174 ,745; M=372; Anal. Calcd. for C<sub>11</sub>H<sub>20</sub>N<sub>2</sub>O<sub>5</sub>S; C, 45.20; H, 6.85; N, 9.59; S, 10.96; found: C, 45.23; H, 6.19; N, 9.54; S, 10.89.</p>
+        <p><italic>[N<sup>2</sup>-(2&#x2019;S)-4&#x2019;-methylpentanoic acid methyl ester), N<sup>5</sup>-propionyl] 1,2,5-thiadiazolidine 1,1-dioxide</italic> (<bold>3d</bold>). Yield=85%; TLC: R<sub>f</sub>  =0.65 (CHCl<sub>3</sub>); m.p.=106-108&#xB0;C; [&#x3B1;]<sub>D</sub>=+54 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1747-1718 (C=O), 1362 and 1125 (SO<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 4.10 (m, 1H), 3.92 (t, J= 6.7 Hz, 2H), 3.75 (t, J=6.7 Hz, 2H), 3.72 (s, 3H), 2.85 (q, J=7,4 Hz, 2H), 1,55-1,65 (m, 12H), 1.15 (t, J=7.4 Hz, 3H), 0.98-1.00 (2d, J=6.9 Hz, 6H); <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 175 ,170, 57, 53, 41,39, 28, 29, 25, 23, 21, 12; M.S: (NOBA, FAB&gt;0): 307 [M+H] <sup>+</sup>, 250; M=306; Anal. Calcd. for C<sub>12</sub>H<sub>22</sub>N<sub>2</sub>O<sub>5</sub>S: C, 47.06; H, 7.19; N, 9.15; S, 10.46; found: C, 47.12; H, 7.25; N, 9.08; S, 10.42.</p>
+        <p><italic>[N<sup>2</sup>-(2&#x2019;S&#x2019;)-bis(1&#x2019;,3&#x2019;-methoxycarbonylethyl), N<sup>5</sup>-propionyl] 1,2,5-thiadiazolidine 1,1-dioxide</italic> (<bold>4d</bold>). Yield=80%, TLC: R<sub>f</sub>  =0.67 (CHCl<sub>3</sub>); oil; [&#x3B1;]<sub>D</sub> =-87 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1749, 1753 and 1715 (C=O) 1380 and 1150 (SO<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 4.30 ( 2d, J=7.3, 4.6 Hz, 1H), 3.70-3.80 (2s, 6H), 3.85 (t, J=6.8 Hz, 2H), 3.60 (t, J=6.8 Hz, 2H), 3.50 (ddd, J=J=17.2, 7.3, 4.6 Hz, 2H),  2.85 (q, J=7,4 Hz, 2H), 1.18 (t, J=7,4 Hz, 3H); <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 173, 172, 165, 57, 53, 52, 43, 40, 29, 25, 12; M.S: (NOBA, FAB&gt;0): M=323 [M+H] <sup>+</sup>, 266. M=322; Anal. Calcd. for C<sub>11</sub>H<sub>18</sub>N<sub>2</sub>O<sub>7</sub>S: C, 40.99; H, 5.54; N, 8.69; S, 9.34; found: C, 41.03; H, 5.64; N, 8.80; S, 9.30.</p>
+        <p><italic>[N<sup>2</sup>-(2&#x2019;S&#x2019;)-bis(1&#x2019;,4&#x2019;-methoxycarbonylpropyl), N<sup>5</sup>-propionyl] 1,2,5-thiadiazolidine 1,1-dioxide</italic> (5d). Yield=75%, TLC: R<sub>f</sub>  =0.51 (CHCl<sub>3</sub>); oil; [&#x3B1;]<sub>D</sub>=+43 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1745, 1738 and 1713 (C=O), 1360 and 1120 (SO<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 4.30 (m, 1H), 3.85 (t, J=6.4Hz, 2H), 3.65 (t, J=6.4 Hz, 2H), 3.72-3.65 (2s, 6H), 2.48 (m, 2H), 2.10 (m, 2H), 2.85 (q, J=7,4 Hz, 2H), 1.14 (t, J=7.4 Hz, 3H); <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 173, 171, 165, 56, 53, 52, 42, 41, 30, 29, 25, 12; Anal. Calcd. For C<sub>12</sub>H<sub>20</sub>O<sub>7</sub>N<sub>2</sub>S: C, 42.86; H, 5.95; N, 8.33; S, 9.52; found: C, 42.92; H, 9.87; N, 8.28; S, 9.43.</p>
+      </sec>
+      <sec>
+        <title>Alkylation via the Mitsunobu Reaction</title>
+        <p>To a stirring solution of N-substituted cyclosulfamide <bold>1d-2d</bold> (3.23 mmol) in THF (2 mL) was slowly added DEAD (3.23 mmol, 0.5 mL) via dropwise addition. A solution consisting of (L)-(-)- ethyl lactate (3.23 mmol, 0.37 mL) and PPh<sub>3</sub> (3.23 mmol, 847 mg) in THF (3mL), was slowly transferred via cannula into the cyclosulfamide solution. The reaction medium was stirred under an atmosphere of dry nitrogen for about 45 min. TLC reveals (UV, ninhydrin) the formation of a substituted compound less polar than its precursor. Oxydoreduction compounds were removed by filtration after precipitation into diethylether. The filtrate was concentrated and the crude residue was purified by colunm chromatography eluting with dichloromethane. <italic>N</italic>,<italic>N</italic>&#x2019;-Substituted cyclosufamides <bold>1e-2e</bold> were recovered in 65-75% yield.</p>
+        <p><italic>[N<sup>2</sup>-(2S)-(Methoxycarbonylethyl), N<sup>5</sup>-(2&#x2019;R)-(propionic acid ethyl ester)]-1,2,5-thiadiazolidine 1,1- dioxide</italic> (1e). Yield=65%; TLC: R<sub>f</sub>=0.64 (CHCl<sub>3</sub>); m.p.=88-89&#xB0;C; [&#x3B1;]<sub>D</sub>=-65 (c=1; MeOH); IR (KBr) &#x3BD; cm<sup>-1</sup>:  1750-1731  (C=O), 1360 and 1152 (SO<sub>2</sub>); <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 4.76 (q, J=7.3, 1H), 4.65 (q, J=7.2, 1H), 4.15 (q, J=7.2 Hz, 1H), 3.80 (t, J=6.7 Hz, 2H), 3.70 (s, 3H), 3.65 (t, J=6.7 Hz, 2H),1.44 (d, J=7.2, 3H), 1.39 (d, J=7.1 Hz, 3H), 1.28 (t, J=7.2, 3H); <sup>13</sup>C-NMR (CDCl<sub>3</sub> &#x3B4; ppm: 172, 170, 56, 55, 53, 50, 41, 39, 29, 28,   12; M.S: (NOBA, FAB&gt;0): M=309 [M+H] <sup>+</sup>. M=308; Anal. Calcd. for C<sub>11</sub>H<sub>20</sub>N<sub>2</sub>O<sub>6</sub>N<sub>2</sub>S C, 42.86, H, 6.49, N, 9.09. S,10.03. Found: C, 40.86, H,6.13, N,9.47. S, 10.03.</p>
+        <p><italic>[N<sup>2</sup>-(2S)-(3-Methylmethoxycarbonylpropyl), N<sup>5</sup>-(2&#x2019;R)-propionic acid ethyl ester)] 1,2,5-thiadiazol- idine-1,1-dioxide</italic>  (<bold>2e</bold>). Yield =75%;  TLC: R<sub>f</sub> =0.61 (CHCl<sub>3</sub>); m.p.=80-81&#xB0;C; [<bold>&#x3B1;</bold>]<sub>D</sub>  =-12.0 (c=0,5, CHCl<sub>3</sub>); IR (KBr) &#x3BD; cm<sup>-1</sup>: 1745, 1729, 1346, 1145; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; ppm: 4.70 (q, J=7.3 Hz, 1H), 4.20 (q, J=7.1Hz, 2H), 3.90 (d, J=3.3 Hz, 1H), 3.80-3.60 (m, 4H), 3.70 (s, 3H), 2.12 (m, 1H), 1.39 (d, J=7.1 Hz, 3H), 1.26 (t, J=7.3 Hz, 3H), 0,98 (d, J=6.8 Hz, 3H ), 0,88 (d, J=6.9 Hz,3H); <sup>13</sup>C-NMR (CDCl<sub>3</sub>  &#x3B4; ppm: 172, 169, 56, 55, 53, 52, 50, 41, 39, 28, 22, 21, 14; M.S: (NOBA, FAB&gt;0): 337 [M+H]+. M=336; Anal. Calcd. for C<sub>13</sub>H<sub>24</sub>N<sub>2</sub>O<sub>6</sub>S: C, 46.43; H, 7.14; N, 8.33; C, 9.52. Found: C, 46.49; H, 7.18; N, 8.34; S, 9.43.</p>
+      </sec>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01387">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Groutas</surname>
+              <given-names>W.C.</given-names>
+            </name>
+            <name>
+              <surname>Kuang</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Venkataraman</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Epp</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Ruan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Prakash</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <source>Biochemistry</source>
+          <year>1997</year>
+          <volume>36</volume>
+          <fpage>4739</fpage>
+          <lpage>4750</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01387">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Groutas</surname>
+              <given-names>W.C.</given-names>
+            </name>
+            <name>
+              <surname>Kuang</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Ruan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Epp</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Venkataraman</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Truong</surname>
+              <given-names>T.M.</given-names>
+            </name>
+          </person-group>
+          <source>Bioorg. Med. Chem.</source>
+          <year>1998</year>
+          <volume>8</volume>
+          <fpage>661</fpage>
+          <lpage>671</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0968-0896(98)00006-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01387">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castro</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Baker</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Guiblin</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Hobbs</surname>
+              <given-names>S.C.</given-names>
+            </name>
+            <name>
+              <surname>Jenkins</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Russel</surname>
+              <given-names>M.G.N.</given-names>
+            </name>
+            <name>
+              <surname>Beer</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Stanton</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Scholey</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hargreaves</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1994</year>
+          <volume>37</volume>
+          <fpage>3023</fpage>
+          <lpage>3032</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01387">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>B&#xE4;kbro</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>L&#xF6;wgren</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>&#xD6;sterlund</surname>
+              <given-names>K.J.</given-names>
+            </name>
+			<name>
+              <surname>Atepo</surname>
+              <given-names>J.</given-names>
+            </name>
+			<name>
+              <surname>Unge</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Hult&#xE9;n</surname>
+              <given-names>J.</given-names>
+            </name>
+			<name>
+              <surname>Bonham</surname>
+              <given-names>N.M.</given-names>
+            </name>
+			<name>
+              <surname>Schaal</surname>
+              <given-names>W.</given-names>
+            </name>
+			<name>
+              <surname>Karl&#xE9;n</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Hallberg</surname>
+              <given-names>A.J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1997</year>
+          <volume>40</volume>
+          <fpage>898</fpage>
+          <lpage>902</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm960588d</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01387">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hult&#xE9;n</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bonham</surname>
+              <given-names>N.M.</given-names>
+            </name>
+            <name>
+              <surname>Nillroth</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Hansson</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Zucccarello</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Bouzide</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Aqvist</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Classon</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Danielson</surname>
+              <given-names>U.H.</given-names>
+            </name>
+            <name>
+              <surname>Karl&#xE8;n</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1997</year>
+          <volume>40</volume>
+          <fpage>885</fpage>
+          <lpage>897</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01387">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schaal</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Kalsson</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ahls&#xE9;n</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Andersson</surname>
+              <given-names>H.O.</given-names>
+            </name>
+            <name>
+              <surname>Danielson</surname>
+              <given-names>U.H.</given-names>
+            </name>
+            <name>
+              <surname>Classon</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Unge</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Samuelsson</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Hult&#xE9;n</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hallberg</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Karl&#xE9;n</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>2001</year>
+          <volume>44</volume>
+          <fpage>155</fpage>
+          <lpage>164</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01387">
+        <label>7.</label>
+		<note>
+		  <p>
+            <citation citation-type="journal">
+			  <label>(a)</label>
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Lai</surname>
+                  <given-names>Z.</given-names>
+                </name>
+                <name>
+                  <surname>Gan</surname>
+                  <given-names>X.</given-names>
+                </name>
+                <name>
+                  <surname>Wei</surname>
+                  <given-names>L.</given-names>
+                </name>
+                <name>
+                  <surname>Alliston</surname>
+                  <given-names>K.R.</given-names>
+                </name>
+                <name>
+                  <surname>Yu</surname>
+                  <given-names>H.</given-names>
+                </name>
+                <name>
+                  <surname>Li</surname>
+                  <given-names>Y.H.</given-names>
+                </name>
+                <name>
+                  <surname>Groutas</surname>
+                  <given-names>W.C.</given-names>
+                </name>
+              </person-group>
+              <source>Arch. Biochem. Biophys.</source>
+              <year>2004</year>
+              <volume>429</volume>
+              <fpage>191</fpage>
+              <lpage>197</lpage>
+			</citation>
+			<citation citation-type="journal">
+			  <label>(b)</label>
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Groutas</surname>
+                  <given-names>W.C.</given-names>
+                </name>
+                <name>
+                  <surname>Epp</surname>
+                  <given-names>J.B.</given-names>
+                </name>
+                <name>
+                  <surname>Kuang</surname>
+                  <given-names>R.</given-names>
+                </name>
+                <name>
+                  <surname>Ruan</surname>
+                  <given-names>S.</given-names>
+                </name>
+                <name>
+                  <surname>Chong</surname>
+                  <given-names>S.L.</given-names>
+                </name>
+                <name>
+                  <surname>Venkataraman</surname>
+                  <given-names>R.</given-names>
+                </name>
+                <name>
+                  <surname>Tu</surname>
+                  <given-names>J.</given-names>
+                </name>
+				<name>
+                  <surname>He</surname>
+                  <given-names>S.</given-names>
+                </name>
+				<name>
+                  <surname>Fu</surname>
+                  <given-names>Q.</given-names>
+                </name>
+				<name>
+                  <surname>Li</surname>
+                  <given-names>Y.H.</given-names>
+                </name>
+				<name>
+                  <surname>Truong</surname>
+                  <given-names>T.M.</given-names>
+                </name>
+				<name>
+                  <surname>Vu</surname>
+                  <given-names>N.</given-names>
+                </name>
+              </person-group>
+              <source>Arch. Biochem. Biophys.</source>
+              <year>2001</year>
+              <volume>385</volume>
+              <fpage>162</fpage>
+              <lpage>169</lpage>
+			</citation>
+		  </p>
+		</note>
+      </ref>
+      <ref id="B8-molecules-10-01387">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boudjabi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Dewynter</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Voyer</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Toupet</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Montero</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Org. Chem.</source>
+          <year>1999</year>
+          <fpage>2275</fpage>
+          <lpage>2283</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01387">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>M. Knollmuller</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Monatsh. Chem.</source>
+          <year>1970</year>
+          <volume>101</volume>
+          <fpage>1443</fpage>
+          <lpage>1448</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01387">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ahn</surname>
+              <given-names>K.H.</given-names>
+            </name>
+            <name>
+              <surname>Yoo</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.S.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1992</year>
+          <volume>33</volume>
+          <fpage>6661</fpage>
+          <lpage>6664</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01387">
+        <label>11.</label>
+		<note>
+		  <p>
+            <citation citation-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Dougherty</surname>
+                 <given-names>J.M.</given-names>
+                </name>
+                <name>
+                  <surname>Probst</surname>
+                  <given-names>D.A.</given-names>
+                </name>
+                <name>
+                  <surname>Robinson</surname>
+                  <given-names>R.E.</given-names>
+                </name>
+                <name>
+                  <surname>Moore</surname>
+                  <given-names>D.J.</given-names>
+                </name>
+                <name>
+                  <surname>Klien</surname>
+                  <given-names>T.A.</given-names>
+                 </name>
+                <name>
+                  <surname>Snelgrove</surname>
+                  <given-names>K.A.</given-names>
+                </name>
+                <name>
+                  <surname>Hanson</surname>
+                  <given-names>P.R.</given-names>
+                </name>
+              </person-group>
+              <source>Tetrahedron</source>
+              <year>2000</year>
+              <volume>56</volume>
+              <fpage>9782</fpage>
+              <lpage>9790</lpage>
+			</citation>
+			<citation citation-type="journal">
+			  <label>(b)</label>
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Jun</surname>
+                 <given-names>J.H.</given-names>
+                </name>
+                <name>
+                  <surname>Dougherty</surname>
+                  <given-names>J.M.</given-names>
+                </name>
+                <name>
+                  <surname>Probst</surname>
+                  <given-names>D.A.</given-names>
+                </name>
+                <name>
+                  <surname>Jim&#xE9;nez</surname>
+                  <given-names>M.S.</given-names>
+                </name>
+                <name>
+                  <surname>Hanson</surname>
+                  <given-names>P.R.</given-names>
+                 </name>
+              </person-group>
+              <source>Tetrahedron</source>
+              <year>2003</year>
+              <volume>59</volume>
+              <fpage>8901</fpage>
+              <lpage>8912</lpage>
+			</citation>
+		  </p>
+		</note>
+      </ref>
+      <ref id="B12-molecules-10-01387">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>P.D.</given-names>
+            </name>
+            <name>
+              <surname>Jewell</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Romero</surname>
+              <given-names>D.L.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2003</year>
+          <volume>44</volume>
+          <fpage>5483</fpage>
+          <lpage>5485</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01387">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Regainia</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Abdaoui</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Aouf</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Dewynter</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Montero</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2000</year>
+          <volume>56</volume>
+          <fpage>381</fpage>
+          <lpage>387</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01387">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Regainia</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Winum</surname>
+              <given-names>J.Y.</given-names>
+            </name>
+            <name>
+              <surname>Smain</surname>
+              <given-names>F.T.</given-names>
+            </name>
+            <name>
+              <surname>Toupet</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Aouf</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Montero</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2003</year>
+          <volume>59</volume>
+          <fpage>6051</fpage>
+          <lpage>6056</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01387">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berredjem</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Djebbar</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Regainia</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Aouf</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>G. Dewynter</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Winum</surname>
+              <given-names>J.Y.</given-names>
+            </name>
+            <name>
+              <surname>Montero</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <source>Phosphorus, Sulfur Silicon</source>
+          <year>2003</year>
+          <volume>178</volume>
+          <fpage>693</fpage>
+          <lpage>705</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01387">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dhar</surname>
+              <given-names>N.D.</given-names>
+            </name>
+            <name>
+              <surname>Murthy</surname>
+              <given-names>K.S.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1986</year>
+          <fpage>437</fpage>
+          <lpage>449</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-01387">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dewynter</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Aouf</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Regainia</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Montero</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1996</year>
+          <volume>52</volume>
+          <fpage>993</fpage>
+          <lpage>1004</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01387">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dewynter</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Aouf</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Criton</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Montero</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1993</year>
+          <volume>49</volume>
+          <fpage>65</fpage>
+          <lpage>76</lpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01387">
+        <label>19.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aouf</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Dewynter</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Montero</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1991</year>
+          <volume>32</volume>
+          <fpage>6545</fpage>
+          <lpage>6546</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-01387">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mitsunobu</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1981</year>
+          <fpage>1</fpage>
+          <lpage>29</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-01387">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hughes</surname>
+              <given-names>D.L.</given-names>
+            </name>
+          </person-group>
+          <source>Org. React.</source>
+          <year>1992</year>
+          <volume>42</volume>
+          <fpage>335</fpage>
+          <lpage>380</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-01387">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laverdi&#xE8;re</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sabath</surname>
+              <given-names>L.D.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med.</source>
+          <year>1977</year>
+          <volume>44</volume>
+          <fpage>73</fpage>
+          <lpage>88</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+      <p><italic>Sample availability:</italic> Available from the authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+ <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+  <article-meta>
+   <article-id pub-id-type="doi">10.3390/10101292</article-id>
+   <article-id pub-id-type="publisher-id">molecules-10-01292</article-id>
+   <article-categories>
+    <subj-group>
+     <subject>Article</subject>
+    </subj-group>
+   </article-categories>
+   <title-group>
+    <article-title>9-Hydroxyfurodysinin-<italic>O</italic>-ethyl Lactone: A New Sesquiterpene Isolated from the Tropical Marine Sponge <italic>Dysidea arenaria</italic></article-title>
+   </title-group>
+   <contrib-group>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Piggott</surname>
+      <given-names>Andrew M.</given-names>
+     </name>
+    </contrib>
+	<contrib contrib-type="author">
+     <name>
+      <surname>Karuso</surname>
+      <given-names>Peter</given-names>
+     </name>
+     <xref rid="c1-molecules-10-01292" ref-type="corresp">*</xref>
+    </contrib>
+   </contrib-group>
+   <aff id="af1-molecules-10-01292">Department of Chemistry &amp; Biomolecular Sciences, Macquarie University, Sydney, NSW, 2109, Australia; Tel. (+612)-9850-8290, Fax (+612)-9850-8313.</aff>
+   <author-notes>
+    <corresp id="c1-molecules-10-01292"><label>*</label>Author to whom correspondence should be addressed; e-mail <email>peter.karuso@mq.edu.au</email></corresp>
+   </author-notes>
+   <pub-date pub-type="epub">
+    <day>31</day>
+    <month>10</month>
+    <year>2005</year>
+   </pub-date>
+   <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>10</issue>
+   <fpage>1292</fpage>
+   <lpage>1297</lpage>
+   <history>
+    <date date-type="received">
+     <day>28</day>
+     <month>03</month>
+     <year>2005</year>
+    </date>
+    <date date-type="accepted">
+     <day>02</day>
+     <month>05</month>
+     <year>2005</year>
+    </date>
+   </history>
+   <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+   <abstract>
+    <p>A new sesquiterpene, 9-hydroxyfurodysinin-<italic>O</italic>-ethyl lactone, has been isolated from a New Caledonian <italic>Dysidea arenaria</italic>, along with three known compounds. The possible incorporation of the ethyl ether from the extraction solvent is discussed.</p>
+   </abstract>
+   <kwd-group>
+    <kwd>Marine sponges</kwd>
+		<kwd>marine natural products</kwd>
+		<kwd><italic>Dysidea arenaria</italic></kwd>
+		<kwd>sesquiterpenes</kwd>
+	 <kwd>furodysinin lactone</kwd>
+   </kwd-group>
+  </article-meta>
+ </front>
+ <body>
+  <sec sec-type="intro">
+   <title>Introduction</title>
+   <p>Marine sponges belonging to the genus <italic>Dysidea</italic> generally contain sesquiterpenes [<xref ref-type="bibr" rid="B1-molecules-10-01292">1</xref>], polychlorinated amino acids [<xref ref-type="bibr" rid="B2-molecules-10-01292">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-01292">3</xref>] or polybrominated diphenyl ethers [<xref ref-type="bibr" rid="B4-molecules-10-01292">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-01292">5</xref>], although the latter two classes of compound have been shown to originate from the symbiotic cyanobacterium <italic>Oscillatoria spongeliae</italic> [<xref ref-type="bibr" rid="B6-molecules-10-01292">6</xref>]. Herein, we describe the isolation, purification and structure elucidation of one new and three known compounds from a New Caledonian <italic>Dysidea arenaria</italic>.</p>
+  </sec>
+  <sec sec-type="results">
+   <title>Results and Discussion</title>
+   <p>A freeze-dried sample of <italic>Dysidea arenaria</italic> from New Caledonia was extracted exhaustively with aqueous ethanol, and the combined extracts were partitioned against light petroleum and then DCM. The light petroleum partition yielded furodysinin-<italic>O</italic>-ethyl lactone (<bold>1</bold>), which has been isolated previously from <italic>Dysidea tupha </italic> [<xref ref-type="bibr" rid="B7-molecules-10-01292">7</xref>], while the DCM partition yielded the known polyhydroxylated sterol (<bold>2</bold>) [<xref ref-type="bibr" rid="B8-molecules-10-01292">8</xref>], the known sesquiterpene, furodysinin lactone (<bold>3</bold>) [<xref ref-type="bibr" rid="B9-molecules-10-01292">9</xref>], and a third compound (<bold>4</bold>) as a colorless oil. The high resolution ESI mass spectrum of (<bold>4</bold>) showed a signal at <italic>m/z</italic> 315.1568 ([M+Na]<sup>+</sup>), corresponding to a molecular formula of C<sub>17</sub>H<sub>24</sub>O<sub>4</sub>. The <sup>1</sup>H NMR spectrum of (<bold>4</bold>) is almost identical to that of (<bold>1</bold>), except for the presence of an oxygen-bearing methine at &#x3B4; 3.96 and an exchangeable broad doublet at &#x3B4; 1.83, suggesting the addition of a hydroxyl group. This is supported by the presence of a broad stretch at 3364 cm<sup>-1</sup> in the IR spectrum of (<bold>4</bold>). The absence of C9 methylene protons at &#x3B4; 1.94 suggests that (<bold>4</bold>) is 9-hydroxyfurodysinin-<italic>O</italic>-ethyl lactone, which has not been reported previously in the literature. <sup>1</sup>H and <sup>13</sup>C NMR assignments for (<bold>4</bold>) are presented in <xref ref-type="table" rid="molecules-10-01292-t001">Table 1</xref>.
+	  <disp-formula>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01292-i001.tif"/>
+</disp-formula>
+	 <table-wrap id="molecules-10-01292-t001" position="float">
+    <object-id pub-id-type="pii">molecules-10-01292-t001_Table 1</object-id>
+    <label>Table 1</label>
+    <caption>
+     <p><sup>1</sup>H and <sup>13</sup>C NMR assignments for 9-hydroxyfurodysinin-<italic>O</italic>-ethyl lactone (<bold>4</bold>)</p>
+    </caption>
+    <table style="border:solid thin">
+     <thead>
+      <tr>
+       <th align="center" valign="top" style="border:solid thin">Atom</th>
+       <th align="center" valign="top" style="border:solid thin">&#x3B4; <sup>1</sup>H (ppm) &#x2013; <italic>J</italic> (Hz)</th>
+       <th align="center" valign="top" style="border:solid thin">&#x3B4; <sup>13</sup>C (ppm)</th>
+       <th align="center" valign="top" style="border:solid thin">HMBC</th>
+       <th align="center" valign="top" style="border:solid thin">COSY</th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">173.1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">2</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5.81 (s)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">117.1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3, 4</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">3</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">169.4</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">4</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">107.1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">5&#x3B1;</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1.42 (d; 13.7)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">38.7</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5&#x3B2;, 6</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">5&#x3B2;</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2.35 (dd; 13.7, 3.8)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">38.7</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5&#x3B1;, 6</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">6</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">2.81 (m)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">30.3</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5&#x3B1;, 5&#x3B2;, 7, 11</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">7</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">5.55 (dd; 5.6, 1.2)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">128.1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">13</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">8</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">134.5</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">9</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3.96 (bt; 4.0)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">68.1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">13</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">10&#x3B1;, 10&#x3B2;</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">10&#x3B1;</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1.35 (ddd; 14.7, 14.7, 4.4)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">27.8</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">9, 10&#x3B2;, 11</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">10&#x3B2;</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1.77 (dm; 14.7)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">27.8</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">9, 10&#x3B1;, 11</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">11</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1.95 (ddd; 14.7, 4.4, 3.7)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">41.7</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">14, 15</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">6, 10&#x3B1;, 10&#x3B2;</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">12</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">38.0</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">13</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1.78 (s)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">20.6</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">7, 8, 9</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">14</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1.39 (s)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">25.6</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1, 11, 12, 15</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">15</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1.25 (s)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">25.1</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1, 11, 12, 14</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">16a</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3.53 (dq; 8.9, 7.0)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">58.5</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">16b, 17</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">16b</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">3.22 (dq; 8.9, 7.0)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">58.5</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">16a, 17</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">17</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1.19 (t; 7.0)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">14.6</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">16</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">16a, 16b</td>
+      </tr>
+      <tr>
+       <td align="center" valign="top" style="border:solid thin">OH</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">1.83 (bd; 1.2)</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+       <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+      </tr>
+     </tbody>
+    </table>
+   </table-wrap>
+   The relative stereochemistry of (<bold>4</bold>) at C9 was confirmed by selective 1D ROESY experiments, with a larger ROE enhancement observed for the H9-H10&#x3B2; correlation than for the H9-H10&#x3B1; correlation (<xref ref-type="fig" rid="molecules-10-01292-f001">Figure 1</xref>(a)). Molecular modeling of both the 9&#x3B1;-and 9&#x3B2;-hydroxy stereoisomers revealed the distance between H9 and H10&#x3B1;/&#x3B2; to be 2.72 &#xC5; / 2.25 &#xC5; in the 9&#x3B1;-hydroxy isomer and 2.40 &#xC5; / 3.04 &#xC5; in the 9&#x3B2;-hydroxy isomer (<xref ref-type="fig" rid="molecules-10-01292-f001">Figure 1</xref>(b)). Therefore, the observed difference in ROE enhancement can only be accommodated by the 9&#x3B1;-hydroxy isomer. This is in agreement with the relative stereochemistry assigned to the related compound, 9-hydroxyfurodysinin-<italic>O</italic>-methyl lactone, by Garson <italic>et al</italic>. [<xref ref-type="bibr" rid="B10-molecules-10-01292">10</xref>].</p>
+    <fig id="molecules-10-01292-f001" position="float">
+    <label>Figure 1</label>
+    <caption>
+     <p>(a) Percent enhancements for selected ROE correlations in (<bold>4</bold>). (b) Distances between H9 and H10&#x3B1;/&#x3B2; in the 9&#x3B1; and 9&#x3B2; isomers of (<bold>4</bold>), as determined by molecular modeling</p>
+    </caption>
+    <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01292-g001.tif"/>
+   </fig>
+   <p>As ethyl ethers are uncommon in nature, it is likely that (<bold>1</bold>) and (<bold>4</bold>) are artifacts of the initial aqueous ethanol extraction, arising from a [4+2] cycloaddition reaction between a furan and singlet oxygen (<xref ref-type="fig" rid="molecules-10-01292-f002">Figure 2</xref>). The resulting ozonide can be attacked by ethanol to give an ethoxy hydroperoxide, which can then dehydrate to give a butenolide [<xref ref-type="bibr" rid="B11-molecules-10-01292">11</xref>]. This mechanism is supported by the isolation of furodysinin hydroperoxide from the nudibranch <italic>Chromodoris funerea</italic>, which is known to feed on <italic>Dysidea</italic> spp. [<xref ref-type="bibr" rid="B12-molecules-10-01292">12</xref>]. In addition, Faulkner and colleagues were able to synthesize furodysinin-<italic>O</italic>-methyl lactone by treating furodysinin with singlet oxygen at &#x2013;78 &#xB0;C and then quenching with methanol [<xref ref-type="bibr" rid="B12-molecules-10-01292">12</xref>].</p>
+    <fig id="molecules-10-01292-f002" position="float">
+    <label>Figure 2</label>
+    <caption>
+     <p>Possible mechanism for the formation of furodysinin-<italic>O</italic>-ethyl lactone (<bold>1</bold>) from furodysinin via a [4+2] cycloaddition reaction with singlet oxygen.</p>
+    </caption>
+    <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01292-g002.tif"/>
+   </fig>
+  </sec>
+  <sec sec-type="conclusions">
+   <title>Conclusions</title>
+   <p>One new and three known compounds were isolated from a New Caledonian <italic>Dysidea arenaria</italic>. The appearance of ethoxy adducts highlights the advantages of using ethanol rather than methanol as an extraction solvent. Methyl ethers are common in nature, and hence it is difficult to determine whether a methoxy group in a natural product was incorporated biosynthetically or simply by reaction with the extraction solvent.</p>
+  </sec>
+  <sec sec-type="methods">
+   <title>Experimental</title>
+   <sec>
+    <title>General</title>
+    <p>A freeze-dried sample of a New Caledonian <italic>Dysidea arenaria</italic> was a kind gift from Prof. Dame Patricia Bergquist (University of Auckland). Solvents were obtained from Fronine (Australia) and were glass distilled before use. S-X3 Biobeads were obtained from Bio-Rad (USA). All other reagents were obtained from Aldrich (USA). NMR spectra were recorded on either a DPX-400 400 MHz or DRX-600K 600 MHz spectrometer (Bruker, Germany) in 5 mm Pyrex tubes (Wilmad, USA). High resolution ESI mass spectra were recorded on an APEXII FTICR spectrometer (Bruker, Germany). Low resolution ESI mass spectra were recorded on a Quattro-II triple quadrupole spectrometer (Fisons Instruments, USA). IR spectra were recorded on a Paragon PE1000 FTIR spectrometer (Perkin Elmer, USA). UV-Vis spectra were recorded on a Cary 1-Bio spectrophotometer (Varian, USA) in 1 cm matched quartz cuvettes (Selbys Scientific, Australia). HPLC was performed using a 600E solvent delivery system and a 490 programmable multi-wavelength detector (Waters, USA), on a 250 x 4.6 mm C18 column (Alltech, USA). Water was purified using a Milli-Q Ultrapure Water Purification System (Millipore, USA). Molecular modeling was performed using the Chem3D software package (Cambridgesoft, USA).</p>
+   </sec>
+   <sec>
+    <title>Extraction Procedure</title>
+    <p>A sample of freeze-dried <italic>Dysidea arenaria</italic> from New Caledonia (56 g) was extracted exhaustively with aqueous ethanol (70%; 6 x 100 mL), and the combined extracts were partitioned against light petroleum (3 x 200 mL) and DCM (3 x 200 mL), yielding 0.15 g and 0.32 g of residue respectively. The crude light petroleum extract was chromatographed on silica gel (gradient 0-100% ethyl acetate:light petroleum) and six fractions were collected. The <sup>1</sup>H-NMR spectra and colors of fractions 1, 2, 3 and 5 suggested the presence of carotenoids, fatty acids, sterols and sterol endoperoxides respectively, and hence these fractions were not investigated further.  Fraction 4 was further purified by reversed phase HPLC (analytical C18 column, 80:20 methanol:water), with a large UV active peak (254 nm) eluting after 11 min. The solvent was removed from this peak <italic>in vacuo</italic>, yielding furodysinin-<italic>O</italic>-ethyl lactone (<bold>1</bold>) as a white solid (1 mg, 0.002% dry weight). The crude DCM extract was subjected to gel permeation chromatography with S-X3 Biobeads (toluene), and 30 fractions were collected. On standing at room temperature overnight, a white solid precipitated from Fractions 7-11. This solid was collected at the pump and then recrystallized from toluene, yielding 9&#x3B1;,11&#x3B1;-epoxycholest-7-ene-3&#x3B2;,5&#x3B1;,6&#x3B2;,19-tetrol 6-acetate (<bold>2</bold>) as white crystals (20 mg, 0.04% dry weight). Fractions 14-28 were combined (TLC) and reduced to dryness <italic>in vacuo</italic>. The resulting residue was chromatographed on silica gel (gradient 0-100% ethyl acetate:light petroleum) and 30 fractions were collected. Fractions 22-25 were combined (TLC) and further purified by reversed phase HPLC (analytical C18 column, 65:35 methanol:water), with a large UV active peak (254 nm) eluting after 8 min. The solvent was removed from this peak under a stream of nitrogen, yielding 9-hydroxy-furodysinin-<italic>O</italic>-ethyl lactone (<bold>4</bold>) as a colorless oil (3 mg, 0.005% dry weight). A second UV active peak (254 nm) eluted after 16 min, which yielded furodysinin lactone (<bold>3</bold>) as a white solid (2 mg, 0.004% dry weight).</p>
+   </sec>
+   <sec>
+    <title>Spectral Data</title>
+    <p><italic>Furodysinin-O-ethyl lactone</italic> (<bold>1</bold>): <sup>1</sup>H-NMR (600 MHz, CDCl<sub>3</sub>) &#x3B4; 5.78 (s, 1H, H2), 5.36 (d, 1H, H7, <italic>J</italic> = 5.4 Hz), 3.53 (dq, 1H, H16a, <italic>J</italic> = 8.9, 7.0 Hz), 3.22 (dq, 1H, H16b, <italic>J</italic> = 8.9, 7.0 Hz), 2.78 (m, 1H, H6), 2.35 (dd, 1H, H5&#x3B2;, <italic>J</italic> = 13.7, 3.8 Hz), 1.95 (m, 2H, H9), 1.65 (m, 2H, H10&#x3B2;, H11), 1.62 (s, 3H, H13), 1.57 (d, 1H, H5&#x3B1;, <italic>J</italic> = 13.7 Hz), 1.36 (s, 3H, H14), 1.23 (s, 3H, H15), 1.19 (t, 3H, H17, <italic>J</italic> = 7.0 Hz), 1.13 (m, 1H, 10&#x3B1;). MS (ESI+) <italic>m/z</italic>: 277 ([M+H]<sup>+</sup>).</p>
+    <p><italic>9&#x3B1;,11&#x3B1;-epoxycholest-7-ene-3&#x3B2;,5&#x3B1;,6&#x3B2;,19-tetrol 6-acetate</italic> (<bold>2</bold>): <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4; 5.30 (dd, 1H, H7, <italic>J</italic> = 2.1, 2.0 Hz), 5.21 (dd, 1H, H6, <italic>J</italic> = 2.7, 2.1 Hz), 4.06 (m, 1H, H3), 3.99 (dd, 1H, H19a, <italic>J</italic> = 11.7, 2.7 Hz), 3.80 (dd, 1H, H19a, <italic>J</italic> = 11.7, 3.6 Hz), 3.40 (d, 1H, H11, <italic>J</italic> = 5.7 Hz), 2.36 (m, 1H, H14), 2.35 (s, 1H, OH), 2.20 (s, 1H, OH), 2.19 (dd, 1H, H12&#x3B2;, <italic>J</italic> = 15.8, 5.8 Hz), 2.16 (s, 3H, CH<sub>3</sub>C=O), 2.07 (ddd, 1H, H4&#x3B1;, <italic>J</italic> = 13.5, 4.7, 2.0 Hz), 2.0-1.0 (m, 17H, H1, H2, H15-H17, H20, H22-H25), 1.85 (d, 1H, H12&#x3B1;, <italic>J</italic> = 15.8 Hz), 1.79 (dd, 1H, H4&#x3B2;, <italic>J</italic> = 13.5, 4.7 Hz), 0.90 (d, 3H, H21, <italic>J</italic> = 6.3 Hz), 0.86 (d, 3H, H26, <italic>J</italic> = 6.7 Hz), 0.85 (d, 3H, H27, <italic>J </italic> = 6.6 Hz), 0.60 (s, 3H, H18).     MS (ESI+) <italic>m/z</italic>: 491 ([M+H]<sup>+</sup>).</p>
+    <p><italic>Furodysinin lactone</italic> (<bold>3</bold>):  <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4; 5.70 (s, 1H, H2), 5.37 (dm, 1H, H7, <italic>J</italic> = 5.7 Hz), 2.82 (m, 1H, H6), 2.81 (s, 1H, OH), 2.29 (ddd, 1H, H5&#x3B2;, <italic>J</italic> = 13.9, 3.9, 0.9 Hz), 1.97 (m, 2H, H9), 1.75-1.62 (m, 2H, H10&#x3B2;, H11), 1.63 (dt, 3H, H13, <italic>J</italic> = 2.4, 1.0 Hz), 1.57 (d, 1H, H5&#x3B1;, <italic>J</italic> = 13.9 Hz), 1.41 (s, 3H, H14), 1.24 (s, 3H, H15), 1.13 (m, 1H, H10&#x3B1;). MS (ESI+) <italic>m/z</italic>: 249 ([M+H]<sup>+</sup>).</p>
+    <p><italic>9-hydroxyfurodysinin-</italic>O<italic>-ethyl lactone</italic> (<bold>4</bold>): NMR data &#x2013; See <xref ref-type="table" rid="molecules-10-01292-t001">Table 1</xref>. HRMS (ESI+) <italic>m/z</italic>: 315.1568 ([M+Na]<sup>+</sup>), calcd. for C<sub>17</sub>H<sub>24</sub>O<sub>4</sub>+Na<sup>+</sup> 315.1572. UV (MeOH) 199, 254 nm, &#x3B5; 7400, 857 L&#xB7;mol<sup>-1</sup>&#xB7;cm<sup>-1</sup>. IR (neat film) 3364 (br), 2919 (s), 2854 (m), 1766 (s), 1712 (s), 1650 (m), 1535 (s), 1452 (m), 1366 (m), 1248 (m), 1020 (s), 924 (w), 662 (w) cm<sup>-1</sup>.</p>
+   </sec>
+  </sec>
+ </body>
+ <back>
+  <ref-list>
+   <title>References and Notes</title>
+   <ref id="B1-molecules-10-01292">
+    <label>1.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Venkateswarlu</surname>
+       <given-names>Y.</given-names>
+      </name>
+      <name>
+       <surname>Ramesh</surname>
+       <given-names>P.</given-names>
+      </name>
+      <name>
+       <surname>Reddy</surname>
+       <given-names>N.S.</given-names>
+      </name>
+     </person-group>
+     <source>Nat. Prod. Sci.</source>
+     <year>1998</year>
+     <volume>4</volume>
+     <fpage>115</fpage>
+     <lpage>129</lpage>
+    </citation>
+   </ref>
+   <ref id="B2-molecules-10-01292">
+    <label>2.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Unson</surname>
+       <given-names>M.D.</given-names>
+      </name>
+      <name>
+       <surname>Rose</surname>
+       <given-names>C.B.</given-names>
+      </name>
+      <name>
+       <surname>Faulkner</surname>
+       <given-names>D.J.</given-names>
+      </name>
+      <name>
+       <surname>Brinen</surname>
+       <given-names>L.S.</given-names>
+      </name>
+      <name>
+       <surname>Steiner</surname>
+       <given-names>J.R.</given-names>
+      </name>
+      <name>
+       <surname>Clardy</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <source>J. Org. Chem.</source>
+     <year>1993</year>
+     <volume>58</volume>
+     <fpage>6336</fpage>
+     <lpage>6343</lpage>
+    </citation>
+   </ref>
+   <ref id="B3-molecules-10-01292">
+    <label>3.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Erickson</surname>
+       <given-names>K.L.</given-names>
+      </name>
+      <name>
+       <surname>Wells</surname>
+       <given-names>R.J.</given-names>
+      </name>
+     </person-group>
+     <source>Aust. J. Chem.</source>
+     <year>1982</year>
+     <volume>35</volume>
+     <fpage>31</fpage>
+     <lpage>38</lpage>
+    </citation>
+   </ref>
+   <ref id="B4-molecules-10-01292">
+    <label>4.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Handayani</surname>
+       <given-names>D.</given-names>
+      </name>
+      <name>
+       <surname>Edrada</surname>
+       <given-names>R.A.</given-names>
+      </name>
+      <name>
+       <surname>Proksch</surname>
+       <given-names>P.</given-names>
+      </name>
+      <name>
+       <surname>Wray</surname>
+       <given-names>V.</given-names>
+      </name>
+      <name>
+       <surname>Witte</surname>
+       <given-names>L.</given-names>
+      </name>
+      <name>
+       <surname>Van Soest</surname>
+       <given-names>R.W.M.</given-names>
+      </name>
+      <name>
+       <surname>Kunzmann</surname>
+       <given-names>A.</given-names>
+      </name>
+     </person-group>
+     <article-title>Soedarsono</article-title>
+     <source>J. Nat. Prod.</source>
+     <year>1997</year>
+     <volume>60</volume>
+     <fpage>1313</fpage>
+     <lpage>1316</lpage>
+     <pub-id pub-id-type="doi">10.1021/np970271w</pub-id>
+     <pub-id pub-id-type="pmid">9463111</pub-id>
+    </citation>
+   </ref>
+   <ref id="B5-molecules-10-01292">
+    <label>5.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Carte</surname>
+       <given-names>B.</given-names>
+      </name>
+      <name>
+       <surname>Faulkner</surname>
+       <given-names>D.J.</given-names>
+      </name>
+     </person-group>
+     <source>Tetrahedron</source>
+     <year>1981</year>
+     <volume>37</volume>
+     <fpage>2335</fpage>
+     <lpage>2339</lpage>
+    </citation>
+   </ref>
+   <ref id="B6-molecules-10-01292">
+    <label>6.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Faulkner</surname>
+       <given-names>D.J.</given-names>
+      </name>
+      <name>
+       <surname>Unson</surname>
+       <given-names>M.D.</given-names>
+      </name>
+      <name>
+       <surname>Bewley</surname>
+       <given-names>C.A.</given-names>
+      </name>
+     </person-group>
+     <source>Pure Appl. Chem.</source>
+     <year>1994</year>
+     <volume>66</volume>
+     <fpage>1983</fpage>
+     <lpage>1990</lpage>
+    </citation>
+   </ref>
+   <ref id="B7-molecules-10-01292">
+    <label>7.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Guella</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>Mancini</surname>
+       <given-names>I.</given-names>
+      </name>
+      <name>
+       <surname>Guerriero</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Pietra</surname>
+       <given-names>F.</given-names>
+      </name>
+     </person-group>
+     <source>Helv. Chim. Acta</source>
+     <year>1985</year>
+     <volume>68</volume>
+     <fpage>1276</fpage>
+     <lpage>1282</lpage>
+    </citation>
+   </ref>
+   <ref id="B8-molecules-10-01292">
+    <label>8.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Gunasekera</surname>
+       <given-names>S.P.</given-names>
+      </name>
+      <name>
+       <surname>Schmitz</surname>
+       <given-names>F.J.</given-names>
+      </name>
+     </person-group>
+     <source>J. Org. Chem.</source>
+     <year>1983</year>
+     <volume>48</volume>
+     <fpage>885</fpage>
+     <lpage>886</lpage>
+    </citation>
+   </ref>
+   <ref id="B9-molecules-10-01292">
+    <label>9.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Grode</surname>
+       <given-names>S.H.</given-names>
+      </name>
+      <name>
+       <surname>Cardellina II</surname>
+       <given-names>J.H.</given-names>
+      </name>
+     </person-group>
+     <source>J. Nat. Prod.</source>
+     <year>1984</year>
+     <volume>47</volume>
+     <fpage>76</fpage>
+     <lpage>83</lpage>
+    </citation>
+   </ref>
+   <ref id="B10-molecules-10-01292">
+    <label>10.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Cameron</surname>
+       <given-names>G.M.</given-names>
+      </name>
+      <name>
+       <surname>Stapleton</surname>
+       <given-names>B.L.</given-names>
+      </name>
+      <name>
+       <surname>Simonsen</surname>
+       <given-names>S.M.</given-names>
+      </name>
+      <name>
+       <surname>Brecknell</surname>
+       <given-names>D.J.</given-names>
+      </name>
+      <name>
+       <surname>Garson</surname>
+       <given-names>M.J.</given-names>
+      </name>
+     </person-group>
+     <source>Tetrahedron</source>
+     <year>2000</year>
+     <volume>56</volume>
+     <fpage>5247</fpage>
+     <lpage>5252</lpage>
+    </citation>
+   </ref>
+   <ref id="B11-molecules-10-01292">
+    <label>11.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Gollnick</surname>
+       <given-names>K.</given-names>
+      </name>
+      <name>
+       <surname>Griesbeck</surname>
+       <given-names>A.</given-names>
+      </name>
+     </person-group>
+     <source>Tetrahedron</source>
+     <year>1985</year>
+     <volume>41</volume>
+     <fpage>2057</fpage>
+     <lpage>2068</lpage>
+    </citation>
+   </ref>
+   <ref id="B12-molecules-10-01292">
+    <label>12.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Cart&#xE9;</surname>
+      <given-names>B.</given-names>
+      </name>
+      <name>
+       <surname>Kernan</surname>
+       <given-names>M.R.</given-names>
+      </name>
+      <name>
+       <surname>Barrabee</surname>
+       <given-names>E.B.</given-names>
+      </name>
+      <name>
+       <surname>Faulkner</surname>
+       <given-names>D.J.</given-names>
+      </name>
+      <name>
+       <surname>Matsumoto</surname>
+       <given-names>G.K.</given-names>
+      </name>
+      <name>
+       <surname>Clardy</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <source>J. Org. Chem.</source>
+     <year>1986</year>
+     <volume>51</volume>
+     <fpage>3528</fpage>
+     <lpage>3532</lpage>
+    </citation>
+   </ref>
+  </ref-list>
+  <fn-group>
+   <fn>
+    <p><italic>Sample Availability:</italic> Not available</p>
+   </fn>
+  </fn-group>
+ </back>
+</article>

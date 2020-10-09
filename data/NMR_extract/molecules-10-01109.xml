@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10091109</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01109</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Dakin-West Trick in the Design of Novel 2-Alkyl(aralkyl) Derivatives of Oxazolo[3,2-a]pyridines </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kazhkenov</surname>
+            <given-names>Zeinul-Gabiden M.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bush</surname>
+            <given-names>Alexander A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Babaev</surname>
+            <given-names>Eugene V.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-01109" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01109">Chemistry Department, Moscow State University, Moscow 119992, Russia</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01109"><label>*</label> Author to whom correspondence should be addressed. E-mail: <email>babaev@org.chem.msu.su</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+      <fpage>1109</fpage>
+      <lpage>1118</lpage>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+        <month>09</month>
+        <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A series of previously unavailable derivatives of 2-alkyl- and 2-benzylderivatives of oxazolo[3,2-a]pyridines <bold>III</bold> were obtained via tandem ring opening and ring closure from stable mesoionic 3-acyloxazolo[3,2-a]pyridinium-2-olates <bold>I</bold>. The key intermediates of this tandem transformation are N-(b-oxoethyl)pyridones-2 <bold>II</bold> obtained by Dakin-West acylation of (pyridone-2-yl-1)acetic acid. An example of further utilization of this strategy is illustrated by preparation of unknown 2-benzylimidazo[1,2-a]pyridine from the salt <bold>I</bold> and ammonia.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Oxazolo[3,2-a]pyridinium salts</kwd>
+		<kwd>mesoionic oxazolo[3,2-a]pyridinium-2-olates</kwd>
+		<kwd>munchnones</kwd>
+		<kwd>recyclization</kwd>
+		<kwd>hydrolytical cleavage of oxazolone</kwd>
+		<kwd>Dakin-West reaction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The oxazolo[3,2-a]pyridinium system has attracted our attention due to its ambident behavior toward nucleophiles and the ability to undergo opening of either the pyridine or oxazole ring forming various azolopyridines or hetaryldienes (<xref ref-type="scheme" rid="molecules-10-01109-f001">Scheme 1</xref>,  see [<xref ref-type="bibr" rid="B1-molecules-10-01109">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-01109">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-01109">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-01109">4</xref>] and review [<xref ref-type="bibr" rid="B5-molecules-10-01109">5</xref>]):</p>
+      <fig id="molecules-10-01109-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-01109-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01109-g001.tif"/>
+      </fig>
+      <p>The most efficient route to the oxazolo[3,2-a]pyridinium ring system is the method of Bradsher [<xref ref-type="bibr" rid="B6-molecules-10-01109">6</xref>] involving the cyclocondensation of 2-halopyridinium salts (<bold>A</bold>) or pyridones-2 (<bold>B</bold>) bearing a phenacyl-group at the nitrogen atom:</p>
+      <fig id="molecules-10-01109-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-01109-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01109-g002.tif"/>
+      </fig>
+      <p>The intermediates <bold>A</bold> and <bold>B</bold> in turn could be easily prepared by alkylation of 2-substituted pyridines with &#x3B1;-bromoketones. This strategy gives the best results if aromatic bromoketones (phenacyl bromides) are used, leading to 2-aryl derivatives of the oxazolopyridinium salts.</p>
+      <p>2-Alkyl(aralkyl) derivatives of oxazolopyridines <bold>C</bold> would be interesting target compounds capable to further transformations. However, it is evident that the Bradsher method (e.g. cyclization of oxoalkylpyridones <bold>D</bold>) is hardly to apply for preparation of this class. Indeed, the precursors of the pyridones <bold>D</bold> would be the unsymmetrical bromoketones <bold>E</bold>, that are difficult (or even impossible) to prepare by selective bromination of methylalkylketones <bold>F</bold>.</p>
+      <fig id="molecules-10-01109-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-01109-scheme3_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01109-g003.tif"/>
+      </fig>
+      <p>Key intermediates <bold>D</bold> can be considered as a specific type of &#x3B1;-aminoketones (fragment shown by red on <xref ref-type="scheme" rid="molecules-10-01109-f003">Scheme 3</xref>). Therefore, an alternative strategy to compounds <bold>D</bold> would be Dakin-West reaction [<xref ref-type="bibr" rid="B7-molecules-10-01109">7</xref>] i.e. acylation of a corresponding aminoacid, in our case - pyridone-2-acetic acid <bold>G</bold>. Meanwhile, the reaction of the acid <bold>G</bold> with acyl chlorides and anhydrides leads to stable mesoionic bicycles (fused munchnones) <bold>H</bold> [<xref ref-type="bibr" rid="B8-molecules-10-01109">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-01109">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-01109">10</xref>]. The possibility of conversion of bicyclic munchnones <bold>H</bold> to the pyridones <bold>D</bold> has received little attention. Thus, Boyd and Wright reported that munchnones <bold>H</bold> may undergo hydrolytical cleavage under the action of hot water [<xref ref-type="bibr" rid="B9-molecules-10-01109">9</xref>]. In our early work [<xref ref-type="bibr" rid="B11-molecules-10-01109">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-01109">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-01109">13</xref>] we have observed that some bicyclic munchones can undergo cleavage of the oxazolone fragment in the acidic media.</p>
+      <p>In the present communication we report our success in applying the sequence <bold>G-H-D-C</bold> as a new strategy to prepare previously unknown class of 2-benzyl and 2-alkyl derivatives of oxazolo[3,2-a]-pyridines.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Acylation of oxazolo[3,2-a]pyridinium-2-olate.</title>
+        <p>At the initial phase we have synthesized broad series of munchnones of the type <bold>H</bold> according to <xref ref-type="scheme" rid="molecules-10-01109-f004">Scheme 4</xref>. According to literature data the munchnones <bold>I</bold> were prepared by acylation of unstable key intermediate <bold>Ih</bold>, which in turn was generated at low temperature (0&#xB0;C) [<xref ref-type="bibr" rid="B9-molecules-10-01109">9</xref>] (<xref ref-type="scheme" rid="molecules-10-01109-f004">Scheme 4</xref>). The known instability of the unsubstitued munchone <bold>Ih</bold> is connected with its ability to undergo self-acylation leading to undesired dimer <bold>Ii</bold>. The presence of dimer <bold>Ii</bold> (poorly soluble in most of solvents) makes difficulties in purification of mesoionic compounds <bold>Ia-g</bold>. Nevertheless, we found, that considerable decrease of the temperature (up to -45<sup>o</sup>C) depressed the dimerization process, and the desired pure munchnones <bold>I</bold> can be easily obtained by this modified protocol.</p>
+        <p><sup>1</sup>H-NMR spectra of fused munchnones are shown in <xref ref-type="table" rid="molecules-10-01109-t001">Table 1</xref>. Specific feature for the entire series of mesoionic structures <bold>I</bold> is the strong downfield shift of the signal of proton H-5 (observed at 9.8-9.9 ppm) due to the presence of magnetically anisotropic acyl group at <italic>peri</italic>-position 3.</p>
+        <fig id="molecules-10-01109-f004" position="float">
+          <object-id pub-id-type="pii">molecules-10-01109-scheme4_Scheme 4</object-id>
+          <label>Scheme 4</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01109-g004.tif"/>
+        </fig>
+        <table-wrap id="molecules-10-01109-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-01109-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Characteristics of mesoionic compounds <bold>I</bold></p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th rowspan="2" align="center" valign="middle">&#x2116;</th>
+                <th rowspan="2" align="center" valign="middle">R</th>
+                <th rowspan="2" align="center" valign="middle">Yield, %</th>
+                <th rowspan="2" align="center" valign="middle">Mp, &#xB0;C</th>
+                <th colspan="5" align="center" valign="middle">Chemical shift, p.p.m.; J, Hz</th>
+              </tr>
+              <tr>
+                <th align="center" valign="middle">H<sub>5</sub></th>
+                <th align="center" valign="middle">H<sub>6</sub></th>
+                <th align="center" valign="middle">H<sub>7</sub></th>
+                <th align="center" valign="middle">H<sub>8</sub></th>
+                <th align="center" valign="middle">RCO</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle"><bold>Ia</bold></td>
+                <td align="center" valign="middle">4-MeOPhCH<sub>2</sub></td>
+                <td align="center" valign="middle">64</td>
+                <td align="center" valign="middle">171-173</td>
+                <td align="center" valign="middle">d; 9.86; J<sub>56</sub>=6.4</td>
+                <td align="center" valign="middle">m; 7.51</td>
+                <td align="center" valign="middle">m; 7.96</td>
+                <td align="center" valign="middle">d; 7.61; J<sub>78</sub>=8.6</td>
+                <td align="center" valign="middle">m; 7.24 (2H); <break/>m; 6.77 (2H); <break/>s; 3.99 (2H); <break/>s; 3.74 (3H)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Ib</bold></td>
+                <td align="center" valign="middle">4-ClPhCH<sub>2</sub></td>
+                <td align="center" valign="middle">60</td>
+                <td align="center" valign="middle">194-196</td>
+                <td align="center" valign="middle">d; 9.83; J<sub>56</sub>=6.3</td>
+                <td align="center" valign="middle">m; 7.52</td>
+                <td align="center" valign="middle">m; 7.99</td>
+                <td align="center" valign="middle">d; 7.64; J<sub>78</sub>=8.4</td>
+                <td align="center" valign="middle">m; 7.34 (2H); <break/>m; 7.24 (2H); <break/>s; 4.06 (2H)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Ic</bold></td>
+                <td align="center" valign="middle">4-NO<sub>2</sub>PhCH<sub>2</sub></td>
+                <td align="center" valign="middle">82</td>
+                <td align="center" valign="middle">225-227</td>
+                <td align="center" valign="middle">m; 9.81</td>
+                <td align="center" valign="middle">m; 7.55</td>
+                <td align="center" valign="middle">m; 8.01</td>
+                <td align="center" valign="middle">m; 7.65</td>
+                <td align="center" valign="middle">m; 8.12 (2H); <break/>m; 7.59 (2H); <break/>s; 4.24 (2H)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Id</bold></td>
+                <td align="center" valign="middle">Me</td>
+                <td align="center" valign="middle">78</td>
+                <td align="center" valign="middle">170-172*</td>
+                <td align="center" valign="middle">d; 9.78; J<sub>56</sub>=6.5</td>
+                <td align="center" valign="middle">m; 7.55</td>
+                <td align="center" valign="middle">m; 8.01</td>
+                <td align="center" valign="middle">d; 7.68; J<sub>78</sub>=8.5</td>
+                <td align="center" valign="middle">s; 2.36 (2H)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Ie</bold></td>
+                <td align="center" valign="middle">Et</td>
+                <td align="center" valign="middle">48</td>
+                <td align="center" valign="middle">153-155**</td>
+                <td align="center" valign="middle">d; 9.90 J<sub>56</sub>=6.4</td>
+                <td align="center" valign="middle">m; 7.52</td>
+                <td align="center" valign="middle">m; 7.96</td>
+                <td align="center" valign="middle">d; 7.60; J<sub>78</sub>=8.7</td>
+                <td align="center" valign="middle">q; 2.75 (2H); J=8.0; <break/>t; 1.12 (3H); J=7.0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>If</bold></td>
+                <td align="center" valign="middle">Pr</td>
+                <td align="center" valign="middle">62</td>
+                <td align="center" valign="middle">136-137</td>
+                <td align="center" valign="middle">d; 9.83; J<sub>56</sub>=6.2</td>
+                <td align="center" valign="middle">m; 7.55</td>
+                <td align="center" valign="middle">m; 8.00</td>
+                <td align="center" valign="middle">d; 7.68; J<sub>78</sub>=9.0</td>
+                <td align="center" valign="middle">t; 2.74 (2H); J=7.7; <break/>m; 1.64 (2H); <break/>t; 0.94 (3H); J=7.1</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>Ig</bold></td>
+                <td align="center" valign="middle">Bu</td>
+                <td align="center" valign="middle">86</td>
+                <td align="center" valign="middle">140-142</td>
+                <td align="center" valign="middle">d; 9.84; J<sub>56</sub>=6.2</td>
+                <td align="center" valign="middle">m; 7.55</td>
+                <td align="center" valign="middle">m; 8.00</td>
+                <td align="center" valign="middle">d; 7.67; J<sub>78</sub>=8.0</td>
+                <td align="center" valign="middle">t; 2.74 (2H); J=7.3; <break/>m; 1.59 (2H); <break/>m; 1.35 (2H); <break/>t; 0.91; (2H); J=7.1</td>
+              </tr>
+            </tbody>
+          </table>
+		  <table-wrap-foot>
+            <fn>
+            <p>*Lit. Mp 170-171 [<xref ref-type="bibr" rid="B8-molecules-10-01109">8</xref>]; **lit. Mp 146-147.5 [<xref ref-type="bibr" rid="B8-molecules-10-01109">8</xref>].</p>
+            </fn>
+            </table-wrap-foot>
+		  </table-wrap>
+      </sec>
+      <sec>
+        <title>Hydrolytic cleavage of oxazolones <italic><bold>I</bold></italic>.</title>
+        <p>Our attempt to perform the hydrolytical cleavage of mesoionic oxazolones either in pure water or in strong sulfuric acid were unsuccessful. In the first case no indication of the reaction was observed, and in the second case undesired side reactions occurred (in particular, during the hydrolysis of munchnone <bold>Ib</bold> the strong smell of phenylacetic acid indicated that the concurrent cleavage of the acyl group might take place). After several attempts we have found that the optimal condition of hydrolysis of munchones <bold>I</bold> is the use of diluted (0.06 M) aqueous solution of hydrochloric acid leading to desired products <bold>II</bold> in good yields.</p>
+        <fig id="molecules-10-01109-f005" position="float">
+          <object-id pub-id-type="pii">molecules-10-01109-scheme5_Scheme 5</object-id>
+          <label>Scheme 5</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01109-g005.tif"/>
+        </fig>
+        <table-wrap id="molecules-10-01109-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-01109-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Characteristics of pyridones <bold>II</bold></p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th rowspan="2" align="center" valign="middle">&#x2116;</th>
+                <th rowspan="2" align="center" valign="middle">R</th>
+                <th rowspan="2" align="center" valign="middle">Yield, %</th>
+                <th rowspan="2" align="center" valign="middle">Mp, &#xB0;C</th>
+                <th colspan="5" align="center" valign="middle">Chemical shift, p.p.m.; J, Hz</th>
+              </tr>
+              <tr>
+                <th align="center" valign="middle">H<sub>3</sub></th>
+                <th align="center" valign="middle">H<sub>4</sub></th>
+                <th align="center" valign="middle">H<sub>5</sub></th>
+                <th align="center" valign="middle">H<sub>6</sub></th>
+                <th align="center" valign="middle">RCOCH<sub>2</sub></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle"><bold>IIa</bold></td>
+                <td align="center" valign="middle">4-MeOPhCH<sub>2</sub></td>
+                <td align="center" valign="middle">86</td>
+                <td align="center" valign="middle">84-85</td>
+                <td align="center" valign="middle">d; 7.42; J<sub>34</sub>=7.0</td>
+                <td align="center" valign="middle">m; 7.35</td>
+                <td align="center" valign="middle">m; 6.13</td>
+                <td align="center" valign="middle">d; 6.35; J<sub>56</sub>=8.6</td>
+                <td align="center" valign="middle">m; 7.14 (2H) <break/>;m; 6.83 (2H); <break/>s; 4.76 (2H); <break/>s; 3.76 (5H)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IIb</bold></td>
+                <td align="center" valign="middle">4-ClPhCH<sub>2</sub></td>
+                <td align="center" valign="middle">90</td>
+                <td align="center" valign="middle">133-135</td>
+                <td align="center" valign="middle">d; 7.45; J<sub>34</sub>=7.2</td>
+                <td align="center" valign="middle">m; 7.37</td>
+                <td align="center" valign="middle">m; 6.15</td>
+                <td align="center" valign="middle">d; 6.36; J<sub>56</sub>=9.5</td>
+                <td align="center" valign="middle">m; 7.30 (2H); <break/>m; 7.22 (2H); <break/>s; 4.81 (2H); <break/>s; 3.86 (2H)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IIc</bold></td>
+                <td align="center" valign="middle">4-NO<sub>2</sub>PhCH<sub>2</sub></td>
+                <td align="center" valign="middle">91</td>
+                <td align="center" valign="middle">170-172</td>
+                <td align="center" valign="middle">m; 7.50</td>
+                <td align="center" valign="middle">m; 7.37</td>
+                <td align="center" valign="middle">m; 6.16</td>
+                <td align="center" valign="middle">d; 6.36; J<sub>56</sub>=9.0</td>
+                <td align="center" valign="middle">m; 8.16 (2H); <break/>m; 7.50 (2H); <break/>s; 4.87 (2H); <break/>s; 4.06 (2H)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IId</bold></td>
+                <td align="center" valign="middle">Me</td>
+                <td align="center" valign="middle">67</td>
+                <td align="center" valign="middle">-</td>
+                <td align="center" valign="middle">d; 7.44; J<sub>34</sub>=6.9</td>
+                <td align="center" valign="middle">m; 7.36</td>
+                <td align="center" valign="middle">m; 6.14</td>
+                <td align="center" valign="middle">d; 6.36; J<sub>56</sub>=9.2</td>
+                <td align="center" valign="middle">s; 4.72 (2H); <break/>s; 2.18 (3H)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IIe</bold></td>
+                <td align="center" valign="middle">Et</td>
+                <td align="center" valign="middle">52</td>
+                <td align="center" valign="middle">-</td>
+                <td align="center" valign="middle">d; 7.46; J<sub>34</sub>=7.0</td>
+                <td align="center" valign="middle">m; 7.36</td>
+                <td align="center" valign="middle">m; 6.15</td>
+                <td align="center" valign="middle">d; 6.35; J<sub>56</sub>=8.7</td>
+                <td align="center" valign="middle">s; 4.71 (2H); <break/>q; 2.52 (2H); J=7.1; <break/>t; 1.05 (3H); J=7.1</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IIf</bold></td>
+                <td align="center" valign="middle">Pr</td>
+                <td align="center" valign="middle">59</td>
+                <td align="center" valign="middle">-</td>
+                <td align="center" valign="middle">d; 7.45; J<sub>34</sub>=7.1</td>
+                <td align="center" valign="middle">m; 7.36</td>
+                <td align="center" valign="middle">m; 6.14</td>
+                <td align="center" valign="middle">d; 6.34; J<sub>56</sub>=9.2</td>
+                <td align="center" valign="middle">s; 4.70 (2H); <break/>t; 2.45 (2H); J=7.9; <break/>m; 1.61 (2H); <break/>t; 0.95 (3H); J=7.1</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IIg</bold></td>
+                <td align="center" valign="middle">Bu</td>
+                <td align="center" valign="middle">76</td>
+                <td align="center" valign="middle">-</td>
+                <td align="center" valign="middle">d; 7.44; J<sub>34</sub>=6.6</td>
+                <td align="center" valign="middle">m; 7.36</td>
+                <td align="center" valign="middle">m; 6.14</td>
+                <td align="center" valign="middle">d; 6.35; J<sub>56</sub>=8.6</td>
+                <td align="center" valign="middle">s; 4.70 (2H); <break/>t; 2.49 (2H); J=7.8; <break/> m; 1.56 (2H); <break/>m; 1.35 (2H); <break/>t; 0.93 (3H); J=7.1</td>
+              </tr>
+            </tbody>
+          </table>
+		  </table-wrap>
+        <p>It should be mentioned, that the formed pyridones <bold>II</bold> are more water soluble than the parent munchones, therefore in the course of reaction the initial suspension was usually dissolved (the exception was only the case of 4-nitrobenzyl derivatives <bold>Ic</bold>, <bold>IIc</bold>, both poorly soluble in water). In the <sup>1</sup>H-NMR spectra of pyridones <bold>II</bold> the signals of protons of N-CH<sub>2</sub>-CO group (4.7-4.8 ppm) are usually clear distinguishable from the signals of protons from another methylene group RCH<sub>2</sub>CO belonging to aliphatic or aromatic fragment (<xref ref-type="table" rid="molecules-10-01109-t002">Table 2</xref>).</p>
+      </sec>
+      <sec>
+        <title>Synthesis of 2-substitued oxazolo[3,2-a]pyridinium perchlorates.</title>
+        <p>According to Bradsher [<xref ref-type="bibr" rid="B6-molecules-10-01109">6</xref>] the cyclodehydratation of N-phenacylpyridones <bold>B</bold> to 2-aryloxazolo-pyridinium salts can be achieved by the action of concentrated sulfuric acid. However, all our attempts to perform conversion of N-(b-oxoethyl)pyridones-2 <bold>II</bold> to the desired 2-alkyloxazolopyridinium salts <bold>III</bold> failed. In all cases the degree of conversion has never exceeded 10-15%. Probably in these cases the completeness of the reaction was connected with the reversibility of the ring closure, and complete removal of water would shift the equilibrium. Indeed, the use of 8% oleum (completely capturing all the water) led to desired products <bold>III</bold> in good yields.</p>
+        <fig id="molecules-10-01109-f006" position="float">
+          <object-id pub-id-type="pii">molecules-10-01109-scheme6_Scheme 6</object-id>
+          <label>Scheme 6</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01109-g006.tif"/>
+        </fig>
+        <p>The only exception was the case of pyridone <bold>IIa</bold> (with an anisyl group) that in reaction with oleum or concentrated sulfuric acid gave a red oil, probably due to sulfonation of the benzene ring [<xref ref-type="bibr" rid="B6-molecules-10-01109">6</xref>]. In the <sup>1</sup>H-NMR spectra of the aromatic bicycles <bold>III</bold> novel aromatic singlet of the oxazole ring was observed at 8.5-8.7 ppm, and the most downfield doublet (at 9.2 ppm) was the signal of a-pyridinium proton H-5.</p>
+      </sec>
+      <sec>
+        <title>Reaction of 2-(4&#x2019;-chlorobenzyl)oxazolo[3,2-a]pyridinium perchlorate <italic>(<bold>IIIb</bold>)</italic> with ammonia.</title>
+        <p>In order to investigate the reactivity of the salts <bold>III</bold> we performed simple test experiment with ammonia. Reaction of salt <bold>IIIb</bold> with solution of anhydrous ammonia in DMF resulted in formation of corresponding imidazo[1,2-a]pyridine <bold>IV</bold> (<xref ref-type="scheme" rid="molecules-10-01109-f007">Scheme 7</xref>, <xref ref-type="table" rid="molecules-10-01109-t003">Table 3</xref>), the first representative of a previously unknown class of 2-benzylimidazopyridines. Clearly, this structural type would be difficult to obtain by standard Chichibabin reaction from the practically unavailable bromoketone E (R = p-ClPh). Our attempts to perform this reaction in ethanolic or aqueous ammonia resulted in a number of byproducts.</p>
+        <fig id="molecules-10-01109-f007" position="float">
+          <object-id pub-id-type="pii">molecules-10-01109-scheme7_Scheme 7</object-id>
+          <label>Scheme 7</label>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01109-g007.tif"/>
+        </fig>
+        <table-wrap id="molecules-10-01109-t003" position="float">
+          <object-id pub-id-type="pii">molecules-10-01109-t003_Table 3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <p>Characteristics of the salts <bold>III</bold> and imidazopyridine <bold>IV</bold></p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th rowspan="2" align="center" valign="middle">&#x2116;</th>
+                <th rowspan="2" align="center" valign="middle">R</th>
+                <th rowspan="2" align="center" valign="middle">Yield, %</th>
+                <th rowspan="2" align="center" valign="middle">Mp, &#xB0;C</th>
+                <th colspan="6" align="center" valign="middle">Chemical shift, p.p.m.; J, Hz</th>
+              </tr>
+              <tr>
+                <th align="center" valign="middle">H<sub>3</sub></th>
+                <th align="center" valign="middle">H<sub>5</sub></th>
+                <th align="center" valign="middle">H<sub>6</sub></th>
+                <th align="center" valign="middle">H<sub>7</sub></th>
+                <th align="center" valign="middle">H<sub>8</sub></th>
+                <th align="center" valign="middle">R</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle"><bold>IIIb</bold></td>
+                <td align="center" valign="middle">4-ClPhCH<sub>2</sub></td>
+                <td align="center" valign="middle">87</td>
+                <td align="center" valign="middle">162-164</td>
+                <td align="center" valign="middle">s; 8.64</td>
+                <td align="center" valign="middle">d; 9.15; J<sub>56</sub>=6.1</td>
+                <td align="center" valign="middle">m; 8.45</td>
+                <td align="center" valign="middle">m; 7.90</td>
+                <td align="center" valign="middle">d; 8.27; J<sub>78</sub>=9.0</td>
+                <td align="center" valign="middle">m; 7.44 (2H); <break/>m; 7.35 (2H); <break/>s; 4.40 (2H)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IIIc</bold></td>
+                <td align="center" valign="middle">4-NO<sub>2</sub>PhCH<sub>2</sub></td>
+                <td align="center" valign="middle">84</td>
+                <td align="center" valign="middle">132-134</td>
+                <td align="center" valign="middle">s; 8.71</td>
+                <td align="center" valign="middle">d; 9.18; J<sub>56</sub>=6.7</td>
+                <td align="center" valign="middle">m; 8.46</td>
+                <td align="center" valign="middle">m; 7.91</td>
+                <td align="center" valign="middle">d; 8.30; J<sub>78</sub>=9.0</td>
+                <td align="center" valign="middle">m; 8.21 (2H); <break/>m; 7.72 (2H); <break/>s; 4.60 (2H)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IIId</bold></td>
+                <td align="center" valign="middle">Me</td>
+                <td align="center" valign="middle">42</td>
+                <td align="center" valign="middle">127-128*</td>
+                <td align="center" valign="middle">s; 8.56</td>
+                <td align="center" valign="middle">d; 9.13; J<sub>56</sub>=6.3</td>
+                <td align="center" valign="middle">m; 8.44</td>
+                <td align="center" valign="middle">m; 7.90</td>
+                <td align="center" valign="middle">d; 8.29; J<sub>78</sub>=8.9</td>
+                <td align="center" valign="middle">s; 2.68 (3H)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IIIe</bold></td>
+                <td align="center" valign="middle">Et</td>
+                <td align="center" valign="middle">67</td>
+                <td align="center" valign="middle">118-120</td>
+                <td align="center" valign="middle">s; 8.61</td>
+                <td align="center" valign="middle">d; 9.13; J<sub>56</sub>=6.1</td>
+                <td align="center" valign="middle">m; 8.45</td>
+                <td align="center" valign="middle">m; 7.91</td>
+                <td align="center" valign="middle">d; 8.29; J<sub>78</sub>=8.9</td>
+                <td align="center" valign="middle">q; 3.03 (2H); J=7.8; <break/>t; 1.40 (3H); J=7.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IIIf</bold></td>
+                <td align="center" valign="middle">Pr</td>
+                <td align="center" valign="middle">74</td>
+                <td align="center" valign="middle">98-100</td>
+                <td align="center" valign="middle">s; 8.65</td>
+                <td align="center" valign="middle">d; 9.16; J<sub>56</sub>=5.9</td>
+                <td align="center" valign="middle">m; 8.46</td>
+                <td align="center" valign="middle">m; 7.91</td>
+                <td align="center" valign="middle">d; 8.30; J<sub>78</sub>=8.9</td>
+                <td align="center" valign="middle">t; 2.98 (2H); J=7.1;m; 1.85; (2H); <break/>t; 1.09; (3H); J=8.1</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IIIg</bold></td>
+                <td align="center" valign="middle">Bu</td>
+                <td align="center" valign="middle">48</td>
+                <td align="center" valign="middle">-</td>
+                <td align="center" valign="middle">s; 8.68</td>
+                <td align="center" valign="middle">d; 9.19; J<sub>56</sub>=6.3</td>
+                <td align="center" valign="middle">m; 8.46</td>
+                <td align="center" valign="middle">m; 7.92</td>
+                <td align="center" valign="middle">d; 8.28; J<sub>78</sub>=8.9</td>
+                <td align="center" valign="middle">t; 2.99 (2H); J=7.3; <break/>m; 1.78 (2H); <break/>m; 1.48 (2H); <break/>t; 0.98 (3H); J=7.3</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>IV</bold></td>
+                <td align="center" valign="middle">4-ClPhCH<sub>2</sub></td>
+                <td align="center" valign="middle">40</td>
+                <td align="center" valign="middle">162-164</td>
+                <td align="center" valign="middle">s; 7.49</td>
+                <td align="center" valign="middle">d, 8.32, J<sub>56</sub>=7.1</td>
+                <td align="center" valign="middle">m, 7.11</td>
+                <td align="center" valign="middle">m, 6.73</td>
+                <td align="center" valign="middle">d, 7.38, J<sub>78</sub>=9.3</td>
+                <td align="center" valign="middle">m, 7.30 (2H); <break/>m, 7.24 (2H); <break/>s, 4.01 (2H)</td>
+              </tr>
+            </tbody>
+          </table>
+		  <table-wrap-foot>
+            <fn>
+            <p>*Lit. Mp 128 [<xref ref-type="bibr" rid="B6-molecules-10-01109">6</xref>]</p>
+            </fn>
+            </table-wrap-foot>
+		  </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have found new simple route to 2-substituted oxazolo[3,2-a]pyridinium salts which, in turn could be precursors of previously unavailable structures, e.g. 2-benzylimidazo[1,2-a]pyridines. The group CH<sub>2</sub>R at the imidazopyridine and oxazolopyridines originates from the residue of an organic acid.</p>
+	  <disp-formula>
+	  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01109-i001.tif"/>
+	  </disp-formula>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p><sup>1</sup>H- and <sup>13</sup>C-NMR spectra were obtained using a Bruker AC 400 NMR spectrometer and were recorded at 360 MHz. All reagents and chemicals were obtained from Acros or Merck and were used as received unless otherwise noted. Ether was purified by refluxing over sodium with benzophenone for 2-2.5 hours followed by distillation. Triethylamine was distilled over sodium hydroxide, sodium and finally phthalic anhydride under an argon atmosphere. Acetic anhydride was purified by distillation over sodium acetate. DMF was stirred with calcium hydride powder for 2-3 hours at 70-80&#xBA;C, decanted from the precipitate and distilled under reduced pressure. Acyl chlorides were prepared according to a standard procedure [<xref ref-type="bibr" rid="B14-molecules-10-01109">14</xref>].</p>
+      </sec>
+      <sec>
+        <title>Preparation of 2,3-dihydro-2-oxooxazolo[3,2-a]pyridinium perchlorate. </title>
+        <p>N-(Pyridone-2-yl-1)acetic acid (6 g, 39 mmol) was suspended in acetic anhydride (40 mL, freshly distilled over sodium acetate) and 70% HClO<sub>4</sub> (6 mL, 59 mmol) was carefully added dropwise at 30-40&#xB0;C. After addition of all the HClO<sub>4</sub> the reaction was stirred for 30 min and diluted with dry Et<sub>2</sub>O (50 mL). Product was filtered off, washed with dry Et<sub>2</sub>O (12&#xD7;15 mL) and dried <italic>in vacuo</italic>. Yield 8.95 g (97%). m.p. 180-182 &#xB0;C (Lit. [<xref ref-type="bibr" rid="B9-molecules-10-01109">9</xref>] m.p. 178-180 &#xB0;C).</p>
+      </sec>
+      <sec>
+        <title>Typical procedure for the preparation of mesoionic 3-acyloxazolo[3,2-a]pyridinium-2-olates <italic>(<bold>I</bold>)</italic>.</title>
+        <p>A suspension of 2,3-dihydro-2-oxooxazolo[3,2-a]pyridinium perchlorate (7.0 g, 30 mmol) in dry CH<sub>2</sub>Cl<sub>2</sub> (100 mL) was cooled to &#x2013;60 &#xB0;C and freshly distilled Et<sub>3</sub>N (14.1 mL, 101 mmol) was added dropwise at &#x2013;58 to -52 &#xB0;C. The thus obtained slightly yellow solution was treated with a solution of the corresponding acyl chloride (30 mmol) in dry CH<sub>2</sub>Cl<sub>2</sub> (40 mL) at &#x2013;58- to -52 &#xB0;C. The suspension or solution obtained was allowed to warm to RT. The solvent was evaporated to dryness, and the residue was washed with water (2&#xD7;25 mL), recrystallized from <italic>iso</italic>-propanol and dried on air. In the case of synthesis of <bold>Ic</bold>, after warming the suspension the precipitate was just filtered off and washed with <italic>iso</italic>-propanol (2&#xD7;25 mL). Yields and NMR data for compounds <bold>I</bold> are given in <xref ref-type="table" rid="molecules-10-01109-t001">Table 1</xref>.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>Procedures for the preparation of N-alkylated pyridones <italic>(<bold>II</bold>)</italic> </title>
+        <sec>
+          <title>N-(3-(4&#x2019;-chlorophenyl)-&#x3B2;-oxopropyl)-2-pyridone (<bold>IIa</bold>)</title>
+          <p>Mesoionic compound <bold>Ia</bold> (8.7 g, 30 mmol) was suspended in a 0.06 M aqueous solution of HCl (500 mL) and refluxed for 8 h (TLC control). The hot aqueous phase was decanted from the brown oily mass and cooled to RT. The white needle-like crystals obtained were filtered off and washed with water (10 mL). The mother liquors were added to the oily mass and refluxed for 2 h until all the oil was dissolved and TLC shown full conversion of the starting material. The solution was cooled to RT, and the gray needles thus obtained were filtered off and recrystallized from <italic>iso</italic>-propanol.</p>
+        </sec>
+        <sec>
+          <title>N-(3-(4&#x2019;-nitrophenyl)-&#x3B2;-oxopropyl)-2-pyridone (<bold>IIb</bold>)</title>
+          <p>Mesoionic compound <bold>Ib</bold> (6.1 g, 20 mmol) was suspended in 600 mL 0.06 M aqueous solution of HCl and refluxed for 8 h (TLC control). Hot solution was decanted from solid and cooled to RT. Obtained white needle crystals were filtered off and washed with water (10 mL). Mother liquor was added to residuary starting substance and refluxing was continued for 8 h. Procedure was repeated until TLC shown full conversion of starting product. Obtained precipitate was recrystallized from <italic>iso</italic>-propanol.</p>
+        </sec>
+        <sec>
+          <title>N-(3-(4&#x2019;-methoxyphenyl)-&#x3B2;-oxopropyl)-2-pyridone (<bold>IIc</bold>)</title>
+          <p>Mesoionic compound <bold>Ic</bold> (7.0 g, 25 mmol) was suspended in 0.06 M aqueous solution of HCl (500 mL) and refluxed for 4 h. After all the starting substance was dissolved the solution was refluxed for 1 h (TLC control) and then cooled to RT. The obtained mixture was extracted with CHCl<sub>3</sub> (3&#xD7;100 mL), dried over Na<sub>2</sub>SO<sub>4</sub>. The extract was evaporated obtaining yellow oil. The residue was recrystallized from <italic>iso</italic>-propanol giving white needles.</p>
+        </sec>
+        <sec>
+          <title>Synthesis of N-&#x3B2;-oxoalkyl-2-pyridones <bold>IId-g</bold></title>
+          <p>Mesoionic compound <bold>Id-g</bold> (25 mmol) was suspended in 0.06 M aqueous solution of HCl (250 mL) and refluxed for 2 h. After all the starting substance was dissolved and solution was refluxed for 1 h (TLC control) and then cooled to RT. Obtained mixture was extracted with CHCl<sub>3</sub> (3&#xD7;75 mL), dried over Na<sub>2</sub>SO<sub>4</sub>. The extract was evaporated to give a yellow oil. Yields and NMR data for compounds <bold>II</bold> are given in <xref ref-type="table" rid="molecules-10-01109-t002">Table 2</xref>.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Typical procedure for the preparation of 2-substituted oxazolo[3,2-a]pyridinium perchlorates <italic>(<bold>III</bold>)</italic>:</title>
+        <p>The N-&#x3B2;-oxoalkyl-pyridone-2 (<bold>II</bold>, 0.74 mmol) was dissolved in 8% oleum (2 mL) and kept for 20-25 hours. Then 70% HClO<sub>4</sub> (0.15 mL, 1.5 mmol) was carefully added to the mixture and after 20 hours the solution was poured into vigorously stirred diethyl ether (200 mL). After decanting the oily residue was mixed again with a fresh portion of ether (200 mL); this procedure should be repeated until a pure white powder formed. The precipitate was filtered, washed with ether and dried in vacuum over P<sub>2</sub>O<sub>5</sub>. Yields and NMR data for compounds <bold>III</bold> are given in <xref ref-type="table" rid="molecules-10-01109-t003">Table 3</xref>.</p>
+      </sec>
+      <sec>
+        <title>Reaction of 2-(4&#x2019;-chlorobenzyl)oxazolo[3,2-a]pyridinium perchlorate with ammonia.</title>
+        <p>2-(4&#x2019;-Chlorobenzyl)oxazolo[3,2-a]pyridinium perchlorate (2.4 mmol) was dissolved in anhydrous distilled DMF (3 mL) and mixed at -25&#xB0;C with a solution (4 mL) prepared by saturation of DMF with gaseous ammonia (prepared at -60&#xB0;C). The reaction mixture immediately turned to deep red color. This mixture was kept for 10 hours and then poured into cold water. The product precipitated as a yellow powder, which was separated, washed with water and recrystallized from petroleum ether. Yields and NMR are given in <xref ref-type="table" rid="molecules-10-01109-t003">Table 3</xref>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01109">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E. V.</given-names>
+            </name>
+            <name>
+              <surname>Pasichnichenko</surname>
+              <given-names>K. Yu.</given-names>
+            </name>
+            <name>
+              <surname>Maiboroda</surname>
+              <given-names>D. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hetarenes with a bridge nitrogen atom. 6. Ambident properties of the oxazolo[3,2-a]pyridinium nucleus in reactions with nucleophiles: prediction and experimentm</article-title>
+          <source>Chem. Heterocycl. Comp. (Engl. translation of Khim. Geterotsikl. Soedin.)</source>
+          <year>1997</year>
+          <volume>33</volume>
+          <fpage>338</fpage>
+          <lpage>342</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01109">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maiboroda</surname>
+              <given-names>D. A.</given-names>
+            </name>
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E. V.</given-names>
+            </name>
+            <name>
+              <surname>Goncharenko</surname>
+              <given-names>L. V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and study of the spectral and pharmacological properties of 1-amino-4-(5-aryl-2-oxazolyl)-1,3-butadienes</article-title>
+          <source>Khim.-Farm. Zh.</source>
+          <year>1998</year>
+          <volume>32</volume>
+          <fpage>24</fpage>
+          <lpage>28</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01109">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+		  <name>
+              <surname>Bradsher</surname>
+              <given-names>C. K.</given-names>
+            </name>
+            <name>
+              <surname>Brandau</surname>
+              <given-names>R. D.</given-names>
+            </name>
+			<name>
+              <surname>Boliek</surname>
+              <given-names>J. E.</given-names>
+            </name>
+			<name>
+              <surname>Hough</surname>
+              <given-names>T. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>The reaction of amines with 1-phenacyl-2-bromopyridinium salts. A new route to imidazo[1,2-a]pyridinium, oxazolo[3,2-a]pyridinium, and dihydropyrido[2,1-c]-as-triazinium salts</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1969</year>
+          <volume>34</volume>
+          <fpage>2129</fpage>
+          <lpage>2133</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01109">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+		  <name>
+              <surname>Babaev</surname>
+              <given-names>E.V.</given-names>
+            </name>
+			<name>
+              <surname>Bozhenko</surname>
+              <given-names>S.V.</given-names>
+            </name>
+			<name>
+              <surname>Maiboroda</surname>
+              <given-names>D.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 1-nitro-2-phenylindolizine by the ring transformation of oxazolo[3,2-a]pyridinium salt in the reaction with nitromethane</article-title>
+          <source>Russ. Chem. Bull. (Engl.Transl.)</source>
+          <year>1995</year>
+          <volume>44</volume>
+          <fpage>2203</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01109">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E. V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fused Munchnones in Recyclization Tandems</article-title>
+          <source>J. Heterocycl. Chem. (Lectures in Heterocyclic Chemistry)</source>
+          <year>2000</year>
+          <volume>37</volume>
+          <fpage>519</fpage>
+          <lpage>526</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01109">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bradsher</surname>
+              <given-names>C. K.</given-names>
+            </name>
+            <name>
+              <surname>Zinn</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxazolo[3,2-a]pyridinium salts</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1967</year>
+          <volume>4</volume>
+          <fpage>66</fpage>
+          <lpage>70</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01109">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dakin</surname>
+              <given-names>H. D.</given-names>
+            </name>
+            <name>
+              <surname>West</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>A general reaction of amino acids. II</article-title>
+          <source>J. Biol. Chem.</source>
+          <year>1928</year>
+		  <volume>78</volume>
+          <fpage>745</fpage>
+          <lpage>757</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01109">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lawson</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Miles</surname>
+              <given-names>D. H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Some new mesoionic compounds</article-title>
+          <source>J. Chem. Soc.</source>
+          <year>1959</year>
+          <fpage>2865</fpage>
+          <lpage>2871</lpage>
+          <pub-id pub-id-type="doi">10.1039/jr9590002865</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01109">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boyd</surname>
+              <given-names>G. V.</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>P. H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Anhydro-2-hydroxyoxazolo[3,2-a]pyridinium hydroxide, a mesoionic oxazolone</article-title>
+          <source>J. Chem. Soc. (C).</source>
+          <year>1970</year>
+		  <volume>10</volume>
+          <fpage>1485</fpage>
+          <lpage>1490</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01109">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petride</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Raileanu</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mesoionic oxazolones. II. Unstable non-acylated compounds</article-title>
+          <source>Rev. Roum. Chim.</source>
+          <year>1988</year>
+          <volume>33</volume>
+          <fpage>729</fpage>
+          <lpage>739</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01109">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E. V.</given-names>
+            </name>
+            <name>
+              <surname>Orlova</surname>
+              <given-names>I. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterocycles with a bridgehead nitrogen atom. 7. Novel synthesis of the oxazolo[3,2-a]pyridinium cation by recyclization of a mesoionic precursor: confirmation of a computer prediction</article-title>
+          <source>Chem. Heterocycl. Comp.</source>
+          <year>1997</year>
+          <volume>33</volume>
+          <fpage>489</fpage>
+          <lpage>490</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01109">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rybakov</surname>
+              <given-names>V. B.</given-names>
+            </name>
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E. V.</given-names>
+            </name>
+            <name>
+              <surname>Pasichnichenko</surname>
+              <given-names>K. Yu.</given-names>
+            </name>
+            <name>
+              <surname>Sonneveld</surname>
+              <given-names>E. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>X-ray mapping in heterocyclic design: VI. X-ray diffraction study of 3-(isonicotinoyl)-2-oxooxazolo[3,2-a]pyridine and the product of its hydrolysis</article-title>
+          <source>Crystallogr. Rep.</source>
+          <year>2002</year>
+          <volume>47</volume>
+          <fpage>69</fpage>
+          <lpage>74</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01109">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rybakov</surname>
+              <given-names>V. B.</given-names>
+            </name>
+            <name>
+              <surname>Zhukov</surname>
+              <given-names>S. G.</given-names>
+            </name>
+            <name>
+              <surname>Babaev</surname>
+              <given-names>E. V.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,3-Di(2-oxopyridyl-1) acetone and Its Hydroperchlorate: Formation in the Hydrolysis of Annelated Munchnone and X-Ray Diffraction Study</article-title>
+          <source>Russ. J. Coord. Chem.</source>
+          <year>2000</year>
+		  <volume>26</volume>
+          <fpage>670</fpage>
+          <lpage>676</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01109">
+        <label>14.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tietze</surname>
+              <given-names>L. F.</given-names>
+            </name>
+            <name>
+              <surname>Eicher</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Reaktionen und synthesen im organish-chemishen praktikum und forschungslaboratorium</source>
+          <publisher-name>Thieme Verlag</publisher-name>
+          <publisher-loc>Stuttgart-New York</publisher-loc>
+          <year>1991</year>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

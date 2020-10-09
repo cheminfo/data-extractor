@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10091119</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01119</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Facile Synthesis of Novel Herbicidal 1-Phenyl-piperazine-2,6-diones</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Bin</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01119" ref-type="aff">1</xref>
+          <xref rid="af2-molecules-10-01119" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xiang</surname>
+            <given-names>Dong</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01119" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hsu</surname>
+            <given-names>Chi-Tung</given-names>
+          </name>
+          <xref rid="af3-molecules-10-01119" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Zhen-Long</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01119" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wu</surname>
+            <given-names>Chao</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01119" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yang</surname>
+            <given-names>Hua-Zheng</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01119" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-01119" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-01119"><label>1</label>State Key Laboratory of Elemento-Organic Chemistry, Nankai University, Tianjin, 300071, China</aff>
+      <aff id="af2-molecules-10-01119"><label>2</label>Agrochemicals Division, Shenyang Research Institute of Chemical Industry, Shenyang 110021, China</aff>
+      <aff id="af3-molecules-10-01119"><label>3</label>Applied Chemistry Department, Chaoyang University of Technology, Taichung, 41349, Taiwan, China</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01119"><label>*</label>Author to whom correspondence should be addressed; email: <email>libinjia@yahoo.com.cn</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>9</issue>
+      <fpage>1119</fpage>
+      <lpage>1125</lpage>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>04</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Novel 1-phenyl-piperazine-2,6-diones were prepared by a new facile synthetic route using methyl <italic>N</italic>-substituted iminomonoacetate as starting material. The structures of these compounds were established by <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and GC/MS. 2-(4-Chloro-5-cyclo-pentyl-oxy-2-fluorophenyl)-tetrahydro-2<italic>H</italic>-pyrido-[1,2-a]-pyrazine-1,3-(4<italic>H</italic>,6<italic>H</italic>)-dione displayed the greatest herbicidal activity.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>1-Phenyl-piperazine-2,6-dione</kwd>
+        <kwd>2-phenyl-tetrahydro-2<italic>H</italic>-pyrido-[1,2-a]-pyrazine-1,3-(4<italic>H</italic>,6<italic>H</italic>)-dione</kwd>
+        <kwd>2-phenyl-tetrahydropyrrolo[1,2-a]pyrazine-1,3(2<italic>H</italic>,4<italic>H</italic>)- dione</kwd>
+        <kwd>herbicide</kwd>
+        <kwd>synthesis</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The <italic>N</italic>-substituted phenyl heterocyclic carboxamides are an important class of herbicides as protoporphyrinogen-IX oxidase inhibitors with advantages such as high resistance to soil leaching, low toxicity to birds, fish, and mammals, and slow development of weed resistance [<xref ref-type="bibr" rid="B1-molecules-10-01119">1</xref>]. Some 1-phenyl-piperazine-2,6-diones were found in the 1960s to have pharmaceutical activity [<xref ref-type="bibr" rid="B2-molecules-10-01119">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-01119">3</xref>]. In an attempt to find new herbicidal compounds we have investigated the synthesis and herbicidal activity of a novel class of 1-(2-fluorinated) phenyl-piperazine-2,6-diones.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <sec>
+        <title>Chemistry</title>
+        <p>Henry employed <italic>N</italic>-substituted iminodiacetic acids as building blocks in the construction of the piperazine-2,6-dione ring system (<xref ref-type="scheme" rid="molecules-10-01119-f001">Scheme 1</xref>). One disadvantage of this three-step method is the necessity to isolate the unstable morpholine-2,6-diones. The other one is the limited reaction scope, because hindered primary amines could not be converted into the corresponding cyclic amides [<xref ref-type="bibr" rid="B4-molecules-10-01119">4</xref>].</p>
+		<fig id="molecules-10-01119-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-01119-f001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01119-g001.tif"/>
+      </fig>
+        <p>Kruse and Troost developed a single-step process to prepare a wide variety of piperazine-2,6-diones using <italic>N</italic>-substituted iminodiacetic acids and <italic>N,N&#x2019;</italic>-carbonyldiimidazole (CDI) (<xref ref-type="scheme" rid="molecules-10-01119-f002">Scheme 2</xref>) [<xref ref-type="bibr" rid="B5-molecules-10-01119">5</xref>]. The disadvantage of this single-step method is the limited availability of <italic>N</italic>-substituted iminodiacetic acids and need to use high quality <italic>N,N&#x2019;</italic>-carbonyldiimidazole.</p>
+        <fig id="molecules-10-01119-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-01119-f002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01119-g002.tif"/>
+      </fig>
+        <p>In an attempt to develop methodology for the rapid solution-phase parallel synthesis of novel 1-phenyl-piperazine-2,6-diones, the following synthetic route was studied (<xref ref-type="scheme" rid="molecules-10-01119-f003">Scheme 3</xref>):</p>
+       <fig id="molecules-10-01119-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-01119-f003_Scheme 3</object-id>
+        <label>Scheme 3</label>
+         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01119-g003.tif"/>
+      </fig>
+        <p>This method was facile and efficient, especially for the compounds in which the R<sub>2</sub> group was not hydrogen. The acetamide <bold>1</bold> was prepared by the reaction of aniline with bromoacetyl bromide without difficulty. The intermediate ester <bold>2</bold> was prepared readily from 2-bromo-<italic>N</italic>-phenylacetamide and methyl <italic>N</italic>-substituted iminomonoacetate with triethylamine as base at room temperature. The yield was above 90%. The ester <bold>2</bold> was hydrolyzed into acid <bold>3</bold> by conventional methods in high yield and purity. The target compound <bold>4</bold> was obtained by refluxing acid <bold>3</bold> in acetic acid anhydride with sodium acetate as catalyst. The resulting mixture was treated with excess aqueous sodium carbonate and extracted with ethyl acetate to afford 1-phenyl-piperazine-2,6-diones <bold>4</bold>, which were usually pure enough for biological screening. This methodology might be applicable for the solution-phase parallel synthesis of 1-phenyl-piperazine-2,6-dione analogues. The structures of all compounds <bold>4</bold> (<xref ref-type="table" rid="molecules-10-01119-t001">Table 1</xref>) are fully consistent with <sup>1</sup>H-NMR data. The structure of compound <bold>4a</bold> is further characterized by <sup>13</sup>C-NMR and GC/MS.</p>
+        <table-wrap id="molecules-10-01119-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-01119-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Synthesized 1-phenyl-piperazine-2,6-diones</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin;border-left:solid thin;border-right:solid thin">Compound</th>
+                <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin;border-right:solid thin">R<sub>1</sub></th>
+                <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin;border-right:solid thin">R<sub>2</sub></th>
+                <th align="center" valign="top" style="border-bottom:solid thin;border-top:solid thin;border-right:solid thin;border-right:solid thin">X</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4a</bold></td>
+                <td colspan="2" align="center" valign="top" style="border-right:solid thin">(CH<sub>2</sub>)<sub>4</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4b</bold></td>
+                <td colspan="2" align="center" valign="top" style="border-right:solid thin">(CH<sub>2</sub>)<sub>4</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">Cl</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4c</bold></td>
+                <td colspan="2" align="center" valign="top" style="border-right:solid thin">(CH<sub>2</sub>)<sub>4</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">OCH<sub>3</sub></td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4d</bold></td>
+                <td colspan="2" align="center" valign="top" style="border-right:solid thin">(CH<sub>2</sub>)<sub>4</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">cyclopentyloxy</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4e</bold></td>
+                <td colspan="2" align="center" valign="top" style="border-right:solid thin">(CH<sub>2</sub>)<sub>3</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">cyclopentyloxy</td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4f</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">CH<sub>3</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+                 <td align="center" valign="top" style="border-right:solid thin">OCH<sub>2</sub>CO<sub>2</sub>C<sub>2</sub>H<sub>5</sub></td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4g</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">CH<sub>3</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+                <td align="center" valign="top" style="border-right:solid thin">propargyloxy</td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4h</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">CH<sub>3</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+                <td align="center" valign="top" style="border-right:solid thin">cyclopentyloxy</td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4i</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">C(CH<sub>3</sub>)<sub>3</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4j</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">C(CH<sub>3</sub>)<sub>3</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+                <td align="center" valign="top" style="border-right:solid thin">OCH<sub>3</sub></td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4k</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">C(CH<sub>3</sub>)<sub>3</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+                <td align="center" valign="top" style="border-right:solid thin">propargyloxy</td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4l</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">C(CH<sub>3</sub>)<sub>3</sub></td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+                <td align="center" valign="top" style="border-right:solid thin">cyclopentyloxy</td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4m</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">benzyl</td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4n</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">benzyl</td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+                <td align="center" valign="top" style="border-right:solid thin">Cl</td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4o</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">benzyl</td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+                <td align="center" valign="top" style="border-right:solid thin">OCH<sub>2</sub>CO<sub>2</sub>C<sub>2</sub>H<sub>5</sub></td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4p</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">benzyl</td>
+                <td align="center" valign="top" style="border-right:solid thin">H</td>
+                <td align="center" valign="top" style="border-right:solid thin">CO<sub>2</sub>CH(CH3)<sub>2</sub></td>
+              </tr>
+              <tr>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-left:solid thin;border-right:solid thin"><bold>4q</bold></td>
+                <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">benzyl</td>
+                <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">H</td>
+                <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">cyclopentyloxy</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Herbicidal activity.</title>
+        <p>The compounds <bold>4</bold> showed promising post-emergence herbicidal activities towards broadleaf weeds, as shown by the results presented in <xref ref-type="table" rid="molecules-10-01119-t002">Table 2</xref> , in which 0 equals no activity and 100 equals total control. The most sensitive weed to the 1-phenyl-piperazine-2,6-diones was velvetleaf. For the compounds with the same phenyl moiety, the order of the herbicidal activity is as follows: <bold>4d&gt;4h&gt;4e&gt;4l&gt;4q</bold>.</p>
+        <table-wrap id="molecules-10-01119-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-01119-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Herbicidal activity of 1-phenyl-piperazine-2,6-diones at 1200g/ha (% control)</p>
+          </caption>
+          <table>
+            <thead>
+              <tr>
+                <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin;border-left:solid thin;border-right:solid thin">compound</th>
+                <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin">marigold</th>
+                <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin">tomato</th>
+                <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin">velvetleaf</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4a</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">15</td>
+                <td align="center" valign="top" style="border-right:solid thin">35</td>
+                <td align="center" valign="top" style="border-right:solid thin">80</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4b</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">0</td>
+                <td align="center" valign="top" style="border-right:solid thin">75</td>
+                <td align="center" valign="top" style="border-right:solid thin">90</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4c</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">0</td>
+                <td align="center" valign="top" style="border-right:solid thin">15</td>
+                <td align="center" valign="top" style="border-right:solid thin">50</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4d</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">10</td>
+                <td align="center" valign="top" style="border-right:solid thin">60</td>
+                <td align="center" valign="top" style="border-right:solid thin">90</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4e</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">0</td>
+                <td align="center" valign="top" style="border-right:solid thin">0</td>
+                <td align="center" valign="top" style="border-right:solid thin">50</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4g</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">0</td>
+                <td align="center" valign="top" style="border-right:solid thin">75</td>
+                <td align="center" valign="top" style="border-right:solid thin">95</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4h</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">0</td>
+                <td align="center" valign="top" style="border-right:solid thin">0</td>
+                <td align="center" valign="top" style="border-right:solid thin">75</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-left:solid thin;border-right:solid thin"><bold>4l</bold></td>
+                <td align="center" valign="top" style="border-right:solid thin">0</td>
+                <td align="center" valign="top" style="border-right:solid thin">0</td>
+                <td align="center" valign="top" style="border-right:solid thin">25</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" style="border-bottom:solid thin;border-left:solid thin;border-right:solid thin"><bold>4p</bold></td>
+                <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">0</td>
+                <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">10</td>
+                <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">0</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec id="sec-molecules-10-01119" sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Seventeen target compounds were prepared and tested for their herbicidal activities. A new facile synthetic route was developed with methyl <italic>N</italic>-substituted iminomonoacetate as starting material. The collective results show that 2-phenyl-tetrahydro-2<italic>H</italic>-pyrido[1,2-a]pyrazine-1,3(4<italic>H</italic>,6<italic>H</italic>)-dione provided better herbicidal activity.</p>
+    </sec>
+	</body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Thanks go to Mr. M. Nunez for herbicidal activity testing. Thanks also go to Dr. S Shaber and Dr. J Renga of DowAgroSciense for their help in the preparation of this paper. This project is financially supported by the National Agrochemicals R&amp;D Key Project 2004BA308A22-6 of China.</p>
+    </ack>
+    <app-group>
+    <app>
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>All reagents were purchased from commercial sources and used without further purification. Melting points were determined in capillary tubes and are uncorrected. Thin-layer chromatography (TLC) was run on Baker-flex plastic sheets coated with silica gel IB2-F. The selected GC/MS were run on an MD 800 instrument. <sup>1</sup>H-NMR and selected <sup>13</sup>C-NMR spectra were recorded on a Mercury-300 MHz instrument by using solutions in CDCl<sub>3</sub> and TMS as an internal reference.</p>
+      </sec>
+      <sec>
+        <title>General Method for the Preparation of 1-Phenyl-piperazine-2,6-diones <italic><bold>4a-q</bold></italic>.</title>
+        <p>A solution of bromoacetyl bromide (11 mmol) in dichloromethane (10 mL) was added dropwise with stirring at room temperature to a solution of aniline (10 mmol) and triethylamine (11 mmol) in dichloromethane (20 mL). The reaction was monitored by TLC (ethyl acetate/hexane=1:1 to 1:5). The reaction came to completion usually in 1h and then ethyl acetate (200 mL) was added. The organic layer was washed with water (100 mL), saturated aqueous sodium bicarbonate (100 mL), brine (100 mL), dried over MgSO4 and concentrated under reduced pressure to afford the intermediate ester amide <bold>1</bold>. The yields were from 92% to 98%. The purities ranged from 95% to 99%, as estimated by <sup>1</sup>H-NMR.</p>
+        <p>To a solution of methyl <italic>N</italic>-substituted iminomonoacetate (6 mmol) and triethylamine (6 mmol) in dichloromethane (10 mL) the solution of 2-bromo-<italic>N</italic>-phenylacetamide (5 mmol) in dichloromethane (10 mL) was added dropwise with stirring at room temperature. The reaction was monitored by TLC (ethyl acetate/hexane=1:1 to 1:5). The reaction came to completion usually in 4h and then ethyl acetate (100 mL) was added. The organic layer was washed with water (60 mL), brine (60 mL), dried over MgSO<sub>4</sub> and concentrated under reduced pressure to afford the intermediate ester <bold>2</bold>. The yields were from 88% to 96%. The purity was from 90% to 99% as estimated by <sup>1</sup>H-NMR.</p>
+        <p>To a mixture of the above ester <bold>2</bold> (4 mmol) in THF (10 mL) and water (10 mL) lithum hydroxide (6 mmol) was added with stirring at room temperature. The reaction was monitored by TLC (ethyl acetate/hexane=1:1 to 1:5). The reaction came to completion usually in 2h and then ethyl acetate (50 mL) and water (30 mL) were added. The organic layer was washed with water (20 mL). The aqueous layers were combined, acidified with 2N HCl to pH=3, and extracted with ethyl acetate (2 X 50 mL). The combined organic layer was washed with brine (60 mL), dried over MgSO<sub>4</sub> and concentrated under reduced pressure to afford the intermediate acid <bold>3</bold>. The yields were from 81% to 90%. The purity was from 95% to 99% as estimated by <sup>1</sup>H-NMR.</p>
+        <p>The intermediate acid <bold>3</bold> (2 mmol) and catalytic amount of sodium acetate was added to acetic anhydride (10 mL) with stirring at room temperature. The reaction mixture was heated to reflux. The reaction was monitored by TLC (ethyl acetate/hexane=1:1 to 1:5). The reaction came to completion usually in 1h. After cooled down to room temperature, water (100 mL) and excess sodium carbonate was added to maintain the mixture basic (pH=7-9). The mixture was extracted with ethyl acetate (2 x 100 mL). The combined organic layer was washed with water (100 mL), brine (100 mL), dried over MgSO<sub>4</sub> and concentrated under reduced pressure to afford the target compound <bold>4</bold>. The yields ranged from 50% to 85%. The purity was from 85% to 95% as estimated by <sup>1</sup>H-NMR.</p>
+        <p><italic>2-(4-Chloro-2-fluorophenyl)-tetrahydro-2H-pyrido[1,2-a]pyrazine-1,3(4H,6H)-dione </italic> (<bold>4a</bold>): yield 80%; oil; <sup>1</sup>H-NMR &#x3B4; 1.238-1.409 (m, 1H), 1.608-1.778 (m, 4H), 2.192-2.306 (m, 2H), 2.963-3.017 (m, 2H), 3.346 (dd, <italic>J</italic><sub>1</sub> = 16.8 Hz, <italic>J</italic><sub>2</sub> = 12 Hz, 1H, CO<underline>CH</underline><underline><sub>2</sub></underline>N), 3.755 (dd, <italic>J</italic><sub>1</sub> = 16.8 Hz, <italic>J</italic><sub>2</sub> = 1.5 Hz, 1H, CO<underline>CH</underline><underline><sub>2</sub></underline>N), 7.083-7.254 (m, 3H); <sup>1</sup>C-NMR &#x3B4; 23.53 ; 25.15, 27.49, 55.10, 59.14, 64.02, 117.87, 120.88, 125.47, 131.63, 136.33, 158.05 (d, <italic>J</italic> = 253 Hz, <underline>C</underline>F), 169.18 (N<underline>C</underline>OCH<sub>2</sub>N), 171.46 (N<underline>C</underline>OCHN); MS m/z = 296 (M<sup>+</sup>, 5%), 268 (20%), 97 (100%).</p>
+        <p><italic>2-(4,5-Dichloro-2-fluorophenyl)-tetrahydro-2H-pyrido[1,2-a]pyrazine-1,3(4H,6H)-dione </italic> (<bold>4b</bold>): yield 71%; oil; <sup>1</sup>H-NMR &#x3B4; 1.237-1.425 (m, 1H), 1.615-1.784 (m, 4H), 2.048-2.310 (m, 2H), 2.975-3.031 (m, 2H), 3.287 (dd, <italic>J</italic><sub>1</sub> = 16.8 Hz, <italic>J</italic><sub>2</sub> = 12.3 Hz, 1H, CO<underline>CH</underline><underline><sub>2</sub></underline>N), 3.433 (dd, <italic>J</italic><sub>1</sub> = 16.8 Hz, <italic>J</italic><sub>2</sub> = 3.6 Hz, 1H, CO<underline>CH</underline><underline><sub>2</sub></underline>N), 7.291-7.360 (m, 2H).</p>
+        <p><italic>2-(4-Chloro-2-fluoro-5-methoxy phenyl)-tetrahydro-2H-pyrido[1,2-a]pyrazine-1,3(4H,6H)-dione</italic> (<bold>4c</bold>): yield 65%; semi-solid; <sup>1</sup>H-NMR &#x3B4; 1.308-1.479 (m, 1H), 1.529-1.892 (m, 4H), 2.212-2.401 (m, 2H), 2.974-3.125 (m, 2H), 3.355 (dd, <italic>J</italic><sub>1</sub> = 16.8 Hz, <italic>J</italic><sub>2</sub> = 1.2 Hz, 1H, CO<underline>CH</underline><underline><sub>2</sub></underline>N), 3.775 (dd, <italic>J</italic><sub>1</sub> = 16.8 Hz, <italic>J</italic><sub>2</sub> = 0.5 Hz, 1H, CO<underline>CH</underline><underline><sub>2</sub></underline>N), 6.750 (d, J=6Hz, 1H), 7.289 (d, 9Hz, 1H).</p>
+        <p><italic>2-(4-Chloro-5-cyclopentyloxy-2-fluorophenyl)-tetrahydro-2H-pyrido[1,2-a]pyrazine-1,3(4H,6H)-dione</italic> (<bold>4d</bold>): yield 75%; oil; <sup>1</sup>H-NMR &#x3B4; 1.310-1.489 (m, 3H), 1.518-1.896 (m, 10H), 2.215-2.400 (m, 2H), 2.943-3.155 (m, 2H), 3.382 (dd, <italic>J</italic><sub>1</sub> = 16.8 Hz, <italic>J</italic><sub>2</sub> = 1 Hz, 1H, <underline>C</underline>OCH<underline><sub>2</sub></underline>N), 3.795 (dd, <italic>J</italic><sub>1</sub> = 16.8 Hz, <italic>J</italic><sub>2</sub> = 0.3 Hz, 1H, CO<underline>CH</underline><underline><sub>2</sub></underline>N), 4.699 (m, 1H), 6.700 (d, J=6Hz, 1H), 7.254 (d, 9Hz, 1H).</p>
+        <p><italic>2-(4-Chloro-5-cyclopentyloxy-2-fluorophenyl)-tetrahydropyrrolo[1,2-a]pyrazine-1,3(2H,4H)-dione </italic> (<bold>4e</bold>): yield 73%; oil; <sup>1</sup>H-NMR &#x3B4; 1.508-1.698 (m, 2H), 1.718-1.995 (m, 7H), 2.210-3.108 (m, 5H), 3.345-3.556 (m, 1H), 3.702 (dd, <italic>J</italic><sub>1</sub> = 17.4 Hz, <italic>J</italic><sub>2</sub> = 36.3 Hz, 1H, CO<underline>CH</underline><underline><sub>2</sub></underline>N), 4.000 (dd, <italic>J</italic><sub>1</sub> = 17.4 Hz, <italic>J</italic><sub>2</sub> = 0.9 Hz, 1H, CO<underline>CH</underline><underline><sub>2</sub></underline>N), 4.702 (m, 1H), 6.709 (d, J=6Hz, 1H), 7.249 (d, 9Hz, 1H).</p>
+        <p><italic>1-(4-Chloro-5-ethoxycarbonylmethoxy-2-fluorophenyl)-4-methylpiperazine-2,6-dione </italic> (<bold>4f</bold>): yield 82%; m.p. 74-77&#xB0;C; <sup>1</sup>H-NMR &#x3B4; 1.251 (t, <italic>J</italic>=7.2Hz, 3H), 2.493 (s, 3H), 3.514 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.581 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 4.244 (q, <italic>J</italic>=7.2Hz, 2H), 4.643 (s, 2H), 6.730 (d, <italic>J</italic>=6Hz, 1H), 7.296 (d, 9Hz, 1H).</p>
+        <p><italic>1-(4-Chloro-5-propargyloxy-2-fluorophenyl)-4-methylpiperazine-2,6-dione</italic> (<bold>4g</bold>): yield 77%; semi-solid; <sup>1</sup>H-NMR &#x3B4; 2.504 (s, 3H), 2.567 (t, J=2.4Hz, 1H), 3.529 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.621 (d, J<sub>AB</sub>=16.5Hz, 2H), 4.735 (d, J=2.4Hz, 1H), 6.900 (d, J=6.3Hz, 1H), 7.298 (d, J=9Hz, 1H)</p>
+        <p><italic>1-(4-Chloro-5-cyclopentyloxy-2-fluorophenyl)-4-methylpiperazine-2,6-dione</italic>(<bold>4h</bold>): yield 55%; m.p. 111-113&#xB0;C; <sup>1</sup>H-NMR &#x3B4; 1.520-1.662 (m, 2H), 1.790-1.920 (m, 6H), 2.497 (s, 3H), 3.519 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.601 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 4.665 (m, 1H), 6.690 (d, <italic>J</italic>=6.3Hz, 1H), 7.250 (d, <italic>J</italic>=9Hz, 1H).</p>
+        <p><italic>4-tert-Butyl-1-(4-chloro-2-fluorophenyl)piperazine-2,6-dione</italic> (<bold>4i</bold>): yield 71%; m.p. 144-146&#xB0;C; <sup>1</sup>H-NMR &#x3B4; 1.170 (s, 9H), 3.580 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.750 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 7.150-7.270 (m, 3H).</p>
+        <p><italic>4-tert-Butyl-1-(4-chloro-5-methoxy-2-fluorophenyl)piperazine-2,6-dione</italic> (<bold>4j</bold>): yield 80%; semi-solid; <sup>1</sup>H-NMR &#x3B4; 1.174 (s, 9H), 3.525 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.749 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.866 (s, 3H), 6.730 (d, <italic>J</italic>=6.3Hz, 1H), 7.268 (d, <italic>J</italic>=9Hz, 1H).</p>
+        <p><italic>4-tert-Butyl-1-(4-chloro-2-fluoro-5-propargyloxyphenyl)piperazine-2,6-dione </italic> (<bold>4k</bold>): yield 83%; semi-solid; <sup>1</sup>H-NMR &#x3B4; 1.174 (s, 9H), 2.598 (t, <italic>J</italic>=2.4Hz, 1H), 3.527 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.750 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 4.729 (d, <italic>J</italic>=2.4Hz, 1H), 6.910 (d, <italic>J</italic>=6.3Hz, 1H), 7.305 (d, <italic>J</italic>=9Hz, 1H).</p>
+        <p><italic>4-tert-Butyl-1-(4-chloro-5-(cyclopentyloxy)-2-fluorophenyl)piperazine-2,6-dione </italic> (<bold>4l</bold>): yield 83%; m.p. 142-144&#xB0;C; <sup>1</sup>H-NMR &#x3B4; 1.175 (s, 9H) 1.522-1.661 (m, 2H), 1.794-1.928 (m, 6H), 3.525 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.752 (d, <italic>J</italic><sub>AB</sub>=16.5Hz), 4.691 (m, 1H), 6.781 (d, <italic>J</italic>=6.3Hz, 1H), 7.247 (d, <italic>J</italic>=9Hz, 1H).</p>
+        <p><italic>4-Benzyl-1-(4-chloro-2-fluorophenyl)piperazine-2,6-dione</italic> (<bold>4m</bold>): yield 85%; Oil; <sup>1</sup>H-NMR &#x3B4; 3.548 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.660 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.748 (s, 2H), 7.147-7.375 (m, 8H).</p>
+        <p><italic>4-Benzyl-1-(4,5-dichloro-2-fluorophenyl)piperazine-2,6-dione</italic> (<bold>4n</bold>): yield 60%; semi-solid; <sup>1</sup>H-NMR &#x3B4; 3.584 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.667 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.769 (s, 2H), 7.361 (m, 7H).</p>
+        <p><italic>4-Benzyl-1-(4-chloro-5-ethoxycarbonylmethoxy-2-fluorophenyl)piperazine-2,6-dione </italic> (<bold>4o</bold>): yield 83%; oil; <sup>1</sup>H-NMR &#x3B4; 1.260 (t, <italic>J</italic>=7.2Hz, 3H), 3.590 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.655 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.743 (s, 2H), 4.180 (q, <italic>J</italic>=7.2Hz, 2H), 4.644 (s, 2H), 6.720 (d, <italic>J</italic>=6.3Hz, 1H), 7.276-7.361 (m, 6H).</p>
+        <p><italic>4-Benzyl-1-(4-chloro-2-fluoro-5-iso-propoxycarbonylphenyl)piperazine-2,6-dione</italic> (<bold>4p</bold>): yield 70%; semi-solid; <sup>1</sup>H-NMR &#x3B4; 1.370 (d, <italic>J</italic>=6.3Hz, 6H), 3.530 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.651 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.725 (s, 2H), 5.247 (sept, <italic>J</italic>=6.3Hz, 1H), 7.300-7.346 (m, 6H), 7.792 (d, <italic>J</italic>=6.3Hz, 1H).</p>
+        <p><italic>4-Benzyl-1-(4-chloro-5-cyclopentyloxy-2-fluorophenyl)piperazine-2,6-dione</italic> (<bold>4q</bold>): yield 80%; m.p. 128-129&#xB0;C; <sup>1</sup>H-NMR &#x3B4; 1.521-1.663 (m, 2H), 1.791-1.925 (m, 6H), 3.450 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.651 (d, <italic>J</italic><sub>AB</sub>=16.5Hz, 2H), 3.746 (s, 2H), 4.701 (m, 1H), 6.790 (d, <italic>J</italic>=6.3Hz, 1H), 7.245 (d, <italic>J</italic>=9Hz, 1H), 7.339-7.379 (m, 5H).</p>
+      </sec>
+      <sec>
+        <title>Herbicidal activity evaluation</title>
+        <p>Three broadleaf plant species: marigold (<italic>Tagetes</italic> <italic>spp</italic>), tomato (<italic>Lycopersicon esculentus</italic>), and velvetleaf (<italic>Abutilon theophrasti</italic>) were used for the test. The seeds were allowed to germinate and grow for 14 days. Test plants were selected for uniformity, size and stage of development and then treated with the test compound, returned to the greenhouse and watered. Plants not treated with the compound under evaluation were used as a comparison. The compound to be evaluated was dissolved in acetone and sprayed using a carrier volume equivalent to 187 liters per hectare at 1200g/ha. Two weeks after application of the test compounds, the state of the plants was observed. Each species was evaluated on a scale of 0-100 in which 0 equals no activity and 100 equals total control.</p>
+      </sec>
+    </app>
+   </app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01119">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hirai</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Peroxidizing Herbicides</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Boger</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Wakabayashi</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Springer</publisher-name>
+          <publisher-loc>Berlin</publisher-loc>
+          <year>1999</year>
+          <fpage>15</fpage>
+          <lpage>71</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01119">
+        <label>2.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parcel</surname>
+              <given-names>R. F.</given-names>
+            </name>
+          </person-group>
+          <source>US Patent</source>
+          <patent>2976290</patent>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1961</bold>, <italic>55</italic>, 16576i]</comment>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01119">
+        <label>3.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Banholzer</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Merz</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Jennewein</surname>
+              <given-names>H. M.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. Patent</source>
+          <patent>117531</patent>
+          <comment>[Chem. Abstr. <bold>1985</bold>, <italic>102</italic>, 62257x]</comment>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01119">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henry</surname>
+              <given-names>D. W.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1966</year>
+          <volume>3</volume>
+          <fpage>503</fpage>
+          <lpage>511</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01119">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kruse</surname>
+              <given-names>C. G.</given-names>
+            </name>
+            <name>
+              <surname>Troost</surname>
+              <given-names>J. J.</given-names>
+            </name>
+          </person-group>
+          <source>Recueil. Trav. Chim. Pays-Bas</source>
+          <year>1988</year>
+          <volume>107</volume>
+          <fpage>303</fpage>
+          <lpage>309</lpage>
+          <pub-id pub-id-type="doi">10.1002/recl.19881070402</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

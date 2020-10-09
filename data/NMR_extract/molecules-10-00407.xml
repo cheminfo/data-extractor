@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020407</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00407</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis and Cyclizations of N-(2,3-, 3,4- and 3,5-Dimethylphenyl)-&#x3B2;-alanines</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vaickelioniene</surname>
+            <given-names>Rita</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00407" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mickevicius</surname>
+            <given-names>Vytautas</given-names>
+          </name>
+          <xref rid="af1-molecules-10-00407" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mikulskiene</surname>
+            <given-names>Gema</given-names>
+          </name>
+          <xref rid="af2-molecules-10-00407" ref-type="aff">2</xref>
+          <xref rid="c1-molecules-10-00407" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00407"><label>1</label>Department of Organic Chemistry, Kaunas University of Technology, Radvilenu pl. 19, LT-50299 Kaunas, Lithuania, Tel. (+370) 37 456 561, Fax (+370) 37 300 152</aff>
+      <aff id="af2-molecules-10-00407"><label>2</label>Institute of Biochemistry, LT-08662 Vilnius, Mokslininku 12, Lithuania, Tel. (+370) 5 272 9195, Fax (+370) 5 272 9196</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00407"><label>*</label>Author to whom correspondence should be addressed; E-mail: <email>gemam@bchi.lt</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>407</fpage>
+      <lpage>416</lpage>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>02</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>10</day>
+          <month>10</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>10</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http:www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A series of 1-aryl substituted dihydro-, 5-methyldihydro- and 6-methyl-dihydro-2,4(1<italic>H,</italic>3<italic>H</italic>)pyrimidinediones and their 2-thio analogues were obtained by reaction of the corresponding &#x3B2;-alanines or &#x3B1;-methyl- and &#x3B2;-methyl-&#x3B2;-alanines with urea or potassium thiocyanate. The reaction of <italic>N</italic>-(2,3- and 3,5-dimethylphenyl)-&#x3B1;-methyl-&#x3B2;-alanines with ethyl acetoacetate gave 1-(2,3- or 3,5-dimethylphenyl)-2,5-dimethyl-1,4,5,6-tetrahydro-4(1<italic>H</italic>)pyridones. The combined spectral data obtained by <sup>1</sup>H-, <sup>13</sup>C-, <sup>1</sup>H/<sup>13</sup>C (HETCOR) NMR and IR provided useful information about the structure of the products synthesized in this work.</p>
+      </abstract>
+      <kwd-group>
+        <kwd><italic>N</italic>-Aryl-&#x3B2;-alanines</kwd>
+		<kwd>1-aryl substituted dihydropyrimidinedione</kwd>
+		<kwd>dihydro-pyrimidinone-2-thione</kwd>
+		<kwd>1,4,5,6-tetrahydropyridone</kwd>
+		<kwd>NMR spectra</kwd>
+		<kwd>IR spectra</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p><italic>N</italic>-Aryl-&#x3B2;-alanines can be obtained in different ways. The most convenient method is the reaction of aromatic amines with &#x3B1;,&#x3B2;-unsaturated acids, their esters and nitriles. Acidic or basic catalysts are needed in the reactions of amines with the unsaturated acid derivatives, but the reactions of amines with the unsaturated acids take place much easier than with the other derivatives as the acid itself acts as a catalyst. <italic>N</italic>-Substituted &#x3B2;-alanines have been shown to be versatile starting materials for the synthesis of a variety of heterocyclic systems, for example, the pyrimidine skeleton that is commonly found in pharmaceuticals, fungicides and herbicides. We have recently described the synthesis of <italic>N</italic>-(2-substituted phenyl)dihydro-2,4(1<italic>H,</italic>3<italic>H</italic>) pyrimidinediones and 2-thiones with substituents at the 5- and 6-positions [<xref ref-type="bibr" rid="B1-molecules-10-00407">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00407">2</xref>]. Their structures were confirmed by their NMR spectra and it was shown that most of 5- and 6-methyldihydropyrimidindiones and their 2-thio analogues formed two atropisomers due to the restricted rotation about the N<sub>(1)</sub>-C<sub>(1&#x2019;)</sub> bond. The problems of structure determination and the energetic characteristics of this process have been discussed.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>We now report the synthesis of new <italic>N</italic>-aryl-&#x3B2;-alanines and their cyclization products. The <italic>N</italic>-aryl-&#x3B2;-alanines, <italic>N</italic>-aryl-&#x3B1;-methyl- and <italic>N</italic>-aryl-&#x3B2;-methyl-&#x3B2;-alanines described in this work were synthesized from aromatic amines reacted with acrylic, methacrylic and crotonic acids and were obtained in either the free form or as the corresponding HCl salts. <xref ref-type="scheme" rid="molecules-10-00407-f001">Scheme 1</xref> illustrates the approach used in the synthesis of substituted dihydropyrimidinone and hydropyridone derivatives from <italic>N</italic>-substituted &#x3B2;-alanines.</p>
+      <fig id="molecules-10-00407-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00407-f001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00407-g001.tif"/>
+		<p><bold>a</bold> R<sup>1</sup> = R<sup>2</sup> = CH<sub>3</sub>; R<sup>3</sup> = R<sup>4</sup> = H; <bold>b</bold> R<sup>1</sup> = R<sup>4</sup> = H; R<sup>2</sup> = R<sup>3</sup> = CH<sub>3</sub>; <bold>c</bold> R<sup>1</sup> = R<sup>3</sup> = H; R<sup>2</sup> = R<sup>4</sup> = CH<sub>3</sub>; <bold>6, 8, 10, 12, 14, 16</bold> X = O; <bold>7, 9, 11, 13, 15, 17</bold> X = S</p>
+      </fig>
+      <p>1-Aryldihydro-2,4(1<italic>H</italic>,3<italic>H</italic>)pyrimidindiones <bold>12</bold>, <bold>14</bold>, <bold>16</bold> and their 2-thioanalogues <bold>13</bold>, <bold>15</bold>, <bold>17</bold> were prepared by condensation of <italic>N</italic>-aryl-&#x3B2;-alanines or their hydrochlorides <bold>3</bold>-<bold>5</bold> with urea or potassium thiocyanate in acetic acid under reflux, followed by cyclization by hydrochloric acid of the intermediate <italic>N</italic>-aryl-<italic>N</italic>-carbamoyl-&#x3B2;-alanines <bold>6</bold>, <bold>8</bold>, <bold>10</bold> and <italic>N</italic>-aryl-<italic>N</italic>-thiocarbamoyl-&#x3B2;-alanines <bold>7</bold>, <bold>9</bold>, <bold>11</bold> to give the more stable dihydropyrimidinediones <bold>12</bold>, <bold>14</bold>, <bold>16</bold> and their 2-thioanalogues <bold>13</bold>, <bold>15</bold>, <bold>17</bold>.</p>
+      <p>The dihydropyrimidindiones and their 2-thio analogues are acid-resistant, but in basic medium they easily cleave forming the respective salts of <italic>N</italic>-aryl-<italic>N</italic>-carbamoyl- and <italic>N</italic>-aryl-<italic>N</italic>-thiocarbamoyl-&#x3B2;-alanines. Compound <bold>14b</bold> was cleaved in 10 &#x25; sodium hydroxide solution by heating the reaction mixture to boiling temperature. <italic>N</italic>-Carbamoyl-&#x3B2;-alanine <bold>8b</bold> was separated from reaction mixture by acidifying this solution with acetic acid. Condensation of <italic>N</italic>-(2,3-dimethylphenyl)-&#x3B1;-methyl-&#x3B2;-alanine (<bold>4a</bold>) and <italic>N</italic>-(3,5-dimethylphenyl)-&#x3B1;-methyl-&#x3B2;-alanine (<bold>4c</bold>) with ethyl acetoacetate gave the corresponding 1-aryl-3-ethoxycarbonyl-2,5-dimethyl-1,4,5,6-tetrahydro-4(1<italic>H</italic>)pyridones <bold>18</bold>.</p>
+      <p>The structure of the studied compounds was investigated using <sup>1</sup>H-, <sup>13</sup>C-, <sup>1</sup>H/<sup>13</sup>C (HETCOR) NMR and IR spectroscopy. The NMR spectra were assigned unambiguously through consideration of the features of <sup>1</sup>H-NMR spectral characteristics, the signal intensity arguments and the additivity rules of the <sup>13</sup>C-NMR spectra, including DEPT <sup>13</sup>C-NMR spectral characteristics [<xref ref-type="bibr" rid="B3-molecules-10-00407">3</xref>,<xref ref-type="bibr" rid="B5-molecules-10-00407">5</xref>].</p>
+      <p>The substituent increments used in this work were available in literature [<xref ref-type="bibr" rid="B3-molecules-10-00407">3</xref>] and were obtained during the interpretation of spectra of the respective compounds [<xref ref-type="bibr" rid="B4-molecules-10-00407">4</xref>]. <sup>1</sup>H/<sup>13</sup>C (HETCOR)-NMR spectra [<xref ref-type="bibr" rid="B5-molecules-10-00407">5</xref>] were used to assist the assignments of the studied compounds, particularly to check the identification of the resonances of methyl groups located on the benzene and on the heterocyclic ring as well.</p>
+      <p>The presence of characteristic splitting of the resonances was observed during the spectroscopic analysis of compounds <bold>12</bold>-<bold>18</bold>. The c-type compounds presented a single set of the resonances in their <sup>1</sup>H- and <sup>13</sup>C-NMR spectra. A double set of the resonances for the C-4 atoms was only found in compounds <bold>12b</bold> and <bold>13b</bold>. Meanwhile, all <bold>a</bold>-type compounds produced NMR spectra with split resonances. Moreover, compounds <bold>14a</bold> and <bold>15a</bold> showed some additional splitting of the resonances of the C-2 and C-4 atoms. It has been suggested that such splitting of the resonances of the aforementioned compounds possessing methyl groups in different locations was caused by the restricted rotation of benzene and heterocyclic rings around the C(1&#x2019;)-N(1) bond and the possibility of the existence of diastereomers.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have presented the synthesis of new N-aryl-&#x3B2;-alanines and their cyclization products. The structure elucidation of the representative series of the study compounds was carried out using <sup>1</sup>H-, <sup>13</sup>C-, <sup>1</sup>H/<sup>13</sup>C (HETCOR) NMR and IR spectroscopy. The examination in detail of the structural features of the reported compounds was not the aim of this study and will be performed in the planned subsequent work.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental </title>
+      <sec>
+        <title>General</title>
+        <p>The <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were recorded on a <italic>Jeol FX 100</italic> (100 MHz) or <italic>Bruker DRX 500</italic> (500 MHz) instruments; chemical shifts are reported in ppm on the &#x3B4; scale with tetramethylsilane as the internal reference. The IR spectra were measured in a <italic>Perkin-Elmer Spectrum GX FT-IR system</italic>. Silica gel plates (<italic>Silufol UV-254</italic>) were used for analytical tlc. Spectroscopic data for the prepared compounds is given in <xref ref-type="table" rid="molecules-10-00407-t001">Table 1</xref>. Physical properties, analytical data and yields for the prepared compounds are given in <xref ref-type="table" rid="molecules-10-00407-t002">Table 2</xref>.</p>
+        <p><italic>N-Carboxyethyl-N-(2,3- and 3,4-dimethylphenyl)-&#x3B2;-alanine hydrochlorides</italic> (<bold>2a</bold>,<bold>b</bold>). A solution of the corresponding dimethylanilines <bold>1a</bold>,<bold>b</bold> (3.03 g, 0.025 mol), water (20 mL) and acrylic acid (5.4 g, 0.075 mol) was heated with stirring for 6 h at 90-100 &#xB0;C. At the end of reaction period the reaction mixture was treated with 5 % sodium hydroxide solution (50 mL), cooled and extracted with diethyl ether (3 x 50 mL). The alkaline solution was neutralized with hydrochloric acid and extracted with diethyl ether (3 x 50 mL). The ethereal solution dried by cooling for 1 h at -20 &#xB0;C, filtered and saturated ethereal-hydrogen chloride solution was added. The resulting precipitate was filtered off.</p>
+        <p><italic>N-(2,3-Dimethylphenyl)-&#x3B2;-alanine</italic> (<bold>3a</bold>). A solution of 2,3-dimethylaniline (<bold>1a</bold>, 30.3 g, 0.1 mol), acrylic acid (7.2 g, 0.1 mol) and toluene (100 mL) was stirred for 24 h at 20 &#xB0;C. Afterwards 5 % sodium hydroxide (200 mL) was added to the reaction mixture and non-reacted amine was extracted with diethyl ether (3 x 100 mL). The alkaline solution was neutralized with hydrochloric acid. The obtained oily residue of &#x3B2;-alanine <bold>3a</bold> was washed with water to give a precipitate, which was filtered off and washed with water. </p>
+        <p><italic>N-(3,4- and 3,5-Dimethylphenyl)-&#x3B2;-alanine hydrochlorides</italic> (<bold>3b</bold>,<bold>c</bold>). These compounds were synthesized from arylamines <bold>1b</bold>,<bold>c</bold> by the procedure described for <bold>3a</bold> and were obtained as oily residues. These oily residues were dissolved in diethyl ether (150 mL), dried by cooling at -20 &#xB0;C for 1 h filtered and saturated ethereal &#x2013; hydrogen chloride solution was added, resulting in a precipitate, which was filtered off. </p>
+        <p><italic>N-(2,3- and 3,5-Dimethylphenyl)-&#x3B1;-methyl-&#x3B2;-alanines</italic> (<bold>4a</bold>,<bold>c</bold>). A solution of the 2,3-dimethylaniline <bold>1a,c</bold> (30.3 g, 0.25 mol),  methacrylic acid (23.7 g, 0.275 mol), toluene (100 mL) and hydroquinone (1 g) was heated with stirring for 24 h at 70 &#xB0;C. The solution was then allowed to cool and 5 % sodium hydroxide (200 mL) was added and non-reacted arylamine was isolated by extraction with toluene (1 x 100 mL) and diethyl ether (2 x 100 mL). The alkaline solution was neutralized with hydrochloric acid, giving an oily residue of the &#x3B1;-methyl-&#x3B2;-alanines <bold>4a</bold>,<bold>c</bold>, which was washed with water to give a precipitate that was filtered and washed with water.</p>
+        <p><italic>N-(3,4-Dimethylphenyl)-&#x3B1;-methyl-&#x3B2;-alanine hydrochloride</italic> (<bold>4b</bold>). A solution of 3,4-dimethylaniline (<bold>1b</bold>, 30.3 g, 0.25 mol), methacrylic acid (23.7 g, 0.275 mol), toluene (100 mL) and hydroquinone (1 g) was heated with stirring for 24 h at 70 &#xB0;C. The solution was allowed to cool and 5 % sodium hydroxide solution (200 mL) was added and non-reacted arylamine was isolated by extraction with toluene (1 x 100 mL) and diethyl ether (2 x 100 mL). The alkaline solution was neutralized with hydrochloric acid and extracted with diethyl ether (3 x 100 mL). To the ethereal solution saturated ethereal-hydrogen chloride solution was added and resulting precipitate was filtered off.</p>
+        <p><italic>N-(2,3- and 3,5-Dimethylphenyl)-&#x3B2;-methyl-&#x3B2;-alanine hydrochlorides</italic> (<bold>5a</bold>,<bold>c</bold>). A mixture of the corresponding arylamine <bold>1a</bold>, <bold>c</bold> (23.7 g, 0.275 mol), crotonic acid and toluene (100 mL) was refluxed for 10 h cooled and 5 % sodium hydroxide solution (200 mL) was added. The toluene layer was isolated, alkaline solution was extracted with diethyl ether (2 x 100 mL) and neutralized with hydrochloric acid. The oily residue of &#x3B2;-methyl-&#x3B2;-alanines <bold>5a</bold>,<bold>c</bold> thus obtained was washed with water, dissolved in diethyl ether (200 mL), dried by cooling 1 h at -20 &#xB0;C, filtered and saturated ethereal-hydrogen chloride solution was added, resulting in a precipitate of the corresponding salt which was filtered off.</p>
+        <p><italic>N-Carbamoyl-(3,4-dimethylphenyl)-&#x3B1;-methyl-&#x3B2;-alanine</italic> (<bold>8b</bold>). A mixture of dihydropyrimidinedione <bold>14b</bold> (2.32 g, 0.01 mol) and 10 % sodium hydroxide (20 mL) was heated up to boiling temperature, filtered and kept at room temperature for 0.5 h. After that the mixture was acidified with 20 % acetic acid, the residue filtered off and washed with water.</p>
+        <p><italic>1-(2,3-, 3,4- and 3,5-dimethylphenyl)dihydro-2,4(1H, 3H)pyrimidinediones</italic> (<bold>12a</bold>-<bold>c</bold>) <italic>and 5-methyl- and 6-methyldihydro-2,4(1H,3H)pyrimidindiones</italic> (<bold>14a</bold>-<bold>c</bold>, <bold>16a</bold>,<bold>c</bold>). A mixture of the corresponding N-aryl-&#x3B2;-alanine or hydrochloride <bold>3</bold>,<bold>4</bold>,<bold>5</bold> (0.01 mol), urea (2.4 g, 0.02 mol) and acetic acid (10 mL) was heated under reflux for 14 h, then concentrated hydrochloric acid (5 mL) was added and refluxing was continued for 0.5 h. The reaction mixture was diluted with water (30 mL) and was kept in cold for crystallization. The dihydropyrimidinedione precipitates were filtered and washed with water.</p>
+        <p><italic>1-(2,3-, 3,4- and 3,5-Dimethyl)dihydro-4(1H,3H)pyrimidinon-2-thiones</italic> (<bold>13a</bold>-<bold>c</bold>), 5-methyl- and 6-methyldihydro-4(1H,3H)pyrimidinon-2-thiones (<bold>15a</bold>-<bold>c</bold>, <bold>17a</bold>,<bold>c</bold>). These compounds were obtained using the method for preparing 1-arylsubstituted dihydropyrimidinediones <bold>12</bold>,<bold>14</bold>,<bold>15</bold> using potassium thiocyanate instead of urea.</p>
+        <p><italic>Preparation of 3-ethoxycarbonyl-1-(2,3- and 3,5-dimethylphenyl)-2,5-dimethyl-1,4,5,6-tetrahydro-4(1H)pyridones</italic> (<bold>18a</bold>,<bold>c</bold>). A reaction mixture of the corresponding N-aryl-&#x3B1;-methyl-&#x3B2;-alanine <bold>4</bold> (0.05 mol) and ethyl acetoacetate (30 mL) was refluxed for 8 h then cooled down to 20 &#xB0;C, suspended in 5 % sodium carbonate solution (200 mL) and boiled. The reaction mixture was cooled down and extracted with diethyl ether (2 x 100 mL). The ethereal solution was dried with sodium carbonate (20 g) for 30 min, filtered, solvent was evaporated in <italic>vacuo</italic>, and the residue was washed with cold diethyl ether and hexane (10 mL).</p>
+        <table-wrap id="molecules-10-00407-t001" position="float">
+          <object-id pub-id-type="pii">molecules-10-00407-t001_Table 1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>Spectroscopic data of the prepared compounds</p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th align="center" valign="middle">Compounds</th>
+                <th align="center" valign="middle"><sup>1</sup>H-NMR (solvent)</th>
+                <th align="center" valign="middle"><sup>13</sup>C-NMR (solvent)</th>
+                <th align="center" valign="middle">IR (KBr tabl.)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle"><bold>2a</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 2.35 (s, 3H, 2&#x2019;-CH<sub>3</sub>Ar), 2.45 (s, 3H, 3&#x2019;-CH<sub>3</sub>Ar), 2.30-2.65 (m, 4H, CH<sub>2</sub>CO), 3.65-3.95 (m, 4H, CH<sub>2</sub>NCH<sub>2</sub>), 7.30-7.90 (m, 3H, Ar), 11.14 (bs, 2H, COOH).</td>
+                <td align="center" valign="middle">&#x2013;</td>
+                <td align="center" valign="middle">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>2b</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 2.30 (s, 6H, 3&#x2019;,4&#x2019;-CH<sub>3</sub>Ar), 2.44-2.80 (m, 4H, CH<sub>2</sub>CO), 3.66-3.98 (m, 4H, CH<sub>2</sub>NCH<sub>2</sub>), 7.40-7.70 (m, 3H, Ar), 10.60 (bs, 2H, COOH).</td>
+                <td align="center" valign="middle">&#x2013;</td>
+                <td align="center" valign="middle">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>3a</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-acetone) 1.98 (s, 3H, 2&#x2019;-CH<sub>3</sub>Ar), 2.18 (s, 3H, 3&#x2019;-CH<sub>3</sub>Ar), 2.50-2.72 (m, 2H, CH<sub>2</sub>CO), 3.32-3.51 (m, 2H, NCH<sub>2</sub>), 6.40-7.10 (m, 3H, Ar).</td>
+                <td align="center" valign="middle">&#x2013;</td>
+                <td align="center" valign="middle">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>3b</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) &#x3B4;: 2.29 (s, 6H, 3&#x2019;,4&#x2019;-CH<sub>3</sub>Ar), 2.74-3.45 (m, 2H, CH<sub>2</sub>CO), 3.40-3.62 (m, 2H, NCH<sub>2</sub>), 7.45-7.60 (m, 3H, Ar), 9.66 (bs, 1H, COOH).</td>
+                <td align="center" valign="middle">&#x2013;</td>
+                <td align="center" valign="middle">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 2.30 (s, 6H, 3&#x2019;,5&#x2019;-CH<sub>3</sub>Ar), 2.70-2.95 (m, 2H, CH<sub>2</sub>CO), 3.34-3.60 (m, 2H, NCH<sub>2</sub>), 7.02-7.25 (m, 3H, Ar), 10.25 (bs, 1H, COOH).</td>
+                <td align="center" valign="middle">&#x2013;</td>
+                <td align="center" valign="middle">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>4a</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-acetone) 1.24 (d, J = 6.9 Hz, 3H, CH <underline>CH</underline><sub>3</sub>), 2.02 (s, 3H, 2&#x2019;-CH<sub>3</sub>Ar), 2.21 (s, 3H, 3&#x2019;-CH<sub>3</sub>Ar), ), 2.65-3.06 (m, 1H, CH), 3.13-3.60 (m, 2H, NCH<sub>2</sub>), 6.50-7.10 (m, 3H, Ar). </td>
+                <td align="center" valign="middle">&#x2013;</td>
+                <td align="center" valign="middle">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>4b</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.29 (d, J = 6.9 Hz, 3H, CH <underline>CH</underline><sub>3</sub>), 2.28 (s, 6H, 3&#x2019;,4&#x2019;-CH<sub>3</sub>Ar), 2.75-3.10 (m, 1H, CH), 3.16-3.65 (m, 2H, NCH<sub>2</sub>), 7.25-7.50 (m, 3H, Ar), 10.66 (bs, 1H, COOH).</td>
+                <td align="center" valign="middle">&#x2013;</td>
+                <td align="center" valign="middle">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>4c</bold></td>
+                <td align="left" valign="top">(CDCl<sub>3</sub>) 1.25 (d, J = 7.02 Hz, 3H, CH<underline>CH<sub>3</sub></underline>), 2.23 (s, 6H, 3&#x2019;,5&#x2019;-CH<sub>3</sub>Ar), 2.74-2.90 (m, 1H, CH), 3.14-3.27 (m, 2H, CH<sub>2</sub>N), 6.25-6.45 (m, 3H, Ar), 7.5 (bs, 1H, COOH).</td>
+                <td align="left" valign="top">(CDCl<sub>3</sub>) 14.84 (CH<underline>CH</underline><sub>3</sub>), 21.47 (3&#x2019;,5&#x2019;-CH<sub>3</sub>Ar), 39.23 (CH), 47.09 (CH<sub>2</sub>), 111.39 (Ar-C-2&#x2019;,6&#x2019;), 120.22 (Ar-C-4&#x2019;), 139.01 (Ar-C-3&#x2019;,5&#x2019;), 147.44 (Ar-C-1&#x2019;), 181.17 (CO).</td>
+                <td align="center" valign="middle">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>5a</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.36 (d, J = 6.5 Hz, 3H, CH <underline>CH</underline><sub>3</sub>), 2.34 (s, 3H, 2&#x2019;-CH<sub>3</sub>Ar), 2.37 (s, 3H, 3&#x2019;-CH<sub>3</sub>Ar), 2.60-3.25 (m, 2H, CH<sub>2</sub>CO), 3.65-4.15 (m, H, CH), 7.45-7.65 (m, 3H, Ar), 10.67 (bs, 1H, COOH). </td>
+                <td align="center" valign="middle">&#x2013;</td>
+                <td align="center" valign="middle">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>5c</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.35 (d, J = 6.6 Hz, 3H, CH <underline>CH</underline><sub>3</sub>), 2.36 (s, 6H, 3&#x2019;,5&#x2019;-CH<sub>3</sub>Ar), 2.50-3.15 (m, 2H, CH<sub>2</sub>CO), 3.65-4.10 (m, 1H, CH), 7.02-7.32 (m, 3H, Ar), 10.70 (bs, 1H, COOH).</td>
+                <td align="center" valign="middle">&#x2013;</td>
+                <td align="center" valign="middle">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>8b</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.01 (d, J = 7.0 Hz, 3H, CH<underline>CH</underline><sub>3</sub>), 2.31 (s, 6H, 3&#x2019;, 4&#x2019;-CH<sub>3</sub>Ar), 2.37-2.56 (m, 1H, CHCO), 3.58-3.79 (m, 2H, CH<sub>2</sub>N), 6.99-7.23 (m, 3H, Ar), 12.20 (bs, 1H, NH).</td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 14.58 (5-CH<sub>3</sub>), 18.84 (4&#x2019;-CH<sub>3</sub>), 19.35 (3&#x2019;-CH<sub>3</sub>), 38.33 (C-5), 51.23 (C-6), 125.16 (Ar-C-6&#x2019;), 128.80 (Ar-C-2&#x2019;), 130.33 (Ar-C-5&#x2019;), 134.83 (Ar-C-4&#x2019;), 137.37, (Ar-C-3&#x2019;), 139.90 (Ar-C-1&#x2019;), 157.41 (C-2), 175.93 (C-4).</td>
+                <td colspan="4" align="left" valign="top">3328.16 (NH), 1692.11 (C=O), 1631.71 (C=O).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>12a</bold></td>
+                <td align="left" valign="top"> (d<sub>6</sub>-DMSO) 2.01 (s, 3H, 2&#x2019;-CH<sub>3</sub>Ar), 2.21 (s, 3H, 3&#x2019;-CH<sub>3</sub>Ar), 2.60-2.89 (m, 2H, CH<sub>2</sub>CO), 3.40-3.82 (m, 2H, CH<sub>2</sub>N), 7.07-7.19 (m, 3H, Ar), 10.32 (bs, 1H, NH).</td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 13.81 (2&#x2019;-CH<sub>3</sub>), 19.92 (3&#x2019;-CH<sub>3</sub>), 30.98 (C-5), 44.69 (C-6), 124.68 (Ar-C-6&#x2019;), 125.94 (Ar-C-5&#x2019;), 128.63 (C-4&#x2019;), 134.01 (Ar-C-2&#x2019;), 137.38 (Ar-C-3&#x2019;), 140.79 (Ar-C-1&#x2019;), 151.70, 151.78 (C-2), 170.54, 170.63 (C-4).</td>
+                <td colspan="4" align="left" valign="top">3191.75 (NH), 1719.25 (C=O), 1689.35 (C=O).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>12b</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 2.21 (s, 6H, 3&#x2019;4&#x2019;-CH<sub>3</sub>Ar), 2.72 (t, J = 6.7 Hz, 2H, CH<sub>2</sub>CO), 3.76 (t, J = 6.7 Hz, 2H, CH<sub>2</sub>N), 7.00-7.18 (m, 3H, Ar), 10.26 (bs, 1H, NH).</td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 18.75 (4&#x2019;-CH<sub>3</sub>), 19.28 (3&#x2019;-CH<sub>3</sub>), 31.03 (C-5), 44.66 (C-6), 122.60 (Ar-C-6&#x2019;), 126.39 (Ar-C-2&#x2019;), 129.45 (Ar-C-5&#x2019;), 133.86 (Ar-C-4&#x2019;), 136.37 (Ar-C-3&#x2019;), 139.68 (Ar-C-1&#x2019;), 152.04 (C-2), 170.41, 170.50 (C-4).</td>
+                <td colspan="4" align="left" valign="top">3221.93 (NH), 1737.02 (C=O), 1689.56 (C=O).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>12c</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 2.26 (s, 6H, 3&#x2019;,5&#x2019;-CH<sub>3</sub>Ar), 2.67 (t, J = 6.7 Hz, 3H, CH<sub>2</sub>CO), 3.76 (t, J = 6.7 Hz, 2H, CH<sub>2</sub>N), 6.87-6.93 (m, 3H, Ar), 10.32 (s, 1H, NH).</td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 20.73 (3&#x2019;,5&#x2019;-CH<sub>3</sub>), 31.01 (C-5), 44.59 (C-6), 122.98 (Ar-C-2&#x2019;, Ar-C-6&#x2019;), 127.26 (C-4&#x2019;), 137.64 (Ar-C-3&#x2019;, Ar-C-5&#x2019;), 141.86 (Ar-C-1&#x2019;), 151.98 (C-2), 170.50, (C-4).</td>
+                <td colspan="4" align="left" valign="top">3207.49 (NH), 1727.61 (C=O), 1690.82 (C=O).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>13a</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 2.07 (s, 3H, 2&#x2019;-CH<sub>3</sub>Ar), 2.27 (s, 3H, 3-CH<sub>3</sub>Ar), 2.78-2.92 (m, 2H, CH<sub>2</sub>CO), 3.66-4.00 (m, 2H, CH<sub>2</sub>N), 7.05-7.16 (m, 3H, Ar), 11.22 (bs, 1H, NH). </td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 13.79 (2&#x2019;-CH<sub>3</sub>), 19.26 (3&#x2019;-CH<sub>3</sub>), 30.20 (C-5), 47.91 (C-6), 124.46 (Ar-C-6&#x2019;), 126.27 (Ar-C-5&#x2019;), 129.09 (Ar-C-4&#x2019;), 133.08 (Ar-C-2&#x2019;), 137.56 (Ar-C-3&#x2019;), 143.78 (Ar-C-1&#x2019;), 166.74, 166.84 (C-4), 178.44, 178.57 (C-2).</td>
+                <td colspan="4" align="left" valign="top">3184.28 (NH), 1702.01 (C=O), 1213.70 (&gt;N&#x2212;<underline>CS</underline>&#x2212;N&lt; ).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>13b</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 2.20 (s, 6H, 3&#x2019;,4&#x2019;-CH<sub>3</sub>Ar), 2.78 (t, J = 6.9 Hz, 2H, CH<sub>2</sub>CO), 3.85 (t, J = 6.9 Hz, 2H, CH<sub>2</sub>N), 7.00-7.22 (m, 3H, Ar), 11.13 (bs, 1H, NH). </td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 18.88 (4&#x2019;-CH<sub>3</sub>), 19.26 (3&#x2019;-CH<sub>3</sub>), 30.32, 31.02 (C-5), 48.85 (C-6), 124.03 (Ar-C-6&#x2019;), 127.53 (Ar-C-2&#x2019;), 129.85 (Ar-C-5&#x2019;), 135.47 (Ar-C-4&#x2019;), 136.89 (Ar-C-3&#x2019;), 142.80 (Ar-C-1&#x2019;), 166.74, 166.83 (C-4), 179.14(C-2).</td>
+                <td colspan="4" align="left" valign="top">3176.11 (NH), 1717.41 (C=O), 1209.38 (&gt;N&#x2212;<underline>CS</underline>&#x2212;N&lt; ).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>13c</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 2.28 (s, 6H, 3&#x2019;,5&#x2019;-CH<sub>3</sub>Ar), 2.78 (t, J = 6.9 Hz, 2H, CH<sub>2</sub>CO), 3.85 (t, J = 6.9 Hz, 2H, CH<sub>2</sub>N), 6.85-7.00 (m, 3H, Ar), 11.20 (bs, 1H, NH). </td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 20.67 (3&#x2019;,5&#x2019;-CH<sub>3</sub>), 30.32 (C-5), 48.76 (C-6), 124.32 (Ar-C-2&#x2019;, Ar-C-6&#x2019;), 128.80 (Ar-C-4&#x2019;), 138.16 (Ar-C-3&#x2019;, Ar-C-5&#x2019;), 144.94 (Ar-C-1&#x2019;), 166.84 (C-4), 179.00 (C-2).</td>
+                <td colspan="4" align="left" valign="top">3186.44 (NH), 1736.13 (C=O), 1219.63 (&gt;N&#x2212;<underline>CS</underline>&#x2212;N&lt; ).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>14a</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.12, 1.15 (2d, J = 6.8 Hz, 3H, 5-<underline>CH</underline><sub>3</sub>), 2.04, 2.08 (2s, 3H, 2&#x2019;-CH<sub>3</sub>Ar), 2.26 (s, 3H, 3&#x2019;-CH<sub>3</sub>Ar), 2.80-2.99 (m, 1H, CHCO), 3.38-3.64 (m, 2H, CH<sub>2</sub>N), 7.05-7.20 (m, 3H, Ar), 10.29, 10.30 (2bs, 1H, NH).</td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 12.01, 12.65 (5-CH<sub>3</sub>), 13.84 (2&#x2019;-CH<sub>3</sub>), 19.86 19.95 (3&#x2019;-CH<sub>3</sub>), 34.80 (C-5), 51.01, 51.10 (C-6), 124.18, 125.14 (Ar-C-6&#x2019;), 125.13, 126.08 (Ar-C-5&#x2019;), 128.51, 128.76 (Ar-C-4&#x2019;), 133.87, 134.22 (Ar-C-2&#x2019;), 137.34, 137.38 (Ar-C-3&#x2019;), 140.67 (Ar-C-1&#x2019;), 151.83, 151.92, 152.65 (C-2), 173.08, 173.17, 173.27, 173.36 (C-4).</td>
+                <td colspan="4" align="left" valign="top">3244.38 (NH), 1732.98 (C=O), 1694.97 (C=O).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>14b</bold></td>
+                <td align="left" valign="top">(CDCl<sub>3</sub>) 1.31 (d, J = 7.0 Hz, 3H, 5-CH<sub>3</sub>), 2.26 (s, 6H, 3&#x2019;,4&#x2019;-CH<sub>3</sub>Ar), 2.73-3.00 (m, 1H, CH), 3.51-4.05 (m, 2H, CH<sub>2</sub>N), 7.03-7.40 (m, 3H, Ar), 7.81 (s, 1H, NH).</td>
+                <td align="center" valign="middle">&#x2013;</td>
+                <td colspan="4" align="center" valign="middle">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>14c</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.12 (d, J = 7.0 Hz, 3H, 5-CH<sub>3</sub>), 2.26 (s, 6H, 3&#x2019;,5&#x2019;-CH<sub>3</sub>Ar), 2.74-2.92 (m, 3H, CH<sub>2</sub>CO), 3.50-3.75 (m, 2H, CH<sub>2</sub>N), 6.86, 6.93 (2s, 3H, Ar), 10.30 (bs, 1H, NH).</td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 12.16 (5-CH<sub>3</sub>), 20.74 (3&#x2019;,5&#x2019;-CH<sub>3</sub>), 34.89 (C-5), 50.88 (C-6), 122.88 (Ar-C-2&#x2019;, Ar-C-6&#x2019;), 127.22 (Ar-C-4&#x2019;), 137.66 (Ar-C-3&#x2019;, Ar-C-5&#x2019;), 141.81 (Ar-C-1&#x2019;), 151.97 (C-2), 173.17, (C-4).</td>
+                <td colspan="4" align="left" valign="top">3201.75 (NH), 1724.34 (C=O), 1682.58 (C=O).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>15a</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.15 (d, J = 6.9 Hz. 3H, 5-CH<sub>3</sub>), 2.05, 2.09 (2s, 3H, 2&#x2019;-CH<sub>3</sub>Ar), 2.26, 2.27 (2s, 3H, 3&#x2019;-CH<sub>3</sub>Ar), 2.98-3.20 (m, 1H, CHCO), 3.65-3.90 (m, 2H, CH<sub>2</sub>N), 7.00-7.16 (m, 3H, Ar), 11.19, 11.23 (2s, 1H, NH). </td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 11.86, 12.05 (5-CH<sub>3</sub>), 13.85 (2&#x2019;-CH<sub>3</sub>), 19.78, 19.86 (3&#x2019;-CH<sub>3</sub>), 33.93, 34.06 (C-5), 53.77, 53.84 (C-6), 124.16, 124,72 (Ar-C-6&#x2019;), 126.20, 126.43 (Ar-C-5&#x2019;), 129.04, 129.15 (Ar-C-4&#x2019;), 133.04, 133.24 (Ar-C-2&#x2019;), 137.56 (Ar-C-3&#x2019;), 143.65 (Ar-C-1&#x2019;), 169.62, 169.71, 169.84, 169.93 (C-4), 178.31, 178.44, 178.66 (C-2).</td>
+                <td colspan="4" align="left" valign="top">3177.51 (NH), 1701.97 (C=O), 1210.30 (&gt;N&#x2212;<underline>CS</underline>&#x2212;N&lt; ).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>15b</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.16 (d, J = 6.9 Hz, 3H, 5-CH<sub>3</sub>), 2.27 (s, 6H, 3&#x2019;,4&#x2019;-CH<sub>3</sub>Ar), 2.91-3.07 (m, 1H, CHCO), 3.72-3.91 (m, 2H, CH<sub>2</sub>N), 7.00-7.26 (m, 3H, Ar), 11.24 (s, 1H, NH). </td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 11.95 (5-CH<sub>3</sub>), 18.89 (4&#x2019;-CH<sub>3</sub>), 19.26 (3&#x2019;-CH<sub>3</sub>), 34.17 (C-5), 54.67 (C-6), 123.99 (C-6&#x2019;), 127.46 (Ar-C-2&#x2019;), 129.85 (Ar-C-5&#x2019;), 135.46 (Ar-C-4&#x2019;), 136.93 (Ar-C-3&#x2019;), 142.70 (Ar-C-1&#x2019;), 169.84 (C-4), 179.02 (C-2).</td>
+                <td colspan="4" align="left" valign="top">3174.29 (NH), 1703.01 (C=O), 1211.74 (&gt;N&#x2212;<underline>CS</underline>&#x2212;N&lt; ).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>15c</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.14 (d, J = +6.9 Hz, 3H, 5-CH<sub>3</sub>), 2.33 (s, 6H, 3&#x2019;,5&#x2019;-CH<sub>3</sub>Ar), 2.88-3.17 (m, 3H, CHCO), 3.69-3.99 (m, 2H, CH<sub>2</sub>N), 6.85-7.00 (2s, 3H, Ar), 11.20 (s, 1H, NH).</td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 11.92, 14.74 (5-CH<sub>3</sub>), 20.67, 20.74 (3&#x2019;,5&#x2019;-CH<sub>3</sub>), 34.17 (C-5), 54.60 (C-6), 124.28,124.87 (Ar-C-2&#x2019;, Ar-C-6&#x2019;), 128.77, 129.38 (C-4&#x2019;), 138.18, 139.06 (Ar-C-3&#x2019;, Ar-C-5&#x2019;), 144.84 (Ar-C-1&#x2019;), 169.83 (C-4), 178.93 (C-2).</td>
+                <td colspan="4" align="left" valign="top">3252.42 (NH), 1730.95 (C=O) 1207.11 (&gt;N&#x2212;<underline>CS</underline>&#x2212;N&lt; ).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>16a</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 0.99, 1.17 (2d, J = 5.0 Hz, J = 5.1 Hz, 6-CH<sub>3</sub>), 2.04, 2.09 (2s, 3H, 2&#x2019;-CH<sub>3</sub>Ar), 2.27 (s, 3H, 3&#x2019;-CH<sub>3</sub>Ar), 2.40-3.15 (m, 2H, CH<sub>2</sub>CO), 3.60-4.10 (m, 1H, CHN), 6.95-7.20 (m, 3H, Ar), 10.37 (2bs, 1H, NH).</td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 13.78, 14.50 (2&#x2019;-CH<sub>3</sub>), 18.17, 18.70 (6-CH<sub>3</sub>), 19.96 19.98 (3&#x2019;-CH<sub>3</sub>), 37.64, 38.16 (C-5), 50.18, 51.23 (C-6), 125.24, 125,43 (Ar-C-6&#x2019;), 125.99, 127.26 (A-C-5&#x2019;), 128.62, 128.89 (Ar-C-4&#x2019;), 134.20,135.42 (Ar-C-2&#x2019;), 137.16, 137,76 (Ar-C-3&#x2019;), 138,81, 139.16 (Ar-C-1&#x2019;), 151.16, 151.37 (C-2), 169, 94 (C-4).</td>
+                <td colspan="4" align="left" valign="top">3185.92 (NH), 1714.33 (C=O), 1678.05 (C=O).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>16c</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.16 (d, J = 6.6 Hz, 3H, 6-CH<sub>3</sub>), 2.27 (s, 6H, 3&#x2019;,5&#x2019;-CH<sub>3</sub>Ar), 2.37-3.15 (m, 3H, CH<sub>2</sub>CO), 3.90-4.10 (m, 1H, CHN), 6.93 (s, 3H, Ar), 10.35 (bs, 1H, NH).</td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 18.48 (6-CH<sub>3</sub>), 20.69 (3&#x2019;,5&#x2019;-CH<sub>3</sub>), 37.76 (C-5), 51.31 (C-6), 125.02 (Ar-C-2&#x2019;, Ar-C-6&#x2019;), 128.10 (Ar-C-4&#x2019;), 137.91 (Ar-C-3&#x2019;, Ar-C-5&#x2019;), 140.51 (Ar-C-1&#x2019;), 151.29 (C-2), 169.95 (C-4).</td>
+                <td colspan="4" align="left" valign="top">3205.99 (NH), 1728.28 (C=O), 1690.29 (C=O).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>17a</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.01, 1.18 (2d, J = 6.7 Hz, 3H, 6-CH<sub>3</sub>), 2.07 (s, 3H, 3&#x2019;-CH<sub>3</sub>Ar), 2.26, 2.28 (2s, 3H, 2&#x2019;-CH<sub>3</sub>Ar), 2.50-3.25 (m, 2H, CH<sub>2</sub>CO), 3.80-4.25 (m, 1H, CHN), 6.99-7.20 (m, 3H, Ar), 11.27, 11.32 (2s, 1H, NH).  </td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 13.78, 15.00 (2&#x2019;-CH<sub>3</sub>), 17.52 18.01 (6-CH<sub>3</sub>), 19.88 (3&#x2019;-CH<sub>3</sub>), 36.90, 37.37, 37.62 (C-5), 53.69, 55.12 (C-6), 124.73, 125.60 (Ar-C-6&#x2019;), 126.41, 126.50 (Ar-C-5&#x2019;), 129.00, 129.20 (Ar-C-4&#x2019;), 133.18, 134.54 (Ar-C-2&#x2019;), 137.32, 137.86 (Ar-C-3&#x2019;), 142.01, 142.15 (Ar-C-1&#x2019;), 166.35, 166.51 (C-4), 177.92, 178.05 (C-2).</td>
+                <td colspan="4" align="left" valign="top">3221.61 (NH), 1702.49 (C=O), 1209.98 (&gt;N&#x2212;<underline>CS</underline>&#x2212;N&lt; ).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>17c</bold></td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 1.23 (d, J = 6.7 Hz, 3H, 6-CH<sub>3</sub>), 2.34 (s, 6H, 3&#x2019;,5&#x2019;-CH<sub>3</sub>Ar), 2.45-3.30 (m, 3H, CH<sub>2</sub>CO), 3.96-4.12 (m, 1H, CHN), 6.96, 7.04 (2s, 3H, Ar), 11.29 (s, 1H, NH.</td>
+                <td align="left" valign="top">(d<sub>6</sub>-DMSO) 17.63 (6-CH<sub>3</sub>), 20.66 (3&#x2019;,5&#x2019;-CH<sub>3</sub>), 36.90 (C-5), 55.18 (C-6), 125.01, 125.39 (Ar-C-2&#x2019;, Ar-C-6&#x2019;), 129.07 (Ar-C-4&#x2019;), 138.20 (Ar-C-3&#x2019;, Ar-C-5&#x2019;), 143.62 (Ar-C-1&#x2019;), 166.34, 166.43 (C-4), 177.96 (C-2).</td>
+                <td colspan="4" align="left" valign="top">3219.94 (NH), 1734.70 (C=O), 1220.85 (&gt;N&#x2212;<underline>CS</underline>&#x2212;N&lt; ).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>18a</bold></td>
+                <td align="left" valign="top">(CDCl<sub>3</sub>) 1.24 (d, J = 6.8 Hz. 3H, 5-CH<sub>3</sub>), 1.39 (t, J = 7.1 Hz, 3H, COOCH<sub>2</sub><underline>CH</underline><sub>3</sub>), 1.96, 1.98 (2s, 3H, 2-CH<sub>3</sub>), 2.19, 2.25 (2s, 3H, 2&#x2019;-CH<sub>3</sub>Ar), 2.33, 2.34 (2s, 3H, 3&#x2019;-CH<sub>3</sub>), 2.60-2.82 (m, 1H, CHCO), 3.42-3.70 (m, 2H, CH<sub>2</sub>N), 4.30 (k, J = 7.1 Hz, COO<underline>CH<sub>2</sub></underline>CH<sub>3</sub>), 6.90-7.30 (m, 3H, Ar). </td>
+                <td align="left" valign="top">(CDCl<sub>3</sub>) 12.88, 13.19 (5-CH<sub>3</sub>), 14.41 (COOCH<sub>2</sub><underline>CH</underline><sub>3</sub>), 14.21, 14.25 (2&#x2019;-CH<sub>3</sub>), 19.17, 19.33 (2-CH<sub>3</sub>), 20.36, 20.43 (3&#x2019;-CH<sub>3</sub>), 60.49 (COO<underline>CH</underline><sub>2</sub>CH<sub>3</sub>), 106.02 (C-3), 38.40, 38.49 (C-5), 57.08, 57.28 (C-6), 124,44, 125.15 (Ar-C-6&#x2019;), 127.00, 127.08 (Ar-C-5&#x2019;), 130.11, 130.17 (Ar-C-4&#x2019;), 133.64, 133.70 (Ar-C-2&#x2019;), 139.20, 139.25 (Ar-C-3&#x2019;), 142.75, 142.81 (Ar-C-1&#x2019;), 163.47, 163.61 (C-2), 167.99, 168.03 (COOCH<sub>2</sub>CH<sub>3</sub>), 190.25, 190.36 (C-4).</td>
+                <td align="left" valign="top">1663.80 (C=O), 1249.25 (C&#x2212;O&#x2212;).</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>18c</bold></td>
+                <td align="left" valign="top">(CDCl<sub>3</sub>) 1.18 (d, J = 6.9 Hz. 3H, 5-CH<sub>3</sub>), 1.34 (t, J = 7.1 Hz, 3H, COOCH<sub>2</sub><underline>CH<sub>3</sub></underline>), 2.00 (s, 3H, 2-CH<sub>3</sub>), 2.34 (s, 6H, 3&#x2019;,5&#x2019;-Ar), 2.54-2.73 (m, 1H, CHCO), 3.53-3.83 (m, 3H, CH<sub>2</sub>N), 4.28 (k, J = 7.1 Hz, 2H, COO<underline>CH</underline><sub>2</sub>CH<sub>3</sub>), 6.77, 6.99 (2s, 3H, Ar).</td>
+                <td align="left" valign="top">(CDCl<sub>3</sub>) 12.99 (5-CH<sub>3</sub>), 14.39 (COOCH<sub>2</sub><underline>CH<sub>3</sub></underline>), 19.74 (2-CH<sub>3</sub>), 21.20 (3&#x2019;,5&#x2019;-CH<sub>3</sub>), 38.75 (C-5), 58.06, (C-6), 60.53 (COO<underline>CH<sub>2</sub></underline>CH<sub>3</sub>), 106.70 (C-3), 124.11 (Ar-C-2&#x2019;, C-6&#x2019;), 129.75 (C-4&#x2019;), 139.87 (C-3&#x2019;,C-5&#x2019;), 144.05 (Ar-C-1&#x2019;), 162.54 (C-2), 168.06 (COOCH<sub>2</sub>CH<sub>3</sub>), 190.52 (C-4).</td>
+                <td align="left" valign="top">1726.31 (C=O), 1258.74 (C&#x2212;O&#x2212;).</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap id="molecules-10-00407-t002" position="float">
+          <object-id pub-id-type="pii">molecules-10-00407-t002_Table 2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>The physical, analytical and yield data of the studied compounds</p>
+          </caption>
+          <table rules="all" style="border:solid thin">
+            <thead>
+              <tr>
+                <th rowspan="2" align="center" valign="middle">Compounds</th>
+                <th rowspan="2" align="center" valign="middle">M. p., &#xB0;C; (Solv.*)</th>
+                <th rowspan="2" align="center" valign="middle">Molecular Formula</th>
+                <th colspan="3" align="center" valign="middle">Elemental analysis data (Calculated / Found) %</th>
+                <th rowspan="2" align="center" valign="middle">Yield, %</th>
+              </tr>
+              <tr>
+                <th align="center" valign="middle">C</th>
+                <th align="center" valign="middle">H</th>
+                <th align="center" valign="middle">N</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" valign="middle"><bold>2a</bold></td>
+                <td align="center" valign="middle">168-195</td>
+                <td align="center" valign="middle">C<sub>14</sub>H<sub>19</sub>NO<sub>4</sub>&#xB7;HCl</td>
+                <td align="center" valign="middle">55.71 / 55.48</td>
+                <td align="center" valign="middle">6.69 / 6.58</td>
+                <td align="center" valign="middle">4.64 / 4.32</td>
+                <td align="center" valign="middle">62.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>2b</bold></td>
+                <td align="center" valign="middle">194-195</td>
+                <td align="center" valign="middle">C<sub>14</sub>H<sub>19</sub>NO<sub>4</sub>&#xB7;HCl</td>
+                <td align="center" valign="middle">55.71 / 55.41</td>
+                <td align="center" valign="middle">6.69 / 6.42</td>
+                <td align="center" valign="middle">4.64 / 4.79</td>
+                <td align="center" valign="middle">54.9</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>3a</bold></td>
+                <td align="center" valign="middle">101-102</td>
+                <td align="center" valign="middle">C<sub>11</sub>H<sub>15</sub>NO<sub>2</sub></td>
+                <td align="center" valign="middle">68.37 / 68.24</td>
+                <td align="center" valign="middle">7.82 / 7.68</td>
+                <td align="center" valign="middle">7.25 / 7.14</td>
+                <td align="center" valign="middle">25.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>3b</bold></td>
+                <td align="center" valign="middle">151-158</td>
+                <td align="center" valign="middle">C<sub>11</sub>H<sub>15</sub>NO<sub>2</sub>&#xB7;HCl</td>
+                <td align="center" valign="middle">57.51 / 57.29</td>
+                <td align="center" valign="middle">7.03 / 7.31</td>
+                <td align="center" valign="middle">6.10 / 6.34</td>
+                <td align="center" valign="middle">26.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>3c</bold></td>
+                <td align="center" valign="middle">186-187</td>
+                <td align="center" valign="middle">C<sub>11</sub>H<sub>15</sub>NO<sub>2</sub>&#xB7;HCl</td>
+                <td align="center" valign="middle">57.51 / 57.28</td>
+                <td align="center" valign="middle">7.03 / 7.29</td>
+                <td align="center" valign="middle">6.10 / 6.26</td>
+                <td align="center" valign="middle">37.5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>4a</bold></td>
+                <td align="center" valign="middle">100-101</td>
+                <td align="center" valign="middle">C<sub>12</sub>H<sub>17</sub>NO<sub>2</sub></td>
+                <td align="center" valign="middle">69.54 / 69.67</td>
+                <td align="center" valign="middle">8.27 / 8.35</td>
+                <td align="center" valign="middle">6.76 / 6.92</td>
+                <td align="center" valign="middle">38.0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>4b</bold></td>
+                <td align="center" valign="middle">185-186</td>
+                <td align="center" valign="middle">C<sub>12</sub>H<sub>17</sub>NO<sub>2</sub>&#xB7;HCl</td>
+                <td align="center" valign="middle">59.14 / 59.02</td>
+                <td align="center" valign="middle">7.46 / 7.64</td>
+                <td align="center" valign="middle">5.75 / 5.49</td>
+                <td align="center" valign="middle">34.1</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>4c</bold></td>
+                <td align="center" valign="middle">129-130</td>
+                <td align="center" valign="middle">C<sub>12</sub>H<sub>17</sub>NO<sub>2</sub></td>
+                <td align="center" valign="middle">69.54 / 69.22</td>
+                <td align="center" valign="middle">8.27 / 8.11</td>
+                <td align="center" valign="middle">6.76 / 6.36</td>
+                <td align="center" valign="middle">58.3</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>5a</bold></td>
+                <td align="center" valign="middle">166-167</td>
+                <td align="center" valign="middle">C<sub>12</sub>H<sub>17</sub>NO<sub>2</sub>&#xB7;HCl</td>
+                <td align="center" valign="middle">59.14 / 58.98</td>
+                <td align="center" valign="middle">7.46 / 7.31</td>
+                <td align="center" valign="middle">5.75 / 5.36</td>
+                <td align="center" valign="middle">66.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>5c</bold></td>
+                <td align="center" valign="middle">170-172</td>
+                <td align="center" valign="middle">C<sub>12</sub>H<sub>17</sub>NO<sub>2</sub>&#xB7;HCl</td>
+                <td align="center" valign="middle">59.14 / 58.96</td>
+                <td align="center" valign="middle">7.46 / 7.28</td>
+                <td align="center" valign="middle">5.75 / 5.61</td>
+                <td align="center" valign="middle">69.6</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>8b</bold></td>
+                <td align="center" valign="middle">184-186</td>
+                <td align="center" valign="middle">C<sub>13</sub>H<sub>18</sub>N<sub>2</sub>O<sub>3</sub></td>
+                <td align="center" valign="middle">62.38 / 62.16</td>
+                <td align="center" valign="middle">7.25 / 7.38</td>
+                <td align="center" valign="middle">11.19 / 11.32</td>
+                <td align="center" valign="middle">75.4 </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>12a</bold></td>
+                <td align="center" valign="middle">204-206</td>
+                <td align="center" valign="middle">C<sub>12</sub>H<sub>14</sub>N<sub>2</sub>O<sub>2</sub></td>
+                <td align="center" valign="middle">66.04 / 65.89</td>
+                <td align="center" valign="middle">6.47 / 6.64</td>
+                <td align="center" valign="middle">12.84 / 12.66</td>
+                <td align="center" valign="middle">57.6</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>12b</bold></td>
+                <td align="center" valign="middle">179-181</td>
+                <td align="center" valign="middle">C<sub>12</sub>H<sub>14</sub>N<sub>2</sub>O<sub>2</sub></td>
+                <td align="center" valign="middle">66.04 / 66.24</td>
+                <td align="center" valign="middle">6.47 / 6.31</td>
+                <td align="center" valign="middle">12.84 / 12.61</td>
+                <td align="center" valign="middle">41.4</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>12c</bold></td>
+                <td align="center" valign="middle">179-180</td>
+                <td align="center" valign="middle">C<sub>12</sub>H<sub>14</sub>N<sub>2</sub>O<sub>2</sub></td>
+                <td align="center" valign="middle">66.04 / 66.31</td>
+                <td align="center" valign="middle">6.47 / 6.67</td>
+                <td align="center" valign="middle">12.84 / 12.65</td>
+                <td align="center" valign="middle">29.4</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>13a</bold></td>
+                <td align="center" valign="middle">242-244</td>
+                <td align="center" valign="middle">C<sub>12</sub>H<sub>14</sub>N<sub>2</sub>OS</td>
+                <td align="center" valign="middle">61.51 / 61.32</td>
+                <td align="center" valign="middle">6.02 / 5.84</td>
+                <td align="center" valign="middle">11.96 / 11.72</td>
+                <td align="center" valign="middle">51.3</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>13b</bold></td>
+                <td align="center" valign="middle">247-249</td>
+                <td align="center" valign="middle">C<sub>12</sub>H<sub>14</sub>N<sub>2</sub>OS</td>
+                <td align="center" valign="middle">61.51 / 61.44</td>
+                <td align="center" valign="middle">6.02 / 5.87</td>
+                <td align="center" valign="middle">11.96 / 11.79</td>
+                <td align="center" valign="middle">50.9</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>13c</bold></td>
+                <td align="center" valign="middle">263-264</td>
+                <td align="center" valign="middle">C<sub>12</sub>H<sub>14</sub>N<sub>2</sub>OS</td>
+                <td align="center" valign="middle">61.51 / 61.39</td>
+                <td align="center" valign="middle">6.02 / 5.79</td>
+                <td align="center" valign="middle">11.96 / 11.75</td>
+                <td align="center" valign="middle">60.5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>14a</bold></td>
+                <td align="center" valign="middle">196-197</td>
+                <td align="center" valign="middle">C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>O<sub>2</sub></td>
+                <td align="center" valign="middle">67.22 / 67.05</td>
+                <td align="center" valign="middle">6.94 / 6.77</td>
+                <td align="center" valign="middle">12.06 / 12.27</td>
+                <td align="center" valign="middle">60.3</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>14b</bold></td>
+                <td align="center" valign="middle">135-136</td>
+                <td align="center" valign="middle">C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>O<sub>2</sub></td>
+                <td align="center" valign="middle">67.22 / 67.41</td>
+                <td align="center" valign="middle">6.94 / 6.78</td>
+                <td align="center" valign="middle">12.06 / 12.20</td>
+                <td align="center" valign="middle">78.3</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>14c</bold></td>
+                <td align="center" valign="middle">155-156</td>
+                <td align="center" valign="middle">C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>O<sub>2</sub></td>
+                <td align="center" valign="middle">67.22 / 67.38</td>
+                <td align="center" valign="middle">6.94 / 6.81</td>
+                <td align="center" valign="middle">12.06 / 12.34</td>
+                <td align="center" valign="middle">33.2</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>15a</bold></td>
+                <td align="center" valign="middle">187-188</td>
+                <td align="center" valign="middle">C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>OS</td>
+                <td align="center" valign="middle">62.87 / 62.69</td>
+                <td align="center" valign="middle">6.49 / 6.65</td>
+                <td align="center" valign="middle">11.28 / 11.47</td>
+                <td align="center" valign="middle">39.5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>15b</bold></td>
+                <td align="center" valign="middle">188-190</td>
+                <td align="center" valign="middle">C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>OS</td>
+                <td align="center" valign="middle">62.87 / 62.64</td>
+                <td align="center" valign="middle">6.49 / 6.35</td>
+                <td align="center" valign="middle">11.28 / 11.41</td>
+                <td align="center" valign="middle">38.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>15c</bold></td>
+                <td align="center" valign="middle">206-208</td>
+                <td align="center" valign="middle">C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>OS</td>
+                <td align="center" valign="middle">62.87 / 62.69</td>
+                <td align="center" valign="middle">6.49 / 6.62</td>
+                <td align="center" valign="middle">11.28 / 11.05</td>
+                <td align="center" valign="middle">47.8</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>16a</bold></td>
+                <td align="center" valign="middle">214 -216</td>
+                <td align="center" valign="middle">C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>O<sub>2</sub></td>
+                <td align="center" valign="middle">67.22 / 67.32</td>
+                <td align="center" valign="middle">6.94 / 6.75</td>
+                <td align="center" valign="middle">12.06 / 12.32</td>
+                <td align="center" valign="middle">31.4</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>16c</bold></td>
+                <td align="center" valign="middle">181-182</td>
+                <td align="center" valign="middle">C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>O<sub>2</sub></td>
+                <td align="center" valign="middle">67.22 / 67.07</td>
+                <td align="center" valign="middle">6.94 / 6.72</td>
+                <td align="center" valign="middle">12.06 / 12.28</td>
+                <td align="center" valign="middle">38.4</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>17a</bold></td>
+                <td align="center" valign="middle">224 -226</td>
+                <td align="center" valign="middle">C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>OS</td>
+                <td align="center" valign="middle">62.87 / 62.45</td>
+                <td align="center" valign="middle">6.49 / 6.58</td>
+                <td align="center" valign="middle">11.28 / 11.11</td>
+                <td align="center" valign="middle">26.6</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>17c</bold></td>
+                <td align="center" valign="middle">254-255</td>
+                <td align="center" valign="middle">C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>OS</td>
+                <td align="center" valign="middle">62.87 / 62.45</td>
+                <td align="center" valign="middle">6.49 / 6.31</td>
+                <td align="center" valign="middle">11.28 / 11.40</td>
+                <td align="center" valign="middle">38.5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>18a</bold></td>
+                <td align="center" valign="middle">109-110</td>
+                <td align="center" valign="middle">C<sub>18</sub>H<sub>23</sub>NO<sub>3</sub></td>
+                <td align="center" valign="middle">71.73 / 71.55</td>
+                <td align="center" valign="middle">7.69 / 7.49</td>
+                <td align="center" valign="middle">4.65 / 4.41</td>
+                <td align="center" valign="middle">17.0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><bold>18c</bold></td>
+                <td align="center" valign="middle">111-112</td>
+                <td align="center" valign="middle">C<sub>18</sub>H<sub>23</sub>NO<sub>3</sub></td>
+                <td align="center" valign="middle">71.73 / 71.46</td>
+                <td align="center" valign="middle">7.69 / 7.82</td>
+                <td align="center" valign="middle">4.65 / 4.47</td>
+                <td align="center" valign="middle">6.6</td>
+              </tr>
+            </tbody>
+          </table>
+		<table-wrap-foot>
+<fn>		
+        <p>*Solvents for crystallization:  <bold>2a,b, 3b,c, 4b, 5a,c</bold> &#x2013; acetic acid, rest &#x2013; ethanol.</p>
+		</fn>
+		</table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-00407">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baltrusis</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Mickevicius</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Bylinskaite</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zolotojabko</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Liepins</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and structure of 6-methyl-1-(2-R-phenyl)dihydro-2,4(1H,3H)pyrimidinedione derivatives</article-title>
+          <source>Khim. Geterotsikl. Soedin.</source>
+          <year>1990</year>
+          <volume>8</volume>
+          <fpage>1096</fpage>
+          <lpage>1106</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00407">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mickevicius</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Baltrusis</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bylinskaite</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Liepins</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Zolotojabko</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and structure of 5-methyl-1-(2-R- phenyl)-dihydro-2,4(1H,3H)pyrimidinediones and its 2-thio analogues</article-title>
+          <source>Khim. Geterotsikl. Soedin.</source>
+          <year>1991</year>
+          <volume>9</volume>
+          <fpage>1240</fpage>
+          <lpage>1247</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00407">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalinowski</surname>
+              <given-names>H. O.</given-names>
+            </name>
+            <name>
+              <surname>Berger</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Braun</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source><sup>13</sup>C-NMR-Spektroskopie</source>
+          <publisher-name>Georg Thieme Verlag</publisher-name>
+          <publisher-loc>Stuttgart, New York</publisher-loc>
+          <year>1984</year>
+          <fpage>97</fpage>
+          <lpage>286</lpage>
+          <page-range>97-99, 141, 228, 283-286</page-range>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00407">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beresneviciute</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Beresnevicius</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Mikulskiene</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kihlberg</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Broddefalk</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title><sup>13</sup>C-NMR study of dihydropyrimidinedione and dihydropyrimidine-2-thione derivatives</article-title>
+          <source>J. Magn. Reson. Chem.</source>
+          <year>1997</year>
+          <volume>35</volume>
+          <fpage>553</fpage>
+          <lpage>555</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00407">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duddeck</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Dietrich</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>T&#xF3;th</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Structure Elucidation by Modern NMR</source>
+          <publisher-name>Steinkopff</publisher-name>
+          <publisher-loc>Darmstadt</publisher-loc>
+		  <publisher-name>Springer</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1998</year>
+		  <fpage>10</fpage>
+		  <lpage>29</lpage>
+		  <page-range>10-14, 23-29</page-range>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	<fn>
+        <p><italic>Sample Availability:</italic> Available from the authors with the exception of <bold>6</bold>-<bold>11</bold>.</p>
+	</fn>
+</fn-group>	
+  </back>
+</article>

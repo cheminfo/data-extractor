@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10010289</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00289</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>An Electron Transfer Approach to the Preparation of Highly Functionalized Anthraquinones</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Beziane</surname>
+            <given-names>Abdelouahab</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Terme</surname>
+            <given-names>Thierry</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vanelle</surname>
+            <given-names>Patrice</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00289" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00289">Laboratoire de Chimie Organique Pharmaceutique, CNRS&#x2013;UMR 6517, Facult&#xE9; de Pharmacie, 27 Bd Jean Moulin, 13385 Marseille Cx 5, France</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00289"><label>*</label>To whom correspondence should be addressed; E-mail: <email>patrice.vanelle@pharmacie.univ-mrs.fr</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <fpage>289</fpage>
+      <lpage>294</lpage>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>08</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>09</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A series of highly functionalized quinones was prepared by an original reaction of 2,3-bis(chloromethyl)-1,4-dimethoxyanthraquinone (<bold>6</bold>) with various nitronate anions under electron transfer reaction conditions.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Anthraquinones</kwd>
+		<kwd>electron transfer</kwd>
+		<kwd>anthracyclines</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The efficacy of anthracycline antibiotics such as daunomycin and adriamycin in the treatment of a variety of human malignancies has stimulated a continued interest in the synthesis of this class of antitumor agents [<xref ref-type="bibr" rid="B1-molecules-10-00289">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-00289">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00289">3</xref>]. Unfortunately, their clinical use is limited by a number of problems, including intrinsic and acquired drug resistance and dose-dependent cardiomyopathy. Considerable efforts have been devoted to develop new structurally modified anthracyclines with an improved antineoplastic activity and a low cardiotoxicity.</p>
+	  <disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00289-i001.tif"/>
+        </disp-formula>
+      <p>As bioreductible alkylating agents, quinones constitute potential substrates for the radical nucleophilic substitution (S<sub>RN</sub>1) reaction [<xref ref-type="bibr" rid="B4-molecules-10-00289">4</xref>]. In connection with our program directed toward the synthesis of new nitroheterocyclic or quinonic bioreductible alkylating agents using electron transfer methodology [<xref ref-type="bibr" rid="B5-molecules-10-00289">5</xref>], we report herein the preparation of 2,3-bis(chloromethyl)-1,4-dimethoxyanthraquinone (<bold>6</bold>) via a four-step synthesis from phthalic anhydride (<bold>1</bold>) and 2,3-dimethyl-1,4-hydroquinone (<bold>2</bold>) and the study of its reactivity with various anions to afford new highly functionalized anthraquinonic derivatives.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>1,4-Dihydroxy-2,3-dimethylanthraquinone (<bold>3</bold>) was isolated in 80% yield after condensation of phthalic anhydride (<bold>1</bold>) and 2,3-dimethyl-1,4-hydroquinone (<bold>2</bold>) in the presence of aluminium chloride [<xref ref-type="bibr" rid="B6-molecules-10-00289">6</xref>]. The methylation of compound <bold>3</bold> with dimethylsulfate (DMS) in acetone followed by radical bromination using <italic>N</italic>-bromosuccinimide (NBS) and halogen exchange reaction with lithium chloride furnished the target <bold>6</bold> (<xref ref-type="scheme" rid="molecules-10-00289-f001">Scheme 1</xref>).</p>
+      <fig id="molecules-10-00289-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00289-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00289-g001.tif"/>
+      </fig>
+      <p>Treated under various electron transfer operating conditions with 2-nitropropane anion, the bis-chloride <bold>6</bold> led to the bis-<italic>C</italic>-alkylation product <bold>7a</bold> (<xref ref-type="scheme" rid="molecules-10-00289-f002">Scheme 2</xref>). The best yield of bis-<italic>C</italic>-alkylated product <bold>7a</bold> was obtained in phase transfer conditions using dichloromethane as solvent with 5 equivalents of 2-nitropropane anion during 20 minutes under inert atmosphere and light catalysis. The reaction of <bold>6</bold> with 2-nitropropane anion, in the optimal conditions, in presence of classical inhibitors (<italic>p</italic>-dinitrobenzene as radical-anion scavenger, 2,2,6,6-tetramethyl-1-piperidinyloxy or TEMPO as radical trap and CuCl<sub>2</sub>) gave effective inhibition, indicating a classical bis-S<sub>RN</sub>1 mechanism for the formation of <bold>7a</bold>.</p>
+      <fig id="molecules-10-00289-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00289-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00289-g002.tif"/>
+      </fig>
+      <p>This bis-S<sub>RN</sub>1 reaction was extended with various primary and secondary (cyclic, heterocyclic) nitronate anions (<xref ref-type="scheme" rid="molecules-10-00289-f002">Scheme 2</xref>) or <italic>S</italic>-centered anions (<xref ref-type="scheme" rid="molecules-10-00289-f003">Scheme 3</xref>) and allowed us to reach at a series of new highly functionalized anthraquinones. These bis-<italic>C</italic>-alkylated compounds <bold>7a-f</bold> are good candidates for the preparation of anthracycline analogs <italic>via</italic> an annulation reaction after base promoted nitrous acid elimination [<xref ref-type="bibr" rid="B7-molecules-10-00289">7</xref>].</p>
+      <fig id="molecules-10-00289-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00289-scheme3_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00289-g003.tif"/>
+      </fig>
+      <p>The extension of the reactivity to <italic>S</italic>-centered anions was realized from toluenesulfinic acid sodium salt or butanesulfinic acid sodium salt. This latter anion was formed from butane sulfonyl chloride according to the procedure of Liu [<xref ref-type="bibr" rid="B8-molecules-10-00289">8</xref>]. These two reactions treated in refluxed DMSO during 2 hours furnished the corresponding bis-<italic>S</italic>-alkylated compounds <bold>7g</bold> and <bold>7h</bold> in 73% and 96% yields, respectively (<xref ref-type="scheme" rid="molecules-10-00289-f003">Scheme 3</xref>).</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>In conclusion, we have demonstrated in this work that the reaction of a new bis(chloromethyl)anthraquinone <bold>6</bold> with nitronate anions proceeded according to an bis-S<sub>RN</sub>1 mechanism. This procedure permitted us to prepare new highly functionalized anthraquinones in excellent yields. The antiproliferative activities of these compounds are under active investigation.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Melting points were determined on B&#xFC;chi B-540 and are uncorrected. Elemental analyses were performed by the Centre de Microanalyses of the University of Aix-Marseille 3. Both <sup>1</sup>H- and <sup>13</sup>C&#x2011;NMR spectra were determined on CDCl<sub>3</sub> solutions on a Bruker ARX 200 spectrometer. The <sup>1</sup>H chemical shifts are reported as parts per million downfield from tetramethylsilane (Me<sub>4</sub>Si), and the <sup>13</sup>C chemical shifts were referenced to the solvent peak of CDCl<sub>3</sub> (76.9 ppm). Silica gel 60 adosrbent (Merck, 230-400 mesh) was used for column chromatography: Thin-layer chromatography was performed with silica gel Merck 60F-254 (0.25 mm layer thickness). Compounds <bold>3-5</bold> were prepared according to Kerdesky method [<xref ref-type="bibr" rid="B6-molecules-10-00289">6</xref>]. Nitroalkanes were commercially available or easily prepared by oxidation of the corresponding amine with <italic>m</italic>-chloroperbenzoic acid in refluxing 1,2-dichloroethane by Gilbert and Borden&#x2019;s procedure [<xref ref-type="bibr" rid="B9-molecules-10-00289">9</xref>]. The nitroheterocyclic nitronate anion was prepared from 2,2-dimethyl-5-hydroxymethyl-5-nitro-1,3-dioxane by the previously described method [<xref ref-type="bibr" rid="B10-molecules-10-00289">10</xref>]. Toluene-sulfinic acid sodium salt was commercially available and butanesulfinic acid sodium salt was prepared from butane sulfonyl chloride according to the Liu procedure [<xref ref-type="bibr" rid="B8-molecules-10-00289">8</xref>].</p>
+      </sec>
+      <sec>
+        <title>2,3-Bis(chloromethyl)-1,4-dimethoxyanthraquinone <italic>(<bold>6</bold>)</italic>.</title>
+        <p>In a two-necked flask equipped with a drying tube, a solution of <bold>5</bold> (1.7 g, 3.74 mmol) and of lithium chloride (3.25 g, 76,67 mmol) in anhydrous tetrahydrofuran (50 mL) was stirred at room temperature under an inert atmosphere for 48 h. Then, dichloromethane (100 mL) was added. The organic layer was washed twice with water (50 mL), dried over MgSO<sub>4</sub> and removed under reduced pressure. Purification by chromatography on silica gel eluting with dichloromethane and recrystallization from ethanol gave 2,3-bis(chloromethyl)-1,4-dimethoxyanthraquinone (<bold>6</bold>); mp 140 &#xB0;C. <sup>1</sup>H-NMR &#x3B4;: 4.04 (s, 6H, 2xOCH<sub>3</sub>), 4.91 (s, 4H, 2xCH<sub>2</sub>Cl), 7.75-7.80 (m, 2H, 2xAr-H), 8.18-8.21 (m, 2H, 2xAr-H); <sup>13</sup>C-NMR &#x3B4;: 35.6 (2xCH<sub>2</sub>Cl), 63.6 (2xOCH<sub>3</sub>), 126.7 (2xCH), 127.8 (2xC), 133.8 (2xC), 133.9 (2xCH), 140.1 (2xC), 155.7 (2xC), 182.2 (2xC=O); Anal. Calcd for C<sub>18</sub>H<sub>14</sub>Cl<sub>2</sub>O<sub>4</sub>: C, 59.20; H, 3.86. Found: C, 59.23; H, 3.87.</p>
+      </sec>
+      <sec>
+        <title>General procedure for bis-S<sub>RN</sub>1 reaction with aliphatic and cyclic nitronate anions.</title>
+        <p>Under a nitrogen atmosphere, a solution of tetrabutylammonium hydroxide (40% in water, 2.1 mL, 2.75 mmol) was treated with nitroalkane (2.75 mmol) for 1 h. A solution of 2,3-bis(chloromethyl)-1,4-dimethoxyanthraquinone  (<bold>6</bold>, 0.20 g, 0.55 mmol) in dichloromethane (20 mL) was then added and the mixture was irradiated with a 300W sun lamp for 20 min at room temperature under an inert atmosphere. The organic layer was separated and the aqueous layer was extracted with dichloro-methane (3 x 10 mL). The combined organic layers were washed twice with water (30 mL), dried over MgSO<sub>4</sub> and removed under reduced pressure. Purification by chromatography on silica gel eluting with chloroform and recrystallization from ethanol led to the corresponding products <bold>7a-f</bold>.</p>
+        <p><italic>1,4-Dimethoxy-2,3-bis(2-methyl-2-nitropropyl)anthraquinone</italic> (<bold>7a</bold>): Orange solid, mp 168.4&#xB0;C (ethanol); <sup>1</sup>H-NMR &#x3B4;: 1.55 (s, 12H, 4xCH<sub>3</sub>), 3.37 (s, 4H, CH<sub>2</sub>), 3.83 (s, 6H, 2xOCH<sub>3</sub>), 7.74-7.77 (m, 2H, 2xAr-H), 8.17-8.20 (m, 2H, 2xAr-H); <sup>13</sup>C-NMR &#x3B4;: 26.1 (4xCH<sub>3</sub>), 37.0 (2xCH<sub>2</sub>), 62.0 (2xOCH<sub>3</sub>), 88.6 (2xCNO<sub>2</sub>), 125.7 (2xC), 126.7 (2xCH), 133.8 (2xCH), 133.9 (2xC), 139.4 (2xC), 156.2 (2xC), 182.4 (2xC=O); Anal. Calcd for C<sub>24</sub>H<sub>26</sub>N<sub>2</sub>O<sub>8</sub>: C, 61.27; H, 5.57; N, 5.95. Found: C, 61.42; H, 5.60; N, 5.78.</p>
+        <p><italic>1,4-Dimethoxy-2,3-bis(1-nitrocyclopentylmethyl)anthraquinone</italic> (<bold>7b</bold>): Orange solid, mp 98&#xB0;C (ethanol); <sup>1</sup>H-NMR &#x3B4;: 1.58-1.69 (m, 8H, 4xCH<sub>2</sub>), 1.79-1.90 (m, 4H, 2xCH<sub>2</sub>), 2.49-2.60 (m, 4H, 2xCH<sub>2</sub>), 3.47 (s, 4H, 2xCH<sub>2</sub>), 3.85 (s, 6H, 2xOCH<sub>3</sub>), 7.74-7.78 (m, 2H, 2xAr-H), 8.18-8.22 (m, 2H, 2xAr-H); <sup>13</sup>C-NMR &#x3B4;: 22.7 (4xCH<sub>2</sub>), 34.7 (2xCH<sub>2</sub>), 36.3 (4xCH<sub>2</sub>), 62.1 (2xOCH<sub>3</sub>), 101.1 (2xCNO<sub>2</sub>), 125.9 (2xC), 126.7 (2xCH), 133.8 (2xCH), 134.0 (2xC), 139.9 (2xC), 156.1 (2xC), 182.5 (2xC=O); Anal. Calcd for C<sub>28</sub>H<sub>30</sub>N<sub>2</sub>O<sub>8</sub>: C, 64.36; H, 5.79; N, 5.36. Found: C, 64.27; H, 5.77; N, 5.17.</p>
+        <p><italic>1,4-Dimethoxy-2,3-bis(1-nitrocyclohexylmethyl)anthraquinone</italic> (<bold>7c</bold>): Yellow solid, mp 191&#xB0;C (ethanol); <sup>1</sup>H-NMR &#x3B4;: 1.12-1.27 (m, 4H, 2xCH<sub>2</sub>), 1.59-1.67 (m, 12H, 6xCH<sub>2</sub>), 2.31-2.45 (m, 4H, 2xCH<sub>2</sub>), 3.18 (s, 4H, 2xCH<sub>2</sub>), 3.84 (s, 6H, 2xOCH<sub>3</sub>), 7.73-7.77 (m, 2H, 2xAr-H), 8.17-8.21 (m, 2H, 2xAr-H); <sup>13</sup>C-NMR &#x3B4;: 22.2 (6xCH<sub>2</sub>), 24.3 (2xCH<sub>2</sub>), 34.2 (2xCH<sub>2</sub>), 37.5 (2xCH<sub>2</sub>), 61.9 (2xOCH<sub>3</sub>), 92.5 (2xCNO<sub>2</sub>), 125.4 (2xC), 126.6 (2xCH), 133.7 (2xCH), 134.0 (2xC), 139.2 (2xC), 156.0 (2xC), 182.5 (2xC=O); Anal. Calcd for C<sub>30</sub>H<sub>34</sub>N<sub>2</sub>O<sub>8</sub>: C, 65.44; H, 6.22; N, 5.09. Found: C, 65.48; H, 6.22; N, 4.85.</p>
+        <p><italic>1,4-Dimethoxy-2,3-bis(2-nitropropyl)anthraquinone</italic> (<bold>7d</bold>): Orange solid, mp 185.9&#xB0;C (ethanol); <sup>1</sup>H&#x2011;NMR &#x3B4;: 1.58 (d, 3H, <italic>J</italic> = 6.7 Hz), 1.68 (d, 3H, <italic>J</italic> = 6.7 Hz), 3.19-3.54 (m, 4H, 2xCH<sub>2</sub>), 3.90 (s, 6H, 2xOCH<sub>3</sub>), 4.91-5.02 (m, 2H, 2xCHNO<sub>2</sub>), 7.75-7.79 (m, 2H, 2xAr-H), 8.18-8.22 (m, 2H, 2xAr-H); <sup>13</sup>C&#x2011;NMR &#x3B4;: 19.5 (2xCH<sub>3</sub>), 33.0 (2xCH<sub>2</sub>), 62.4 (2xOCH<sub>3</sub>), 82.9 (2xCHNO<sub>2</sub>), 125.9 (2xC), 126.7 (2xCH), 133.9 (2xCH), 138.8 (2xC), 139.4 (2xC), 156.0 (2xC), 182.3 (2xC=O); Anal. Calcd for C<sub>22</sub>H<sub>22</sub>N<sub>2</sub>O<sub>8</sub>: C, 59.73; H, 5.01; N, 6.33. Found: C, 59.74; H, 4.84; N, 6.39.</p>
+        <p><italic>1,4-Dimethoxy-2,3-bis(2-nitrobutyl)anthraquinone</italic> (<bold>7e</bold>): Orange solid, mp 145.8 &#xB0;C (ethanol); <sup>1</sup>H NMR &#x3B4;: 1.00 (t, 3H, <italic>J</italic> = 7.4 Hz), 1.05 (t, 3H, <italic>J</italic> = 7.4 Hz), 1.81-2.18 (m, 4H, 2xCH<sub>2</sub>), 3.22-3.45 (m, 4H, 2xCH<sub>2</sub>), 3.90 (s, 6H, 2xOCH<sub>3</sub>), 4.74-4.83 (m, 2H, 2xCHNO<sub>2</sub>), 7.75-7.78 (m, 2H, 2xAr-H), 8.18-8.21 (m, 2H, 2xAr-H); <sup>13</sup>C NMR &#x3B4;: 10.2 (2xCH<sub>3</sub>), 27.9 (2xCH<sub>2</sub>), 31.4 (2xCH<sub>2</sub>), 62.3 (2xOCH<sub>3</sub>), 89.3 (2xCHNO<sub>2</sub>), 125.7 (2xC), 126.7 (2xCH), 133.8 (2xC), 133.9 (2xCH), 139.5 (2xC), 155.9 (2xC), 182.4 (2xC=O); Anal. Calcd for C<sub>24</sub>H<sub>26</sub>N<sub>2</sub>O<sub>8</sub>: C, 61.27; H, 5.57; N, 5.95. Found: C, 61.15; H, 5.74; N, 5.95.</p>
+        <p><italic>2,3-Bis(2,2-dimethyl-5-nitro[1,3]dioxan-5-ylmethyl)-1,4-dimethoxyanthraquinone</italic> (<bold>7f</bold>): Yellow solid, mp 215 &#xB0;C (ethanol); <sup>1</sup>H-NMR &#x3B4;: 1.35 (s, 6H, 2xCH<sub>3</sub>), 1.50 (s, 6H, 2xCH<sub>3</sub>), 3.39 (s, 4H, 2xCH<sub>2</sub>), 3.85 (s, 6H, 2xOCH<sub>3</sub>), 4.04 (d, 4H, <italic>J<sub>AB</sub></italic> = 12.8 Hz, 2xCH<sub>2</sub>O), 4.31 (d, 4H, <italic>J<sub>AB</sub></italic> = 12.8 Hz, 2xCH<sub>2</sub>O), 7.75-7.80 (m, 2H, 2xAr-H), 8.17-8.22 (m, 2H, 2xAr-H); <sup>13</sup>C-NMR &#x3B4;: 21.9 (2xCH<sub>3</sub>), 24.7 (2xCH<sub>3</sub>), 30.5 (2xCH<sub>2</sub>), 61.4 (2xCH<sub>2</sub>O), 62.3 (2xOCH<sub>3</sub>), 63.9 (2xCH<sub>2</sub>O), 85.2 (2xCNO<sub>2</sub>), 99.0 (2xC), 126.0 (2xC), 126.7 (2xCH), 133.9 (2xCH), 134.0 (2xC), 137.4 (2xC), 156.1 (2xC), 182.2 (2xC=O); Anal. Calcd for C<sub>30</sub>H<sub>34</sub>N<sub>2</sub>O<sub>12</sub>: C, 58.63; H, 5.58; N, 4.56. Found: C, 58.76; H, 5.69; N, 4.38.</p>
+      </sec>
+	  <sec>
+      <title>General procedure for reactions with substituted sulfinate sodium salt</title>
+      <p>A solution of substituted sulfinate sodium salt (3.3 mmol) in dimethylsulfoxide (10 mL) was added dropwise to a solution of dichloride <bold>6</bold> (0.20 g, 0.55 mmol) in dimethylsulfoxide (6 mL) and stirred under inert atmosphere for 10 min. The reaction mixture was poured into cold water and a precipitate was formed. After filtration, the crude product was recrystallized from the corresponding solvent gave the corresponding bis-<italic>S</italic>-alkylated product.</p>
+      <p><italic>1,4-Dimethoxy-2,3-bis-(toluene-4-sulfonylmethyl)anthraquinone</italic> (<bold>7g</bold>): Yellow solid, mp 281&#xB0;C (ethyl acetate); <sup>1</sup>H-NMR &#x3B4;: 2.42 (s, 6H, 2xCH<sub>3</sub>), 3.90 (s, 6H, 2xOCH<sub>3</sub>), 5.07 (s, 4H, 2xCH<sub>2</sub>SO<sub>2</sub>), 7.34 (d, 4H, <italic>J</italic> = 8.2 Hz, 4xAr-H), 7.74 (d, 4H, <italic>J</italic> = 8.2 Hz, 4xAr-H), 7.76-7.80 (m, 2H, 2xAr-H), 8.17-8.22 (m, 2H, 2xAr-H); <sup>13</sup>C-NMR &#x3B4;: 21.6 (2xCH<sub>3</sub>), 54.3 (2xCH<sub>2</sub>SO<sub>2</sub>), 63.6 (2xOCH<sub>3</sub>), 126.7 (2xCH), 128.1 (4xCH), 130.0 (4xCH), 132.4 (2xCH), 133.8 (2xC), 134.0 (2xC), 145.3 (2xC), 156.7 (2xC), 182.0 (2xC=O); Anal. Calcd for C<sub>32</sub>H<sub>28</sub>O<sub>8</sub>S<sub>2</sub>: C, 63.56; H, 4.67. Found: C, 63.65; H, 4.67.</p>
+      <p><italic>2,3-Bis(butane-1-sulfonylmethyl)-1,4-dimethoxyanthraquinone</italic> (<bold>7h</bold>): Yellow solid, mp 184&#xB0;C (ethanol); <sup>1</sup>H-NMR &#x3B4;: 0.96 (t, 6H, <italic>J</italic> = 6.6 Hz, 2xCH<sub>3</sub>), 1.43-1.55 (m, 4H, 2xCH<sub>2</sub>), 1.82-1.94 (m, 4H, 2xCH<sub>2</sub>), 3.04-3.12 (m, 4H, 2xCH<sub>2</sub>), 3.99 (s, 6H, 2xOCH<sub>3</sub>), 4.98 (s, 4H, 2xCH<sub>2</sub>SO<sub>2</sub>), 7.77-7.81 (m, 2H, 2xAr-H), 8.19-8.23 (m, 2H, 2xAr-H); <sup>13</sup>C-NMR &#x3B4;: 13.5 (2xCH<sub>3</sub>), 21.7 (2xCH<sub>2</sub>), 24.0 (2xCH<sub>2</sub>), 50.6 (2xCH<sub>2</sub>SO<sub>2</sub>), 53.6 (2xCH<sub>2</sub>SO<sub>2</sub>), 63.6 (2xOCH<sub>3</sub>), 126.8 (2xCH), 127.3 (2xC), 132.7 (2xC), 133.5 (2xC), 134.1 (2xCH), 156.3 (2xC), 182.1 (2xC=O); Anal. Calcd for C<sub>26</sub>H<sub>32</sub>O<sub>8</sub>S<sub>2</sub>: C, 58.19; H, 6.01. Found: C, 58.23; H, 5.84.</p>
+    </sec>
+  
+    </sec>
+    </body>
+  <back>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00289">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Cosby</surname>
+              <given-names>L. A.</given-names>
+            </name>
+            <name>
+              <surname>Shansky</surname>
+              <given-names>C. W.</given-names>
+            </name>
+            <name>
+              <surname>Sartorelli</surname>
+              <given-names>A. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Potential bioreductive alkylating agents. 1. Benzoquinone derivatives</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1972</year>
+          <volume>15</volume>
+          <fpage>1247</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00289">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>H. W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bioactivation as a model for drug design bioreductive alkylation</article-title>
+          <source>Science</source>
+          <year>1977</year>
+          <volume>197</volume>
+          <fpage>527</fpage>
+          <pub-id pub-id-type="doi">10.1126/science.877572</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00289">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arcamone</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Properties of antitumor anthracyclines and new developments in their application:  Cain Memorial Award Lecture</article-title>
+          <source>Cancer Res.</source>
+          <year>1985</year>
+          <volume>45</volume>
+          <fpage>5995</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00289">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vanelle</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Terme</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Giraud</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Crozet</surname>
+              <given-names>M. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Progress in electron transfer reactions of new quinone bioreductive alkylating agents</article-title>
+          <source>Recent Adv. Devel. Org. Chem.</source>
+          <year>2000</year>
+          <volume>4</volume>
+          <fpage>1</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00289">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Terme</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Crozet</surname>
+              <given-names>M. P.</given-names>
+            </name>
+            <name>
+              <surname>Maldonado</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Vanelle</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Electron Transfer Reactions in Organic Synthesis</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Vanelle</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Research Signpost</publisher-name>
+          <publisher-loc>Trivandrum</publisher-loc>
+          <year>2002</year>
+          <fpage>1</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00289">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kerdesky</surname>
+              <given-names>F. A. J.</given-names>
+            </name>
+            <name>
+              <surname>Ardecky</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name>
+              <surname>Lakshmikantham</surname>
+              <given-names>M. V.</given-names>
+            </name>
+            <name>
+              <surname>Cava</surname>
+              <given-names>M. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Simple o-quino-dimethane route to (&#xB1;)-4-demethoxydaunomycinone</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1981</year>
+          <volume>103</volume>
+          <fpage>1992</fpage>
+          <pub-id pub-id-type="doi">10.1021/ja00398a020</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00289">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Terme</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Crozet</surname>
+              <given-names>M. P.</given-names>
+            </name>
+            <name>
+              <surname>Giraud</surname>
+              <given-names>L.</given-names>
+            </name>
+			<name>
+              <surname>Vanelle</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Original annulation in anthraquinone series: synthesis of new 2,3-dialkylnaphthacene-5,12-diones</article-title>
+          <source>Tetrahedron</source>
+          <year>2000</year>
+          <volume>56</volume>
+          <fpage>1097</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(00)00006-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00289">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>L. K.</given-names>
+            </name>
+            <name>
+              <surname>Chi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Jen</surname>
+              <given-names>K.-Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Copper-catalyzed additions of sulfonyl iodides to simple and cyclic alkenes</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1980</year>
+          <volume>45</volume>
+          <fpage>406</fpage>
+          <pub-id pub-id-type="doi">10.1021/jo01291a006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00289">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gilbert</surname>
+              <given-names>K. E.</given-names>
+            </name>
+            <name>
+              <surname>Borden</surname>
+              <given-names>W. T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Peracid oxidation of aliphatic amines:  general synthesis of nitroalkanes</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1979</year>
+          <volume>44</volume>
+          <fpage>659</fpage>
+          <pub-id pub-id-type="doi">10.1021/jo01318a050</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00289">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Linden</surname>
+              <given-names>G. B.</given-names>
+            </name>
+            <name>
+              <surname>Gold</surname>
+              <given-names>M. H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of 2- and 5-substituted 1,3-dioxanes</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1956</year>
+          <volume>21</volume>
+          <fpage>1175</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+	 <fn-group>
+      <fn>
+        <p><italic>Samples Availability:</italic> Available from the authors.</p>
+      </fn>
+    </fn-group>    
+  </back>
+</article>

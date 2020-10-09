@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xml:lang="en" article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10121429</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-01429</article-id>
+	  <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of Novel, Potentially Biologically Active Dibenzosuberone Derivatives</article-title>
+      </title-group>      
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Merka&#x161;</surname>
+            <given-names>Sonja</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01429" ref-type="aff">1</xref>
+          <xref rid="c1-molecules-10-01429" ref-type="corresp">*</xref>
+		</contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Litvi&#x107;</surname>
+            <given-names>Mladen</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01429" ref-type="aff">1</xref>
+		</contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Cepanec</surname>
+            <given-names>Ivica</given-names>
+          </name>
+          <xref rid="af1-molecules-10-01429" ref-type="aff">1</xref>
+		</contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Vinkovi&#x107;</surname>
+            <given-names>Vladimir</given-names>
+          </name>
+          <xref rid="af2-molecules-10-01429" ref-type="aff">2</xref>
+		</contrib>
+	  </contrib-group>
+      <aff id="af1-molecules-10-01429"><label>1</label>Belupo Pharmaceuticals &amp; Cosmetics Ltd., Radni&#x10D;ka 224, 10000 Zagreb, Croatia</aff>
+      <aff id="af2-molecules-10-01429"><label>2</label>Ru&#x111;er Bo&#x161;kovi&#x107; Institute, Bijeni&#x10D;ka 54, 10002 Zagreb, Croatia; Tel. +385-1-4561061, Fax +385-1-4680195</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-01429"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>smerkas@irb.hr</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>12</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>12</issue>
+      <fpage>1429</fpage>
+      <lpage>1437</lpage>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2005</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>06</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>07</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+      </history>
+     <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Novel representatives of the important group of biologically active dibenzosuberone derivatives were prepared: 3,7-dibromo-5-(dimethylaminoethyl-oxyimino)-10,11-dihydro-5<italic>H</italic>-dibenzo[<italic>a</italic>,<italic>d</italic>]cyclohepta-1,4-diene (<bold>1</bold>), 3,7-dibromo-5-(3-dimethylaminopropylidene)-10,11-dihydro-5<italic>H</italic>-dibenzo[<italic>a</italic>,<italic>d</italic>]cycloheptene (<bold>2</bold>) and 1,7-dibromo-5-(3-dimethylaminopropylidene)-10,11-dihydro-5<italic>H</italic>-dibenzo-[<italic>a</italic>,<italic>d</italic>]-cycloheptene (<bold>3</bold>). These compounds are potential tricyclic antidepressants (TCAs), which are still the most frequently prescribed antidepressants in many countries.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Dibenzosuberone</kwd> 
+		<kwd>tricyclic antidepressants</kwd>
+		<kwd>bromination</kwd> 
+		<kwd>amitriptiline</kwd>
+		<kwd>noxiptiline</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>A wide range of compounds that contain in their structure the dibenzosuberone unit formed by two aromatic rings fused with a seven-atom cycle have been proven effective for the treatment of depressive disorders, nowadays a highly prevalent illness, as well as for a variety of painful conditions: migraine headache, noncardiac chest pain, functional dyspepsia and irritable bowel syndrome (IBS) [<xref ref-type="bibr" rid="B1-molecules-10-01429">1</xref>,<xref ref-type="bibr" rid="B2-molecules-10-01429">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-01429">3</xref>,<xref ref-type="bibr" rid="B4-molecules-10-01429">4</xref>,<xref ref-type="bibr" rid="B5-molecules-10-01429">5</xref>]. Tricyclic antidepressants (TCAs) containing dibenzosuberone moieties mostly affect the autonomic and central nervous systems, and traditional cyclic antidepressants, like amitriptyline (<bold>4</bold>) [<xref ref-type="bibr" rid="B6-molecules-10-01429">6</xref>,<xref ref-type="bibr" rid="B7-molecules-10-01429">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-01429">8</xref>], imipramine (<bold>5</bold>) [<xref ref-type="bibr" rid="B9-molecules-10-01429">9</xref>] and noxiptiline (<bold>6</bold>) [<xref ref-type="bibr" rid="B10-molecules-10-01429">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-01429">11</xref>] continue to be used as first-line agents in treating depressive disorders and an expanding list of additional conditions [<xref ref-type="bibr" rid="B12-molecules-10-01429">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-01429">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-01429">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-01429">15</xref>], with amitriptyline being the most commonly prescribed TCA.
+	   <disp-formula>         
+            <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01429-i001.tif"/>      
+        </disp-formula></p>
+      <p>Although TCAs have been in use for decades they are still considered safer and more effective than the newer class of antidepressants, the selective serotonin reuptake inhibitors (SSRIs). The latter have been found to have numerous side effects that are still not well understood. No better antidepressants have been released heretofore and new results on available antidepressants regarding their lack of efficacy, unwanted secondary effects, toxicity and possible association with suicides are being continuously documented and evaluated [<xref ref-type="bibr" rid="B12-molecules-10-01429">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-01429">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-01429">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-01429">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-01429">16</xref>,<xref ref-type="bibr" rid="B17-molecules-10-01429">17</xref>].</p>
+      <p>In light of the obvious need to produce agents representing an improvement on both the TCA and the SSRI classes, we decided to revisit the tricyclic antidepressant class and to prepare new dibenzosuberone derivatives [<xref ref-type="bibr" rid="B18-molecules-10-01429">18</xref>]. The preparation involved the regioselective bromination of dibenzosuberone and subsequent use of the isomers obtained for the synthesis of new TCAs. Amitriptyline and noxiptiline served as a guide in the design due to their wide efficacy spectrum, success in treating severe psychiatric disorders and their lower costs. The halogen group in the structure of some known antidepressants showed positive effect in treatment of depressive disorders [<xref ref-type="bibr" rid="B19-molecules-10-01429">19</xref>,<xref ref-type="bibr" rid="B20-molecules-10-01429">20</xref>,<xref ref-type="bibr" rid="B21-molecules-10-01429">21</xref>].</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The starting materials, 3,7- and 1,7-dibromodibenzosuberone <bold>7</bold> and <bold>8</bold> were prepared by the method previously developed in our laboratory, via regioselective bromination of commercially available dibenzosuberone [<xref ref-type="bibr" rid="B22-molecules-10-01429">22</xref>]. As the regiochemistry of the substitution process in the dibenzosuberone ring generally results in <italic>ortho</italic> and <italic>para</italic> substituted isomers with respect to an alkyl group, our method yields <italic>para</italic>, <italic>para</italic> as well as <italic>ortho</italic>, <italic>para</italic> substituted isomers. In this manner the 3,7- and 1,7-dibromoderivatives have been prepared as the main products and then used for the preparation of their respective <italic>N</italic>,<italic>N</italic>-dialkylaminopropyl and <italic>O</italic>-alkyloxime derivatives.</p>
+      <p>Among the other possible synthetic paths to the 3,7-dibromo derivative of noxiptiline (<bold>1</bold>), first we applied an indirect one to avoid the direct alkylation of the oxime <bold>9</bold> and possible formation of an <italic>N</italic>&#x2011;alkyl oxime instead of expected <italic>O</italic>-alkyl one. Unfortunately this method, based on the <italic>O</italic>-alkyl hydroxylamine prepared by <italic>O</italic>-alkylation of hydroxylamine protected with a phtalimide group, failed at the <italic>N</italic>-hydroxyphtalimide alkylation stage. Abandoning the indirect approach we then used the selective <italic>O</italic>-alkylation of the oxime <bold>9</bold> under mild conditions (solvent, basic salt with an appropriate cation), as shown in <xref ref-type="scheme" rid="molecules-10-01429-f001">Scheme 1</xref>. The oxime of 3,7-dibromodibenzosuberone (<bold>9</bold>) was thus prepared in five days by a method reported for hindered ketones [<xref ref-type="bibr" rid="B23-molecules-10-01429">23</xref>], using two portions of four equivalents of hydroxylamine hydrochloride and pyridine. The next step, regioselective <italic>O</italic>-alkylation of oxime <bold>9</bold> [<xref ref-type="bibr" rid="B24-molecules-10-01429">24</xref>,<xref ref-type="bibr" rid="B25-molecules-10-01429">25</xref>,<xref ref-type="bibr" rid="B26-molecules-10-01429">26</xref>], was performed in acetone with dimethylaminoethylchloride hydrochloride and potassium carbonate as the base. By this procedure <italic>O</italic>-alkylated compound <bold>1</bold> was obtained exclusively, with an overall yield of 87%. Since the alkylation of oximes as bidentate nucleophiles depends on the structural characteristics of the substrate, in the case of compound <bold>9</bold> alkylation at the less hindered oxygen atom was favored.</p>
+      <fig id="molecules-10-01429-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-01429-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01429-g001.tif"/>
+      </fig>
+      <p>3,7- (<bold>2</bold>) and 1,7-dibromo derivatives, <bold>3</bold>, of amitriptyline were prepared by a two-step synthesis according to <xref ref-type="scheme" rid="molecules-10-01429-f002">Scheme 2</xref>.</p>
+      <fig id="molecules-10-01429-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-01429-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01429-g002.tif"/>
+      </fig>
+      <p>Attachment of a dimethylaminopropylic functionality to the skeleton of brominated dibenzo-suberone was achieved by a Grignard reaction [<xref ref-type="bibr" rid="B27-molecules-10-01429">27</xref>,<xref ref-type="bibr" rid="B28-molecules-10-01429">28</xref>,<xref ref-type="bibr" rid="B29-molecules-10-01429">29</xref>,<xref ref-type="bibr" rid="B30-molecules-10-01429">30</xref>]. Since the required Grignard reagent 3&#x2011;dimethylamino-1-propylmagnesium chloride is not easy to obtain, very strictly controlled reaction conditions have to be employed. The free base is freshly prepared separately and the reaction is initiated with a more reactive alkyl halogenide and iodine. The reaction was carried out for 26 hours at room temperature and isolated compounds <bold>10</bold> and <bold>11</bold> were purified by chromatography on SiO<sub>2</sub>. After chromatographic separation 65% of the 3,7- and 32% of 1,7-dibromo derivatives <bold>10</bold> and <bold>11</bold> were isolated, respectively.</p>
+      <p>Dehydration of compounds <bold>10</bold> and <bold>11</bold>, obtained by the previous Grignard reaction, was carried out by stirring for a few hours at 4 &#xBA;C with 85% sulfuric acid. Starting with compound <bold>10</bold>, 3,7-dibromoamitriptyline (<bold>2</bold>) was obtained in 94% yield, but with the 1,7-dibromodibenzosuberone <bold>11</bold> a mixture of <italic>syn (Z)</italic> and <italic>anti (E)</italic> isomers with respect to the 1-Br atom, was obtained. We tried to separate the isomers by chromatography using various mixtures of solvents, but unfortunately without success. Although rotation around the double bond is impossible, the dimethylaminopropyl chain connected to the tricyclic ring in the carbocation <bold>12</bold> rotates freely (<xref ref-type="scheme" rid="molecules-10-01429-f003">Scheme 3</xref>). Therefore, we tried to convert compound <bold>3</bold> to the thermodynamically more stable isomer by prolonged stirring in sulfuric acid. We anticipated that implied conclusion that in the thermodynamically controlled reaction the less sterically hindered <italic>anti</italic>-isomer <bold>3E</bold> would be obtained. Indeed, under these conditions the pure <italic>E</italic> isomer <bold>3E</bold> is formed in good yield.</p>
+      <fig id="molecules-10-01429-f003" position="float">
+        <object-id pub-id-type="pii">molecules-10-01429-scheme3_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-01429-g003.tif"/>
+      </fig>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>We have prepared 3,7-dibromo-5-(dimethylaminoethyl-oxyimino)-10,11-dihydro-5<italic>H</italic>-dibenzo- [<italic>a</italic>,<italic>d</italic>]cyclohepta-1,4-diene (<bold>1</bold>), 3,7-dibromo-5-(3-dimethylaminopropylidene)-10,11-dihydro-5<italic>H</italic>-dibenzo[<italic>a</italic>,<italic>d</italic>]cycloheptene (<bold>2</bold>) and 1,7-dibromo-5-(3-dimethylaminopropylidene)-10,11-dihydro-5<italic>H</italic>-dibenzo[<italic>a</italic>,<italic>d</italic>]cycloheptene (<bold>3</bold>), all potential drug molecules of the tricyclic antidepressant (TCA) type.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>IR spectra were recorded on a Perkin-Elmer Spectrum One spectrophotometer, <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were recorded on a Bruker 600 instrument. Shifts are given in ppm downfield from TMS used as an internal standard. All the mass spectra were obtained on a FTMS Finnigan 2001 DD spectrometer. TLC analyses were performed on Merck (Darmstadt, Germany) DC-Alufolien with Kieselgel 60<sub>254</sub>. Elemental analyses were done at the Central Analytical Service (CAS) of the Ru&#x111;er Bo&#x161;kovi&#x107; Institute.</p>
+      </sec>
+      <sec>
+        <title>3,7-Dibromo-5-hydroxyimino-10,11-dihydro-5H-dibenzo[a,d]cyclohepta-1,4-diene <italic>(<bold>9</bold>)</italic>.</title>
+        <p>To a solution of compound <bold>7</bold> (10.98 g, 30 mmol) in abs. ethanol (100 mL) hydroxylamine hydrochloride (8.33 g, 120 mmol) and pyridine (9.67 g, 120 mmol) were added. The reaction mixture was stirred under reflux for 24 hours, then an additional four equivalents of hydroxylamine hydrochloride (8.33 g, 120 mmol) and pyridine (9.67 g, 120 mmol) were added. After stirring under reflux for 100 hours the reaction mixture was cooled, poured into water (300 mL), acidified with conc. hydrochloric acid and extracted with ethyl acetate (3x100 mL). The extracts were dried over anhydrous sodium sulfate and the solvent was evaporated. Hot <italic>n</italic>-hexane (100 mL) was added to the residue and the precipitated colorless crystals (10.18 g, 89%) were filtered off; mp 228-230 &#xBA;C; R<sub>f</sub>=0.50 (dichloromethane as eluent); IR (KBr) &#x3BD; 3240, 2930, 1760, 1590 (C=N), 1565, 1475, 1420, 1405, 1385, 1355, 1320, 1290, 1260, 1175, 1160, 1100, 1075, 1010, 965, 940, 910, 890, 830, 815, 780, 775, 755, 715, 690, 660, 630 cm<sup>-1</sup>; <sup>1</sup>H-NMR (DMSO-d<sub>6</sub>), &#x3B4;: 2.89-2.96 (m, 4H, H<sub>benzylic</sub>), 7.08 (d, 1H, H<sub>arom</sub>, J=8.3 Hz), 7.24 (d, 1H, H<sub>arom</sub>, J=8.3 Hz), 7.43-7.61 (m, 4H, H<sub>arom</sub>), 11.70 (s, 1H, =NOH) ppm; <sup>13</sup>C&#x2011;NMR (DMSO-d<sub>6</sub>), &#x3B4;: 30.56, 32.43, 118.43, 118.69, 130.50, 130.92, 131.02, 131.55, 131.69, 132.79, 135.87, 136.32, 137.57, 137.67, 152.94 (C=NOH) ppm.</p>
+      </sec>
+      <sec>
+        <title>3,7-Dibromo-5-(dimethylaminoethyloxyimino)-10,11-dihydro-5H-dibenzo[a,d]cyclohepta-1,4-diene <italic>(<bold>1</bold>)</italic>.</title>
+        <p>This compound was prepared by heating the ketoxime <bold>9</bold> (2.1 g, 5.51 mmol), 2-dimethylamino-ethylchloride hydrochloride (0.95 g, 6.61 mmol) and potassium carbonate (1.68 g, 12 mmol) in acetone for 15 hours under an inert atmosphere. After cooling to room temperature, the precipitate was filtered off and the solvent was removed from the filtrate under reduced pressure. A brown oil was obtained, which crystallized on cooling. The yield was 2.44 g (98%); R<sub>f</sub>=0.54 (9:1 dichloromethane-methanol); IR (KBr) &#x3BD; 2920, 2810, 2760, 2040, 1580, 1550 (C=N), 1440, 1380, 1350, 1320, 1290, 1250, 1160, 1070, 1020 (C-O), 990 (N-O), 910, 880, 810 cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4;: 2.32 (s, 6H, N(CH<sub>3</sub>)<sub>2</sub>), 2.72 (t, 2H, CH<sub>2</sub>, J=5.8 Hz), 3.02-3.06 (m, 4H, H<sub>benzylic</sub> C-10,11), 4.36 (t, 2H, CH<sub>2</sub>, J=5.8 Hz), 6.99 (d, 1H, H<sub>arom</sub> C-9,1, J=8.5 Hz), 7.12 (d, 1H, H<sub>arom</sub> C-9,1, J=8.2 Hz), 7.39 (dd, 2H, H<sub>arom</sub> C-8,2, J=1.9 Hz), 7.57 (d, 1H, H<sub>arom</sub> C-4,6, J=1.9 Hz), 7.72 (d, 1H, H<sub>arom</sub> C-4,6, J=1.9 Hz) ppm; <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4;: 31.21 (C-10,11), 32.77 (C-10, 11), 45.70 (N(CH<sub>3</sub>)<sub>2</sub>), 57.75 (CH<sub>2</sub>), 72.91 (CH<sub>2</sub>), 119.13 (C-3,7), 119.64 (C-3,7), 129.70 (C-1), 131.33 (C-4,6), 131.96 (C-2,8,9), 154.81 (C=NOR) ppm; Anal. Calcd. (C<sub>19</sub>H<sub>20</sub>Br<sub>2</sub>N<sub>2</sub>O): C 50.46, H 4.46, Br 35.34, N 6.20; Found: C 50.60, H 4.61, Br 35.54 and N 6.04%.</p>
+      </sec>
+      <sec>
+        <title>Grignard reaction with 3,7- and 1,7- dibromo derivatives <italic><bold>7</bold></italic> and <italic><bold>8</bold></italic>: preparation of dry tetrahydrofuran for use in the Grignard reaction:</title>
+        <p>To Mg-turnings (1.72 g, 70 mmol), a few milliliters of THF (just enough to cover the Mg) and a small crystal of iodine were added. A separately prepared solution of ethyl bromide (5.0 mL) in THF (20 mL) was added dropwise into the Mg-suspension at such a rate that the reaction mixture kept boiling. After the whole solution was added, refluxing of the reaction mixture was continued for 30 minutes. Additional THF (130 mL) was then added and refluxing was maintained for 2 hours. When the Mg-turnings had mostly reacted, the THF was distilled off in a closed system.</p>
+      </sec>
+      <sec>
+        <title>Preparation of the free base</title>
+        <p>Sodium hydroxide and 3-dimethylamino-1-propylchloride hydrochloride were dissolved separately in water (10 mL). These two solutions were mixed and the pH was adjusted to ~14. After extraction with dichloromethane (3x30 mL), the extracts were dried over anhydrous sodium sulfate and the solvent was removed to afford 3.34 g (53%) of the free base.</p>
+      </sec>
+      <sec>
+        <title>Grignard reaction</title>
+        <p>A solution of the free base was prepared by dissolving <italic>N</italic>,<italic>N</italic>&#x2011;dimethylamino-1-propyl-chloride (2.5 g) in dry THF (20 mL). After that, CaH<sub>2</sub> (1.0 g) was added, the suspension was stirred for one hour, and filtered. This freshly prepared filtrate was added dropwise over 30 minutes to a small volume of dry THF (20 mL), a crystal of iodine and Mg-turnings (0.51 g). The reaction mixture was heated with stirring for 2 hours. The solution of the Grignard reagent was cooled to 0 &#xB0;C and a solution of 3,7-(<bold>7</bold>) or 1,7-dibromodibenzosuberone (<bold>8</bold>) (3.66 g) in THF (50 mL) was added dropwise. The obtained mixture was stirred at room temperature overnight, then poured into a saturated solution of sodium chloride and extracted with dichloromethane (3x30 mL). The extract was dried over anhydrous sodium sulfate and the solvent was evaporated. The Grignard reaction products <bold>10</bold> and <bold>11</bold> were purified by column chromatography on SiO<sub>2</sub> with dichloromethane/methanol 9:1 as eluent. <italic>3,7-Dibromo-5-(hydroxy-5-N,N-dimethylaminopropyl)-10,11-dihydro-5H-dibenzo[a,d]cycloheptane</italic> (<bold>10</bold>): 2.93 g (64.7%), mp 145.5-146.5 &#xB0;C; R<sub>f</sub>= 0.47 (9:1 dichloromethane/methanol); IR (KBr) &#x3BD; 3090 (OH), 2940, 2920, 2850, 2820, 2780, 2700, 2630, 2330, 1900, 1795, 1580, 1560, 1460, 1420, 1400, 1385, 1350, 1335, 1290, 1265 (C-N), 1245, 1230, 1205, 1185, 1170, 1150, 1110, 1100, 1065, 1050, 1035, 1005, 950, 920, 900, 880, 845, 820, 790, 775, 755, 735, 700, 680, 650, 635, 615 cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4;: 1.32 (t, 2H, CH<sub>2</sub>, J=5.2 Hz), 2.17-2.25 (m, 8H, N(CH<sub>3</sub>)<sub>2</sub>+CH<sub>2</sub>), 2.43-2.47 (m, 2H, CH<sub>2</sub>), 2.85-2.96 (m, 2H, H<sub>benzylic</sub>), 3.32-3.43 (m, 2H, H<sub>benzylic</sub>), 6.93 (d, 2H, H<sub>arom</sub>, J=8.0 Hz), 7.23-7.27 (m, 2H, H<sub>arom</sub>), 8.19 (d, 2H, H<sub>arom</sub>, J=1.9 Hz) ppm; <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4;: 22.15, 32.68, 44.15, 44.95, 59.50, 75.39 (COH), 120.13, 129.75, 129.95, 131.89, 135.73, 147.37 ppm; Anal. Calcd. (C<sub>20</sub>H<sub>23</sub>Br<sub>2</sub>NO): C 53.00, H 5.12, Br 35.26, N 3.09; Found: C 53.07, H 5.04, Br 35.32 and N 2.97%. <italic>1,7-dibromo-5-(hydroxy-5-N,N-dimethylaminopropyl)-10,11-dihydro-5H-dibenzo[a,d]cycloheptane</italic> (<bold>11</bold>): 1.50 g (33.1%) of product <bold>11</bold> was obtained, mp 164.5-167.0 &#xB0;C; R<sub>f</sub>=0.31 (9:1 dichloromethane/methanol); IR (KBr) &#x3BD; 3030 (OH), 2970, 2940, 2900, 2840, 2760, 2680, 2640, 2540, 2460, 2320, 1900, 1580, 1500, 1460, 1440, 1400, 1390, 1380, 1290, 1260 (C-N), 1240, 1200, 1160, 1140, 1100, 1040, 100, 950, 920, 890, 850, 820, 780, 750, 740, 690, 650 cm<sup>-1</sup>; <sup>1</sup>H&#x2011;NMR (CDCl<sub>3</sub>) &#x3B4;: 1.42 (d, 2H, CH<sub>2</sub>, C-13), J=4.7 Hz), 2.25 (s, 6H, N(CH<sub>3</sub>)<sub>2</sub>), 2.37-2.47 (m, 2H, CH<sub>2</sub>), 2.62-2.69 (m, 1H, CH<sub>2</sub>), 2.88-2.97 (m, 1H, CH<sub>2</sub>), 3.20-3.48 (m, 4H, H<sub>benzylic</sub> C-10,11), 6.98 (d, 1H, H<sub>arom</sub>, J=8.0 Hz), 7.06 (t, 1H, H<sub>arom</sub>, J=7.8 Hz), 7.26-7.29 (m, 1H, H<sub>arom</sub>), 7.48 (d, 1H, H<sub>arom</sub>, J=8.0 Hz), 8.07 (d, 1H, H<sub>arom</sub>, J=8.0 Hz), 8.17 (d, 1H, H<sub>arom</sub>, J=1.9 Hz) ppm; <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4;: 21.93, 31.92, 32.96, 43.61, 44.82 (N(CH<sub>3</sub>)<sub>2</sub>), 59.21, 75.80 (COH), 120.20, 125.98, 126.27, 126.91, 129.82, 129.88, 131.50, 131.87, 135.36, 135.56, 147.35, 147.44 ppm; Anal. Calcd. (C<sub>20</sub>H<sub>23</sub>Br<sub>2</sub>NO): C 53.00, H 5.12, Br 35.26, N 3.09; Found: C 53.01, H 4.99, Br 35.23 and N 2.93%.</p>
+      </sec>
+      <sec>
+        <title>Dehydration of products <italic><bold>10</bold></italic> and <italic><bold>11</bold></italic></title>
+        <p>The hydroxy derivatives <bold>10</bold> or <bold>11</bold> (0.2 g, 0.44 mmol) were dissolved in 85% sulfuric acid (20 mL) and stirred for 3 hours at 4 &#xB0;C. After that, the reaction mixture was slowly diluted with cold water, made alkaline with sodium hydroxide and extracted with dichloromethane (3x30 mL). The dichloromethane solution obtained was dried over anhydrous sodium sulfate and the solvent was removed under reduced pressure to give, in the case of compound <bold>10</bold>, <italic>3,7-dibromo-5-(3-N,N-dimethyl-aminopropylidene)-10,11-dihydro-5H-dibenzo[a,d]cycloheptene</italic> (<bold>2</bold>): 0.18 g (94.0%), mp 98.5-100.5 &#xB0;C; R<sub>f</sub>=0.34 (9:1 dichloromethane/methanol); IR (KBr) &#x3BD; 2940, 2850, 2780, 2710, 1880, 1580, 1560, 1450, 1370, 1260 (C-N), 1220, 1150, 1070, 1050, 1025, 960, 920, 890, 870, 800, 770, 760, 750, 710, 670 cm<sup>&#x2011;1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4;: 2.19 (s, 6H, N(CH<sub>3</sub>)<sub>2</sub>), 2.21-2.42 (m, 4H, CH<sub>2</sub>+CH<sub>2</sub> C-13,14), 2.70-2.95 (m, 2H, H<sub>benzylic</sub> C-10,11), 3.22-3.39 (m, 2H, H<sub>benzylic</sub> C-10,11), 5.90-5.95 (m, 1H, C=CH), 6.90 (d, 1H, H<sub>arom</sub>, J=8.2 Hz), 7.09 (d, 1H, H<sub>arom</sub>, J=8.0 Hz), 7.24-7.35 (m, 3H, H<sub>arom</sub>), 7.24 (s, 1H, H<sub>arom</sub> C-4,6, J=1.9) ppm; <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4;: 27.76, 31.04, 32.84, 38.73, 45.24 (N(CH<sub>3</sub>)<sub>2</sub>), 59.02, 119.25, 119.28, 129.65, 129.88, 130.38, 130.75, 131.04, 131.18, 131.53, 135.59, 137.94, 140.69, 141.29, 142.22; Anal. Calcd. (C<sub>20</sub>H<sub>21</sub>Br<sub>2</sub>N): C 55.19, H 4.86, Br 36.72, N 3.22; Found: C 55.24, H 4.76, Br 36.68 and N 3.19%. After dehydratation of compound <bold>11</bold> a mixture (0.2 g, 0.44 mmol) of the respective <italic>syn</italic>- and <italic>anti</italic>-isomers of <italic>1,7-dibromo-5-(3-N,N-dimethylaminopropylidene)-10,11-dihydro-5H-dibenzo[a,d]-cycloheptene</italic> (<bold>3</bold>) was obtained. The pure <italic>anti</italic>-isomer was obtained by prolonged stirring in cold 85% sulfuric acid at 4 &#xB0;C for 3 hours and at room temperature for 8 hours. After chromatography 0.14 g (73%), R<sub>f</sub>=0.39 (dichloromethane/methanol 9:1) of pure <bold>3E</bold> were obtained; IR (KBr) &#x3BD; 2929, 2857, 2817, 2780, 1673, 1584, 1558, 1477, 1449, 1361, 1264 (C-N), 1231, 1160, 1128, 1041, 969, 897, 817, 790, 739, 705 cm<sup>-1</sup>; <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4;: 2.22 (s, 6H, (N(CH<sub>3</sub>)<sub>2</sub>)), 2.32-2.34 (m, 2H, CH<sub>2</sub>), 2.41-2.44 (m, 2H, CH<sub>2</sub>), 2.78-2.90 (m, 2H, H<sub>benzylic</sub>), 3.21-3.31 (m, 2H, H<sub>benzylic</sub>), 5.87-5.92 (t, 1H, C=CH, J=7.0 Hz), 6.91-7.49 (m, 6H, H<sub>arom</sub>) ppm; <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4;: 27.45, 27.59, 30.80, 31.51, 34.59, 45.04 (N(CH<sub>3</sub>)<sub>2</sub>), 58.85, 119.26, 127.22, 127.96, 129.73, 131.53, 131.89, 135.49, 135.65, 141.05, 141.25, 142.09, 142.48 ppm; Anal. Calcd. (C<sub>20</sub>H<sub>21</sub>Br<sub>2</sub>N): C 55.19, H 4.86, Br 36.72, N 3.22; Found C 55.15, H 5.01, Br 36.94 and N 3.11%. </p>      
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors wish to express their gratitude to Belupo Pharmaceuticals &amp; Cosmetics Inc. for financial support of this research.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molecules-10-01429">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McQuay</surname>
+              <given-names>H. J.</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>R. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antidepressants and chronic pain</article-title>
+          <source>Br. Med. J.</source>
+          <year>1997</year>
+          <volume>314</volume>
+          <fpage>763</fpage>
+          <lpage>764</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-01429">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mertz</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Psychotherapeutics and serotonin agonists and antagonists</article-title>
+          <source>J. Clin. Gastroenterol.</source>
+          <year>2005</year>
+          <volume>39</volume>
+          <fpage>S247</fpage>
+          <lpage>S250</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-01429">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Max</surname>
+              <given-names>M. B.</given-names>
+            </name>
+            <name>
+              <surname>Culnane</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Schafer</surname>
+              <given-names>S. C.</given-names>
+            </name>
+            <name>
+              <surname>Gracely</surname>
+              <given-names>R. H.</given-names>
+            </name>
+            <name>
+              <surname>Walter</surname>
+              <given-names>D. J.</given-names>
+            </name>
+            <name>
+              <surname>Smoller</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Dubner</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Amitriptyline relieves diabetic neuropathy pain in patients with normal or depressed mood</article-title>
+          <source>Neurology</source>
+          <year>1987</year>
+          <volume>37</volume>
+          <fpage>589</fpage>
+          <lpage>596</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-01429">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>J. W.</given-names>
+            </name>
+            <name>
+              <surname>Rost</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Dietrich</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Ciotti</surname>
+              <given-names>M. C.</given-names>
+            </name>
+            <name>
+              <surname>Zyzanski</surname>
+              <given-names>S. J.</given-names>
+            </name>
+            <name>
+              <surname>Cornell</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Primary care physicians&#x2019; approach to depressive disorders</article-title>
+          <source>Arch. Fam. Med.</source>
+          <year>1999</year>
+          <volume>8</volume>
+          <fpage>58</fpage>
+          <lpage>67</lpage>
+          <pub-id pub-id-type="doi">10.1001/archfami.8.1.58</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-01429">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Walsh</surname>
+              <given-names>T. D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antidepressants in chronic pain</article-title>
+          <source>Clin. Neuropharmacol.</source>
+          <year>1983</year>
+          <volume>6</volume>
+          <fpage>271</fpage>
+          <lpage>295</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-01429">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoffsomer</surname>
+              <given-names>R. D.</given-names>
+            </name>
+            <name>
+              <surname>Taub</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Wendler</surname>
+              <given-names>N. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Homoallylic Rearrangement in the Synthesis of Amitriptyline and Related Systems</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1962</year>
+          <volume>27</volume>
+          <fpage>4134</fpage>
+          <lpage>4137</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-01429">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoffsomer</surname>
+              <given-names>R. D.</given-names>
+            </name>
+            <name>
+              <surname>Taub</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Wendler</surname>
+              <given-names>N. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Amitriptyline and Related Substances. Hydroboration of 5-Allylidene-5<italic>H</italic>-dibenzo[<italic>a</italic>,<italic>d</italic>]-10,11-dihydrocycloheptene</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1963</year>
+          <volume>28</volume>
+          <fpage>1751</fpage>
+          <lpage>1753</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-01429">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davis</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>Winthrop</surname>
+              <given-names>S. O.</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Sunahara</surname>
+              <given-names>F. A.</given-names>
+            </name>
+            <name>
+              <surname>Herr</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>New Psychotropic Agents. V. Derivatives of 5-Cyano- and 5-Caboxamidodibenzo[a,d]cycloheptadiene</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1963</year>
+          <volume>6</volume>
+          <fpage>251</fpage>
+          <lpage>255</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-01429">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schindler</surname>
+              <given-names>W.</given-names>
+            </name>
+			<name>
+              <surname>H&#xE4;fliger</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>&#xC5;ber Derivate des Iminodibenzyls</article-title>
+          <source>Helv. Chim. Acta.</source>
+          <year>1954</year>
+          <volume>59</volume>
+          <fpage>472</fpage>
+          <lpage>483</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-01429">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoffmeister</surname>
+              <given-names>V.F.</given-names>
+            </name>
+            <name>
+              <surname>Wutke</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Kroneberg</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Zur Pharmakologie des Thymolepticum Noxiptilin</article-title>
+          <source>Arzneimittel Forsch.</source>
+          <year>1969</year>
+          <volume>19</volume>
+          <fpage>846</fpage>
+          <lpage>878</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-01429">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoffmeister</surname>
+              <given-names>V.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Zur Frage pharmakologisch-klinischer Wirkungsbeziehungen bei Antidepressiva, dargestellt am Beispiel von Noxiptilin</article-title>
+          <source>Arzneimittel Forsch.</source>
+          <year>1969</year>
+          <volume>19</volume>
+          <fpage>458</fpage>
+          <lpage>467</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-01429">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kairuz</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Truter</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Hugo</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Foxcroft</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Prescribing patterns of tricyclic and selective serotonin reuptake inhibitor antidepressants among a sample of adolescents and young adults</article-title>
+          <source>Pharmacoepidem. Dr. S.</source>
+          <year>2003</year>
+          <volume>12</volume>
+          <fpage>379</fpage>
+          <lpage>382</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-01429">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barbui</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Guaiana</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Hotopl</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Amitriptyline for inpatients and SSRIs for outpatients with depression? Systematic review and meta-regression analysis</article-title>
+          <source>Pharmacopsychiatry</source>
+          <year>2004</year>
+          <volume>37</volume>
+          <fpage>93</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2004-818985</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-01429">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosenbaum</surname>
+              <given-names>T. G.</given-names>
+            </name>
+            <name>
+              <surname>Kou</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Are one or two dangerous? Tricyclic antidepressant exposure in toddlers</article-title>
+          <source>J. Emer. Med.</source>
+          <year>2005</year>
+          <volume>28</volume>
+		  <comment>2</comment>
+          <fpage>169</fpage>
+          <lpage>174</lpage>       
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-01429">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>J. W.</given-names>
+            </name>
+            <name>
+              <surname>Mulrow</surname>
+              <given-names>C. D.</given-names>
+            </name>
+            <name>
+              <surname>Chiquette</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>No&#xEB;l</surname>
+              <given-names>H. P.</given-names>
+            </name>
+            <name>
+              <surname>Aguilar</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Cornell</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>A systematic review of newer pharmacotherapies for depression in adults: evidence report summary</article-title>
+          <source>Ann. Intern. Med.</source>
+          <year>2000</year>
+          <volume>132</volume>
+		   <comment>9</comment>
+          <fpage>743</fpage>
+          <lpage>756</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-01429">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kolts</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>W. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Suicide rates in Clinical Trials of SSRIs, Other Antidepressants, and Placebo: Analysis of FDA Reports</article-title>
+          <source>Am. J. Psychiatry.</source>
+          <year>2003</year>
+          <volume>160</volume>
+          <fpage>790</fpage>
+          <lpage>792</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-01429">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garner</surname>
+              <given-names>E. M.</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>M. W.</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>D. F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tricyclic antidepressant withdrawal syndrome</article-title>
+          <source>Ann. Pharmacother.</source>
+          <year>1993</year>
+          <volume>27</volume>
+          <fpage>1068</fpage>
+          <lpage>1072</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-01429">
+        <label>18.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Merka&#x161;</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Litvi&#x107;</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mikoti&#x107;-Mihun</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Cepanec</surname>
+              <given-names>I.</given-names>
+            </name>
+			 <aff>(Belupo Ltd)</aff>
+          </person-group>
+		  <article-title>Preparation of Biologically Active Derivatives of 3,7- and 1,7-Dibromodibenzosuberone</article-title>
+          <source>Hungarian Patent appl.</source>
+          <patent>HR-P20000761A</patent>
+          <year>2000</year>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-01429">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oya</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <name>
+              <surname>Hou</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Mu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kung</surname>
+              <given-names>M. P.</given-names>
+            </name>
+            <name>
+              <surname>Acton</surname>
+              <given-names>P. D.</given-names>
+            </name>
+            <name>
+              <surname>Siciliano</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kung</surname>
+              <given-names>H. F.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-((2-((Dimethylamino)methyl)phenyl)thio)-5-iodophenylamine (ADAM): An Improved Serotonin Transporter Ligand</article-title>
+          <source>Nucl. Med. Biol.</source>
+          <year>2000</year>
+          <volume>27</volume>
+		  <comment>3</comment>
+          <fpage>249</fpage>
+          <lpage>254</lpage>        
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-01429">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baumann</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pharmacokinetics-Pharmacodynamics Relationships of the Selective Serotonin Reuptake Inhibitors</article-title>
+          <source>Clin. Pharmacokinet.</source>
+          <year>1996</year>
+          <volume>31</volume>
+		   <comment>6</comment>
+          <fpage>444</fpage>
+          <lpage>469</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molecules-10-01429">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baumann</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Care of Depression in the Elderly: Comparative pharmacokinetics of SSRIs</article-title>
+          <source>Int. Clin. Psychopharmacol.</source>
+          <year>1998</year>
+          <volume>13</volume>
+          <fpage>S35</fpage>
+          <lpage>S43</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-01429">
+        <label>22.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Merka&#x161;</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Litvi&#x107;</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Vinkovi&#x107;</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Mikoti&#x107;-Mihun</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Cepanec</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>manuscript in preparation</article-title>
+        </citation>
+      </ref>
+      <ref id="B23-molecules-10-01429">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pearson</surname>
+              <given-names>D. E.</given-names>
+            </name>
+            <name>
+              <surname>Keaton</surname>
+              <given-names>O. D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lethargic Reactions. I. The Preparation of Hindered Oximes</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1963</year>
+          <volume>28</volume>
+          <fpage>1557</fpage>
+          <lpage>1558</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molecules-10-01429">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>P. A. S.</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>J. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Some Factors Affecting the Site of Alkylation of Oxime Salts</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1962</year>
+          <volume>84</volume>
+          <fpage>1197</fpage>
+          <lpage>1204</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00866a027</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molecules-10-01429">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Buehler</surname>
+              <given-names>E. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Alkylation of <italic>syn</italic>- and <italic>anti</italic>-Benzaldoximes</article-title>
+          <source>Org. Chem.</source>
+          <year>1967</year>
+          <volume>32</volume>
+          <fpage>261</fpage>
+          <lpage>265</lpage>
+        </citation>
+      </ref>
+      <ref id="B26-molecules-10-01429">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grubbs</surname>
+              <given-names>E. J.</given-names>
+            </name>
+            <name>
+              <surname>Villarreal</surname>
+              <given-names>J. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Geometrical Isomerization in <italic>O</italic>-Alkyl Oximes</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1969</year>
+          <volume>23</volume>
+          <fpage>1841</fpage>
+          <lpage>1844</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molecules-10-01429">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holm</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and Properties of 1,1-Diaryl-1,3-butadienes</article-title>
+          <source>Acta Chem. Scand.</source>
+          <year>1963</year>
+          <volume>17</volume>
+          <fpage>2437</fpage>
+          <lpage>2443</lpage>
+        </citation>
+      </ref>
+      <ref id="B28-molecules-10-01429">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Le&#x161;eticky</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Smer&#x10D;ek</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Svata</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Podlahova</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Podlaha</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Cisarova</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Synthesis and X-Ray Structure of 3,7-Diiododibenzosuberone</article-title>
+          <source>Collect. Czech. Chem. Commun.</source>
+          <year>1990</year>
+          <volume>55</volume>
+          <fpage>2677</fpage>
+          <lpage>2685</lpage>
+        </citation>
+      </ref>
+      <ref id="B29-molecules-10-01429">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ebn&#xF6;ther</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jucker</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Stoll</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Atropisomerie in der Dibenzo[a,d]cyclohepten-Reihe</article-title>
+          <source>Helv. Chim. Acta.</source>
+          <year>1965</year>
+          <volume>48</volume>
+          <fpage>1237</fpage>
+          <lpage>1249</lpage>
+        </citation>
+      </ref>
+      <ref id="B30-molecules-10-01429">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schumacher</surname>
+              <given-names>D. P.</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>B. L.</given-names>
+            </name>
+            <name>
+              <surname>Clark</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Tahabaz</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Mann</surname>
+              <given-names>T. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Superacid Cyclodehydration of Ketones in the Production of Tricyclic Antihistamines</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1989</year>
+          <volume>54</volume>
+          <fpage>2242</fpage>
+          <lpage>2244</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	 <fn>
+	 <p><italic>Sample availability</italic>: Available from the author</p>
+	</fn>
+	</fn-group>
+  </back>
+</article>

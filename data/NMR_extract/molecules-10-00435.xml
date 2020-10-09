@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molecules</journal-id>
+      <journal-title>Molecules</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molecules</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molecules</abbrev-journal-title>
+      <issn pub-type="epub">1420-3049</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/10020435</article-id>
+      <article-id pub-id-type="publisher-id">molecules-10-00435</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><sup>1</sup>H- and <sup>13</sup>C-NMR Analysis of a Series of 1,2-Diaryl-1<italic>H</italic>-4,5-dihydroimidazoles</article-title>
+      </title-group>
+      <contrib-group>
+	  <contrib contrib-type="author">
+          <name>
+            <surname>Salerno</surname>
+            <given-names>Alejandra</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Perillo</surname>
+            <given-names>Isabel A.</given-names>
+          </name>
+          <xref rid="c1-molecules-10-00435" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molecules-10-00435">Department of Organic Chemistry, Faculty of Pharmacy and Biochemistry, University of Buenos Aires, Jun&#xED;n 956 (1113), Buenos Aires, Argentina. Fax: 5411-49648250</aff>
+      <author-notes>
+        <corresp id="c1-molecules-10-00435"><label>*</label>Author to whom correspondence should be addressed; e-mail: <email>iperillo@ffyb.uba.ar</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>435</fpage>
+      <lpage>443</lpage>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>09</month>
+          <year>2004</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>28</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>12</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access">
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>An analysis of the <sup>1</sup>H- and <sup>13</sup>C-NMR spectra of a series of 1,2-diaryl-1<italic>H</italic>-4,5-dihydroimidazoles and comparisons with 4,5-dihydroimidazoles having different substitution patterns are presented. The influence of different 1-aryl and 2-aryl group substituents on spectroscopic parameters of the heterocyclic ring and on the contributions of possible mesomeric structures in the system was determined. Spectroscopic features are coherent with the presence of two conjugated systems (Ar<sub>1</sub>-N and Ar<sub>2</sub>-C=N) which compete with the delocalization characteristics of the amidine system.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>1,2-Diaryl-1<italic>H</italic>-4,5-dihydroimidazoles</kwd>
+		<kwd>spectroscopic characterization</kwd>
+		<kwd><sup>1</sup>H- and <sup>13</sup>C-NMR spectra</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>1<italic>H</italic>-4,5-Dihydroimidazoles (2-imidazolines, <bold>I</bold>) are cyclic amidines of pharmacological interest owing to certain properties exhibited by some members of the class, such as antihypertensive [<xref ref-type="bibr" rid="B1-molecules-10-00435">1</xref>], antihelminthic [<xref ref-type="bibr" rid="B2-molecules-10-00435">2</xref>,<xref ref-type="bibr" rid="B3-molecules-10-00435">3</xref>], hypoglycemic [<xref ref-type="bibr" rid="B5-molecules-10-00435">5</xref>], antiinflamatory and analgesic activity [<xref ref-type="bibr" rid="B4-molecules-10-00435">4</xref>]. These biological effects were attributed to activation of three groups of imidazoline receptors (I<sub>1</sub>, I<sub>2</sub>, I<sub>3</sub>) [<xref ref-type="bibr" rid="B6-molecules-10-00435">6</xref>].  From a chemical point of view, the synthesis and study of such compounds is of interest because they are synthetic intermediates in the preparation of 1,3-diazole derivatives [<xref ref-type="bibr" rid="B7-molecules-10-00435">7</xref>,<xref ref-type="bibr" rid="B8-molecules-10-00435">8</xref>,<xref ref-type="bibr" rid="B9-molecules-10-00435">9</xref>,<xref ref-type="bibr" rid="B10-molecules-10-00435">10</xref>,<xref ref-type="bibr" rid="B11-molecules-10-00435">11</xref>,<xref ref-type="bibr" rid="B12-molecules-10-00435">12</xref>] and of acyclic compounds carrying the ethylenediamine structural unit (&gt;N-(CH<sub>2</sub>)<sub>2</sub>-N&lt;)[<xref ref-type="bibr" rid="B12-molecules-10-00435">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00435">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00435">14</xref>,<xref ref-type="bibr" rid="B15-molecules-10-00435">15</xref>]. Imidazoline nuclei were also employed as a source of carbon units in transfer reactions [<xref ref-type="bibr" rid="B15-molecules-10-00435">15</xref>,<xref ref-type="bibr" rid="B16-molecules-10-00435">16</xref>]. <italic>N</italic>-Alkyl substituted compounds have been extensively investigated while the <italic>N</italic>-aryl derivatives have been less studied, with the latest reports on the latter coming mostly from our laboratories [<xref ref-type="bibr" rid="B12-molecules-10-00435">12</xref>,<xref ref-type="bibr" rid="B13-molecules-10-00435">13</xref>,<xref ref-type="bibr" rid="B14-molecules-10-00435">14</xref>,<xref ref-type="bibr" rid="B17-molecules-10-00435">17</xref>,<xref ref-type="bibr" rid="B18-molecules-10-00435">18</xref>,<xref ref-type="bibr" rid="B19-molecules-10-00435">19</xref>].  Spectroscopic analysis is a suitable method to throw light upon electronic perturbations inherent to a system and to exhibit its structural features. The scarce antecedents concerning this subject in imidazoline field led us to present in this work a <sup>1</sup>H- and <sup>13</sup>C-NMR analysis of a series of 1,2-diaryl-1<italic>H</italic>-4,5-dihydroimidazoles <bold>1-11</bold> and a comparison with compounds <bold>12-14</bold> having different substitution patterns (<xref ref-type="table" rid="molecules-10-00435-t001">Table 1</xref>).</p>
+      <table-wrap id="molecules-10-00435-t001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00435-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>1<italic>H-</italic>4,5-Dihydroimidazoles</p>
+		 </caption>
+         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-i001.tif"/>
+        <table>
+          <thead>
+            <tr style="border-top: hidden">
+              <th style="border-right: solid thin" align="center" valign="top">Compound</th>
+              <th align="center" valign="top">R<sub>1</sub></th>
+              <th align="center" valign="top">R<sub>2</sub></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>1</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>2</bold></td>
+              <td align="center" valign="top">4-CH<sub>3</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>3</bold></td>
+              <td align="center" valign="top">4-CH<sub>3</sub>OC<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>4</bold></td>
+              <td align="center" valign="top">4-ClC<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>5</bold></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>6</bold></td>
+              <td align="center" valign="top">3,4-(CH<sub>3</sub>O)<sub>2</sub>C<sub>6</sub>H<sub>3</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>7</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4-CH<sub>3</sub>OC<sub>6</sub>H<sub>4</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>8</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4-ClC<sub>6</sub>H<sub>4</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>9</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">3-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>10</bold></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>11</bold></td>
+              <td align="center" valign="top">2-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>12</bold></td>
+              <td align="center" valign="top">CH<sub>3</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>13</bold></td>
+              <td align="center" valign="top"><italic>iso</italic>-C<sub>3</sub>H<sub>7</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+            </tr>
+            <tr style="border-bottom: hidden">
+              <td style="border-right: solid thin" align="center" valign="top"><bold>14</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">CH<sub>3</sub></td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The studied 1,2-diaryl-1<italic>H</italic>-4,5-dihydroimidazoles <bold>1-11</bold> are compounds capable of exhibiting cross conjugation, where different possibilities of electron delocalization must be evaluated in order to interpret their spectroscopic features. Thus, together with mesomeric structures typical of amidines (<bold>I-II</bold>) we should consider the resonance of the aniline system Ar-N1 (<bold>III</bold>) and the conjugation of the C2-aryl with the amidine C=N (<bold>IV</bold>) (<xref ref-type="scheme" rid="molecules-10-00435-f001">Scheme 1</xref>). <sup>1</sup>H-NMR spectra of compounds <bold>1</bold>-<bold>14</bold> are presented in <xref ref-type="table" rid="molecules-10-00435-t002">Table 2</xref>. Chemical shifts of the protons in the ethylenediamine moiety of the heterocyclic ring show accidental coincidence in compounds <bold>1</bold>-<bold>4</bold>, <bold>7</bold>-<bold>10</bold> and yield a sharp singlet in the 3.98-4.20 ppm region. On the other hand, they appear as a centrosymmetric signal typical of an AA&#xB4;BB&#xB4; system in compounds <bold>5</bold> and <bold>6</bold> and as two triplets in compound <bold>11</bold>. In all cases, these protons appear at lower fields than those of 1-alkyl-2-aryl imidazolines <bold>12, 13</bold> used as reference. This fact reveals a lower electron density in the amidine system of the 1,2-diaryl derivatives due to the contribution of canonic forms <bold>III</bold> [<xref ref-type="bibr" rid="B20-molecules-10-00435">20</xref>] (with positively charged N1) resulting from competition of the 1-aryl group for the N1 lone electron pair.</p>
+      <fig id="molecules-10-00435-f001" position="float">
+        <object-id pub-id-type="pii">molecules-10-00435-scheme1_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Mesomeric structures in 1,2-diaryl-1<italic>H</italic>-4,5-dihydroimidazoles</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-g001.tif"/>
+      </fig>
+      <p>Taking compound <bold>1</bold> as reference, the presence of electron donors or lightly withdrawing substituents on the 1-aryl group (H, CH<sub>3</sub>, Cl, OCH<sub>3</sub>) in general does not lead to substantial changes in the heterocyclic hydrogen chemical shifts. In the case of the 1-<italic>p</italic>-nitrophenyl compound <bold>5</bold> a paramagnetic shift of 0.12 ppm is observed, also demonstrating a difference in the magnetic neighborhood of protons which appear as a centrosymmetric multiplet as a result of the contribution of structure <bold>V</bold>. The contribution of canonic structures <bold>III</bold> is revealed in the shielding observed for 1-aryl <italic>ortho</italic> and <italic>para</italic> hydrogens. However, this effect is less than that previously observed in <italic>N</italic>-aryl-ethylenediamines [<xref ref-type="bibr" rid="B19-molecules-10-00435">19</xref>], since the N1 lone electron pair is also involved in electron delocalization of amidine system (<bold>I</bold>&#x2194;<bold>II</bold>). </p>
+      <p>As a particular feature of 1,2-diaryl-1<italic>H</italic>-4,5-dihydroimidazoles, 2-aryl <italic>ortho</italic> hydrogens appear at lower fields that the other aromatic hydrogens. This fact may be associated to the contribution of canonical form <bold>IVa</bold>. This does not occur in 1-alkyl-2-aryl derivatives (<bold>12, 13</bold>), in which phenyl hydrogens appear as singlets, thus indicating a benzene ring practically unperturbed by the amidine system and the essential contribution of structure <bold>II</bold>. Instead, in 1-aryl derivatives conjugation of N1 lone electron pair with the 1-aryl diminishes structure <bold>II</bold> contribution, thus making most important the conjugation of the amidine C=N and 2-aryl (<bold>IV</bold>).</p>
+      <p>Again using compound <bold>1</bold> as reference, the presence of electron donor substituents in the 2-aryl (OCH<sub>3</sub>, Cl) causes a slight upfield shift of ethylene protons by a mesomeric effect, while 1-aryl resonances are practically unmodified. The shielding effect may be associated to the contribution of structure <bold>VI</bold>. On the contrary, introduction of a nitro group on a 2-arylsubstituent (<bold>9</bold>-<bold>11</bold>) induces a paramagnetic shift associated with substituent inductive and mesomeric effects, causing a decrease in the electron density on the heterocyclic ring (<xref ref-type="scheme" rid="molecules-10-00435-f002">Scheme 2</xref>).</p>
+      <fig id="molecules-10-00435-f002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00435-scheme2_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-g002.tif"/>
+      </fig>
+      <table-wrap id="molecules-10-00435-t002" position="float">
+        <object-id pub-id-type="pii">molecules-10-00435-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p><sup>1</sup>H-NMR of 1<italic>H</italic>-4,5-dihydroimidazoles (<bold>1-14</bold>) (&#x3B4; ppm, <italic>J</italic> Hz)</p>
+		  </caption>
+         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-i002.tif"/>
+       <table>
+          <thead>
+            <tr style="border-top: hidden">
+              <th style="border-right: solid thin" align="center" valign="top">Compd.</th>
+              <th align="center" valign="top">R<sub>1</sub></th>
+              <th align="center" valign="top">R<sub>2</sub></th>
+              <th align="center" valign="top">CH<sub>2</sub>-CH<sub>2</sub></th>
+              <th align="center" valign="top">6H-8H</th>
+              <th align="center" valign="top">10H-12H</th>
+              <th align="center" valign="top">R</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>1</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4.03 <break/>s</td>
+              <td align="left" valign="top">6H: 6.70, dd, J<sub>1</sub>=8.70, J<sub>2</sub>=1.01<break/>8H: 6.96, t, J<sub>1</sub>=7.457H: 7.10, t, J<sub>1</sub>= 8.50</td>
+              <td align="left" valign="middle">11H,12H: 7.20-7.35, m 10H: 7.45, d, J=7.02</td>
+              <td align="center" valign="middle">&#x2013;</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>2</bold></td>
+              <td align="center" valign="top">4-CH<sub>3</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4.00<break/>s</td>
+              <td align="left" valign="middle">6H: 6.80, d, J=8.20<break/>7H: 7.05, d, J= 8.20</td>
+              <td align="left" valign="middle">11H,12H: 7.32-7.40, m <break/>10H: 7.52, d, J=7.07</td>
+              <td align="left" valign="middle">3.20, s, CH<sub>3</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>3</bold></td>
+              <td align="center" valign="top">4-CH<sub>3</sub>OC<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4.00 <break/>s</td>
+              <td align="left" valign="top">6H: 6.75, dd, J<sub>1</sub>=8.2, J<sub>2</sub>=2.20<break/>7H: 7.00, dd, J<sub>1</sub>=8.2, J<sub>2</sub>=2.20</td>
+              <td align="left" valign="middle">11H,12H: 7.20-7.33, m,<break/>10H: 7.45 dd, J<sub>1</sub>=8.47, J<sub>2</sub>=1.72</td>
+              <td align="left" valign="middle">3.75, s, CH<sub>3</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>4</bold></td>
+              <td align="center" valign="top">4-ClC<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4.01 <break/>s</td>
+              <td align="left" valign="top">6H: 6.65, dd, J<sub>1</sub>=6.67, J<sub>2</sub>=2.21<break/>7H: 7.08, dd, J<sub>1</sub>=6.67, J<sub>2</sub>=2.21</td>
+              <td align="left" valign="top">11H,12H: 7.21-7.34, m <break/>10H: 7.42, dd, J<sub>1</sub>=6.90, J<sub>2</sub>=1.54</td>
+              <td align="center" valign="middle">&#x2013;</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>5</bold></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4.15 <break/>m [a]</td>
+              <td align="left" valign="top">6H: 6.67, dd, J<sub>1</sub>=7.02, J<sub>2</sub>=2.20<break/>7H: 8.05, dd, J<sub>1</sub>=7.02, J<sub>2</sub>=2.20</td>
+              <td align="left" valign="top">10H-12H:7.47-7.51, m</td>
+              <td align="center" valign="middle">&#x2013;</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>6</bold></td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-i003.tif"/></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4.00<break/>m [a]</td>
+              <td align="left" valign="top">6H: 6.31, d, J= 2.40<break/>6&#xB4;H: 6.44, dd, J<sub>1</sub>=8.40, J<sub>2</sub>=2.40<break/>7&#xB4;H: 6.90, d, J=8.40</td>
+              <td align="left" valign="top">11H,12H: 7.20-7.33, m 10H: 7.46, dd, J<sub>1</sub>=8.50, J<sub>2</sub>=1.80</td>
+              <td align="left" valign="top">3.52, s, OCH<sub>3</sub><break/>3.80, s, OCH<sub>3</sub></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>7</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4-CH<sub>3</sub>OC<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">3.90 <break/>s</td>
+              <td align="left" valign="top">6H: 6.78, m [b]<break/>8H: 6.93-6.98, m<break/>7H: 7.15, dd, J<sub>1</sub>=7.50, J<sub>2</sub>=2.10</td>
+              <td align="left" valign="top">11H: 6.78, m [b]<break/>10H: 7.41, d, J=8.90</td>
+              <td align="left" valign="top">3.65, s, OCH<sub>3</sub></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>8</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4-ClC<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">3.98 <break/>s</td>
+              <td align="left" valign="top">6H: 6.74, dd, J<sub>1</sub>=8.50, J<sub>2</sub>=1.10<break/>8H: 6.97, td, J<sub>1</sub>=7.50, J<sub>2</sub>=1.10<break/>7H: 7.15, dd, J<sub>1</sub>=8.50, J<sub>2</sub>=7.50</td>
+              <td align="left" valign="top">11H: 7.20, d, J=8.50<break/>10H: 7.39, d, J=8.50</td>
+              <td align="center" valign="middle">&#x2013;</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>9</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-i004.tif"/></td>
+              <td align="center" valign="top">4.08 <break/>s</td>
+              <td align="left" valign="top">6H: 6.80, dd, J<sub>1</sub>=8.30, J<sub>2</sub>=1.3<break/>8H: 7.02, t, J=7.80<break/>7H: 7.18, dd, J<sub>1</sub>= 8.30, J<sub>2</sub>=7.80</td>
+              <td align="left" valign="top">11&#xB4;H: 7.43, t, J=7.90<break/>10&#xB4;H: 7.75, td, J<sub>1</sub>=6.40, J<sub>2</sub>=1.50<break/>12H: 8.12, td, J<sub>1</sub>=7.70, J<sub>2</sub>=1.50<break/>10H: 8.40, t, J<sub>1</sub>=1.80</td>
+              <td align="center" valign="middle">&#x2013;</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>10</bold></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">4.20 <break/>s</td>
+              <td align="left" valign="top">6H: 6.71, d, J=9.01<break/>7H: 8.09, d, J=9.01</td>
+              <td align="left" valign="top">10H: 7.70, d, J=8.80<break/>11H: 8.25, d, J= 8.80</td>
+              <td align="center" valign="middle">&#x2013;</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>11</bold> [c]</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-i005.tif"/></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">4H:4.00<break/>t, J=9.20<break/>3H:4.20<break/>t, J=9.20</td>
+              <td align="left" valign="top">6&#xB4;H: 7.08, dd, J<sub>1 </sub>= 7.90<break/>8H: 7.29, dt, J<sub>1 </sub>= 7.78, J<sub>2 </sub>= 1.20<break/>7&#xB4;H:7.42, dt, J<sub>1 </sub>= 7.78, J<sub>2 </sub>= 1.15<break/>7H: 7.84, dd, J<sub>1</sub>=8.09, J<sub>2</sub>=1.15</td>
+              <td align="left" valign="top">10H: 7.61, d, J= 9.09<break/>11H: 8.10, d, J=9.09</td>
+              <td align="center" valign="middle">&#x2013;</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>12</bold></td>
+              <td align="center" valign="top">CH<sub>3</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">3.80<break/>m [a]</td>
+              <td align="left" valign="middle">3.01, s, CH<sub>3</sub></td>
+              <td align="left" valign="middle">10H-12H: 7.30, s</td>
+              <td align="center" valign="middle">&#x2013;</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>13</bold></td>
+              <td align="center" valign="top">CH(CH<sub>3</sub>)<sub>2</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">3.50 <break/>m [a]</td>
+              <td align="left" valign="middle">CH<sub>3 </sub>:1.00, d<break/>CH:2.30, m</td>
+              <td align="left" valign="middle">7.30, s</td>
+              <td align="center" valign="middle">&#x2013;</td>
+              <td></td>
+            </tr>
+            <tr style="border-bottom: hidden">
+              <td style="border-right: solid thin" align="center" valign="top"><bold>14</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">CH<sub>3</sub></td>
+              <td align="center" valign="top">3.90 <break/>s</td>
+              <td align="left" valign="middle">6H,8H: 6.80-6.90, m<break/>7H: 7.40-7.50, m</td>
+              <td align="left" valign="middle">2.10, s, CH<sub>3</sub></td>
+              <td align="center" valign="middle">&#x2013;</td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      <table-wrap-foot>
+      <fn>
+      <p>[a] Centrosymmetric multiplet; [b] Exchangeable assignment; [c] Signals were unequivocally assigned by HMQC and HMBC spectra. Correlation between signal &#x3B4; 4.20 ppm and C2 (160.9 ppm) in the HMBC spectrum confirm the assignment of protons in the ethylenediamine moiety.</p>
+	  </fn>
+      </table-wrap-foot>
+	  </table-wrap>
+      <p>Compound <bold>11</bold> is the only 4,5-dihydroimidazole in which the proton signals of the ethylenediamine moiety are resolved and appear as two triplets. Assignment was unequivocally confirmed by two- dimensional heteronuclear correlation spectra (HMQC and HMBC). The lowest field triplet (&#x3B4;: 4.20) corresponds to methylene adjacent to N=C and the one at &#x3B4;: 4.00 to methylene bonded to N-aryl. Taking compound <bold>10</bold> as a reference, the shielding of the last methylene can be rationalized as the result of <italic>o</italic>-nitrophenyl twisting with respect to the amidine ring in order to avoid steric interaction with the vicinal 2-aryl group, thus determining the lowest contribution of structures <bold>III</bold> (with nitrogen positively charged). When comparing compounds <bold>1</bold> and <bold>14</bold>, it can be seen in the former a shielding of meta hydrogens of 1-aryl which could be attributed to 2-aryl anisotropy.</p>
+      <p><sup>13</sup>C-NMR spectra of compounds <bold>1</bold>-<bold>11</bold> are presented in <xref ref-type="table" rid="molecules-10-00435-t003">Table 3</xref>. The typical signal is that corresponding to heterocyclic ring C2 which generally appears at 160-163 ppm. Taking compound <bold>1</bold> as a reference, the different substitution on 1- and 2-aryl groups affects its chemical shift in such way that the presence of electron donor groups (compounds <bold>3</bold>, <bold>6</bold>, <bold>7</bold>) induces a shift to low fields while electron acceptor groups shields it in 0.8-1.5 ppm (compounds <bold>5</bold>, <bold>9-11</bold>).</p>
+      <table-wrap id="molecules-10-00435-t003" position="float">
+        <object-id pub-id-type="pii">molecules-10-00435-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p><sup>13</sup>C-NMR of 1<italic>H</italic>-4,5-dihydroimidazoles <bold>1</bold>-<bold>11</bold> (&#x3B4; ppm)</p>
+		  </caption>
+         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-i007.tif"/>
+       <table>
+          <thead>
+            <tr style="border-top: hidden">
+              <th style="border-right: solid thin" align="center" valign="top">Compd.</th>
+              <th align="center" valign="top">1-Aryl</th>
+              <th align="center" valign="top">2-Aryl</th>
+              <th align="center" valign="top">2C</th>
+              <th align="center" valign="top">3C,4C</th>
+              <th align="center" valign="top">5C-12C</th>
+              <th align="center" valign="top">R</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>1</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">161.7</td>
+              <td align="center" valign="top">52.5, 53.9</td>
+              <td align="left" valign="top">5C: 142.1; 6C: 122.5; 7C,10C,11C: 128.6, 128.7, 128.0; 8C: 123.4; 9C: 130.7; 12C: 129.9</td>
+              <td align="center" valign="middle">&#x2013;</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>2</bold></td>
+              <td align="center" valign="top">4-CH<sub>3</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">162.0</td>
+              <td align="center" valign="top">52.7, 53.9</td>
+              <td align="left" valign="top">5C: 142.0; 6C: 123.0; 7C,10C,11C: 128.2, 128.9, 129.1; 8C: 131.0; 9C: 130.4; 12C: 128.5</td>
+              <td align="center" valign="top">CH<sub>3</sub>: 20.5</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>3</bold></td>
+              <td align="center" valign="top">4-CH<sub>3</sub>OC<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">163.2</td>
+              <td align="center" valign="top">54.8, 55.1</td>
+              <td align="left" valign="top">5C: 136.1; 6C: 124.9; 7C: 113.8; 8C: 156.1; 9C: 130.9; 10C,11C: 127.8, 128.4; 12C: 129.4</td>
+              <td align="center" valign="middle">&#x2013;</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>4</bold></td>
+              <td align="center" valign="top">4-ClC<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">162.1</td>
+              <td align="center" valign="top">52.8, 53.1</td>
+              <td align="left" valign="top">5C: 141; 6C: 123.5; 7C,10C,11C: 128.7, 128.5, 128.4; 8C: 128.4; 9C: 130.7; 12C: 130.1</td>
+              <td align="center" valign="middle">&#x2013;</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>5</bold></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">160.1</td>
+              <td align="center" valign="top">52.2, 52.9</td>
+              <td align="left" valign="top">5C: 147.4; 6C: 119.3; 7C: 124.2; 8C: 140.9; 9C: 131.4; 10C,11C: 128.0, 128.3; 12C: 131.4</td>
+              <td align="center" valign="middle">&#x2013;</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>6</bold></td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-i003.tif"/></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">163.2</td>
+              <td align="center" valign="top">53.0, 54.1<break/>[a]</td>
+              <td align="left" valign="top">5C: 136.4; 6: 108.2; 6&#xB4;C,7&#xB4;C: 111.3, 115.1; 7C: 149.2; 8C: 145.4; 9C: 131.1; 10C,11C: 129.1, 129.2; 12C: 130.1</td>
+              <td align="center" valign="top">CH<sub>3</sub>O: 55,2, 56.0 [a]</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>7</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4-CH<sub>3</sub>OC<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">162.3 [b]</td>
+              <td align="center" valign="top">52.6, 54.0</td>
+              <td align="left" valign="top">5C: 143.6; 6C: 122.5; 7C: 128.3; 8C: 123.2; 9C: 123.6, 10C: 130.2; 11C: 113.3; 12C: 160.7 [b]</td>
+              <td align="center" valign="top">CH<sub>3</sub>O: 55,1</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>8</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top">4-ClC<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">161.4</td>
+              <td align="center" valign="top">52.7, 53.9</td>
+              <td align="left" valign="top">5C: 142.6; 6C: 122.5, 7C,11C: 128.1, 128.6; 8C: 123.5; 9C: 129.7; 10C: 129.8; 12C: 135.6</td>
+              <td align="center" valign="middle">&#x2013;</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>9</bold></td>
+              <td align="center" valign="top">C<sub>6</sub>H<sub>5</sub></td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-i004.tif"/></td>
+              <td align="center" valign="top">160.1</td>
+              <td align="center" valign="top">53.3, 54.4</td>
+              <td align="left" valign="top">5C: 142.4; 6C: 123.1; 7C: 129.1; 8C,10C,12C: 123.7, 124.4, 124.6; 9C: 132.8; 10&#xB4;C: 134.3; 11C: 147.8; 11&#xB4;C: 129.3</td>
+              <td align="center" valign="middle">&#x2013;</td>
+            </tr>
+            <tr>
+              <td style="border-right: solid thin" align="center" valign="top"><bold>10</bold></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">160.4</td>
+              <td align="center" valign="top">53.4, 54.9</td>
+              <td align="left" valign="top">6C,7C,10C, 11C: 121.9, 126.2, 127.2, 130.7; 9C: 137.9; 5C,8C,12C: 143.3, 147.3, 151.1</td>
+              <td align="center" valign="middle">&#x2013;</td>
+            </tr>
+            <tr style="border-bottom: hidden">
+              <td style="border-right: solid thin" align="center" valign="top"><bold>11</bold> [c]</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-i005.tif"/></td>
+              <td align="center" valign="top">4-NO<sub>2</sub>C<sub>6</sub>H<sub>4</sub></td>
+              <td align="center" valign="top">160.9</td>
+              <td align="center" valign="top">4C:54.5 3C:54.8</td>
+              <td align="left" valign="top">5C: 136.9; 6C: 145.6; 6&#xB4;C: 128.6; 7C: 125.4; 7&#xB4;C: 133.8; 8C: 126.7; 9C: 136.0; 10C: 129.5; 11C: 123.5; 12C: 148.7</td>
+              <td align="center" valign="middle">&#x2013;</td>
+            </tr>
+          </tbody>
+        </table>
+      <table-wrap-foot>
+      <fn>
+      <p>[a] Exchangeable assignment. [b] Exchangeable assignment.[c] Signals were unequivocally assigned by HMQC and HMBC spectra.</p>
+	  </fn>
+      </table-wrap-foot>
+	  </table-wrap>
+      <p>It could be expected that the decrease in electron density on imidazoline ring induced by the presence of nitro substituent in aryl groups would exert a paramagnetic effect. Therefore, the observed diamagnetic effect must be associated to a decrease in the C-N bond order, so that the balance between both effects is the responsible for the shielding observed in the signal of carbons bonded to nitrogen atoms. A similar effect was reported in other nitrogen heterocyclic systems, when ring electron density decreased and polarization effects were overpassed by a diminution in bond order, leading to an effective upfield shift of the C <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molecules-10-00435-i006.tif"/> to the heteroatom [<xref ref-type="bibr" rid="B21-molecules-10-00435">21</xref>]. Carbons 4 and 5 of the 4,5-dihydroimidazole system (C3 and C4 respectively in <xref ref-type="table" rid="molecules-10-00435-t003">Table 3</xref>) appear between 52.2 and 55.8 ppm and are affected in a similar way as C2 by the different substitution on aryl groups.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Spectroscopic features of 1,2-diaryl-1<italic>H</italic>-4,5-dihydroimidazoles are coherent with the presence of two conjugated systems (Ar<sub>1</sub>-N and Ar<sub>2</sub>-C=N), which are responsible of the observed differences with 1-alkyl-2-aryl derivatives. Thus, conjugation of N1 lone pair with 1-aryl competes with the electron delocalization typical of the amidine system, making most important conjugation of 2-aryl with amidine C=N. This determines the shielding of 1-aryl <italic>ortho</italic> and <italic>para</italic> hydrogens and deshielding of 2-aryl <italic>ortho</italic> hydrogens.</p>
+      <p>As a result of electron deficit on N1, ethylene hydrogens show in general a higher deshielding than those observed for 1-alkyl-2-aryl-1<italic>H</italic>-4,5-dihydroimidazoles, and substituent influence is rationalized on the basis of its inductive and mesomeric effects. </p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+    <sec>
+      <title>General</title>
+      <p>Melting points were taken on a B&#xFC;chi capillary apparatus and were uncorrected. The NMR spectra were obtained on a Bruker MSL 300 MHz spectrometer using deuteriochloroform as solvent at room temperature and the standard concentration of samples was 0.10 M. The HMQC and HMBC spectra were recorded using a Bruker AM-500 spectrometer. Chemical shifts are reported in <italic>parts per millon</italic> (&#x3B4;) from tetramethylsilane. Signals are quoted as: s (singlet), d (doublet), dd (double doublet), t (triplet), dt (double doublet), td (triple doublet) and m (multiplet).  J values are given in Hertz (Hz). Compounds <bold>1</bold>, <bold>2</bold>, <bold>5</bold> and <bold>9</bold> [<xref ref-type="bibr" rid="B17-molecules-10-00435">17</xref>]; <bold>3</bold>, <bold>8</bold> and <bold>13</bold> [<xref ref-type="bibr" rid="B12-molecules-10-00435">12</xref>]; <bold>4</bold>, <bold>6</bold> and <bold>10</bold> [<xref ref-type="bibr" rid="B18-molecules-10-00435">18</xref>]; <bold>7</bold> [<xref ref-type="bibr" rid="B14-molecules-10-00435">14</xref>]; <bold>12</bold> [<xref ref-type="bibr" rid="B22-molecules-10-00435">22</xref>] and <bold>14</bold> [<xref ref-type="bibr" rid="B19-molecules-10-00435">19</xref>] were prepared following literature procedures.</p>
+    </sec>
+	</sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work was supported by the Universidad de Buenos Aires and CONICET (Consejo Nacional de Investigaciones Cient&#xED;ficas y Tecnol&#xF3;gicas).</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molecules-10-00435">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Faust</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Yee</surname>
+              <given-names>L. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1961</year>
+		  <volume>26</volume>
+          <fpage>4044</fpage>
+          <pub-id pub-id-type="doi">10.1021/jo01068a096</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molecules-10-00435">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ishikawa</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Pharm. Bull.</source>
+          <year>1980</year>
+		  <volume>28</volume>
+          <fpage>1394</fpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.28.1394</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molecules-10-00435">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McFarland</surname>
+              <given-names>J. W.</given-names>
+            </name>
+            <name>
+              <surname>Conover</surname>
+              <given-names>L. M.</given-names>
+            </name>
+            <name>
+              <surname>Howes</surname>
+              <given-names>H. L.</given-names>
+            </name>
+            <name>
+              <surname>Lynch</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Chisholm</surname>
+              <given-names>D. R.</given-names>
+            </name>
+            <name>
+              <surname>Austin</surname>
+              <given-names>W. C.</given-names>
+            </name>
+            <name>
+              <surname>Cornwell</surname>
+              <given-names>R. L.</given-names>
+            </name>
+            <name>
+              <surname>Danilewicz</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Courtney</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Morgan</surname>
+              <given-names>D. H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1969</year>
+		  <volume>12</volume>
+          <fpage>1066</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molecules-10-00435">
+        <label>4.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+              <collab>Tanabe Seiyaku Co. Ltd.</collab>
+          </person-group>
+          <source>Jpn. Kokai Tokkyo Koho</source>
+          <patent>JP 60 51,176</patent>
+          <year>1985</year>
+		  <comment>[<italic>Chem. Abstr.</italic> <bold>1985</bold>, <italic>103</italic>, 141951t]</comment>
+        </citation>
+      </ref>
+      <ref id="B5-molecules-10-00435">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Le Bian</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Rondu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Pel&#xE9;-Tounian</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Lidy</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Toubout</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Lamouri</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Dive</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Huet</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Pfeiffer</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Renard</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Guardiola-Lemaitre</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Man&#xE9;chez</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Penicaud</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Ktorza</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Godfroid</surname>
+              <given-names>J.-J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1999</year>
+          <volume>42</volume>
+		  <fpage>1587</fpage>
+		  <comment>and references therein</comment>
+        </citation>
+      </ref>
+      <ref id="B6-molecules-10-00435">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Szabo</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Pharmacol. Therapeut.</source>
+          <year>2002</year>
+          <volume>93</volume>
+		  <fpage>1</fpage>
+		  <comment>and references therein</comment>
+        </citation>
+      </ref>
+      <ref id="B7-molecules-10-00435">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martin</surname>
+              <given-names>P.K.</given-names>
+            </name>
+            <name>
+              <surname>Matthews</surname>
+              <given-names>H. R.</given-names>
+            </name>
+            <name>
+              <surname>Rapaport</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Thyagarajan</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1968</year>
+		  <volume>33</volume>
+          <fpage>3758</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molecules-10-00435">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hughey</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Knapp</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Schugar</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1980</year>
+          <volume>9</volume>
+          <fpage>489</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molecules-10-00435">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Klem</surname>
+              <given-names>R. E.</given-names>
+            </name>
+            <name>
+              <surname>Skinner</surname>
+              <given-names>H. F.</given-names>
+            </name>
+            <name>
+              <surname>Walba</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Isensee</surname>
+              <given-names>R. H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1970</year>
+		  <volume>7</volume>
+          <fpage>403</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molecules-10-00435">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsuura</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Saito</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1973</year>
+		  <volume>46</volume>
+          <fpage>3805</fpage>
+          <pub-id pub-id-type="doi">10.1246/bcsj.46.3805</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molecules-10-00435">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>R. C. F.</given-names>
+            </name>
+            <name>
+              <surname>Howard</surname>
+              <given-names>K. J.</given-names>
+            </name>
+            <name>
+              <surname>Snaith</surname>
+              <given-names>J. S.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1997</year>
+          <volume>53</volume>
+          <fpage>1111</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molecules-10-00435">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Salerno</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ceriani</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Perillo</surname>
+              <given-names>I. A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1992</year>
+          <volume>29</volume>
+		  <fpage>1725</fpage>
+		  <comment>and references therein</comment>
+        </citation>
+      </ref>
+      <ref id="B13-molecules-10-00435">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Salerno</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ceriani</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Perillo</surname>
+              <given-names>I. A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1997</year>
+          <volume>34</volume>
+		  <fpage>709</fpage>
+		  <comment>and references therein</comment>
+        </citation>
+      </ref>
+      <ref id="B14-molecules-10-00435">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fern&#xE1;ndez</surname>
+              <given-names>B. M.</given-names>
+            </name>
+            <name>
+              <surname>Reverdito</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Paolucci</surname>
+              <given-names>G. A.</given-names>
+            </name>
+            <name>
+              <surname>Perillo</surname>
+              <given-names>I. A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1987</year>
+		  <volume>24</volume>
+          <fpage>1717</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molecules-10-00435">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anderson</surname>
+              <given-names>H. W.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>R. C. F.</given-names>
+            </name>
+            <name>
+              <surname>Saunders</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>1986</year>
+		  <fpage>1995</fpage>
+		  <comment>and references therein</comment>
+        </citation>
+      </ref>
+      <ref id="B16-molecules-10-00435">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandit</surname>
+              <given-names>U. K.</given-names>
+            </name>
+          </person-group>
+          <source>Pure Appl. Chem.</source>
+          <year>1994</year>
+          <volume>66</volume>
+		  <fpage>759</fpage>
+		  <comment>and references therein</comment>
+        </citation>
+      </ref>
+      <ref id="B17-molecules-10-00435">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perillo</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Lamdan</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1970</year>
+		  <volume>7</volume>
+          <fpage>791</fpage>
+        </citation>
+      </ref>
+      <ref id="B18-molecules-10-00435">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fernandez</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Perillo</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Lamdan</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1973</year>
+		  <volume>10</volume>
+          <fpage>915</fpage>
+        </citation>
+      </ref>
+      <ref id="B19-molecules-10-00435">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perillo</surname>
+              <given-names>I. A.</given-names>
+            </name>
+            <name>
+              <surname>Caterina</surname>
+              <given-names>M. C.</given-names>
+            </name>
+			<name>
+              <surname>Lopez</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Salerno</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>2004</year>
+		  <volume>6</volume>
+          <fpage>851</fpage>
+          <pub-id pub-id-type="doi">10.1055/s-2004-816011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molecules-10-00435">
+        <label>20.</label>
+        <note>
+          <p>This feature is also evidence in the reduced basicity of the compounds [<xref ref-type="bibr" rid="B18-molecules-10-00435">18</xref>]</p>
+		</note>
+      </ref>
+      <ref id="B21-molecules-10-00435">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perillo</surname>
+              <given-names>I. A.</given-names>
+            </name>
+            <name>
+              <surname>Buldain</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Salerno</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Heterocycles</source>
+          <year>2003</year>
+          <volume>60</volume>
+		  <fpage>2013</fpage>
+		  <comment>and references therein</comment>
+        </citation>
+      </ref>
+      <ref id="B22-molecules-10-00435">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cook</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name>
+              <surname>Katritzky</surname>
+              <given-names>A. R.</given-names>
+            </name>
+            <name>
+              <surname>Page</surname>
+              <given-names>A.D.</given-names>
+            </name>
+			<name>
+              <surname>Tack</surname>
+              <given-names>R. D.</given-names>
+            </name>
+            <name>
+              <surname>Witek</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1976</year>
+		  <volume>32</volume>
+          <fpage>1773</fpage>
+          <pub-id pub-id-type="doi">10.1016/0040-4020(76)85173-3</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
