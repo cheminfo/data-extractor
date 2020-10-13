@@ -5,10 +5,10 @@ import { getProducts } from '../getProducts';
 import {getXMLFiles} from '../getXMLFiles';
 
 describe('getProducts', () => {
-  it('should return an array of DOM as products', () => {
+  it('should return an array of DOM as products', async () => {
     const homeDir = join(__dirname, '../../data/NMR_extract');
     let files = getXMLFiles(homeDir);
-    let product = getProducts(files[0]);
+    let product = await getProducts(files[0]);
     // JSDOM.fromFile(files[0]).then(dom => {
       // console.log(dom.serialize());
     // });
