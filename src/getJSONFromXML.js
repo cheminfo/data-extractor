@@ -1,4 +1,5 @@
 import { readFileSync, read, writeFile } from 'fs';
+
 import { xml2js } from 'xml-js';
 
 export function getJSONFromXML(filename) {

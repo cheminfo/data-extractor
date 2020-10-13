@@ -10,7 +10,7 @@ import { getXMLFiles } from './getXMLFiles';
 
 export function myModule() {
   const basedir = join(__dirname, '../data');
-/*
+  /*
   let files = getXMLFiles(basedir);
   files = files.slice(0, 10);
   for (const file of files) {
