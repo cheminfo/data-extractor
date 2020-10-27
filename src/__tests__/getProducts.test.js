@@ -1,20 +1,28 @@
+import { profileEnd } from 'console';
 import { join } from 'path';
-
-import { JSDOM } from 'jsdom';
 
 import { getProducts } from '../getProducts';
 import { getXMLFiles } from '../getXMLFiles';
 
 describe('getProducts', () => {
   it('should return an array of DOM as products', async () => {
-    const homeDir = join(__dirname, '../../data/NMR_extract');
+    const homeDir = join(__dirname, '../../data/data');
     let files = getXMLFiles(homeDir);
-    let product = await getProducts(files[0]);
-    // JSDOM.fromFile(files[0]).then(dom => {
-    // console.log(dom.serialize());
-    // });
-    //console.log(product);
+    let products = [];
+    let fileCount = 0;
+    for (let file of files) {
+      let product = await getProducts(file);
+      if (product.length > 0) {
+        product.forEach((e) => {
+          products.push(e);
+        });
+        fileCount += 1;
+      }
+    }
 
-    expect(product).toBeDefined(); //the expected length is correct !
+    console.log(products[44]); // the title containing the name of the molecule is contained in the 'prev' element
+    console.log(`${products.length} products found over ${fileCount} files.`);
+
+    expect(products.length).toBeGreaterThan(0);
   });
 });

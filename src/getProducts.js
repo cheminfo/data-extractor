@@ -1,42 +1,39 @@
 import { readFileSync } from 'fs';
 
-import { JSDOM } from 'jsdom';
+import cheerio from 'cheerio';
+import { util } from 'prettier';
 
 export async function getProducts(filename) {
-  console.log(filename);
-  let dom = await JSDOM.fromFile(filename, { contentType: 'text/xml' });
+  // Using 'cheerio' module to recover DOM-element containing 'NMR' and its respective text --> to parse -------------------------
 
-  let children = dom.window.document.children;
+  let xml = cheerio.load(readFileSync(filename), {
+    xml: {
+      xmlMode: true,
+      xml: true,
+    },
+  });
+  let matches = [];
 
-  for (let child of children) {
-    console.log(child.tagName);
-    if (child.children) {
-      for (let child2 of child.children) {
-        console.log(child2.tagName);
-        if (child2.innerHTML.includes('NMR')) {
-          console.log('xpath');
-        }
-      }
-    }
-  }
+  let elem = xml('*');
 
-  function searchDOM(node, xpath, results) {
-    if (node.children) {
-      xpath.push(node.tagName);
-      searchDOM(node.children, xpath, results);
-      xpath.pop();
-    } else if (node.innerHTML.includes('NMR')) {
-      results.push({
-        xpath: xpath.slice(),
+  let filtElem = elem.filter(function (i, e) {
+    return xml(this).text().includes('NMR');
+  });
+  filtElem.each(function (i, e) {
+    if (
+      this.tagName === 'p' &&
+      xml(this).parents('sec').parent().attr('sec-type') === 'methods' &&
+      !xml(this).prev('title').text().includes('General')
+    ) {
+      matches.push({
+        tag: this.tagName,
+        file: filename,
+        name: xml(this).siblings('title').text(),
+        text: xml(this).html(),
+        DOM: xml(this).get(),
       });
     }
-  }
+  });
 
-  console.log(children);
-
-  console.log(
-    dom.window.document.getElementById('af1-molecules-10-00098').innerHTML,
-  );
-
-  return dom;
+  return matches;
 }

@@ -51,6 +51,7 @@
     "rollup": "^2.26.11"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "fs": "0.0.1-security",
     "jsdom": "^16.4.0",
     "path": "^0.12.7",
