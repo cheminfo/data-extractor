@@ -3,12 +3,19 @@ import { join } from 'path';
 
 import { recursiveReaddirSync } from 'recursive-readdir-sync';
 
-import { checkProduct } from './checkProduct';
+import { getCandidates } from './getCandidates';
 import { enhanceProduct } from './enhanceProduct';
 import { getJSONFromXML } from './getJSONFromXML';
 import { getXMLFiles } from './getXMLFiles';
 
-export function myModule() {
+export function extractData(homeDir) {
+  const filenames = getXMLFiles(homeDir);
+  for (let filename of filenames) {
+    let candidates = getCandidates(filename);
+    let cleanedCandidates = cleanCandidates(candidates);
+    let parsedCandidates = parseCandidates(cleanedCandidates);
+  }
+
   const basedir = join(__dirname, '../data');
   /*
   let files = getXMLFiles(basedir);

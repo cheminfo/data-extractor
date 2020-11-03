@@ -1,20 +1,21 @@
 import { profileEnd } from 'console';
 import { join } from 'path';
 
-import { getCandidate } from '../getCandidate';
+import { getCandidates } from '../getCandidates';
 import { getSingleP } from '../getSingleP';
 import { getXMLFiles } from '../getXMLFiles';
 
-describe('getCandidate', () => {
+describe('getCandidates', () => {
   it('should return an array of DOM as products', () => {
     const homeDir = join(__dirname, '../../data/data');
     let files = getXMLFiles(homeDir);
+
     let candidate = [];
     let matched = [];
     let unmatched = [];
     for (let file of files) {
       let filename = /molecules-[^/]*.xml/.exec(file);
-      let product = getCandidate(file);
+      let product = getCandidates(file);
       if (product.length > 0) {
         product.forEach((e) => {
           candidate.push({
@@ -33,18 +34,25 @@ describe('getCandidate', () => {
     );
 
     let singles = [];
-    let names = [];
     candidate.forEach((e) => {
       let single = getSingleP(e);
       if (single) {
         singles.push(single);
-        names.push(`${single.name} found in ${single.filename}`);
       }
     });
+
+    let names = singles.map((single) => ({
+      name: single.name,
+      filename: single.filename,
+    }));
+
+    /*
     console.log(`Found ${singles.length} single products`);
     console.log(unmatched);
     console.log(singles[0]);
-    console.log(names);
+     */
+    console.table(names);
+
     expect(candidate.length).toBeGreaterThan(0);
   });
 });

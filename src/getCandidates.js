@@ -1,9 +1,12 @@
 import { readFileSync } from 'fs';
 
 import cheerio from 'cheerio';
-import { util } from 'prettier';
 
-export function getCandidate(filename) {
+/**
+ *
+ * @param {string} filename
+ */
+export function getCandidates(filename) {
   // Using 'cheerio' module to recover DOM-element containing 'NMR' and its respective text --> to parse -------------------------
 
   let xml = cheerio.load(readFileSync(filename), {
