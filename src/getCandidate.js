@@ -14,18 +14,18 @@ export function getCandidate(filename) {
   });
   let matches = [];
 
-  let elem = xml('*');
+  let allElements = xml('*');
 
-  let filtElem = elem.filter(function (i, e) {
-    return xml(this).text().includes('NMR');
+  let filterElements = allElements.filter((i, element) => {
+    return xml(element).text().includes('NMR');
   });
-  filtElem.each(function (i, e) {
+  filterElements.each((i, element) => {
     if (
-      this.tagName === 'p' &&
-      xml(this).parents('sec').parent().attr('sec-type') === 'methods' &&
-      !matches.includes(xml(this).parent().html())
+      element.tagName === 'p' &&
+      xml(element).parents('sec').parent().attr('sec-type') === 'methods' &&
+      !matches.includes(xml(element).parent().html())
     ) {
-      matches.push(xml(this).parent().html());
+      matches.push(xml(element).parent().html());
     }
   });
 
