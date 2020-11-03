@@ -3,7 +3,7 @@ import { readFileSync } from 'fs';
 import cheerio from 'cheerio';
 import { util } from 'prettier';
 
-export async function getProducts(filename) {
+export function getCandidate(filename) {
   // Using 'cheerio' module to recover DOM-element containing 'NMR' and its respective text --> to parse -------------------------
 
   let xml = cheerio.load(readFileSync(filename), {
@@ -23,15 +23,9 @@ export async function getProducts(filename) {
     if (
       this.tagName === 'p' &&
       xml(this).parents('sec').parent().attr('sec-type') === 'methods' &&
-      !xml(this).prev('title').text().includes('General')
+      !matches.includes(xml(this).parent().html())
     ) {
-      matches.push({
-        tag: this.tagName,
-        file: filename,
-        name: xml(this).siblings('title').text(),
-        text: xml(this).html(),
-        DOM: xml(this).get(),
-      });
+      matches.push(xml(this).parent().html());
     }
   });
 
