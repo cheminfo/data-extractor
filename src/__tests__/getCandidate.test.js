@@ -33,15 +33,18 @@ describe('getCandidate', () => {
     );
 
     let singles = [];
+    let names = [];
     candidate.forEach((e) => {
       let single = getSingleP(e);
       if (single) {
         singles.push(single);
+        names.push(`${single.name} found in ${single.filename}`);
       }
     });
     console.log(`Found ${singles.length} single products`);
     console.log(unmatched);
     console.log(singles[0]);
+    console.log(names);
     expect(candidate.length).toBeGreaterThan(0);
   });
 });
