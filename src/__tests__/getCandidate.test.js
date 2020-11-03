@@ -42,13 +42,6 @@ describe('getCandidate', () => {
     console.log(`Found ${singles.length} single products`);
     console.log(unmatched);
     console.log(singles[0]);
-    let names = [];
-    singles.forEach((e) => {
-      if (/H-NMR.*δ[^;]*;/.exec(e.text)) {
-        names.push(e.name);
-      }
-    });
-    console.log(`${names.length} new single products`);
     expect(candidate.length).toBeGreaterThan(0);
   });
 });
