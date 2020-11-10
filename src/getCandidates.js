@@ -5,7 +5,7 @@ import cheerio from 'cheerio';
 /**
  * Returns an array of candidates (single or multi product,s block) as DOM-strings?, all containing an NMR reference
  * @param {string} filename The filename is the absolute PATH to the file.xml
- * @return {Array} - returns an array containing all candidates matching the conditions
+ * @return {Array<Object>} - returns an array containing all candidates matching the conditions
  */
 export function getCandidates(filename) {
   let xml = cheerio.load(readFileSync(filename), {

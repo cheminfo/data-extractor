@@ -1,15 +1,22 @@
+import appendMolfile from './parser/appendMolfile'
 /**
  * The module takes single-product objects (with text content) in an array and returns an array of parsed product-objects
  * @param {Objects} products {filename, name , text}
  * @return {Objects} parsedProducts {???}
  */
 
-export function parseProducts(products) {
+export async function parseProducts(products) {
   let parsedProducts = [];
   for (let product in products) {
-    let parsed
-    let moleculeName = product.name;
-    let contents = product.text.split(';');
+
+    let result={iupac: product.name};
+
+    await appendMolfile(result); // molfile + MF + em + mw
+
+    appendNMR(result, product.text);
+    appendIR(result, product.text);
+    appendBP(result, product.text);
+
     parsedProducts.push({
       general: {
         name: moleculeName,         //est-ce qu'il faut mettre les guillemets ??

@@ -8,7 +8,7 @@ import cheerio from 'cheerio';
 
 export function splitCandidates(candidates) {
   let singleCandidates = [];
-  let forbidden = [/with/i, /reaction/i, /general/i, /to/i, /product+s?/i];
+  let forbidden = [/with/i, /reaction/i, /general/i, /\sto\s/i, /product+s?/i];
   for (let candidate of candidates) {
     let xml = cheerio.load(candidate.DOM, {
       xml: {
