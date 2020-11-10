@@ -2,23 +2,23 @@ import { profileEnd } from 'console';
 import { join } from 'path';
 
 import { getCandidates } from '../getCandidates';
-import { getSingleP } from '../getSingleP';
 import { getXMLFiles } from '../getXMLFiles';
+import { splitCandidates } from '../splitCandidates';
 
 describe('getCandidates', () => {
   it('should return an array of DOM as products', () => {
     const homeDir = join(__dirname, '../../data/data');
     let files = getXMLFiles(homeDir);
 
-    let candidate = [];
+    let candidates = [];
     let matched = [];
     let unmatched = [];
     for (let file of files) {
       let filename = /molecules-[^/]*.xml/.exec(file);
-      let product = getCandidates(file);
-      if (product.length > 0) {
-        product.forEach((e) => {
-          candidate.push({
+      let found = getCandidates(file);
+      if (found.length > 0) {
+        found.forEach((e) => {
+          candidates.push({
             file: filename[0],
             DOM: e,
           });
@@ -28,31 +28,32 @@ describe('getCandidates', () => {
         unmatched.push(filename[0]);
       }
     }
-    console.log(candidate[44]); // the title containing the name of the molecule is contained in the 'prev' element
+    console.log(candidates[44]); // the title containing the name of the molecule is contained in the 'prev' element
     console.log(
-      `${candidate.length} products found over ${matched.length} files (${files.length} scanned files).`,
+      `${candidates.length} products found over ${matched.length} files (${files.length} scanned files).`,
     );
 
-    let singles = [];
-    candidate.forEach((e) => {
-      let single = getSingleP(e);
-      if (single) {
-        singles.push(single);
+    let singles = splitCandidates(candidates);
+
+    let names = [];
+    let toCheck = [];
+    singles.forEach((element) => {
+      names.push(`${element.name} ------ ${element.filename}`);
+      if (element.name.length < 3){
+        toCheck.push(`${element.name} ------ ${element.filename} \n ${element.text}`);
       }
     });
-
-    let names = singles.map((single) => ({
-      name: single.name,
-      filename: single.filename,
-    }));
+    console.log(`Found ${singles.length} single products`);
 
     /*
-    console.log(`Found ${singles.length} single products`);
     console.log(unmatched);
     console.log(singles[0]);
      */
-    console.table(names);
+    console.log(names);
+    console.log(toCheck);
+    
+    let rawProducts
 
-    expect(candidate.length).toBeGreaterThan(0);
+    expect(candidates.length).toBeGreaterThan(0);
   });
 });

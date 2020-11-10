@@ -3,12 +3,11 @@ import { readFileSync } from 'fs';
 import cheerio from 'cheerio';
 
 /**
- *
- * @param {string} filename
+ * Returns an array of candidates (single or multi product,s block) as DOM-strings?, all containing an NMR reference
+ * @param {string} filename The filename is the absolute PATH to the file.xml
+ * @return {Array} - returns an array containing all candidates matching the conditions
  */
 export function getCandidates(filename) {
-  // Using 'cheerio' module to recover DOM-element containing 'NMR' and its respective text --> to parse -------------------------
-
   let xml = cheerio.load(readFileSync(filename), {
     xml: {
       xmlMode: true,
