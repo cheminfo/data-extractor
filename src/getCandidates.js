@@ -4,17 +4,18 @@ import cheerio from 'cheerio';
 
 /**
  * Returns an array of candidates (single or multi product,s block) as DOM-strings?, all containing an NMR reference
- * @param {string} filename The filename is the absolute PATH to the file.xml
+ * @param {string} file The filename is the absolute PATH to the file.xml
  * @return {Array<Object>} - returns an array containing all candidates matching the conditions
  */
-export function getCandidates(filename) {
-  let xml = cheerio.load(readFileSync(filename), {
+export function getCandidates(file) {
+  let xml = cheerio.load(readFileSync(file), {
     xml: {
       xmlMode: true,
       xml: true,
     },
   });
   let matches = [];
+  const filename = /molecules-[^/]*.xml/.exec(file);
 
   let allElements = xml('*');
 
@@ -25,9 +26,14 @@ export function getCandidates(filename) {
     if (
       element.tagName === 'p' &&
       xml(element).parents('sec').parent().attr('sec-type') === 'methods' &&
-      !matches.includes(xml(element).parent().html())
+      !matches.some((existing) =>
+        xml(element).parent().html().includes(existing.DOM),
+      )
     ) {
-      matches.push(xml(element).parent().html());
+      matches.push({
+        filename: filename[0],
+        DOM: xml(element).parent().html(),
+      });
     }
   });
 

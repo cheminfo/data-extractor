@@ -1,4 +1,4 @@
-import appendMolfile from './parser/appendMolfile'
+import appendNMR from './parser/appendNMR';
 /**
  * The module takes single-product objects (with text content) in an array and returns an array of parsed product-objects
  * @param {Objects} products {filename, name , text}
@@ -7,40 +7,25 @@ import appendMolfile from './parser/appendMolfile'
 
 export async function parseProducts(products) {
   let parsedProducts = [];
-  for (let product in products) {
+  for (let product of products) {
+    let result = { iupac: product.name };
 
-    let result={iupac: product.name};
-
-    await appendMolfile(result); // molfile + MF + em + mw
+    // await appendMolfile(result); // molfile + MF + em + mw
 
     appendNMR(result, product.text);
-    appendIR(result, product.text);
-    appendBP(result, product.text);
+    //   appendIR(result, product.text);
+    //   appendBP(result, product.text);
+    parsedProducts.push(result);
 
-    parsedProducts.push({
-      general: {
-        name: moleculeName,         //est-ce qu'il faut mettre les guillemets ??
-      },
-      spectra: {
-        nmr: 
-      }
-    });
+    //   parsedProducts.push({
+    //     general: {
+    //       name: moleculeName,         //est-ce qu'il faut mettre les guillemets ??
+    //     },
+    //     spectra: {
+    //       nmr:
+    //     }
+    //   });
+    // }
   }
-  return [];
-}
-
-/*
-
-return {
-  general: {
-    iupac: [{value}]
-  }
-  physical: {
-    bp: [{low, high, pressure}]
-    mp: [{low, high}]
-  }
-  spectra: {
-    nmr: [{}]
-  }
-  
+  return parsedProducts;
 }

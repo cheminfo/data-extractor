@@ -8,28 +8,65 @@ import cheerio from 'cheerio';
 
 export function splitCandidates(candidates) {
   let singleCandidates = [];
-  let forbidden = [/with/i, /reaction/i, /general/i, /\sto\s/i, /product+s?/i];
+  let news = [];
+  let forbidden = [
+    /with/i,
+    /reaction/i,
+    /general/i,
+    /compound/i,
+    /\sto\s/i,
+    /product+s?/i,
+    /\sand\s/i,
+  ];
   for (let candidate of candidates) {
     let xml = cheerio.load(candidate.DOM, {
       xml: {
         xml: true,
       },
     });
+    let moleculeName = xml('title')
+      .text()
+      .replace(/.* of /, '')
+      .replace(/ \([0-9]+[a-z]?\).*/, '');
     if (
       xml('p').length < 2 &&
       /H-NMR[^;]*;/.exec(xml('p').text()) &&
+      moleculeName.match(/[a-z]{5}/) &&
       !forbidden.some((element) => xml('title').text().match(element))
     ) {
       singleCandidates.push({
-        filename: candidate.file,
-        name: xml('title')
-          .text()
-          .replace(/.* of /, '')
-          .replace(/ \([0-9]+[a-z]?\).*/, ''),
+        filename: candidate.filename,
+        name: moleculeName,
         text: xml('p').text(),
         nmr: /H-NMR[^;]*/.exec(xml('p').text()),
       });
+    } else {
+      xml('p').each((i, element) => {
+        if (
+          xml(element).children().length > 0 &&
+          /H-NMR[^;]*;/.exec(xml(element).text()) &&
+          xml(element).children().get(0).tagName === 'italic'
+        ) {
+          moleculeName = xml(element)
+            .children('italic')
+            .first()
+            .text()
+            .replace(/.* of /, '')
+            .replace(/ \([0-9]+[a-z]?\).*/, '');
+          if (
+            moleculeName.match(/[a-z]{5}/) &&
+            !forbidden.some((element) => moleculeName.match(element))
+          ) {
+            news.push(`${moleculeName}--${candidate.filename}`);
+            singleCandidates.push({
+              filename: candidate.filename,
+              name: xml(element).children('italic').first().text(),
+            });
+          }
+        }
+      });
     }
   }
+  console.log(news);
   return singleCandidates;
 }
