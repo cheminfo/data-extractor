@@ -52,9 +52,12 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "delay": "^4.4.0",
     "fs": "0.0.1-security",
     "jsdom": "^16.4.0",
+    "mf-parser": "^1.1.6",
     "node-fetch": "^2.6.1",
+    "openchemlib": "^7.2.3",
     "path": "^0.12.7",
     "recursive-readdir-sync": "^1.0.6",
     "url-toolkit": "^2.2.1",
