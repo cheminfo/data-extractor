@@ -36,6 +36,7 @@ export function splitCandidates(candidates) {
     ) {
       singleCandidates.push({
         filename: candidate.filename,
+        DOI: candidate.DOI,
         name: moleculeName,
         text: xml('p').text(),
         nmr: /H-NMR[^;]*/.exec(xml('p').text()),
@@ -60,7 +61,9 @@ export function splitCandidates(candidates) {
             news.push(`${moleculeName}--${candidate.filename}`);
             singleCandidates.push({
               filename: candidate.filename,
+              DOI: candidate.DOI,
               name: xml(element).children('italic').first().text(),
+              text: xml(element).text(),
             });
           }
         }

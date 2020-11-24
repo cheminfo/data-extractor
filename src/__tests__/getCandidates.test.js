@@ -28,7 +28,10 @@ describe('getCandidates', () => {
       `${candidates.length} products found over ${files.length} files (${unmatched} discarted files).`,
     );
 
-    // writeFileSync(join(__dirname, '../../data/JSON-candidates.json'), JSON.stringify(candidates));
+    // writeFileSync(
+    //   join(__dirname, '../../data/JSON-candidates.json'),
+    //   JSON.stringify(candidates),
+    // );
 
     expect(candidates.length).toBeGreaterThan(0);
   });

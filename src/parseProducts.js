@@ -12,7 +12,7 @@ export async function parseProducts(products) {
 
     // await appendMolfile(result); // molfile + MF + em + mw
 
-    appendNMR(result, product.text);
+    // appendNMR(result, product.text);
     //   appendIR(result, product.text);
     //   appendBP(result, product.text);
     parsedProducts.push(result);

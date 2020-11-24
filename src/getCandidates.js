@@ -19,6 +19,11 @@ export function getCandidates(file) {
 
   let allElements = xml('*');
 
+  const articleDOI = xml('article-meta')
+    .children()
+    .filter((i, element) => {
+      return xml(element).attr('pub-id-type') === 'doi';
+    });
   let filterElements = allElements.filter((i, element) => {
     return xml(element).text().includes('NMR');
   });
@@ -32,6 +37,7 @@ export function getCandidates(file) {
     ) {
       matches.push({
         filename: filename[0],
+        DOI: xml(articleDOI).text(),
         DOM: xml(element).parent().html(),
       });
     }
