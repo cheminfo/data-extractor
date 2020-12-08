@@ -16,17 +16,17 @@ export async function parseProducts(products, options) {
   for (let product of products) {
     let result = {
       general: {
-        name: [{ value: product.name, language: 'iupac' }],
+        name: [{ value: product.name, language: 'en' }],
         meta: { doi: product.DOI, filesource: product.filename },
       },
     };
 
-    // await appendMolfile(result); // molfile + MF + em + mw
-    await delay(250);
-    appendAnal(result, product.text, options);
+    await appendMolfile(result); // molfile + MF + em + mw
+    await delay(1000);
     appendIR(result, product.text, options);
+    appendAnal(result, product.text, options);
 
-    //appendNMR(result, product.text);
+    appendNMR(result, product.text,options);
     //   appendBP(result, product.text);
     parsedProducts.push(result);
 

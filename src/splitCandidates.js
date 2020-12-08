@@ -26,7 +26,7 @@ export function splitCandidates(candidates) {
     });
     let moleculeName = xml('title')
       .text()
-      .replace(/.* of /, '')
+      .replace(/.*\sof\s/, '')
       .replace(/ \([0-9]+[a-z]?\).*/, '');
     if (
       xml('p').length < 2 &&
@@ -52,7 +52,7 @@ export function splitCandidates(candidates) {
             .children('italic')
             .first()
             .text()
-            .replace(/.* of /, '')
+            .replace(/.*\sof\s/, '')
             .replace(/ \([0-9]+[a-z]?\).*/, '');
           if (
             moleculeName.match(/[a-z]{5}/) &&
@@ -62,7 +62,7 @@ export function splitCandidates(candidates) {
             singleCandidates.push({
               filename: candidate.filename,
               DOI: candidate.DOI,
-              name: xml(element).children('italic').first().text(),
+              name: moleculeName,
               text: xml(element).text(),
             });
           }
@@ -70,6 +70,5 @@ export function splitCandidates(candidates) {
       });
     }
   }
-  console.log(news);
   return singleCandidates;
 }

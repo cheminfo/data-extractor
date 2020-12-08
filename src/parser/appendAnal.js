@@ -1,15 +1,16 @@
-import { parse } from 'path';
+import { inspect } from 'util';
 
-export default function appendAnal(result, text) {
-  const AnalPattern = /Anal\..*Found/;
+export default function appendAnal(result, text, options = {}) {
+  const AnalPattern = /Anal.*Found/i;
+  const { debug = false } = options;
   if (text.match(AnalPattern)) {
     let index = text.match(AnalPattern).index;
     const anal = text.slice(index, text.length);
-    const found = anal.slice(anal.match(/Found/).index, anal.length);
+    const found = anal.slice(anal.match(/Found/i).index, anal.length);
     const calculated = anal.replace(found, '');
-    let parsedFound = found.match(/(C|H|N),?\s[0-9]+.[0-9]+(;|.)/g);
     let elementalAnalysis = { c: 0, h: 0, n: 0, s: 0 };
-    parsedFound.forEach((element) => {
+    if (debug) elementalAnalysis.source = anal;
+    for (let element of found.match(/(C|H|N),?\s[0-9]+.[0-9]+(;|.)/g)) {
       if (element.includes('C')) {
         elementalAnalysis.c = parseFloat(
           element.replace(/([A-Z]|,|;|\s)/g, ''),
@@ -30,10 +31,12 @@ export default function appendAnal(result, text) {
           element.replace(/([A-Z]|,|;|\s)/g, ''),
         );
       }
-    });
+    }
     let MF = anal.match(/for\s[^\s]+/i);
-    result.elementalAnalysis = [elementalAnalysis];
+    if (!result.spetra) result.spectra = {};
+    result.spectra.elementalAnalysis = [elementalAnalysis];
     // console.log(elementalAnalysis);
     // console.log(`${anal} - ${found} - ${result.general.meta.filesource}`);
   }
+  // console.log(inspect(result, false, null, true));
 }

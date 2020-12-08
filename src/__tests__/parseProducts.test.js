@@ -8,7 +8,7 @@ describe('parseProducts', () => {
   it('should return an object products with parsed info (spectra, general, molfile,...)', async () => {
     const path = join(__dirname, '../../data/JSON-singleProducts.json');
     const singleProducts = JSON.parse(readFileSync(path));
-    let parsedProducts = await parseProducts(singleProducts.slice(95, 100));
+    let parsedProducts = await parseProducts(singleProducts.slice(95, 100), {debug: true});
 
     // const parsedJSON = JSON.stringify(parsedProducts);
     // writeFileSync(
