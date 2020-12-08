@@ -1,7 +1,7 @@
 import delay from 'delay';
 
-import appendAnal from './parser/appendMass';
 import appendIR from './parser/appendIR';
+import appendAnal from './parser/appendMass';
 import appendMolfile from './parser/appendMolfile';
 import appendNMR from './parser/appendNMR';
 
@@ -26,10 +26,9 @@ export async function parseProducts(products, options) {
     appendIR(result, product.text, options);
     appendAnal(result, product.text, options);
 
-    appendNMR(result, product.text,options);
+    appendNMR(result, product.text, options);
     //   appendBP(result, product.text);
     parsedProducts.push(result);
-
   }
   return parsedProducts;
 }

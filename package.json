@@ -55,6 +55,7 @@
     "delay": "^4.4.0",
     "fs": "0.0.1-security",
     "jsdom": "^16.4.0",
+    "md5": "^2.3.0",
     "mf-parser": "^1.1.6",
     "node-fetch": "^2.6.1",
     "openchemlib": "^7.2.3",

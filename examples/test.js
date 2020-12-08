@@ -1,7 +1,16 @@
+import { writeFileSync } from 'fs';
 import { join } from 'path';
 
 import { extractData } from '../src/extractData';
 
-const homedir = join(__dirname, '../data/data');
+async function doAll() {
+  const homedir = join(__dirname, '../data/data');
+  let products = await extractData(homedir);
 
-extractData(homedir);
+  writeFileSync(
+    join(__dirname, 'result.json'),
+    JSON.stringify(products, undefined, 2),
+  );
+}
+
+doAll();

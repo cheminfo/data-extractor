@@ -1,6 +1,6 @@
 import { readFileSync } from 'fs';
 import { join } from 'path';
-import {inspect} from 'util'
+import { inspect } from 'util';
 
 import appendPhysical from '../parser/appendPhysical';
 

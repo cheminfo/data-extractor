@@ -16,7 +16,7 @@ export default function appendPhysical(result, text, options) {
         if (!result.physical.bp) result.physical.bp = [];
         result.physical.bp.push(point);
       }
-      if (points.includes('mp.')){
+      if (points.includes('mp.')) {
         if (!result.physical.mp) result.physical.mp = [];
         result.physical.mp.push(point);
       }

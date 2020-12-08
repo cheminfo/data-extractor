@@ -1,6 +1,6 @@
 import { readFileSync } from 'fs';
 import { join } from 'path';
-import {inspect} from 'util';
+import { inspect } from 'util';
 
 import appendAnal from '../parser/appendMass.js';
 
@@ -13,7 +13,7 @@ describe('appendAnal', () => {
     for (let result of singleProducts.slice(10, 13)) {
       await appendAnal(result, result.text, { debug: true });
       nmrs.push(result);
-      console.log(inspect(result,false, null, true));
+      console.log(inspect(result, false, null, true));
     }
     expect(singleProducts.length).toBeGreaterThan(0);
   });

@@ -20,7 +20,6 @@ export async function extractData(homeDir) {
   console.log(
     `Found ${products.length} products over ${filenames.length} files.`,
   );
-  const parsedJSON = JSON.stringify(products, undefined, 2);
-  writeFileSync(join(__dirname, '../data/JSON-results_2.json'), parsedJSON);
+
   return products;
 }
