@@ -12,7 +12,7 @@ export async function extractData(homeDir) {
   for (let filename of filenames) {
     let candidates = getCandidates(filename);
     let singleProducts = splitCandidates(candidates);
-    let parsedProducts = await parseProducts(singleProducts.slice(10, 13), {
+    let parsedProducts = await parseProducts(singleProducts, {
       debug: true,
     });
     products = await products.concat(parsedProducts);
@@ -21,6 +21,6 @@ export async function extractData(homeDir) {
     `Found ${products.length} products over ${filenames.length} files.`,
   );
   const parsedJSON = JSON.stringify(products, undefined, 2);
-  writeFileSync(join(__dirname, '../data/JSON-results_slice.json'), parsedJSON);
+  writeFileSync(join(__dirname, '../data/JSON-results_2.json'), parsedJSON);
   return products;
 }

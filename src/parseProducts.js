@@ -1,6 +1,6 @@
 import delay from 'delay';
 
-import appendAnal from './parser/appendAnal';
+import appendAnal from './parser/appendMass';
 import appendIR from './parser/appendIR';
 import appendMolfile from './parser/appendMolfile';
 import appendNMR from './parser/appendNMR';
@@ -21,8 +21,8 @@ export async function parseProducts(products, options) {
       },
     };
 
-    await appendMolfile(result); // molfile + MF + em + mw
-    await delay(1000);
+    // await appendMolfile(result); // molfile + MF + em + mw
+    // await delay(1000);
     appendIR(result, product.text, options);
     appendAnal(result, product.text, options);
 
@@ -30,15 +30,6 @@ export async function parseProducts(products, options) {
     //   appendBP(result, product.text);
     parsedProducts.push(result);
 
-    //   parsedProducts.push({
-    //     general: {
-    //       name: moleculeName,         //est-ce qu'il faut mettre les guillemets ??
-    //     },
-    //     spectra: {
-    //       nmr:
-    //     }
-    //   });
-    // }
   }
   return parsedProducts;
 }

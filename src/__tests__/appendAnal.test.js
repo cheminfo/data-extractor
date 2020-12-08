@@ -2,7 +2,7 @@ import { readFileSync } from 'fs';
 import { join } from 'path';
 import {inspect} from 'util';
 
-import appendAnal from '../parser/appendAnal.js';
+import appendAnal from '../parser/appendMass.js';
 
 describe('appendAnal', () => {
   it('should fetch the molfile from URL and return molfile in plain text', async () => {
