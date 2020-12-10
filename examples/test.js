@@ -8,7 +8,7 @@ async function doAll() {
   let products = await extractData(homedir);
 
   writeFileSync(
-    join(__dirname, 'result.json'),
+    join(__dirname, 'result_compare.json'),
     JSON.stringify(products, undefined, 2),
   );
 }

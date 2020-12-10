@@ -17,7 +17,7 @@ export default function appendIR(result, text, options = {}) {
         }
       }
       if (/\([^\)]+\)/.test(remain.replace('cm-1', ''))) {
-        currentIR.solvent = remain
+        currentIR.conditions = remain
           .replace('cm-1', '')
           .match(/\([^\)]+\)/)[0]
           .replace(/\(|\)/g, '');

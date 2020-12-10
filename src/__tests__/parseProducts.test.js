@@ -12,11 +12,6 @@ describe('parseProducts', () => {
       debug: true,
     });
 
-    // const parsedJSON = JSON.stringify(parsedProducts);
-    // writeFileSync(
-    //   join(__dirname, '../../data/JSON-results_2.json'),
-    //   parsedJSON,
-    // ); //?demander pourquoi le test tourne en boucle quand actif
 
     console.log(parsedProducts.length);
     console.log(parsedProducts[0]);

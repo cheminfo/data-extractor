@@ -14,12 +14,14 @@ import appendNMR from './parser/appendNMR';
 export async function parseProducts(products, options) {
   let parsedProducts = [];
   for (let product of products) {
+    const { debug = false } = options;
     let result = {
       general: {
         name: [{ value: product.name, language: 'en' }],
         meta: { doi: product.DOI, filesource: product.filename },
       },
     };
+    if (debug) result.source = product.text;
 
     // await appendMolfile(result); // molfile + MF + em + mw
     // await delay(1000);
