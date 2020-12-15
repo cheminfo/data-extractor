@@ -16,11 +16,11 @@ describe('appendMolfile', () => {
     //   if (element.filename.includes('098')) console.log(i);
     // }
     appendNMR(testResult, test, { debug: true });
-    // for (let result of singleProducts.slice(0, 4)) {
-    //   await appendNMR(result, result.text, { debug: true });
-    //   nmrs.push(result);
-    //   console.log(inspect(result, false, null, true));
-    // }
+    for (let result of singleProducts.slice(0, 4)) {
+      await appendNMR(result, result.text, { debug: true });
+      nmrs.push(result);
+      console.log(inspect(result, false, null, true));
+    }
     console.log(inspect(testResult, false, null, true));
     expect(singleProducts.length).toBeGreaterThan(0);
   });
