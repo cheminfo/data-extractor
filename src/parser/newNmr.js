@@ -1,4 +1,8 @@
+import { parse } from 'path';
 import { inspect } from 'util';
+
+//Run git status !!!
+
 
 export default function newNmr(result, text, options = {}) {
   const { debug = false } = options;
@@ -10,7 +14,7 @@ export default function newNmr(result, text, options = {}) {
       // console.log(nmrRegex);
       if (!result.spectra) result.spectra = {};
       text = text.replace(/([0-9]+),([0-9]+)/, '$1.$2');
-      let peaks = [];
+      let peakStrings = [];
       let stopper = false;
       let nmrString = '';
       for (let i = index; i < text.length; i++) {
@@ -23,7 +27,7 @@ export default function newNmr(result, text, options = {}) {
               (!/([0-9]|\.|-|~|\s)/i.test(text[j]) || j === text.length - 1)
             ) {
               if (j - i > 2) {
-                peaks.push(text.slice(i - 1, j + 1));
+                peakStrings.push(text.slice(i - 1, j + 1));
                 i = j;
                 break;
               } else {
@@ -39,15 +43,42 @@ export default function newNmr(result, text, options = {}) {
         }
         nmrString = text.slice(index, i + 1);
       }
-      if (peaks.length > 0) {
+      if (peakStrings.length > 0) {
         if (!result.spectra.nmr) result.spectra.nmr = [];
-        let nmrProp = text.slice(index,text.indexOf(peaks[0]));
-
+        let currentNmr = {};
+        let nmrProp = text.slice(index, text.indexOf(peakStrings[0]));
+        currentNmr.nucleus = nmrString
+          .match(/[0-9]*[A-Z](-|=)NMR/)[0]
+          .replace(/(-|=)NMR/, '');
+      
         result.spectra.nmr.push({
-          peaks: peaks,
+          peaks: peakStrings,
           nmrSource: nmrString,
           control: nmrProp,
         });
+        let ranges = [];
+        for (let peak of peakStrings) {
+          let currentPeak = {};
+          let values = peak
+            .replace(/\([^\)]+\)/, '')
+            .trim()
+            .match(/[0-9]+(\.[0-9]+)?/g);
+          if (values.length > 1) {
+            let min = values[0];
+            let max = values[1];
+            currentPeak.from = parseFloat(min);
+            currentPeak.to = parseFloat(max);
+          } else {
+            currentPeak.signal = [
+              {
+                delta: parseFloat(values[0]),
+              },
+            ];
+          }
+          ranges.push(currentPeak);
+        }
+        currentNmr.ranges = ranges;
+        result.spectra.nmr.push(currentNmr);
       }
       // console.log(peaks);
     }
