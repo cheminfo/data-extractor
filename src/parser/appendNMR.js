@@ -2,9 +2,10 @@
  * This module is one of the parsers implemented to retrieve NMR-spectrum from the text-source associated with each product. The module itsel is divided
  * into 2 main functions the first (retrievePeaks) will identifiy the nmr-tag and scann caracter by carater identifying several peaks,
  * the second one (parseSpectrum) will loop upon each retrieved spectrum and parse the general properties of the spectrum along with the single peaks and their porperties.
- * @param {Object} result - final object declared and initialized in parseProducts.js
+ * @param {Sample} result - final object declared and initialized in parseProducts.js
  * @param {String} text - the text source to be parsed in order to retrieve nmr-characteirzation
- * @param {Object} options - debug option (boleean) if activated it will append the nmr-string of the spectrum along with a 'control' property with the remaining unparsed information.
+ * @param {Object} [options={}]
+ * @param {boolean} [options.debug=false] - if activated it will append the nmr-string of the spectrum along with a 'control' property with the remaining unparsed information.
  */
 export default function newNmr(result, text, options = {}) {
   // This function will scan the whole text-source and search for nmr-spectrum patterns, scann the pattern and identify the peaks and their related properties.
@@ -162,7 +163,8 @@ export default function newNmr(result, text, options = {}) {
   }
   // Here is the actual script :
   const { debug = false } = options;
-  if (/[0-9]*[A-Z](-|=)NMR/.test(text)) { //triggers the nmr-scanning
+  if (/[0-9]*[A-Z](-|=)NMR/.test(text)) {
+    //triggers the nmr-scanning
     if (debug) result.source = text;
     text = text.replace(/([0-9]+),([0-9]+)/, '$1.$2');
     let spectra = retrievePeaks(text); //retrieve spectra and related peaks in an array

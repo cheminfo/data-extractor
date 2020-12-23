@@ -1,5 +1,3 @@
-import delay from 'delay';
-
 import appendIR from './parser/appendIR';
 import appendAnal from './parser/appendMass';
 import appendMolfile from './parser/appendMolfile';
@@ -7,12 +5,15 @@ import appendPhysical from './parser/appendPhysical';
 import appendNMR from './parser/appendNMR';
 
 /**
+ * @typedef {Object} Sample
+ * @property {General} general
+ * @property {Object} spectra
+ */
+
+/**
  * The module takes single-product objects (with text content) in an array and returns an array of parsed product-objects. The parsing is done calling upon parser-modules found at src/parser.
  * @param {Array<Object>} products - object inherited from splitCanidates.js
  * @return {Array<Objects>} parsedProducts - those are the resulting parsed single products
- */
-/**
- *@typedef {Object} parsedProducts
  */
 
 export async function parseProducts(products, options) {
@@ -29,8 +30,8 @@ export async function parseProducts(products, options) {
     // If the debug-options is on each parser will add a source and control property to the final object containt the initial text-source and the remaining information that has not been parsed.
     if (debug) result.source = product.text;
     // From there on the sub-sequent parsing concern : the physical data (bp,mp), the elemental analysis, the molfile fetched from server, the NMR-spectra associated with the product and the mass characterization (accurate or spectrum).
-    // await appendMolfile(result); // molfile + MF + em + mw
-    // await delay(1000); // prevents 'missuse-errors' from the fetched server
+    await appendMolfile(result); // molfile + MF + em + mw
+
     appendIR(result, product.text, options);
     appendAnal(result, product.text, options);
 

@@ -1,3 +1,5 @@
+import delay from 'delay';
+
 import { existsSync, readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 
@@ -24,18 +26,21 @@ export default async function appendMolfile(result) {
     let response = await fetch(url);
     let molfile = await response.text();
     writeFileSync(targetName, molfile, 'utf8');
+    await delay(1000); // prevents 'missuse-errors' from the fetched server
   }
 
+  if (molfile.split(/\r?\n/).length < 4) return;
+
   result.general.molfile = molfile;
-/*
-  if (molfile) {                                                      // to keep for the checker 
+
+  if (molfile) {
+    // to keep for the checker
     let molecule = OCL.Molecule.fromMolfile(molfile);
     let mf = molecule.getMolecularFormula().formula;
     let mfInfo = new MF(mf).getInfo();
     // todo check property names
     result.general.mf = mfInfo.molecularFormula;
-    result.general.mw = 0;
-    result.general.em = 0;
+    result.general.mw = mfInfo.mass;
+    result.general.em = mfInfo.monoisotopicMass;
   }
-*/
 }
