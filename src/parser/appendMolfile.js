@@ -27,17 +27,15 @@ export default async function appendMolfile(result) {
   }
 
   result.general.molfile = molfile;
-
-  if (molfile) {
+/*
+  if (molfile) {                                                      // to keep for the checker 
     let molecule = OCL.Molecule.fromMolfile(molfile);
     let mf = molecule.getMolecularFormula().formula;
     let mfInfo = new MF(mf).getInfo();
-
-    console.log(mfInfo);
-
     // todo check property names
     result.general.mf = mfInfo.molecularFormula;
     result.general.mw = 0;
     result.general.em = 0;
   }
+*/
 }
