@@ -23,16 +23,10 @@ describe('getCandidates', () => {
         unmatched++;
       }
     }
-    console.log(candidates[44]); // the title containing the name of the molecule is contained in the 'prev' element
+    // console.log(candidates[44]); // the title containing the name of the molecule is contained in the 'prev' element
     console.log(
       `${candidates.length} products found over ${files.length} files (${unmatched} discarted files).`,
     );
-
-    // writeFileSync(
-    //   join(__dirname, '../../data/JSON-candidates.json'),
-    //   JSON.stringify(candidates),
-    // );
-
     expect(candidates.length).toBeGreaterThan(0);
   });
 });

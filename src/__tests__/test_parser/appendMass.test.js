@@ -6,7 +6,7 @@ import appendMass from '../../parser/appendMass.js';
 
 describe('appendMass', () => {
   it('should should parse the mass spectrum infromation from the passed string', async () => {
-    const path = join(__dirname, '../../data/JSON-singleProducts.json');
+    const path = join(__dirname, '../../../examples/productsJSON.json');
     const products = JSON.parse(readFileSync(path));
     let results = [];
     for (let result of products.slice(10, 20)) {

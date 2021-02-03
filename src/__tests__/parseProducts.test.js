@@ -6,7 +6,7 @@ import { parseProducts } from '../parseProducts';
 
 describe('parseProducts', () => {
   it('should return an object products with parsed info (spectra, general, molfile,...)', async () => {
-    const path = join(__dirname, '../../data/JSON-singleProducts.json');
+    const path = join(__dirname, '../../examples/productsJSON.json');
     const singleProducts = JSON.parse(readFileSync(path));
     let parsedProducts = await parseProducts(singleProducts.slice(95, 100), {
       debug: true,

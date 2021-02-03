@@ -6,7 +6,7 @@ import appendNMR from '../../parser/appendNMR.js';
 
 describe('appendMolfile', () => {
   it('should fetch the molfile from URL and return molfile in plain text', async () => {
-    const path = join(__dirname, '../../../data/JSON-singleProducts.json');
+    const path = join(__dirname, '../../../examples/productsJSON.json');
     const singleProducts = JSON.parse(readFileSync(path));
     let results = [];
     // let test1 =

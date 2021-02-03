@@ -6,7 +6,7 @@ import appendPhysical from '../../parser/appendPhysical';
 
 describe('appendMass', () => {
   it('should append to the result the melting or boiling point reported in string', async () => {
-    const path = join(__dirname, '../../data/JSON-singleProducts.json');
+    const path = join(__dirname, '../../../examples/productsJSON.json');
     const products = JSON.parse(readFileSync(path));
     let results = [];
     for (let product of products) {

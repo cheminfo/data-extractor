@@ -30,13 +30,13 @@ export async function parseProducts(products, options) {
     // If the debug-options is on each parser will add a source and control property to the final object containt the initial text-source and the remaining information that has not been parsed.
     if (debug) result.source = product.text;
     // From there on the sub-sequent parsing concern : the physical data (bp,mp), the elemental analysis, the molfile fetched from server, the NMR-spectra associated with the product and the mass characterization (accurate or spectrum).
-    await appendMolfile(result); // molfile + MF + em + mw
+    // await appendMolfile(result); // molfile + MF + em + mw
 
-    appendIR(result, product.text, options);
-    appendAnal(result, product.text, options);
+    // appendIR(result, product.text, options);
+    // appendAnal(result, product.text, options);
 
-    appendNMR(result, product.text, options);
-    appendPhysical(result, product.text, options);
+    // appendNMR(result, product.text, options);
+    // appendPhysical(result, product.text, options);
 
     parsedProducts.push(result);
   }
