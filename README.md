@@ -38,7 +38,7 @@ const filename = ''; //name of the JSON-file
 createJSON(object,targetDirectory,filename);
 ```
 
-For the simplest usage and as an example a little code called 'test.js' has been created in the examples/ directory. This code will scann all the files located in /data/data and parse all the products assigend to a spectral or physical analysis and create a JSON file names 'result.json' containing those products and their spetral and physical analysis.
+For the simplest usage and as an example a little code called 'example.js' has been created in the examples/ directory. This code will scann all the files located in /data/data and parse all the products assigned to a spectral or physical analysis and create a JSON file name 'result-test.json' containing those products and their spetral and physical parsed analysis.
 
 ## [API Documentation](https://cheminfo.github.io/data-extractor/)
 
