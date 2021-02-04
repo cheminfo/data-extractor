@@ -15,7 +15,7 @@ import OCL from 'openchemlib';
  * @property {string} general.meta.filename - is the filename (containing extensions)
  * @property {string} general.molfile - is the retrieved molfile if provided by the external source.
  */
-/**
+
 /**
  * This module generates a molfile starting from a molecule name (should be IUPAC) using and external molfile provider (??).
  * @param {{name: {values: string, languague: string}[], meta: {doi : string, filename: string}}} result  - is the intitial and final object where the parsed characterization will be append.

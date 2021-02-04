@@ -16,7 +16,7 @@ The whole recognition and parsing processes are triggered by the extractData() m
 ```js
 import { extractData } from 'data-extractor/src/extractData.js'
 
-asyn function data-extractor() {
+async function data-extractor() {
     const fileLocation = '/MY-PATH-TO-FILES/';
     let result = await extractData(fileLocation);
     return result;
