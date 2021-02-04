@@ -11,7 +11,7 @@ describe('appendAnal', () => {
     let nmrs = [];
     console.log(singleProducts.slice(10, 13));
     for (let result of singleProducts.slice(10, 13)) {
-      await appendAnal(result, result.text, { debug: true });
+      await appendAnal(result, result.source, { debug: true });
       nmrs.push(result);
       console.log(inspect(result, false, null, true));
     }

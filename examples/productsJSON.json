@@ -1,7 +1,7 @@
 [
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Triblock PLA-PEG(400)-PLA",
           "language": "en"
@@ -16,7 +16,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Triblock PLA-PEG(1500)-PLA",
           "language": "en"
@@ -31,7 +31,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Multiblock PLA-PEG(400)-PLA-co-adipic",
           "language": "en"
@@ -46,7 +46,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Multiblock PLA-PEG(1500)-PLA-co-PEG",
           "language": "en"
@@ -61,7 +61,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(R,R)-N,N’-bis(2,5-dihydroxysalicylidene)-1,2-diaminocyclohexane",
           "language": "en"
@@ -76,7 +76,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "PLA alkene 1% polymer",
           "language": "en"
@@ -91,7 +91,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "PLA alcohol 1% polymer",
           "language": "en"
@@ -106,7 +106,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "PLA acid 1% polymer",
           "language": "en"
@@ -121,7 +121,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "PLA acyl chloride 1% polymer",
           "language": "en"
@@ -136,7 +136,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "PLA-(R,R)-N,N’-bis(2,5-dihydroxysalicylidene)-1,2-diaminocyclohexane polymer",
           "language": "en"
@@ -151,7 +151,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "PLA-(R,R)-N,N’-bis(2,5-dihydroxysalicylidene)-1,2-diaminocyclohexane cobalt polymer",
           "language": "en"
@@ -166,7 +166,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2R*, 3S*)-3-Acetoxy-2-octyl-3-methyltetrahydropyran",
           "language": "en"
@@ -181,7 +181,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-(2-acetoxynonyl)-2-methyltetrahydrofuran",
           "language": "en"
@@ -196,7 +196,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2R*, 5R*)-5-Acetoxy-2-hexyl-5-methyltetrahydropyran",
           "language": "en"
@@ -211,7 +211,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2R*, 5R*)-5-Acetoxy-2-hexyltetrahydropyran",
           "language": "en"
@@ -226,7 +226,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2R*, 5S*)-5-Acetoxy-2-hexyltetrahydropyran",
           "language": "en"
@@ -241,7 +241,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2R*, 4R*)-4-Trifluoroacetoxy-2-heptyl-4-methyltetrahydrofuran",
           "language": "en"
@@ -256,7 +256,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2R*, 4S*)-4-Trifluoroacetoxy-2-heptyl-4-methyltetrahydrofuran",
           "language": "en"
@@ -271,7 +271,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "6-Acetoxy-2-hexyl-6-methyloxepane",
           "language": "en"
@@ -286,7 +286,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-[2-(Phenylsulfonyl)ethyl]tetrahydropyran",
           "language": "en"
@@ -301,7 +301,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Phenoxybenzene",
           "language": "en"
@@ -316,7 +316,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-tert-Butyl-2-methylaniline",
           "language": "en"
@@ -331,7 +331,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-acetyl-5-tert-butyl-2-methylaniline",
           "language": "en"
@@ -346,7 +346,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2,4,6-trimethylaniline",
           "language": "en"
@@ -361,7 +361,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-benzosuberone",
           "language": "en"
@@ -376,7 +376,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "7,8,9,10-tetrahydro-5H-benzocyclooctan-6-one",
           "language": "en"
@@ -391,7 +391,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3‑methyl-2-benzosuberone",
           "language": "en"
@@ -406,7 +406,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-methyl-2-benzosuberone",
           "language": "en"
@@ -421,7 +421,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "13C-Methylideneindan",
           "language": "en"
@@ -436,7 +436,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoate",
           "language": "en"
@@ -451,7 +451,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "n-Propyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoate",
           "language": "en"
@@ -466,7 +466,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Diethylaminoethyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoate",
           "language": "en"
@@ -481,7 +481,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "i-Propyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoate",
           "language": "en"
@@ -496,7 +496,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-n-Butyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoyl amide",
           "language": "en"
@@ -511,7 +511,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N,N-Diethyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoyl amide",
           "language": "en"
@@ -526,7 +526,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-Phenyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoyl amide",
           "language": "en"
@@ -541,7 +541,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-p-Tolyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoyl amide",
           "language": "en"
@@ -556,7 +556,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-m-Tolyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoyl amide",
           "language": "en"
@@ -571,7 +571,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-m-Ethoxyphenyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoyl amide",
           "language": "en"
@@ -586,7 +586,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-o-Chlorophenyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoyl amide",
           "language": "en"
@@ -601,7 +601,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-Methyl-N-phenyl 2-[4’-(dimethylamino)-2’-iodobenzyl]-4-dimethylaminobenzoyl amide",
           "language": "en"
@@ -616,7 +616,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl 4-O-methyl-α-D-glucopyranuronate",
           "language": "en"
@@ -631,7 +631,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(R)-benzyl-2-hydroxy-3-phenylpropanoate",
           "language": "en"
@@ -646,7 +646,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-[2-(tert-Butoxycarbonylmethylamino)acetoxy]-3-phenylpropionic acid benzyl ester",
           "language": "en"
@@ -661,7 +661,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-{2-[(2-tert-Butoxycarbonylamino-3-methylpentanoyl)methylamino]acetoxy}-3-phenylpropionic acid benzyl ester",
           "language": "en"
@@ -676,7 +676,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Methyl-5-methylsulfanyl-7-(3-methylsulfanyl-1,2,4-triazin-5-yl)-1,2,3,4-tetrahydro-2,6-naphthyridine",
           "language": "en"
@@ -691,7 +691,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Methyl-5-methylsulfanyl-7-(3-pyrrolidin-1-yl-1,2,4-triazin-5-yl)-1,2,3,4-tetrahydro-2,6-naphthyridine",
           "language": "en"
@@ -706,7 +706,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Methyl-5-methylsulfonyl-7-(1-methylsulfonyl-6,7-dihydro-5H-cyclopenta[c]pyridin-3-yl)-1,2,3,4-tetrahydro-2,6-naphthyridine",
           "language": "en"
@@ -721,7 +721,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3,3’-Bis(phenyl)-5,5’-bi-1,2,4-triazine",
           "language": "en"
@@ -736,7 +736,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5-Bromo-N-(p-bromophenyl)-3-chlorothieno[3,2-b]thiophene-2-carboxamide",
           "language": "en"
@@ -751,7 +751,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5-Bromo-N-(p-cyanophenyl)-3-chlorothieno[3,2-b]thiophene-2-carboxamide",
           "language": "en"
@@ -766,7 +766,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "6-Bromo- N-(p-bromophenyl)-3,5-dichlorothieno[3,2-b]thiophene-2-carboxamide",
           "language": "en"
@@ -781,7 +781,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "6-Bromo-N-(p-cyanophenyl)-3,5-dichlorothieno[3,2-b]thiophene-2-carboxamide",
           "language": "en"
@@ -796,7 +796,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2,9-Dibromo-5,6-dihydrothieno[2’,3’: 4,5]thieno[2,3-c]quinolin-6-one",
           "language": "en"
@@ -811,7 +811,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Cyano-9-bromo-5,6-dihydrothieno[2’,3’: 4,5]thieno[2,3-c]quinolin-6-one",
           "language": "en"
@@ -826,7 +826,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2,8-Dibromo-5,6-dihydro-9-chlorothieno[2’,3’: 4,5]thieno[2,3-c]quinolin-6-one",
           "language": "en"
@@ -841,7 +841,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Cyano-8-bromo-5,6-dihydro-9-chlorothieno[2’,3’:4,5]thieno[2,3-c]quinolin-6-one",
           "language": "en"
@@ -856,7 +856,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N,N’-di(p-bromophenyl)-3,6-dichlorothieno[2,3-b:2’,3’-d]thiophene-2,5-dicarboxamide",
           "language": "en"
@@ -871,7 +871,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N,N’-di(p-cyanophenyl)-3,6-dichlorothieno[2,3-b:2’,3’-d]thiophene-2,5-dicarboxamide",
           "language": "en"
@@ -886,7 +886,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2,3-Bis(chloromethyl)-1,4-dimethoxyanthraquinone",
           "language": "en"
@@ -901,7 +901,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1,4-Dimethoxy-2,3-bis(2-methyl-2-nitropropyl)anthraquinone",
           "language": "en"
@@ -916,7 +916,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1,4-Dimethoxy-2,3-bis(1-nitrocyclopentylmethyl)anthraquinone",
           "language": "en"
@@ -931,7 +931,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1,4-Dimethoxy-2,3-bis(1-nitrocyclohexylmethyl)anthraquinone",
           "language": "en"
@@ -946,7 +946,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2,3-Bis(2,2-dimethyl-5-nitro[1,3]dioxan-5-ylmethyl)-1,4-dimethoxyanthraquinone",
           "language": "en"
@@ -961,7 +961,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1,4-Dimethoxy-2,3-bis-(toluene-4-sulfonylmethyl)anthraquinone",
           "language": "en"
@@ -976,7 +976,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2,3-Bis(butane-1-sulfonylmethyl)-1,4-dimethoxyanthraquinone",
           "language": "en"
@@ -991,7 +991,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2(S)-N-[2(3-Methoxyphenyl)-2-(thiophenyl)ethanyl]-1-t-butoxycarbonylproline",
           "language": "en"
@@ -1006,7 +1006,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2(S)-N-[2(3-Methoxyphenyl)-2-(thiophenyl)ethanyl]-1-methyl-2-pyrrolinecarboxamide",
           "language": "en"
@@ -1021,7 +1021,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2(S)-N-[(E)-2(3-Methoxyphenyl)ethanyl]-1-methyl-2-pyrrolinecarboxamide",
           "language": "en"
@@ -1036,7 +1036,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2(S)-N-[(E)-2(3-Methoxyphenyl)ethanyl]-1-t-butoxycarbonyl-2-",
           "language": "en"
@@ -1051,7 +1051,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2(S)-N-[(E)-2(3-Methoxyphenyl)ethanyl]-2-pyrrolinecarboxamide",
           "language": "en"
@@ -1066,7 +1066,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(1-Ethoxyethyl)-3-methyl-5-methylsulfanyl-1H-pyrazolo[4,3-e][1,2,4]triazine",
           "language": "en"
@@ -1081,7 +1081,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(1-Ethoxyethyl)-3-methyl-5-methylsulfanyl-1H-pyrazolo[4,3-e][1,2,4]triazine",
           "language": "en"
@@ -1096,7 +1096,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5-Amino-3-methyl-1H-pyrazolo[4,3-e][1,2,4]triazine",
           "language": "en"
@@ -1111,7 +1111,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(1-Ethoxyethyl)-3-methyl-5-hydrazino-1H-pyrazolo[4,3-e][1,2,4]triazine",
           "language": "en"
@@ -1126,7 +1126,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(1-Ethoxyethyl)-3-methyl-1H-pyrazolo[4,3-e][1,2,4]triazine",
           "language": "en"
@@ -1141,7 +1141,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Methyl-1H-pyrazolo[4,3-e][1,2,4]triazine",
           "language": "en"
@@ -1156,7 +1156,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "methyl 3-methyl-5-oxo-4,5-dihydro-3H-imidazo[4,5-b]pyridine-6-carboxylate",
           "language": "en"
@@ -1171,7 +1171,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "ethyl 3-methyl-5-oxo-4,5-dihydro-3H-imidazo[4,5-b]pyridine-6-carboxylate",
           "language": "en"
@@ -1186,7 +1186,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "ethyl 2-methyl-5-oxo-4,5-dihydrothiazolo[5,4-b]pyridine-6-carboxylate",
           "language": "en"
@@ -1201,7 +1201,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Penta-O-(3-bromo)benzoyl-",
           "language": "en"
@@ -1216,7 +1216,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Penta-O-(3-bromo)benzoyl-",
           "language": "en"
@@ -1231,7 +1231,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Penta-O-(3-bromo)benzoyl-",
           "language": "en"
@@ -1246,7 +1246,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Octa-O-(3-bromo)benzoyl-",
           "language": "en"
@@ -1261,7 +1261,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(2-Methoxy-4-O-methoxymethylphenyl)-4,4-dimethyl-1-penten-3-one",
           "language": "en"
@@ -1276,7 +1276,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(2-Methoxy-4-O-methoxymethylphenyl)-4,4-dimethyl-3-pentanone",
           "language": "en"
@@ -1291,7 +1291,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "o1-(4-hydroxy-2-methoxyphenyl)-4,4-dimethyl-3-pentanol",
           "language": "en"
@@ -1306,7 +1306,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-2-tert-Butyl-6-methoxy-1-oxaspiro[4,5]deca-6,9-diene-8-one",
           "language": "en"
@@ -1321,7 +1321,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Ethynyl-2-methylbenzene",
           "language": "en"
@@ -1336,7 +1336,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "[2-(2-ethylphenyl)ethynyl]trimethylsilane",
           "language": "en"
@@ -1351,7 +1351,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Ethyl-2-ethynylbenzene",
           "language": "en"
@@ -1366,7 +1366,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Trimethyl[2-(naphthalen-5-yl)ethynyl]silane",
           "language": "en"
@@ -1381,7 +1381,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(Phenylsulfonyl)-1H-indene",
           "language": "en"
@@ -1396,7 +1396,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(2-o-Tolylethynylsulfonyl)benzene",
           "language": "en"
@@ -1411,7 +1411,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-[2-(2-Ethylphenyl)ethynylsulfonyl]benzene",
           "language": "en"
@@ -1426,7 +1426,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(2-(Phenylsulfonyl)ethynyl)naphthalene",
           "language": "en"
@@ -1441,7 +1441,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(E)-Ethyl 3-(2,6-dichloro-4-trifluoromethylphenylamino)-2-cyano-3-methylthio acrylate",
           "language": "en"
@@ -1456,7 +1456,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(E)-Ethyl 3-(2-chloro-4-methylpyridin-3-yl-amino)-2-cyano-3-methylthio acrylate",
           "language": "en"
@@ -1471,7 +1471,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(E)-Ethyl 3-(4-trifluoromethylphenylamino)-2-cyano-3-methylthio acrylate",
           "language": "en"
@@ -1486,7 +1486,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(E)-Ethyl 3-(4-methylbenzothiazol-2-yl-amino)-2-cyano-3-methylthio acrylate",
           "language": "en"
@@ -1501,7 +1501,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(E)-Ethyl 3-(4-nitrophenylamino)-2-cyano-3-methylthio acrylate",
           "language": "en"
@@ -1516,7 +1516,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(E)-Ethyl 3-(4-bromophenylamino)-2-cyano-3-methylthio acrylate",
           "language": "en"
@@ -1531,7 +1531,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-methylthiophenol",
           "language": "en"
@@ -1546,7 +1546,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Dipropyl sulfoximine",
           "language": "en"
@@ -1561,7 +1561,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Dibutyl sulfoximine",
           "language": "en"
@@ -1576,7 +1576,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Dihexyl sulfoximine",
           "language": "en"
@@ -1591,7 +1591,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl phenyl sulfoximine",
           "language": "en"
@@ -1606,7 +1606,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "O,O-diethyl-N-(dipropylsulfoximine) phosphoramidate",
           "language": "en"
@@ -1621,7 +1621,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "O,O-diethyl-N-(dibutylsulfoximine) phosphoramidate",
           "language": "en"
@@ -1636,7 +1636,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "O,O-diethyl-N-(dihexylsulfoximine) phosphoramidate",
           "language": "en"
@@ -1651,7 +1651,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "O,O-diethyl-N-(dipropylsulfoximine) phosphoramidothionate",
           "language": "en"
@@ -1666,7 +1666,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "O,O-diethyl-N-(dibutylsulfoximine) phosphoramidothionate",
           "language": "en"
@@ -1681,7 +1681,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "O,O-diethyl-N-(dihexylsulfoximine) phosphoramidothionate",
           "language": "en"
@@ -1696,7 +1696,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "O,O-diethyl-N-(methyl phenylsulfoximine) phosphoramidothionate",
           "language": "en"
@@ -1711,7 +1711,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(S)-Dimethyl [N-(N- tertiobutyloxycarbonyl)-sulfamoyl] glutamate",
           "language": "en"
@@ -1726,7 +1726,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "S) Methyl [N,N’-tert-butyloxycarbonyl, N’-chloroethyl)sulfamoyl] alaninate",
           "language": "en"
@@ -1741,7 +1741,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(S) Methyl  [N-( N’-tert-butyloxycarbonyl, N’-chloroethyl)sulfamoyl] valinate",
           "language": "en"
@@ -1756,7 +1756,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(S) Methyl [N-(N’-tert-butyloxycarbonyl, N’-chloroethyl)-sulfamoyl] leucinate",
           "language": "en"
@@ -1771,7 +1771,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(S) Methyl  [N-(N’-tert-butyloxycarbonyl, N’-chloroethyl)-sulfamoyl] aspartate",
           "language": "en"
@@ -1786,7 +1786,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(S) Methyl [N-(N’-tert-butyloxycarbonyl, N’-chloroethyl)-sulfamoyl] glutamate",
           "language": "en"
@@ -1801,7 +1801,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(N2-(2’S)-Propionic acid methyl ester, N5-tert-butyloxycarbonyl)-1,2,5-thiadiazolidine 1,1-dioxide",
           "language": "en"
@@ -1816,7 +1816,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(N2-(2’S)-3’-methylbutyric acid methyl ester, N5-tert-butyloxycarbonyl)-1,2,5-thiadiazolidine-1,1- dioxide",
           "language": "en"
@@ -1831,7 +1831,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(N2-(2’S)-4’-Methylpentanoic acid methyl ester, N5-tert-butyloxycarbonyl)-1,2,5-thiadiazolidine-1,1- dioxide",
           "language": "en"
@@ -1846,7 +1846,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(N2-(2’S)-Bis(1’,3’-methoxycarbonyl)ethyl), N5-tert-butyloxycarbonyl)-1,2,5-thiadiazolidine-1,1-dioxide",
           "language": "en"
@@ -1861,7 +1861,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(N2-(2’S’)-Bis(1’,4’-methoxycarbonyl)propyl, N5-tert-butyloxycarbonyl)-1,2,5-thiadiazolidine-1,1- dioxide",
           "language": "en"
@@ -1876,7 +1876,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N2-(2’S)-(Propionic acid methyl ester) 1,2,5-thiadiazolidine 1,1-dioxide",
           "language": "en"
@@ -1891,7 +1891,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N2-(2’S)-(3-methylbutyric acid methyl ester) 1,2,5-thiadiazolidine 1,1-dioxide",
           "language": "en"
@@ -1906,7 +1906,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N2-(2’S)-4’-methylpentanoic acid methyl ester) 1,2,5-thiadiazolidine 1,1-dioxide",
           "language": "en"
@@ -1921,7 +1921,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N2-(2’S’)-bis(1’,3’-methoxycarbonyl)ethyl] 1,2,5-thiadiazolidine 1,1-dioxide",
           "language": "en"
@@ -1936,7 +1936,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N2-(2’S’)-bis(1’,4’-methoxycarbonyl)propyl] 1,2,5-thiadiazolidine 1,1-dioxide",
           "language": "en"
@@ -1951,7 +1951,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "[N2-(2’S’)-(propionic acid methyl ester), N5-propionyl] 1,2,5-thiadiazolidine 1,1-dioxide",
           "language": "en"
@@ -1966,7 +1966,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "[N2-(2’S)-(3’-methylbutyric acid methyl ester), N5-propionyl] 1,2,5-thiadiazolidine 1,1-dioxide",
           "language": "en"
@@ -1981,7 +1981,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "[N2-(2’S)-4’-methylpentanoic acid methyl ester), N5-propionyl] 1,2,5-thiadiazolidine 1,1-dioxide",
           "language": "en"
@@ -1996,7 +1996,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "[N2-(2’S’)-bis(1’,3’-methoxycarbonylethyl), N5-propionyl] 1,2,5-thiadiazolidine 1,1-dioxide",
           "language": "en"
@@ -2011,7 +2011,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "[N2-(2’S’)-bis(1’,4’-methoxycarbonylpropyl), N5-propionyl] 1,2,5-thiadiazolidine 1,1-dioxide",
           "language": "en"
@@ -2026,7 +2026,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "[N2-(2S)-(Methoxycarbonylethyl), N5-(2’R)-(propionic acid ethyl ester)]-1,2,5-thiadiazolidine 1,1- dioxide",
           "language": "en"
@@ -2041,7 +2041,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "[N2-(2S)-(3-Methylmethoxycarbonylpropyl), N5-(2’R)-propionic acid ethyl ester)] 1,2,5-thiadiazol- idine-1,1-dioxide",
           "language": "en"
@@ -2056,7 +2056,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S*,2R*,4R*)-3,3-Dimethoxy-1-methyl-7-oxabicyclo[2.2.1]hept-5-ene-2-carboxylic acid methyl ester",
           "language": "en"
@@ -2071,7 +2071,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S*,2R*,4R*)-1-Methyl-3-oxo-7-oxabicyclo[2.2.1]hept-5-ene-2-carboxylic acid methyl ester",
           "language": "en"
@@ -2086,7 +2086,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S*,2R*,4R*)-3,3-Dimethoxy-1-methyl-7-oxabicyclo[2.2.1]heptane-2-carboxylic acid methyl ester",
           "language": "en"
@@ -2101,7 +2101,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S*,2R*,4R*)-3,3-Dimethoxy-1-methyl-7-oxabicyclo[2.2.1]hept-5-ene-2-carboxylic acid",
           "language": "en"
@@ -2116,7 +2116,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S*,2S*,3S*,6R*,7R*)-2-Iodo-9,9-dimethoxy-7-mehyl-4,8-dioxatricyclo[4.2.1.03,7]nonan-5-one",
           "language": "en"
@@ -2131,7 +2131,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Thallium tris-[(S)-(-)-2-acetoxypropionic acid] (TTAP)",
           "language": "en"
@@ -2146,7 +2146,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Thallium tripropionate (TTP)",
           "language": "en"
@@ -2161,7 +2161,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3,7-Dibromo-5-hydroxyimino-10,11-dihydro-5H-dibenzo[a,d]cyclohepta-1,4-diene",
           "language": "en"
@@ -2176,7 +2176,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3,7-Dibromo-5-(dimethylaminoethyloxyimino)-10,11-dihydro-5H-dibenzo[a,d]cyclohepta-1,4-diene",
           "language": "en"
@@ -2191,7 +2191,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Ethyl-2-(piperazine-1-carbonyl)-N-(4-trifluoromethyl-benzyl)-butyramide",
           "language": "en"
@@ -2206,7 +2206,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-(2,3-Dihydro-benzo[1,4]dioxin-2-ylmethyl)-2-ethyl-2-[4-(4-methoxy-benzenesulfonyl)-piperazine-1-carbonyl]-butyramide",
           "language": "en"
@@ -2221,7 +2221,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-[4-(1-Phenethylcarbamoyl-cyclobutanecarbonyl)-[1,4]diazepan-1-yl]-4-trifluoromethyl-pyrimidine-5 carboxylic acid 4-chloro-benzyl ester",
           "language": "en"
@@ -2236,7 +2236,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-(1-Phenethylcarbamoyl-cyclobutanecarbonyl)-[1,4]diazepane-1-carboxylic acid (3,5-dimethyl-phenyl) amide",
           "language": "en"
@@ -2251,7 +2251,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 4-(benzyloxy)-7-iodo-1H-indole-2-carboxylate",
           "language": "en"
@@ -2266,7 +2266,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 1-allyl-4-(benzyloxy)-7-iodo-1H-indole-2-carboxylate",
           "language": "en"
@@ -2281,7 +2281,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 1-allyl-4-(benzyloxy)-7-bromo-1H-indole-2-carboxylate",
           "language": "en"
@@ -2296,7 +2296,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 4-(benzyloxy)-7-iodo-1-prop-2-ynyl-1H-indole-2-carboxylate",
           "language": "en"
@@ -2311,7 +2311,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 4-(benzyloxy)-7-bromo-1-prop-2-ynyl-1H-indole-2-carboxylate",
           "language": "en"
@@ -2326,7 +2326,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 4-(benzyloxy)-1-(2-chloro-allyl)-7-iodo-1H-indole-2-carboxylate",
           "language": "en"
@@ -2341,7 +2341,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 4-(benzyloxy)-7-bromo-1-(2-chloro-allyl)-1H-indole-2-carboxylate",
           "language": "en"
@@ -2356,7 +2356,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 9-(benzyloxy)-5,6-dihydro-4H-pyrrolo",
           "language": "en"
@@ -2371,7 +2371,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Method A",
           "language": "en"
@@ -2386,7 +2386,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 9-(benzyloxy)-5-chloro-5,6-dihydro-4H-pyrrolo[3,2,1-ij]quinoline-2-carboxylate",
           "language": "en"
@@ -2401,7 +2401,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 5,9-dihydroxy-5,6-dihydro-4H-pyrrolo[3,2,1-ij]quinoline-2-carboxylate",
           "language": "en"
@@ -2416,7 +2416,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Nitro-2-butanone",
           "language": "en"
@@ -2431,7 +2431,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Nitro-2-pentanone",
           "language": "en"
@@ -2446,7 +2446,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Nitro-3-hexanone",
           "language": "en"
@@ -2461,7 +2461,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Nitro-3-heptanone",
           "language": "en"
@@ -2476,7 +2476,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Nitro-3-decanone",
           "language": "en"
@@ -2491,7 +2491,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5-Methyl-2-nitro-3-hexanone",
           "language": "en"
@@ -2506,7 +2506,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Nitro-1-phenylpropanone",
           "language": "en"
@@ -2521,7 +2521,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(4-Phenylphenacyl)-1,10-phenanthrolinium bromide",
           "language": "en"
@@ -2536,7 +2536,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Dimethyl 1-(4-phenylbenzoyl)-pyrrolo[1,2-a][1,10]phenanthroline-2,3-dicarboxylate",
           "language": "en"
@@ -2551,7 +2551,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Diethyl 1-(4-phenylbenzoyl)-pyrrolo[1,2-a][1,10]phenanthroline-2,3-dicarboxylate",
           "language": "en"
@@ -2566,7 +2566,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Diisopropyl 1-(4-phenylbenzoyl)-pyrrolo[1,2-a][1,10]phenanthroline-2,3-dicarboxylate",
           "language": "en"
@@ -2581,7 +2581,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl 1-(4-phenylbenzoyl)-pyrrolo[1,2-a][1,10]phenanthroline-3-carboxylate",
           "language": "en"
@@ -2596,7 +2596,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-(2-aminophenyl)-4-tert-butyl-thiazoline-2-thione",
           "language": "en"
@@ -2611,7 +2611,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Methyl-thiazolo[3,2-a]benzimidazole",
           "language": "en"
@@ -2626,7 +2626,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2,3-Dimethyl-thiazolo[3,2-a]benzimidazole",
           "language": "en"
@@ -2641,7 +2641,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-tert-Butyl-thiazolo[3,2-a]benzimidazole",
           "language": "en"
@@ -2656,7 +2656,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Methyl-thiazolo[3,2-a]benzimidazolium iodide",
           "language": "en"
@@ -2671,7 +2671,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2,3-Dimethyl-thiazolo[3,2-a]benzimidazolium iodide",
           "language": "en"
@@ -2686,7 +2686,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-tert-Butyl-thiazolo[3,2-a]benzimidazolium iodide",
           "language": "en"
@@ -2701,7 +2701,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-Chloro-5-(4-methoxyphenyl)-1,2,3-dithiazolium perchlorate",
           "language": "en"
@@ -2716,7 +2716,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-Chloro-5-phenyl-1,2,3-dithiazolium perchlorate",
           "language": "en"
@@ -2731,7 +2731,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-Chloro-5-(4-nitrophenyl)-1,2,3-dithiazolium perchlorate",
           "language": "en"
@@ -2746,7 +2746,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Benzyl-5-oxopyrrolidine-3-carboxylic acid methyl ester",
           "language": "en"
@@ -2761,7 +2761,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Methyl-5-oxopyrrolidine-3-carboxylic acid methyl ester",
           "language": "en"
@@ -2776,7 +2776,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Benzyl-5-thioxopyrrolidine-3-carboxylic acid methyl ester",
           "language": "en"
@@ -2791,7 +2791,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Methyl-5-thioxopyrrolidine-3-carboxylic acid methyl ester",
           "language": "en"
@@ -2806,7 +2806,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5-Thioxopyrrolidine-3-carboxylic acid methyl ester",
           "language": "en"
@@ -2821,7 +2821,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5-Thioxopyrrolidine-1,3-dicarboxylic acid dimethyl ester",
           "language": "en"
@@ -2836,7 +2836,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Benzyl-5-(2-ethoxycarbonyl-2-hydrazinyl-1-yliden)-pyrrolidine-3-carboxylic acid methyl ester",
           "language": "en"
@@ -2851,7 +2851,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Methyl-5-(2-ethoxycarbonyl-2-hydrazinyl-1-yliden)-pyrrolidine-3-carboxylic acid methyl ester",
           "language": "en"
@@ -2866,7 +2866,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5-(Ethoxycarbonyl-2-hydrazinyl-1-yliden)-pyrrolidine-1,3-dicarboxylic acid dimethyl ester",
           "language": "en"
@@ -2881,7 +2881,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-Benzyl-pyrrolo[2,3-d][1,2,3]thiadiazole-6-carboxylic acid methyl ester",
           "language": "en"
@@ -2896,7 +2896,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-Methyl-pyrrolo[2,3-d][1,2,3]thiadiazole-6-carboxylic acid methyl ester",
           "language": "en"
@@ -2911,7 +2911,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Pyrrolo[2,3-d][1,2,3]thiadiazole-4,6-dicarboxylic acid dimethyl ester",
           "language": "en"
@@ -2926,7 +2926,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Pyrrolo[2,3-d][1,2,3]thiadiazole-6-carboxylic acid methyl ester",
           "language": "en"
@@ -2941,7 +2941,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl o-chlorophenylacetate ethoxycarbonyl hydrazone",
           "language": "en"
@@ -2956,7 +2956,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl m-chlorophenylacetate ethoxycarbonyl hydrazone",
           "language": "en"
@@ -2971,7 +2971,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl o-methylphenylacetate ethoxycarbonyl hydrazone",
           "language": "en"
@@ -2986,7 +2986,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Ethyl m-methylphenylacetate ethoxycarbonyl hydrazone",
           "language": "en"
@@ -3001,7 +3001,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-o-Chlorobenzyl-4-amino-4,5-dihydro-1H-1,2,4-triazole-5-one",
           "language": "en"
@@ -3016,7 +3016,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-m-Chlorobenzyl-4-amino-4,5-dihydro-1H-1,2,4-triazole-5-one",
           "language": "en"
@@ -3031,7 +3031,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-m-Methylbenzyl-4-amino-4,5-dihydro-1H-1,2,4-triazole-5-one",
           "language": "en"
@@ -3046,7 +3046,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-[3’-(4’’-o-Chlorobenzyl-4’,5’-dihydro-1’H-1’,2’,4’-triazol-5’-on-4’-yl]-iminoisatin",
           "language": "en"
@@ -3061,7 +3061,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-[3’-(4’’-m-Chlorobenzyl)-4’,5’-dihydro-1’H-1’,2’,4’-triazol-5’-on-4’-yl]-iminoisatin",
           "language": "en"
@@ -3076,7 +3076,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-[3’-(4’’-o-Methylbenzyl)-4’,5’-dihydro-1’H-1’,2’,4’-triazol-5’-on-4’-yl]-iminoisatin",
           "language": "en"
@@ -3091,7 +3091,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-[3’-(4’’-m-Methylbenzyl)-4’,5’-dihydro-1’H-1’,2’,4’-triazol-5’-on-4’-yl]-iminoisatin",
           "language": "en"
@@ -3106,7 +3106,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(1RS, 2SR, 3RS)-1-phenyl-2-phenylselenenyl-butan-1,3-diol",
           "language": "en"
@@ -3121,7 +3121,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(1RS, 2SR, 3RS)-4-methyl-1-phenyl-2-phenylselenenyl-pentan-1,3-diol",
           "language": "en"
@@ -3136,7 +3136,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(1RS, 2SR, 3RS)-1-p-chlorophenyl-2-phenylselenenyl-butan-1,3-diol",
           "language": "en"
@@ -3151,7 +3151,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(1RS, 3RS)-3-phenylselenenyl-pentan-1,3-diol",
           "language": "en"
@@ -3166,7 +3166,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(1RS, 3RS)-1,3-diphenyl-2-phenylselenenyl-propan-1,3-diol",
           "language": "en"
@@ -3181,7 +3181,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(2RS, 3RS, 4RS)-4-azido-4-phenyl-3-phenylselenenyl-butan-2-ol",
           "language": "en"
@@ -3196,7 +3196,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(2RS, 3SR, 4SR)-4-azido-4-phenyl-3-phenylselenenyl-butan-2-ol",
           "language": "en"
@@ -3211,7 +3211,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(2RS, 3RS, 4RS)-5-azido-2-methyl-5-phenyl-4-phenylselenenyl-pentan-3-ol",
           "language": "en"
@@ -3226,7 +3226,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(2RS, 3RS, 4RS)-4-azido-4-p-chlorophenyl-3-phenylselenenyl-butan-2-ol",
           "language": "en"
@@ -3241,7 +3241,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(2RS, 3RS, 4RS)-4-azido-3-phenylselenenyl-pentan-2-ol",
           "language": "en"
@@ -3256,7 +3256,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(2RS, 3RS, 4RS)-3-azido-1,3-diphenyl-2-phenylselenenyl-propan-1-ol",
           "language": "en"
@@ -3271,7 +3271,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(3RS, 4RS, 5RS)-5-azido-3-hydroxy-4-phenylselenenyl-5-phenyl-pentanoate ethyl ester",
           "language": "en"
@@ -3286,7 +3286,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(2RS, 3RS, 4RS)-4-azido-5-phenyl-3-phenylselenenyl-pentan-2-ol",
           "language": "en"
@@ -3301,7 +3301,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(2RS, 3SR, 4SR)-4-azido-5-phenyl-3-phenylselenenyl-pentan-2-ol",
           "language": "en"
@@ -3316,7 +3316,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(±)-(4RS, 5RS, 6RS)-6-methyl-4-phenyl-5-phenylselenenyl-1,3-oxazolidin-2-one",
           "language": "en"
@@ -3331,7 +3331,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-4-azido-4-phenyl-but-3-en-2-ol",
           "language": "en"
@@ -3346,7 +3346,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-methyl-3-(α-hydroxy-4’-nitrobenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3361,7 +3361,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-methyl-3-(α-hydroxy-4’-chlorobenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3376,7 +3376,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-methyl-3-(α-hydroxy-2’-methylbenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3391,7 +3391,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-methyl-3-(α-hydroxy-3’-methylbenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3406,7 +3406,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-methyl-3-(α-hydroxy-4’-methoxybenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3421,7 +3421,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-i-propyl-3-(α-hydroxy-3’-nitrobenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3436,7 +3436,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-i-propyl-3-(α-hydroxy-4’-nitrobenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3451,7 +3451,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-i-propyl-3-(α-hydroxy-2-chlorobenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3466,7 +3466,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-i-propyl-3-(α-hydroxy--4’-chlorobenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3481,7 +3481,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-i-propyl-3-(α-hydroxy-2’-methoxybenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3496,7 +3496,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-i-propyl-3-(α-hydroxy-4’-methoxybenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3511,7 +3511,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-i-propyl-3-(α-hydroxy-2’-methylbenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3526,7 +3526,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-i-propyl-3-(α-hydroxy-3’-methylbenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3541,7 +3541,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-i-propyl-3-(α-hydroxy-4’-methylbenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3556,7 +3556,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-t-butyl-3-(α-hydroxy-3’-nitrobenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3571,7 +3571,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-t-butyl-3-(α-hydroxy-4’-nitrobenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3586,7 +3586,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-t-butyl-3-(α-hydroxy--4’-chlorobenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3601,7 +3601,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-t-butyl-3-(α-hydroxy-2’-methoxybenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3616,7 +3616,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-t-butyl-3-(α-hydroxy-4’-methoxybenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3631,7 +3631,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-t-butyl-3-(α-hydroxy-2’-methylbenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3646,7 +3646,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-t-butyl-3-(α-hydroxy-3’-methyl benzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3661,7 +3661,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-t-butyl-3-(α-hydroxy-4’-methylbenzylidene)pyrrolidine-2,4-dione",
           "language": "en"
@@ -3676,7 +3676,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Tris(2-[indole-3-glyoxylamido]ethyl)amine",
           "language": "en"
@@ -3691,7 +3691,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Tris(2-[indole-3-amido]ethyl)amine",
           "language": "en"
@@ -3706,7 +3706,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2RS, 6SR)-(±)-1-(4-Morpholino-2,6-diphenylcyclohex-3-en-1-yl) ethanone",
           "language": "en"
@@ -3721,7 +3721,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": " (2RS, 6SR)-(±)-1-(2,6-Diphenyl-4-pyrrolidinocyclohex-3-en-1-yl) ethanone",
           "language": "en"
@@ -3736,7 +3736,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2RS, 6SR)-(±)-1-(4-Piperidino-2,6-diphenylcyclohex-3-en-1-yl) ethanone",
           "language": "en"
@@ -3751,7 +3751,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "RS-(±)-1-Morpholino-1-phenylpentan-3-one",
           "language": "en"
@@ -3766,7 +3766,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2RS, 6SR)-(±)-1-(4-Morpholino-2,6-diphenylcyclohexan-1-yl) ethanone",
           "language": "en"
@@ -3781,7 +3781,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2RS, 6SR)-(±)-1-(2,6-Diphenyl-4-pyrrolidinocyclohexan-1-yl) ethanone",
           "language": "en"
@@ -3796,7 +3796,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2RS, 6SR)-(±)-1-(2,6-Diphenyl-4-piperidinocyclohexan-1-yl) ethanone",
           "language": "en"
@@ -3811,7 +3811,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-(6-Nitrobenzo[1,3]dioxol-5-yl)-1-(4-nitrophenyl)ethanol",
           "language": "en"
@@ -3826,7 +3826,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(4-Chlorophenyl)-2-(6-nitrobenzo[1,3]dioxol-5-yl)ethanol",
           "language": "en"
@@ -3841,7 +3841,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-[1-Hydroxy-2-(6-nitrobenzo[1,3]dioxol-5-yl)-ethyl]benzonitrile",
           "language": "en"
@@ -3856,7 +3856,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-(6-Nitrobenzo[1,3]dioxol-5-yl)-1-p-tolylethanol",
           "language": "en"
@@ -3871,7 +3871,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-(6-Nitrobenzo[1,3]dioxol-5-yl)-1-(2-nitrophenyl)ethanol",
           "language": "en"
@@ -3886,7 +3886,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-(6-Nitrobenzo[1,3]dioxol-5-yl)-1-(2-trifluoromethylphenyl)ethanol",
           "language": "en"
@@ -3901,7 +3901,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1,2-Bis-(6-nitrobenzo[1,3]dioxol-5-yl)ethanol",
           "language": "en"
@@ -3916,7 +3916,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-(6-Nitrobenzo[1,3]dioxol-5-yl)-2-(4-nitrophenyl)propan-2-ol",
           "language": "en"
@@ -3931,7 +3931,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Hydroxy-2-methyl-3-(6-nitrobenzo[1,3]dioxol-5-yl)propionic acid ethyl ester",
           "language": "en"
@@ -3946,7 +3946,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Hydroxy-3-(6-nitrobenzo[1,3]dioxol-5-yl)-propionic acid ethyl ester",
           "language": "en"
@@ -3961,7 +3961,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Hydroxy-2-(6-nitrobenzo[1,3]dioxol-5-yl-methyl) malonic acid diethyl ester",
           "language": "en"
@@ -3976,7 +3976,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2,2-Dimethyl-1,3-dioxolane-4-yl)methyl cinnamate",
           "language": "en"
@@ -3991,7 +3991,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2,2-Dimethyl-1,3-dioxolane-4-yl)methyl ferulate",
           "language": "en"
@@ -4006,7 +4006,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2,2-Dimethyl-1,3-dioxolane-4-yl)methyl p-coumarate",
           "language": "en"
@@ -4021,7 +4021,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Octyl caffeate",
           "language": "en"
@@ -4036,7 +4036,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-O-Cinnamoyl glycerol",
           "language": "en"
@@ -4051,7 +4051,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-O-Feruloyl glycerol",
           "language": "en"
@@ -4066,7 +4066,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-O-p-Coumaroyl glycerol",
           "language": "en"
@@ -4081,7 +4081,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-(4-Benzoyl-1,5-diphenyl-1H-pyrazol-3-yl)-3H-imidazo[4,5-b]pyridine-1,4-diiumdichloride",
           "language": "en"
@@ -4096,7 +4096,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5α,6α-Epoxy-anrostan-3β-ol-17-one",
           "language": "en"
@@ -4111,7 +4111,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1,4,6-Androstatrien-3,17-dione",
           "language": "en"
@@ -4126,7 +4126,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1α,2α-Epoxy-4,6-androstadien-3,17-dione",
           "language": "en"
@@ -4141,7 +4141,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "6α,7α-Epoxy-1,4-androstadien-3,17-dione",
           "language": "en"
@@ -4156,7 +4156,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1,4-Androstadien-3β,17β-diol",
           "language": "en"
@@ -4171,7 +4171,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4β,5β-epoxyandrost-6-en-3β,17β-diol",
           "language": "en"
@@ -4186,7 +4186,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1α,2α-Epoxy-1,4--androstadien-3β,17β-diol",
           "language": "en"
@@ -4201,7 +4201,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "2-Ethoxy-1,4,6-androstatrien-3,17-dione",
           "language": "en"
@@ -4216,7 +4216,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "6α,7α-Epoxy-androst-4-en-3β,17β-diol",
           "language": "en"
@@ -4231,7 +4231,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "7β-Ethoxy-6α-hydroxy-1,4-androstadien-3,17-dione",
           "language": "en"
@@ -4246,7 +4246,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "β-(2-Bromophenyl)acrylferrocene",
           "language": "en"
@@ -4261,7 +4261,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "β-[2′-(4″-Methylphenyl)phenyl]acrylferrocene",
           "language": "en"
@@ -4276,7 +4276,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "β-[2′-(Naphthalen-1″-yl)phenyl]acrylferrocene",
           "language": "en"
@@ -4291,7 +4291,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "β-[2′-(3″-Formylphenyl)phenyl]acrylferrocene",
           "language": "en"
@@ -4306,7 +4306,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "β-[2′-(4″-Fluorophenyl)phenyl]acrylferrocene",
           "language": "en"
@@ -4321,7 +4321,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "β-(Biphenyl-2′-yl)acrylferrocene",
           "language": "en"
@@ -4336,7 +4336,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(R,pS)-N-methyl-N-1-[2-(diphenylphosphanyl)ferrocenyl]ethyl-N´-[3-triethoxysilyl)-propyl]urea (R,pS)- 3:",
           "language": "en"
@@ -4351,7 +4351,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(R,pS)-N-phenyl-N´-methyl-N´-1-[2-(diphenylphosphanyl)ferrocenyl]ethylurea (R,pS)-20",
           "language": "en"
@@ -4366,7 +4366,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "methyl (R,pS)-5-{N-methyl-1-[2-diphenylphosphanyl)ferrocenyl]ethylamino}valerate (R,pS)-15",
           "language": "en"
@@ -4381,7 +4381,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(R,pS)-5-{N-methyl-1-[2-diphenylphosphanyl)ferrocenyl]ethylamino}valeric acid (R,pS)-16 ",
           "language": "en"
@@ -4396,7 +4396,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "rac-E-1,3-diphenyl-3-acetoxyprop-1-ene",
           "language": "en"
@@ -4411,7 +4411,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-α-acetamidocinnamic acid",
           "language": "en"
@@ -4426,7 +4426,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N, N’-Bis(3-ferrocenylmethylaminopropyl)naphthalene-1,4,5,8-tetracarboxylic acid diimide",
           "language": "en"
@@ -4441,7 +4441,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(3-Methyl-3-phenylcyclobutyl)(naphtho[2,1-b]furan-2-yl)methanone",
           "language": "en"
@@ -4456,7 +4456,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-(5-Bromo-1-benzofuran-2-yl)(3-methyl-3-phenylcyclobutyl)methanone oxime",
           "language": "en"
@@ -4471,7 +4471,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-(3-Methyl-3-phenylcyclobutyl)(naphtho[2,1-b]furan-2-yl)methanone oxime",
           "language": "en"
@@ -4486,7 +4486,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-(5-Bromo-1-benzofuran-2-yl)(3-methyl-3-phenylcyclobutyl)methanone O-(oxiran-2-yl-methyl)oxi-me",
           "language": "en"
@@ -4501,7 +4501,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-(3-Methyl-3-phenylcyclobutyl)(naphtho[2,1-b]furan-2-yl)methanone O-(oxiran-2-yl-methyl)oxime",
           "language": "en"
@@ -4516,7 +4516,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-(5-Bromo-1-benzofuran-2-yl)(3-methyl-3-phenylcyclobutyl)methanone thiosemicarbazone",
           "language": "en"
@@ -4531,7 +4531,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-(3-Methyl-3-phenylcyclobutyl)(naphtho[2,1-b]furan-2-yl)methanone thiosemicarbazone",
           "language": "en"
@@ -4546,7 +4546,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-(5-Bromo-1-benzofuran-2-yl)(3-methyl-3-phenylcyclobutyl)methanone[4-(chloromethyl)-1,3-thiazol-2-yl]hydrazone",
           "language": "en"
@@ -4561,7 +4561,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-(3-Methyl-3-phenylcyclobutyl)(naphtho[2,1-b]furan-2-yl)methanone[4-(chloromethyl)-1,3-thiazol- 2-yl]hydrazone",
           "language": "en"
@@ -4576,7 +4576,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S*,3R*,3aS*,6aR*)-2-[3-(3,4-Dimethoxyphenyl)-5-methyl-4,6-dioxooctahydropyrrolo[3,4-c]pyrrol-1-yl]acetamide",
           "language": "en"
@@ -4591,7 +4591,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S*,3R*,3aS*,6aR*)-2-(5-Methyl-4,6-dioxo-3-pyridin-3-yl-octahydropyrrolo[3,4-c]pyrrol-1-yl)-acetamide",
           "language": "en"
@@ -4606,7 +4606,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S*,3R*,3aS*,6aR*)-2-(5-Methyl-4,6-dioxo-3-phenyloctahydropyrrolo[3,4-c]pyrrol-1-yl)acetamide",
           "language": "en"
@@ -4621,7 +4621,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S*,3R*,3aR*,6aS*)-2-[3-(3,4-Dimethoxyphenyl)-5-methyl-4,6-dioxooctahydropyrrolo[3,4-c]pyrrol-1-yl]acetamide",
           "language": "en"
@@ -4636,7 +4636,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl 4,6-O-benzylidene-2-O-acryloyl-α-D-glucopyranoside",
           "language": "en"
@@ -4651,7 +4651,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl 4,6-O-benzylidene-3-O-acryloyl-α-D-glucopyranoside",
           "language": "en"
@@ -4666,7 +4666,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl 4,6-O-benzylidene-2,3-O-diacryloyl-α-D-glucopyranoside",
           "language": "en"
@@ -4681,7 +4681,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl 4,6-O-benzylidene-2-O-metacryloyl-α-D-glucopyranoside",
           "language": "en"
@@ -4696,7 +4696,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl 4,6-O-benzylidene-3-O-metacryloyl-α-D-glucopyranoside",
           "language": "en"
@@ -4711,7 +4711,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,7-Di-tert-butylbenzoxazole",
           "language": "en"
@@ -4726,7 +4726,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,7-Di-tert-butyl-2-methylbenzoxazole",
           "language": "en"
@@ -4741,7 +4741,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,7-Di-tert-butyl-2-phenylbenzoxazole",
           "language": "en"
@@ -4756,7 +4756,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,7-Di-tert-butyl-2-benzylbenzoxazole",
           "language": "en"
@@ -4771,7 +4771,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,7-Di-tert-butyl-2-(1-methyl)ethylbenzoxazole",
           "language": "en"
@@ -4786,7 +4786,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,7-Di-tert-butyl-2-(2-methyl)propylbenzoxazole",
           "language": "en"
@@ -4801,7 +4801,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,7-Di-tert-butyl-2-(2-methylthioethyl)-benzoxazole",
           "language": "en"
@@ -4816,7 +4816,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-(5,7-Di-tert-butylbenzoxazol-2-yl-methyl)-phenol",
           "language": "en"
@@ -4831,7 +4831,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,7-Di-tert-butyl-2-",
           "language": "en"
@@ -4846,7 +4846,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,7-Di-tert-butylbenzoxazole-2-carboxamide",
           "language": "en"
@@ -4861,7 +4861,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1,3-Bis(5,7-di-tert-butylbenzoxazol-2-yl)propane",
           "language": "en"
@@ -4876,7 +4876,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(5,7-Di-tert-butylbenzoxazol-2-yl)phenylmethanol",
           "language": "en"
@@ -4891,7 +4891,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,7-Di-tert-butylbezoxazol-2-methylcarbonate",
           "language": "en"
@@ -4906,7 +4906,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Stigmast-4-en-3,6-dione",
           "language": "en"
@@ -4921,7 +4921,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Allyl resorcinol",
           "language": "en"
@@ -4936,7 +4936,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Aristololactam A-II",
           "language": "en"
@@ -4951,7 +4951,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Phenylamino-6,7-dichloro-1H-benzo[1,3,4]thiadiazine-5,8-dione",
           "language": "en"
@@ -4966,7 +4966,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Benzylamino-6,7-dichloro-1H-benzo[1,3,4]thiadiazine-5,8-dione",
           "language": "en"
@@ -4981,7 +4981,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Allylamino-6,7-dichloro-1H-benzo[1,3,4]thiadiazine-5,8-dione",
           "language": "en"
@@ -4996,7 +4996,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,6,8-Trichloro-7-oxo-3,7-dihydro-2H-quinoxaline-1-carbothioic acid phenyl amide",
           "language": "en"
@@ -5011,7 +5011,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,6,8-Trichloro-7-oxo-3,7-dihydro-2H-quinoxaline-1-carbothioic acid benzyl amide",
           "language": "en"
@@ -5026,7 +5026,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,6,8-Trichloro-7-oxo-3,7-dihydro-2H-quinoxaline-1-carbothioic acid allyl amide",
           "language": "en"
@@ -5041,7 +5041,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,6,8-Tribromo-7-oxo-3,7-dihydro-2H-quinoxaline-1-carbothioic acid phenyl amide",
           "language": "en"
@@ -5056,7 +5056,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,6,8-Tribromo-7-oxo-3,7-dihydro-2H-quinoxaline-1-carbothioic acid benzyl amide",
           "language": "en"
@@ -5071,7 +5071,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,6,8-Tribromo-7-oxo-3,7-dihydro-2H-quinoxaline-1-carbothioic acid allyl amide",
           "language": "en"
@@ -5086,7 +5086,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5-[1R,2S-1,2-Bis(benzyloxy)-3-hydroxy-propyl]-1,2-dihydro-pyrimidine-2-thione",
           "language": "en"
@@ -5101,7 +5101,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5-[1R,2S-1,2-Bis(benzyloxy)-3-hydroxy-propyl]-1,2-dihydro-pyrimidin-2-one",
           "language": "en"
@@ -5116,7 +5116,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "6-[1R,2S-1,2-Bis(benzyloxy)-3-hydroxy-propyl][1,2,4]triazolo[1,5-a]pyrimidine",
           "language": "en"
@@ -5131,7 +5131,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2,3-Dideoxy-α-D-erythro-hex-2-enopyranosyl)benzene",
           "language": "en"
@@ -5146,7 +5146,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2,3-Dideoxy-β-D-erythro-hex-2-enopyranosyl)benzene",
           "language": "en"
@@ -5161,7 +5161,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(6-O-tert-Butyldimethylsilyl-2,3-dideoxy-α-D-erythro-hex-2-enopyranosyl)benzene",
           "language": "en"
@@ -5176,7 +5176,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(6-O-tert-Butyldimethylsilyl-2,3-dideoxy-β-D-erythro-hex-2-enopyranosyl)benzene",
           "language": "en"
@@ -5191,7 +5191,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(4,6-Di-O-tert-butyldimethylsilyl-2,3-anhydro-α-D-allopyranosyl)benzene",
           "language": "en"
@@ -5206,7 +5206,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(4,6-Di-O-tert-butyldimethylsilyl-2,3-anhydro-α-D-mannopyranosyl)benzene",
           "language": "en"
@@ -5221,7 +5221,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2,3-Anhydro-α-D-allopyranosyl)benzene",
           "language": "en"
@@ -5236,7 +5236,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(6-O-tert-Butyldimethylsilyl-2,3-anhydro-α-D-allopyranosyl)benzene",
           "language": "en"
@@ -5251,7 +5251,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(6-O-tert-Butyldimethylsilyl-2,3-anhydro-α-D-mannopyranosyl)benzene",
           "language": "en"
@@ -5266,7 +5266,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(4,6-Di-O-tert-butyldimethylsilyl-2,3-anhydro-β-D-allopyranosyl)benzene",
           "language": "en"
@@ -5281,7 +5281,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(4,6-Di-O-tert-butyldimethylsilyl-2,3-anhydro-β-D-mannopyranosyl)benzene",
           "language": "en"
@@ -5296,7 +5296,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2,3-Anhydro-β-D-allopyranosyl)benzene",
           "language": "en"
@@ -5311,7 +5311,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(6-O-tert-Butyldimethylsilyl-2,3-anhydro-β-D-allopyranosyl)benzene",
           "language": "en"
@@ -5326,7 +5326,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(4,6-Di-O-tert-butyldimethylsilyl-α-D-mannopyranosyl)benzene",
           "language": "en"
@@ -5341,7 +5341,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2,3,4,6-Tetra-O-acetyl-α-D-mannopyranosyl)benzene",
           "language": "en"
@@ -5356,7 +5356,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(4,6-Di-O-tert-butyldimethylsilyl-β-D-mannopyranosyl)benzene",
           "language": "en"
@@ -5371,7 +5371,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(4,6-Di-O-tert-butyldimethylsilyl-β-D-allopyranosyl)benzene",
           "language": "en"
@@ -5386,7 +5386,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2,3,4,6-Tetra-O-acetyl-β-D-mannopyranosyl)benzene",
           "language": "en"
@@ -5401,7 +5401,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(2,3,4,6-Tetra-O-acetyl-β-D-allopyranosyl)benzene",
           "language": "en"
@@ -5416,7 +5416,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4,6-di-O-acetyl-2,3-dideoxy-D-erythro-hexopyranoside",
           "language": "en"
@@ -5431,7 +5431,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4,6-di-O-acetyl-2,3-dideoxy-D-threo-hexopyranoside",
           "language": "en"
@@ -5446,7 +5446,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4,6-O-benzylidene-2,3-dideoxy-D-erythro-hexopyranoside",
           "language": "en"
@@ -5461,7 +5461,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4,6-O-benzylidene-2,3-dideoxy-D-threo-hexopyranoside",
           "language": "en"
@@ -5476,7 +5476,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4-O-benzoyl-6-bromo-2,3-dideoxy-D-erythro-hexopyranoside",
           "language": "en"
@@ -5491,7 +5491,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4-O-benzoyl-6-bromo-2,3-dideoxy-D-threo-hexopyranoside",
           "language": "en"
@@ -5506,7 +5506,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-6-bromo-2,3-dideoxy-D-erythro-hexopyranoside",
           "language": "en"
@@ -5521,7 +5521,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-6-bromo-2,3-dideoxy-D-threo-hexopyranoside",
           "language": "en"
@@ -5536,7 +5536,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4-O-methanesulfonyl-6-bromo-2,3-dideoxy-D-erythro-hexopyranoside",
           "language": "en"
@@ -5551,7 +5551,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4-O-methanesulfonyl-6-bromo-2,3-dideoxy-D-threo-hexopyranoside",
           "language": "en"
@@ -5566,7 +5566,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-6-O-triphenylmethyl-2,3-dideoxy-D-erythro-hexopyranoside",
           "language": "en"
@@ -5581,7 +5581,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4-O-methanesulfonyl-6-triphenylmethyl-2,3-dideoxy-D-erythro-hexopyranoside",
           "language": "en"
@@ -5596,7 +5596,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4-azido-6-O-triphenylmethyl-2,3-dideoxy-D-threo-hexopyranoside",
           "language": "en"
@@ -5611,7 +5611,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4-(N-t-butoxycarbonyl)-6-O-triphenylmethyl-2,3-dideoxy-D-threo-exopyranoside",
           "language": "en"
@@ -5626,7 +5626,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl-4-(N-t-butoxycarbonyl)-2,3-dideoxy-D-threo-hexopyranoside",
           "language": "en"
@@ -5641,7 +5641,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-benzyl-N-(1-phenylbut-3-enyl)amine",
           "language": "en"
@@ -5656,7 +5656,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "N-benzyl-2-phenyl pyrrolidine",
           "language": "en"
@@ -5671,7 +5671,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,6,7,8-tetradeoxy-5,8-(N-benzylimino)-1,2-O-isopropylidene-α-D–gluco-oct-1,4- furanose",
           "language": "en"
@@ -5686,7 +5686,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,6,7,8-tetradeoxy-5,8-(N-benzoxycarbonylimino)-1,2-O-isopropylidene-α-D-gluco-oct-1,4-furanose",
           "language": "en"
@@ -5701,7 +5701,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5,6,7,8-Tetradeoxy-5,8-(N-benzoxycarbonylimino)-1,2-O-isopropylidene-β-L-ido-oct-1,4-furanose",
           "language": "en"
@@ -5716,7 +5716,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(6S,7R,8R,8aR)-6,7,8-Trihydroxy-indolizidine",
           "language": "en"
@@ -5731,7 +5731,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(6S,7R,8R,8aS)-6,7,8-Trihydroxy-indolizidine",
           "language": "en"
@@ -5746,7 +5746,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S,2R,3S,4S,5R,6R)-2,3,4-Tris(benzyloxy)-5-[(4-methoxybenzyl)oxy]-7-oxabicyclo[4.1.0]heptane",
           "language": "en"
@@ -5761,7 +5761,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1S,2R,3R,4S,5R,6S)-2,3,4-Tris(benzyloxy)-5-[(benzyloxy)methoxy]-7-oxabicyclo[4.1.0]heptane",
           "language": "en"
@@ -5776,7 +5776,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "tert-Butyl(dimethyl)[[(1S,2R,3S,4R,5R,6S)-3,4,5-tris(benzyloxy)-7-oxabicyclo[4.1.0]hept-2-yl]oxy]- silane",
           "language": "en"
@@ -5791,7 +5791,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S,2R,3S,4R,5R,6S)-3,4,5-Tris(benzyloxy)-7-oxabicyclo[4.1.0]hept-2-yl acetate",
           "language": "en"
@@ -5806,7 +5806,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1R,2S,3R,4R,5S,6R)-2,3,4-Tris(benzyloxy)-6-(hydroxymethyl)-5-[(4-methoxybenzyl)oxy]cyclohexanol",
           "language": "en"
@@ -5821,7 +5821,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1R,2S,3R,4R,5S,6R)-2,3,4,5-Tetrakis(benzyloxy)-6-(hydroxymethyl)cyclohexanol",
           "language": "en"
@@ -5836,7 +5836,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1R,2R,3R,4R,5S,6R)-2,3,4-Tris(benzyloxy)-5-[(benzyloxy)methoxy]-6-(hydroxymethyl)cyclohexanol",
           "language": "en"
@@ -5851,7 +5851,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S,2S,3S,4R,5R,6S)-3,4,5-Tris(benzyloxy)-2-[(benzyloxy)methoxy]-6-(hydroxymethyl)cyclohexanol",
           "language": "en"
@@ -5866,7 +5866,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S,2S,3S,4R,5R,6S)-3,4,5-Tris(benzyloxy)-2-{[tert-butyl(dimethyl)silyl]oxy}-6-(hydroxymethyl)cyclo-hexanol",
           "language": "en"
@@ -5881,7 +5881,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S,2R,3S,4S,5R,6S)-2,3,4,5-Tetrakis(benzyloxy)-6-[(benzyloxy)methyl]cyclohexanol",
           "language": "en"
@@ -5896,7 +5896,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S,2S,3R,4S,5R,6R)-2,3,4,5-Tetrakis(benzyloxy)-6-[(benzyloxy)methyl]cyclohexylmethanesulfonate",
           "language": "en"
@@ -5911,7 +5911,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S,2S,3R,4S,5R,6R)-2,3,4,5-Tetrahydroxy-6-(hydroxymethyl)cyclohexylmethanesulfonate",
           "language": "en"
@@ -5926,7 +5926,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Cyclophellitol",
           "language": "en"
@@ -5941,7 +5941,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl 2-O-benzoyl-3,4-di-O-benzyl-6-deoxy-6-iodo-",
           "language": "en"
@@ -5956,7 +5956,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Methyl 2-O-benzoyl-3,4-di-O-benzyl-6-deoxy -",
           "language": "en"
@@ -5971,7 +5971,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1R,5S,6R)-5,6-Bis(benzyloxy)-4-oxocyclohex-2-en-yl benzoate",
           "language": "en"
@@ -5986,7 +5986,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1R,4S,5R,6R)-5,6-Bis(benzyloxy)-4-hydroxycyclohex-2-en-1-yl  benzoate",
           "language": "en"
@@ -6001,7 +6001,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1R,4S,5R,6R)-5,6-Bis(benzyloxy)-4-[(4-methoxybenzyl)oxy]cyclohex-2-en-1-yl benzoate",
           "language": "en"
@@ -6016,7 +6016,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "[[(1R,4S,5R,6S)-5,6-Bis(benzyloxy)-4-[(4-methoxybenzyl)oxy]cyclohex-2-en-1-yl]oxy](tert-butyl)-dimethylsilane",
           "language": "en"
@@ -6031,7 +6031,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S,4R,5S,6R)-5,6-Bis(benzyloxy)-4-[[tert-butyl(dimethyl)silyl]oxy]cyclohex-2-en-1-ol ",
           "language": "en"
@@ -6046,7 +6046,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1R,2R,3S,4S,5S,6R)-3,4-Bis(benzyloxy)-5-[[tert-butyl(dimethyl)silyl]oxy]-7-oxabicyclo[4.1.0]heptan- 2-ol",
           "language": "en"
@@ -6061,7 +6061,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "[[(1R,2S,3S,4R,5R,6R)-3,4-Bis(benzyloxy)-5-[(4-methoxybenzyl)oxy]-7-oxabicyclo[4.1.0]hept-2-yl]-oxy](tert-butyl)dimethylsilane",
           "language": "en"
@@ -6076,7 +6076,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1R,2R,3S,4R,5S,6R)-3,4-Bis(benzyloxy)-2-[[tert-butyl(dimethyl)silyl]oxy]-6-(hydroxymethyl)-5-[(4- methoxybenzyl)oxy]cyclohexanol",
           "language": "en"
@@ -6091,7 +6091,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Methoxy-4-[[(1S,2R,3R,4R,5R,6R)-2,3,4,5-tetrakis(benzyloxy)-6-[(benzyloxy)methyl]-2-cyclohexyl]- oxymethyl]benzene",
           "language": "en"
@@ -6106,7 +6106,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S,2S,3R,4R,5R,6R)-2,3,4,5-Tetrakis(benzyloxy)-6-[(benzyloxy)methyl]cyclohexylmethanesulfonate",
           "language": "en"
@@ -6121,7 +6121,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(1S,2R,3R,4R,5R,6R)-5-(Hydroxymethyl)-7-oxabicyclo[4.1.0]heptane-2,3,4-",
           "language": "en"
@@ -6136,7 +6136,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Iso-amyl benzothiazolyl sulfoxide (ABSO, 3): ",
           "language": "en"
@@ -6151,7 +6151,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Methyl-4-(3-ethoxy-4-hydroxybenzylidenamino)-4,5-dihydro-1H-1,2,4-triazol-5-one",
           "language": "en"
@@ -6166,7 +6166,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Ethyl-4-(3-ethoxy-4-hydroxybenzylidenamino)-4,5-dihydro-1H-1,2,4-triazol-5-one",
           "language": "en"
@@ -6181,7 +6181,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Benzyl-4-(3-ethoxy-4-hydroxybenzylidenamino)-4,5-dihydro-1H-1,2,4-triazol-5-one",
           "language": "en"
@@ -6196,7 +6196,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-(4-Chlorobenzyl)-4-(3-ethoxy-4-hydroxybenzylidenamino)-4,5-dihydro-1H-1,2,4-triazol-5-one",
           "language": "en"
@@ -6211,7 +6211,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3-Phenyl-4-(3-ethoxy-4-hydroxybenzylidenamino)-4,5-dihydro-1H-1,2,4-triazol-5-one",
           "language": "en"
@@ -6226,7 +6226,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Acetyl-3-methyl-4-(3-ethoxy-4-acetoxybenzylidenamino)-4,5-dihydro-1H-1,2,4-triazol-5-one",
           "language": "en"
@@ -6241,7 +6241,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Acetyl-3-ethyl-4-(3-ethoxy-4-acetoxybenzylidenamino)-4,5-dihydro-1H-1,2,4-triazol-5-one",
           "language": "en"
@@ -6256,7 +6256,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Acetyl-3-benzyl-4-(3-ethoxy-4-acetoxybenzylidenamino)-4,5-dihydro-1H-1,2,4-triazol-5-one",
           "language": "en"
@@ -6271,7 +6271,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Acetyl-3-phenyl-4-(3-ethoxy-4-acetoxybenzylidenamino)-4,5-dihydro-1H-1,2,4-triazol-5-one",
           "language": "en"
@@ -6286,7 +6286,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Methyl-3-benzyl-4-(3-ethoxy-4-methoxybenzylidenamino)-4,5-dihydro-1H-1,2,4-triazol-5-one",
           "language": "en"
@@ -6301,7 +6301,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Methyl-3-phenyl-4-(3-ethoxy-4-methoxybenzylidenamino)-4,5-dihydro-1H-1,2,4-triazol-5-one",
           "language": "en"
@@ -6316,7 +6316,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Stigmasterol glucoside",
           "language": "en"
@@ -6331,7 +6331,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-Naphthylselenocyanate",
           "language": "en"
@@ -6346,7 +6346,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-Nitro-1-naphthylselenocyanate",
           "language": "en"
@@ -6361,7 +6361,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Naphthalen-1-yl-selenyl)acetic acid",
           "language": "en"
@@ -6376,7 +6376,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(4-Nitronaphthalen-1-yl-selenyl)acetic acid",
           "language": "en"
@@ -6391,7 +6391,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(4-Bromonaphthalen-1-yl-selenyl)acetic acid",
           "language": "en"
@@ -6406,7 +6406,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(4-Methylnaphthalen-1-yl-selenyl)acetic acid",
           "language": "en"
@@ -6421,7 +6421,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "6-Methylpurine-β-D-riboside",
           "language": "en"
@@ -6436,7 +6436,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[2,3,4,5,6-Penta(4-acetylphenoxymethyl)benzyloxy]phenyl}-1-ethanone",
           "language": "en"
@@ -6451,7 +6451,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[2,4,5-Tri(4-acetylphenoxymethyl)benzyloxy]phenyl}-1-ethanone",
           "language": "en"
@@ -6466,7 +6466,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[3,5-Di(4-acetylphenoxymethyl)benzyloxy]phenyl}-1-ethanone",
           "language": "en"
@@ -6481,7 +6481,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[4-Mono-(4-acetylphenoxymethyl) benzyloxy] phenyl}-1-ethanone",
           "language": "en"
@@ -6496,7 +6496,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[2,3,4,5,6-Penta(4-acetylphenoxymethyl) benzyloxy]phenyl}-1-ethanone-N-aminocarbonyl semi-carbazone",
           "language": "en"
@@ -6511,7 +6511,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[2,4,5-Tri(4-acetylphenoxymethyl)benzyloxy]phenyl}-1-ethanone-N-aminocarbonylsemi-carbazone",
           "language": "en"
@@ -6526,7 +6526,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[3,5-Di(4-acetylphenoxymethyl)benzyloxy]phenyl}-1-ethanone-N-aminocarbonyl  semicarbazone",
           "language": "en"
@@ -6541,7 +6541,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[4-(4-acetylphenoxymethyl)benzyloxy]phenyl}-1-ethanone-N-aminocarbonyl semicarbazone",
           "language": "en"
@@ -6556,7 +6556,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[2,3,4,5,6-Penta(4-acetylphenoxymethyl)benzyloxy]phenyl}-1-ethanone-N-ethoxycarbonyl hydrazone",
           "language": "en"
@@ -6571,7 +6571,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[2,4,5-Tri-(4-acetylphenoxymethyl)benzyloxy]phenyl}-1-ethanone-N-ethoxycarbonyl hydrazone",
           "language": "en"
@@ -6586,7 +6586,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[3,5-Di(4-acetylphenoxymethyl)benzyloxy]phenyl}-1-ethanone-N-ethoxycarbonyl hydrazone",
           "language": "en"
@@ -6601,7 +6601,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1-{4-[4-Mono(4-acetylphenoxymethyl)benzyloxy]phenyl}-1-ethanone-N-ethoxycarbonyl hydrazone",
           "language": "en"
@@ -6616,7 +6616,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-(4-{2,3,4,5,6-Penta[4-(1,2,3-selenadiazole-4-yl)phenoxymethyl]benzyloxy}phenyl)-1,2,3-selenadiazole",
           "language": "en"
@@ -6631,7 +6631,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-(4-{2,4,5-Tri[4-(1,2,3-selenadiazole-4-yl)phenoxymethyl]benzyloxy}phenyl)-1,2,3-selenadiazole",
           "language": "en"
@@ -6646,7 +6646,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "4-(4-{3,5-Di[4-(1,2,3-selenadiazole-4-yl)phenoxymethyl]benzyloxy} phenyl)-1,2,3-selenadiazole",
           "language": "en"
@@ -6661,7 +6661,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "1,4-Bis[4-(1,2,3-selenadiazol-4-yl)phenoxymethyl]benzene ",
           "language": "en"
@@ -6676,7 +6676,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "3- chloro benzo[b]thiophene -2- carboxylic thiosemicarbazide",
           "language": "en"
@@ -6691,7 +6691,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "5-(3-chloro-1-benzothien-2-yl)-4H-1,2,4-triazole-3-N-piperidine",
           "language": "en"
@@ -6706,7 +6706,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-ethyl 2-cyano-2-(3H-quinazolin-4-ylidene)acetate",
           "language": "en"
@@ -6721,7 +6721,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "(Z)-ethyl 2-cyano-2-(2-methyl-3H-quinazolin-4-ylidene)acetate",
           "language": "en"
@@ -6736,7 +6736,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Boc-valyl(N`-benzoyl)-hydrazide",
           "language": "en"
@@ -6751,7 +6751,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Boc-(o-benzyl)-glutamyl(N`-benzoyl)-hydrazide",
           "language": "en"
@@ -6766,7 +6766,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Boc-leucyl(N`-benzoyl)-hydrazide",
           "language": "en"
@@ -6781,7 +6781,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Boc-phenylalanyl(N`-benzoyl)-hydrazide",
           "language": "en"
@@ -6796,7 +6796,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Boc-(o-benzyl)-tyrosyl(N`-benzoyl)-hydrazide",
           "language": "en"
@@ -6811,7 +6811,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Boc-valyl(N`-nicotinoyl)-hydrazide",
           "language": "en"
@@ -6826,7 +6826,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Boc-(o-benzyl)-glutamyl(N`-nicotinoyl)-hydrazide",
           "language": "en"
@@ -6841,7 +6841,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Boc-leucyl(N`- nicotinoyl)-hydrazide",
           "language": "en"
@@ -6856,7 +6856,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Boc-phenylalanyl(N`-nicotinoyl)-hydrazide",
           "language": "en"
@@ -6871,7 +6871,7 @@
   },
   {
     "general": {
-      "name": [
+      "names": [
         {
           "value": "Boc-(o-benzyl)-tyrosyl(N`-nicotinoyl)-hydrazide",
           "language": "en"

@@ -1,18 +1,23 @@
 import cheerio from 'cheerio';
 
 /**
- * From an array of single or multi product,s block returns and array of single product objects.
- * @param {Object} candidates - object generated using the getCandidates.js module.
- * @return {Array<Object>} - {filename, name, text} name is the extracted name of the product, text is the related synthesis and charaterization
- */
-/**
- *
- * @typedef {Object} singleCandidates - those correspond to single products object
+ * @typedef  singleCandidates - those correspond to single products object
+ * @type {Object[]}
  * @property {string} filename - is the filename where the product has been found, inherited from 'candidates'.
  * @property {string} doi - is the doi of the article inherited from 'candidates'.
  * @property {string} name - is the identified name (en) of the synthetized product.
  * @property {string} text - is the full text/paragraphe associated with the identified product or molecule.
  */
+/**
+ * From an array of single or multi product,s block returns and array of single product objects.
+ * @param {Object[]} candidates - array of objects passed by 'getCandidates.js' containaing one or multiple candidates
+ * @param {string} candidates[].filename - is the filename where the product has been found, inherited from 'candidates'.
+ * @param {string} candidates[].doi - is the doi of the article inherited from 'candidates'.
+ * @param {string} candidates[].dom - the DOM to be parsed for candidate recognition.
+ * @type {singleCandidates[]}
+ * @return {singleCandidates[]} singleCandidates - {filename, name, text} name is the extracted name of the product, text is the related synthesis and charaterization
+ */
+
 export function splitCandidates(candidates) {
   let singleCandidates = [];
   // This is a list of the forbidden words in the title/molecule-name discarding any paragraphe containing more than a synthesis and the characterizations.

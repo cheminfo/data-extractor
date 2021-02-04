@@ -3,17 +3,18 @@ import { readFileSync } from 'fs';
 import cheerio from 'cheerio';
 
 /**
- * Returns an array of candidates (single or multi-product,s block) as DOM-strings, all containing an NMR reference
- * @param {string} file The filename is the absolute PATH to the file.xml
- * @return {Array<Object>} matches - returns an array containing all candidates matching the conditions
- */
-
-/**
- * @typedef {Object} matches  - Each element of the array corresponds to a 'candidate' (paragraphe containing multiple or single products)
- * @property {string} filename - The string containes the name of the scanned file
+ * @typedef  matches  - Each element of the array corresponds to a 'candidate' (paragraphe containing multiple or single products)
+ * @type {Object}
+ * @property {string} filename - The string containes the name of the scanned file (with extension).
  * @property {string} doi - contains the doi of the artcile retrieved from .xml-file
  * @property {string} dom - DOM of the paragraph containing the synthesis of the identified product
  */
+/**
+ * Returns an array of candidates (single or multi-product,s block) as DOM-strings, all containing an NMR reference
+ * @param {string} file The filename is the absolute PATH to the file.xml
+ * @return {matches[]} matches - returns an array containing all candidates matching the conditions
+ */
+
 export function getCandidates(file) {
   // the first command loads the entire xml file as a DOM.
 

@@ -1,6 +1,10 @@
 import recursiveReadSync from 'recursive-readdir-sync';
 
-//The function returns an array containing the PATH to all the files conatined in 'homedir'
+/**
+ *This module scans recursively all sub-directories starting from 'homeDir' returns an array containing the PATH to all the files found.
+ * @param {String} homedir - This is the starting PATH (relative or absolute) for parsing
+ * @return {Array.<string>} are the relatives paths to all the reccuersively scanned files from 'homeDir'
+ */
 
 export function getXMLFiles(homedir) {
   const files = recursiveReadSync(homedir);

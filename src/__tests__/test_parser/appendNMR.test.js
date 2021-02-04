@@ -21,11 +21,11 @@ describe('appendMolfile', () => {
     // newNmr(result3, test3, {debug: true});
 
     for (let product of singleProducts) {
-      newNmr(product, product.text, { debug: true });
+      appendNMR(product, product.text, { debug: true });
       results.push(product);
     }
-    console.log(results.length)
-    let samples = results.slice(38,43);
+    console.log(results.length);
+    let samples = results.slice(38, 43);
     console.log(inspect(samples, false, null, true));
     expect(singleProducts.length).toBeGreaterThan(0);
   });

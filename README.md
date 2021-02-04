@@ -5,20 +5,40 @@
 [![Test coverage][codecov-image]][codecov-url]
 [![npm download][download-image]][download-url]
 
-Extract literature physical properties.
+This code is intended for the extraction of spectral and physical properties used in the dertermination of chemical products from litterature.
 
 ## Installation
 
 `$ npm i data-extractor`
 
 ## Usage
+The whole recognition and parsing processes are triggered by the extractData() method in extractData.js, that can be incorporated in any .js script located at the 'src' using an asyn function level as follows :
+```js
+import { extractData } from 'data-extractor/src/extractData.js'
+
+asyn function data-extractor() {
+    const fileLocation = '/MY-PATH-TO-FILES/';
+    let result = await extractData(fileLocation);
+    return result;
+}
+
+const products = data-extractor();
+```
+The retruned result is an array of object, each object represents a product identified by its name and the DOI of the publication it was found in.
+
+The returned array can easily be stored in a JSON file using the little hand-coded module 'createJSON':
 
 ```js
-import library from 'data-extractor';
+import  { createJSON } from 'data-extractor/examples/createJSON.js';
 
-const result = library(args);
-// result is ...
+const object = {}; //Your object
+const targetDirectory = ''; //PATH to the destination
+const filename = ''; //name of the JSON-file
+
+createJSON(object,targetDirectory,filename);
 ```
+
+For the simplest usage and as an example a little code called 'test.js' has been created in the examples/ directory. This code will scann all the files located in /data/data and parse all the products assigend to a spectral or physical analysis and create a JSON file names 'result.json' containing those products and their spetral and physical analysis.
 
 ## [API Documentation](https://cheminfo.github.io/data-extractor/)
 
