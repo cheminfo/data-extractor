@@ -1,7 +1,7 @@
 import cheerio from 'cheerio';
 
 /**
- * @typedef  singleCandidates - those correspond to single products object
+ * @typedef  singleCandidates - those correspond to single-products object
  * @type {Object[]}
  * @property {string} filename - is the filename where the product has been found, inherited from 'candidates'.
  * @property {string} doi - is the doi of the article inherited from 'candidates'.
@@ -10,12 +10,12 @@ import cheerio from 'cheerio';
  */
 /**
  * From an array of single or multi product,s block returns and array of single product objects.
- * @param {Object[]} candidates - array of objects passed by 'getCandidates.js' containaing one or multiple candidates
- * @param {string} candidates[].filename - is the filename where the product has been found, inherited from 'candidates'.
- * @param {string} candidates[].doi - is the doi of the article inherited from 'candidates'.
- * @param {string} candidates[].dom - the DOM to be parsed for candidate recognition.
+ * @param {Object[]} candidates - array of objects passed by 'getCandidates.js' containaing one or multiple product-candidates.
+ * @param {string} candidates[].filename - is the filename where the product has been found, inherited from 'getCandidates'.
+ * @param {string} candidates[].doi - is the doi of the article inherited from 'getCandidates'.
+ * @param {string} candidates[].dom - the DOM to be parsed for single-candidate recognition.
  * @type {singleCandidates[]}
- * @return {singleCandidates[]} singleCandidates - {filename, name, text} name is the extracted name of the product, text is the related synthesis and charaterization
+ * @return {singleCandidates[]} singleCandidates - are the returned single-bloc products.
  */
 
 export function splitCandidates(candidates) {

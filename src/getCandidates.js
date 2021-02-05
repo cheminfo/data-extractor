@@ -10,9 +10,9 @@ import cheerio from 'cheerio';
  * @property {string} dom - DOM of the paragraph containing the synthesis of the identified product
  */
 /**
- * Returns an array of candidates (single or multi-product,s block) as DOM-strings, all containing an NMR reference
+ * Returns an array of candidates from .xml file (single or multi-product,s block) as DOM-strings, all containing an NMR reference
  * @param {string} file The filename is the absolute PATH to the file.xml
- * @return {matches[]} matches - returns an array containing all candidates matching the conditions
+ * @return {matches[]} matches - returns an array containing all candidates matching the NMR-reference conditions
  */
 
 export function getCandidates(file) {

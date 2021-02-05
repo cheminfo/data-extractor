@@ -1,16 +1,16 @@
 /**
  * @typedef {Object} result
  * @property {Object} general
- * @property {{values: string, language: string}[]} general.name - is the array containing all the names (value) associated with the product and language identifier
+ * @property {{values: string, language: string}[]} general.name - is the array containing all the names (value) associated with the product and a language identifier.
  * @property {Object} general.meta - are the identification data of the literature and associated file.
  * @property {string} general.meta.doi - is the DOI of the literature the product originates from.
- * @property {string} general.meta.filename - is the filename (containing extensions)
- * @property {Object} physical - contains all the physical data used for determination in the literature
+ * @property {string} general.meta.filename - is the filename (containing extensions).
+ * @property {Object} physical - contains all the physical data used for determination in the literature.
  * @property {{low: number, high: number}[]} bp - contains an array with low and high limit temperature for the boiling point.
  * @property {{low: number, high: number}[]} mp - contains an array with low and high limit temperature for the melting point
  */
 /**
- * This modules is part of the parsers and recovers physical constant determinations from a textsource
+ * This modules is part of the parsers and recovers physical constant determinations from a textsource (boiling and melting points).
  * @param {{name: {values: string, languague: string}[], meta: {doi : string, filename: string}}} result  - is the intitial and final object where the parsed characterization will be append.
  * @param {string} text - is the source-texte used for scanning and finding physical data through regex-based process
  * @param {Object} options - is a debug option to add the actual parsed text in a property called source.

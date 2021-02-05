@@ -5,14 +5,14 @@
 [![Test coverage][codecov-image]][codecov-url]
 [![npm download][download-image]][download-url]
 
-This code is intended for the extraction of spectral and physical properties used in the dertermination of chemical products from litterature.
+This code is intended for the extraction of spectral and physical properties used in the dertermination of chemical products from the literature. In particular it provides parsing modules for NMR,IR spectral anaylsis, elemental analysis, physical properties (boiling and melting points) and will provide (if possible) a molfile for the product, provided that the product's name is provided using IUPAC standards.
 
 ## Installation
 
 `$ npm i data-extractor`
 
 ## Usage
-The whole recognition and parsing processes are triggered by the extractData() method in extractData.js, that can be incorporated in any .js script located at the 'src' using an asyn function level as follows :
+The whole recognition and parsing processes are triggered by the extractData() method in extractData.js, that can be incorporated in any .js script located at the 'src' repository level using an asyn function as follows :
 ```js
 import { extractData } from 'data-extractor/src/extractData.js'
 
@@ -24,9 +24,9 @@ async function data-extractor() {
 
 const products = data-extractor();
 ```
-The retruned result is an array of object, each object represents a product identified by its name and the DOI of the publication it was found in.
+The retruned result is an array of object, each object represents a product identified by its name and the DOI of the publication it was found in, along with the filename the literature originates from.
 
-The returned array can easily be stored in a JSON file using the little hand-coded module 'createJSON':
+The returned array can easily be stored in a JSON file using the little hand-coded module 'createJSON()' in examples/createJSON.js:
 
 ```js
 import  { createJSON } from 'data-extractor/examples/createJSON.js';
@@ -38,7 +38,7 @@ const filename = ''; //name of the JSON-file
 createJSON(object,targetDirectory,filename);
 ```
 
-For the simplest usage and as an example a little code called 'example.js' has been created in the examples/ directory. This code will scann all the files located in /data/data and parse all the products assigned to a spectral or physical analysis and create a JSON file name 'result-test.json' containing those products and their spetral and physical parsed analysis.
+For the simplest usage and as an example a little code called 'example.js' has been created in the examples/ repository. This code will scann all the files located in /data/data and parse all the products assigned to a spectral or physical analysis and create a JSON file named 'result-test.json' containing those products and their parsed spectral and physical  analysis.
 
 ## [API Documentation](https://cheminfo.github.io/data-extractor/)
 

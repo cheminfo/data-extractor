@@ -1,6 +1,6 @@
 /**
- * This module is one of the parsers implemented to retrieve NMR-spectrum from the text-source associated with each product. The module itsel is divided
- * into 2 main functions the first (retrievePeaks) will identifiy the nmr-tag and scann caracter by carater identifying several peaks,
+ * This module is one of the parsers implemented to retrieve NMR-spectrum from the text-source associated with each product. The module itself is divided
+ * into 2 main functions the first (retrievePeaks) will identifiy the nmr-tag and scann character by charater identifying several peaks,
  * the second one (parseSpectrum) will loop upon each retrieved spectrum and parse the general properties of the spectrum along with the single peaks and their porperties.
  * @param {{name: {values: string, languague: string}[], meta: {doi : string, filename: string}}} result  - is the intitial and final object where the parsed characterization will be append.
  * @param {String} text - the text source to be parsed in order to retrieve nmr-characteirzation
@@ -40,7 +40,7 @@ function retrievePeaks(text) {
           if (text[j] === ')') parenthesisLevel--;
           if (
             parenthesisLevel === 0 && // again peak-properties are discarded from identification at this point and assimilated to the peak-string.
-            (!/[0-9\.–~～—\s-]/i.test(text[j]) || j === text.length - 1) // peaks recognition ends upon a character that does not correspond either to a number (digit or point) or an interval (more tricky).
+            (!/[0-9.–~～—\s-]/i.test(text[j]) || j === text.length - 1) // peaks recognition ends upon a character that does not correspond either to a number (digit or point) or an interval (more tricky).
           ) {
             if (j - i > 2) {
               // ensures that the identified peak contains more than a single caracter (prevents '1H-NMR' to be parsed as a '1' peak).
@@ -72,10 +72,10 @@ function parseSpectrum(result, spectra) {
     if (!result.spectra.nmr) result.spectra.nmr = [];
     let currentNmr = {}; //current nmr object to be append to param. 'result' object.
     let remain = nmrString.slice(0, nmrString.indexOf(peaks[0])); // the reamin usually contains the general properties of the spectrum (frequency, solven, ppm etc...)
-    if (/\([^\)]+\)/.test(remain)) {
+    if (/\([^)]+\)/.test(remain)) {
       let nmrProperties = remain
-        .match(/\([^\)]+\)/)[0]
-        .replace(/[\(\)]/g, '')
+        .match(/\([^)]+\)/)[0]
+        .replace(/[()]/g, '')
         .split(',');
       // This loop will parse the general properties of the spectrum found in the first paranthesis of 'remain'.
       for (let genProperty of nmrProperties) {
@@ -109,7 +109,7 @@ function parseSpectrum(result, spectra) {
       let currentPeak = {};
       // value/interval recognition of the peak
       let values = peak
-        .replace(/\([^\)]+\)/, '') //discard the general properties in parenthesis (may conatin a number miss-identified as a value)
+        .replace(/\([^)]+\)/, '') //discard the general properties in parenthesis (may conatin a number miss-identified as a value)
         .trim()
         .match(/[0-9]+(\.[0-9]+)?/g);
       if (values.length > 1) {
@@ -130,7 +130,7 @@ function parseSpectrum(result, spectra) {
         // If the identified peaks contains specific properties in paranthesis
         let properties = peak
           .match(/\([^)]+\)/)[0]
-          .replace(/[\(\)]/g, '')
+          .replace(/[()]/g, '')
           .split(','); //each property is separated from one another with a comma !!
         for (let property of properties) {
           // The sequence of conditions is intended to follow as much as possible the general properties order (integration,multiplicity,coupling,assignements)

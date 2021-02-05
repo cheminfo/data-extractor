@@ -7,7 +7,7 @@ import { createJSON } from './createJSON';
 async function doAll() {
   const homedir = join(__dirname, '../data/data');
   let products = await extractData(homedir);
-  createJSON(products, __dirname, 'resul-test.json');
+  createJSON(products, __dirname, 'resul-test2.json');
 }
 
 doAll();

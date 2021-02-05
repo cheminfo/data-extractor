@@ -1,25 +1,25 @@
 import appendIR from './parser/appendIR';
 import appendAnal from './parser/appendMass';
 import appendMolfile from './parser/appendMolfile';
-import appendPhysical from './parser/appendPhysical';
 import appendNMR from './parser/appendNMR';
+import appendPhysical from './parser/appendPhysical';
 
 /**
  * @typedef {Object} parsedProducts
  * @property {Object} general
- * @property {{values: string, language: string}[]} general.name - is the array containing all the names (value) associated with the product and language identifier
+ * @property {{values: string, language: string}[]} general.name - is the array containing all the names (value) associated with the product and a language identifier.
  * @property {Object} general.meta - are the identification data of the literature and associated file.
  * @property {string} general.meta.doi - is the DOI of the literature the product originates from.
- * @property {string} general.meta.filename - is the filename (con)
+ * @property {string} general.meta.filename - is the filename (containing .xml extension)
  */
 
 /**
- * The module takes single-product objects (with text content) in an array and returns an array of parsed product-objects. The parsing is done calling upon parser-modules found at src/parser.
- * @param {Object[]} products - object inherited from splitCanidates.js
+ * The module takes single-product objects (with text content) in an array and returns an array of parsed single product-objects. The parsing is done calling upon the parser-modules found at src/parser.
+ * @param {Object[]} products - object inherited from splitCanidates.js (initial and final object)
  * @param {string} products[].doi - the DOI of the litterature the product was found in.
  * @param {string} products[].name - name of the product (assigned by the litterature !).
  * @param {string} products[].filename - is the filename associated with the litterature (containing extension : should be .xml).
- * @return {parsedProducts[]} parsedProducts - those are the resulting parsed single products
+ * @return {parsedProducts[]} parsedProducts - those are the resulting parsed single products.
  */
 
 export async function parseProducts(products, options) {

@@ -1,14 +1,14 @@
 /**
  * @typedef {Object} result
  * @property {Object} general
- * @property {{values: string, language: string}[]} general.name - is the array containing all the names (value) associated with the product and language identifier
+ * @property {{values: string, language: string}[]} general.name - is the array containing all the names (value) associated with the product and a language identifier.
  * @property {Object} general.meta - are the identification data of the literature and associated file.
  * @property {string} general.meta.doi - is the DOI of the literature the product originates from.
- * @property {string} general.meta.filename - is the filename (containing extensions)
- * @property {Object[]} spectra - those are the parsed spectrum data
+ * @property {string} general.meta.filename - is the filename (containing extensions).
+ * @property {Object[]} spectra - those are the parsed spectrum data.
  * @property {Object[]} spectra.ir - contains all the IR-spectra provided in the text-source.
  * @property {Object[]} spectra.ir[].peaks - contains all the peak of a spectrum
- * @property {number} spectra.ir[].peaks[].value - contains the wavelength [cm-1] of each peak
+ * @property {number} spectra.ir[].peaks[].value - contains the wavelength [cm-1] of each peak.
  * @property {string} spectra.ir[].peaks[].kind - to be determined !! / virbational mode ?
  * @property {string} spectra.ir[].conditions - all extra information about the spectrum provided by the litterature (to be parsed ?).
  */
@@ -42,10 +42,10 @@ export default function appendIR(result, text, options = {}) {
         }
       }
       //Retrieving the general properties of the spectrum (if provided), identified by '(...)'
-      if (/\([^\)]+\)/.test(remain.replace('cm-1', ''))) {
+      if (/\([^)]+\)/.test(remain.replace('cm-1', ''))) {
         currentIR.conditions = remain
           .replace('cm-1', '')
-          .match(/\([^\)]+\)/)[0]
+          .match(/\([^)]+\)/)[0]
           .replace(/\(|\)/g, '');
       }
       if (!result.spectra) result.spectra = {};

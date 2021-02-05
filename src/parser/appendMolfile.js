@@ -9,10 +9,10 @@ import OCL from 'openchemlib';
 /**
  * @typedef {Object} result
  * @property {Object} general
- * @property {{values: string, language: string}[]} general.name - is the array containing all the names (value) associated with the product and language identifier
+ * @property {{values: string, language: string}[]} general.name - is the array containing all the names (value) associated with the product and a language identifier.
  * @property {Object} general.meta - are the identification data of the literature and associated file.
  * @property {string} general.meta.doi - is the DOI of the literature the product originates from.
- * @property {string} general.meta.filename - is the filename (containing extensions)
+ * @property {string} general.meta.filename - is the filename (containing extensions).
  * @property {string} general.molfile - is the retrieved molfile if provided by the external source.
  */
 
@@ -56,7 +56,6 @@ export default async function appendMolfile(result) {
     let molecule = OCL.Molecule.fromMolfile(molfile);
     let mf = molecule.getMolecularFormula().formula;
     let mfInfo = new MF(mf).getInfo();
-    // todo: check property names
     result.general.mf = mfInfo.molecularFormula;
     result.general.mw = mfInfo.mass;
     result.general.em = mfInfo.monoisotopicMass;
